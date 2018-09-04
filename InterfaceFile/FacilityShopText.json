@@ -1,0 +1,674 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Berund Atelier text",
+  "RelativePath": "InterfaceFile\\FacilityShopText.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Dat'll be [Variable1:0]en.",
+        "Ya still want it?",
+        ""
+      ],
+      "Translation": [
+        "Das macht dann [Variable1:0]en.",
+        "Wollt Ihr immer noch kaufen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Item purchased.",
+        "Will you equip it?",
+        ""
+      ],
+      "Translation": [
+        "Gegenstand wurde gekauft.",
+        "Jetzt ausrüsten?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Equipped the item.",
+        ""
+      ],
+      "Translation": [
+        "Gegenstand ausgerüstet.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "I'll pay [Variable1:0]en for dat.",
+        "Ya still wanna sell it?",
+        ""
+      ],
+      "Translation": [
+        "Ich zahl' euch [Variable1:0]en dafür.",
+        "Wollt Ihr verkaufen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Sold [Variable1:0] x[Variable1:1].",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] [Variable1:0] verkauft.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "You can change the party's",
+        "equipment on the bottom screen.",
+        ""
+      ],
+      "Translation": [
+        "Verändert die Ausrüstung der",
+        "Gruppe auf dem unteren Bildschirm.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Buy various goods.",
+        ""
+      ],
+      "Translation": [
+        "Kauft verschiedene Waren.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Sell accumulated goods.",
+        ""
+      ],
+      "Translation": [
+        "Verkauft angesammelte Waren.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Enhance your weapons.",
+        ""
+      ],
+      "Translation": [
+        "Verbessert eure Waffen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Talk to Wynne.",
+        ""
+      ],
+      "Translation": [
+        "Sprecht mit Wynne.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Change your equipment.",
+        ""
+      ],
+      "Translation": [
+        "Ändert eure Ausrüstung.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Return to the plaza.",
+        ""
+      ],
+      "Translation": [
+        "Kehrt zum Hauptplatz zurück.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Bought [Variable1:0].",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] gekauft.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You cannot carry any more items!",
+        ""
+      ],
+      "Translation": [
+        "Ihr könnt keine weiteren",
+        "Gegenstände tragen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Select a slot on the",
+        "bottom screen.",
+        ""
+      ],
+      "Translation": [
+        "Wählt einen Slot auf",
+        "dem unteren Bildschirm.",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetung für \"Slot\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You have nothing to sell!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt nichts zu verkaufen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Sell the [Variable1:1] selected item(s)",
+        "for [Variable1:2]en?",
+        ""
+      ],
+      "Translation": [
+        "Die [Variable1:1] ausgewählten Gegenstände",
+        "für [Variable1:2]en verkaufen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "You can change the party's",
+        "equipment on the bottom screen.",
+        ""
+      ],
+      "Translation": [
+        "Verändert die Ausrüstung der",
+        "Gruppe auf dem unteren Bildschirm.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "New items are available!",
+        ""
+      ],
+      "Translation": [
+        "Neue Gegenstände sind verfügbar!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "A new item is in stock!",
+        "[Variable2:0][Color:6][Variable1:0][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Ein neuer Gegenstand ist verfügbar!",
+        "[Variable2:0][Color:6][Variable1:0][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "You need [Variable1:1] more of [Variable1:0].",
+        ""
+      ],
+      "Translation": [
+        "Ihr benötigt [Variable1:1] mehr [Variable1:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You need [Variable1:1] more of [Variable1:0],",
+        "and [Variable1:3] more of [Variable1:2].",
+        ""
+      ],
+      "Translation": [
+        "Ihr benötigt [Variable1:1] mehr [Variable1:0],",
+        "sowie [Variable1:3] mehr [Variable1:2].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "You need [Variable1:1] more of [Variable1:0],",
+        "[Variable1:3] more of [Variable1:2],",
+        "and [Variable1:5] more of [Variable1:4].",
+        ""
+      ],
+      "Translation": [
+        "Ihr benötigt [Variable1:1] mehr [Variable1:0],",
+        "[Variable1:3] mehr [Variable1:2],",
+        "sowie [Variable1:5] mehr [Variable1:4].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "That costs [Variable1:0]en. Do you still",
+        "want it? [Color:11](Cannot equip this item.)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Das macht [Variable1:0]en. Wollt Ihr",
+        "es kaufen? [Color:11](Nicht ausrüstbar.)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Items that have been forged",
+        "cannot be sold in bulk!",
+        ""
+      ],
+      "Translation": [
+        "Geschmiedete Gegenstände können",
+        "nicht in Masse verkauft werden!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": true,
+      "Original": [
+        "ドールは二刀流として装備できません",
+        "他の武器が外れますが装備しますか?",
+        ""
+      ],
+      "Translation": [
+        "ドールは二刀流として装備できません",
+        "他の武器が外れますが装備しますか?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "That cannot be removed without",
+        "first discarding something.",
+        ""
+      ],
+      "Translation": [
+        "Das kann nicht entfernt werden,",
+        "ohne vorher etwas wegzuwerfen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": true,
+      "Original": [
+        "購入しました、装備しますか?",
+        "[Color:11]※ドールは二刀流が解除されます[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "購入しました、装備しますか?",
+        "[Color:11]※ドールは二刀流が解除されます[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Your inventory is too full to buy",
+        "anything. You can only sell.",
+        ""
+      ],
+      "Translation": [
+        "Euer Inventar ist voll, weshalb Ihr",
+        "nur Gegenstände verkaufen könnt.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": true,
+      "Original": [
+        "割引券を商品購入時に使用しますか?",
+        ""
+      ],
+      "Translation": [
+        "割引券を商品購入時に使用しますか?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "You have equipped a [Color:3]subweapon[Color:0],",
+        "enabling you to use that weapon's",
+        "skills in battle!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt eine [Color:3]Zusatzwaffe[Color:0]",
+        "ausgerüstet! Ihr könnt die Fähigkeiten",
+        "dieser Waffe im Kampf benutzen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Do you wish to sell [Variable1:0] materials",
+        "for [Variable1:1]en?",
+        ""
+      ],
+      "Translation": [
+        "Wollt Ihr [Variable1:0] Material für",
+        "[Variable1:1]en verkaufen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "All materials have been sold.",
+        ""
+      ],
+      "Translation": [
+        "Alle Materialien wurden verkauft.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "You have no materials to sell!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt keine Materialien zu verkaufen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Bought [Variable1:0] x[Variable1:1].",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] [Variable1:0] gekauft.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Equip the purchased item?",
+        "[Color:11]*Your usable skills will change.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Gekaufen Gegenstand ausrüsten?",
+        "[Color:11]＊Verwendbare Fähigkeiten ändern sich.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "The change in equipment has changed",
+        "the skills that can be used.",
+        ""
+      ],
+      "Translation": [
+        "Durch den Wechsel der Ausrüstung haben",
+        "sich die verwendbaren Fähigkeiten verändert.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Sold the [Variable1:0] selected item(s).",
+        ""
+      ],
+      "Translation": [
+        "Die [Variable1:0] ausgewählten Gegenstände",
+        "wurden verkauft.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "This character's equipment cannot",
+        "be changed!",
+        ""
+      ],
+      "Translation": [
+        "Die Ausrüstung dieses Charakters kann",
+        "nicht verändert werden!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "A [Color:3]drive blade[Color:0] is currently equipped.",
+        "Subweapons cannot be equipped while",
+        "a drive blade is in use.",
+        ""
+      ],
+      "Translation": [
+        "Eine [Color:3]Antriebsklinge[Color:0] ist ausgerüstet.",
+        "Zusatzwaffen können nicht zusammen mit",
+        "Antriebsklingen ausgerüstet werden.",
+        ""
+      ],
+      "Notes": [
+        "\"Drive blade\" = \"Antriebsklinge\"? Englischen Begriff behalten? Hmm…",
+        ""
+      ]
+    }
+  ]
+}

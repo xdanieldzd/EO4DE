@@ -1,0 +1,56 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_44",
+  "RelativePath": "Event\\Bar\\BAR_44.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Are you people new explorers? Did you",
+        "get your weapons and armor already?",
+        "If not, try the Berund Atelier.",
+        "[Page]",
+        "",
+        "The first rule of battle is to make",
+        "sure your weapon is sharp and your",
+        "armor can take a hit.",
+        "[Page]",
+        "",
+        "The shop's also a good place to check",
+        "and see which materials they need to",
+        "make the equipment you want.",
+        "[Page]",
+        "",
+        "Once you know which material you're",
+        "after, you can probably figure out",
+        "which monster drops it.",
+        ""
+      ],
+      "Translation": [
+        "Are you people new explorers? Did you",
+        "get your weapons and armor already?",
+        "If not, try the Berund Atelier.",
+        "[Page]",
+        "",
+        "The first rule of battle is to make",
+        "sure your weapon is sharp and your",
+        "armor can take a hit.",
+        "[Page]",
+        "",
+        "The shop's also a good place to check",
+        "and see which materials they need to",
+        "make the equipment you want.",
+        "[Page]",
+        "",
+        "Once you know which material you're",
+        "after, you can probably figure out",
+        "which monster drops it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_54",
+  "RelativePath": "Event\\Bar\\BAR_54.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Hey! HEY! You guys scared yet!?",
+        "I'm gonna kill you so hard your",
+        "whole species will be endangered!",
+        "[Page]",
+        "",
+        "Oh, am I being too loud? Sorry.",
+        "My job's to protect my party by",
+        "distracting the enemy.",
+        "[Page]",
+        "",
+        "This is how I practice... Hey, you!",
+        "Yeah, I'm talking to you, you red-",
+        "assed joke of a baboon!",
+        ""
+      ],
+      "Translation": [
+        "Hey! HEY! You guys scared yet!?",
+        "I'm gonna kill you so hard your",
+        "whole species will be endangered!",
+        "[Page]",
+        "",
+        "Oh, am I being too loud? Sorry.",
+        "My job's to protect my party by",
+        "distracting the enemy.",
+        "[Page]",
+        "",
+        "This is how I practice... Hey, you!",
+        "Yeah, I'm talking to you, you red-",
+        "assed joke of a baboon!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

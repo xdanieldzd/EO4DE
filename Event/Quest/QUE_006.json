@@ -1,0 +1,379 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_006",
+  "RelativePath": "Event\\Quest\\QUE_006.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "This is a request specifically to",
+        "investigate [Color:5]B2F[Color:0] of the [Color:5]Lush Woodlands[Color:0].",
+        "[Page]",
+        "",
+        "It mentions a large hole in an",
+        "unnaturally caved-in area on the",
+        "southern path... Have you seen this?",
+        "[Page]",
+        "",
+        "The client took a lit torch at [Color:5]night[Color:0]",
+        "to look inside, and was met with an",
+        "unknown monster springing out.",
+        "[Page]",
+        "",
+        "My hopes are that it is merely a",
+        "misunderstanding... but someone must",
+        "look into it. If that will be you...",
+        "[Page]",
+        "",
+        "Then I await your swift return.",
+        "The Woodlands are dangerous at night,",
+        "so be on your guard.",
+        ""
+      ],
+      "Translation": [
+        "This is a request specifically to",
+        "investigate [Color:5]B2F[Color:0] of the [Color:5]Lush Woodlands[Color:0].",
+        "[Page]",
+        "",
+        "It mentions a large hole in an",
+        "unnaturally caved-in area on the",
+        "southern path... Have you seen this?",
+        "[Page]",
+        "",
+        "The client took a lit torch at [Color:5]night[Color:0]",
+        "to look inside, and was met with an",
+        "unknown monster springing out.",
+        "[Page]",
+        "",
+        "My hopes are that it is merely a",
+        "misunderstanding... but someone must",
+        "look into it. If that will be you...",
+        "[Page]",
+        "",
+        "Then I await your swift return.",
+        "The Woodlands are dangerous at night,",
+        "so be on your guard.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Did you figure out the",
+        "mystery of the hole?",
+        "[Page]",
+        "",
+        "A monster did indeed emerge from it?",
+        "Hmm... It may be best sometimes to",
+        "leave well enough alone.",
+        "[Page]",
+        "",
+        "Though there is some irony in saying",
+        "that to a band of professional",
+        "explorers...",
+        "[Page]",
+        "",
+        "I again thank you. I shall let my",
+        "other explorer patrons know to be",
+        "more careful in their outings.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Did you figure out the",
+        "mystery of the hole?",
+        "[Page]",
+        "",
+        "A monster did indeed emerge from it?",
+        "Hmm... It may be best sometimes to",
+        "leave well enough alone.",
+        "[Page]",
+        "",
+        "Though there is some irony in saying",
+        "that to a band of professional",
+        "explorers...",
+        "[Page]",
+        "",
+        "I again thank you. I shall let my",
+        "other explorer patrons know to be",
+        "more careful in their outings.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Despite being caught in an ambush,",
+        "you manage to defeat the hideous",
+        "scorpion!",
+        "[Page]",
+        "",
+        "Your previous experience has not shown",
+        "B2F to be a habitat for scorpions...",
+        "You wonder where it came from.",
+        "[Page]",
+        "",
+        "It raises several questions, but for",
+        "now, you write your report on a scroll",
+        "that you might deliver it to the bar.",
+        ""
+      ],
+      "Translation": [
+        "Despite being caught in an ambush,",
+        "you manage to defeat the hideous",
+        "scorpion!",
+        "[Page]",
+        "",
+        "Your previous experience has not shown",
+        "B2F to be a habitat for scorpions...",
+        "You wonder where it came from.",
+        "[Page]",
+        "",
+        "It raises several questions, but for",
+        "now, you write your report on a scroll",
+        "that you might deliver it to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the specified location",
+        "on B2F with the hole spoken of in the",
+        "request you accepted.",
+        "[Page]",
+        "",
+        "Just as you were told at the bar,",
+        "there is a gaping hole here that",
+        "appears bottomless...",
+        "[Page]",
+        "",
+        "But it seems harmless enough. Perhaps",
+        "you must come here at night, as the",
+        "request mentioned.",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the specified location",
+        "on B2F with the hole spoken of in the",
+        "request you accepted.",
+        "[Page]",
+        "",
+        "Just as you were told at the bar,",
+        "there is a gaping hole here that",
+        "appears bottomless...",
+        "[Page]",
+        "",
+        "But it seems harmless enough. Perhaps",
+        "you must come here at night, as the",
+        "request mentioned.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "After darkness falls, you arrive at",
+        "the specified location on B2F spoken",
+        "of in the request you accepted.",
+        "[Page]",
+        "",
+        "Just as you were told at the bar,",
+        "there is a gaping hole here that",
+        "appears bottomless...",
+        "[Page]",
+        "",
+        "In order to fulfill the request, you",
+        "must ready a torch and shed light",
+        "into it.",
+        ""
+      ],
+      "Translation": [
+        "After darkness falls, you arrive at",
+        "the specified location on B2F spoken",
+        "of in the request you accepted.",
+        "[Page]",
+        "",
+        "Just as you were told at the bar,",
+        "there is a gaping hole here that",
+        "appears bottomless...",
+        "[Page]",
+        "",
+        "In order to fulfill the request, you",
+        "must ready a torch and shed light",
+        "into it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Shed light into the hole?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Shed light into the hole?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "You cautiously look into the hole,",
+        "angling your torch to cast the light",
+        "deeper inside...",
+        "[Page]",
+        "",
+        "When suddenly, a scratching sound",
+        "echoes from the hole and a hideous",
+        "scorpion jumps out!",
+        ""
+      ],
+      "Translation": [
+        "You cautiously look into the hole,",
+        "angling your torch to cast the light",
+        "deeper inside...",
+        "[Page]",
+        "",
+        "When suddenly, a scratching sound",
+        "echoes from the hole and a hideous",
+        "scorpion jumps out!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "As the story you heard went, it was",
+        "shedding light into the hole that",
+        "caused the monster to emerge.",
+        "[Page]",
+        "",
+        "Thinking that you cannot be too",
+        "careful, you decide to survey the",
+        "situation first.",
+        ""
+      ],
+      "Translation": [
+        "As the story you heard went, it was",
+        "shedding light into the hole that",
+        "caused the monster to emerge.",
+        "[Page]",
+        "",
+        "Thinking that you cannot be too",
+        "careful, you decide to survey the",
+        "situation first.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

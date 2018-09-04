@@ -1,0 +1,1176 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Dungeon descriptions (short)",
+  "RelativePath": "InterfaceFile\\DungeonExplain.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "A natural labyrinth in the Windy",
+        "Plains, home to dangerous beasts.",
+        ""
+      ],
+      "Translation": [
+        "A natural labyrinth in the Windy",
+        "Plains, home to dangerous beasts.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "The thick mist and unvarying",
+        "scenery disorient many explorers.",
+        ""
+      ],
+      "Translation": [
+        "The thick mist and unvarying",
+        "scenery disorient many explorers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Heated streams flow through",
+        "this humid grotto.",
+        ""
+      ],
+      "Translation": [
+        "Heated streams flow through",
+        "this humid grotto.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "A library left by the creators",
+        "of Yggdrasil, with odd statuary.",
+        ""
+      ],
+      "Translation": [
+        "A library left by the creators",
+        "of Yggdrasil, with odd statuary.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "A mysterious research facility.",
+        "Yggdrasil's power may sleep here.",
+        ""
+      ],
+      "Translation": [
+        "A mysterious research facility.",
+        "Yggdrasil's power may sleep here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "A large, gloomy library, located",
+        "away from Yggdrasil.",
+        ""
+      ],
+      "Translation": [
+        "A large, gloomy library, located",
+        "away from Yggdrasil.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "An old mine, long deserted,",
+        "in the forest west of Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "An old mine, long deserted,",
+        "in the forest west of Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "A small forest abundant with",
+        "fruits, herbs, and wild animals.",
+        ""
+      ],
+      "Translation": [
+        "A small forest abundant with",
+        "fruits, herbs, and wild animals.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "A clear spring in a valley where",
+        "Bounding Beasts make their home.",
+        ""
+      ],
+      "Translation": [
+        "A clear spring in a valley where",
+        "Bounding Beasts make their home.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "A forest for stray Bloodbears.",
+        "The bushes make passage hard.",
+        ""
+      ],
+      "Translation": [
+        "A forest for stray Bloodbears.",
+        "The bushes make passage hard.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "Description on small dungeon45",
+        ""
+      ],
+      "Translation": [
+        "Description on small dungeon45",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Home to dangerous giant moths,",
+        "as well as rare plant monsters.",
+        ""
+      ],
+      "Translation": [
+        "Home to dangerous giant moths,",
+        "as well as rare plant monsters.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "The sulfurous reek here warns",
+        "against staying inside for long.",
+        ""
+      ],
+      "Translation": [
+        "The sulfurous reek here warns",
+        "against staying inside for long.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Frogs croak year round. Footing",
+        "here is bad; tread carefully.",
+        ""
+      ],
+      "Translation": [
+        "Frogs croak year round. Footing",
+        "here is bad; tread carefully.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Description on small dungeon24",
+        ""
+      ],
+      "Translation": [
+        "Description on small dungeon24",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Description on small dungeon25",
+        ""
+      ],
+      "Translation": [
+        "Description on small dungeon25",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Purple-winged bats flit to and",
+        "fro through this small cavern.",
+        ""
+      ],
+      "Translation": [
+        "Purple-winged bats flit to and",
+        "fro through this small cavern.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "A poisonous lizard's breath",
+        "has befouled the very air here.",
+        ""
+      ],
+      "Translation": [
+        "A poisonous lizard's breath",
+        "has befouled the very air here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "The frozen lake and its ice",
+        "pillars have formed a labyrinth.",
+        ""
+      ],
+      "Translation": [
+        "The frozen lake and its ice",
+        "pillars have formed a labyrinth.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "Description on small dungeon34",
+        ""
+      ],
+      "Translation": [
+        "Description on small dungeon34",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "Description on small dungeon35",
+        ""
+      ],
+      "Translation": [
+        "Description on small dungeon35",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "The book-filled rendezvous point",
+        "specified by the Empire.",
+        ""
+      ],
+      "Translation": [
+        "The book-filled rendezvous point",
+        "specified by the Empire.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "The gusts of wind from the north",
+        "blow away any who are unprepared.",
+        ""
+      ],
+      "Translation": [
+        "The gusts of wind from the north",
+        "blow away any who are unprepared.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "A golden deer roaming its halls",
+        "acts as this library's guardian.",
+        ""
+      ],
+      "Translation": [
+        "A golden deer roaming its halls",
+        "acts as this library's guardian.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Description on small dungeon51",
+        ""
+      ],
+      "Translation": [
+        "Description on small dungeon51",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "Description on small dungeon52",
+        ""
+      ],
+      "Translation": [
+        "Description on small dungeon52",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

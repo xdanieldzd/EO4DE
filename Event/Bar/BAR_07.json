@@ -1,0 +1,451 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_07",
+  "RelativePath": "Event\\Bar\\BAR_07.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, gracious explorers... You took",
+        "my request! We need your help!",
+        "[Page]",
+        "",
+        "My son Raht heard about the discovery",
+        "of the [Color:5]Scarlet Pillars[Color:0] and rushed off",
+        "to see it for himself.",
+        "[Page]",
+        "",
+        "But yesterday... we got a terrifying",
+        "letter via carrier pigeon...",
+        ""
+      ],
+      "Translation": [
+        "Oh, gracious explorers... You took",
+        "my request! We need your help!",
+        "[Page]",
+        "",
+        "My son Raht heard about the discovery",
+        "of the [Color:5]Scarlet Pillars[Color:0] and rushed off",
+        "to see it for himself.",
+        "[Page]",
+        "",
+        "But yesterday... we got a terrifying",
+        "letter via carrier pigeon...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "\"Dear Mother,",
+        "How are you? I miss the good old days,",
+        "from before I sprained my ankle.",
+        "[Page]",
+        "",
+        "\"When I got to the Scarlet Pillars, I",
+        "went forward four paces. To the left,",
+        "I saw a pillar of light.",
+        "[Page]",
+        "",
+        "\"Naturally, I was curious, so I turned",
+        "and went 2 more paces. That's when a",
+        "monster blindsided me from the left.",
+        "[Page]",
+        "",
+        "\"So I turned right, went 5 paces,",
+        "turned right again and then went",
+        "4 more. But there was another beast!",
+        "[Page]",
+        "",
+        "\"So I turned my ship right and flew",
+        "4 paces that way, then turned all",
+        "the way around to face the monster.",
+        "[Page]",
+        "",
+        "\"Glaring at it, I retreated 3 paces,",
+        "and... After that, I can't remember",
+        "precisely what happened.",
+        "[Page]",
+        "",
+        "\"All I can be sure of is that I am",
+        "now a tragically lost soul who has",
+        "crashed and sprained his ankle.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Dear Mother,",
+        "How are you? I miss the good old days,",
+        "from before I sprained my ankle.",
+        "[Page]",
+        "",
+        "\"When I got to the Scarlet Pillars, I",
+        "went forward four paces. To the left,",
+        "I saw a pillar of light.",
+        "[Page]",
+        "",
+        "\"Naturally, I was curious, so I turned",
+        "and went 2 more paces. That's when a",
+        "monster blindsided me from the left.",
+        "[Page]",
+        "",
+        "\"So I turned right, went 5 paces,",
+        "turned right again and then went",
+        "4 more. But there was another beast!",
+        "[Page]",
+        "",
+        "\"So I turned my ship right and flew",
+        "4 paces that way, then turned all",
+        "the way around to face the monster.",
+        "[Page]",
+        "",
+        "\"Glaring at it, I retreated 3 paces,",
+        "and... After that, I can't remember",
+        "precisely what happened.",
+        "[Page]",
+        "",
+        "\"All I can be sure of is that I am",
+        "now a tragically lost soul who has",
+        "crashed and sprained his ankle.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Good explorers... Please find my poor",
+        "son and tell me where he is!",
+        "[Page]",
+        "",
+        "Once I have his location, I can tell",
+        "the rescue team where to look. I beg",
+        "of you...",
+        ""
+      ],
+      "Translation": [
+        "Good explorers... Please find my poor",
+        "son and tell me where he is!",
+        "[Page]",
+        "",
+        "Once I have his location, I can tell",
+        "the rescue team where to look. I beg",
+        "of you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, good explorers... Have you figured",
+        "out where my boy Raht is?",
+        ""
+      ],
+      "Translation": [
+        "Oh, good explorers... Have you figured",
+        "out where my boy Raht is?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Have you found Raht?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Have you found Raht?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, Raht... When I think of the danger",
+        "he could be in now... Curse whoever",
+        "discovered the Scarlet Pillars!",
+        ""
+      ],
+      "Translation": [
+        "Oh, Raht... When I think of the danger",
+        "he could be in now... Curse whoever",
+        "discovered the Scarlet Pillars!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "My son's letter is the only clue we",
+        "have. I'll read it again, so please",
+        "listen carefully.",
+        ""
+      ],
+      "Translation": [
+        "My son's letter is the only clue we",
+        "have. I'll read it again, so please",
+        "listen carefully.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "I feel so ashamed of my son...",
+        "Please find my boy!",
+        ""
+      ],
+      "Translation": [
+        "I feel so ashamed of my son...",
+        "Please find my boy!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "I-Is that true!? Then please show me",
+        "on the map where my son is!",
+        ""
+      ],
+      "Translation": [
+        "I-Is that true!? Then please show me",
+        "on the map where my son is!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, good! I'll tell the rescue team",
+        "right now!",
+        ""
+      ],
+      "Translation": [
+        "Oh, good! I'll tell the rescue team",
+        "right now!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "My son Raht wasn't at the location",
+        "where you said! What is the meaning",
+        "of this!?",
+        "[Page]",
+        "",
+        "I assure you, you do not want to face",
+        "the wrath of a mother frantic over",
+        "her son's safety!",
+        "[Page]",
+        "",
+        "Please... I'm begging you... Tell me",
+        "where he really is. You're my only",
+        "hope...!",
+        ""
+      ],
+      "Translation": [
+        "My son Raht wasn't at the location",
+        "where you said! What is the meaning",
+        "of this!?",
+        "[Page]",
+        "",
+        "I assure you, you do not want to face",
+        "the wrath of a mother frantic over",
+        "her son's safety!",
+        "[Page]",
+        "",
+        "Please... I'm begging you... Tell me",
+        "where he really is. You're my only",
+        "hope...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Oh! Raht... My Raht is safe! It's all",
+        "thanks to your help!",
+        "[Page]",
+        "",
+        "Thank you so much! I will never forget",
+        "your kindness...!",
+        "[Page]",
+        "",
+        "I've already left your reward with",
+        "Ms. Kirtida, so please claim it",
+        "from her.",
+        "[Page]",
+        "",
+        "But oh dear... It seems my son hasn't",
+        "learned his lesson at all.",
+        ""
+      ],
+      "Translation": [
+        "Oh! Raht... My Raht is safe! It's all",
+        "thanks to your help!",
+        "[Page]",
+        "",
+        "Thank you so much! I will never forget",
+        "your kindness...!",
+        "[Page]",
+        "",
+        "I've already left your reward with",
+        "Ms. Kirtida, so please claim it",
+        "from her.",
+        "[Page]",
+        "",
+        "But oh dear... It seems my son hasn't",
+        "learned his lesson at all.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Raht was such a quiet boy, who never",
+        "seemed interested in adventure. Why",
+        "is he being so reckless now...?",
+        "[Page]",
+        "",
+        "No child ever really grows up in the",
+        "eyes of his parents. I doubt I'll",
+        "ever understand what he's thinking.",
+        ""
+      ],
+      "Translation": [
+        "Raht was such a quiet boy, who never",
+        "seemed interested in adventure. Why",
+        "is he being so reckless now...?",
+        "[Page]",
+        "",
+        "No child ever really grows up in the",
+        "eyes of his parents. I doubt I'll",
+        "ever understand what he's thinking.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_035",
+  "RelativePath": "Event\\Quest\\QUE_035.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "This request is from a researcher",
+        "working for the Grand Court. Have you",
+        "ever been to the [Color:5]Underground Lake[Color:0]?",
+        "[Page]",
+        "",
+        "It is a frigid place, covered in ice.",
+        "Some say within that ice is preserved",
+        "the corpse of an ancient creature.",
+        "[Page]",
+        "",
+        "The researcher would like you to bring",
+        "its remains here to Tharsis.",
+        "[Page]",
+        "",
+        "But the ice is very thick... it will",
+        "not be easy to remove. I suppose that",
+        "is why they called upon you.",
+        "[Page]",
+        "",
+        "Take care, and I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Translation": [
+        "This request is from a researcher",
+        "working for the Grand Court. Have you",
+        "ever been to the [Color:5]Underground Lake[Color:0]?",
+        "[Page]",
+        "",
+        "It is a frigid place, covered in ice.",
+        "Some say within that ice is preserved",
+        "the corpse of an ancient creature.",
+        "[Page]",
+        "",
+        "The researcher would like you to bring",
+        "its remains here to Tharsis.",
+        "[Page]",
+        "",
+        "But the ice is very thick... it will",
+        "not be easy to remove. I suppose that",
+        "is why they called upon you.",
+        "[Page]",
+        "",
+        "Take care, and I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Did you manage to",
+        "excavate the ancient creature's",
+        "remains?",
+        "[Page]",
+        "",
+        "Oh, is this it? Hmm... a fossil of an",
+        "ancient creature. It looks like it",
+        "might get up and walk away.",
+        "[Page]",
+        "",
+        "But those wings have a sinister cast",
+        "to them... I wonder what kind of beast",
+        "it was when it was alive.",
+        "[Page]",
+        "",
+        "Well, I shall see that the researcher",
+        "gets it. Here, as promised, is your",
+        "reward for the request.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Did you manage to",
+        "excavate the ancient creature's",
+        "remains?",
+        "[Page]",
+        "",
+        "Oh, is this it? Hmm... a fossil of an",
+        "ancient creature. It looks like it",
+        "might get up and walk away.",
+        "[Page]",
+        "",
+        "But those wings have a sinister cast",
+        "to them... I wonder what kind of beast",
+        "it was when it was alive.",
+        "[Page]",
+        "",
+        "Well, I shall see that the researcher",
+        "gets it. Here, as promised, is your",
+        "reward for the request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "You reach your destination in search",
+        "of the ancient creature's remains",
+        "and see something in an ice pillar.",
+        "[Page]",
+        "",
+        "It is part of some creature's body...",
+        "But it is encased in thick ice and",
+        "cannot be reached.",
+        "[Page]",
+        "",
+        "If you intend to complete the request,",
+        "you must first do something about",
+        "this ice pillar.",
+        ""
+      ],
+      "Translation": [
+        "You reach your destination in search",
+        "of the ancient creature's remains",
+        "and see something in an ice pillar.",
+        "[Page]",
+        "",
+        "It is part of some creature's body...",
+        "But it is encased in thick ice and",
+        "cannot be reached.",
+        "[Page]",
+        "",
+        "If you intend to complete the request,",
+        "you must first do something about",
+        "this ice pillar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "You can see the remains of some",
+        "creature trapped in the pillar of",
+        "ice before you...",
+        "[Page]",
+        "",
+        "If you intend to complete the request,",
+        "you must first do something about",
+        "this ice pillar.",
+        ""
+      ],
+      "Translation": [
+        "You can see the remains of some",
+        "creature trapped in the pillar of",
+        "ice before you...",
+        "[Page]",
+        "",
+        "If you intend to complete the request,",
+        "you must first do something about",
+        "this ice pillar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "As you travel in search of the ancient",
+        "creature's remains, you spot the body",
+        "of an unknown animal at your feet.",
+        "[Page]",
+        "",
+        "Perhaps these frozen remains spilled",
+        "out after the ice melted...",
+        "[Page]",
+        "",
+        "Perhaps the ice preserved it well, but",
+        "it is hard to believe these remains",
+        "are ancient, due to their condition.",
+        "[Page]",
+        "",
+        "You need only take the remains back",
+        "with you to Tharsis in order to",
+        "complete the request.",
+        ""
+      ],
+      "Translation": [
+        "As you travel in search of the ancient",
+        "creature's remains, you spot the body",
+        "of an unknown animal at your feet.",
+        "[Page]",
+        "",
+        "Perhaps these frozen remains spilled",
+        "out after the ice melted...",
+        "[Page]",
+        "",
+        "Perhaps the ice preserved it well, but",
+        "it is hard to believe these remains",
+        "are ancient, due to their condition.",
+        "[Page]",
+        "",
+        "You need only take the remains back",
+        "with you to Tharsis in order to",
+        "complete the request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "The remains of an unknown animal are",
+        "scattered at your feet...",
+        "[Page]",
+        "",
+        "You need only take the remains back",
+        "with you to Tharsis in order to",
+        "complete the request.",
+        ""
+      ],
+      "Translation": [
+        "The remains of an unknown animal are",
+        "scattered at your feet...",
+        "[Page]",
+        "",
+        "You need only take the remains back",
+        "with you to Tharsis in order to",
+        "complete the request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Take the animal remains?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Take the animal remains?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You wrap the remains in a cloth and",
+        "put them with your belongings.",
+        ""
+      ],
+      "Translation": [
+        "You wrap the remains in a cloth and",
+        "put them with your belongings.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "The request is now complete! You can",
+        "go to the bar to collect your reward",
+        "whenever you are ready.",
+        ""
+      ],
+      "Translation": [
+        "The request is now complete! You can",
+        "go to the bar to collect your reward",
+        "whenever you are ready.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "You prioritize exploration over the",
+        "completion of the request and leave",
+        "the remains where they lie.",
+        ""
+      ],
+      "Translation": [
+        "You prioritize exploration over the",
+        "completion of the request and leave",
+        "the remains where they lie.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Underground Lake[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Underground Lake[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

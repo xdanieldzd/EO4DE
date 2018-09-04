@@ -1,0 +1,3333 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_01F",
+  "RelativePath": "Event\\Dungeon\\DUN_01F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You spy a mysterious pillar of light",
+        "ahead and stop to inspect it.",
+        "[Page]",
+        "",
+        "As you gaze upon it, wondering what",
+        "it could be, a nearby soldier",
+        "addresses you.",
+        ""
+      ],
+      "Translation": [
+        "Ihr erblickt eine seltsame Säule aus",
+        "Licht vor euch und haltet an,",
+        "um sie näher zu betrachten.",
+        "[Page]",
+        "",
+        "Während ihr sie bestaunt und euch",
+        "fragt, welche Bedeutung sie hat,",
+        "spricht euch an Soldat an.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "\"A curious thing, isn't it? That's",
+        "called a [Color:5]Geomagnetic Pole[Color:0].\"",
+        "[Page]",
+        "",
+        "The soldier points to the pillar of",
+        "light that stretches to the heavens.",
+        "[Page]",
+        "",
+        "\"You touch it, and you'll be able to",
+        "go to and fro between the city and",
+        "the forest in an eyeblink.",
+        "[Page]",
+        "",
+        "\"Don't bother asking around how it",
+        "works, though. It was here when the",
+        "explorers found this maze long ago.",
+        "[Page]",
+        "",
+        "\"But it's handy, that you can be sure of.",
+        "My advice? Put it to use, and never you",
+        "mind the particulars.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ein seltsames Ding, nicht wahr?",
+        "Man nennt es einen [Color:5]Geomagnetischen",
+        "Mast[Color:0].\"",
+        "[Page]",
+        "",
+        "Der Soldat zeigt auf die Säule aus Licht,",
+        "die sich zum Himmel erstreckt.",
+        "[Page]",
+        "",
+        "\"Berührt ihn, und Ihr könnt euch in",
+        "einem Augenblick zwischen der Stadt",
+        "und dem Wald hin- und herbewegen.",
+        "[Page]",
+        "",
+        "\"Fragt jedoch nicht, wie er funktioniert.",
+        "Er war bereits hier, als Entdecker",
+        "einst das Labyrinth fanden.",
+        "[Page]",
+        "",
+        "\"Wirklich eindeutig ist nur, dass der",
+        "Mast durchaus nützlich ist.",
+        "[Page]",
+        "",
+        "\"Wollt Ihr einen Rat? Benutzt ihn",
+        "einfach und macht euch keine",
+        "Gedanken über die Einzelheiten\".",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Having finished talking, the soldier",
+        "leaves his place, seeming pleased",
+        "with himself...",
+        "[Page]",
+        "",
+        "You are left free to test out the",
+        "Geomagnetic Pole or to continue",
+        "your wanderings.",
+        ""
+      ],
+      "Translation": [
+        "Als der Soldat mit seinen Ausführungen",
+        "fertig ist, verlässt er euch wieder,",
+        "anscheinend mit sich selbst zufrieden...",
+        "[Page]",
+        "",
+        "Ihr könnt nun den geomagnetischen",
+        "Mast ausprobieren, oder eure",
+        "Exkursion fortsetzen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "As you venture into the depths of",
+        "the maze, you hear a sudden sound",
+        "from a nearby thicket.",
+        "[Page]",
+        "",
+        "No sooner have you drawn your weapons",
+        "than a herd of monsters leaps from",
+        "the underbrush!",
+        ""
+      ],
+      "Translation": [
+        "As you venture into the depths of",
+        "the maze, you hear a sudden sound",
+        "from a nearby thicket.",
+        "[Page]",
+        "",
+        "No sooner have you drawn your weapons",
+        "than a herd of monsters leaps from",
+        "the underbrush!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "You have pacified the monsters, but",
+        "on reflection, something about them",
+        "seemed unusual to you...",
+        "[Page]",
+        "",
+        "You expect that the shining monster",
+        "you have vanquished is what they",
+        "call a [Color:5]rare breed[Color:0].",
+        "[Page]",
+        "",
+        "The rewards that can be reaped by",
+        "subduing these monsters are many,",
+        "and should not be passed up lightly.",
+        ""
+      ],
+      "Translation": [
+        "You have pacified the monsters, but",
+        "on reflection, something about them",
+        "seemed unusual to you...",
+        "[Page]",
+        "",
+        "You expect that the shining monster",
+        "you have vanquished is what they",
+        "call a [Color:5]rare breed[Color:0].",
+        "[Page]",
+        "",
+        "The rewards that can be reaped by",
+        "subduing these monsters are many,",
+        "and should not be passed up lightly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Upon disembarking the skyship,",
+        "you find yourself in the green maze",
+        "of the Lush Woodlands at last.",
+        "[Page]",
+        "",
+        "The beautiful scenery has a pleasant",
+        "breeze that passes through, rustling",
+        "the grass and the trees.",
+        "[Page]",
+        "",
+        "Yet despite the soothing atmosphere,",
+        "you have not forgotten that this",
+        "place has claimed countless lives.",
+        "[Page]",
+        "",
+        "You resolve to test your mettle",
+        "against the labyrinthine hazards",
+        "once more...",
+        ""
+      ],
+      "Translation": [
+        "Upon disembarking the skyship,",
+        "you find yourself in the green maze",
+        "of the Lush Woodlands at last.",
+        "[Page]",
+        "",
+        "The beautiful scenery has a pleasant",
+        "breeze that passes through, rustling",
+        "the grass and the trees.",
+        "[Page]",
+        "",
+        "Yet despite the soothing atmosphere,",
+        "you have not forgotten that this",
+        "place has claimed countless lives.",
+        "[Page]",
+        "",
+        "You resolve to test your mettle",
+        "against the labyrinthine hazards",
+        "once more...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]End the explanation?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]End the explanation?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Then may your journey begin, and may",
+        "fortune favor your guild! The path",
+        "to Yggdrasil begins here!",
+        ""
+      ],
+      "Translation": [
+        "Then may your journey begin, and may",
+        "fortune favor your guild! The path",
+        "to Yggdrasil begins here!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "As you follow a small path that runs",
+        "beside a spring, you notice a set of",
+        "stairs ahead that lead downward.",
+        "[Page]",
+        "",
+        "Your reverie of what might lie below",
+        "is broken by hurried footsteps",
+        "echoing from the stair...",
+        ""
+      ],
+      "Translation": [
+        "As you follow a small path that runs",
+        "beside a spring, you notice a set of",
+        "stairs ahead that lead downward.",
+        "[Page]",
+        "",
+        "Your reverie of what might lie below",
+        "is broken by hurried footsteps",
+        "echoing from the stair...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh...! It's you folks.\" The man",
+        "comes into view and you recognize",
+        "him from the Old Forest Mine.",
+        "[Page]",
+        "",
+        "You search your memory for his name...",
+        "Whirlwind, was it?",
+        "[Page]",
+        "",
+        "His face is stern, but on seeing you,",
+        "it relaxes. Only then do you notice",
+        "the man slung over his shoulder!",
+        "[Page]",
+        "",
+        "The armored man's head is bandaged",
+        "and he hangs limp and unmoving.",
+        "He is clearly not conscious.",
+        "[Page]",
+        "",
+        "\"Sorry, but no time to chat. This",
+        "poor Tharsis boy... looks like he",
+        "ran into bad news down there...\"",
+        "[Page]",
+        "",
+        "Though the man projects a calm",
+        "demeanor, his fatigue shows through",
+        "in the sweat pouring down his brow.",
+        "[Page]",
+        "",
+        "You suspect he may require help...",
+        "You wonder if you should offer your",
+        "assistance.",
+        ""
+      ],
+      "Translation": [
+        "\"Oh...! It's you folks.\" The man",
+        "comes into view and you recognize",
+        "him from the Old Forest Mine.",
+        "[Page]",
+        "",
+        "You search your memory for his name...",
+        "Whirlwind, was it?",
+        "[Page]",
+        "",
+        "His face is stern, but on seeing you,",
+        "it relaxes. Only then do you notice",
+        "the man slung over his shoulder!",
+        "[Page]",
+        "",
+        "The armored man's head is bandaged",
+        "and he hangs limp and unmoving.",
+        "He is clearly not conscious.",
+        "[Page]",
+        "",
+        "\"Sorry, but no time to chat. This",
+        "poor Tharsis boy... looks like he",
+        "ran into bad news down there...\"",
+        "[Page]",
+        "",
+        "Though the man projects a calm",
+        "demeanor, his fatigue shows through",
+        "in the sweat pouring down his brow.",
+        "[Page]",
+        "",
+        "You suspect he may require help...",
+        "You wonder if you should offer your",
+        "assistance.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Offer to help?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Offer to help?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "\"Well, thanks, that's mighty kind",
+        "of you. Is everyone around these",
+        "parts as nice as you?\"",
+        "[Page]",
+        "",
+        "The man smiles. \"But it's okay.",
+        "I've got this taken care of.",
+        "[Page]",
+        "",
+        "\"Still, whatever got him down",
+        "there... Once the Count hears of",
+        "it, he might want something done.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Well, thanks, that's mighty kind",
+        "of you. Is everyone around these",
+        "parts as nice as you?\"",
+        "[Page]",
+        "",
+        "The man smiles. \"But it's okay.",
+        "I've got this taken care of.",
+        "[Page]",
+        "",
+        "\"Still, whatever got him down",
+        "there... Once the Count hears of",
+        "it, he might want something done.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "\"Well, I'd best get going. If you're",
+        "headed down there, be prepared. This",
+        "boy could handle himself, and yet...",
+        "[Page]",
+        "",
+        "\"The monsters below are much worse",
+        "than the ones up here. If they get",
+        "the better of you, go back to town.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Well, I'd best get going. If you're",
+        "headed down there, be prepared. This",
+        "boy could handle himself, and yet...",
+        "[Page]",
+        "",
+        "\"The monsters below are much worse",
+        "than the ones up here. If they get",
+        "the better of you, go back to town.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Whirlwind readjusts the unconscious",
+        "soldier over his shoulder and then",
+        "jogs away.",
+        "[Page]",
+        "",
+        "You are free to continue down the",
+        "stairs or return to Tharsis to",
+        "replenish your supplies.",
+        ""
+      ],
+      "Translation": [
+        "Whirlwind readjusts the unconscious",
+        "soldier over his shoulder and then",
+        "jogs away.",
+        "[Page]",
+        "",
+        "You are free to continue down the",
+        "stairs or return to Tharsis to",
+        "replenish your supplies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "When you reach the dead end, you",
+        "notice a strange smell emanating",
+        "from the wild herbs underfoot.",
+        "[Page]",
+        "",
+        "These plants must be poisonous...",
+        "You decide to exercise caution and",
+        "avoid them as you gather other herbs.",
+        ""
+      ],
+      "Translation": [
+        "When you reach the dead end, you",
+        "notice a strange smell emanating",
+        "from the wild herbs underfoot.",
+        "[Page]",
+        "",
+        "These plants must be poisonous...",
+        "You decide to exercise caution and",
+        "avoid them as you gather other herbs.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "As you push into the thicket and",
+        "reach a hidden path, you wrinkle",
+        "your nose at some pungent scent...",
+        "[Page]",
+        "",
+        "It seems to be coming from the plants",
+        "that grow in the area...",
+        ""
+      ],
+      "Translation": [
+        "As you push into the thicket and",
+        "reach a hidden path, you wrinkle",
+        "your nose at some pungent scent...",
+        "[Page]",
+        "",
+        "It seems to be coming from the plants",
+        "that grow in the area...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "The cloyingly sweet smell of honey",
+        "wafts from the wall before you...",
+        ""
+      ],
+      "Translation": [
+        "The cloyingly sweet smell of honey",
+        "wafts from the wall before you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk through the halls, you",
+        "are arrested by a powerfully sweet",
+        "smell and stop in your tracks.",
+        "[Page]",
+        "",
+        "It seems to be the smell of the sap",
+        "oozing from the trees that form a",
+        "wall in front of you.",
+        "[Page]",
+        "",
+        "Fearing that the smell may lure",
+        "dreadful beasts, you decide to",
+        "quickly take your leave.",
+        ""
+      ],
+      "Translation": [
+        "As you walk through the halls, you",
+        "are arrested by a powerfully sweet",
+        "smell and stop in your tracks.",
+        "[Page]",
+        "",
+        "It seems to be the smell of the sap",
+        "oozing from the trees that form a",
+        "wall in front of you.",
+        "[Page]",
+        "",
+        "Fearing that the smell may lure",
+        "dreadful beasts, you decide to",
+        "quickly take your leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "You hear cracking sounds from the",
+        "other side of the wall, mixed with",
+        "the violent growl of a beast!",
+        ""
+      ],
+      "Translation": [
+        "You hear cracking sounds from the",
+        "other side of the wall, mixed with",
+        "the violent growl of a beast!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "The roar of splintering wood",
+        "echoes through the forest!",
+        ""
+      ],
+      "Translation": [
+        "The roar of splintering wood",
+        "echoes through the forest!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "When the dust settles, before you is",
+        "an enormous bear with gleaming eyes!",
+        "[Page]",
+        "",
+        "You stand tense, knowing that those",
+        "thick, trunklike arms could easily",
+        "pound you into jelly!",
+        ""
+      ],
+      "Translation": [
+        "When the dust settles, before you is",
+        "an enormous bear with gleaming eyes!",
+        "[Page]",
+        "",
+        "You stand tense, knowing that those",
+        "thick, trunklike arms could easily",
+        "pound you into jelly!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "You notice something unusual up ahead",
+        "and stop to inspect it.",
+        "[Page]",
+        "",
+        "The ground is littered with wood",
+        "splinters. It looks as if something",
+        "smashed its way through a wall.",
+        "[Page]",
+        "",
+        "You wonder what happened here...",
+        ""
+      ],
+      "Translation": [
+        "You notice something unusual up ahead",
+        "and stop to inspect it.",
+        "[Page]",
+        "",
+        "The ground is littered with wood",
+        "splinters. It looks as if something",
+        "smashed its way through a wall.",
+        "[Page]",
+        "",
+        "You wonder what happened here...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "You discover a wooden box in the",
+        "corner of a clearing. There is",
+        "blurred writing on it...",
+        "[Page]",
+        "",
+        "\"Those who have, should share their",
+        "bounty. Those who lack, take what",
+        "you need with gratitude.\"",
+        "[Page]",
+        "",
+        "The box appears to be empty just at",
+        "the moment. You are free to put an",
+        "item inside or leave the box be.",
+        ""
+      ],
+      "Translation": [
+        "You discover a wooden box in the",
+        "corner of a clearing. There is",
+        "blurred writing on it...",
+        "[Page]",
+        "",
+        "\"Those who have, should share their",
+        "bounty. Those who lack, take what",
+        "you need with gratitude.\"",
+        "[Page]",
+        "",
+        "The box appears to be empty just at",
+        "the moment. You are free to put an",
+        "item inside or leave the box be.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What will you leave behind?[Color:0]",
+        "[Item:1334]",
+        "[Item:1355]",
+        "Nearby leaves",
+        "Nothing",
+        "[Page]",
+        "",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What will you leave behind?[Color:0]",
+        "[Item:1334]",
+        "[Item:1355]",
+        "Nearby leaves",
+        "Nothing",
+        "[Page]",
+        "",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "You work together to gather handfuls",
+        "of leaves and stuff them into the",
+        "wooden box.",
+        "[Page]",
+        "",
+        "Satisfied that the box is filled to",
+        "the brim, you return to your search",
+        "with an impish grin on your face.",
+        ""
+      ],
+      "Translation": [
+        "You work together to gather handfuls",
+        "of leaves and stuff them into the",
+        "wooden box.",
+        "[Page]",
+        "",
+        "Satisfied that the box is filled to",
+        "the brim, you return to your search",
+        "with an impish grin on your face.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": false,
+      "Original": [
+        "You check your knapsack, and to your",
+        "dismay, you have no [Color:6][Item:1334][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to leave something else",
+        "instead, you should check the box",
+        "once more.",
+        ""
+      ],
+      "Translation": [
+        "You check your knapsack, and to your",
+        "dismay, you have no [Color:6][Item:1334][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to leave something else",
+        "instead, you should check the box",
+        "once more.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": false,
+      "Original": [
+        "You check your knapsack, and to your",
+        "dismay, you have no [Color:6][Item:1355][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to leave something else",
+        "instead, you should check the box",
+        "once more.",
+        ""
+      ],
+      "Translation": [
+        "You check your knapsack, and to your",
+        "dismay, you have no [Color:6][Item:1355][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to leave something else",
+        "instead, you should check the box",
+        "once more.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": false,
+      "Original": [
+        "You take the [Color:6][Item:1334][Color:0],",
+        "essential for explorers, and put",
+        "it into the wooden box.",
+        "[Page]",
+        "",
+        "Who can say? It may save some future",
+        "explorer's life. You return to your",
+        "journey with a spring in your step.",
+        ""
+      ],
+      "Translation": [
+        "You take the [Color:6][Item:1334][Color:0],",
+        "essential for explorers, and put",
+        "it into the wooden box.",
+        "[Page]",
+        "",
+        "Who can say? It may save some future",
+        "explorer's life. You return to your",
+        "journey with a spring in your step.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 117,
+      "IsIgnored": false,
+      "Original": [
+        "You take the [Color:6][Item:1355][Color:0],",
+        "essential for explorers, and put",
+        "it into the wooden box.",
+        "[Page]",
+        "",
+        "Who can say? It may save some future",
+        "explorer's life. You return to your",
+        "journey with a spring in your step.",
+        ""
+      ],
+      "Translation": [
+        "You take the [Color:6][Item:1355][Color:0],",
+        "essential for explorers, and put",
+        "it into the wooden box.",
+        "[Page]",
+        "",
+        "Who can say? It may save some future",
+        "explorer's life. You return to your",
+        "journey with a spring in your step.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "You take a look inside the familiar",
+        "wooden box.",
+        "[Page]",
+        "",
+        "Just as you thought, the box is",
+        "still filled with the leaves you",
+        "stuffed inside it.",
+        ""
+      ],
+      "Translation": [
+        "You take a look inside the familiar",
+        "wooden box.",
+        "[Page]",
+        "",
+        "Just as you thought, the box is",
+        "still filled with the leaves you",
+        "stuffed inside it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Remove the box's contents?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Remove the box's contents?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "You consider how a desperate",
+        "explorer might feel to open this",
+        "box and find naught but leaves...",
+        "[Page]",
+        "",
+        "It is not a pleasant thought.",
+        "You have a change of heart and",
+        "remove the leaves from the box.",
+        ""
+      ],
+      "Translation": [
+        "You consider how a desperate",
+        "explorer might feel to open this",
+        "box and find naught but leaves...",
+        "[Page]",
+        "",
+        "It is not a pleasant thought.",
+        "You have a change of heart and",
+        "remove the leaves from the box.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "You take a look inside the familiar",
+        "wooden box.",
+        "[Page]",
+        "",
+        "Just as you thought, the box still",
+        "contains the [Color:6][Item:1334][Color:0]",
+        "you left inside.",
+        ""
+      ],
+      "Translation": [
+        "You take a look inside the familiar",
+        "wooden box.",
+        "[Page]",
+        "",
+        "Just as you thought, the box still",
+        "contains the [Color:6][Item:1334][Color:0]",
+        "you left inside.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "You take a look inside the familiar",
+        "wooden box.",
+        "[Page]",
+        "",
+        "Just as you thought, the box still",
+        "contains the [Color:6][Item:1355][Color:0]",
+        "you left inside.",
+        ""
+      ],
+      "Translation": [
+        "You take a look inside the familiar",
+        "wooden box.",
+        "[Page]",
+        "",
+        "Just as you thought, the box still",
+        "contains the [Color:6][Item:1355][Color:0]",
+        "you left inside.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "You remove the [Color:6][Item:1334][Color:0]",
+        "from the box and put it back into",
+        "your knapsack.",
+        ""
+      ],
+      "Translation": [
+        "You remove the [Color:6][Item:1334][Color:0]",
+        "from the box and put it back into",
+        "your knapsack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "You remove the [Color:6][Item:1355][Color:0]",
+        "from the box and put it back into",
+        "your knapsack.",
+        ""
+      ],
+      "Translation": [
+        "You remove the [Color:6][Item:1355][Color:0]",
+        "from the box and put it back into",
+        "your knapsack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "There is a familiar wooden box before",
+        "you with new writing on the side in",
+        "a strong, angry hand.",
+        "[Page]",
+        "",
+        "\"Do not toy with people's lives!\"",
+        ""
+      ],
+      "Translation": [
+        "There is a familiar wooden box before",
+        "you with new writing on the side in",
+        "a strong, angry hand.",
+        "[Page]",
+        "",
+        "\"Do not toy with people's lives!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": false,
+      "Original": [
+        "There is a familiar wooden box before",
+        "you. Inside is a sheet of parchment...",
+        "[Page]",
+        "",
+        "You unfold it to have a read.",
+        "[Page]",
+        "",
+        "\"To my mystery benefactor:",
+        "The [Color:6][Item:1334][Color:0] you left",
+        "behind has saved my life.",
+        "[Page]",
+        "",
+        "\"I thank you for your kindness and",
+        "pray that you find success in your",
+        "journey.\"",
+        ""
+      ],
+      "Translation": [
+        "There is a familiar wooden box before",
+        "you. Inside is a sheet of parchment...",
+        "[Page]",
+        "",
+        "You unfold it to have a read.",
+        "[Page]",
+        "",
+        "\"To my mystery benefactor:",
+        "The [Color:6][Item:1334][Color:0] you left",
+        "behind has saved my life.",
+        "[Page]",
+        "",
+        "\"I thank you for your kindness and",
+        "pray that you find success in your",
+        "journey.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": false,
+      "Original": [
+        "There is a familiar wooden box before",
+        "you. Inside is a sheet of parchment...",
+        "[Page]",
+        "",
+        "You unfold it to have a read.",
+        "[Page]",
+        "",
+        "\"To my mystery benefactor:",
+        "The [Color:6][Item:1355][Color:0] you left",
+        "behind has saved my life.",
+        "[Page]",
+        "",
+        "\"I thank you for your kindness and",
+        "pray that you find success in your",
+        "journey.\"",
+        ""
+      ],
+      "Translation": [
+        "There is a familiar wooden box before",
+        "you. Inside is a sheet of parchment...",
+        "[Page]",
+        "",
+        "You unfold it to have a read.",
+        "[Page]",
+        "",
+        "\"To my mystery benefactor:",
+        "The [Color:6][Item:1355][Color:0] you left",
+        "behind has saved my life.",
+        "[Page]",
+        "",
+        "\"I thank you for your kindness and",
+        "pray that you find success in your",
+        "journey.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": false,
+      "Original": [
+        "There is a familiar wooden box before",
+        "you. Inside is a sheet of parchment",
+        "and a small object...",
+        "[Page]",
+        "",
+        "You unfold the parchment to have",
+        "a read.",
+        "[Page]",
+        "",
+        "\"Words can't express how glad I was",
+        "to find the [Color:6][Item:1334][Color:0], so I left",
+        "a gift to show my thanks! Take it!\"",
+        ""
+      ],
+      "Translation": [
+        "There is a familiar wooden box before",
+        "you. Inside is a sheet of parchment",
+        "and a small object...",
+        "[Page]",
+        "",
+        "You unfold the parchment to have",
+        "a read.",
+        "[Page]",
+        "",
+        "\"Words can't express how glad I was",
+        "to find the [Color:6][Item:1334][Color:0], so I left",
+        "a gift to show my thanks! Take it!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": false,
+      "Original": [
+        "There is a familiar wooden box before",
+        "you. Inside is a sheet of parchment",
+        "and a small object...",
+        "[Page]",
+        "",
+        "You unfold the parchment to have",
+        "a read.",
+        "[Page]",
+        "",
+        "\"Words can't express how glad I was",
+        "to find the [Color:6][Item:1355][Color:0], so I left",
+        "a gift to show my thanks! Take it!\"",
+        ""
+      ],
+      "Translation": [
+        "There is a familiar wooden box before",
+        "you. Inside is a sheet of parchment",
+        "and a small object...",
+        "[Page]",
+        "",
+        "You unfold the parchment to have",
+        "a read.",
+        "[Page]",
+        "",
+        "\"Words can't express how glad I was",
+        "to find the [Color:6][Item:1355][Color:0], so I left",
+        "a gift to show my thanks! Take it!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": false,
+      "Original": [
+        "As you traipse through the short",
+        "grass, you encounter a Tharsis",
+        "soldier lounging in a corner.",
+        ""
+      ],
+      "Translation": [
+        "As you traipse through the short",
+        "grass, you encounter a Tharsis",
+        "soldier lounging in a corner.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hm... you guys are new to me. Do you",
+        "come here a lot? More to the point,",
+        "do you need anything?\"",
+        "[Page]",
+        "",
+        "\"I do a small trade in things from",
+        "the city to help out explorers. At",
+        "least take a look at what I have.\"",
+        "[Page]",
+        "",
+        "With a flourish, he produces a [Color:6]broad-",
+        "bladed sword[Color:0] and an [Color:6][Item:1355][Color:0]",
+        "and lays them out on a rug.",
+        "[Page]",
+        "",
+        "There is [Color:5][Number:0] en[Color:0] in your purse.",
+        "You ponder whether to take him up",
+        "on the offer or to politely decline.",
+        ""
+      ],
+      "Translation": [
+        "\"Hm... you guys are new to me. Do you",
+        "come here a lot? More to the point,",
+        "do you need anything?\"",
+        "[Page]",
+        "",
+        "\"I do a small trade in things from",
+        "the city to help out explorers. At",
+        "least take a look at what I have.\"",
+        "[Page]",
+        "",
+        "With a flourish, he produces a [Color:6]broad-",
+        "bladed sword[Color:0] and an [Color:6][Item:1355][Color:0]",
+        "and lays them out on a rug.",
+        "[Page]",
+        "",
+        "There is [Color:5][Number:0] en[Color:0] in your purse.",
+        "You ponder whether to take him up",
+        "on the offer or to politely decline.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": false,
+      "Original": [
+        "You return to the merchant soldier.",
+        ""
+      ],
+      "Translation": [
+        "You return to the merchant soldier.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hello there,\" he waves. \"How goes",
+        "the adventuring? I can help you if",
+        "you need, though it will cost you.\"",
+        "[Page]",
+        "",
+        "With a flourish, he produces a [Color:6]broad-",
+        "bladed sword[Color:0] and an [Color:6][Item:1355][Color:0]",
+        "and lays them out on a rug.",
+        "[Page]",
+        "",
+        "There is [Color:5][Number:0] en[Color:0] in your purse.",
+        "You ponder whether to take him up",
+        "on the offer or to politely decline.",
+        ""
+      ],
+      "Translation": [
+        "\"Hello there,\" he waves. \"How goes",
+        "the adventuring? I can help you if",
+        "you need, though it will cost you.\"",
+        "[Page]",
+        "",
+        "With a flourish, he produces a [Color:6]broad-",
+        "bladed sword[Color:0] and an [Color:6][Item:1355][Color:0]",
+        "and lays them out on a rug.",
+        "[Page]",
+        "",
+        "There is [Color:5][Number:0] en[Color:0] in your purse.",
+        "You ponder whether to take him up",
+        "on the offer or to politely decline.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will you buy something?[Color:0]",
+        "Ariadne Thread: 250 en",
+        "Broad-bladed sword: 1000 en",
+        "Haggle with him",
+        "Decline his offer",
+        "[Page]",
+        "",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will you buy something?[Color:0]",
+        "Ariadne Thread: 250 en",
+        "Broad-bladed sword: 1000 en",
+        "Haggle with him",
+        "Decline his offer",
+        "[Page]",
+        "",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will you buy something?[Color:0]",
+        "Ariadne Thread: 25 en",
+        "Broad-bladed sword: 100 en",
+        "Haggle with him",
+        "Decline his offer",
+        "[Page]",
+        "",
+        "[Page]",
+        "",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will you buy something?[Color:0]",
+        "Ariadne Thread: 25 en",
+        "Broad-bladed sword: 100 en",
+        "Haggle with him",
+        "Decline his offer",
+        "[Page]",
+        "",
+        "[Page]",
+        "",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 151,
+      "IsIgnored": false,
+      "Original": [
+        "\"Haha, I had a feeling you'd try",
+        "that! But you're wasting your breath.",
+        "I come from a family of merchants.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Haha, I had a feeling you'd try",
+        "that! But you're wasting your breath.",
+        "I come from a family of merchants.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 152,
+      "IsIgnored": false,
+      "Original": [
+        "\"Come on, give me a break... I'm",
+        "already cutting my own throat here!",
+        "I'm just trying to help you out.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Come on, give me a break... I'm",
+        "already cutting my own throat here!",
+        "I'm just trying to help you out.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 153,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, fine! This stuff is old and I",
+        "got it for a song anyway...",
+        "[Page]",
+        "",
+        "\"But don't you dare try and wring",
+        "more out of me! I'll go this low",
+        "and no lower!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, fine! This stuff is old and I",
+        "got it for a song anyway...",
+        "[Page]",
+        "",
+        "\"But don't you dare try and wring",
+        "more out of me! I'll go this low",
+        "and no lower!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 154,
+      "IsIgnored": false,
+      "Original": [
+        "\"Was that not cheap enough for you!?",
+        "I take offense to that! You know, I",
+        "don't think I need your money!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Was that not cheap enough for you!?",
+        "I take offense to that! You know, I",
+        "don't think I need your money!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier leaves in a huff, still",
+        "hurling invective at you as he goes.",
+        "[Page]",
+        "",
+        "After that display, you doubt he will",
+        "be back. You watch him disappear into",
+        "the woods before going your own way.",
+        ""
+      ],
+      "Translation": [
+        "The soldier leaves in a huff, still",
+        "hurling invective at you as he goes.",
+        "[Page]",
+        "",
+        "After that display, you doubt he will",
+        "be back. You watch him disappear into",
+        "the woods before going your own way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": false,
+      "Original": [
+        "You check your purse, but you don't",
+        "seem to have funds enough to meet the",
+        "soldier's price.",
+        ""
+      ],
+      "Translation": [
+        "You check your purse, but you don't",
+        "seem to have funds enough to meet the",
+        "soldier's price.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]You pay the [Number:1]en.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]You pay the [Number:1]en.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": false,
+      "Original": [
+        "\"Thanks for that. There's great risk",
+        "in exploring in these mazes, and I",
+        "don't think you'll regret it.",
+        "[Page]",
+        "",
+        "\"If you're ever in trouble, come",
+        "again, and I'll be glad to help out.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Thanks for that. There's great risk",
+        "in exploring in these mazes, and I",
+        "don't think you'll regret it.",
+        "[Page]",
+        "",
+        "\"If you're ever in trouble, come",
+        "again, and I'll be glad to help out.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": false,
+      "Original": [
+        "\"Thanks for the business. You're",
+        "quite the haggler... maybe you should",
+        "take up merchantry instead.",
+        "[Page]",
+        "",
+        "\"At any rate, I can't let you keep",
+        "picking my bones clean. I'm closing",
+        "up shop here.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Thanks for the business. You're",
+        "quite the haggler... maybe you should",
+        "take up merchantry instead.",
+        "[Page]",
+        "",
+        "\"At any rate, I can't let you keep",
+        "picking my bones clean. I'm closing",
+        "up shop here.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": false,
+      "Original": [
+        "With that, the soldier packs up his",
+        "stock and begins walking in the",
+        "direction of the maze's entrance.",
+        "[Page]",
+        "",
+        "On consideration, you doubt he will",
+        "be back. You watch him disappear into",
+        "the woods before going your own way.",
+        ""
+      ],
+      "Translation": [
+        "With that, the soldier packs up his",
+        "stock and begins walking in the",
+        "direction of the maze's entrance.",
+        "[Page]",
+        "",
+        "On consideration, you doubt he will",
+        "be back. You watch him disappear into",
+        "the woods before going your own way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Thank you for playing the demo for",
+        "Etrian Odyssey IV: Legends of the",
+        "Titan. This concludes the demo.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You may still explore the maze,",
+        "strengthen your characters, and",
+        "complete any quests.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]However, be aware that the story",
+        "beyond this point is not contained",
+        "in the demo.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You can continue from the demo's",
+        "save data in the [Color:5]full game[Color:3].[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Once again, thank you for playing the",
+        "demo of Etrian Odyssey IV: Legends of",
+        "the Titan.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Thank you for playing the demo for",
+        "Etrian Odyssey IV: Legends of the",
+        "Titan. This concludes the demo.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You may still explore the maze,",
+        "strengthen your characters, and",
+        "complete any quests.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]However, be aware that the story",
+        "beyond this point is not contained",
+        "in the demo.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You can continue from the demo's",
+        "save data in the [Color:5]full game[Color:3].[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Once again, thank you for playing the",
+        "demo of Etrian Odyssey IV: Legends of",
+        "the Titan.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

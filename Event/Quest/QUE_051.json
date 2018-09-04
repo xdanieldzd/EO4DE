@@ -1,0 +1,570 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_051",
+  "RelativePath": "Event\\Quest\\QUE_051.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request? It is from the governor",
+        "of Tharsis... the Outland Count.",
+        "[Page]",
+        "",
+        "He wants you to search for a small",
+        "grove of kapok trees.",
+        "[Page]",
+        "",
+        "You can learn more by talking to him",
+        "at the [Color:5]Grand Court[Color:0]. I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That request? It is from the governor",
+        "of Tharsis... the Outland Count.",
+        "[Page]",
+        "",
+        "He wants you to search for a small",
+        "grove of kapok trees.",
+        "[Page]",
+        "",
+        "You can learn more by talking to him",
+        "at the [Color:5]Grand Court[Color:0]. I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Congratulations on completing that",
+        "request. I heard all about it from",
+        "the Outland Count.",
+        "[Page]",
+        "",
+        "The Count has a duty to cultivate his",
+        "city, so it is not rare for him to",
+        "enlist the help of explorers.",
+        "[Page]",
+        "",
+        "In this way, the city prospers and",
+        "attracts more citizens. I would be",
+        "delighted to see Tharsis thrive.",
+        "[Page]",
+        "",
+        "Here is the reward you were promised",
+        "by the Outland Count. I shall be",
+        "seeking your help again.",
+        ""
+      ],
+      "Translation": [
+        "Congratulations on completing that",
+        "request. I heard all about it from",
+        "the Outland Count.",
+        "[Page]",
+        "",
+        "The Count has a duty to cultivate his",
+        "city, so it is not rare for him to",
+        "enlist the help of explorers.",
+        "[Page]",
+        "",
+        "In this way, the city prospers and",
+        "attracts more citizens. I would be",
+        "delighted to see Tharsis thrive.",
+        "[Page]",
+        "",
+        "Here is the reward you were promised",
+        "by the Outland Count. I shall be",
+        "seeking your help again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, you have accepted my request?",
+        "That is very reassuring!",
+        "[Page]",
+        "",
+        "Are you familiar with kapoks? That",
+        "tree is not grown for food, but for",
+        "its several other uses.",
+        "[Page]",
+        "",
+        "There is a place in these [Color:5]Windy Plains[Color:0]",
+        "where many kapoks grow. I want you to",
+        "search for this [Color:5]kapok grove[Color:0].",
+        "[Page]",
+        "",
+        "Rumor has it that it's somewhere on",
+        "the [Color:5]northern side of the Windy Plains[Color:0].",
+        "The [Color:5]A-2[Color:0] region sounds likely.",
+        "[Page]",
+        "",
+        "Oh, I'm sorry if my terminology is",
+        "confusing to you. Do you need an",
+        "explanation of maps and coordinates?",
+        ""
+      ],
+      "Translation": [
+        "Oh, you have accepted my request?",
+        "That is very reassuring!",
+        "[Page]",
+        "",
+        "Are you familiar with kapoks? That",
+        "tree is not grown for food, but for",
+        "its several other uses.",
+        "[Page]",
+        "",
+        "There is a place in these [Color:5]Windy Plains[Color:0]",
+        "where many kapoks grow. I want you to",
+        "search for this [Color:5]kapok grove[Color:0].",
+        "[Page]",
+        "",
+        "Rumor has it that it's somewhere on",
+        "the [Color:5]northern side of the Windy Plains[Color:0].",
+        "The [Color:5]A-2[Color:0] region sounds likely.",
+        "[Page]",
+        "",
+        "Oh, I'm sorry if my terminology is",
+        "confusing to you. Do you need an",
+        "explanation of maps and coordinates?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Listen to his explanation?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Listen to his explanation?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Take a look at the map. Do you see the",
+        "numbers at the top and the letters on",
+        "the left side?",
+        "[Page]",
+        "",
+        "Simply put, the numbers represent your",
+        "longitude while the letters show your",
+        "latitude.",
+        "[Page]",
+        "",
+        "For example, the coordinates [Color:5]D-2[Color:0] are",
+        "on longitude D, latitude 2. It forms",
+        "a radius of about 25 spots.",
+        "[Page]",
+        "",
+        "Tharsis itself is within D-4. That may",
+        "be a helpful thing to remember in your",
+        "future expeditions.",
+        ""
+      ],
+      "Translation": [
+        "Take a look at the map. Do you see the",
+        "numbers at the top and the letters on",
+        "the left side?",
+        "[Page]",
+        "",
+        "Simply put, the numbers represent your",
+        "longitude while the letters show your",
+        "latitude.",
+        "[Page]",
+        "",
+        "For example, the coordinates [Color:5]D-2[Color:0] are",
+        "on longitude D, latitude 2. It forms",
+        "a radius of about 25 spots.",
+        "[Page]",
+        "",
+        "Tharsis itself is within D-4. That may",
+        "be a helpful thing to remember in your",
+        "future expeditions.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you understand coordinates?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you understand coordinates?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, my apologies. Of course this is",
+        "basic information for explorers.",
+        ""
+      ],
+      "Translation": [
+        "Oh, my apologies. Of course this is",
+        "basic information for explorers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Now then, if you do happen to find the",
+        "kapok grove, return here and tell me",
+        "its coordinates.",
+        "[Page]",
+        "",
+        "Of course, if you know them already,",
+        "do not hesitate! Let's have them!",
+        ""
+      ],
+      "Translation": [
+        "Now then, if you do happen to find the",
+        "kapok grove, return here and tell me",
+        "its coordinates.",
+        "[Page]",
+        "",
+        "Of course, if you know them already,",
+        "do not hesitate! Let's have them!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, my friends. Did you find it? That",
+        "kapok grove I'm after?",
+        ""
+      ],
+      "Translation": [
+        "Ah, my friends. Did you find it? That",
+        "kapok grove I'm after?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Did you find the kapok grove?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Did you find the kapok grove?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm, the rumors say the kapok grove is",
+        "in area [Color:5]A-2[Color:0]. That should be in A on",
+        "the left side and 2 on the top.",
+        ""
+      ],
+      "Translation": [
+        "Hmm, the rumors say the kapok grove is",
+        "in area [Color:5]A-2[Color:0]. That should be in A on",
+        "the left side and 2 on the top.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Well, I'll continue to have patience",
+        "until you do. If you need more",
+        "details, you are always free to ask.",
+        ""
+      ],
+      "Translation": [
+        "Well, I'll continue to have patience",
+        "until you do. If you need more",
+        "details, you are always free to ask.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, splendid! Here, point it out to",
+        "me on your map.",
+        ""
+      ],
+      "Translation": [
+        "Oh, splendid! Here, point it out to",
+        "me on your map.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Understood. Then I shall dispatch my",
+        "scouts to that location at once.",
+        ""
+      ],
+      "Translation": [
+        "Understood. Then I shall dispatch my",
+        "scouts to that location at once.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "My scouts report that the kapok grove",
+        "was not where you said it should be.",
+        "[Page]",
+        "",
+        "Were you in error, or...? Please look",
+        "into it further and report the exact",
+        "location to me.",
+        ""
+      ],
+      "Translation": [
+        "My scouts report that the kapok grove",
+        "was not where you said it should be.",
+        "[Page]",
+        "",
+        "Were you in error, or...? Please look",
+        "into it further and report the exact",
+        "location to me.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "My scouts report that they've just",
+        "found the kapok grove! It seems your",
+        "information was accurate.",
+        "[Page]",
+        "",
+        "With these new resources, the city",
+        "will prosper. As its governor, I",
+        "thank you from the bottom of my heart.",
+        "[Page]",
+        "",
+        "I have already contacted the Dancing",
+        "Peacock. You may return there to",
+        "report in and collect your reward.",
+        ""
+      ],
+      "Translation": [
+        "My scouts report that they've just",
+        "found the kapok grove! It seems your",
+        "information was accurate.",
+        "[Page]",
+        "",
+        "With these new resources, the city",
+        "will prosper. As its governor, I",
+        "thank you from the bottom of my heart.",
+        "[Page]",
+        "",
+        "I have already contacted the Dancing",
+        "Peacock. You may return there to",
+        "report in and collect your reward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "When you look directly below, you can",
+        "see a vast and lush [Color:5]kapok grove[Color:0].",
+        "[Page]",
+        "",
+        "You can almost hear the rustling of",
+        "the trees thick with large, glossy,",
+        "green leaves.",
+        "[Page]",
+        "",
+        "This is the fabled kapok grove!",
+        "[Page]",
+        "",
+        "You must simply mark its location so",
+        "as not to forget and report to the",
+        "Outland Count to fulfill the request!",
+        ""
+      ],
+      "Translation": [
+        "When you look directly below, you can",
+        "see a vast and lush [Color:5]kapok grove[Color:0].",
+        "[Page]",
+        "",
+        "You can almost hear the rustling of",
+        "the trees thick with large, glossy,",
+        "green leaves.",
+        "[Page]",
+        "",
+        "This is the fabled kapok grove!",
+        "[Page]",
+        "",
+        "You must simply mark its location so",
+        "as not to forget and report to the",
+        "Outland Count to fulfill the request!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Is something the matter, my friends?",
+        "Your reward is waiting! Why not go to",
+        "the Dancing Peacock and report in?",
+        ""
+      ],
+      "Translation": [
+        "Is something the matter, my friends?",
+        "Your reward is waiting! Why not go to",
+        "the Dancing Peacock and report in?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "When you look directly below, you can",
+        "see the vast and lush [Color:5]kapok grove[Color:0].",
+        "[Page]",
+        "",
+        "You can almost hear the rustling of",
+        "the trees as their glossy, green",
+        "leaves take in the sun's blessing.",
+        "[Page]",
+        "",
+        "The beauty of the Windy Plains' rich",
+        "greenery is a balm for your soul...",
+        ""
+      ],
+      "Translation": [
+        "When you look directly below, you can",
+        "see the vast and lush [Color:5]kapok grove[Color:0].",
+        "[Page]",
+        "",
+        "You can almost hear the rustling of",
+        "the trees as their glossy, green",
+        "leaves take in the sun's blessing.",
+        "[Page]",
+        "",
+        "The beauty of the Windy Plains' rich",
+        "greenery is a balm for your soul...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_16",
+  "RelativePath": "Event\\Bar\\BAR_16.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "It looks like you finished your",
+        "mission. Then let me teach you a",
+        "few more advanced tricks.",
+        ""
+      ],
+      "Translation": [
+        "It looks like you finished your",
+        "mission. Then let me teach you a",
+        "few more advanced tricks.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What will you ask about?[Color:0]",
+        "Sensing monsters",
+        "Roaming monsters",
+        "Nothing",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What will you ask about?[Color:0]",
+        "Sensing monsters",
+        "Roaming monsters",
+        "Nothing",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Every explorer has some \"monster",
+        "sense,\" whether it's well or poorly",
+        "developed.",
+        "[Page]",
+        "",
+        "The monster's presence, its breathing,",
+        "or just the sound of it breaking a",
+        "twig as it walks, all give it away.",
+        "[Page]",
+        "",
+        "That's why you should pay conscious",
+        "attention next time one approaches.",
+        "It'll give you a sense for the timing.",
+        "[Page]",
+        "",
+        "[Color:3]A [Color:5]proximity gauge[Color:3] is shown on the",
+        "bottom right corner of the screen",
+        "while you are in a labyrinth.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]The gauge will shift from blue to red.",
+        "When it turns red, it indicates a high",
+        "likelihood that monsters will appear.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Every explorer has some \"monster",
+        "sense,\" whether it's well or poorly",
+        "developed.",
+        "[Page]",
+        "",
+        "The monster's presence, its breathing,",
+        "or just the sound of it breaking a",
+        "twig as it walks, all give it away.",
+        "[Page]",
+        "",
+        "That's why you should pay conscious",
+        "attention next time one approaches.",
+        "It'll give you a sense for the timing.",
+        "[Page]",
+        "",
+        "[Color:3]A [Color:5]proximity gauge[Color:3] is shown on the",
+        "bottom right corner of the screen",
+        "while you are in a labyrinth.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]The gauge will shift from blue to red.",
+        "When it turns red, it indicates a high",
+        "likelihood that monsters will appear.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You've only seen the [Color:5][Enemy1:123][Color:0] at",
+        "the Old Forest Mine so far, but that",
+        "kind of enemy is everywhere.",
+        "[Page]",
+        "",
+        "They're damned tough. It's usually",
+        "best to just run away... but even",
+        "that takes some know-how.",
+        "[Page]",
+        "",
+        "Some monsters don't care about you,",
+        "they're just following their path.",
+        "And some will actively chase you.",
+        "[Page]",
+        "",
+        "It sounds obvious, but different types",
+        "of monsters have different patterns",
+        "or senses, so you can't generalize.",
+        "[Page]",
+        "",
+        "But if you learn to anticipate their",
+        "moves, you should start to figure",
+        "out how to get the advantage.",
+        ""
+      ],
+      "Translation": [
+        "You've only seen the [Color:5][Enemy1:123][Color:0] at",
+        "the Old Forest Mine so far, but that",
+        "kind of enemy is everywhere.",
+        "[Page]",
+        "",
+        "They're damned tough. It's usually",
+        "best to just run away... but even",
+        "that takes some know-how.",
+        "[Page]",
+        "",
+        "Some monsters don't care about you,",
+        "they're just following their path.",
+        "And some will actively chase you.",
+        "[Page]",
+        "",
+        "It sounds obvious, but different types",
+        "of monsters have different patterns",
+        "or senses, so you can't generalize.",
+        "[Page]",
+        "",
+        "But if you learn to anticipate their",
+        "moves, you should start to figure",
+        "out how to get the advantage.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "No? Well, learning on your own is one",
+        "way to do it. You sure don't forget",
+        "the lessons you learn the hard way.",
+        "[Page]",
+        "",
+        "If you ever change your mind, come",
+        "and ask me. I'll be here for a while.",
+        ""
+      ],
+      "Translation": [
+        "No? Well, learning on your own is one",
+        "way to do it. You sure don't forget",
+        "the lessons you learn the hard way.",
+        "[Page]",
+        "",
+        "If you ever change your mind, come",
+        "and ask me. I'll be here for a while.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

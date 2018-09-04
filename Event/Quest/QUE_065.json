@@ -1,0 +1,173 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_065",
+  "RelativePath": "Event\\Quest\\QUE_065.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, that request. It comes from that",
+        "intolerable man sitting over there.",
+        "[Page]",
+        "",
+        "He calls himself... the lonely hunter",
+        "Dylan. Do I know him from somewhere?",
+        "Perhaps I am imagining things...",
+        "[Page]",
+        "",
+        "You will have to ask him for more of",
+        "the details, but be careful. I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Oh, that request. It comes from that",
+        "intolerable man sitting over there.",
+        "[Page]",
+        "",
+        "He calls himself... the lonely hunter",
+        "Dylan. Do I know him from somewhere?",
+        "Perhaps I am imagining things...",
+        "[Page]",
+        "",
+        "You will have to ask him for more of",
+        "the details, but be careful. I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "What an unreasonable demand, defeating",
+        "that praying mantis monster. And he",
+        "calls himself aloof!",
+        "[Page]",
+        "",
+        "Normally, it is best to run away from",
+        "a monster like that, but I suppose if",
+        "there is a request to be completed...",
+        "[Page]",
+        "",
+        "Though I am surprised that you seemed",
+        "no worse for wear when you returned",
+        "after defeating it.",
+        "[Page]",
+        "",
+        "Still, I forbid you to do anything",
+        "else so reckless...",
+        ""
+      ],
+      "Translation": [
+        "What an unreasonable demand, defeating",
+        "that praying mantis monster. And he",
+        "calls himself aloof!",
+        "[Page]",
+        "",
+        "Normally, it is best to run away from",
+        "a monster like that, but I suppose if",
+        "there is a request to be completed...",
+        "[Page]",
+        "",
+        "Though I am surprised that you seemed",
+        "no worse for wear when you returned",
+        "after defeating it.",
+        "[Page]",
+        "",
+        "Still, I forbid you to do anything",
+        "else so reckless...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "At the end of your bitter struggle,",
+        "you obtain a [Color:5][Item:1022][Color:0]!",
+        "[Page]",
+        "",
+        "All that remains is to deliver it to",
+        "the client, [Color:5]Dylan[Color:0], without losing it.",
+        "Then the request will be fulfilled!",
+        ""
+      ],
+      "Translation": [
+        "At the end of your bitter struggle,",
+        "you obtain a [Color:5][Item:1022][Color:0]!",
+        "[Page]",
+        "",
+        "All that remains is to deliver it to",
+        "the client, [Color:5]Dylan[Color:0], without losing it.",
+        "Then the request will be fulfilled!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "You now recall accepting a request",
+        "to deliver a [Color:6][Number:0][Color:0] to Dylan,",
+        "the lonely hunter...",
+        "[Page]",
+        "",
+        "If you mean to complete the request,",
+        "you must take care not to sell it.",
+        "Deliver it to your client at the bar.",
+        ""
+      ],
+      "Translation": [
+        "You now recall accepting a request",
+        "to deliver a [Color:6][Number:0][Color:0] to Dylan,",
+        "the lonely hunter...",
+        "[Page]",
+        "",
+        "If you mean to complete the request,",
+        "you must take care not to sell it.",
+        "Deliver it to your client at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

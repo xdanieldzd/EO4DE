@@ -1,0 +1,1943 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_019",
+  "RelativePath": "Event\\Quest\\QUE_019.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request was just posted. The",
+        "client wishes to send her husband",
+        "a handmade lunch.",
+        "[Page]",
+        "",
+        "It seems that the husband is quite",
+        "careless and forgot to take the",
+        "client's lunch with him to work.",
+        "[Page]",
+        "",
+        "His name is... let's see here...",
+        "[Color:5]Aldis[Color:0], and he is a soldier posted",
+        "in the [Color:5]Cramped Nest[Color:0].",
+        "[Page]",
+        "",
+        "At this rate, he will have to go",
+        "without lunch. I am counting on you",
+        "to make sure that does not happen.",
+        ""
+      ],
+      "Translation": [
+        "That request was just posted. The",
+        "client wishes to send her husband",
+        "a handmade lunch.",
+        "[Page]",
+        "",
+        "It seems that the husband is quite",
+        "careless and forgot to take the",
+        "client's lunch with him to work.",
+        "[Page]",
+        "",
+        "His name is... let's see here...",
+        "[Color:5]Aldis[Color:0], and he is a soldier posted",
+        "in the [Color:5]Cramped Nest[Color:0].",
+        "[Page]",
+        "",
+        "At this rate, he will have to go",
+        "without lunch. I am counting on you",
+        "to make sure that does not happen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, welcome back. Did everything go",
+        "smoothly? Did you have any trouble",
+        "due to the similarly named soldiers?",
+        "[Page]",
+        "",
+        "Ahaha... There are some interesting",
+        "squads in our military. Perhaps it",
+        "was the Outland Count's work...",
+        "[Page]",
+        "",
+        "You know how he can be. \"Anything",
+        "goes, so long as it's interesting.\"",
+        "[Page]",
+        "",
+        "That aside, I again thank you for your",
+        "hard work. Here is your reward, and I",
+        "hope to have your help next time.",
+        ""
+      ],
+      "Translation": [
+        "Ah, welcome back. Did everything go",
+        "smoothly? Did you have any trouble",
+        "due to the similarly named soldiers?",
+        "[Page]",
+        "",
+        "Ahaha... There are some interesting",
+        "squads in our military. Perhaps it",
+        "was the Outland Count's work...",
+        "[Page]",
+        "",
+        "You know how he can be. \"Anything",
+        "goes, so long as it's interesting.\"",
+        "[Page]",
+        "",
+        "That aside, I again thank you for your",
+        "hard work. Here is your reward, and I",
+        "hope to have your help next time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "As you step into the labyrinth with",
+        "the lunchbox in hand, a soldier",
+        "approaches...",
+        ""
+      ],
+      "Translation": [
+        "As you step into the labyrinth with",
+        "the lunchbox in hand, a soldier",
+        "approaches...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ho there. We're investigating this",
+        "labyrinth right now. Do you need",
+        "something from our squad?\"",
+        "[Page]",
+        "",
+        "When you inform him that you are here",
+        "to deliver a soldier's lunch, he",
+        "laughs before answering.",
+        "[Page]",
+        "",
+        "\"That might be a problem. Our squad",
+        "all has similar names... Who are you",
+        "trying to find?\"",
+        "[Page]",
+        "",
+        "The soldier mentions four possible",
+        "candidates.",
+        ""
+      ],
+      "Translation": [
+        "\"Ho there. We're investigating this",
+        "labyrinth right now. Do you need",
+        "something from our squad?\"",
+        "[Page]",
+        "",
+        "When you inform him that you are here",
+        "to deliver a soldier's lunch, he",
+        "laughs before answering.",
+        "[Page]",
+        "",
+        "\"That might be a problem. Our squad",
+        "all has similar names... Who are you",
+        "trying to find?\"",
+        "[Page]",
+        "",
+        "The soldier mentions four possible",
+        "candidates.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Albert",
+        "Alistair",
+        "Aldis",
+        "Alfred",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Albert",
+        "Alistair",
+        "Aldis",
+        "Alfred",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Alistair[Color:0] is... Hmm. Going by your",
+        "map, he should be around area [Color:5]C-2[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Alistair[Color:0] is... Hmm. Going by your",
+        "map, he should be around area [Color:5]C-2[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Albert[Color:0] is... Hmm. Going by your map,",
+        "he should be around area [Color:5]B-1[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Albert[Color:0] is... Hmm. Going by your map,",
+        "he should be around area [Color:5]B-1[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Alfred[Color:0] is... Hmm. Going by your map,",
+        "he should be around area [Color:5]A-3[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Alfred[Color:0] is... Hmm. Going by your map,",
+        "he should be around area [Color:5]A-3[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Aldis[Color:0] is... Hmm. Going by your map,",
+        "he should be around area [Color:5]B-3[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Aldis[Color:0] is... Hmm. Going by your map,",
+        "he should be around area [Color:5]B-3[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "\"Funny that we all have similar names,",
+        "isn't it? In the city they call us",
+        "Team A. Though my name is Ben...\"",
+        "[Page]",
+        "",
+        "With that, the soldier returns to his",
+        "position. You head into the labyrinth",
+        "in search of your soldier.",
+        ""
+      ],
+      "Translation": [
+        "\"Funny that we all have similar names,",
+        "isn't it? In the city they call us",
+        "Team A. Though my name is Ben...\"",
+        "[Page]",
+        "",
+        "With that, the soldier returns to his",
+        "position. You head into the labyrinth",
+        "in search of your soldier.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "As you wander the labyrinth, you spot",
+        "a soldier taking measurements and",
+        "ask for his name.",
+        ""
+      ],
+      "Translation": [
+        "As you wander the labyrinth, you spot",
+        "a soldier taking measurements and",
+        "ask for his name.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"Me? I'm [Color:5]Alistair[Color:0]. Our squad has a lot",
+        "of people with similar names... we",
+        "always get mistaken for each other.\"",
+        "[Page]",
+        "",
+        "You ask this soldier named Alistair",
+        "about the lunch. He shakes his head",
+        "with a bitter smile.",
+        "[Page]",
+        "",
+        "\"Sad to say, that lunch isn't for me.",
+        "I just finished my break. Do you want",
+        "me to tell you where the others are?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Me? I'm [Color:5]Alistair[Color:0]. Our squad has a lot",
+        "of people with similar names... we",
+        "always get mistaken for each other.\"",
+        "[Page]",
+        "",
+        "You ask this soldier named Alistair",
+        "about the lunch. He shakes his head",
+        "with a bitter smile.",
+        "[Page]",
+        "",
+        "\"Sad to say, that lunch isn't for me.",
+        "I just finished my break. Do you want",
+        "me to tell you where the others are?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey there. Still haven't delivered",
+        "that lunch, huh? You want to hear",
+        "where the other soldiers are?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hey there. Still haven't delivered",
+        "that lunch, huh? You want to hear",
+        "where the other soldiers are?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Alfred[Color:0] should be investigating the",
+        "soil in area [Color:5]A-3[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Alfred[Color:0] should be investigating the",
+        "soil in area [Color:5]A-3[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Albert[Color:0] is doing plant studies around",
+        "area [Color:5]B-1[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Albert[Color:0] is doing plant studies around",
+        "area [Color:5]B-1[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Aldis[Color:0] went to check out a monster's",
+        "nest in area [Color:5]B-3[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Aldis[Color:0] went to check out a monster's",
+        "nest in area [Color:5]B-3[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "You think carefully before asking the",
+        "soldier...",
+        ""
+      ],
+      "Translation": [
+        "You think carefully before asking the",
+        "soldier...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "You thank Alistair, take the lunchbox,",
+        "and go on your way.",
+        ""
+      ],
+      "Translation": [
+        "You thank Alistair, take the lunchbox,",
+        "and go on your way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk the labyrinth's halls,",
+        "you spot a soldier studying some",
+        "plants. You ask for his name.",
+        ""
+      ],
+      "Translation": [
+        "As you walk the labyrinth's halls,",
+        "you spot a soldier studying some",
+        "plants. You ask for his name.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "\"My name's [Color:5]Albert[Color:0]. I get asked for my",
+        "name a lot, it seems like...\"",
+        "[Page]",
+        "",
+        "You ask this soldier named Albert",
+        "about the lunch, but he only shakes",
+        "his head.",
+        "[Page]",
+        "",
+        "\"Not me, I'm single. Though if you",
+        "want to give it to me anyway, I won't",
+        "say no.\"",
+        "[Page]",
+        "",
+        "The soldier laughs before mentioning",
+        "a few of his comrades' names, asking",
+        "if you want to know about any of them.",
+        ""
+      ],
+      "Translation": [
+        "\"My name's [Color:5]Albert[Color:0]. I get asked for my",
+        "name a lot, it seems like...\"",
+        "[Page]",
+        "",
+        "You ask this soldier named Albert",
+        "about the lunch, but he only shakes",
+        "his head.",
+        "[Page]",
+        "",
+        "\"Not me, I'm single. Though if you",
+        "want to give it to me anyway, I won't",
+        "say no.\"",
+        "[Page]",
+        "",
+        "The soldier laughs before mentioning",
+        "a few of his comrades' names, asking",
+        "if you want to know about any of them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "\"Still haven't found the lucky man?",
+        "I can tell you where a few of my",
+        "squadmates are, if it helps.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Still haven't found the lucky man?",
+        "I can tell you where a few of my",
+        "squadmates are, if it helps.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Aldis[Color:0] went to check out a monster's",
+        "nest in area [Color:5]B-3[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Aldis[Color:0] went to check out a monster's",
+        "nest in area [Color:5]B-3[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Alistair[Color:0]'s taking some measurements",
+        "in area [Color:5]C-2[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Alistair[Color:0]'s taking some measurements",
+        "in area [Color:5]C-2[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Alfred[Color:0] should be investigating the",
+        "soil in area [Color:5]A-3[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Alfred[Color:0] should be investigating the",
+        "soil in area [Color:5]A-3[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "You think carefully before asking the",
+        "soldier...",
+        ""
+      ],
+      "Translation": [
+        "You think carefully before asking the",
+        "soldier...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "You thank Albert, take the lunchbox,",
+        "and go on your way.",
+        ""
+      ],
+      "Translation": [
+        "You thank Albert, take the lunchbox,",
+        "and go on your way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "As you stroll through the cave, you",
+        "spot a soldier digging a hole with",
+        "a pickaxe. You stop to ask his name.",
+        ""
+      ],
+      "Translation": [
+        "As you stroll through the cave, you",
+        "spot a soldier digging a hole with",
+        "a pickaxe. You stop to ask his name.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "\"Name's [Color:5]Alfred[Color:0]. You need something",
+        "from one of us, right? Figures that's",
+        "why you'd ask.\"",
+        "[Page]",
+        "",
+        "After you inquire about the lunch,",
+        "he answers, \"It's not me,\" flatly.",
+        "[Page]",
+        "",
+        "\"I have a rule not to eat at work.",
+        "Makes me sleepy. That lunch is for",
+        "one of the other guys.\"",
+        "[Page]",
+        "",
+        "The soldier mentions a few of his",
+        "comrades and asks if you would like",
+        "to know their locations.",
+        ""
+      ],
+      "Translation": [
+        "\"Name's [Color:5]Alfred[Color:0]. You need something",
+        "from one of us, right? Figures that's",
+        "why you'd ask.\"",
+        "[Page]",
+        "",
+        "After you inquire about the lunch,",
+        "he answers, \"It's not me,\" flatly.",
+        "[Page]",
+        "",
+        "\"I have a rule not to eat at work.",
+        "Makes me sleepy. That lunch is for",
+        "one of the other guys.\"",
+        "[Page]",
+        "",
+        "The soldier mentions a few of his",
+        "comrades and asks if you would like",
+        "to know their locations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "\"You guys again? Still haven't dropped",
+        "off that lunch, huh? You want to know",
+        "where the other guys are?\"",
+        ""
+      ],
+      "Translation": [
+        "\"You guys again? Still haven't dropped",
+        "off that lunch, huh? You want to know",
+        "where the other guys are?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Albert[Color:0]'s studying plants around area",
+        "[Color:5]B-1[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Albert[Color:0]'s studying plants around area",
+        "[Color:5]B-1[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Aldis[Color:0]'s poking at a monster's nest",
+        "in area [Color:5]B-3[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Aldis[Color:0]'s poking at a monster's nest",
+        "in area [Color:5]B-3[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Color:5]Alistair[Color:0]'s taking soil samples in",
+        "area [Color:5]C-2[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Color:5]Alistair[Color:0]'s taking soil samples in",
+        "area [Color:5]C-2[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "You think carefully before asking the",
+        "soldier...",
+        ""
+      ],
+      "Translation": [
+        "You think carefully before asking the",
+        "soldier...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "You thank Alfred, take the lunchbox,",
+        "and go on your way.",
+        ""
+      ],
+      "Translation": [
+        "You thank Alfred, take the lunchbox,",
+        "and go on your way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "You are exploring the labyrinth when",
+        "you spot a soldier squatting near",
+        "a wall.",
+        ""
+      ],
+      "Translation": [
+        "You are exploring the labyrinth when",
+        "you spot a soldier squatting near",
+        "a wall.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "\"That smell!\" he exclaims. \"Is that my",
+        "dear Claudia's cooking!? I thought I",
+        "forgot it this morning... How!?\"",
+        "[Page]",
+        "",
+        "\"I must be hallucinating...",
+        "Oh, no... I'm going to die. Damn it...",
+        "I'm sorry, Dia...\"",
+        "[Page]",
+        "",
+        "You wordlessly thrust the lunchbox out",
+        "to the soldier as he stares glassily",
+        "into space.",
+        "[Page]",
+        "",
+        "All of a sudden, the soldier regains",
+        "his wits as he snatches the lunchbox",
+        "from you and shovels the food down.",
+        ""
+      ],
+      "Translation": [
+        "\"That smell!\" he exclaims. \"Is that my",
+        "dear Claudia's cooking!? I thought I",
+        "forgot it this morning... How!?\"",
+        "[Page]",
+        "",
+        "\"I must be hallucinating...",
+        "Oh, no... I'm going to die. Damn it...",
+        "I'm sorry, Dia...\"",
+        "[Page]",
+        "",
+        "You wordlessly thrust the lunchbox out",
+        "to the soldier as he stares glassily",
+        "into space.",
+        "[Page]",
+        "",
+        "All of a sudden, the soldier regains",
+        "his wits as he snatches the lunchbox",
+        "from you and shovels the food down.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "\"Wow, I literally came back to life!",
+        "Man, that hit the spot! Oh... hey,",
+        "did you need something?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Wow, I literally came back to life!",
+        "Man, that hit the spot! Oh... hey,",
+        "did you need something?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "You do not even need to ask... This",
+        "man is clearly [Color:5]Aldis[Color:0].",
+        "[Page]",
+        "",
+        "It is hard to believe, but the request",
+        "is now complete and you have a report",
+        "to make. You quietly walk away...",
+        ""
+      ],
+      "Translation": [
+        "You do not even need to ask... This",
+        "man is clearly [Color:5]Aldis[Color:0].",
+        "[Page]",
+        "",
+        "It is hard to believe, but the request",
+        "is now complete and you have a report",
+        "to make. You quietly walk away...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "The boisterous voice of a man with a",
+        "full stomach echoes through the large",
+        "cavern thought to be a monster's nest.",
+        ""
+      ],
+      "Translation": [
+        "The boisterous voice of a man with a",
+        "full stomach echoes through the large",
+        "cavern thought to be a monster's nest.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Alfred",
+        "Aldis",
+        "Don't ask",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Alfred",
+        "Aldis",
+        "Don't ask",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Albert",
+        "Aldis",
+        "Don't ask",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Albert",
+        "Aldis",
+        "Don't ask",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Alistair",
+        "Aldis",
+        "Don't ask",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Alistair",
+        "Aldis",
+        "Don't ask",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Albert",
+        "Aldis",
+        "Alfred",
+        "Don't ask",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Albert",
+        "Aldis",
+        "Alfred",
+        "Don't ask",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Alfred",
+        "Alistair",
+        "Aldis",
+        "Don't ask",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Alfred",
+        "Alistair",
+        "Aldis",
+        "Don't ask",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Alistair",
+        "Aldis",
+        "Albert",
+        "Don't ask",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Alistair",
+        "Aldis",
+        "Albert",
+        "Don't ask",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Albert",
+        "Alistair",
+        "Aldis",
+        "Alfred",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will you ask about?[Color:0]",
+        "Albert",
+        "Alistair",
+        "Aldis",
+        "Alfred",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Ask for Aldis's location?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Ask for Aldis's location?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Cramped Nest[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Cramped Nest[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

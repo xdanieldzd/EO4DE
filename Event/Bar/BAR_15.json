@@ -1,0 +1,91 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_15",
+  "RelativePath": "Event\\Bar\\BAR_15.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Yo, fresh meat. How are you liking the",
+        "bar in this city?",
+        "[Page]",
+        "",
+        "After you guys are done sightseeing,",
+        "head to the [Color:5]Mark Grand Court[Color:0] and",
+        "accept a [Color:5]mission[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Yo, fresh meat. How are you liking the",
+        "bar in this city?",
+        "[Page]",
+        "",
+        "After you guys are done sightseeing,",
+        "head to the [Color:5]Mark Grand Court[Color:0] and",
+        "accept a [Color:5]mission[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Looks like you've taken on a mission.",
+        "Alright, let me teach you some basic",
+        "common knowledge.",
+        "[Page]",
+        "",
+        "Listen... the paths through dungeons",
+        "aren't always obvious.",
+        "[Page]",
+        "",
+        "If you see a wall that looks a little",
+        "different, stop and take a closer",
+        "look. There may be a [Color:5]secret passage[Color:0].",
+        "[Page]",
+        "",
+        "If you find a secret passage and mark",
+        "it on your map, it'll make exploring",
+        "much easier. Trust me.",
+        "[Page]",
+        "",
+        "I expect you guys to pass that down",
+        "the line once you're senior explorers.",
+        "That's how this stuff gets taught.",
+        ""
+      ],
+      "Translation": [
+        "Looks like you've taken on a mission.",
+        "Alright, let me teach you some basic",
+        "common knowledge.",
+        "[Page]",
+        "",
+        "Listen... the paths through dungeons",
+        "aren't always obvious.",
+        "[Page]",
+        "",
+        "If you see a wall that looks a little",
+        "different, stop and take a closer",
+        "look. There may be a [Color:5]secret passage[Color:0].",
+        "[Page]",
+        "",
+        "If you find a secret passage and mark",
+        "it on your map, it'll make exploring",
+        "much easier. Trust me.",
+        "[Page]",
+        "",
+        "I expect you guys to pass that down",
+        "the line once you're senior explorers.",
+        "That's how this stuff gets taught.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

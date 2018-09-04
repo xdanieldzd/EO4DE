@@ -1,0 +1,1352 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_010",
+  "RelativePath": "Event\\QR\\QR_010.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, you will take that request? The",
+        "client has demanded that you dispatch",
+        "certain specific explorers...",
+        ""
+      ],
+      "Translation": [
+        "Ah, you will take that request? The",
+        "client has demanded that you dispatch",
+        "certain specific explorers...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Monsters are plaguing the main road",
+        "on the outskirts of the city. Even the",
+        "city soldiers are having difficulties.",
+        "[Page]",
+        "",
+        "And so they have requested that a",
+        "skilled [Color:5]landsknecht[Color:0] be dispatched.",
+        "Can I ask this of you?",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "Monsters are plaguing the main road",
+        "on the outskirts of the city. Even the",
+        "city soldiers are having difficulties.",
+        "[Page]",
+        "",
+        "And so they have requested that a",
+        "skilled [Color:5]landsknecht[Color:0] be dispatched.",
+        "Can I ask this of you?",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "A young girl living in the city is",
+        "your client. A bird stole her precious",
+        "necklace in order to line its nest.",
+        "[Page]",
+        "",
+        "She wants someone who can retrieve",
+        "the necklace without alerting the",
+        "bird. A [Color:5]nightseeker[Color:0] would be ideal.",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "A young girl living in the city is",
+        "your client. A bird stole her precious",
+        "necklace in order to line its nest.",
+        "[Page]",
+        "",
+        "She wants someone who can retrieve",
+        "the necklace without alerting the",
+        "bird. A [Color:5]nightseeker[Color:0] would be ideal.",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Have you heard about the landslide",
+        "blocking the main road? The rocks are",
+        "being hauled away now...",
+        "[Page]",
+        "",
+        "But the foundation is weak and they",
+        "cannot predict when another collapse",
+        "may occur.",
+        "[Page]",
+        "",
+        "Thus, they want a strong [Color:5]fortress[Color:0] to",
+        "protect the workers. Can I ask this",
+        "of your guild?",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "Have you heard about the landslide",
+        "blocking the main road? The rocks are",
+        "being hauled away now...",
+        "[Page]",
+        "",
+        "But the foundation is weak and they",
+        "cannot predict when another collapse",
+        "may occur.",
+        "[Page]",
+        "",
+        "Thus, they want a strong [Color:5]fortress[Color:0] to",
+        "protect the workers. Can I ask this",
+        "of your guild?",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "It seems monsters on the other side of",
+        "the river are preventing merchants and",
+        "travellers from crossing.",
+        "[Page]",
+        "",
+        "They have requested a skilled [Color:5]sniper[Color:0]",
+        "to take out the monsters. Can I ask",
+        "you to provide one?",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "It seems monsters on the other side of",
+        "the river are preventing merchants and",
+        "travellers from crossing.",
+        "[Page]",
+        "",
+        "They have requested a skilled [Color:5]sniper[Color:0]",
+        "to take out the monsters. Can I ask",
+        "you to provide one?",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Your client is the guild known as the",
+        "Epicure Union. One of their members",
+        "is injured and cannot move.",
+        "[Page]",
+        "",
+        "The members of that guild are all",
+        "fortresses who feast on fine food",
+        "and, er, are quite large.",
+        "[Page]",
+        "",
+        "He cannot be carried to the clinic",
+        "under any circumstances. Thus, they",
+        "are requesting a [Color:5]medic[Color:0].",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "Your client is the guild known as the",
+        "Epicure Union. One of their members",
+        "is injured and cannot move.",
+        "[Page]",
+        "",
+        "The members of that guild are all",
+        "fortresses who feast on fine food",
+        "and, er, are quite large.",
+        "[Page]",
+        "",
+        "He cannot be carried to the clinic",
+        "under any circumstances. Thus, they",
+        "are requesting a [Color:5]medic[Color:0].",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "The client is a lovestruck girl who",
+        "lives in the city. It seems that she",
+        "is in need of a [Color:5]runemaster[Color:0].",
+        "[Page]",
+        "",
+        "She wants one to teach her a spell",
+        "that can ensnare her beloved.",
+        "[Page]",
+        "",
+        "When I imagine runes, I think of your",
+        "attacks, but runes were once more",
+        "commonly used for things like this.",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "The client is a lovestruck girl who",
+        "lives in the city. It seems that she",
+        "is in need of a [Color:5]runemaster[Color:0].",
+        "[Page]",
+        "",
+        "She wants one to teach her a spell",
+        "that can ensnare her beloved.",
+        "[Page]",
+        "",
+        "When I imagine runes, I think of your",
+        "attacks, but runes were once more",
+        "commonly used for things like this.",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Your client in this one is the",
+        "Outland Count. He is preparing a",
+        "banquet for foreign nobility.",
+        "[Page]",
+        "",
+        "They need a skilled [Color:5]dancer[Color:0] to provide",
+        "the evening's entertainment. Can I",
+        "ask that of you?",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "Your client in this one is the",
+        "Outland Count. He is preparing a",
+        "banquet for foreign nobility.",
+        "[Page]",
+        "",
+        "They need a skilled [Color:5]dancer[Color:0] to provide",
+        "the evening's entertainment. Can I",
+        "ask that of you?",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "The client is a man who has built a",
+        "house on Mark Road. He is concerned",
+        "about the placement of his furniture.",
+        "[Page]",
+        "",
+        "His feng shui, I believe. [Color:5]Arcanists[Color:0]",
+        "understand the flow of luck, do they",
+        "not? He needs a very skilled one.",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "The client is a man who has built a",
+        "house on Mark Road. He is concerned",
+        "about the placement of his furniture.",
+        "[Page]",
+        "",
+        "His feng shui, I believe. [Color:5]Arcanists[Color:0]",
+        "understand the flow of luck, do they",
+        "not? He needs a very skilled one.",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "That request comes from the Berund",
+        "Atelier. They are working with a new",
+        "metal and want advice on the process.",
+        "[Page]",
+        "",
+        "The Sentinels who wield both katana",
+        "and mace are experts in this regard.",
+        "I believe a [Color:5]bushi[Color:0] is called for here.",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "That request comes from the Berund",
+        "Atelier. They are working with a new",
+        "metal and want advice on the process.",
+        "[Page]",
+        "",
+        "The Sentinels who wield both katana",
+        "and mace are experts in this regard.",
+        "I believe a [Color:5]bushi[Color:0] is called for here.",
+        "[Page]",
+        "",
+        "Simply talk to me when you bring one.",
+        "I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "The client is the captain of the",
+        "soldier corps here. He wants someone",
+        "to teach his men Imperial tactics.",
+        "[Page]",
+        "",
+        "Their approach is something we can all",
+        "learn from. Perhaps you have a skilled",
+        "[Color:5]Imperial[Color:0] in your guild?",
+        "[Page]",
+        "",
+        "Can I ask this of you? Simply talk to",
+        "me when you bring one... I am counting",
+        "on you.",
+        ""
+      ],
+      "Translation": [
+        "The client is the captain of the",
+        "soldier corps here. He wants someone",
+        "to teach his men Imperial tactics.",
+        "[Page]",
+        "",
+        "Their approach is something we can all",
+        "learn from. Perhaps you have a skilled",
+        "[Color:5]Imperial[Color:0] in your guild?",
+        "[Page]",
+        "",
+        "Can I ask this of you? Simply talk to",
+        "me when you bring one... I am counting",
+        "on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]landsknecht[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]landsknecht[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]nightseeker[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]nightseeker[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]fortress[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]fortress[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]sniper[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]sniper[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]medic[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]medic[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]runemaster[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]runemaster[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]dancer[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]dancer[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]arcanist[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]arcanist[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]bushi[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]bushi[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]Imperial[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The client is requesting that you",
+        "dispatch a skilled [Color:5]Imperial[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Can I ask this of you? Simply talk to",
+        "me when you bring one... I am counting",
+        "on you.",
+        ""
+      ],
+      "Translation": [
+        "Can I ask this of you? Simply talk to",
+        "me when you bring one... I am counting",
+        "on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, yes, your report about the",
+        "dispatchment request. I again",
+        "thank you for your efforts.",
+        "[Page]",
+        "",
+        "But I expect it was nice to work for",
+        "the people of Tharsis in contrast to",
+        "your usual occupation.",
+        "[Page]",
+        "",
+        "Well then, here is your promised",
+        "reward. It is all yours...",
+        ""
+      ],
+      "Translation": [
+        "Ah, yes, your report about the",
+        "dispatchment request. I again",
+        "thank you for your efforts.",
+        "[Page]",
+        "",
+        "But I expect it was nice to work for",
+        "the people of Tharsis in contrast to",
+        "your usual occupation.",
+        "[Page]",
+        "",
+        "Well then, here is your promised",
+        "reward. It is all yours...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. Have you brought the",
+        "requested landsknecht?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. Have you brought the",
+        "requested landsknecht?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. Have you brought the",
+        "requested nightseeker?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. Have you brought the",
+        "requested nightseeker?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. Have you brought the",
+        "requested fortress?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. Have you brought the",
+        "requested fortress?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. Have you brought the",
+        "requested sniper?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. Have you brought the",
+        "requested sniper?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. Have you brought the",
+        "requested medic?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. Have you brought the",
+        "requested medic?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. Have you brought the",
+        "requested runemaster?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. Have you brought the",
+        "requested runemaster?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. Have you brought the",
+        "requested dancer?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. Have you brought the",
+        "requested dancer?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. Have you brought the",
+        "requested arcanist?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. Have you brought the",
+        "requested arcanist?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. Have you brought the",
+        "requested bushi?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. Have you brought the",
+        "requested bushi?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. Have you brought the",
+        "requested Imperial?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. Have you brought the",
+        "requested Imperial?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "Who will you send?",
+        ""
+      ],
+      "Translation": [
+        "Who will you send?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... [Character:0] is still new to",
+        "adventuring. I need someone a bit",
+        "more skilled.",
+        ""
+      ],
+      "Translation": [
+        "Hmm... [Character:0] is still new to",
+        "adventuring. I need someone a bit",
+        "more skilled.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, so [Character:0] will be the one to",
+        "go. I am not sure the client will be",
+        "pleased... but this will have to do.",
+        ""
+      ],
+      "Translation": [
+        "Ah, so [Character:0] will be the one to",
+        "go. I am not sure the client will be",
+        "pleased... but this will have to do.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, so [Character:0] will be the one to",
+        "go. I am sure the client will be pleased",
+        "to be sent such a skilled explorer.",
+        ""
+      ],
+      "Translation": [
+        "Ah, so [Character:0] will be the one to",
+        "go. I am sure the client will be pleased",
+        "to be sent such a skilled explorer.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Send [Character:0]?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Send [Character:0]?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "The rest of you must wait here.",
+        "[Character:0], please come with me...",
+        "I shall not be long.",
+        ""
+      ],
+      "Translation": [
+        "The rest of you must wait here.",
+        "[Character:0], please come with me...",
+        "I shall not be long.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, our erstwhile explorer is back!",
+        "Welcome, [Character:0]. How did you fare",
+        "in your task...?",
+        "[Page]",
+        "",
+        "Is this your report? Hmm... It seems",
+        "it went merely adequately.",
+        "[Page]",
+        "",
+        "But in any case, the job is complete.",
+        "Report the results to me whenever",
+        "you are ready.",
+        ""
+      ],
+      "Translation": [
+        "Ah, our erstwhile explorer is back!",
+        "Welcome, [Character:0]. How did you fare",
+        "in your task...?",
+        "[Page]",
+        "",
+        "Is this your report? Hmm... It seems",
+        "it went merely adequately.",
+        "[Page]",
+        "",
+        "But in any case, the job is complete.",
+        "Report the results to me whenever",
+        "you are ready.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, our erstwhile explorer is back!",
+        "Welcome, [Character:0]. How did you fare",
+        "in your task...?",
+        "[Page]",
+        "",
+        "Is this your report? My, it seems that",
+        "the client was more than satisfied.",
+        "They have offered a bonus to the reward.",
+        "[Page]",
+        "",
+        "Well done, [Character:0]! You are a",
+        "credit to your guild. The rest of",
+        "you should thank [Character:0].",
+        "[Page]",
+        "",
+        "In any case, you can report the",
+        "results to me whenever you are ready.",
+        ""
+      ],
+      "Translation": [
+        "Ah, our erstwhile explorer is back!",
+        "Welcome, [Character:0]. How did you fare",
+        "in your task...?",
+        "[Page]",
+        "",
+        "Is this your report? My, it seems that",
+        "the client was more than satisfied.",
+        "They have offered a bonus to the reward.",
+        "[Page]",
+        "",
+        "Well done, [Character:0]! You are a",
+        "credit to your guild. The rest of",
+        "you should thank [Character:0].",
+        "[Page]",
+        "",
+        "In any case, you can report the",
+        "results to me whenever you are ready.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] is not a landsknecht...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] is not a landsknecht...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] is not a nightseeker...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] is not a nightseeker...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] is not a fortress...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] is not a fortress...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] is not a sniper...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] is not a sniper...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] is not a medic...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] is not a medic...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] is not a runemaster...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] is not a runemaster...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] is not a dancer...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] is not a dancer...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] is not an arcanist...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] is not an arcanist...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] is not a bushi...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] is not a bushi...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] is not an Imperial...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] is not an Imperial...",
+        "The client was quite specific.",
+        "I need you to bring me someone else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "You recall the request for a skilled",
+        "adventurer you accepted at the bar...",
+        "[Page]",
+        "",
+        "[Character:0] is now skilled enough to",
+        "meet the client's requirements.",
+        "[Page]",
+        "",
+        "All that remains is to take [Character:0]",
+        "to the bar and speak to Kirtida.",
+        ""
+      ],
+      "Translation": [
+        "You recall the request for a skilled",
+        "adventurer you accepted at the bar...",
+        "[Page]",
+        "",
+        "[Character:0] is now skilled enough to",
+        "meet the client's requirements.",
+        "[Page]",
+        "",
+        "All that remains is to take [Character:0]",
+        "to the bar and speak to Kirtida.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

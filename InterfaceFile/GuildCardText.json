@@ -1,0 +1,454 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Guild Card text",
+  "RelativePath": "InterfaceFile\\GuildCardText.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Do not enter personal details",
+        "or offensive language.",
+        ""
+      ],
+      "Translation": [
+        "Do not enter personal details",
+        "or offensive language.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "You already have this clue.",
+        ""
+      ],
+      "Translation": [
+        "You already have this clue.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Received a treasure clue: [Variable1:0]!",
+        ""
+      ],
+      "Translation": [
+        "Received a treasure clue: [Variable1:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "The conditions have not been met.",
+        ""
+      ],
+      "Translation": [
+        "The conditions have not been met.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Are you sure you wish to discard",
+        "this guild card?",
+        ""
+      ],
+      "Translation": [
+        "Are you sure you wish to discard",
+        "this guild card?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "The guild card has been discarded.",
+        ""
+      ],
+      "Translation": [
+        "The guild card has been discarded.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Your level is not high enough.",
+        ""
+      ],
+      "Translation": [
+        "Your level is not high enough.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Your guild is full.",
+        ""
+      ],
+      "Translation": [
+        "Your guild is full.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": true,
+      "Original": [
+        "ゲームコインが足りません。",
+        ""
+      ],
+      "Translation": [
+        "ゲームコインが足りません。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "After registering the guild, the game",
+        "will automatically save. Continue?",
+        ""
+      ],
+      "Translation": [
+        "After registering the guild, the game",
+        "will automatically save. Continue?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "ゲームコイン20枚を使って",
+        "このキャラクターをギルドに登録しますか。",
+        ""
+      ],
+      "Translation": [
+        "ゲームコイン20枚を使って",
+        "このキャラクターをギルドに登録しますか。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Guild registration complete.",
+        ""
+      ],
+      "Translation": [
+        "Guild registration complete.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "That contains offensive language.",
+        "Please enter it again.",
+        ""
+      ],
+      "Translation": [
+        "That contains offensive language.",
+        "Please enter it again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "That contains too many numbers.",
+        "Please enter it again.",
+        ""
+      ],
+      "Translation": [
+        "That contains too many numbers.",
+        "Please enter it again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Outputting guild card QR Code to",
+        "the SD Card. [Color:3]If such data exists",
+        "already, it will be overwritten.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Outputting guild card QR Code to",
+        "the SD Card. [Color:3]If such data exists",
+        "already, it will be overwritten.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Output to the SD Card?",
+        ""
+      ],
+      "Translation": [
+        "Output to the SD Card?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Failed to access SD Card.",
+        ""
+      ],
+      "Translation": [
+        "Failed to access SD Card.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Failed to output to the SD Card.",
+        ""
+      ],
+      "Translation": [
+        "Failed to output to the SD Card.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Failed to generate QR Code.",
+        ""
+      ],
+      "Translation": [
+        "Failed to generate QR Code.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "QR Code has been output to the",
+        "SD Card.",
+        ""
+      ],
+      "Translation": [
+        "QR Code has been output to the",
+        "SD Card.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Output Guild Card data and image",
+        "to the SD Card?",
+        ""
+      ],
+      "Translation": [
+        "Output Guild Card data and image",
+        "to the SD Card?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Failed to output image.",
+        ""
+      ],
+      "Translation": [
+        "Failed to output image.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Guild Card image has been output",
+        "to the SD Card.",
+        ""
+      ],
+      "Translation": [
+        "Guild Card image has been output",
+        "to the SD Card.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,818 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_007",
+  "RelativePath": "Event\\QR\\QR_007.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "This request involves gathering food.",
+        "You will need [Color:6][Item2:0][Color:0] x[Color:5][Count:3][Color:0]",
+        "from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "You can use this basket to store the",
+        "food you find. Once it is full, return",
+        "here and deliver it.",
+        "[Page]",
+        "",
+        "I am eager to see what delicious",
+        "foods you retrieve. I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "This request involves gathering food.",
+        "You will need [Color:6][Item2:0][Color:0] x[Color:5][Count:3][Color:0]",
+        "from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "You can use this basket to store the",
+        "food you find. Once it is full, return",
+        "here and deliver it.",
+        "[Page]",
+        "",
+        "I am eager to see what delicious",
+        "foods you retrieve. I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Are you intending to take that",
+        "request? It involves gathering",
+        "food...",
+        "[Page]",
+        "",
+        "You will need [Color:6][Item2:0][Color:0] x[Color:5][Count:3][Color:0]",
+        "and [Color:6][Item2:1][Color:0] x[Color:5][Count:4][Color:0].",
+        "[Page]",
+        "",
+        "Both of them can be found in the",
+        "[Color:5][Location][Color:0]. I am eager to see",
+        "what delicious foods you retrieve...",
+        ""
+      ],
+      "Translation": [
+        "Are you intending to take that",
+        "request? It involves gathering",
+        "food...",
+        "[Page]",
+        "",
+        "You will need [Color:6][Item2:0][Color:0] x[Color:5][Count:3][Color:0]",
+        "and [Color:6][Item2:1][Color:0] x[Color:5][Count:4][Color:0].",
+        "[Page]",
+        "",
+        "Both of them can be found in the",
+        "[Color:5][Location][Color:0]. I am eager to see",
+        "what delicious foods you retrieve...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "You will accept that request? It",
+        "involves gathering food... The client",
+        "left a list.",
+        "[Page]",
+        "",
+        "[Color:6][Item2:0][Color:0] x[Color:5][Count:3][Color:0],",
+        "[Color:6][Item2:1][Color:0] x[Color:5][Count:4][Color:0],",
+        "and [Color:6][Item2:2][Color:0] x[Color:5][Count:5][Color:0].",
+        "[Page]",
+        "",
+        "All of them can be found in the",
+        "[Color:5][Location][Color:0]. I am eager to see",
+        "what delicious foods you retrieve...",
+        ""
+      ],
+      "Translation": [
+        "You will accept that request? It",
+        "involves gathering food... The client",
+        "left a list.",
+        "[Page]",
+        "",
+        "[Color:6][Item2:0][Color:0] x[Color:5][Count:3][Color:0],",
+        "[Color:6][Item2:1][Color:0] x[Color:5][Count:4][Color:0],",
+        "and [Color:6][Item2:2][Color:0] x[Color:5][Count:5][Color:0].",
+        "[Page]",
+        "",
+        "All of them can be found in the",
+        "[Color:5][Location][Color:0]. I am eager to see",
+        "what delicious foods you retrieve...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I am glad to see you",
+        "have returned safely. Here is your",
+        "promised reward.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I am glad to see you",
+        "have returned safely. Here is your",
+        "promised reward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Put in the [Color:6][Item2:0][Color:5]?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Put in the [Color:6][Item2:0][Color:5]?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Put in the [Color:6][Item2:1][Color:5]?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Put in the [Color:6][Item2:1][Color:5]?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Put in the [Color:6][Item2:2][Color:5]?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Put in the [Color:6][Item2:2][Color:5]?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "You put the [Item2:0]",
+        "carefully in the basket.",
+        ""
+      ],
+      "Translation": [
+        "You put the [Item2:0]",
+        "carefully in the basket.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "You put the [Item2:1]",
+        "carefully in the basket.",
+        ""
+      ],
+      "Translation": [
+        "You put the [Item2:1]",
+        "carefully in the basket.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "You put the [Item2:2]",
+        "carefully in the basket.",
+        ""
+      ],
+      "Translation": [
+        "You put the [Item2:2]",
+        "carefully in the basket.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You now have all the requested food!",
+        "All that remains is to go to the",
+        "bar and deliver the basket.",
+        ""
+      ],
+      "Translation": [
+        "You now have all the requested food!",
+        "All that remains is to go to the",
+        "bar and deliver the basket.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "The basket currently contains",
+        "[Item2:0] x[Number:1].",
+        ""
+      ],
+      "Translation": [
+        "The basket currently contains",
+        "[Item2:0] x[Number:1].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "You check the basket's contents...",
+        "[Page]",
+        "",
+        "The basket currently contains",
+        "[Item2:0] x[Number:1]",
+        "and [Item2:1] x[Number:2].",
+        ""
+      ],
+      "Translation": [
+        "You check the basket's contents...",
+        "[Page]",
+        "",
+        "The basket currently contains",
+        "[Item2:0] x[Number:1]",
+        "and [Item2:1] x[Number:2].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "You check the basket's contents...",
+        "[Page]",
+        "",
+        "[Item2:0] x[Number:1],",
+        "[Item2:1] x[Number:2],",
+        "and [Item2:2] x[Number:3]...",
+        "[Page]",
+        "",
+        "You press onward...",
+        ""
+      ],
+      "Translation": [
+        "You check the basket's contents...",
+        "[Page]",
+        "",
+        "[Item2:0] x[Number:1],",
+        "[Item2:1] x[Number:2],",
+        "and [Item2:2] x[Number:3]...",
+        "[Page]",
+        "",
+        "You press onward...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to store this food with",
+        "your own possessions rather than put",
+        "it in the basket.",
+        ""
+      ],
+      "Translation": [
+        "You decide to store this food with",
+        "your own possessions rather than put",
+        "it in the basket.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

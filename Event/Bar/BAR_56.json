@@ -1,0 +1,50 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_56",
+  "RelativePath": "Event\\Bar\\BAR_56.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ooh, did you hear the latest?",
+        "[Page]",
+        "",
+        "The son of a friend of Ms. Kurebo's",
+        "cousin who lives on the main street",
+        "is an explorer...",
+        "[Page]",
+        "",
+        "A group of [Color:5][Enemy1:64][Color:0]s sucked the",
+        "blood clean from his body, and now he",
+        "wanders the city as a vampire.",
+        "[Page]",
+        "",
+        "You guys should watch out for any",
+        "bats like that you see.",
+        ""
+      ],
+      "Translation": [
+        "Ooh, did you hear the latest?",
+        "[Page]",
+        "",
+        "The son of a friend of Ms. Kurebo's",
+        "cousin who lives on the main street",
+        "is an explorer...",
+        "[Page]",
+        "",
+        "A group of [Color:5][Enemy1:64][Color:0]s sucked the",
+        "blood clean from his body, and now he",
+        "wanders the city as a vampire.",
+        "[Page]",
+        "",
+        "You guys should watch out for any",
+        "bats like that you see.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

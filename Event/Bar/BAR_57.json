@@ -1,0 +1,435 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_57",
+  "RelativePath": "Event\\Bar\\BAR_57.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "To survive in the labyrinth, you need",
+        "to know your limitations.",
+        "[Page]",
+        "",
+        "If you have any questions for me,",
+        "don't hesitate to ask. I'm usually",
+        "here, too.",
+        ""
+      ],
+      "Translation": [
+        "To survive in the labyrinth, you need",
+        "to know your limitations.",
+        "[Page]",
+        "",
+        "If you have any questions for me,",
+        "don't hesitate to ask. I'm usually",
+        "here, too.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, what do you want to know?",
+        ""
+      ],
+      "Translation": [
+        "Oh, what do you want to know?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What will you ask her?[Color:0]",
+        "About battle",
+        "About equipment",
+        "About skills",
+        "Nothing",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What will you ask her?[Color:0]",
+        "About battle",
+        "About equipment",
+        "About skills",
+        "Nothing",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What subject will you discuss?[Color:0]",
+        "Party formation",
+        "Binds and ailments",
+        "The logbook",
+        "Nothing",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What subject will you discuss?[Color:0]",
+        "Party formation",
+        "Binds and ailments",
+        "The logbook",
+        "Nothing",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Listen to this... Swords and hammers",
+        "do high damage at melee range, but",
+        "aren't good for enemies in back.",
+        "[Page]",
+        "",
+        "But with bows and runes, you can do",
+        "very good damage at long range. The",
+        "same is true for your enemies, though!",
+        "[Page]",
+        "",
+        "You can change formation during",
+        "your turn to react to the changing",
+        "situation in battle, if you need.",
+        ""
+      ],
+      "Translation": [
+        "Listen to this... Swords and hammers",
+        "do high damage at melee range, but",
+        "aren't good for enemies in back.",
+        "[Page]",
+        "",
+        "But with bows and runes, you can do",
+        "very good damage at long range. The",
+        "same is true for your enemies, though!",
+        "[Page]",
+        "",
+        "You can change formation during",
+        "your turn to react to the changing",
+        "situation in battle, if you need.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Did you know enemies get used to",
+        "bindings and ailments over time? It's",
+        "hard to make the same one stick twice.",
+        "[Page]",
+        "",
+        "That's why it's better to have a",
+        "variety of bindings and ailments",
+        "at your disposal.",
+        ""
+      ],
+      "Translation": [
+        "Did you know enemies get used to",
+        "bindings and ailments over time? It's",
+        "hard to make the same one stick twice.",
+        "[Page]",
+        "",
+        "That's why it's better to have a",
+        "variety of bindings and ailments",
+        "at your disposal.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "I know the chaos of battle can leave",
+        "you lost, but it's important to stay",
+        "calm and consider your situation.",
+        "[Page]",
+        "",
+        "You can check your party's beneficial",
+        "effects and status ailments or open",
+        "the Codex to see enemy weaknesses...",
+        "[Page]",
+        "",
+        "[Color:3]During battle, press the Y Button at",
+        "the battle commands to see the party's",
+        "beneficial effects and ailments.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]By pressing the L Button, your party",
+        "will fight automatically. Press the R",
+        "Button to open the Monstrous Codex.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I know the chaos of battle can leave",
+        "you lost, but it's important to stay",
+        "calm and consider your situation.",
+        "[Page]",
+        "",
+        "You can check your party's beneficial",
+        "effects and status ailments or open",
+        "the Codex to see enemy weaknesses...",
+        "[Page]",
+        "",
+        "[Color:3]During battle, press the Y Button at",
+        "the battle commands to see the party's",
+        "beneficial effects and ailments.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]By pressing the L Button, your party",
+        "will fight automatically. Press the R",
+        "Button to open the Monstrous Codex.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What subject will you discuss?[Color:0]",
+        "Action speed",
+        "Special weapon effects",
+        "Nothing",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What subject will you discuss?[Color:0]",
+        "Action speed",
+        "Special weapon effects",
+        "Nothing",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "It seems obvious, but your equipment",
+        "has weight. The heavier it is, the",
+        "more it can slow you down in battle.",
+        "[Page]",
+        "",
+        "Rapiers are faster than swords, but",
+        "slower than daggers. That sort of",
+        "thing.",
+        "[Page]",
+        "",
+        "Shoes aren't considered to be armor,",
+        "but if you wear them, your action",
+        "speed will improve.",
+        "[Page]",
+        "",
+        "You don't have to worry about it at",
+        "first, but on the other hand, you",
+        "won't regret paying attention to it.",
+        ""
+      ],
+      "Translation": [
+        "It seems obvious, but your equipment",
+        "has weight. The heavier it is, the",
+        "more it can slow you down in battle.",
+        "[Page]",
+        "",
+        "Rapiers are faster than swords, but",
+        "slower than daggers. That sort of",
+        "thing.",
+        "[Page]",
+        "",
+        "Shoes aren't considered to be armor,",
+        "but if you wear them, your action",
+        "speed will improve.",
+        "[Page]",
+        "",
+        "You don't have to worry about it at",
+        "first, but on the other hand, you",
+        "won't regret paying attention to it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Do all of you have weapons imbued",
+        "with some kind of special effects?",
+        "[Page]",
+        "",
+        "If you equip a weapon with enhanced",
+        "abilities, you'll see the effect on",
+        "a regular basis.",
+        "[Page]",
+        "",
+        "But stat boosts, ailments, and bind",
+        "effects only apply to standard",
+        "attacks, so keep that in mind.",
+        ""
+      ],
+      "Translation": [
+        "Do all of you have weapons imbued",
+        "with some kind of special effects?",
+        "[Page]",
+        "",
+        "If you equip a weapon with enhanced",
+        "abilities, you'll see the effect on",
+        "a regular basis.",
+        "[Page]",
+        "",
+        "But stat boosts, ailments, and bind",
+        "effects only apply to standard",
+        "attacks, so keep that in mind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What subject will you discuss?[Color:0]",
+        "Key stats",
+        "Skill activation speed",
+        "Skill development",
+        "Nothing",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What subject will you discuss?[Color:0]",
+        "Key stats",
+        "Skill activation speed",
+        "Skill development",
+        "Nothing",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Did you know that skills which use",
+        "weapons are physical in nature? Their",
+        "power depends on your strength.",
+        "[Page]",
+        "",
+        "But skills that don't use weapons,",
+        "like a runemaster's runes, are more",
+        "dependent on the user's intelligence.",
+        "[Page]",
+        "",
+        "There are a few rare exceptions, too,",
+        "so don't forget about those.",
+        ""
+      ],
+      "Translation": [
+        "Did you know that skills which use",
+        "weapons are physical in nature? Their",
+        "power depends on your strength.",
+        "[Page]",
+        "",
+        "But skills that don't use weapons,",
+        "like a runemaster's runes, are more",
+        "dependent on the user's intelligence.",
+        "[Page]",
+        "",
+        "There are a few rare exceptions, too,",
+        "so don't forget about those.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Did you know that the time it takes",
+        "to activate a skill can be greatly",
+        "slowed down or sped up?",
+        "[Page]",
+        "",
+        "The more you develop a skill, the",
+        "faster it may activate.",
+        ""
+      ],
+      "Translation": [
+        "Did you know that the time it takes",
+        "to activate a skill can be greatly",
+        "slowed down or sped up?",
+        "[Page]",
+        "",
+        "The more you develop a skill, the",
+        "faster it may activate.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "You did know that to learn a new",
+        "skill, you might need to learn",
+        "whatever prerequisites it has, right?",
+        "[Page]",
+        "",
+        "Some skills just can't be learned by",
+        "explorers without enough experience.",
+        "So you have to keep up your training.",
+        ""
+      ],
+      "Translation": [
+        "You did know that to learn a new",
+        "skill, you might need to learn",
+        "whatever prerequisites it has, right?",
+        "[Page]",
+        "",
+        "Some skills just can't be learned by",
+        "explorers without enough experience.",
+        "So you have to keep up your training.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

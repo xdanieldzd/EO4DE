@@ -1,0 +1,99 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_61F",
+  "RelativePath": "Event\\Dungeon\\DUN_61F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "The wall before you has a crevice",
+        "just large enough for a person to",
+        "squeeze through.",
+        ""
+      ],
+      "Translation": [
+        "The wall before you has a crevice",
+        "just large enough for a person to",
+        "squeeze through.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Go through?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Go through?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "The sharp icicles concealed inside",
+        "tear into your flesh! You will never",
+        "make it through like this...!",
+        ""
+      ],
+      "Translation": [
+        "The sharp icicles concealed inside",
+        "tear into your flesh! You will never",
+        "make it through like this...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You peer into the crevice, but the",
+        "icicles inside block your view of",
+        "whatever is on the other side.",
+        "[Page]",
+        "",
+        "A quick look around shows that there",
+        "are similar crevices dotting the",
+        "walls of the cave.",
+        "[Page]",
+        "",
+        "You wonder if you should try squeezing",
+        "through the crevice, or find another",
+        "way to ascertain the way forward.",
+        ""
+      ],
+      "Translation": [
+        "You peer into the crevice, but the",
+        "icicles inside block your view of",
+        "whatever is on the other side.",
+        "[Page]",
+        "",
+        "A quick look around shows that there",
+        "are similar crevices dotting the",
+        "walls of the cave.",
+        "[Page]",
+        "",
+        "You wonder if you should try squeezing",
+        "through the crevice, or find another",
+        "way to ascertain the way forward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

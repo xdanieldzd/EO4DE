@@ -1,0 +1,28 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "wireless_explain",
+  "RelativePath": "Event\\wireless_explain.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "最近、正体不明の魔物が海都周辺に出没し",
+        "困っている。その魔物を討伐する為、各ギ",
+        "ルドから優秀な冒険者を集う事になった。",
+        "[Color:5]報酬:[Color:0]名声",
+        ""
+      ],
+      "Translation": [
+        "最近、正体不明の魔物が海都周辺に出没し",
+        "困っている。その魔物を討伐する為、各ギ",
+        "ルドから優秀な冒険者を集う事になった。",
+        "[Color:5]報酬:[Color:0]名声",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

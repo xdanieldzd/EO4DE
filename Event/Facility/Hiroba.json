@@ -1,0 +1,1729 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Hiroba",
+  "RelativePath": "Event\\Facility\\Hiroba.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You return from your search to see",
+        "a group of soldiers gathered in a",
+        "corner of the city square.",
+        "[Page]",
+        "",
+        "There is anger in their voices as they",
+        "say things such as, \"That monster...!\"",
+        "and \"We can't let this stand!\"",
+        "[Page]",
+        "",
+        "As you are wondering what could have",
+        "happened, you suddenly hear a familiar",
+        "voice address you.",
+        ""
+      ],
+      "Translation": [
+        "You return from your search to see",
+        "a group of soldiers gathered in a",
+        "corner of the city square.",
+        "[Page]",
+        "",
+        "There is anger in their voices as they",
+        "say things such as, \"That monster...!\"",
+        "and \"We can't let this stand!\"",
+        "[Page]",
+        "",
+        "As you are wondering what could have",
+        "happened, you suddenly hear a familiar",
+        "voice address you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey, you made it back safe. Great!\"",
+        "Whirlwind walks up and greets you.",
+        "[Page]",
+        "",
+        "\"Oh, that soldier I carried back?",
+        "He'll live, though he'll be in the",
+        "hospital for a while.",
+        "[Page]",
+        "",
+        "\"I was lucky to bring even him back,",
+        "though... Sounds like the rest of his",
+        "troop was completely wiped out.",
+        "[Page]",
+        "",
+        "\"From what I got out of him before he",
+        "passed out, they got attacked by some",
+        "bear creature with blood-red fur.",
+        "[Page]",
+        "",
+        "\"The Outland Count's not taking this",
+        "one lying down. If you go to the Grand",
+        "Court, he'll ask you for its head.",
+        "[Page]",
+        "",
+        "\"But I wouldn't recommend that you go",
+        "charging down into B2F. Fact is, the",
+        "monsters there are too strong.",
+        "[Page]",
+        "",
+        "\"But if you follow the river by the",
+        "Lush Woodlands west, there's this",
+        "place called the [Color:5]Small Orchard[Color:0].",
+        "[Page]",
+        "",
+        "\"The monsters there are perfect to do",
+        "a little training on. If you want",
+        "practice, that's where I'd go.",
+        "[Page]",
+        "",
+        "\"Well, I should take off. Make sure",
+        "you don't do anything reckless, okay?",
+        "[Page]",
+        "",
+        "\"That'll lead nowhere but trouble,\"",
+        "Whirlwind chuckles as he walks to the",
+        "city gates.",
+        ""
+      ],
+      "Translation": [
+        "\"Hey, you made it back safe. Great!\"",
+        "Whirlwind walks up and greets you.",
+        "[Page]",
+        "",
+        "\"Oh, that soldier I carried back?",
+        "He'll live, though he'll be in the",
+        "hospital for a while.",
+        "[Page]",
+        "",
+        "\"I was lucky to bring even him back,",
+        "though... Sounds like the rest of his",
+        "troop was completely wiped out.",
+        "[Page]",
+        "",
+        "\"From what I got out of him before he",
+        "passed out, they got attacked by some",
+        "bear creature with blood-red fur.",
+        "[Page]",
+        "",
+        "\"The Outland Count's not taking this",
+        "one lying down. If you go to the Grand",
+        "Court, he'll ask you for its head.",
+        "[Page]",
+        "",
+        "\"But I wouldn't recommend that you go",
+        "charging down into B2F. Fact is, the",
+        "monsters there are too strong.",
+        "[Page]",
+        "",
+        "\"But if you follow the river by the",
+        "Lush Woodlands west, there's this",
+        "place called the [Color:5]Small Orchard[Color:0].",
+        "[Page]",
+        "",
+        "\"The monsters there are perfect to do",
+        "a little training on. If you want",
+        "practice, that's where I'd go.",
+        "[Page]",
+        "",
+        "\"Well, I should take off. Make sure",
+        "you don't do anything reckless, okay?",
+        "[Page]",
+        "",
+        "\"That'll lead nowhere but trouble,\"",
+        "Whirlwind chuckles as he walks to the",
+        "city gates.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to be on your way as well.",
+        ""
+      ],
+      "Translation": [
+        "You decide to be on your way as well.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You return from exploring the Misty",
+        "Ravine.",
+        "[Page]",
+        "",
+        "Your discovery of the Vessel Town is",
+        "too important to keep to yourself.",
+        "[Page]",
+        "",
+        "What they know of Yggdrasil cannot be",
+        "taken lightly. You will have to report",
+        "your findings to the Count.",
+        "[Page]",
+        "",
+        "As you stand in the square and",
+        "contemplate your next course of",
+        "action, an explorer approaches you.",
+        ""
+      ],
+      "Translation": [
+        "You return from exploring the Misty",
+        "Ravine.",
+        "[Page]",
+        "",
+        "Your discovery of the Vessel Town is",
+        "too important to keep to yourself.",
+        "[Page]",
+        "",
+        "What they know of Yggdrasil cannot be",
+        "taken lightly. You will have to report",
+        "your findings to the Count.",
+        "[Page]",
+        "",
+        "As you stand in the square and",
+        "contemplate your next course of",
+        "action, an explorer approaches you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "\"It's been a while, hasn't it? But",
+        "we're both still standing, which is",
+        "always good.\"",
+        "[Page]",
+        "",
+        "You nod a greeting to Whirlwind.",
+        "\"I heard a rumor you found something",
+        "amazing. What did you see out there?\"",
+        ""
+      ],
+      "Translation": [
+        "\"It's been a while, hasn't it? But",
+        "we're both still standing, which is",
+        "always good.\"",
+        "[Page]",
+        "",
+        "You nod a greeting to Whirlwind.",
+        "\"I heard a rumor you found something",
+        "amazing. What did you see out there?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Tell him of what happened?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Tell him of what happened?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "\"Vessels, the Medium, and Yggdrasil,",
+        "huh? So that's the way they heard the",
+        "story of Yggdrasil...\"",
+        "[Page]",
+        "",
+        "You are momentarily taken aback to see",
+        "Whirlwind's usually cheerful face lose",
+        "its warmth and turn to an icy stare.",
+        "[Page]",
+        "",
+        "\"Oh, sorry! I didn't mean to get all",
+        "serious on you there. Here, take this,",
+        "with my compliments.\"",
+        "[Page]",
+        "",
+        "He pushes a bottle of medicine into",
+        "your hands.",
+        ""
+      ],
+      "Translation": [
+        "\"Vessels, the Medium, and Yggdrasil,",
+        "huh? So that's the way they heard the",
+        "story of Yggdrasil...\"",
+        "[Page]",
+        "",
+        "You are momentarily taken aback to see",
+        "Whirlwind's usually cheerful face lose",
+        "its warmth and turn to an icy stare.",
+        "[Page]",
+        "",
+        "\"Oh, sorry! I didn't mean to get all",
+        "serious on you there. Here, take this,",
+        "with my compliments.\"",
+        "[Page]",
+        "",
+        "He pushes a bottle of medicine into",
+        "your hands.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "\"Aww, the silent treatment now? You're",
+        "just hogging all the good stuff for",
+        "yourselves, is that it?\"",
+        "[Page]",
+        "",
+        "\"Haha, kidding, I'm kidding. A real",
+        "explorer would go and find out for",
+        "himself!\" Whirlwind jokes.",
+        ""
+      ],
+      "Translation": [
+        "\"Aww, the silent treatment now? You're",
+        "just hogging all the good stuff for",
+        "yourselves, is that it?\"",
+        "[Page]",
+        "",
+        "\"Haha, kidding, I'm kidding. A real",
+        "explorer would go and find out for",
+        "himself!\" Whirlwind jokes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "\"That reminds me, there's this cave",
+        "I don't know if you've seen yet.",
+        "It's called the [Color:5]Moth's Garden[Color:0].",
+        "[Page]",
+        "",
+        "\"I heard there's lots of rare plant",
+        "monsters there, so I went to go look.",
+        "And... now I know why that is.",
+        "[Page]",
+        "",
+        "\"Any weaker, plant-eating animals",
+        "there get gobbled up by the [Color:5][Enemy1:88][Color:0]",
+        "that roams around.",
+        "[Page]",
+        "",
+        "\"That [Enemy1:88] didn't make it easy to",
+        "get inside the place. But you should",
+        "go for it. It's pretty interesting.",
+        "[Page]",
+        "",
+        "\"I know you've got things going on,",
+        "but if you don't get yourself a little",
+        "stronger, I think you'll regret it.",
+        ""
+      ],
+      "Translation": [
+        "\"That reminds me, there's this cave",
+        "I don't know if you've seen yet.",
+        "It's called the [Color:5]Moth's Garden[Color:0].",
+        "[Page]",
+        "",
+        "\"I heard there's lots of rare plant",
+        "monsters there, so I went to go look.",
+        "And... now I know why that is.",
+        "[Page]",
+        "",
+        "\"Any weaker, plant-eating animals",
+        "there get gobbled up by the [Color:5][Enemy1:88][Color:0]",
+        "that roams around.",
+        "[Page]",
+        "",
+        "\"That [Enemy1:88] didn't make it easy to",
+        "get inside the place. But you should",
+        "go for it. It's pretty interesting.",
+        "[Page]",
+        "",
+        "\"I know you've got things going on,",
+        "but if you don't get yourself a little",
+        "stronger, I think you'll regret it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "\"Okay, see you.\" He gives you an even",
+        "simpler farewell than usual and leaves",
+        "the square.",
+        ""
+      ],
+      "Translation": [
+        "\"Okay, see you.\" He gives you an even",
+        "simpler farewell than usual and leaves",
+        "the square.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "After finishing the task of bringing",
+        "the Medium and the Outland Count",
+        "together, you rest in the square.",
+        "[Page]",
+        "",
+        "Whirlwind is here as well, looking",
+        "directly at you.",
+        "[Page]",
+        "",
+        "It seems he was waiting for you to",
+        "come out of the Grand Court.",
+        ""
+      ],
+      "Translation": [
+        "After finishing the task of bringing",
+        "the Medium and the Outland Count",
+        "together, you rest in the square.",
+        "[Page]",
+        "",
+        "Whirlwind is here as well, looking",
+        "directly at you.",
+        "[Page]",
+        "",
+        "It seems he was waiting for you to",
+        "come out of the Grand Court.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "\"Looks like you set off something big.",
+        "Even though you were just honoring",
+        "a request, that was awful kind of you.",
+        "[Page]",
+        "",
+        "\"I don't know if I'd have gone to all",
+        "that trouble for the Vessels if it",
+        "was me they picked a fight with.",
+        "[Page]",
+        "",
+        "\"Seriously... you're too soft. I worry",
+        "about you guys.",
+        "[Page]",
+        "",
+        "\"Keep it up, and you'll get burned in",
+        "the end... trust someone too much and",
+        "you're just asking to get betrayed.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Looks like you set off something big.",
+        "Even though you were just honoring",
+        "a request, that was awful kind of you.",
+        "[Page]",
+        "",
+        "\"I don't know if I'd have gone to all",
+        "that trouble for the Vessels if it",
+        "was me they picked a fight with.",
+        "[Page]",
+        "",
+        "\"Seriously... you're too soft. I worry",
+        "about you guys.",
+        "[Page]",
+        "",
+        "\"Keep it up, and you'll get burned in",
+        "the end... trust someone too much and",
+        "you're just asking to get betrayed.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Having finished speaking his mind,",
+        "Whirlwind turns and walks toward the",
+        "city gates...",
+        ""
+      ],
+      "Translation": [
+        "Having finished speaking his mind,",
+        "Whirlwind turns and walks toward the",
+        "city gates...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "As you are about to step into the busy",
+        "city square after reporting in on your",
+        "mission, someone calls to you.",
+        ""
+      ],
+      "Translation": [
+        "As you are about to step into the busy",
+        "city square after reporting in on your",
+        "mission, someone calls to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hold it, please! I have a message to",
+        "you from the Outland Count.\"",
+        "[Page]",
+        "",
+        "The soldier takes a moment to catch",
+        "his breath before pulling out a letter",
+        "and reading it over.",
+        "[Page]",
+        "",
+        "\"It says he will be giving you a",
+        "[Color:6][Item:2189][Color:0].",
+        "[Page]",
+        "",
+        "\"I'm guessing that's equipment for",
+        "your skyship? Maybe that's why he",
+        "can't give it to you by hand.",
+        "[Page]",
+        "",
+        "\"It says here it's been delivered to",
+        "the city gates, and you should ask",
+        "the one in charge there for details.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hold it, please! I have a message to",
+        "you from the Outland Count.\"",
+        "[Page]",
+        "",
+        "The soldier takes a moment to catch",
+        "his breath before pulling out a letter",
+        "and reading it over.",
+        "[Page]",
+        "",
+        "\"It says he will be giving you a",
+        "[Color:6][Item:2189][Color:0].",
+        "[Page]",
+        "",
+        "\"I'm guessing that's equipment for",
+        "your skyship? Maybe that's why he",
+        "can't give it to you by hand.",
+        "[Page]",
+        "",
+        "\"It says here it's been delivered to",
+        "the city gates, and you should ask",
+        "the one in charge there for details.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier apologizes for delaying",
+        "you and nods curtly before leaving.",
+        ""
+      ],
+      "Translation": [
+        "The soldier apologizes for delaying",
+        "you and nods curtly before leaving.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "\"Aha, the [Guild] Guild. How's the",
+        "[Skyship]? If she's getting banged up",
+        "for nothing, I'll have your hide.\"",
+        "[Page]",
+        "",
+        "The one calling to you so soon after",
+        "your arrival in town is the wharf",
+        "master.",
+        "[Page]",
+        "",
+        "Upon seeing his face, you remember",
+        "the natural labyrinth you saw atop",
+        "the cliff.",
+        "[Page]",
+        "",
+        "\"A labyrinth on a cliff, eh? This is",
+        "just between us, but the [Skyship]",
+        "is supposed to be able to fly higher.",
+        "[Page]",
+        "",
+        "\"Do yeh remember the [Color:6][Item:1173][Color:0]?",
+        "If we had something that made lighter",
+        "gases than that, we could do it.",
+        "[Page]",
+        "",
+        "\"If yeh happen to find anything like",
+        "that, bring it by the [Color:5]Cargo Wharf[Color:0] and",
+        "I bet I can fix something up for yeh.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Aha, the [Guild] Guild. How's the",
+        "[Skyship]? If she's getting banged up",
+        "for nothing, I'll have your hide.\"",
+        "[Page]",
+        "",
+        "The one calling to you so soon after",
+        "your arrival in town is the wharf",
+        "master.",
+        "[Page]",
+        "",
+        "Upon seeing his face, you remember",
+        "the natural labyrinth you saw atop",
+        "the cliff.",
+        "[Page]",
+        "",
+        "\"A labyrinth on a cliff, eh? This is",
+        "just between us, but the [Skyship]",
+        "is supposed to be able to fly higher.",
+        "[Page]",
+        "",
+        "\"Do yeh remember the [Color:6][Item:1173][Color:0]?",
+        "If we had something that made lighter",
+        "gases than that, we could do it.",
+        "[Page]",
+        "",
+        "\"If yeh happen to find anything like",
+        "that, bring it by the [Color:5]Cargo Wharf[Color:0] and",
+        "I bet I can fix something up for yeh.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "The wharf master seems confident... If",
+        "you find [Color:5]something that makes lighter",
+        "gases[Color:0], bring it to the Cargo Wharf.",
+        ""
+      ],
+      "Translation": [
+        "The wharf master seems confident... If",
+        "you find [Color:5]something that makes lighter",
+        "gases[Color:0], bring it to the Cargo Wharf.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "You show the [Color:6][Item:1226][Color:0] to the wharf",
+        "master, who grows excited when he",
+        "sees the ore's gleam.",
+        "[Page]",
+        "",
+        "\"Ah, that's the stuff! This is just",
+        "what I was hoping for.",
+        "[Page]",
+        "",
+        "\"I want to do a few tests on it...",
+        "Bring it to the Cargo Wharf at once.",
+        "And don't go selling it or anything!\"",
+        ""
+      ],
+      "Translation": [
+        "You show the [Color:6][Item:1226][Color:0] to the wharf",
+        "master, who grows excited when he",
+        "sees the ore's gleam.",
+        "[Page]",
+        "",
+        "\"Ah, that's the stuff! This is just",
+        "what I was hoping for.",
+        "[Page]",
+        "",
+        "\"I want to do a few tests on it...",
+        "Bring it to the Cargo Wharf at once.",
+        "And don't go selling it or anything!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "With that, he rushes off to the",
+        "Cargo Wharf.",
+        ""
+      ],
+      "Translation": [
+        "With that, he rushes off to the",
+        "Cargo Wharf.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "You recall the wharf master urging you",
+        "to find something that could make",
+        "lighter gases...",
+        "[Page]",
+        "",
+        "The [Color:6][Item:1226][Color:0] you carry would seem",
+        "to fit that description quite well.",
+        "[Page]",
+        "",
+        "You consider heading to the Cargo",
+        "Wharf to show it to him and make a",
+        "mental note [Color:5]not to sell it[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You recall the wharf master urging you",
+        "to find something that could make",
+        "lighter gases...",
+        "[Page]",
+        "",
+        "The [Color:6][Item:1226][Color:0] you carry would seem",
+        "to fit that description quite well.",
+        "[Page]",
+        "",
+        "You consider heading to the Cargo",
+        "Wharf to show it to him and make a",
+        "mental note [Color:5]not to sell it[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, Guild [Guild]. Odd that we",
+        "should meet this way, as we had some",
+        "business with you.\"",
+        "[Page]",
+        "",
+        "Kirjonen hails you in the city square.",
+        "Unusually, Wiglaf is with him.",
+        "[Page]",
+        "",
+        "\"We have prepared a piece of equipment",
+        "for your skyship that we hope you",
+        "find useful. It is a [Item:2193].\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, Guild [Guild]. Odd that we",
+        "should meet this way, as we had some",
+        "business with you.\"",
+        "[Page]",
+        "",
+        "Kirjonen hails you in the city square.",
+        "Unusually, Wiglaf is with him.",
+        "[Page]",
+        "",
+        "\"We have prepared a piece of equipment",
+        "for your skyship that we hope you",
+        "find useful. It is a [Item:2193].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "\"With this thing, you can give your",
+        "skyship a short speed boost! It really",
+        "comes in handy.",
+        "[Page]",
+        "",
+        "\"Kirjonen and I talked it over, and",
+        "you've helped us both out so much",
+        "that we had this made for you.",
+        "[Page]",
+        "",
+        "\"It's waiting for you now over at",
+        "the city gates!\"",
+        ""
+      ],
+      "Translation": [
+        "\"With this thing, you can give your",
+        "skyship a short speed boost! It really",
+        "comes in handy.",
+        "[Page]",
+        "",
+        "\"Kirjonen and I talked it over, and",
+        "you've helped us both out so much",
+        "that we had this made for you.",
+        "[Page]",
+        "",
+        "\"It's waiting for you now over at",
+        "the city gates!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "You thank the two of them for their",
+        "gift and make a note to check your",
+        "skyship equipment at the city gates.",
+        ""
+      ],
+      "Translation": [
+        "You thank the two of them for their",
+        "gift and make a note to check your",
+        "skyship equipment at the city gates.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "You notice something odd about your",
+        "belongings. The inside of your",
+        "knapsack is drenched with water...!",
+        "[Page]",
+        "",
+        "When checking to discover the cause,",
+        "you find that the [Color:6][Item:1215][Color:0]",
+        "in your possession had melted.",
+        "[Page]",
+        "",
+        "It seems it was unable to withstand",
+        "the change in environments.",
+        ""
+      ],
+      "Translation": [
+        "You notice something odd about your",
+        "belongings. The inside of your",
+        "knapsack is drenched with water...!",
+        "[Page]",
+        "",
+        "When checking to discover the cause,",
+        "you find that the [Color:6][Item:1215][Color:0]",
+        "in your possession had melted.",
+        "[Page]",
+        "",
+        "It seems it was unable to withstand",
+        "the change in environments.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]All [Color:6][Item:1215][Color:3]s have been lost.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]All [Color:6][Item:1215][Color:3]s have been lost.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "After turning in your report to the",
+        "Count, you notice a man standing near",
+        "the exit of the Grand Court.",
+        ""
+      ],
+      "Translation": [
+        "After turning in your report to the",
+        "Count, you notice a man standing near",
+        "the exit of the Grand Court.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey there, [Guild] Guild. I heard",
+        "yeh had quite the scuffle.",
+        "[Page]",
+        "",
+        "\"I was worried the [Skyship] would",
+        "come out the worse for wear, but it",
+        "looks like I had nothing to fear.",
+        "[Page]",
+        "",
+        "\"The Outland Count told me to bring",
+        "something for your skyship, though.",
+        "It's called a [Color:6][Item:2191][Color:0].",
+        "[Page]",
+        "",
+        "\"I've already had it delivered to the",
+        "city gates, so yeh can attach it to",
+        "the ship anytime yeh like.",
+        "[Page]",
+        "",
+        "\"This might be the last favor I get",
+        "to do for yeh...\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hey there, [Guild] Guild. I heard",
+        "yeh had quite the scuffle.",
+        "[Page]",
+        "",
+        "\"I was worried the [Skyship] would",
+        "come out the worse for wear, but it",
+        "looks like I had nothing to fear.",
+        "[Page]",
+        "",
+        "\"The Outland Count told me to bring",
+        "something for your skyship, though.",
+        "It's called a [Color:6][Item:2191][Color:0].",
+        "[Page]",
+        "",
+        "\"I've already had it delivered to the",
+        "city gates, so yeh can attach it to",
+        "the ship anytime yeh like.",
+        "[Page]",
+        "",
+        "\"This might be the last favor I get",
+        "to do for yeh...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "The wharf master heads back to the",
+        "Cargo Wharf, somewhat dejected.",
+        ""
+      ],
+      "Translation": [
+        "The wharf master heads back to the",
+        "Cargo Wharf, somewhat dejected.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, [Guild]!\" A Sentinel you recall",
+        "from the Golden Lair calls to you in",
+        "the city square.",
+        "[Page]",
+        "",
+        "\"We came in hopes that we could help",
+        "you in some way.",
+        "[Page]",
+        "",
+        "\"It is possible that this so-called",
+        "Empire will directly attack your",
+        "city of Tharsis.\"",
+        "[Page]",
+        "",
+        "He promises you that they will do their",
+        "utmost to protect the city, and then",
+        "heads toward the city gates.",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, [Guild]!\" A Sentinel you recall",
+        "from the Golden Lair calls to you in",
+        "the city square.",
+        "[Page]",
+        "",
+        "\"We came in hopes that we could help",
+        "you in some way.",
+        "[Page]",
+        "",
+        "\"It is possible that this so-called",
+        "Empire will directly attack your",
+        "city of Tharsis.\"",
+        "[Page]",
+        "",
+        "He promises you that they will do their",
+        "utmost to protect the city, and then",
+        "heads toward the city gates.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "\"You must be the [Guild] Guild...",
+        "I recall seeing you in our town.\"",
+        "[Page]",
+        "",
+        "The soft-spoken Vessel asks, \"I'd like",
+        "to know something...",
+        "[Page]",
+        "",
+        "\"Which way is it to the... Berund",
+        "Atelier? Ah... I see...\"",
+        "[Page]",
+        "",
+        "After you give him directions to the",
+        "shop, he nods. \"I am grateful for",
+        "your kindness.\"",
+        "[Page]",
+        "",
+        "\"In truth, [Color:5]the Medium has not been",
+        "well lately[Color:0]... so I have come to",
+        "Tharsis in search of medicine.",
+        "[Page]",
+        "",
+        "\"I understand that you're busy, but if",
+        "you have the time, please visit our",
+        "town. The Medium would like that.\"",
+        "[Page]",
+        "",
+        "He nods to you once again before",
+        "going off in search of the medicine.",
+        ""
+      ],
+      "Translation": [
+        "\"You must be the [Guild] Guild...",
+        "I recall seeing you in our town.\"",
+        "[Page]",
+        "",
+        "The soft-spoken Vessel asks, \"I'd like",
+        "to know something...",
+        "[Page]",
+        "",
+        "\"Which way is it to the... Berund",
+        "Atelier? Ah... I see...\"",
+        "[Page]",
+        "",
+        "After you give him directions to the",
+        "shop, he nods. \"I am grateful for",
+        "your kindness.\"",
+        "[Page]",
+        "",
+        "\"In truth, [Color:5]the Medium has not been",
+        "well lately[Color:0]... so I have come to",
+        "Tharsis in search of medicine.",
+        "[Page]",
+        "",
+        "\"I understand that you're busy, but if",
+        "you have the time, please visit our",
+        "town. The Medium would like that.\"",
+        "[Page]",
+        "",
+        "He nods to you once again before",
+        "going off in search of the medicine.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "As you enter the public square of",
+        "Tharsis, the wharf master approaches",
+        "you, his face troubled...",
+        ""
+      ],
+      "Translation": [
+        "As you enter the public square of",
+        "Tharsis, the wharf master approaches",
+        "you, his face troubled...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "\"I've got bad news for yeh... That",
+        "Emergency Pole yeh set up has been",
+        "[Color:5]destroyed[Color:0].",
+        "[Page]",
+        "",
+        "\"All I know is that someone who saw",
+        "it happen said it was the work of a",
+        "[Color:5]gigantic monster[Color:0].",
+        "[Page]",
+        "",
+        "\"Maybe yeh know what he means? Anyway,",
+        "it sounds like yeh should be careful",
+        "where yeh put your Emergency Poles.\"",
+        ""
+      ],
+      "Translation": [
+        "\"I've got bad news for yeh... That",
+        "Emergency Pole yeh set up has been",
+        "[Color:5]destroyed[Color:0].",
+        "[Page]",
+        "",
+        "\"All I know is that someone who saw",
+        "it happen said it was the work of a",
+        "[Color:5]gigantic monster[Color:0].",
+        "[Page]",
+        "",
+        "\"Maybe yeh know what he means? Anyway,",
+        "it sounds like yeh should be careful",
+        "where yeh put your Emergency Poles.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The Emergency Pole you set has been",
+        "destroyed by a monster.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The Emergency Pole you set has been",
+        "destroyed by a monster.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

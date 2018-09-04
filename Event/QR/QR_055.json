@@ -1,0 +1,310 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_055",
+  "RelativePath": "Event\\QR\\QR_055.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "That request, hmm? The man sitting",
+        "over there is the client? Do you see",
+        "him? The showy, flashy explorer?",
+        "[Page]",
+        "",
+        "He calls himself the \"lonely monster",
+        "hunter.\" *sigh* Anyone with the nerve",
+        "to call themselves that is...",
+        "[Page]",
+        "",
+        "In any case, you should talk to him.",
+        "Kismet be with you, and I shall await",
+        "your hasty return.",
+        ""
+      ],
+      "Translation": [
+        "That request, hmm? The man sitting",
+        "over there is the client? Do you see",
+        "him? The showy, flashy explorer?",
+        "[Page]",
+        "",
+        "He calls himself the \"lonely monster",
+        "hunter.\" *sigh* Anyone with the nerve",
+        "to call themselves that is...",
+        "[Page]",
+        "",
+        "In any case, you should talk to him.",
+        "Kismet be with you, and I shall await",
+        "your hasty return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Well done in completing that request.",
+        "You did another fine job.",
+        "[Page]",
+        "",
+        "That \"lonely hunter,\" however, looks",
+        "rather the worse for wear. I cannot",
+        "believe he thinks himself skilled...",
+        "[Page]",
+        "",
+        "Nor can I believe he was willing to",
+        "pay to show off. How drunk can a man",
+        "become on his ego?",
+        "[Page]",
+        "",
+        "I am grateful that you would bother",
+        "to clear out his request... Here is",
+        "the so-called hunter's reward.",
+        ""
+      ],
+      "Translation": [
+        "Well done in completing that request.",
+        "You did another fine job.",
+        "[Page]",
+        "",
+        "That \"lonely hunter,\" however, looks",
+        "rather the worse for wear. I cannot",
+        "believe he thinks himself skilled...",
+        "[Page]",
+        "",
+        "Nor can I believe he was willing to",
+        "pay to show off. How drunk can a man",
+        "become on his ego?",
+        "[Page]",
+        "",
+        "I am grateful that you would bother",
+        "to clear out his request... Here is",
+        "the so-called hunter's reward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the specified meeting",
+        "location, but the client is nowhere",
+        "to be seen.",
+        "[Page]",
+        "",
+        "If you wish to rendezvous with the",
+        "client, you will need to return at",
+        "[Color:5]night[Color:0], as he specified.",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the specified meeting",
+        "location, but the client is nowhere",
+        "to be seen.",
+        "[Page]",
+        "",
+        "If you wish to rendezvous with the",
+        "client, you will need to return at",
+        "[Color:5]night[Color:0], as he specified.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the specified meeting",
+        "location, but the client is nowhere",
+        "to be seen.",
+        "[Page]",
+        "",
+        "Just as you begin to wonder what is",
+        "going on, you hear a man's scream",
+        "amid the sound of bushes rustling!",
+        "[Page]",
+        "",
+        "You squint to see through the darkness",
+        "and vaguely make out a man's shape,",
+        "pursued by giant monsters!",
+        "[Page]",
+        "",
+        "It is your client...!",
+        "[Page]",
+        "",
+        "He is clearly in need of immediate",
+        "assistance, though you may wish to",
+        "hold off until you are prepared...",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the specified meeting",
+        "location, but the client is nowhere",
+        "to be seen.",
+        "[Page]",
+        "",
+        "Just as you begin to wonder what is",
+        "going on, you hear a man's scream",
+        "amid the sound of bushes rustling!",
+        "[Page]",
+        "",
+        "You squint to see through the darkness",
+        "and vaguely make out a man's shape,",
+        "pursued by giant monsters!",
+        "[Page]",
+        "",
+        "It is your client...!",
+        "[Page]",
+        "",
+        "He is clearly in need of immediate",
+        "assistance, though you may wish to",
+        "hold off until you are prepared...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Challenge the monsters?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Challenge the monsters?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Slaying the monsters was not part of",
+        "the request. Realizing that, you elect",
+        "to watch the client flee in terror.",
+        ""
+      ],
+      "Translation": [
+        "Slaying the monsters was not part of",
+        "the request. Realizing that, you elect",
+        "to watch the client flee in terror.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "After you confirm the monsters'",
+        "deaths and sheathe your weapons, the",
+        "client ambles out, cracking jokes.",
+        "[Page]",
+        "",
+        "He claims that he set the monster's",
+        "favorite food here in order to ambush",
+        "it by night, but his scheme failed.",
+        "[Page]",
+        "",
+        "He tells you the monster likes eating",
+        "[Color:5][Item:2049][Color:0], [Color:5][Item:2050][Color:0],",
+        "and [Color:5][Item:2051][Color:0].",
+        "[Page]",
+        "",
+        "You meet the client's excuses with a",
+        "cold stare. He eventually exhibits",
+        "shame and meekly hangs his head.",
+        "[Page]",
+        "",
+        "The client thanks you, apologizes,",
+        "and trudges back to his own skyship.",
+        "[Page]",
+        "",
+        "You witnessed no \"miracle\" here, but",
+        "the request is complete regardless.",
+        "You should report back to the bar.",
+        ""
+      ],
+      "Translation": [
+        "After you confirm the monsters'",
+        "deaths and sheathe your weapons, the",
+        "client ambles out, cracking jokes.",
+        "[Page]",
+        "",
+        "He claims that he set the monster's",
+        "favorite food here in order to ambush",
+        "it by night, but his scheme failed.",
+        "[Page]",
+        "",
+        "He tells you the monster likes eating",
+        "[Color:5][Item:2049][Color:0], [Color:5][Item:2050][Color:0],",
+        "and [Color:5][Item:2051][Color:0].",
+        "[Page]",
+        "",
+        "You meet the client's excuses with a",
+        "cold stare. He eventually exhibits",
+        "shame and meekly hangs his head.",
+        "[Page]",
+        "",
+        "The client thanks you, apologizes,",
+        "and trudges back to his own skyship.",
+        "[Page]",
+        "",
+        "You witnessed no \"miracle\" here, but",
+        "the request is complete regardless.",
+        "You should report back to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "It does not seem the monster will",
+        "appear here again for some time.",
+        "You should report back to the bar.",
+        ""
+      ],
+      "Translation": [
+        "It does not seem the monster will",
+        "appear here again for some time.",
+        "You should report back to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

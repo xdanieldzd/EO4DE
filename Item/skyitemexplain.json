@@ -1,0 +1,3193 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Skyship food item descriptions",
+  "RelativePath": "Item\\skyitemexplain.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "An average beast that",
+        "loves bathing.",
+        ""
+      ],
+      "Translation": [
+        "An average beast that",
+        "loves bathing.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "The quality of its meat",
+        "is seen in the horn.",
+        ""
+      ],
+      "Translation": [
+        "The quality of its meat",
+        "is seen in the horn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "All cuts of its meat",
+        "are marbled with fat.",
+        ""
+      ],
+      "Translation": [
+        "All cuts of its meat",
+        "are marbled with fat.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Popular not just as",
+        "meat, but as a pet.",
+        ""
+      ],
+      "Translation": [
+        "Popular not just as",
+        "meat, but as a pet.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Its liver is a natural",
+        "for making foie gras.",
+        ""
+      ],
+      "Translation": [
+        "Its liver is a natural",
+        "for making foie gras.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "There is as yet no",
+        "known way to farm it.",
+        ""
+      ],
+      "Translation": [
+        "There is as yet no",
+        "known way to farm it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "All Tharsis fishermen",
+        "are acquainted with it.",
+        ""
+      ],
+      "Translation": [
+        "All Tharsis fishermen",
+        "are acquainted with it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Very popular for salt",
+        "roasting.",
+        ""
+      ],
+      "Translation": [
+        "Very popular for salt",
+        "roasting.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Catching this proves",
+        "a fisherman's caliber.",
+        ""
+      ],
+      "Translation": [
+        "Catching this proves",
+        "a fisherman's caliber.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "These small carrots",
+        "can be grown at home.",
+        ""
+      ],
+      "Translation": [
+        "These small carrots",
+        "can be grown at home.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Sugary-sweet and",
+        "beloved by children.",
+        ""
+      ],
+      "Translation": [
+        "Sugary-sweet and",
+        "beloved by children.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "This poisonous carrot",
+        "must be cooked properly.",
+        ""
+      ],
+      "Translation": [
+        "This poisonous carrot",
+        "must be cooked properly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "The meat's texture is",
+        "perfect for a hot pot.",
+        ""
+      ],
+      "Translation": [
+        "The meat's texture is",
+        "perfect for a hot pot.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Its meat can easily be",
+        "torn with one's teeth.",
+        ""
+      ],
+      "Translation": [
+        "Its meat can easily be",
+        "torn with one's teeth.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Its high-quality meat",
+        "shines a milky white.",
+        ""
+      ],
+      "Translation": [
+        "Its high-quality meat",
+        "shines a milky white.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "This mushroom's scent",
+        "is like dried apricots.",
+        ""
+      ],
+      "Translation": [
+        "This mushroom's scent",
+        "is like dried apricots.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Its stalk has the taste",
+        "and texture of oysters.",
+        ""
+      ],
+      "Translation": [
+        "Its stalk has the taste",
+        "and texture of oysters.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "This \"forest queen\"",
+        "has a lacy curtain.",
+        ""
+      ],
+      "Translation": [
+        "This \"forest queen\"",
+        "has a lacy curtain.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "It preys on fish using",
+        "its beard as a lure.",
+        ""
+      ],
+      "Translation": [
+        "It preys on fish using",
+        "its beard as a lure.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "A speckled fish with",
+        "nice, fatty meat.",
+        ""
+      ],
+      "Translation": [
+        "A speckled fish with",
+        "nice, fatty meat.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Its silver flesh is",
+        "delightfully juicy.",
+        ""
+      ],
+      "Translation": [
+        "Its silver flesh is",
+        "delightfully juicy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "This ostrich's red",
+        "meat is quite healthy.",
+        ""
+      ],
+      "Translation": [
+        "This ostrich's red",
+        "meat is quite healthy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "The fat stored in its",
+        "hump is delicious.",
+        ""
+      ],
+      "Translation": [
+        "The fat stored in its",
+        "hump is delicious.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "Cooks must treat its",
+        "poison sacs with care.",
+        ""
+      ],
+      "Translation": [
+        "Cooks must treat its",
+        "poison sacs with care.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "A rare source for",
+        "protein in cold climes.",
+        ""
+      ],
+      "Translation": [
+        "A rare source for",
+        "protein in cold climes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "A beautiful hare with",
+        "hints of red fur.",
+        ""
+      ],
+      "Translation": [
+        "A beautiful hare with",
+        "hints of red fur.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "An uncommon hare said",
+        "to bring good fortune.",
+        ""
+      ],
+      "Translation": [
+        "An uncommon hare said",
+        "to bring good fortune.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "A bird commonly cooked",
+        "by roasting it whole.",
+        ""
+      ],
+      "Translation": [
+        "A bird commonly cooked",
+        "by roasting it whole.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "Its snow white feathers",
+        "are used as decoration.",
+        ""
+      ],
+      "Translation": [
+        "Its snow white feathers",
+        "are used as decoration.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "Considered a delicacy",
+        "even in faraway lands.",
+        ""
+      ],
+      "Translation": [
+        "Considered a delicacy",
+        "even in faraway lands.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Caught by fishing in",
+        "holes in frozen lakes.",
+        ""
+      ],
+      "Translation": [
+        "Caught by fishing in",
+        "holes in frozen lakes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "A perfect fish for",
+        "frying.",
+        ""
+      ],
+      "Translation": [
+        "A perfect fish for",
+        "frying.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "Used in soup stock for",
+        "its multiple tastes.",
+        ""
+      ],
+      "Translation": [
+        "Used in soup stock for",
+        "its multiple tastes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "It looks unappetizing,",
+        "but tastes very sweet.",
+        ""
+      ],
+      "Translation": [
+        "It looks unappetizing,",
+        "but tastes very sweet.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "A sweet apple grown",
+        "in darkness.",
+        ""
+      ],
+      "Translation": [
+        "A sweet apple grown",
+        "in darkness.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "Its sweet poison must",
+        "be carefully removed.",
+        ""
+      ],
+      "Translation": [
+        "Its sweet poison must",
+        "be carefully removed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "It likes high places",
+        "and climbs aqueducts.",
+        ""
+      ],
+      "Translation": [
+        "It likes high places",
+        "and climbs aqueducts.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "Its quality milk yields",
+        "delicious cheese.",
+        ""
+      ],
+      "Translation": [
+        "Its quality milk yields",
+        "delicious cheese.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "When cooked, makes for",
+        "high-quality mutton.",
+        ""
+      ],
+      "Translation": [
+        "When cooked, makes for",
+        "high-quality mutton.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "Can fly very high and",
+        "is popular as a pet.",
+        ""
+      ],
+      "Translation": [
+        "Can fly very high and",
+        "is popular as a pet.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Its sashimi has a",
+        "strong umami taste.",
+        ""
+      ],
+      "Translation": [
+        "Its sashimi has a",
+        "strong umami taste.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Always found in pairs;",
+        "a popular wedding dish.",
+        ""
+      ],
+      "Translation": [
+        "Always found in pairs;",
+        "a popular wedding dish.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "Fishermen relish its",
+        "fierce pull on the line.",
+        ""
+      ],
+      "Translation": [
+        "Fishermen relish its",
+        "fierce pull on the line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "Lacks the odor found",
+        "in freshwater carp.",
+        ""
+      ],
+      "Translation": [
+        "Lacks the odor found",
+        "in freshwater carp.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": false,
+      "Original": [
+        "Lives 100 years, then",
+        "soars into the heavens.",
+        ""
+      ],
+      "Translation": [
+        "Lives 100 years, then",
+        "soars into the heavens.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "Its noodlelike fruit",
+        "is tasty in salads.",
+        ""
+      ],
+      "Translation": [
+        "Its noodlelike fruit",
+        "is tasty in salads.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "Its chestnut taste",
+        "fetches high prices.",
+        ""
+      ],
+      "Translation": [
+        "Its chestnut taste",
+        "fetches high prices.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "Turns to acid in your",
+        "mouth if cooked wrong.",
+        ""
+      ],
+      "Translation": [
+        "Turns to acid in your",
+        "mouth if cooked wrong.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "Crystalized rage of",
+        "the Great Dragon.",
+        ""
+      ],
+      "Translation": [
+        "Crystalized rage of",
+        "the Great Dragon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": false,
+      "Original": [
+        "Crystalized aura of",
+        "the Storm Emperor.",
+        ""
+      ],
+      "Translation": [
+        "Crystalized aura of",
+        "the Storm Emperor.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "Crystalized malice of",
+        "the Blizzard King.",
+        ""
+      ],
+      "Translation": [
+        "Crystalized malice of",
+        "the Blizzard King.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        "Not used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": false,
+      "Original": [
+        "Its tender meat is",
+        "marbled with fat.",
+        ""
+      ],
+      "Translation": [
+        "Its tender meat is",
+        "marbled with fat.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": false,
+      "Original": [
+        "Its unfathomable taste",
+        "is beyond words.",
+        ""
+      ],
+      "Translation": [
+        "Its unfathomable taste",
+        "is beyond words.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": false,
+      "Original": [
+        "Its juice is rich",
+        "enough to intoxicate.",
+        ""
+      ],
+      "Translation": [
+        "Its juice is rich",
+        "enough to intoxicate.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 108,
+      "IsIgnored": false,
+      "Original": [
+        "Truffles only a Gray",
+        "Black Pig can find.",
+        ""
+      ],
+      "Translation": [
+        "Truffles only a Gray",
+        "Black Pig can find.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 109,
+      "IsIgnored": false,
+      "Original": [
+        "Shines like crystals",
+        "and melts in your mouth.",
+        ""
+      ],
+      "Translation": [
+        "Shines like crystals",
+        "and melts in your mouth.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "Its incredible taste",
+        "leaves one speechless.",
+        ""
+      ],
+      "Translation": [
+        "Its incredible taste",
+        "leaves one speechless.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "It makes a thronelike",
+        "nest to lay its eggs.",
+        ""
+      ],
+      "Translation": [
+        "It makes a thronelike",
+        "nest to lay its eggs.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "Its taste gets a",
+        "warrior's blood racing.",
+        ""
+      ],
+      "Translation": [
+        "Its taste gets a",
+        "warrior's blood racing.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 117,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 118,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 119,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 128,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 129,
+      "IsIgnored": true,
+      "Original": [
+        "航海の為の伝統的な食料品",
+        "鉄の板と呼ばれるほど堅い",
+        ""
+      ],
+      "Translation": [
+        "航海の為の伝統的な食料品",
+        "鉄の板と呼ばれるほど堅い",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": true,
+      "Original": [
+        "海都産の豆類の種子を",
+        "乾燥させた安価な食料品",
+        ""
+      ],
+      "Translation": [
+        "海都産の豆類の種子を",
+        "乾燥させた安価な食料品",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": true,
+      "Original": [
+        "海都に住む羊の乳から作った",
+        "チーズで栄養価が高い",
+        ""
+      ],
+      "Translation": [
+        "海都に住む羊の乳から作った",
+        "チーズで栄養価が高い",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": true,
+      "Original": [
+        "ビタミンを多分に含んだ",
+        "木の実で遠洋航海には必須",
+        ""
+      ],
+      "Translation": [
+        "ビタミンを多分に含んだ",
+        "木の実で遠洋航海には必須",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": true,
+      "Original": [
+        "遠洋航海における貴重な糖分",
+        "摂取源である干しぶどう",
+        ""
+      ],
+      "Translation": [
+        "遠洋航海における貴重な糖分",
+        "摂取源である干しぶどう",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": true,
+      "Original": [
+        "塩漬けし発酵させた野菜",
+        "ビタミンが非常に豊富",
+        ""
+      ],
+      "Translation": [
+        "塩漬けし発酵させた野菜",
+        "ビタミンが非常に豊富",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": true,
+      "Original": [
+        "タラを塩漬けにし干したもの",
+        "塩抜きを行う必要がある",
+        ""
+      ],
+      "Translation": [
+        "タラを塩漬けにし干したもの",
+        "塩抜きを行う必要がある",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 136,
+      "IsIgnored": true,
+      "Original": [
+        "イシモチを発酵させたもの",
+        "保存が効くが臭いが強い",
+        ""
+      ],
+      "Translation": [
+        "イシモチを発酵させたもの",
+        "保存が効くが臭いが強い",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 137,
+      "IsIgnored": true,
+      "Original": [
+        "塩漬けにした後干した牛肉",
+        "様々な用途に用いられる",
+        ""
+      ],
+      "Translation": [
+        "塩漬けにした後干した牛肉",
+        "様々な用途に用いられる",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 138,
+      "IsIgnored": true,
+      "Original": [
+        "勇魚肉を燻製にしたベーコン",
+        "船員たちの貴重な蛋白源",
+        ""
+      ],
+      "Translation": [
+        "勇魚肉を燻製にしたベーコン",
+        "船員たちの貴重な蛋白源",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 139,
+      "IsIgnored": true,
+      "Original": [
+        "一匹で船員たちの夕食を全て",
+        "賄えるほど巨大なゾウガメ",
+        ""
+      ],
+      "Translation": [
+        "一匹で船員たちの夕食を全て",
+        "賄えるほど巨大なゾウガメ",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 140,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": true,
+      "Original": [
+        "古き言葉でヘビを意味する",
+        "砲身が非常に長い砲",
+        ""
+      ],
+      "Translation": [
+        "古き言葉でヘビを意味する",
+        "砲身が非常に長い砲",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": true,
+      "Original": [
+        "粉砕者の異名を持つ",
+        "海都最新最強の滑腔砲",
+        ""
+      ],
+      "Translation": [
+        "粉砕者の異名を持つ",
+        "海都最新最強の滑腔砲",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": true,
+      "Original": [
+        "メインマストの前に設置",
+        "される補助用のマスト",
+        ""
+      ],
+      "Translation": [
+        "メインマストの前に設置",
+        "される補助用のマスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": true,
+      "Original": [
+        "船の最後尾に艤装する",
+        "大型の補助マスト",
+        ""
+      ],
+      "Translation": [
+        "船の最後尾に艤装する",
+        "大型の補助マスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": true,
+      "Original": [
+        "大漁を祈るためのイルカを",
+        "象った船首像",
+        ""
+      ],
+      "Translation": [
+        "大漁を祈るためのイルカを",
+        "象った船首像",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 147,
+      "IsIgnored": true,
+      "Original": [
+        "漁の成功を祈願して作られた",
+        "海洋の女神を象った船首像",
+        ""
+      ],
+      "Translation": [
+        "漁の成功を祈願して作られた",
+        "海洋の女神を象った船首像",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": true,
+      "Original": [
+        "掲げると大漁が約束されると",
+        "言われる伝統工芸の大漁旗",
+        ""
+      ],
+      "Translation": [
+        "掲げると大漁が約束されると",
+        "言われる伝統工芸の大漁旗",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 149,
+      "IsIgnored": true,
+      "Original": [
+        "より大きく派手になった",
+        "大漁祈願の大旗",
+        ""
+      ],
+      "Translation": [
+        "より大きく派手になった",
+        "大漁祈願の大旗",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": true,
+      "Original": [
+        "麻や綿糸で編まれた投げ網",
+        "海都の漁師の一般的な漁具",
+        ""
+      ],
+      "Translation": [
+        "麻や綿糸で編まれた投げ網",
+        "海都の漁師の一般的な漁具",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 151,
+      "IsIgnored": true,
+      "Original": [
+        "水面からつるして使う網",
+        "投網以上の効果を発揮する",
+        ""
+      ],
+      "Translation": [
+        "水面からつるして使う網",
+        "投網以上の効果を発揮する",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 152,
+      "IsIgnored": true,
+      "Original": [
+        "名人ネッドの巨大銛",
+        "威力が高く勇魚狩りに有効",
+        ""
+      ],
+      "Translation": [
+        "名人ネッドの巨大銛",
+        "威力が高く勇魚狩りに有効",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 153,
+      "IsIgnored": true,
+      "Original": [
+        "勇魚を狙い撃つ為の銛砲",
+        "火薬の力で銛を打ち出す",
+        ""
+      ],
+      "Translation": [
+        "勇魚を狙い撃つ為の銛砲",
+        "火薬の力で銛を打ち出す",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 154,
+      "IsIgnored": true,
+      "Original": [
+        "船首水線下に取り付ける",
+        "海藻を切り裂くための武装",
+        ""
+      ],
+      "Translation": [
+        "船首水線下に取り付ける",
+        "海藻を切り裂くための武装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": true,
+      "Original": [
+        "船底の耐久性を高める装甲",
+        "危険な暗礁を航海可能になる",
+        ""
+      ],
+      "Translation": [
+        "船底の耐久性を高める装甲",
+        "危険な暗礁を航海可能になる",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 156,
+      "IsIgnored": true,
+      "Original": [
+        "大漁の祈願と航海の安全を",
+        "祈り掲げる小さな旗",
+        ""
+      ],
+      "Translation": [
+        "大漁の祈願と航海の安全を",
+        "祈り掲げる小さな旗",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 157,
+      "IsIgnored": true,
+      "Original": [
+        "移動をしながら道中の魚を",
+        "獲ることが出来る底引き網",
+        ""
+      ],
+      "Translation": [
+        "移動をしながら道中の魚を",
+        "獲ることが出来る底引き網",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 158,
+      "IsIgnored": true,
+      "Original": [
+        "南海の海賊船討伐を",
+        "認可された証の旗",
+        ""
+      ],
+      "Translation": [
+        "南海の海賊船討伐を",
+        "認可された証の旗",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 159,
+      "IsIgnored": true,
+      "Original": [
+        "北海の海賊船討伐を",
+        "認可された証の旗",
+        ""
+      ],
+      "Translation": [
+        "北海の海賊船討伐を",
+        "認可された証の旗",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 160,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": true,
+      "Original": [
+        "極めて硬質な黒石の表面に",
+        "螺旋状に文字が彫られた石板",
+        ""
+      ],
+      "Translation": [
+        "極めて硬質な黒石の表面に",
+        "螺旋状に文字が彫られた石板",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "有名な博物全誌原書の切れ端",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "有名な博物全誌原書の切れ端",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第1巻",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第1巻",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第2巻",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第2巻",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第3巻",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第3巻",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 166,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第4巻",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第4巻",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 167,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第5巻",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第5巻",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 168,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第6巻",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第6巻",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 169,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第7巻",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第7巻",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 170,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第8巻",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第8巻",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第9巻",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第9巻",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": true,
+      "Original": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第10巻",
+        ""
+      ],
+      "Translation": [
+        "かのプリニウスが書き残した",
+        "博物全誌の武具編第10巻",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 177,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 178,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 179,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 180,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 183,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 184,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 185,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 186,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 187,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 188,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 189,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 190,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 191,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

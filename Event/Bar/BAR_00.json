@@ -1,0 +1,52 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_00",
+  "RelativePath": "Event\\Bar\\BAR_00.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Word is that magic-usin' monster",
+        "got you guys too?",
+        "[Page]",
+        "",
+        "I think it's all in the eyes...",
+        "[Page]",
+        "",
+        "You should try running at it with your",
+        "backs turned so you can't see 'em!",
+        "Haha, what am I saying...",
+        "[Page]",
+        "",
+        "That sounds stupid even to me!",
+        "Hahahahahahaha!",
+        ""
+      ],
+      "Translation": [
+        "Es heißt, dieses Monster mit seiner",
+        "Magie hätte Euch auch erwischt?",
+        "[Page]",
+        "",
+        "Ich denke ja, es ist alles eine Frage",
+        "der Augen...",
+        "[Page]",
+        "",
+        "Ihr solltet mal versuchen, mit dem",
+        "Rücken zuerst auf das Vieh zuzurennen,",
+        "damit Ihr es nicht seht!",
+        "[Page]",
+        "",
+        "Ha, was rede ich da?",
+        "[Page]",
+        "",
+        "Das klingt selbst mir zu dämlich!",
+        "Hahahahahahaha!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

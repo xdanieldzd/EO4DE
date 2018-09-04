@@ -1,0 +1,572 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Party debug menu?",
+  "RelativePath": "Debug\\debug_party_help.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Party 0 (Default)",
+        "Party 1 for A2",
+        "Orthodox Party",
+        ""
+      ],
+      "Translation": [
+        "Party 0 (Default)",
+        "Party 1 for A2",
+        "Orthodox Party",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": true,
+      "Original": [
+        "Party 1",
+        "Party 2 for A2",
+        "\"Quirky\" Party",
+        ""
+      ],
+      "Translation": [
+        "Party 1",
+        "Party 2 for A2",
+        "\"Quirky\" Party",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": true,
+      "Original": [
+        "Party 2",
+        "Ch.1 Boss Party",
+        ""
+      ],
+      "Translation": [
+        "Party 2",
+        "Ch.1 Boss Party",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": true,
+      "Original": [
+        "Party 3",
+        "Ch.1 Boss Party 2",
+        ""
+      ],
+      "Translation": [
+        "Party 3",
+        "Ch.1 Boss Party 2",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": true,
+      "Original": [
+        "Party 4",
+        "For Skill Tree checks",
+        ""
+      ],
+      "Translation": [
+        "Party 4",
+        "For Skill Tree checks",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": true,
+      "Original": [
+        "Party 5",
+        "Ch.2 Boss Party",
+        ""
+      ],
+      "Translation": [
+        "Party 5",
+        "Ch.2 Boss Party",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": true,
+      "Original": [
+        "Party 6",
+        "Ch.2 Boss Party 2",
+        ""
+      ],
+      "Translation": [
+        "Party 6",
+        "Ch.2 Boss Party 2",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": true,
+      "Original": [
+        "Party 7",
+        "Ch.3 Boss Party",
+        ""
+      ],
+      "Translation": [
+        "Party 7",
+        "Ch.3 Boss Party",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": true,
+      "Original": [
+        "Party 8",
+        "Ch.4 Boss Party",
+        ""
+      ],
+      "Translation": [
+        "Party 8",
+        "Ch.4 Boss Party",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": true,
+      "Original": [
+        "Party 9",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 9",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "Party 10",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 10",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "Party 11",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 11",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": true,
+      "Original": [
+        "Party 12",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 12",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": true,
+      "Original": [
+        "Party 13",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 13",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": true,
+      "Original": [
+        "Party 14",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 14",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": true,
+      "Original": [
+        "Party 15",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 15",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": true,
+      "Original": [
+        "Party 16",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 16",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": true,
+      "Original": [
+        "Party 17",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 17",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": true,
+      "Original": [
+        "Party 18",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 18",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": true,
+      "Original": [
+        "Party 19",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 19",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": true,
+      "Original": [
+        "Party 20",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 20",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": true,
+      "Original": [
+        "Party 21",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 21",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": true,
+      "Original": [
+        "Party 22",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 22",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": true,
+      "Original": [
+        "Party 23",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 23",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": true,
+      "Original": [
+        "Party 24",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 24",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": true,
+      "Original": [
+        "Party 25",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 25",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": true,
+      "Original": [
+        "Party 26",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 26",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": true,
+      "Original": [
+        "Party 27",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 27",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": true,
+      "Original": [
+        "Party 28",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 28",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": true,
+      "Original": [
+        "Party 29",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 29",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": true,
+      "Original": [
+        "Party 30",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 30",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": true,
+      "Original": [
+        "Party 31",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 31",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": true,
+      "Original": [
+        "Party 32",
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Party 32",
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

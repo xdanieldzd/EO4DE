@@ -1,0 +1,499 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_73F",
+  "RelativePath": "Event\\Dungeon\\DUN_73F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed through the ancient,",
+        "bookshelf-lined labyrinth, you find",
+        "a shallow pond at a dead end.",
+        "[Page]",
+        "",
+        "You peer into it to see a crayfish in",
+        "the muddy waters. Its fine pincers",
+        "are fascinating to behold.",
+        "[Page]",
+        "",
+        "You have an odd sense of deja vu...",
+        "Has something like this happened",
+        "before? If not, then no matter.",
+        "[Page]",
+        "",
+        "...If you want, you may try to catch",
+        "the crayfish, though you are not sure",
+        "you can spare the time.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed through the ancient,",
+        "bookshelf-lined labyrinth, you find",
+        "a shallow pond at a dead end.",
+        "[Page]",
+        "",
+        "You peer into it to see a crayfish in",
+        "the muddy waters. Its fine pincers",
+        "are fascinating to behold.",
+        "[Page]",
+        "",
+        "You have an odd sense of deja vu...",
+        "Has something like this happened",
+        "before? If not, then no matter.",
+        "[Page]",
+        "",
+        "...If you want, you may try to catch",
+        "the crayfish, though you are not sure",
+        "you can spare the time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You see a fine, robust specimen of a",
+        "crayfish in the small pond here. You",
+        "may attempt to catch it if you like.",
+        ""
+      ],
+      "Translation": [
+        "You see a fine, robust specimen of a",
+        "crayfish in the small pond here. You",
+        "may attempt to catch it if you like.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Catch the crayfish?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Catch the crayfish?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will catch it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will catch it?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] sticks a hand into the water",
+        "to catch the crayfish, but then gives",
+        "a surprised yelp!",
+        "[Page]",
+        "",
+        "You look and see that [Character:0]'s",
+        "finger is swollen and bleeding! This",
+        "crayfish may not be so helpless...",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] sticks a hand into the water",
+        "to catch the crayfish, but then gives",
+        "a surprised yelp!",
+        "[Page]",
+        "",
+        "You look and see that [Character:0]'s",
+        "finger is swollen and bleeding! This",
+        "crayfish may not be so helpless...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] loses 50 HP.[Color:0]",
+        "[Page]",
+        "",
+        "The crayfish raises its pincers and",
+        "makes a threatening gesture at you...",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] loses 50 HP.[Color:0]",
+        "[Page]",
+        "",
+        "The crayfish raises its pincers and",
+        "makes a threatening gesture at you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "The crayfish nimbly dodges [Character:0]'s",
+        "hand and splashes mud with its tail!",
+        "[Page]",
+        "",
+        "The mud squirts into [Character:0]'s eyes,",
+        "who squints while shouting in pain!",
+        "[Page]",
+        "",
+        "The crayfish snaps its claws open",
+        "and shut as if to taunt you...",
+        ""
+      ],
+      "Translation": [
+        "The crayfish nimbly dodges [Character:0]'s",
+        "hand and splashes mud with its tail!",
+        "[Page]",
+        "",
+        "The mud squirts into [Character:0]'s eyes,",
+        "who squints while shouting in pain!",
+        "[Page]",
+        "",
+        "The crayfish snaps its claws open",
+        "and shut as if to taunt you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] grabs at the crayfish, but",
+        "it zigzags away with tremendous speed!",
+        "[Page]",
+        "",
+        "[Character:0] fails to catch the",
+        "crayfish...",
+        "[Page]",
+        "",
+        "The crayfish slaps the surface of the",
+        "water with its tail in a gesture that",
+        "is unmistakably taunting...",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] grabs at the crayfish, but",
+        "it zigzags away with tremendous speed!",
+        "[Page]",
+        "",
+        "[Character:0] fails to catch the",
+        "crayfish...",
+        "[Page]",
+        "",
+        "The crayfish slaps the surface of the",
+        "water with its tail in a gesture that",
+        "is unmistakably taunting...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] thrusts a hand into the",
+        "pond with one smooth, swift motion!",
+        "[Page]",
+        "",
+        "You cross your fingers as you await",
+        "the result...",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] thrusts a hand into the",
+        "pond with one smooth, swift motion!",
+        "[Page]",
+        "",
+        "You cross your fingers as you await",
+        "the result...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] raises a hand in triumph--",
+        "a hand that clutches the crayfish!",
+        "[Page]",
+        "",
+        "The seemingly never-ending battle has",
+        "finally ended with cheers and applause",
+        "from the entire party!",
+        "[Page]",
+        "",
+        "At last, at long, long last, you have",
+        "caught the bedeviling crayfish of",
+        "the pond!",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] raises a hand in triumph--",
+        "a hand that clutches the crayfish!",
+        "[Page]",
+        "",
+        "The seemingly never-ending battle has",
+        "finally ended with cheers and applause",
+        "from the entire party!",
+        "[Page]",
+        "",
+        "At last, at long, long last, you have",
+        "caught the bedeviling crayfish of",
+        "the pond!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "After exulting in your victory for",
+        "a while, you calm down and consider",
+        "what you have accomplished.",
+        "[Page]",
+        "",
+        "You stare at the crayfish, unable to",
+        "now remember why you had wanted it",
+        "to begin with...",
+        "[Page]",
+        "",
+        "You come to your senses and toss it",
+        "back into the pond with disgust",
+        "before leaving briskly.",
+        ""
+      ],
+      "Translation": [
+        "After exulting in your victory for",
+        "a while, you calm down and consider",
+        "what you have accomplished.",
+        "[Page]",
+        "",
+        "You stare at the crayfish, unable to",
+        "now remember why you had wanted it",
+        "to begin with...",
+        "[Page]",
+        "",
+        "You come to your senses and toss it",
+        "back into the pond with disgust",
+        "before leaving briskly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "You cannot think of a use for a caught",
+        "crayfish, and so elect to ignore it",
+        "and carry on...",
+        ""
+      ],
+      "Translation": [
+        "You cannot think of a use for a caught",
+        "crayfish, and so elect to ignore it",
+        "and carry on...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "There is a long, thin chain wrapped",
+        "securely around the handle of the",
+        "door before you.",
+        "[Page]",
+        "",
+        "The end of the chain is connected to",
+        "a lock made of the same material,",
+        "which appears to be indestructible.",
+        "[Page]",
+        "",
+        "You haven't the means to open this",
+        "door right now.",
+        ""
+      ],
+      "Translation": [
+        "There is a long, thin chain wrapped",
+        "securely around the handle of the",
+        "door before you.",
+        "[Page]",
+        "",
+        "The end of the chain is connected to",
+        "a lock made of the same material,",
+        "which appears to be indestructible.",
+        "[Page]",
+        "",
+        "You haven't the means to open this",
+        "door right now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

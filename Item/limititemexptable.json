@@ -1,0 +1,470 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Burst Skill item descriptions",
+  "RelativePath": "Item\\limititemexptable.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "A book describing a method for perfect",
+        "escape, written by a great thief.",
+        "[Color:8]Effect: [Color:10]Teaches \"Full Retreat\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A book describing a method for perfect",
+        "escape, written by a great thief.",
+        "[Color:8]Effect: [Color:10]Teaches \"Full Retreat\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "A healing skill devised by a martial",
+        "arts master after years on Mount Meru.",
+        "[Color:8]Effect: [Color:10]Teaches \"Calm Breath\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A healing skill devised by a martial",
+        "arts master after years on Mount Meru.",
+        "[Color:8]Effect: [Color:10]Teaches \"Calm Breath\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "A travel guide written by a student of",
+        "biology, documenting animal varieties.",
+        "[Color:8]Effect: [Color:10]Teaches \"Analyze\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A travel guide written by a student of",
+        "biology, documenting animal varieties.",
+        "[Color:8]Effect: [Color:10]Teaches \"Analyze\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "An old skill book found deep in a",
+        "labyrinth. Teaches a bestial strike.",
+        "[Color:8]Effect: [Color:10]Teaches \"Double Slash\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "An old skill book found deep in a",
+        "labyrinth. Teaches a bestial strike.",
+        "[Color:8]Effect: [Color:10]Teaches \"Double Slash\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "A spellbook for creating scorching fire,",
+        "said to have burned off the Titan's arms.",
+        "[Color:8]Effect: [Color:10]Teaches \"Flame Wall\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A spellbook for creating scorching fire,",
+        "said to have burned off the Titan's arms.",
+        "[Color:8]Effect: [Color:10]Teaches \"Flame Wall\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "A means for developing on-the-spot",
+        "decision skills, taught by a master thief.",
+        "[Color:8]Effect: [Color:10]Teaches \"Holy Gift\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A means for developing on-the-spot",
+        "decision skills, taught by a master thief.",
+        "[Color:8]Effect: [Color:10]Teaches \"Holy Gift\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "A lightning-quick technique that a master",
+        "thief of Tharsis left for his disciples.",
+        "[Color:8]Effect: [Color:10]Teaches \"Superspeed\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A lightning-quick technique that a master",
+        "thief of Tharsis left for his disciples.",
+        "[Color:8]Effect: [Color:10]Teaches \"Superspeed\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "A spell created by a Vessel Arcanist to",
+        "seal the Titan to protect Yggdrasil.",
+        "[Color:8]Effect: [Color:10]Teaches \"Black Mist\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A spell created by a Vessel Arcanist to",
+        "seal the Titan to protect Yggdrasil.",
+        "[Color:8]Effect: [Color:10]Teaches \"Black Mist\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "A book of military attack strategies by",
+        "the nameless general who saved the land.",
+        "[Color:8]Effect: [Color:10]Teaches \"Charge Order\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A book of military attack strategies by",
+        "the nameless general who saved the land.",
+        "[Color:8]Effect: [Color:10]Teaches \"Charge Order\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "A book of military defense strategies by",
+        "the nameless general who saved the land.",
+        "[Color:8]Effect: [Color:10]Teaches \"Guard Order\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A book of military defense strategies by",
+        "the nameless general who saved the land.",
+        "[Color:8]Effect: [Color:10]Teaches \"Guard Order\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "An old spellbook found deep within a",
+        "labyrinth. Its author summoned a glacier.",
+        "[Color:8]Effect: [Color:10]Teaches \"Ice Coffin\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "An old spellbook found deep within a",
+        "labyrinth. Its author summoned a glacier.",
+        "[Color:8]Effect: [Color:10]Teaches \"Ice Coffin\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "A spell for physical protection taught",
+        "by a brave and noble queen to her troops.",
+        "[Color:8]Effect: [Color:10]Teaches \"Aegis Guard\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A spell for physical protection taught",
+        "by a brave and noble queen to her troops.",
+        "[Color:8]Effect: [Color:10]Teaches \"Aegis Guard\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "A spell for elemental protection taught",
+        "by a brave and noble queen to her troops.",
+        "[Color:8]Effect: [Color:10]Teaches \"Aegis Ward\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A spell for elemental protection taught",
+        "by a brave and noble queen to her troops.",
+        "[Color:8]Effect: [Color:10]Teaches \"Aegis Ward\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "An old spellbook found deep within a",
+        "labyrinth. Details an intense attack.",
+        "[Color:8]Effect: [Color:10]Teaches \"Falling Stars\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "An old spellbook found deep within a",
+        "labyrinth. Details an intense attack.",
+        "[Color:8]Effect: [Color:10]Teaches \"Falling Stars\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "A song praising a nameless general who",
+        "led his troops to great victory.",
+        "[Color:8]Effect: [Color:10]Teaches \"Triumph Song\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A song praising a nameless general who",
+        "led his troops to great victory.",
+        "[Color:8]Effect: [Color:10]Teaches \"Triumph Song\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "A skill book passed down by generations",
+        "of Sentinels for a soul-rending attack.",
+        "[Color:8]Effect: [Color:10]Teaches \"Swipe Slash\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A skill book passed down by generations",
+        "of Sentinels for a soul-rending attack.",
+        "[Color:8]Effect: [Color:10]Teaches \"Swipe Slash\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "An ancient astrological table that plots",
+        "the path of the Misfortune Star.",
+        "[Color:8]Effect: [Color:10]Teaches \"Spectral Cage\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "An ancient astrological table that plots",
+        "the path of the Misfortune Star.",
+        "[Color:8]Effect: [Color:10]Teaches \"Spectral Cage\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "The ultimate spell of protection, taught",
+        "by a brave and noble queen to her troops.",
+        "[Color:8]Effect: [Color:10]Teaches \"Aegis Shield\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "The ultimate spell of protection, taught",
+        "by a brave and noble queen to her troops.",
+        "[Color:8]Effect: [Color:10]Teaches \"Aegis Shield\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "An old spellbook found deep within a",
+        "labyrinth. Calls down a lightning storm.",
+        "[Color:8]Effect: [Color:10]Teaches \"Zeus' Wrath\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "An old spellbook found deep within a",
+        "labyrinth. Calls down a lightning storm.",
+        "[Color:8]Effect: [Color:10]Teaches \"Zeus' Wrath\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "A book about the movement of the stars.",
+        "The reader can take control of comets.",
+        "[Color:8]Effect: [Color:10]Teaches \"Geo Impact\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A book about the movement of the stars.",
+        "The reader can take control of comets.",
+        "[Color:8]Effect: [Color:10]Teaches \"Geo Impact\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "A book of forbidden knowledge left behind",
+        "by an alien being's research expedition.",
+        "[Color:8]Effect: [Color:10]Teaches \"Super Nova\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A book of forbidden knowledge left behind",
+        "by an alien being's research expedition.",
+        "[Color:8]Effect: [Color:10]Teaches \"Super Nova\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "The legendary spell that repels disease,",
+        "heals wounds, and casts away Death itself.",
+        "[Color:8]Effect: [Color:10]Teaches \"Hygieia's Bowl\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "The legendary spell that repels disease,",
+        "heals wounds, and casts away Death itself.",
+        "[Color:8]Effect: [Color:10]Teaches \"Hygieia's Bowl\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": true,
+      "Original": [
+        "Extra2",
+        ""
+      ],
+      "Translation": [
+        "Extra2",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": true,
+      "Original": [
+        "Extra3",
+        ""
+      ],
+      "Translation": [
+        "Extra3",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

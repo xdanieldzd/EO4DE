@@ -1,0 +1,872 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_001",
+  "RelativePath": "Event\\Quest\\QUE_001.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, will you accept this quest? It may",
+        "indeed be perfectly suited to you.",
+        "[Page]",
+        "",
+        "A group of soldiers are exploring [Color:5]the",
+        "east side of the Windy Plains[Color:0]. But",
+        "they lack the food to carry on.",
+        "[Page]",
+        "",
+        "So your task would be to gather [Color:5]food[Color:0]",
+        "and [Color:5]drop it off[Color:0] for them.",
+        "[Page]",
+        "",
+        "Their camp is in the forest. I was",
+        "given to understand that it is in",
+        "an open area.",
+        "[Page]",
+        "",
+        "Freshness is important in food, so you",
+        "must find and deliver it in [Color:5]one trip[Color:0].",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Oh, will you accept this quest? It may",
+        "indeed be perfectly suited to you.",
+        "[Page]",
+        "",
+        "A group of soldiers are exploring [Color:5]the",
+        "east side of the Windy Plains[Color:0]. But",
+        "they lack the food to carry on.",
+        "[Page]",
+        "",
+        "So your task would be to gather [Color:5]food[Color:0]",
+        "and [Color:5]drop it off[Color:0] for them.",
+        "[Page]",
+        "",
+        "Their camp is in the forest. I was",
+        "given to understand that it is in",
+        "an open area.",
+        "[Page]",
+        "",
+        "Freshness is important in food, so you",
+        "must find and deliver it in [Color:5]one trip[Color:0].",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. You had no trouble",
+        "delivering the food, I take it?",
+        "[Page]",
+        "",
+        "Then here is the promised reward.",
+        "Perhaps I should have you find some",
+        "food to serve at my establishment...",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. You had no trouble",
+        "delivering the food, I take it?",
+        "[Page]",
+        "",
+        "Then here is the promised reward.",
+        "Perhaps I should have you find some",
+        "food to serve at my establishment...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. The soldiers returned",
+        "from their expedition recently and",
+        "added a small bonus to the reward.",
+        "[Page]",
+        "",
+        "It seems that the food you delivered",
+        "to them was especially delicious.",
+        "[Page]",
+        "",
+        "If it was that good, I would like to",
+        "try it sometime. Perhaps I should",
+        "post a request of my own...",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. The soldiers returned",
+        "from their expedition recently and",
+        "added a small bonus to the reward.",
+        "[Page]",
+        "",
+        "It seems that the food you delivered",
+        "to them was especially delicious.",
+        "[Page]",
+        "",
+        "If it was that good, I would like to",
+        "try it sometime. Perhaps I should",
+        "post a request of my own...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. The soldiers just",
+        "visited here and added quite the",
+        "hefty bonus to your reward.",
+        "[Page]",
+        "",
+        "It seems that the food you delivered",
+        "to them was especially delicious.",
+        "They were eminently satisfied.",
+        "[Page]",
+        "",
+        "If it was that good, I would like to",
+        "try it sometime. Perhaps I should",
+        "post a request of my own...",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. The soldiers just",
+        "visited here and added quite the",
+        "hefty bonus to your reward.",
+        "[Page]",
+        "",
+        "It seems that the food you delivered",
+        "to them was especially delicious.",
+        "They were eminently satisfied.",
+        "[Page]",
+        "",
+        "If it was that good, I would like to",
+        "try it sometime. Perhaps I should",
+        "post a request of my own...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. You had no trouble",
+        "delivering the food, I take it?",
+        "[Page]",
+        "",
+        "Then here is the promised reward.",
+        "Perhaps I should have you find some",
+        "food to serve at my establishment...",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. You had no trouble",
+        "delivering the food, I take it?",
+        "[Page]",
+        "",
+        "Then here is the promised reward.",
+        "Perhaps I should have you find some",
+        "food to serve at my establishment...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "By the way... you should know that the",
+        "food you delivered made the soldiers",
+        "take ill and cut short their journey.",
+        "[Page]",
+        "",
+        "I wonder what happened...? If you are",
+        "explorers too, you will have to manage",
+        "your health better than they did.",
+        ""
+      ],
+      "Translation": [
+        "By the way... you should know that the",
+        "food you delivered made the soldiers",
+        "take ill and cut short their journey.",
+        "[Page]",
+        "",
+        "I wonder what happened...? If you are",
+        "explorers too, you will have to manage",
+        "your health better than they did.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You notice a group of soldiers waving",
+        "to you from the forest below.",
+        "[Page]",
+        "",
+        "You recall the request from the bar",
+        "to deliver food to some soldiers...",
+        "These are most likely the ones.",
+        ""
+      ],
+      "Translation": [
+        "You notice a group of soldiers waving",
+        "to you from the forest below.",
+        "[Page]",
+        "",
+        "You recall the request from the bar",
+        "to deliver food to some soldiers...",
+        "These are most likely the ones.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "However, you have no food on you.",
+        "If you mean to fulfill this request,",
+        "you must get food on your skyship.",
+        ""
+      ],
+      "Translation": [
+        "However, you have no food on you.",
+        "If you mean to fulfill this request,",
+        "you must get food on your skyship.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "If you mean to fulfill the request,",
+        "it is best that you drop the food",
+        "off at the soldiers' location.",
+        ""
+      ],
+      "Translation": [
+        "If you mean to fulfill the request,",
+        "it is best that you drop the food",
+        "off at the soldiers' location.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "You pack the [Color:6][Number:1][Color:0] in a",
+        "wooden crate and lower it to the",
+        "soldiers. They eagerly open the box.",
+        "[Page]",
+        "",
+        "After checking over the contents,",
+        "they signal you, satisfied. They",
+        "seem pleased with the food.",
+        "[Page]",
+        "",
+        "The request is now complete! You can",
+        "turn it in the next time you find",
+        "yourself at the bar.",
+        ""
+      ],
+      "Translation": [
+        "You pack the [Color:6][Number:1][Color:0] in a",
+        "wooden crate and lower it to the",
+        "soldiers. They eagerly open the box.",
+        "[Page]",
+        "",
+        "After checking over the contents,",
+        "they signal you, satisfied. They",
+        "seem pleased with the food.",
+        "[Page]",
+        "",
+        "The request is now complete! You can",
+        "turn it in the next time you find",
+        "yourself at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You pack the [Color:6][Number:1][Color:0] in a",
+        "wooden crate and lower it to the",
+        "soldiers. They eagerly open the box.",
+        "[Page]",
+        "",
+        "After checking the contents, they",
+        "signal you with a cheer so loud",
+        "you can hear it from your skyship.",
+        "[Page]",
+        "",
+        "It seems that the food you delivered",
+        "was very well received.",
+        "[Page]",
+        "",
+        "The request is now complete! You can",
+        "turn it in the next time you find",
+        "yourself at the bar.",
+        ""
+      ],
+      "Translation": [
+        "You pack the [Color:6][Number:1][Color:0] in a",
+        "wooden crate and lower it to the",
+        "soldiers. They eagerly open the box.",
+        "[Page]",
+        "",
+        "After checking the contents, they",
+        "signal you with a cheer so loud",
+        "you can hear it from your skyship.",
+        "[Page]",
+        "",
+        "It seems that the food you delivered",
+        "was very well received.",
+        "[Page]",
+        "",
+        "The request is now complete! You can",
+        "turn it in the next time you find",
+        "yourself at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "You pack the [Color:6][Number:1][Color:0] in a",
+        "wooden crate and lower it to the",
+        "soldiers. They eagerly open the box.",
+        "[Page]",
+        "",
+        "After checking the contents, they",
+        "begin to dance and cheer so loud you",
+        "can hear it from your skyship.",
+        "[Page]",
+        "",
+        "It seems that the food you delivered",
+        "could not possibly have been any",
+        "better received.",
+        "[Page]",
+        "",
+        "The request is now complete! You can",
+        "turn it in the next time you find",
+        "yourself at the bar.",
+        ""
+      ],
+      "Translation": [
+        "You pack the [Color:6][Number:1][Color:0] in a",
+        "wooden crate and lower it to the",
+        "soldiers. They eagerly open the box.",
+        "[Page]",
+        "",
+        "After checking the contents, they",
+        "begin to dance and cheer so loud you",
+        "can hear it from your skyship.",
+        "[Page]",
+        "",
+        "It seems that the food you delivered",
+        "could not possibly have been any",
+        "better received.",
+        "[Page]",
+        "",
+        "The request is now complete! You can",
+        "turn it in the next time you find",
+        "yourself at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "You pack the [Color:6][Number:1][Color:0] in a",
+        "wooden crate and lower it to the",
+        "soldiers. They eagerly open the box.",
+        "[Page]",
+        "",
+        "After checking over the contents,",
+        "they hang their heads in obvious",
+        "disappointment...",
+        "[Page]",
+        "",
+        "However, the request specified that",
+        "you deliver food, and that you have",
+        "done. The request is now complete!",
+        "[Page]",
+        "",
+        "You can turn it in the next time you",
+        "find yourself at the bar.",
+        ""
+      ],
+      "Translation": [
+        "You pack the [Color:6][Number:1][Color:0] in a",
+        "wooden crate and lower it to the",
+        "soldiers. They eagerly open the box.",
+        "[Page]",
+        "",
+        "After checking over the contents,",
+        "they hang their heads in obvious",
+        "disappointment...",
+        "[Page]",
+        "",
+        "However, the request specified that",
+        "you deliver food, and that you have",
+        "done. The request is now complete!",
+        "[Page]",
+        "",
+        "You can turn it in the next time you",
+        "find yourself at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "You can see smoke from the soldiers'",
+        "campfire as they cook the food...",
+        ""
+      ],
+      "Translation": [
+        "You can see smoke from the soldiers'",
+        "campfire as they cook the food...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "As you steer your skyship past, you",
+        "see something fly by you!",
+        "[Page]",
+        "",
+        "It is a smattering of arrows!",
+        "[Page]",
+        "",
+        "You look below you to see the soldiers",
+        "drawing their bows and aiming the",
+        "next volley at your skyship.",
+        "[Page]",
+        "",
+        "They seem to be angry about something.",
+        "You quickly veer off before the irate",
+        "soldiers hit you.",
+        ""
+      ],
+      "Translation": [
+        "As you steer your skyship past, you",
+        "see something fly by you!",
+        "[Page]",
+        "",
+        "It is a smattering of arrows!",
+        "[Page]",
+        "",
+        "You look below you to see the soldiers",
+        "drawing their bows and aiming the",
+        "next volley at your skyship.",
+        "[Page]",
+        "",
+        "They seem to be angry about something.",
+        "You quickly veer off before the irate",
+        "soldiers hit you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "You manage to load the requested food",
+        "onto the skyship. All that is left is",
+        "to deliver it during this trip.",
+        ""
+      ],
+      "Translation": [
+        "You manage to load the requested food",
+        "onto the skyship. All that is left is",
+        "to deliver it during this trip.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

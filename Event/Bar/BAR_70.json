@@ -1,0 +1,628 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_70",
+  "RelativePath": "Event\\Bar\\BAR_70.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Are you the famous [Guild] Guild?",
+        "I am an Yggdrasil researcher of the",
+        "Empire. I'm honored to meet you.",
+        "[Page]",
+        "",
+        "I want you all to take a look at this.",
+        "It's a fan-shaped metal shard we found",
+        "in the Echoing Library.",
+        "[Page]",
+        "",
+        "What caught my eye was this old",
+        "parchment attached to it... Let me",
+        "read it to you.",
+        "[Page]",
+        "",
+        "\"By the [Color:5]bond[Color:0] of the [Color:5]races[Color:0], the [Color:5]jeweled",
+        "sword[Color:0] shall be sealed in the [Color:5]Garden of",
+        "the Dancing Lepidopterae[Color:0].\"",
+        "[Page]",
+        "",
+        "The jeweled sword will surely fetch",
+        "a high price... I want your guild to",
+        "bring it to me.",
+        "[Page]",
+        "",
+        "The rest of this parchment is so",
+        "weathered as to be illegible, but all",
+        "the important information is here.",
+        "[Page]",
+        "",
+        "I don't know where this Garden of the",
+        "Dancing Lepidopterae is, but the races",
+        "must be the Vessels and Sentinels.",
+        "[Page]",
+        "",
+        "The \"bond,\" too... I know you have a",
+        "deep bond with them, which is why I",
+        "asked you. You may take this with you.",
+        ""
+      ],
+      "Translation": [
+        "Are you the famous [Guild] Guild?",
+        "I am an Yggdrasil researcher of the",
+        "Empire. I'm honored to meet you.",
+        "[Page]",
+        "",
+        "I want you all to take a look at this.",
+        "It's a fan-shaped metal shard we found",
+        "in the Echoing Library.",
+        "[Page]",
+        "",
+        "What caught my eye was this old",
+        "parchment attached to it... Let me",
+        "read it to you.",
+        "[Page]",
+        "",
+        "\"By the [Color:5]bond[Color:0] of the [Color:5]races[Color:0], the [Color:5]jeweled",
+        "sword[Color:0] shall be sealed in the [Color:5]Garden of",
+        "the Dancing Lepidopterae[Color:0].\"",
+        "[Page]",
+        "",
+        "The jeweled sword will surely fetch",
+        "a high price... I want your guild to",
+        "bring it to me.",
+        "[Page]",
+        "",
+        "The rest of this parchment is so",
+        "weathered as to be illegible, but all",
+        "the important information is here.",
+        "[Page]",
+        "",
+        "I don't know where this Garden of the",
+        "Dancing Lepidopterae is, but the races",
+        "must be the Vessels and Sentinels.",
+        "[Page]",
+        "",
+        "The \"bond,\" too... I know you have a",
+        "deep bond with them, which is why I",
+        "asked you. You may take this with you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "The mentioned races are probably the",
+        "Vessels and Sentinels. Why don't you",
+        "visit their villages?",
+        "[Page]",
+        "",
+        "I'll wait here. Let me know of any",
+        "developments. I'm counting on you to",
+        "bring me that jeweled sword...",
+        ""
+      ],
+      "Translation": [
+        "The mentioned races are probably the",
+        "Vessels and Sentinels. Why don't you",
+        "visit their villages?",
+        "[Page]",
+        "",
+        "I'll wait here. Let me know of any",
+        "developments. I'm counting on you to",
+        "bring me that jeweled sword...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Hello. How is the request going? Oh!",
+        "This is the metal shard I gave you...",
+        "So the three pieces became one.",
+        ""
+      ],
+      "Translation": [
+        "Hello. How is the request going? Oh!",
+        "This is the metal shard I gave you...",
+        "So the three pieces became one.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "The [Color:5]Garden of the Dancing Lepidopterae[Color:0]",
+        "was the [Color:5]Moth's Garden[Color:0] at the Scarlet",
+        "Pillars... The jeweled sword is there.",
+        "[Page]",
+        "",
+        "I'm stuck on that Sentinel who said",
+        "[Color:5]\"something seems missing\"[Color:0]... What",
+        "could it be missing?",
+        "[Page]",
+        "",
+        "I'm sorry, but I must ask that you",
+        "carry on with the request. I am",
+        "counting on you.",
+        ""
+      ],
+      "Translation": [
+        "The [Color:5]Garden of the Dancing Lepidopterae[Color:0]",
+        "was the [Color:5]Moth's Garden[Color:0] at the Scarlet",
+        "Pillars... The jeweled sword is there.",
+        "[Page]",
+        "",
+        "I'm stuck on that Sentinel who said",
+        "[Color:5]\"something seems missing\"[Color:0]... What",
+        "could it be missing?",
+        "[Page]",
+        "",
+        "I'm sorry, but I must ask that you",
+        "carry on with the request. I am",
+        "counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Hello. How is the request going? Oh!",
+        "This is the metal shard I gave you...",
+        "So the three pieces became one.",
+        ""
+      ],
+      "Translation": [
+        "Hello. How is the request going? Oh!",
+        "This is the metal shard I gave you...",
+        "So the three pieces became one.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... So with the Vessel's help, you",
+        "went to the Moth's Garden, but were",
+        "unable to use the disc.",
+        "[Page]",
+        "",
+        "I'm stuck on that Sentinel who said",
+        "[Color:5]\"something seems missing\"[Color:0]... What",
+        "could it be missing?",
+        "[Page]",
+        "",
+        "I'm sorry, but I must ask that you",
+        "carry on with the request. I am",
+        "counting on you.",
+        ""
+      ],
+      "Translation": [
+        "Hmm... So with the Vessel's help, you",
+        "went to the Moth's Garden, but were",
+        "unable to use the disc.",
+        "[Page]",
+        "",
+        "I'm stuck on that Sentinel who said",
+        "[Color:5]\"something seems missing\"[Color:0]... What",
+        "could it be missing?",
+        "[Page]",
+        "",
+        "I'm sorry, but I must ask that you",
+        "carry on with the request. I am",
+        "counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "I'm stuck on that Sentinel who said",
+        "[Color:5]\"something seems missing\"[Color:0]... What",
+        "could it be missing?",
+        "[Page]",
+        "",
+        "I'm sorry, but I must ask that you",
+        "carry on with the request. I am",
+        "counting on you.",
+        ""
+      ],
+      "Translation": [
+        "I'm stuck on that Sentinel who said",
+        "[Color:5]\"something seems missing\"[Color:0]... What",
+        "could it be missing?",
+        "[Page]",
+        "",
+        "I'm sorry, but I must ask that you",
+        "carry on with the request. I am",
+        "counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You finally put it together! I see...",
+        "The \"missing piece\" was the people",
+        "of Tharsis.",
+        "[Page]",
+        "",
+        "With this, the Vessels, Sentinels,",
+        "Empire, and Tharsis are bound as one.",
+        "[Page]",
+        "",
+        "The way to the jeweled sword is now",
+        "complete! Go to the Garden of Dancing",
+        "Lepidopterae... or the [Color:5]Moth's Garden[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You finally put it together! I see...",
+        "The \"missing piece\" was the people",
+        "of Tharsis.",
+        "[Page]",
+        "",
+        "With this, the Vessels, Sentinels,",
+        "Empire, and Tharsis are bound as one.",
+        "[Page]",
+        "",
+        "The way to the jeweled sword is now",
+        "complete! Go to the Garden of Dancing",
+        "Lepidopterae... or the [Color:5]Moth's Garden[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "How is the request going? Oh! Is this",
+        "the metal shard's completed form?",
+        ""
+      ],
+      "Translation": [
+        "How is the request going? Oh! Is this",
+        "the metal shard's completed form?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "I see... it was made by combining the",
+        "metal shards from the Vessels and the",
+        "Sentinels.",
+        "[Page]",
+        "",
+        "And its core is the gem from Tharsis'",
+        "Outland Count... Wonderful work!",
+        "[Page]",
+        "",
+        "With this, the Vessels, Sentinels,",
+        "Empire, and Tharsis are bound as one.",
+        "[Page]",
+        "",
+        "The way to the jeweled sword is now",
+        "complete! Go to the Garden of Dancing",
+        "Lepidopterae... or the [Color:5]Moth's Garden[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "I see... it was made by combining the",
+        "metal shards from the Vessels and the",
+        "Sentinels.",
+        "[Page]",
+        "",
+        "And its core is the gem from Tharsis'",
+        "Outland Count... Wonderful work!",
+        "[Page]",
+        "",
+        "With this, the Vessels, Sentinels,",
+        "Empire, and Tharsis are bound as one.",
+        "[Page]",
+        "",
+        "The way to the jeweled sword is now",
+        "complete! Go to the Garden of Dancing",
+        "Lepidopterae... or the [Color:5]Moth's Garden[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "If we believe the Vessel, the path",
+        "should open if you proceed to the",
+        "[Color:5]Moth's Garden[Color:0]...",
+        "[Page]",
+        "",
+        "I am counting on you! Retrieve that",
+        "jeweled sword by any means necessary!",
+        ""
+      ],
+      "Translation": [
+        "If we believe the Vessel, the path",
+        "should open if you proceed to the",
+        "[Color:5]Moth's Garden[Color:0]...",
+        "[Page]",
+        "",
+        "I am counting on you! Retrieve that",
+        "jeweled sword by any means necessary!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Ah, yes... this is the",
+        "jeweled sword... How did you ever",
+        "find it?",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Ah, yes... this is the",
+        "jeweled sword... How did you ever",
+        "find it?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "So... this was keeping an ancient,",
+        "evil monster sealed...",
+        "[Page]",
+        "",
+        "And I unwittingly requested that your",
+        "guild break the seal...",
+        "[Page]",
+        "",
+        "How irresponsible I've been! If any",
+        "other guild had accepted the request,",
+        "I shudder to think...",
+        "[Page]",
+        "",
+        "*sigh*",
+        "[Page]",
+        "",
+        "I cannot accept this. Someone with",
+        "more merit, like yourselves, should",
+        "have it in honor of your bonds.",
+        "[Page]",
+        "",
+        "And the raging bird within... it",
+        "recognizes your guild as its betters.",
+        "That may be why it is calm for now.",
+        "[Page]",
+        "",
+        "Thank you for all you've done for me,",
+        "and I am sorry to put you in such",
+        "danger. Your reward is at the bar.",
+        ""
+      ],
+      "Translation": [
+        "So... this was keeping an ancient,",
+        "evil monster sealed...",
+        "[Page]",
+        "",
+        "And I unwittingly requested that your",
+        "guild break the seal...",
+        "[Page]",
+        "",
+        "How irresponsible I've been! If any",
+        "other guild had accepted the request,",
+        "I shudder to think...",
+        "[Page]",
+        "",
+        "*sigh*",
+        "[Page]",
+        "",
+        "I cannot accept this. Someone with",
+        "more merit, like yourselves, should",
+        "have it in honor of your bonds.",
+        "[Page]",
+        "",
+        "And the raging bird within... it",
+        "recognizes your guild as its betters.",
+        "That may be why it is calm for now.",
+        "[Page]",
+        "",
+        "Thank you for all you've done for me,",
+        "and I am sorry to put you in such",
+        "danger. Your reward is at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Ah, yes... this is the",
+        "jeweled sword... How did you ever",
+        "find it?",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Ah, yes... this is the",
+        "jeweled sword... How did you ever",
+        "find it?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "So... this was keeping an ancient,",
+        "evil monster sealed...",
+        "[Page]",
+        "",
+        "And I unwittingly requested that your",
+        "guild break the seal...",
+        "[Page]",
+        "",
+        "How irresponsible I've been! If any",
+        "other guild had accepted the request,",
+        "I shudder to think...",
+        "[Page]",
+        "",
+        "*sigh*",
+        "[Page]",
+        "",
+        "I cannot accept this. Someone with",
+        "more merit, like yourselves, should",
+        "have it in honor of your bonds.",
+        "[Page]",
+        "",
+        "And the raging bird within... it",
+        "recognizes your guild as its betters.",
+        "That may be why it is calm for now.",
+        "[Page]",
+        "",
+        "Thank you for all you've done for me,",
+        "and I am sorry to put you in such",
+        "danger. Your reward is at the bar.",
+        ""
+      ],
+      "Translation": [
+        "So... this was keeping an ancient,",
+        "evil monster sealed...",
+        "[Page]",
+        "",
+        "And I unwittingly requested that your",
+        "guild break the seal...",
+        "[Page]",
+        "",
+        "How irresponsible I've been! If any",
+        "other guild had accepted the request,",
+        "I shudder to think...",
+        "[Page]",
+        "",
+        "*sigh*",
+        "[Page]",
+        "",
+        "I cannot accept this. Someone with",
+        "more merit, like yourselves, should",
+        "have it in honor of your bonds.",
+        "[Page]",
+        "",
+        "And the raging bird within... it",
+        "recognizes your guild as its betters.",
+        "That may be why it is calm for now.",
+        "[Page]",
+        "",
+        "Thank you for all you've done for me,",
+        "and I am sorry to put you in such",
+        "danger. Your reward is at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

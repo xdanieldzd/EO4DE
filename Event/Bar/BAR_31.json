@@ -1,0 +1,46 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_31",
+  "RelativePath": "Event\\Bar\\BAR_31.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "According to the Sentinel's story,",
+        "the [Color:5]scales[Color:0] scattered about the [Color:5]Golden",
+        "Lair[Color:0] are from the [Color:5][Enemy1:175][Color:0].",
+        "[Page]",
+        "",
+        "I think there's nothing to fear from a",
+        "salamander like that. It's a chance to",
+        "test our skills in the outside world.",
+        "[Page]",
+        "",
+        "Actually, I have to hurry and get",
+        "used to the human skills I've gained",
+        "by subclassing...",
+        ""
+      ],
+      "Translation": [
+        "According to the Sentinel's story,",
+        "the [Color:5]scales[Color:0] scattered about the [Color:5]Golden",
+        "Lair[Color:0] are from the [Color:5][Enemy1:175][Color:0].",
+        "[Page]",
+        "",
+        "I think there's nothing to fear from a",
+        "salamander like that. It's a chance to",
+        "test our skills in the outside world.",
+        "[Page]",
+        "",
+        "Actually, I have to hurry and get",
+        "used to the human skills I've gained",
+        "by subclassing...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

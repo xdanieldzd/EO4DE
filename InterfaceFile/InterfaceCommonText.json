@@ -1,0 +1,739 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Common system messages",
+  "RelativePath": "InterfaceFile\\InterfaceCommonText.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Obtained [Variable2:0][Color:6][Variable1:0][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Obtained [Variable2:0][Color:6][Variable1:0][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Obtained [Variable2:0][Color:6][Variable1:0][Color:0] x[Variable1:1].",
+        ""
+      ],
+      "Translation": [
+        "Obtained [Variable2:0][Color:6][Variable1:0][Color:0] x[Variable1:1].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Obtained [Color:5][Variable1:0][Color:0]en.",
+        ""
+      ],
+      "Translation": [
+        "Obtained [Color:5][Variable1:0][Color:0]en.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Discard the selected items?",
+        ""
+      ],
+      "Translation": [
+        "Discard the selected items?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Your inventory is full.",
+        "Choose an item to discard.",
+        ""
+      ],
+      "Translation": [
+        "Your inventory is full.",
+        "Choose an item to discard.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Main class: [Variable1:0]",
+        ""
+      ],
+      "Translation": [
+        "Main class: [Variable1:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Subclass: [Variable1:1]",
+        ""
+      ],
+      "Translation": [
+        "Subclass: [Variable1:1]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Class: [Variable1:0]",
+        ""
+      ],
+      "Translation": [
+        "Class: [Variable1:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Save your map and exploration data?",
+        ""
+      ],
+      "Translation": [
+        "Save your map and exploration data?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Your guild card register is full.",
+        "Choose a guild card to discard.",
+        ""
+      ],
+      "Translation": [
+        "Your guild card register is full.",
+        "Choose a guild card to discard.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Are you certain you wish to discard",
+        "the selected guild card?",
+        ""
+      ],
+      "Translation": [
+        "Are you certain you wish to discard",
+        "the selected guild card?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "You've discovered a new monster!",
+        "[Color:6][Variable1:0][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "You've discovered a new monster!",
+        "[Color:6][Variable1:0][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Discovered a new item:",
+        "[Variable2:0][Color:6][Variable1:0][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Discovered a new item:",
+        "[Variable2:0][Color:6][Variable1:0][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Discovered a new item:",
+        "[Variable2:0][Color:9][Variable1:0][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Discovered a new item:",
+        "[Variable2:0][Color:9][Variable1:0][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Discovered a new foodstuff:",
+        "[Variable2:0][Color:6][Variable1:0][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Discovered a new foodstuff:",
+        "[Variable2:0][Color:6][Variable1:0][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Discovered a new foodstuff:",
+        "[Variable2:0][Color:9][Variable1:0][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Discovered a new foodstuff:",
+        "[Variable2:0][Color:9][Variable1:0][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Save your cleared game?",
+        ""
+      ],
+      "Translation": [
+        "Save your cleared game?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Are you sure you would",
+        "like to delete your data?",
+        ""
+      ],
+      "Translation": [
+        "Are you sure you would",
+        "like to delete your data?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You will not be able to recover",
+        "the lost data. Are you certain?",
+        ""
+      ],
+      "Translation": [
+        "You will not be able to recover",
+        "the lost data. Are you certain?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Game data successfully deleted.",
+        ""
+      ],
+      "Translation": [
+        "Game data successfully deleted.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Game data deletion failed.",
+        ""
+      ],
+      "Translation": [
+        "Game data deletion failed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Load your game? (The existing",
+        "quicksave will be deleted.)",
+        ""
+      ],
+      "Translation": [
+        "Load your game? (The existing",
+        "quicksave will be deleted.)",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Start a new game?",
+        "The quicksave will be deleted.",
+        ""
+      ],
+      "Translation": [
+        "Start a new game?",
+        "The quicksave will be deleted.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Start a [Color:5]new game[Color:0]? (The existing",
+        "quicksave will be deleted.)",
+        ""
+      ],
+      "Translation": [
+        "Start a [Color:5]new game[Color:0]? (The existing",
+        "quicksave will be deleted.)",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "You sold the food you brought back",
+        "for [Variable1:0]en.",
+        ""
+      ],
+      "Translation": [
+        "You sold the food you brought back",
+        "for [Variable1:0]en.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "You are somehow alive, at the cost of",
+        "your food and a good deal of health.",
+        "[Color:5]You must heal your wounds and regroup.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "You are somehow alive, at the cost of",
+        "your food and a good deal of health.",
+        "[Color:5]You must heal your wounds and regroup.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "You were badly wounded in the Imperial",
+        "attack, and lost all your food...",
+        "[Color:5]You must heal your wounds and regroup.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "You were badly wounded in the Imperial",
+        "attack, and lost all your food...",
+        "[Color:5]You must heal your wounds and regroup.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "You were severely wounded by the",
+        "tornado and lost all your food...",
+        "[Color:5]You must heal your wounds and regroup.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "You were severely wounded by the",
+        "tornado and lost all your food...",
+        "[Color:5]You must heal your wounds and regroup.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Key",
+        ""
+      ],
+      "Translation": [
+        "Key",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Touch the spot to direct them to.",
+        ""
+      ],
+      "Translation": [
+        "Touch the spot to direct them to.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Are these the coordinates?",
+        ""
+      ],
+      "Translation": [
+        "Are these the coordinates?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "There are two difficulty settings,",
+        "Normal and Casual.",
+        "[Page]",
+        "",
+        "Normal presents the standard challenge",
+        "of the Etrian Odyssey series. Casual",
+        "difficulty is somewhat easier.",
+        "[Page]",
+        "",
+        "In Casual mode, battles are less",
+        "difficult. If your party is wiped out,",
+        "you will be taken back to Tharsis.",
+        "[Page]",
+        "",
+        "You can also set certain items not to",
+        "be expended upon use, allowing for",
+        "more casual play.",
+        "[Page]",
+        "",
+        "Your difficulty setting will not",
+        "affect the story, but some medals",
+        "cannot be earned in Casual mode.",
+        ""
+      ],
+      "Translation": [
+        "There are two difficulty settings,",
+        "Normal and Casual.",
+        "[Page]",
+        "",
+        "Normal presents the standard challenge",
+        "of the Etrian Odyssey series. Casual",
+        "difficulty is somewhat easier.",
+        "[Page]",
+        "",
+        "In Casual mode, battles are less",
+        "difficult. If your party is wiped out,",
+        "you will be taken back to Tharsis.",
+        "[Page]",
+        "",
+        "You can also set certain items not to",
+        "be expended upon use, allowing for",
+        "more casual play.",
+        "[Page]",
+        "",
+        "Your difficulty setting will not",
+        "affect the story, but some medals",
+        "cannot be earned in Casual mode.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Attach this treasure to the card?",
+        ""
+      ],
+      "Translation": [
+        "Attach this treasure to the card?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "That name cannot be used.",
+        ""
+      ],
+      "Translation": [
+        "That name cannot be used.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Since you have reached level 20,",
+        "you have earned the rank of [Color:3]Veteran[Color:0]!",
+        "[Page]",
+        "",
+        "From here on, your level 20 characters",
+        "will be able to learn Veteran skills.",
+        ""
+      ],
+      "Translation": [
+        "Since you have reached level 20,",
+        "you have earned the rank of [Color:3]Veteran[Color:0]!",
+        "[Page]",
+        "",
+        "From here on, your level 20 characters",
+        "will be able to learn Veteran skills.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Since you have reached level 40,",
+        "you have earned the rank of [Color:3]Master[Color:0]!",
+        "[Page]",
+        "",
+        "From here on, your level 40 characters",
+        "will be able to learn Master skills.",
+        ""
+      ],
+      "Translation": [
+        "Since you have reached level 40,",
+        "you have earned the rank of [Color:3]Master[Color:0]!",
+        "[Page]",
+        "",
+        "From here on, your level 40 characters",
+        "will be able to learn Master skills.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "You have no characters who can gain",
+        "experience!",
+        ""
+      ],
+      "Translation": [
+        "You have no characters who can gain",
+        "experience!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Obtained [Variable2:0][Color:9][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Obtained [Variable2:0][Color:9][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "Obtained [Variable2:0][Color:9][Variable1:0][Color:0] x[Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "Obtained [Variable2:0][Color:9][Variable1:0][Color:0] x[Variable1:1]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

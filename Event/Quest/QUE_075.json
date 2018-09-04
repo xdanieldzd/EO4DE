@@ -1,0 +1,638 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_075",
+  "RelativePath": "Event\\Quest\\QUE_075.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "That request is from the Outland Count",
+        "about the marks. He supposedly found",
+        "a new document...",
+        "[Page]",
+        "",
+        "I wonder what he will have you looking",
+        "for this time. You will need to visit",
+        "him at the Grand Court to find out...",
+        ""
+      ],
+      "Translation": [
+        "That request is from the Outland Count",
+        "about the marks. He supposedly found",
+        "a new document...",
+        "[Page]",
+        "",
+        "I wonder what he will have you looking",
+        "for this time. You will need to visit",
+        "him at the Grand Court to find out...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "I again thank you for your hard work.",
+        "It sounds like a beast attacked when",
+        "you solved the mystery?",
+        "[Page]",
+        "",
+        "To open the lid... only to find a",
+        "beast waiting. Haha, it is not",
+        "uncommon in this world.",
+        "[Page]",
+        "",
+        "But the fact that you were able to",
+        "pacify such a beast is a reward in",
+        "itself, yes?",
+        "[Page]",
+        "",
+        "Here, then, is your reward from the",
+        "Outland Count.",
+        ""
+      ],
+      "Translation": [
+        "I again thank you for your hard work.",
+        "It sounds like a beast attacked when",
+        "you solved the mystery?",
+        "[Page]",
+        "",
+        "To open the lid... only to find a",
+        "beast waiting. Haha, it is not",
+        "uncommon in this world.",
+        "[Page]",
+        "",
+        "But the fact that you were able to",
+        "pacify such a beast is a reward in",
+        "itself, yes?",
+        "[Page]",
+        "",
+        "Here, then, is your reward from the",
+        "Outland Count.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Oh... Oh yes, the request. I think it",
+        "may be fortunate that you were the",
+        "ones to accept it.",
+        "[Page]",
+        "",
+        "An explorer who was investigating the",
+        "ruins within the labyrinth, like",
+        "yourselves, found an odd slate.",
+        "[Page]",
+        "",
+        "This is what it says... Please pay",
+        "close attention.",
+        ""
+      ],
+      "Translation": [
+        "Oh... Oh yes, the request. I think it",
+        "may be fortunate that you were the",
+        "ones to accept it.",
+        "[Page]",
+        "",
+        "An explorer who was investigating the",
+        "ruins within the labyrinth, like",
+        "yourselves, found an odd slate.",
+        "[Page]",
+        "",
+        "This is what it says... Please pay",
+        "close attention.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "\"Water drills earth, changing form.",
+        "Earth blocks wind, changing paths.",
+        "Wind blows out fire, changing light.",
+        "[Page]",
+        "",
+        "\"And what does fire do...?",
+        "Only fire can erase it.",
+        "Thus is balance maintained.",
+        "[Page]",
+        "",
+        "\"The ancient one is its protector.",
+        "Those who enter its realm will face",
+        "its judgement.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Water drills earth, changing form.",
+        "Earth blocks wind, changing paths.",
+        "Wind blows out fire, changing light.",
+        "[Page]",
+        "",
+        "\"And what does fire do...?",
+        "Only fire can erase it.",
+        "Thus is balance maintained.",
+        "[Page]",
+        "",
+        "\"The ancient one is its protector.",
+        "Those who enter its realm will face",
+        "its judgement.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "That is it. I wonder about that last",
+        "part... How those who enter its realm",
+        "face judgement from the \"ancient one.\"",
+        "[Page]",
+        "",
+        "I worry that this \"ancient one\" may",
+        "be a threat to soldiers and explorers.",
+        "If so, we may have to eliminate it.",
+        "[Page]",
+        "",
+        "That is why I want you to solve the",
+        "riddle of the slate and find out what",
+        "this \"ancient one\" is.",
+        ""
+      ],
+      "Translation": [
+        "That is it. I wonder about that last",
+        "part... How those who enter its realm",
+        "face judgement from the \"ancient one.\"",
+        "[Page]",
+        "",
+        "I worry that this \"ancient one\" may",
+        "be a threat to soldiers and explorers.",
+        "If so, we may have to eliminate it.",
+        "[Page]",
+        "",
+        "That is why I want you to solve the",
+        "riddle of the slate and find out what",
+        "this \"ancient one\" is.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, is something wrong? Was there",
+        "anything you didn't understand?",
+        ""
+      ],
+      "Translation": [
+        "Ah, is something wrong? Was there",
+        "anything you didn't understand?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you have a question?[Color:0]",
+        "Ask to check the document",
+        "Ask about the four marks",
+        "Ask the Count's opinion",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you have a question?[Color:0]",
+        "Ask to check the document",
+        "Ask about the four marks",
+        "Ask the Count's opinion",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "I see. Well then, listen carefully...",
+        ""
+      ],
+      "Translation": [
+        "I see. Well then, listen carefully...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "And that's as far as it goes. Of all",
+        "the documents we've seen, this one",
+        "has an unusual flavor to it...",
+        ""
+      ],
+      "Translation": [
+        "And that's as far as it goes. Of all",
+        "the documents we've seen, this one",
+        "has an unusual flavor to it...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "The four marks... So you noticed",
+        "it too.",
+        "[Page]",
+        "",
+        "The marks are at [Color:5]A-2/5-5, for earth[Color:5],",
+        "[Color:5]A-4/5-1, for water[Color:5], [Color:5]C-2/1-5, for",
+        "fire[Color:5]...",
+        "[Page]",
+        "",
+        "And [Color:5]C-4/1-1, for wind[Color:5]. I wonder how",
+        "the crests relate to one another...",
+        ""
+      ],
+      "Translation": [
+        "The four marks... So you noticed",
+        "it too.",
+        "[Page]",
+        "",
+        "The marks are at [Color:5]A-2/5-5, for earth[Color:5],",
+        "[Color:5]A-4/5-1, for water[Color:5], [Color:5]C-2/1-5, for",
+        "fire[Color:5]...",
+        "[Page]",
+        "",
+        "And [Color:5]C-4/1-1, for wind[Color:5]. I wonder how",
+        "the crests relate to one another...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "I think there might be a connection",
+        "with the marks you discovered in the",
+        "Cloudy Stronghold.",
+        "[Page]",
+        "",
+        "Look at that first line... Water",
+        "changes earth, which changes wind,",
+        "which blows out fire, and...",
+        "[Page]",
+        "",
+        "Hmm. It's a poser, to be sure. Where",
+        "is it referring to? Or does it have",
+        "a different meaning...?",
+        "[Page]",
+        "",
+        "Why not try listing out the mentioned",
+        "elements and see if that sparks any",
+        "ideas in you?",
+        ""
+      ],
+      "Translation": [
+        "I think there might be a connection",
+        "with the marks you discovered in the",
+        "Cloudy Stronghold.",
+        "[Page]",
+        "",
+        "Look at that first line... Water",
+        "changes earth, which changes wind,",
+        "which blows out fire, and...",
+        "[Page]",
+        "",
+        "Hmm. It's a poser, to be sure. Where",
+        "is it referring to? Or does it have",
+        "a different meaning...?",
+        "[Page]",
+        "",
+        "Why not try listing out the mentioned",
+        "elements and see if that sparks any",
+        "ideas in you?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, is something wrong? Was there",
+        "anything you didn't understand?",
+        ""
+      ],
+      "Translation": [
+        "Ah, is something wrong? Was there",
+        "anything you didn't understand?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you have a question?[Color:0]",
+        "Say you defeated the ancient one",
+        "Ask about the four marks",
+        "Ask the Count's opinion",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you have a question?[Color:0]",
+        "Say you defeated the ancient one",
+        "Ask about the four marks",
+        "Ask the Count's opinion",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Aha... So you've accomplished your",
+        "task. I was right to give this one to",
+        "you. What did the document mean?",
+        ""
+      ],
+      "Translation": [
+        "Aha... So you've accomplished your",
+        "task. I was right to give this one to",
+        "you. What did the document mean?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... I see... So you passed over",
+        "each crest in a certain order, and",
+        "this bird guardian reacted to that...",
+        "[Page]",
+        "",
+        "If that is true, [Color:5]performing the same",
+        "steps might draw out the bird again[Color:0],",
+        "should you desire to challenge it.",
+        "[Page]",
+        "",
+        "But there is no need for that now.",
+        "Go to the Dancing Peacock and collect",
+        "the reward you've earned.",
+        ""
+      ],
+      "Translation": [
+        "Hmm... I see... So you passed over",
+        "each crest in a certain order, and",
+        "this bird guardian reacted to that...",
+        "[Page]",
+        "",
+        "If that is true, [Color:5]performing the same",
+        "steps might draw out the bird again[Color:0],",
+        "should you desire to challenge it.",
+        "[Page]",
+        "",
+        "But there is no need for that now.",
+        "Go to the Dancing Peacock and collect",
+        "the reward you've earned.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Exploring leads to knowing what was",
+        "unknown. But some things are better",
+        "left that way, it's true...",
+        "[Page]",
+        "",
+        "Perhaps this means we should not be",
+        "so eager to trespass on that forbidden",
+        "territory any further...",
+        ""
+      ],
+      "Translation": [
+        "Exploring leads to knowing what was",
+        "unknown. But some things are better",
+        "left that way, it's true...",
+        "[Page]",
+        "",
+        "Perhaps this means we should not be",
+        "so eager to trespass on that forbidden",
+        "territory any further...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "After solving the mystery of the",
+        "marks and flying your skyship in the",
+        "given order, you feel a violent chill.",
+        "[Page]",
+        "",
+        "Some terrifying monster is closing in",
+        "on your ship!",
+        "[Page]",
+        "",
+        "You have only moments to decide",
+        "whether you will flee or stand and",
+        "face the thing!",
+        ""
+      ],
+      "Translation": [
+        "After solving the mystery of the",
+        "marks and flying your skyship in the",
+        "given order, you feel a violent chill.",
+        "[Page]",
+        "",
+        "Some terrifying monster is closing in",
+        "on your ship!",
+        "[Page]",
+        "",
+        "You have only moments to decide",
+        "whether you will flee or stand and",
+        "face the thing!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will you engage the beast?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will you engage the beast?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "In the next instant, a sharp wind",
+        "assails you and the skyship is covered",
+        "by a large shadow! The enemy is nigh!",
+        "[Page]",
+        "",
+        "There is no turning back now! You",
+        "grip your weapons tightly, ready for",
+        "a fight to the finish with the beast!",
+        ""
+      ],
+      "Translation": [
+        "In the next instant, a sharp wind",
+        "assails you and the skyship is covered",
+        "by a large shadow! The enemy is nigh!",
+        "[Page]",
+        "",
+        "There is no turning back now! You",
+        "grip your weapons tightly, ready for",
+        "a fight to the finish with the beast!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "It seems the shadow has judged you not",
+        "to be a threat and flown away.",
+        ""
+      ],
+      "Translation": [
+        "It seems the shadow has judged you not",
+        "to be a threat and flown away.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "You have overcome the birdlike beast!",
+        "This must have been the \"ancient one\"",
+        "spoken of on the slate.",
+        "[Page]",
+        "",
+        "All that remains is to report your",
+        "achievement to the Outland Count for",
+        "this request to be completed!",
+        ""
+      ],
+      "Translation": [
+        "You have overcome the birdlike beast!",
+        "This must have been the \"ancient one\"",
+        "spoken of on the slate.",
+        "[Page]",
+        "",
+        "All that remains is to report your",
+        "achievement to the Outland Count for",
+        "this request to be completed!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You feel no imminent threat...",
+        "You have already defeated the",
+        "ancient one, after all.",
+        ""
+      ],
+      "Translation": [
+        "You feel no imminent threat...",
+        "You have already defeated the",
+        "ancient one, after all.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

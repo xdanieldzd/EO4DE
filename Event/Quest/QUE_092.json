@@ -1,0 +1,854 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_092",
+  "RelativePath": "Event\\Quest\\QUE_092.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, it is you... The Outland Count's",
+        "request is very different this time.",
+        "It is to eliminate the [Color:5][Enemy1:202][Color:0].",
+        "[Page]",
+        "",
+        "You do recall the Great Dragon that",
+        "attacked the Imperial refugee ships",
+        "in the [Color:5]Windy Plains[Color:0], yes?",
+        "[Page]",
+        "",
+        "Possibly due to its earlier exertions,",
+        "the Great Dragon has returned to its",
+        "lair in order to rest.",
+        "[Page]",
+        "",
+        "If ever there was a time to face it,",
+        "this may be it. Though there is one",
+        "small problem...",
+        "[Page]",
+        "",
+        "After that incident, the Imperial",
+        "Prince vanished from the city.",
+        "[Page]",
+        "",
+        "We believe he may have gone to defeat",
+        "the Great Dragon on his own.",
+        "[Page]",
+        "",
+        "Though the request only calls for the",
+        "defeat of the Great Dragon, should you",
+        "meet the Prince, tell him to return.",
+        "[Page]",
+        "",
+        "Everybody is very worried. We are",
+        "counting on you, [Guild] Guild.",
+        ""
+      ],
+      "Translation": [
+        "Ah, it is you... The Outland Count's",
+        "request is very different this time.",
+        "It is to eliminate the [Color:5][Enemy1:202][Color:0].",
+        "[Page]",
+        "",
+        "You do recall the Great Dragon that",
+        "attacked the Imperial refugee ships",
+        "in the [Color:5]Windy Plains[Color:0], yes?",
+        "[Page]",
+        "",
+        "Possibly due to its earlier exertions,",
+        "the Great Dragon has returned to its",
+        "lair in order to rest.",
+        "[Page]",
+        "",
+        "If ever there was a time to face it,",
+        "this may be it. Though there is one",
+        "small problem...",
+        "[Page]",
+        "",
+        "After that incident, the Imperial",
+        "Prince vanished from the city.",
+        "[Page]",
+        "",
+        "We believe he may have gone to defeat",
+        "the Great Dragon on his own.",
+        "[Page]",
+        "",
+        "Though the request only calls for the",
+        "defeat of the Great Dragon, should you",
+        "meet the Prince, tell him to return.",
+        "[Page]",
+        "",
+        "Everybody is very worried. We are",
+        "counting on you, [Guild] Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I am shocked that you",
+        "were able to defeat that enormously",
+        "powerful [Enemy1:202].",
+        "[Page]",
+        "",
+        "I know that may sound rude, but",
+        "\"shock\" is truly the only word",
+        "for it.",
+        "[Page]",
+        "",
+        "I think that the Imperial immigrants",
+        "will feel safer now.",
+        "[Page]",
+        "",
+        "Especially with their Prince safely",
+        "returned to them. Very good work,",
+        "[Guild] Guild.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I am shocked that you",
+        "were able to defeat that enormously",
+        "powerful [Enemy1:202].",
+        "[Page]",
+        "",
+        "I know that may sound rude, but",
+        "\"shock\" is truly the only word",
+        "for it.",
+        "[Page]",
+        "",
+        "I think that the Imperial immigrants",
+        "will feel safer now.",
+        "[Page]",
+        "",
+        "Especially with their Prince safely",
+        "returned to them. Very good work,",
+        "[Guild] Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "As you check over your skyship, an",
+        "armored Imperial soldier approaches.",
+        ""
+      ],
+      "Translation": [
+        "As you check over your skyship, an",
+        "armored Imperial soldier approaches.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "\"Are you the [Guild] Guild...?",
+        "I had to thank you again for before.",
+        "My daughter's doing just fine.",
+        "[Page]",
+        "",
+        "\"I know you've heard by now, but...",
+        "It seems His Imperial Highness has",
+        "gone to defeat the Great Dragon alone.",
+        "[Page]",
+        "",
+        "\"Make no mistake, he is the Empire's",
+        "strongest warrior, but challenging",
+        "that thing alone is suicide.",
+        "[Page]",
+        "",
+        "\"Normally, we would be with him, but",
+        "most of our better knights were hurt",
+        "in the skyship attacks.",
+        "[Page]",
+        "",
+        "\"You're the only hope we have left...",
+        "Please watch over His Imperial",
+        "Highness.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Are you the [Guild] Guild...?",
+        "I had to thank you again for before.",
+        "My daughter's doing just fine.",
+        "[Page]",
+        "",
+        "\"I know you've heard by now, but...",
+        "It seems His Imperial Highness has",
+        "gone to defeat the Great Dragon alone.",
+        "[Page]",
+        "",
+        "\"Make no mistake, he is the Empire's",
+        "strongest warrior, but challenging",
+        "that thing alone is suicide.",
+        "[Page]",
+        "",
+        "\"Normally, we would be with him, but",
+        "most of our better knights were hurt",
+        "in the skyship attacks.",
+        "[Page]",
+        "",
+        "\"You're the only hope we have left...",
+        "Please watch over His Imperial",
+        "Highness.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier bows deeply to you before",
+        "leaving the city gates.",
+        ""
+      ],
+      "Translation": [
+        "The soldier bows deeply to you before",
+        "leaving the city gates.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "After you arrive at the Windy Plains,",
+        "a hawk from Tharsis flies to your",
+        "skyship.",
+        "[Page]",
+        "",
+        "There is a message tied to the hawk's",
+        "leg that contains the coordinates for",
+        "a location on your map.",
+        "[Page]",
+        "",
+        "You surmise that this is the lair of",
+        "the [Enemy1:202].",
+        "[Page]",
+        "",
+        "The same [Enemy1:202] you have taken",
+        "a request to eliminate...",
+        "[Page]",
+        "",
+        "You gather the rest of your party to",
+        "determine if you are ready before you",
+        "head for your decisive battle.",
+        ""
+      ],
+      "Translation": [
+        "After you arrive at the Windy Plains,",
+        "a hawk from Tharsis flies to your",
+        "skyship.",
+        "[Page]",
+        "",
+        "There is a message tied to the hawk's",
+        "leg that contains the coordinates for",
+        "a location on your map.",
+        "[Page]",
+        "",
+        "You surmise that this is the lair of",
+        "the [Enemy1:202].",
+        "[Page]",
+        "",
+        "The same [Enemy1:202] you have taken",
+        "a request to eliminate...",
+        "[Page]",
+        "",
+        "You gather the rest of your party to",
+        "determine if you are ready before you",
+        "head for your decisive battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "You continue to attack, undaunted by",
+        "the Great Dragon's might, until you",
+        "at last defeat the abomination!",
+        "[Page]",
+        "",
+        "When the fallen Great Dragon slowly",
+        "closes its eyes, its enormous crimson",
+        "body suddenly bursts into flame!",
+        "[Page]",
+        "",
+        "That flame coalesces into a spherical",
+        "shape before your eyes, which hardens",
+        "into a jewel...",
+        "[Page]",
+        "",
+        "As you take hold of the floating gem,",
+        "you feel a transcendent, burning",
+        "power rush through your bodies!",
+        ""
+      ],
+      "Translation": [
+        "You continue to attack, undaunted by",
+        "the Great Dragon's might, until you",
+        "at last defeat the abomination!",
+        "[Page]",
+        "",
+        "When the fallen Great Dragon slowly",
+        "closes its eyes, its enormous crimson",
+        "body suddenly bursts into flame!",
+        "[Page]",
+        "",
+        "That flame coalesces into a spherical",
+        "shape before your eyes, which hardens",
+        "into a jewel...",
+        "[Page]",
+        "",
+        "As you take hold of the floating gem,",
+        "you feel a transcendent, burning",
+        "power rush through your bodies!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 80![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 80![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 90![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 90![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 99![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 99![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "\"What is this overwhelming power...?",
+        "Is this Heaven's blessing for ridding",
+        "the earth of the dragon?\"",
+        "[Page]",
+        "",
+        "The Prince gazes at you.",
+        "[Page]",
+        "",
+        "\"I owe you my gratitude. Had I gone",
+        "alone to face the fiend, I may have",
+        "paid for my hubris with my life.",
+        "[Page]",
+        "",
+        "\"The safety of our Imperial skyships is",
+        "now secure. Let us make our triumphant",
+        "return, Guild [Guild].\"",
+        ""
+      ],
+      "Translation": [
+        "\"What is this overwhelming power...?",
+        "Is this Heaven's blessing for ridding",
+        "the earth of the dragon?\"",
+        "[Page]",
+        "",
+        "The Prince gazes at you.",
+        "[Page]",
+        "",
+        "\"I owe you my gratitude. Had I gone",
+        "alone to face the fiend, I may have",
+        "paid for my hubris with my life.",
+        "[Page]",
+        "",
+        "\"The safety of our Imperial skyships is",
+        "now secure. Let us make our triumphant",
+        "return, Guild [Guild].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "\"I owe you my gratitude. Had I gone",
+        "alone to face the fiend, I may have",
+        "paid for my hubris with my life.\"",
+        "[Page]",
+        "",
+        "The Imperial Prince praises you as he",
+        "calls for his skyship.",
+        "[Page]",
+        "",
+        "\"The safety of our Imperial skyships is",
+        "now secure. Let us make our triumphant",
+        "return, Guild [Guild].",
+        "[Page]",
+        "",
+        "\"You have earned the right to be",
+        "called true heroes. Dragon slayers,",
+        "return home with heads held high.\"",
+        ""
+      ],
+      "Translation": [
+        "\"I owe you my gratitude. Had I gone",
+        "alone to face the fiend, I may have",
+        "paid for my hubris with my life.\"",
+        "[Page]",
+        "",
+        "The Imperial Prince praises you as he",
+        "calls for his skyship.",
+        "[Page]",
+        "",
+        "\"The safety of our Imperial skyships is",
+        "now secure. Let us make our triumphant",
+        "return, Guild [Guild].",
+        "[Page]",
+        "",
+        "\"You have earned the right to be",
+        "called true heroes. Dragon slayers,",
+        "return home with heads held high.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "You look around in case anything has",
+        "broken on the ship, but find nothing",
+        "amiss and leave.",
+        ""
+      ],
+      "Translation": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "You look around in case anything has",
+        "broken on the ship, but find nothing",
+        "amiss and leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "Disturbing laughter echoes in your",
+        "minds...",
+        "[Page]",
+        "",
+        "[Color:5]\"Well done, humans! Now, all the seals",
+        "are broken![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Despicable wyrms who protected the",
+        "seals for the Divine Dragon! Meddling",
+        "with humans has incurred their wrath![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Fools! I shall consume Yggdrasil,",
+        "and with its power, assume the mantle",
+        "of the Divine Dragon for myself![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Once I have the throne of the Lord",
+        "of Dragons, a new age of tyranny",
+        "shall begin!\"[Color:0]",
+        "[Page]",
+        "",
+        "The party murmurs amongst themselves.",
+        "[Page]",
+        "",
+        "But the voice says no more...",
+        "Who could it have belonged to?",
+        "[Page]",
+        "",
+        "There is no one to answer that",
+        "question. With a new and unsettling",
+        "mystery begun, you leave the area.",
+        ""
+      ],
+      "Translation": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "Disturbing laughter echoes in your",
+        "minds...",
+        "[Page]",
+        "",
+        "[Color:5]\"Well done, humans! Now, all the seals",
+        "are broken![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Despicable wyrms who protected the",
+        "seals for the Divine Dragon! Meddling",
+        "with humans has incurred their wrath![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Fools! I shall consume Yggdrasil,",
+        "and with its power, assume the mantle",
+        "of the Divine Dragon for myself![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Once I have the throne of the Lord",
+        "of Dragons, a new age of tyranny",
+        "shall begin!\"[Color:0]",
+        "[Page]",
+        "",
+        "The party murmurs amongst themselves.",
+        "[Page]",
+        "",
+        "But the voice says no more...",
+        "Who could it have belonged to?",
+        "[Page]",
+        "",
+        "There is no one to answer that",
+        "question. With a new and unsettling",
+        "mystery begun, you leave the area.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

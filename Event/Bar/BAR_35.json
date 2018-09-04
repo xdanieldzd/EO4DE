@@ -1,0 +1,44 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_35",
+  "RelativePath": "Event\\Bar\\BAR_35.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "The Cloudy Stronghold, hm...?",
+        "At first, I thought it was actually",
+        "built on top of the clouds...",
+        "[Page]",
+        "",
+        "Somehow, the Echoing Library feels",
+        "pretty dubious right now. I wonder if",
+        "Whirlwind is all right...",
+        "[Page]",
+        "",
+        "He saved my life once, you know.",
+        "That's why I'm worried about him...",
+        ""
+      ],
+      "Translation": [
+        "The Cloudy Stronghold, hm...?",
+        "At first, I thought it was actually",
+        "built on top of the clouds...",
+        "[Page]",
+        "",
+        "Somehow, the Echoing Library feels",
+        "pretty dubious right now. I wonder if",
+        "Whirlwind is all right...",
+        "[Page]",
+        "",
+        "He saved my life once, you know.",
+        "That's why I'm worried about him...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

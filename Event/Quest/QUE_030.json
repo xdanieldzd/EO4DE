@@ -1,0 +1,450 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_030",
+  "RelativePath": "Event\\Quest\\QUE_030.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, that one. Ciaran at the wharf",
+        "wants to experiment on skyships with",
+        "materials from the Echoing Library.",
+        "[Page]",
+        "",
+        "You can most likely find them on the",
+        "[Color:5]first floor[Color:0] of the [Color:5]Echoing Library[Color:0].",
+        "I suggest starting there.",
+        "[Page]",
+        "",
+        "Take care, and I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Translation": [
+        "Ah, that one. Ciaran at the wharf",
+        "wants to experiment on skyships with",
+        "materials from the Echoing Library.",
+        "[Page]",
+        "",
+        "You can most likely find them on the",
+        "[Color:5]first floor[Color:0] of the [Color:5]Echoing Library[Color:0].",
+        "I suggest starting there.",
+        "[Page]",
+        "",
+        "Take care, and I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "After taking the request, you realize",
+        "you already found an [Color:6][Number:0][Color:0]",
+        "in the Echoing Library.",
+        "[Page]",
+        "",
+        "If you would like to complete the",
+        "request now, simply turn around and",
+        "deliver the [Number:0].",
+        ""
+      ],
+      "Translation": [
+        "After taking the request, you realize",
+        "you already found an [Color:6][Number:0][Color:0]",
+        "in the Echoing Library.",
+        "[Page]",
+        "",
+        "If you would like to complete the",
+        "request now, simply turn around and",
+        "deliver the [Number:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back, [Guild] Guild. I see",
+        "you brought what Ciaran needed.",
+        "[Page]",
+        "",
+        "That young man certainly does have a",
+        "passion for skyships. I always see",
+        "him tinkering with them.",
+        "[Page]",
+        "",
+        "And the other day... he was nuzzling",
+        "his cheek onto one of the skyships",
+        "there. E-Everyone has their hobbies...",
+        "[Page]",
+        "",
+        "Now then, I again thank you for your",
+        "excellent work. Here is the reward",
+        "you were promised.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back, [Guild] Guild. I see",
+        "you brought what Ciaran needed.",
+        "[Page]",
+        "",
+        "That young man certainly does have a",
+        "passion for skyships. I always see",
+        "him tinkering with them.",
+        "[Page]",
+        "",
+        "And the other day... he was nuzzling",
+        "his cheek onto one of the skyships",
+        "there. E-Everyone has their hobbies...",
+        "[Page]",
+        "",
+        "Now then, I again thank you for your",
+        "excellent work. Here is the reward",
+        "you were promised.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, is that the [Guild] Guild?",
+        "Guess yeh took my request.",
+        "[Page]",
+        "",
+        "I want yeh to bring me back this kind",
+        "of material from a large tree that",
+        "yeh can get at the Echoing Library.",
+        "[Page]",
+        "",
+        "I have a mind to try it out on a",
+        "skyship, so bring me back a sturdy",
+        "one. I'm counting on yeh!",
+        ""
+      ],
+      "Translation": [
+        "Oh, is that the [Guild] Guild?",
+        "Guess yeh took my request.",
+        "[Page]",
+        "",
+        "I want yeh to bring me back this kind",
+        "of material from a large tree that",
+        "yeh can get at the Echoing Library.",
+        "[Page]",
+        "",
+        "I have a mind to try it out on a",
+        "skyship, so bring me back a sturdy",
+        "one. I'm counting on yeh!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk through the old library,",
+        "you reach a large tree. You might",
+        "gather what you seek here...",
+        "[Page]",
+        "",
+        "You recall that the wharf master",
+        "whose request you undertook wanted",
+        "a particular type of material.",
+        "[Page]",
+        "",
+        "You might be able to acquire a sample",
+        "of it here.",
+        ""
+      ],
+      "Translation": [
+        "As you walk through the old library,",
+        "you reach a large tree. You might",
+        "gather what you seek here...",
+        "[Page]",
+        "",
+        "You recall that the wharf master",
+        "whose request you undertook wanted",
+        "a particular type of material.",
+        "[Page]",
+        "",
+        "You might be able to acquire a sample",
+        "of it here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "The wood you cut is quite thin, and",
+        "you are surprised that anyone would",
+        "think it fit for a skyship.",
+        "[Page]",
+        "",
+        "Nevertheless, you put the branch",
+        "with your belongings and continue",
+        "on your way.",
+        ""
+      ],
+      "Translation": [
+        "The wood you cut is quite thin, and",
+        "you are surprised that anyone would",
+        "think it fit for a skyship.",
+        "[Page]",
+        "",
+        "Nevertheless, you put the branch",
+        "with your belongings and continue",
+        "on your way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "The wood you cut seems quite sturdy.",
+        "It is no surprise that a skyship",
+        "engineer would find it desirable.",
+        "[Page]",
+        "",
+        "You think that the client will be",
+        "satisfied with this. You need only",
+        "return to the bar to deliver it.",
+        ""
+      ],
+      "Translation": [
+        "The wood you cut seems quite sturdy.",
+        "It is no surprise that a skyship",
+        "engineer would find it desirable.",
+        "[Page]",
+        "",
+        "You think that the client will be",
+        "satisfied with this. You need only",
+        "return to the bar to deliver it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You recall the request you agreed to",
+        "that involved fetching materials",
+        "from the Echoing Library...",
+        "[Page]",
+        "",
+        "You currently have a [Color:6][Number:0][Color:0]",
+        "in your possession. You make a note",
+        "to be careful not to sell it...",
+        ""
+      ],
+      "Translation": [
+        "You recall the request you agreed to",
+        "that involved fetching materials",
+        "from the Echoing Library...",
+        "[Page]",
+        "",
+        "You currently have a [Color:6][Number:0][Color:0]",
+        "in your possession. You make a note",
+        "to be careful not to sell it...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

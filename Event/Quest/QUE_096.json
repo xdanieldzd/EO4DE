@@ -1,0 +1,786 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_096",
+  "RelativePath": "Event\\Quest\\QUE_096.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Do you recall that request earlier",
+        "from the doctor?",
+        "[Page]",
+        "",
+        "Kirjonen took the medicine disliked by",
+        "dragons that he claimed as a reward",
+        "and presented it to the Outland Count.",
+        "[Page]",
+        "",
+        "As a result, the Outland Count has",
+        "decided to exterminate the dragon.",
+        "[Page]",
+        "",
+        "The Sentinels say that whenever the",
+        "[Color:5][Enemy1:200][Color:0] took to the skies, many",
+        "would die in the [Color:5]Sacred Mountains[Color:0].",
+        "[Page]",
+        "",
+        "They have already begun to surround",
+        "the dragon. You should be on your way",
+        "quickly to that region.",
+        "[Page]",
+        "",
+        "Kirjonen will also be taking part in",
+        "the battle. Perhaps you will see him",
+        "there as well.",
+        ""
+      ],
+      "Translation": [
+        "Do you recall that request earlier",
+        "from the doctor?",
+        "[Page]",
+        "",
+        "Kirjonen took the medicine disliked by",
+        "dragons that he claimed as a reward",
+        "and presented it to the Outland Count.",
+        "[Page]",
+        "",
+        "As a result, the Outland Count has",
+        "decided to exterminate the dragon.",
+        "[Page]",
+        "",
+        "The Sentinels say that whenever the",
+        "[Color:5][Enemy1:200][Color:0] took to the skies, many",
+        "would die in the [Color:5]Sacred Mountains[Color:0].",
+        "[Page]",
+        "",
+        "They have already begun to surround",
+        "the dragon. You should be on your way",
+        "quickly to that region.",
+        "[Page]",
+        "",
+        "Kirjonen will also be taking part in",
+        "the battle. Perhaps you will see him",
+        "there as well.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. The news of the",
+        "[Enemy1:200]'s death is being",
+        "spread through Tharsis.",
+        "[Page]",
+        "",
+        "I believe you may have started a new",
+        "legend...",
+        "[Page]",
+        "",
+        "Please rest well for today, knowing",
+        "that you have performed excellently.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. The news of the",
+        "[Enemy1:200]'s death is being",
+        "spread through Tharsis.",
+        "[Page]",
+        "",
+        "I believe you may have started a new",
+        "legend...",
+        "[Page]",
+        "",
+        "Please rest well for today, knowing",
+        "that you have performed excellently.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "After you arrive at the Sacred",
+        "Mountains, a hawk from Tharsis",
+        "flies to your skyship.",
+        "[Page]",
+        "",
+        "There is a message tied to the hawk's",
+        "leg that contains the coordinates for",
+        "a location on your map.",
+        "[Page]",
+        "",
+        "You surmise that this is the lair of",
+        "the [Enemy1:200].",
+        "[Page]",
+        "",
+        "The same [Enemy1:200] you have taken",
+        "a request to eliminate...",
+        "[Page]",
+        "",
+        "You gather the rest of your party to",
+        "determine if you are ready before you",
+        "head for your decisive battle.",
+        ""
+      ],
+      "Translation": [
+        "After you arrive at the Sacred",
+        "Mountains, a hawk from Tharsis",
+        "flies to your skyship.",
+        "[Page]",
+        "",
+        "There is a message tied to the hawk's",
+        "leg that contains the coordinates for",
+        "a location on your map.",
+        "[Page]",
+        "",
+        "You surmise that this is the lair of",
+        "the [Enemy1:200].",
+        "[Page]",
+        "",
+        "The same [Enemy1:200] you have taken",
+        "a request to eliminate...",
+        "[Page]",
+        "",
+        "You gather the rest of your party to",
+        "determine if you are ready before you",
+        "head for your decisive battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Your indomitable spirit burns through",
+        "as you successfully overcome this",
+        "icy ordeal!",
+        "[Page]",
+        "",
+        "As the ice dragon screams and falls to",
+        "the ground, it shatters, and the ice",
+        "crystals begin to dance around you!",
+        "[Page]",
+        "",
+        "Before your eyes, the sparkling",
+        "crystals form a spherical shape",
+        "before crystallizing into a jewel!",
+        "[Page]",
+        "",
+        "As you take hold of the floating gem,",
+        "you feel a transcendent, clear power",
+        "rush through your bodies!",
+        ""
+      ],
+      "Translation": [
+        "Your indomitable spirit burns through",
+        "as you successfully overcome this",
+        "icy ordeal!",
+        "[Page]",
+        "",
+        "As the ice dragon screams and falls to",
+        "the ground, it shatters, and the ice",
+        "crystals begin to dance around you!",
+        "[Page]",
+        "",
+        "Before your eyes, the sparkling",
+        "crystals form a spherical shape",
+        "before crystallizing into a jewel!",
+        "[Page]",
+        "",
+        "As you take hold of the floating gem,",
+        "you feel a transcendent, clear power",
+        "rush through your bodies!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 80![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 80![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 90![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 90![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 99![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 99![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "\"That ice dragon had all its eyes,",
+        "correct...? Did I mention to you what",
+        "I have been tasked with my my king?",
+        "[Page]",
+        "",
+        "\"I am in search of the ice dragon that",
+        "attacked the crystal palace in my",
+        "homeland and slew the young prince.",
+        "[Page]",
+        "",
+        "\"During our battle with the beast,",
+        "our king landed a hit, which should",
+        "have taken one of its eyes.",
+        "[Page]",
+        "",
+        "\"But it seems my journey is not quite",
+        "over...",
+        "[Page]",
+        "",
+        "\"Nevertheless, I am satisfied. The",
+        "people here will no longer fear that",
+        "dragon. Thank you, Guild [Guild].\"",
+        "[Page]",
+        "",
+        "Kirjonen salutes you before boarding",
+        "his skyship and returning to Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "\"That ice dragon had all its eyes,",
+        "correct...? Did I mention to you what",
+        "I have been tasked with my my king?",
+        "[Page]",
+        "",
+        "\"I am in search of the ice dragon that",
+        "attacked the crystal palace in my",
+        "homeland and slew the young prince.",
+        "[Page]",
+        "",
+        "\"During our battle with the beast,",
+        "our king landed a hit, which should",
+        "have taken one of its eyes.",
+        "[Page]",
+        "",
+        "\"But it seems my journey is not quite",
+        "over...",
+        "[Page]",
+        "",
+        "\"Nevertheless, I am satisfied. The",
+        "people here will no longer fear that",
+        "dragon. Thank you, Guild [Guild].\"",
+        "[Page]",
+        "",
+        "Kirjonen salutes you before boarding",
+        "his skyship and returning to Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "\"I congratulate you. You have earned",
+        "the right to call yourselves dragon",
+        "slayers.\"",
+        "[Page]",
+        "",
+        "Kirjonen's praise is clearly sincere.",
+        "[Page]",
+        "",
+        "\"With the dragon no longer terrorizing",
+        "the skies, this land may now live in",
+        "peace. Blessed be the warriors!\"",
+        "[Page]",
+        "",
+        "Kirjonen salutes you before boarding",
+        "his skyship and returning to Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "\"I congratulate you. You have earned",
+        "the right to call yourselves dragon",
+        "slayers.\"",
+        "[Page]",
+        "",
+        "Kirjonen's praise is clearly sincere.",
+        "[Page]",
+        "",
+        "\"With the dragon no longer terrorizing",
+        "the skies, this land may now live in",
+        "peace. Blessed be the warriors!\"",
+        "[Page]",
+        "",
+        "Kirjonen salutes you before boarding",
+        "his skyship and returning to Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "You look around in case anything has",
+        "broken on the ship, but find nothing",
+        "amiss and leave.",
+        ""
+      ],
+      "Translation": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "You look around in case anything has",
+        "broken on the ship, but find nothing",
+        "amiss and leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "Disturbing laughter echoes in your",
+        "minds...",
+        "[Page]",
+        "",
+        "[Color:5]\"Well done, humans! Now, all the seals",
+        "are broken![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Despicable wyrms who protected the",
+        "seals for the Divine Dragon! Meddling",
+        "with humans has incurred their wrath![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Fools! I shall consume Yggdrasil,",
+        "and with its power, assume the mantle",
+        "of the Divine Dragon for myself![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Once I have the throne of the Lord",
+        "of Dragons, a new age of tyranny",
+        "shall begin!\"[Color:0]",
+        "[Page]",
+        "",
+        "The party murmurs amongst themselves.",
+        "[Page]",
+        "",
+        "But the voice says no more...",
+        "Who could it have belonged to?",
+        "[Page]",
+        "",
+        "There is no one to answer that",
+        "question. With a new and unsettling",
+        "mystery begun, you leave the area.",
+        ""
+      ],
+      "Translation": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "Disturbing laughter echoes in your",
+        "minds...",
+        "[Page]",
+        "",
+        "[Color:5]\"Well done, humans! Now, all the seals",
+        "are broken![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Despicable wyrms who protected the",
+        "seals for the Divine Dragon! Meddling",
+        "with humans has incurred their wrath![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Fools! I shall consume Yggdrasil,",
+        "and with its power, assume the mantle",
+        "of the Divine Dragon for myself![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Once I have the throne of the Lord",
+        "of Dragons, a new age of tyranny",
+        "shall begin!\"[Color:0]",
+        "[Page]",
+        "",
+        "The party murmurs amongst themselves.",
+        "[Page]",
+        "",
+        "But the voice says no more...",
+        "Who could it have belonged to?",
+        "[Page]",
+        "",
+        "There is no one to answer that",
+        "question. With a new and unsettling",
+        "mystery begun, you leave the area.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

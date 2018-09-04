@@ -1,0 +1,8470 @@
+{
+  "FileType": "StringTable",
+  "Description": "Non-equipment item names",
+  "RelativePath": "Item\\useitemnametable.tbl",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "NONE"
+      ],
+      "Translation": [
+        "NONE"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Grasseater Leg"
+      ],
+      "Translation": [
+        "Grasseater Leg"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Grasseater Jaw"
+      ],
+      "Translation": [
+        "Grasseater Jaw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Hard Skin"
+      ],
+      "Translation": [
+        "Hard Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Roller Shell"
+      ],
+      "Translation": [
+        "Roller Shell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Rat Fang"
+      ],
+      "Translation": [
+        "Rat Fang"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Rat Hide"
+      ],
+      "Translation": [
+        "Rat Hide"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Gritty Scales"
+      ],
+      "Translation": [
+        "Gritty Scales"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Thin Wing"
+      ],
+      "Translation": [
+        "Thin Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Baboon Bone"
+      ],
+      "Translation": [
+        "Baboon Bone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Stunned Tongue"
+      ],
+      "Translation": [
+        "Stunned Tongue"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Frog Cheek Meat"
+      ],
+      "Translation": [
+        "Frog Cheek Meat"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Frigid Core"
+      ],
+      "Translation": [
+        "Frigid Core"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Frog Fluid"
+      ],
+      "Translation": [
+        "Frog Fluid"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Mandrake Root"
+      ],
+      "Translation": [
+        "Mandrake Root"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Sealed Neck"
+      ],
+      "Translation": [
+        "Sealed Neck"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Soft Plume"
+      ],
+      "Translation": [
+        "Soft Plume"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Shocked Talon"
+      ],
+      "Translation": [
+        "Shocked Talon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Rainbow Skin"
+      ],
+      "Translation": [
+        "Rainbow Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Rickrack Tongue"
+      ],
+      "Translation": [
+        "Rickrack Tongue"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Needle Tail"
+      ],
+      "Translation": [
+        "Needle Tail"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Panic Chakra"
+      ],
+      "Translation": [
+        "Panic Chakra"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Light Hardwood"
+      ],
+      "Translation": [
+        "Light Hardwood"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Writhing Bulb"
+      ],
+      "Translation": [
+        "Writhing Bulb"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Big Shell"
+      ],
+      "Translation": [
+        "Big Shell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Elastic Skin"
+      ],
+      "Translation": [
+        "Elastic Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Baboon Skin"
+      ],
+      "Translation": [
+        "Baboon Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Purple Wing"
+      ],
+      "Translation": [
+        "Purple Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Bear Claw"
+      ],
+      "Translation": [
+        "Bear Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Locust Horn"
+      ],
+      "Translation": [
+        "Locust Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Rending Claw"
+      ],
+      "Translation": [
+        "Rending Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Dangerous Bud"
+      ],
+      "Translation": [
+        "Dangerous Bud"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Fawn Hide"
+      ],
+      "Translation": [
+        "Fawn Hide"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Huge Feather"
+      ],
+      "Translation": [
+        "Huge Feather"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Fawn Hide"
+      ],
+      "Translation": [
+        "Fawn Hide"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Fawn Hoof"
+      ],
+      "Translation": [
+        "Fawn Hoof"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Dinogator Skin"
+      ],
+      "Translation": [
+        "Dinogator Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Sealed Claw"
+      ],
+      "Translation": [
+        "Sealed Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Kangaroo Fist"
+      ],
+      "Translation": [
+        "Kangaroo Fist"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Raptor Claw"
+      ],
+      "Translation": [
+        "Raptor Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Berserker Claw"
+      ],
+      "Translation": [
+        "Berserker Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "Berserker Skin"
+      ],
+      "Translation": [
+        "Berserker Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Sealed Skull"
+      ],
+      "Translation": [
+        "Sealed Skull"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "Rabbit Tail"
+      ],
+      "Translation": [
+        "Rabbit Tail"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "Rabbit Ear"
+      ],
+      "Translation": [
+        "Rabbit Ear"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "Muddle Hypha"
+      ],
+      "Translation": [
+        "Muddle Hypha"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "Umbrella Lump"
+      ],
+      "Translation": [
+        "Umbrella Lump"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "Mountain Claw"
+      ],
+      "Translation": [
+        "Mountain Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "Metallic Horn"
+      ],
+      "Translation": [
+        "Metallic Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "Dangerous Petal"
+      ],
+      "Translation": [
+        "Dangerous Petal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Fiery Rind"
+      ],
+      "Translation": [
+        "Fiery Rind"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Fiery Seed"
+      ],
+      "Translation": [
+        "Fiery Seed"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Ebony Fur"
+      ],
+      "Translation": [
+        "Ebony Fur"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Ebony Claw"
+      ],
+      "Translation": [
+        "Ebony Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Bud Tusk"
+      ],
+      "Translation": [
+        "Bud Tusk"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Pliant Vine"
+      ],
+      "Translation": [
+        "Pliant Vine"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "Boar Tusk"
+      ],
+      "Translation": [
+        "Boar Tusk"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "Boar Skin"
+      ],
+      "Translation": [
+        "Boar Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "Mist Wand Shard"
+      ],
+      "Translation": [
+        "Mist Wand Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "Green Feather"
+      ],
+      "Translation": [
+        "Green Feather"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "Largebill Bone"
+      ],
+      "Translation": [
+        "Largebill Bone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Lance Shard"
+      ],
+      "Translation": [
+        "Lance Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "Lizard Back Fin"
+      ],
+      "Translation": [
+        "Lizard Back Fin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "Cursed Wool"
+      ],
+      "Translation": [
+        "Cursed Wool"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "Violet Wing"
+      ],
+      "Translation": [
+        "Violet Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "Moa Beak"
+      ],
+      "Translation": [
+        "Moa Beak"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "Spotted Tongue"
+      ],
+      "Translation": [
+        "Spotted Tongue"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "Soft Sickle"
+      ],
+      "Translation": [
+        "Soft Sickle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "Stony Scythe"
+      ],
+      "Translation": [
+        "Stony Scythe"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "Dress Scrap"
+      ],
+      "Translation": [
+        "Dress Scrap"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Cursed Eye"
+      ],
+      "Translation": [
+        "Cursed Eye"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Slender Horn"
+      ],
+      "Translation": [
+        "Slender Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "Zapper Skin"
+      ],
+      "Translation": [
+        "Zapper Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Zapper Tongue"
+      ],
+      "Translation": [
+        "Zapper Tongue"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "Frog Belly Skin"
+      ],
+      "Translation": [
+        "Frog Belly Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "Glassy Eye"
+      ],
+      "Translation": [
+        "Glassy Eye"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "Tough Leg"
+      ],
+      "Translation": [
+        "Tough Leg"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "Hopper Wing"
+      ],
+      "Translation": [
+        "Hopper Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "Hard Shell"
+      ],
+      "Translation": [
+        "Hard Shell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "Beetle Sickle"
+      ],
+      "Translation": [
+        "Beetle Sickle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Broken Horn"
+      ],
+      "Translation": [
+        "Broken Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Bat Fang"
+      ],
+      "Translation": [
+        "Bat Fang"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "Soft Patagium"
+      ],
+      "Translation": [
+        "Soft Patagium"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "Scorch Stone"
+      ],
+      "Translation": [
+        "Scorch Stone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": false,
+      "Original": [
+        "Hardened Lava"
+      ],
+      "Translation": [
+        "Hardened Lava"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "Frigid Stone"
+      ],
+      "Translation": [
+        "Frigid Stone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "Ice Core Shard"
+      ],
+      "Translation": [
+        "Ice Core Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": false,
+      "Original": [
+        "Withered Vine"
+      ],
+      "Translation": [
+        "Withered Vine"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": false,
+      "Original": [
+        "Thick Bone"
+      ],
+      "Translation": [
+        "Thick Bone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": false,
+      "Original": [
+        "Poison Hypha"
+      ],
+      "Translation": [
+        "Poison Hypha"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "Poison Ferrule"
+      ],
+      "Translation": [
+        "Poison Ferrule"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "Shining Rectrix"
+      ],
+      "Translation": [
+        "Shining Rectrix"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "Armor Shard"
+      ],
+      "Translation": [
+        "Armor Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "Giant Wing"
+      ],
+      "Translation": [
+        "Giant Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "Poison Trihorn"
+      ],
+      "Translation": [
+        "Poison Trihorn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "Raptor Wing"
+      ],
+      "Translation": [
+        "Raptor Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": false,
+      "Original": [
+        "Fiery Horn"
+      ],
+      "Translation": [
+        "Fiery Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "Effulgent Horn"
+      ],
+      "Translation": [
+        "Effulgent Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": false,
+      "Original": [
+        "Frigid Sickle"
+      ],
+      "Translation": [
+        "Frigid Sickle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "Kingly Horn"
+      ],
+      "Translation": [
+        "Kingly Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "Kingly Skin"
+      ],
+      "Translation": [
+        "Kingly Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "Crusher's Hide"
+      ],
+      "Translation": [
+        "Crusher's Hide"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": false,
+      "Original": [
+        "Heavy Iron Ball"
+      ],
+      "Translation": [
+        "Heavy Iron Ball"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "Mystery Shard"
+      ],
+      "Translation": [
+        "Mystery Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": false,
+      "Original": [
+        "Stone Fang"
+      ],
+      "Translation": [
+        "Stone Fang"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": false,
+      "Original": [
+        "Metallic Cord"
+      ],
+      "Translation": [
+        "Metallic Cord"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": false,
+      "Original": [
+        "Crimson Fur"
+      ],
+      "Translation": [
+        "Crimson Fur"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": false,
+      "Original": [
+        "Flame Claw"
+      ],
+      "Translation": [
+        "Flame Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 108,
+      "IsIgnored": false,
+      "Original": [
+        "Flame Fang"
+      ],
+      "Translation": [
+        "Flame Fang"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 109,
+      "IsIgnored": false,
+      "Original": [
+        "Cursed Hypha"
+      ],
+      "Translation": [
+        "Cursed Hypha"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "Evil Copal"
+      ],
+      "Translation": [
+        "Evil Copal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "White Ape Skin"
+      ],
+      "Translation": [
+        "White Ape Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "Barbed Needle"
+      ],
+      "Translation": [
+        "Barbed Needle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "Barbed Shell"
+      ],
+      "Translation": [
+        "Barbed Shell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": false,
+      "Original": [
+        "Hard Bark"
+      ],
+      "Translation": [
+        "Hard Bark"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": false,
+      "Original": [
+        "Tiny Tooth"
+      ],
+      "Translation": [
+        "Tiny Tooth"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": false,
+      "Original": [
+        "Blue Ear"
+      ],
+      "Translation": [
+        "Blue Ear"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 117,
+      "IsIgnored": false,
+      "Original": [
+        "Wallaby Fist"
+      ],
+      "Translation": [
+        "Wallaby Fist"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 118,
+      "IsIgnored": false,
+      "Original": [
+        "Peach Feather"
+      ],
+      "Translation": [
+        "Peach Feather"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 119,
+      "IsIgnored": false,
+      "Original": [
+        "Peach Leg"
+      ],
+      "Translation": [
+        "Peach Leg"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": false,
+      "Original": [
+        "Purple Hyoid"
+      ],
+      "Translation": [
+        "Purple Hyoid"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "Spiked Iron Ball"
+      ],
+      "Translation": [
+        "Spiked Iron Ball"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "Stone Tusk"
+      ],
+      "Translation": [
+        "Stone Tusk"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "Earthy Skin"
+      ],
+      "Translation": [
+        "Earthy Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Horn"
+      ],
+      "Translation": [
+        "Golden Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "Unusual Metal"
+      ],
+      "Translation": [
+        "Unusual Metal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "Sintered Body"
+      ],
+      "Translation": [
+        "Sintered Body"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "Shell Spike"
+      ],
+      "Translation": [
+        "Shell Spike"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 128,
+      "IsIgnored": false,
+      "Original": [
+        "Stone Arm"
+      ],
+      "Translation": [
+        "Stone Arm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 129,
+      "IsIgnored": false,
+      "Original": [
+        "Dream Carapace"
+      ],
+      "Translation": [
+        "Dream Carapace"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": false,
+      "Original": [
+        "Mole Claw"
+      ],
+      "Translation": [
+        "Mole Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "Mole Skin"
+      ],
+      "Translation": [
+        "Mole Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": false,
+      "Original": [
+        "Dragonfly Nest"
+      ],
+      "Translation": [
+        "Dragonfly Nest"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": false,
+      "Original": [
+        "Shocked Bug Eye"
+      ],
+      "Translation": [
+        "Shocked Bug Eye"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": false,
+      "Original": [
+        "Butterfly Wing"
+      ],
+      "Translation": [
+        "Butterfly Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 136,
+      "IsIgnored": false,
+      "Original": [
+        "Bloody Fist"
+      ],
+      "Translation": [
+        "Bloody Fist"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 137,
+      "IsIgnored": false,
+      "Original": [
+        "Sharp Claw"
+      ],
+      "Translation": [
+        "Sharp Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 138,
+      "IsIgnored": false,
+      "Original": [
+        "Magma Core"
+      ],
+      "Translation": [
+        "Magma Core"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 139,
+      "IsIgnored": false,
+      "Original": [
+        "Magma Shard"
+      ],
+      "Translation": [
+        "Magma Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 140,
+      "IsIgnored": false,
+      "Original": [
+        "Glacier Core"
+      ],
+      "Translation": [
+        "Glacier Core"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": false,
+      "Original": [
+        "Melted Core"
+      ],
+      "Translation": [
+        "Melted Core"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": false,
+      "Original": [
+        "Black Root"
+      ],
+      "Translation": [
+        "Black Root"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": false,
+      "Original": [
+        "Cold Skin"
+      ],
+      "Translation": [
+        "Cold Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": false,
+      "Original": [
+        "Spear Shard"
+      ],
+      "Translation": [
+        "Spear Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": false,
+      "Original": [
+        "Spear Pole"
+      ],
+      "Translation": [
+        "Spear Pole"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": false,
+      "Original": [
+        "Icy Rind"
+      ],
+      "Translation": [
+        "Icy Rind"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 147,
+      "IsIgnored": false,
+      "Original": [
+        "Icy Seed"
+      ],
+      "Translation": [
+        "Icy Seed"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": false,
+      "Original": [
+        "Thunder Tooth"
+      ],
+      "Translation": [
+        "Thunder Tooth"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 149,
+      "IsIgnored": false,
+      "Original": [
+        "Ape Bone"
+      ],
+      "Translation": [
+        "Ape Bone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": false,
+      "Original": [
+        "Locust Leg"
+      ],
+      "Translation": [
+        "Locust Leg"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 151,
+      "IsIgnored": false,
+      "Original": [
+        "Locust Wing"
+      ],
+      "Translation": [
+        "Locust Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 152,
+      "IsIgnored": false,
+      "Original": [
+        "Beetle Shell"
+      ],
+      "Translation": [
+        "Beetle Shell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 153,
+      "IsIgnored": false,
+      "Original": [
+        "Crimson Fang"
+      ],
+      "Translation": [
+        "Crimson Fang"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 154,
+      "IsIgnored": false,
+      "Original": [
+        "Crimson Wing"
+      ],
+      "Translation": [
+        "Crimson Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": false,
+      "Original": [
+        "Lion Claw"
+      ],
+      "Translation": [
+        "Lion Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 156,
+      "IsIgnored": false,
+      "Original": [
+        "Ape Hide"
+      ],
+      "Translation": [
+        "Ape Hide"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 157,
+      "IsIgnored": false,
+      "Original": [
+        "Death's Scythe"
+      ],
+      "Translation": [
+        "Death's Scythe"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 158,
+      "IsIgnored": false,
+      "Original": [
+        "Killer Blade"
+      ],
+      "Translation": [
+        "Killer Blade"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 159,
+      "IsIgnored": false,
+      "Original": [
+        "Guardian Shell"
+      ],
+      "Translation": [
+        "Guardian Shell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 160,
+      "IsIgnored": false,
+      "Original": [
+        "Thorny Shell"
+      ],
+      "Translation": [
+        "Thorny Shell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": false,
+      "Original": [
+        "Moa Tendon"
+      ],
+      "Translation": [
+        "Moa Tendon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": false,
+      "Original": [
+        "Desouler Claw"
+      ],
+      "Translation": [
+        "Desouler Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": false,
+      "Original": [
+        "Giant Petal"
+      ],
+      "Translation": [
+        "Giant Petal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": false,
+      "Original": [
+        "Drive Gear"
+      ],
+      "Translation": [
+        "Drive Gear"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": false,
+      "Original": [
+        "Bone Shard"
+      ],
+      "Translation": [
+        "Bone Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 166,
+      "IsIgnored": false,
+      "Original": [
+        "Raptor Beak"
+      ],
+      "Translation": [
+        "Raptor Beak"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 167,
+      "IsIgnored": false,
+      "Original": [
+        "Sand Horn"
+      ],
+      "Translation": [
+        "Sand Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 168,
+      "IsIgnored": false,
+      "Original": [
+        "Colorful Skin"
+      ],
+      "Translation": [
+        "Colorful Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 169,
+      "IsIgnored": false,
+      "Original": [
+        "Stone Shell"
+      ],
+      "Translation": [
+        "Stone Shell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 170,
+      "IsIgnored": false,
+      "Original": [
+        "Eryngii Cap"
+      ],
+      "Translation": [
+        "Eryngii Cap"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": false,
+      "Original": [
+        "Eryngii Hypha"
+      ],
+      "Translation": [
+        "Eryngii Hypha"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": false,
+      "Original": [
+        "Sky Iron Claw"
+      ],
+      "Translation": [
+        "Sky Iron Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": false,
+      "Original": [
+        "Toxic Bone"
+      ],
+      "Translation": [
+        "Toxic Bone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": false,
+      "Original": [
+        "Sky Iron Shell"
+      ],
+      "Translation": [
+        "Sky Iron Shell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": false,
+      "Original": [
+        "Sealed Cap"
+      ],
+      "Translation": [
+        "Sealed Cap"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Shell"
+      ],
+      "Translation": [
+        "Golden Shell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 177,
+      "IsIgnored": false,
+      "Original": [
+        "Flame Tail"
+      ],
+      "Translation": [
+        "Flame Tail"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 178,
+      "IsIgnored": false,
+      "Original": [
+        "Indigo Vine"
+      ],
+      "Translation": [
+        "Indigo Vine"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 179,
+      "IsIgnored": false,
+      "Original": [
+        "Scorched Petal"
+      ],
+      "Translation": [
+        "Scorched Petal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 180,
+      "IsIgnored": false,
+      "Original": [
+        "Staff Shard"
+      ],
+      "Translation": [
+        "Staff Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": false,
+      "Original": [
+        "Frozen Heart"
+      ],
+      "Translation": [
+        "Frozen Heart"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "IsIgnored": false,
+      "Original": [
+        "Petal Stone"
+      ],
+      "Translation": [
+        "Petal Stone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 183,
+      "IsIgnored": false,
+      "Original": [
+        "Broken Core"
+      ],
+      "Translation": [
+        "Broken Core"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 184,
+      "IsIgnored": false,
+      "Original": [
+        "Raptor Talon"
+      ],
+      "Translation": [
+        "Raptor Talon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 185,
+      "IsIgnored": false,
+      "Original": [
+        "Scorched Sap"
+      ],
+      "Translation": [
+        "Scorched Sap"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 186,
+      "IsIgnored": false,
+      "Original": [
+        "Deathly Vine"
+      ],
+      "Translation": [
+        "Deathly Vine"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 187,
+      "IsIgnored": false,
+      "Original": [
+        "Deathly Bud"
+      ],
+      "Translation": [
+        "Deathly Bud"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 188,
+      "IsIgnored": false,
+      "Original": [
+        "Sky Iron Nail"
+      ],
+      "Translation": [
+        "Sky Iron Nail"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 189,
+      "IsIgnored": false,
+      "Original": [
+        "Blue Blood"
+      ],
+      "Translation": [
+        "Blue Blood"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 190,
+      "IsIgnored": false,
+      "Original": [
+        "Writhing Wood"
+      ],
+      "Translation": [
+        "Writhing Wood"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 191,
+      "IsIgnored": false,
+      "Original": [
+        "Poison Branch"
+      ],
+      "Translation": [
+        "Poison Branch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 192,
+      "IsIgnored": false,
+      "Original": [
+        "Red Lion Hide"
+      ],
+      "Translation": [
+        "Red Lion Hide"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 193,
+      "IsIgnored": false,
+      "Original": [
+        "Red Lion Fang"
+      ],
+      "Translation": [
+        "Red Lion Fang"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 194,
+      "IsIgnored": false,
+      "Original": [
+        "Horrific Breath"
+      ],
+      "Translation": [
+        "Horrific Breath"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 195,
+      "IsIgnored": false,
+      "Original": [
+        "Toxic Eye"
+      ],
+      "Translation": [
+        "Toxic Eye"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 196,
+      "IsIgnored": false,
+      "Original": [
+        "Thorny Bone"
+      ],
+      "Translation": [
+        "Thorny Bone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 197,
+      "IsIgnored": false,
+      "Original": [
+        "Pale Bone"
+      ],
+      "Translation": [
+        "Pale Bone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 198,
+      "IsIgnored": false,
+      "Original": [
+        "Cursed Bone"
+      ],
+      "Translation": [
+        "Cursed Bone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 199,
+      "IsIgnored": false,
+      "Original": [
+        "Cursed Vine"
+      ],
+      "Translation": [
+        "Cursed Vine"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 200,
+      "IsIgnored": false,
+      "Original": [
+        "Cursed Femur"
+      ],
+      "Translation": [
+        "Cursed Femur"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 201,
+      "IsIgnored": false,
+      "Original": [
+        "Pumpkin Head"
+      ],
+      "Translation": [
+        "Pumpkin Head"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 202,
+      "IsIgnored": false,
+      "Original": [
+        "Crimson Eye"
+      ],
+      "Translation": [
+        "Crimson Eye"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 203,
+      "IsIgnored": false,
+      "Original": [
+        "Eerie Scales"
+      ],
+      "Translation": [
+        "Eerie Scales"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 204,
+      "IsIgnored": false,
+      "Original": [
+        "Emperor Feather"
+      ],
+      "Translation": [
+        "Emperor Feather"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 205,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー38"
+      ],
+      "Translation": [
+        "ダミー38"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 206,
+      "IsIgnored": false,
+      "Original": [
+        "Black Horn"
+      ],
+      "Translation": [
+        "Black Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 207,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー40"
+      ],
+      "Translation": [
+        "ダミー40"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 208,
+      "IsIgnored": false,
+      "Original": [
+        "Fallen Scale"
+      ],
+      "Translation": [
+        "Fallen Scale"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 209,
+      "IsIgnored": false,
+      "Original": [
+        "Sealed Core"
+      ],
+      "Translation": [
+        "Sealed Core"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 210,
+      "IsIgnored": false,
+      "Original": [
+        "Damascus Claw"
+      ],
+      "Translation": [
+        "Damascus Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 211,
+      "IsIgnored": false,
+      "Original": [
+        "Chaos Feather"
+      ],
+      "Translation": [
+        "Chaos Feather"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 212,
+      "IsIgnored": false,
+      "Original": [
+        "Fire Scale"
+      ],
+      "Translation": [
+        "Fire Scale"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 213,
+      "IsIgnored": false,
+      "Original": [
+        "Fire Fang"
+      ],
+      "Translation": [
+        "Fire Fang"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 214,
+      "IsIgnored": false,
+      "Original": [
+        "Reverse Scale"
+      ],
+      "Translation": [
+        "Reverse Scale"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 215,
+      "IsIgnored": false,
+      "Original": [
+        "Frozen Skin"
+      ],
+      "Translation": [
+        "Frozen Skin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 216,
+      "IsIgnored": false,
+      "Original": [
+        "Thunder Scale"
+      ],
+      "Translation": [
+        "Thunder Scale"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 217,
+      "IsIgnored": false,
+      "Original": [
+        "Charged Horn"
+      ],
+      "Translation": [
+        "Charged Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 218,
+      "IsIgnored": false,
+      "Original": [
+        "Warped Core"
+      ],
+      "Translation": [
+        "Warped Core"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 219,
+      "IsIgnored": true,
+      "Original": [
+        "未使用"
+      ],
+      "Translation": [
+        "未使用"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 220,
+      "IsIgnored": false,
+      "Original": [
+        "Poison Wing"
+      ],
+      "Translation": [
+        "Poison Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 221,
+      "IsIgnored": false,
+      "Original": [
+        "Colorful Tongue"
+      ],
+      "Translation": [
+        "Colorful Tongue"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 222,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー219"
+      ],
+      "Translation": [
+        "ダミー219"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 223,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー220"
+      ],
+      "Translation": [
+        "ダミー220"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 224,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー221"
+      ],
+      "Translation": [
+        "ダミー221"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 225,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー222"
+      ],
+      "Translation": [
+        "ダミー222"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 226,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー223"
+      ],
+      "Translation": [
+        "ダミー223"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 227,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー224"
+      ],
+      "Translation": [
+        "ダミー224"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 228,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー225"
+      ],
+      "Translation": [
+        "ダミー225"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 229,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー226"
+      ],
+      "Translation": [
+        "ダミー226"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 230,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー227"
+      ],
+      "Translation": [
+        "ダミー227"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 231,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー228"
+      ],
+      "Translation": [
+        "ダミー228"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 232,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー229"
+      ],
+      "Translation": [
+        "ダミー229"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 233,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー230"
+      ],
+      "Translation": [
+        "ダミー230"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 234,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー231"
+      ],
+      "Translation": [
+        "ダミー231"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 235,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー232"
+      ],
+      "Translation": [
+        "ダミー232"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 236,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー233"
+      ],
+      "Translation": [
+        "ダミー233"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 237,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー234"
+      ],
+      "Translation": [
+        "ダミー234"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 238,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー235"
+      ],
+      "Translation": [
+        "ダミー235"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 239,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー236"
+      ],
+      "Translation": [
+        "ダミー236"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 240,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー237"
+      ],
+      "Translation": [
+        "ダミー237"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 241,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー238"
+      ],
+      "Translation": [
+        "ダミー238"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 242,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー239"
+      ],
+      "Translation": [
+        "ダミー239"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 243,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー240"
+      ],
+      "Translation": [
+        "ダミー240"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 244,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー241"
+      ],
+      "Translation": [
+        "ダミー241"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 245,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー242"
+      ],
+      "Translation": [
+        "ダミー242"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 246,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー243"
+      ],
+      "Translation": [
+        "ダミー243"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 247,
+      "IsIgnored": false,
+      "Original": [
+        "Granite"
+      ],
+      "Translation": [
+        "Granite"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 248,
+      "IsIgnored": false,
+      "Original": [
+        "Cyanite"
+      ],
+      "Translation": [
+        "Cyanite"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 249,
+      "IsIgnored": false,
+      "Original": [
+        "Iridescent Ore"
+      ],
+      "Translation": [
+        "Iridescent Ore"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 250,
+      "IsIgnored": false,
+      "Original": [
+        "Corundum"
+      ],
+      "Translation": [
+        "Corundum"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 251,
+      "IsIgnored": false,
+      "Original": [
+        "Dolomite"
+      ],
+      "Translation": [
+        "Dolomite"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 252,
+      "IsIgnored": false,
+      "Original": [
+        "Akaganeite"
+      ],
+      "Translation": [
+        "Akaganeite"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 253,
+      "IsIgnored": false,
+      "Original": [
+        "Steel Earth"
+      ],
+      "Translation": [
+        "Steel Earth"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 254,
+      "IsIgnored": false,
+      "Original": [
+        "Emerald"
+      ],
+      "Translation": [
+        "Emerald"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 255,
+      "IsIgnored": false,
+      "Original": [
+        "Chalcedony"
+      ],
+      "Translation": [
+        "Chalcedony"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 256,
+      "IsIgnored": false,
+      "Original": [
+        "Red Jasper"
+      ],
+      "Translation": [
+        "Red Jasper"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 257,
+      "IsIgnored": false,
+      "Original": [
+        "Resin Cylinder"
+      ],
+      "Translation": [
+        "Resin Cylinder"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 258,
+      "IsIgnored": false,
+      "Original": [
+        "Rose Quartz"
+      ],
+      "Translation": [
+        "Rose Quartz"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 259,
+      "IsIgnored": false,
+      "Original": [
+        "Nephrite"
+      ],
+      "Translation": [
+        "Nephrite"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 260,
+      "IsIgnored": false,
+      "Original": [
+        "Odd Wall Chip"
+      ],
+      "Translation": [
+        "Odd Wall Chip"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 261,
+      "IsIgnored": false,
+      "Original": [
+        "Tourmaline"
+      ],
+      "Translation": [
+        "Tourmaline"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 262,
+      "IsIgnored": false,
+      "Original": [
+        "Tricolor Stone"
+      ],
+      "Translation": [
+        "Tricolor Stone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 263,
+      "IsIgnored": false,
+      "Original": [
+        "Dark Pyroxenite"
+      ],
+      "Translation": [
+        "Dark Pyroxenite"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 264,
+      "IsIgnored": true,
+      "Original": [
+        "採掘ダミー264"
+      ],
+      "Translation": [
+        "採掘ダミー264"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 265,
+      "IsIgnored": false,
+      "Original": [
+        "Forest Aloe"
+      ],
+      "Translation": [
+        "Forest Aloe"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 266,
+      "IsIgnored": false,
+      "Original": [
+        "Small Flower"
+      ],
+      "Translation": [
+        "Small Flower"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 267,
+      "IsIgnored": false,
+      "Original": [
+        "Dragon's Blood"
+      ],
+      "Translation": [
+        "Dragon's Blood"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 268,
+      "IsIgnored": false,
+      "Original": [
+        "Mint"
+      ],
+      "Translation": [
+        "Mint"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 269,
+      "IsIgnored": false,
+      "Original": [
+        "Crane Ginseng"
+      ],
+      "Translation": [
+        "Crane Ginseng"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 270,
+      "IsIgnored": false,
+      "Original": [
+        "Monks Cress"
+      ],
+      "Translation": [
+        "Monks Cress"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 271,
+      "IsIgnored": false,
+      "Original": [
+        "Luminous Moss"
+      ],
+      "Translation": [
+        "Luminous Moss"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 272,
+      "IsIgnored": false,
+      "Original": [
+        "Scarlet Sage"
+      ],
+      "Translation": [
+        "Scarlet Sage"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 273,
+      "IsIgnored": false,
+      "Original": [
+        "Glove Grass"
+      ],
+      "Translation": [
+        "Glove Grass"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 274,
+      "IsIgnored": false,
+      "Original": [
+        "White Apple"
+      ],
+      "Translation": [
+        "White Apple"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 275,
+      "IsIgnored": false,
+      "Original": [
+        "Waterlily Leaf"
+      ],
+      "Translation": [
+        "Waterlily Leaf"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 276,
+      "IsIgnored": false,
+      "Original": [
+        "Myrciaria Fruit"
+      ],
+      "Translation": [
+        "Myrciaria Fruit"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 277,
+      "IsIgnored": false,
+      "Original": [
+        "Cursed Durian"
+      ],
+      "Translation": [
+        "Cursed Durian"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 278,
+      "IsIgnored": false,
+      "Original": [
+        "Valerian"
+      ],
+      "Translation": [
+        "Valerian"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 279,
+      "IsIgnored": false,
+      "Original": [
+        "Aloe"
+      ],
+      "Translation": [
+        "Aloe"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 280,
+      "IsIgnored": false,
+      "Original": [
+        "Ambrosia"
+      ],
+      "Translation": [
+        "Ambrosia"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 281,
+      "IsIgnored": false,
+      "Original": [
+        "Grub Mold"
+      ],
+      "Translation": [
+        "Grub Mold"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 282,
+      "IsIgnored": true,
+      "Original": [
+        "採取ダミー282"
+      ],
+      "Translation": [
+        "採取ダミー282"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 283,
+      "IsIgnored": false,
+      "Original": [
+        "Sturdy Timber"
+      ],
+      "Translation": [
+        "Sturdy Timber"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 284,
+      "IsIgnored": false,
+      "Original": [
+        "Teak Wood"
+      ],
+      "Translation": [
+        "Teak Wood"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 285,
+      "IsIgnored": false,
+      "Original": [
+        "Guaiacum Wood"
+      ],
+      "Translation": [
+        "Guaiacum Wood"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 286,
+      "IsIgnored": false,
+      "Original": [
+        "Mahogany"
+      ],
+      "Translation": [
+        "Mahogany"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 287,
+      "IsIgnored": false,
+      "Original": [
+        "Jet-Black Pith"
+      ],
+      "Translation": [
+        "Jet-Black Pith"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 288,
+      "IsIgnored": false,
+      "Original": [
+        "Paulownia Bark"
+      ],
+      "Translation": [
+        "Paulownia Bark"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 289,
+      "IsIgnored": false,
+      "Original": [
+        "Trileaf Stalk"
+      ],
+      "Translation": [
+        "Trileaf Stalk"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 290,
+      "IsIgnored": false,
+      "Original": [
+        "Poinciana Pod"
+      ],
+      "Translation": [
+        "Poinciana Pod"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 291,
+      "IsIgnored": false,
+      "Original": [
+        "Ice Stake"
+      ],
+      "Translation": [
+        "Eiszapfen"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 292,
+      "IsIgnored": false,
+      "Original": [
+        "Wisteria Branch"
+      ],
+      "Translation": [
+        "Wisteria Branch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 293,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Trunk"
+      ],
+      "Translation": [
+        "Yggdrasil Trunk"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 294,
+      "IsIgnored": false,
+      "Original": [
+        "Thujopsis Root"
+      ],
+      "Translation": [
+        "Thujopsis Root"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 295,
+      "IsIgnored": false,
+      "Original": [
+        "Sequoia Limb"
+      ],
+      "Translation": [
+        "Sequoia Limb"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 296,
+      "IsIgnored": false,
+      "Original": [
+        "Crystal Vine"
+      ],
+      "Translation": [
+        "Crystal Vine"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 297,
+      "IsIgnored": false,
+      "Original": [
+        "Holly Lumber"
+      ],
+      "Translation": [
+        "Holly Lumber"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 298,
+      "IsIgnored": false,
+      "Original": [
+        "Polyamide Fiber"
+      ],
+      "Translation": [
+        "Polyamide Fiber"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 299,
+      "IsIgnored": false,
+      "Original": [
+        "Stardust Twig"
+      ],
+      "Translation": [
+        "Stardust Twig"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 300,
+      "IsIgnored": true,
+      "Original": [
+        "伐採ダミー300"
+      ],
+      "Translation": [
+        "伐採ダミー300"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 301,
+      "IsIgnored": false,
+      "Original": [
+        "Culantro"
+      ],
+      "Translation": [
+        "Culantro"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 302,
+      "IsIgnored": false,
+      "Original": [
+        "Night Shard"
+      ],
+      "Translation": [
+        "Night Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 303,
+      "IsIgnored": false,
+      "Original": [
+        "Cave Palm Bark"
+      ],
+      "Translation": [
+        "Cave Palm Bark"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 304,
+      "IsIgnored": false,
+      "Original": [
+        "Shea Fruit"
+      ],
+      "Translation": [
+        "Shea Fruit"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 305,
+      "IsIgnored": false,
+      "Original": [
+        "Supple Branch"
+      ],
+      "Translation": [
+        "Supple Branch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 306,
+      "IsIgnored": false,
+      "Original": [
+        "Slate"
+      ],
+      "Translation": [
+        "Slate"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 307,
+      "IsIgnored": false,
+      "Original": [
+        "Osmunda Frond"
+      ],
+      "Translation": [
+        "Osmunda Frond"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 308,
+      "IsIgnored": false,
+      "Original": [
+        "Strong Vine"
+      ],
+      "Translation": [
+        "Strong Vine"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 309,
+      "IsIgnored": false,
+      "Original": [
+        "Lazurite"
+      ],
+      "Translation": [
+        "Lazurite"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 310,
+      "IsIgnored": false,
+      "Original": [
+        "Fennel"
+      ],
+      "Translation": [
+        "Fennel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 311,
+      "IsIgnored": false,
+      "Original": [
+        "Pagoda Branch"
+      ],
+      "Translation": [
+        "Pagoda Branch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 312,
+      "IsIgnored": false,
+      "Original": [
+        "Tiger's Eye"
+      ],
+      "Translation": [
+        "Tiger's Eye"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 313,
+      "IsIgnored": false,
+      "Original": [
+        "Hyacinth Petal"
+      ],
+      "Translation": [
+        "Hyacinth Petal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 314,
+      "IsIgnored": false,
+      "Original": [
+        "Pachypodium"
+      ],
+      "Translation": [
+        "Pachypodium"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 315,
+      "IsIgnored": false,
+      "Original": [
+        "Serpentinite"
+      ],
+      "Translation": [
+        "Serpentinite"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 316,
+      "IsIgnored": false,
+      "Original": [
+        "Life Honey"
+      ],
+      "Translation": [
+        "Life Honey"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 317,
+      "IsIgnored": false,
+      "Original": [
+        "Aesculus Wood"
+      ],
+      "Translation": [
+        "Aesculus Wood"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 318,
+      "IsIgnored": false,
+      "Original": [
+        "Unknown Metal"
+      ],
+      "Translation": [
+        "Unknown Metal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 319,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 320,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 321,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 322,
+      "IsIgnored": false,
+      "Original": [
+        "Moss Strawberry"
+      ],
+      "Translation": [
+        "Moss Strawberry"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 323,
+      "IsIgnored": false,
+      "Original": [
+        "Flame Fruit"
+      ],
+      "Translation": [
+        "Flame Fruit"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 324,
+      "IsIgnored": false,
+      "Original": [
+        "Dried Vine"
+      ],
+      "Translation": [
+        "Dried Vine"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 325,
+      "IsIgnored": false,
+      "Original": [
+        "Eclogite"
+      ],
+      "Translation": [
+        "Eclogite"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 326,
+      "IsIgnored": false,
+      "Original": [
+        "Cork Bark"
+      ],
+      "Translation": [
+        "Cork Bark"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 327,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ27"
+      ],
+      "Translation": [
+        "素材バッファ27"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 328,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ28"
+      ],
+      "Translation": [
+        "素材バッファ28"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 329,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ29"
+      ],
+      "Translation": [
+        "素材バッファ29"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 330,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ30"
+      ],
+      "Translation": [
+        "素材バッファ30"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 331,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ31"
+      ],
+      "Translation": [
+        "素材バッファ31"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 332,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ32"
+      ],
+      "Translation": [
+        "素材バッファ32"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 333,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ33"
+      ],
+      "Translation": [
+        "素材バッファ33"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 334,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ34"
+      ],
+      "Translation": [
+        "素材バッファ34"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 335,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ35"
+      ],
+      "Translation": [
+        "素材バッファ35"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 336,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ36"
+      ],
+      "Translation": [
+        "素材バッファ36"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 337,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ37"
+      ],
+      "Translation": [
+        "素材バッファ37"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 338,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ38"
+      ],
+      "Translation": [
+        "素材バッファ38"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 339,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ39"
+      ],
+      "Translation": [
+        "素材バッファ39"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 340,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ40"
+      ],
+      "Translation": [
+        "素材バッファ40"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 341,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ41"
+      ],
+      "Translation": [
+        "素材バッファ41"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 342,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ42"
+      ],
+      "Translation": [
+        "素材バッファ42"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 343,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ43"
+      ],
+      "Translation": [
+        "素材バッファ43"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 344,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ44"
+      ],
+      "Translation": [
+        "素材バッファ44"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 345,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ45"
+      ],
+      "Translation": [
+        "素材バッファ45"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 346,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ46"
+      ],
+      "Translation": [
+        "素材バッファ46"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 347,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ47"
+      ],
+      "Translation": [
+        "素材バッファ47"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 348,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ48"
+      ],
+      "Translation": [
+        "素材バッファ48"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 349,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ49"
+      ],
+      "Translation": [
+        "素材バッファ49"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 350,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ50"
+      ],
+      "Translation": [
+        "素材バッファ50"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 351,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ51"
+      ],
+      "Translation": [
+        "素材バッファ51"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 352,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ52"
+      ],
+      "Translation": [
+        "素材バッファ52"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 353,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ53"
+      ],
+      "Translation": [
+        "素材バッファ53"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 354,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ54"
+      ],
+      "Translation": [
+        "素材バッファ54"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 355,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ55"
+      ],
+      "Translation": [
+        "素材バッファ55"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 356,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ56"
+      ],
+      "Translation": [
+        "素材バッファ56"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 357,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ57"
+      ],
+      "Translation": [
+        "素材バッファ57"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 358,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ58"
+      ],
+      "Translation": [
+        "素材バッファ58"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 359,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ59"
+      ],
+      "Translation": [
+        "素材バッファ59"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 360,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ60"
+      ],
+      "Translation": [
+        "素材バッファ60"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 361,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ61"
+      ],
+      "Translation": [
+        "素材バッファ61"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 362,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ62"
+      ],
+      "Translation": [
+        "素材バッファ62"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 363,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ63"
+      ],
+      "Translation": [
+        "素材バッファ63"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 364,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ64"
+      ],
+      "Translation": [
+        "素材バッファ64"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 365,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ65"
+      ],
+      "Translation": [
+        "素材バッファ65"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 366,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ66"
+      ],
+      "Translation": [
+        "素材バッファ66"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 367,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ67"
+      ],
+      "Translation": [
+        "素材バッファ67"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 368,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ68"
+      ],
+      "Translation": [
+        "素材バッファ68"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 369,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ69"
+      ],
+      "Translation": [
+        "素材バッファ69"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 370,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ70"
+      ],
+      "Translation": [
+        "素材バッファ70"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 371,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ71"
+      ],
+      "Translation": [
+        "素材バッファ71"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 372,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ72"
+      ],
+      "Translation": [
+        "素材バッファ72"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 373,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ73"
+      ],
+      "Translation": [
+        "素材バッファ73"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 374,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ74"
+      ],
+      "Translation": [
+        "素材バッファ74"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 375,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ75"
+      ],
+      "Translation": [
+        "素材バッファ75"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 376,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ76"
+      ],
+      "Translation": [
+        "素材バッファ76"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 377,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ77"
+      ],
+      "Translation": [
+        "素材バッファ77"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 378,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ78"
+      ],
+      "Translation": [
+        "素材バッファ78"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 379,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ79"
+      ],
+      "Translation": [
+        "素材バッファ79"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 380,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ80"
+      ],
+      "Translation": [
+        "素材バッファ80"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 381,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ81"
+      ],
+      "Translation": [
+        "素材バッファ81"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 382,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ82"
+      ],
+      "Translation": [
+        "素材バッファ82"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 383,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ83"
+      ],
+      "Translation": [
+        "素材バッファ83"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 384,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ84"
+      ],
+      "Translation": [
+        "素材バッファ84"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 385,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ85"
+      ],
+      "Translation": [
+        "素材バッファ85"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 386,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ86"
+      ],
+      "Translation": [
+        "素材バッファ86"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 387,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ87"
+      ],
+      "Translation": [
+        "素材バッファ87"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 388,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ88"
+      ],
+      "Translation": [
+        "素材バッファ88"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 389,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ89"
+      ],
+      "Translation": [
+        "素材バッファ89"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 390,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ90"
+      ],
+      "Translation": [
+        "素材バッファ90"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 391,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ91"
+      ],
+      "Translation": [
+        "素材バッファ91"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 392,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ92"
+      ],
+      "Translation": [
+        "素材バッファ92"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 393,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ93"
+      ],
+      "Translation": [
+        "素材バッファ93"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 394,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ94"
+      ],
+      "Translation": [
+        "素材バッファ94"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 395,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ95"
+      ],
+      "Translation": [
+        "素材バッファ95"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 396,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ96"
+      ],
+      "Translation": [
+        "素材バッファ96"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 397,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ97"
+      ],
+      "Translation": [
+        "素材バッファ97"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 398,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ98"
+      ],
+      "Translation": [
+        "素材バッファ98"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 399,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ99"
+      ],
+      "Translation": [
+        "素材バッファ99"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 400,
+      "IsIgnored": true,
+      "Original": [
+        "素材バッファ百"
+      ],
+      "Translation": [
+        "素材バッファ百"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 401,
+      "IsIgnored": false,
+      "Original": [
+        "Medica"
+      ],
+      "Translation": [
+        "Medica"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 402,
+      "IsIgnored": false,
+      "Original": [
+        "Medica II"
+      ],
+      "Translation": [
+        "Medica II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 403,
+      "IsIgnored": false,
+      "Original": [
+        "Medica III"
+      ],
+      "Translation": [
+        "Medica III"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 404,
+      "IsIgnored": false,
+      "Original": [
+        "Medica IV"
+      ],
+      "Translation": [
+        "Medica IV"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 405,
+      "IsIgnored": false,
+      "Original": [
+        "Amrita"
+      ],
+      "Translation": [
+        "Amrita"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 406,
+      "IsIgnored": false,
+      "Original": [
+        "Amrita II"
+      ],
+      "Translation": [
+        "Amrita II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 407,
+      "IsIgnored": false,
+      "Original": [
+        "Amrita III"
+      ],
+      "Translation": [
+        "Amrita III"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 408,
+      "IsIgnored": false,
+      "Original": [
+        "Hamao"
+      ],
+      "Translation": [
+        "Hamao"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 409,
+      "IsIgnored": false,
+      "Original": [
+        "Hamao II"
+      ],
+      "Translation": [
+        "Hamao II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 410,
+      "IsIgnored": false,
+      "Original": [
+        "Nectar"
+      ],
+      "Translation": [
+        "Nectar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 411,
+      "IsIgnored": false,
+      "Original": [
+        "Nectar II"
+      ],
+      "Translation": [
+        "Nectar II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 412,
+      "IsIgnored": false,
+      "Original": [
+        "Madora"
+      ],
+      "Translation": [
+        "Madora"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 413,
+      "IsIgnored": false,
+      "Original": [
+        "Madora II"
+      ],
+      "Translation": [
+        "Madora II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 414,
+      "IsIgnored": false,
+      "Original": [
+        "Theriaca A"
+      ],
+      "Translation": [
+        "Theriaca A"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 415,
+      "IsIgnored": false,
+      "Original": [
+        "Theriaca B"
+      ],
+      "Translation": [
+        "Theriaca B"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 416,
+      "IsIgnored": false,
+      "Original": [
+        "Metopon"
+      ],
+      "Translation": [
+        "Metopon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 417,
+      "IsIgnored": false,
+      "Original": [
+        "Unihorn"
+      ],
+      "Translation": [
+        "Unihorn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 418,
+      "IsIgnored": false,
+      "Original": [
+        "Bravant"
+      ],
+      "Translation": [
+        "Bravant"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 419,
+      "IsIgnored": false,
+      "Original": [
+        "Stonard"
+      ],
+      "Translation": [
+        "Stonard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 420,
+      "IsIgnored": false,
+      "Original": [
+        "Fire Mist"
+      ],
+      "Translation": [
+        "Fire Mist"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 421,
+      "IsIgnored": false,
+      "Original": [
+        "Ice Mist"
+      ],
+      "Translation": [
+        "Ice Mist"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 422,
+      "IsIgnored": false,
+      "Original": [
+        "Volt Mist"
+      ],
+      "Translation": [
+        "Volt Mist"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 423,
+      "IsIgnored": false,
+      "Original": [
+        "Cut Mist"
+      ],
+      "Translation": [
+        "Cut Mist"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 424,
+      "IsIgnored": false,
+      "Original": [
+        "Bash Mist"
+      ],
+      "Translation": [
+        "Bash Mist"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 425,
+      "IsIgnored": false,
+      "Original": [
+        "Stab Mist"
+      ],
+      "Translation": [
+        "Stab Mist"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 426,
+      "IsIgnored": false,
+      "Original": [
+        "Blaze Oil"
+      ],
+      "Translation": [
+        "Blaze Oil"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 427,
+      "IsIgnored": false,
+      "Original": [
+        "Freeze Oil"
+      ],
+      "Translation": [
+        "Freeze Oil"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 428,
+      "IsIgnored": false,
+      "Original": [
+        "Shock Oil"
+      ],
+      "Translation": [
+        "Shock Oil"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 429,
+      "IsIgnored": false,
+      "Original": [
+        "Warding Bell"
+      ],
+      "Translation": [
+        "Warding Bell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 430,
+      "IsIgnored": false,
+      "Original": [
+        "Luring Bell"
+      ],
+      "Translation": [
+        "Luring Bell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 431,
+      "IsIgnored": false,
+      "Original": [
+        "Ariadne Thread"
+      ],
+      "Translation": [
+        "Ariadne Thread"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 432,
+      "IsIgnored": false,
+      "Original": [
+        "Pole Stone"
+      ],
+      "Translation": [
+        "Pole Stone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 433,
+      "IsIgnored": false,
+      "Original": [
+        "Guard Sole"
+      ],
+      "Translation": [
+        "Guard Sole"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 434,
+      "IsIgnored": false,
+      "Original": [
+        "Fire Jar"
+      ],
+      "Translation": [
+        "Fire Jar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 435,
+      "IsIgnored": false,
+      "Original": [
+        "Blast Jar"
+      ],
+      "Translation": [
+        "Blast Jar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 436,
+      "IsIgnored": false,
+      "Original": [
+        "Ice Jar"
+      ],
+      "Translation": [
+        "Ice Jar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 437,
+      "IsIgnored": false,
+      "Original": [
+        "Frost Jar"
+      ],
+      "Translation": [
+        "Frost Jar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 438,
+      "IsIgnored": false,
+      "Original": [
+        "Volt Jar"
+      ],
+      "Translation": [
+        "Volt Jar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 439,
+      "IsIgnored": false,
+      "Original": [
+        "Thunderbolt Jar"
+      ],
+      "Translation": [
+        "Thunderbolt Jar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 440,
+      "IsIgnored": false,
+      "Original": [
+        "Poison Gas"
+      ],
+      "Translation": [
+        "Poison Gas"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 441,
+      "IsIgnored": false,
+      "Original": [
+        "Nerve Gas"
+      ],
+      "Translation": [
+        "Nerve Gas"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 442,
+      "IsIgnored": false,
+      "Original": [
+        "Blind Gas"
+      ],
+      "Translation": [
+        "Blind Gas"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 443,
+      "IsIgnored": false,
+      "Original": [
+        "Sleep Gas"
+      ],
+      "Translation": [
+        "Sleep Gas"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 444,
+      "IsIgnored": false,
+      "Original": [
+        "Curse Gas"
+      ],
+      "Translation": [
+        "Curse Gas"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 445,
+      "IsIgnored": false,
+      "Original": [
+        "Addle Gas"
+      ],
+      "Translation": [
+        "Addle Gas"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 446,
+      "IsIgnored": false,
+      "Original": [
+        "Simple Scope"
+      ],
+      "Translation": [
+        "Simple Scope"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 447,
+      "IsIgnored": false,
+      "Original": [
+        "Silver Whistle"
+      ],
+      "Translation": [
+        "Silver Whistle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 448,
+      "IsIgnored": false,
+      "Original": [
+        "Power Book"
+      ],
+      "Translation": [
+        "Power Book"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 449,
+      "IsIgnored": false,
+      "Original": [
+        "Intelligence Book"
+      ],
+      "Translation": [
+        "Intelligence Book"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 450,
+      "IsIgnored": false,
+      "Original": [
+        "Vigor Book"
+      ],
+      "Translation": [
+        "Vigor Book"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 451,
+      "IsIgnored": false,
+      "Original": [
+        "Speed Book"
+      ],
+      "Translation": [
+        "Speed Book"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 452,
+      "IsIgnored": false,
+      "Original": [
+        "Luck Book"
+      ],
+      "Translation": [
+        "Luck Book"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 453,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 454,
+      "IsIgnored": false,
+      "Original": [
+        "Formaldehyde"
+      ],
+      "Translation": [
+        "Formaldehyde"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 455,
+      "IsIgnored": false,
+      "Original": [
+        "Etrian Coin"
+      ],
+      "Translation": [
+        "Etrian Coin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 456,
+      "IsIgnored": false,
+      "Original": [
+        "High Lagaard Gem"
+      ],
+      "Translation": [
+        "High Lagaard Gem"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 457,
+      "IsIgnored": false,
+      "Original": [
+        "Armoroad Cheese"
+      ],
+      "Translation": [
+        "Armoroad Cheese"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 458,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdroid Doll"
+      ],
+      "Translation": [
+        "Yggdroid Doll"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 459,
+      "IsIgnored": false,
+      "Original": [
+        "Shinjuku Map"
+      ],
+      "Translation": [
+        "Shinjuku Map"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 460,
+      "IsIgnored": false,
+      "Original": [
+        "Instant Curry"
+      ],
+      "Translation": [
+        "Instant Curry"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 461,
+      "IsIgnored": false,
+      "Original": [
+        "Casino Chip"
+      ],
+      "Translation": [
+        "Casino Chip"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 462,
+      "IsIgnored": false,
+      "Original": [
+        "Rafflesia Nectar"
+      ],
+      "Translation": [
+        "Rafflesia Nectar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 463,
+      "IsIgnored": false,
+      "Original": [
+        "Small Moai"
+      ],
+      "Translation": [
+        "Small Moai"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 464,
+      "IsIgnored": false,
+      "Original": [
+        "Pooka Doll"
+      ],
+      "Translation": [
+        "Pooka Doll"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 465,
+      "IsIgnored": false,
+      "Original": [
+        "Salmiakki"
+      ],
+      "Translation": [
+        "Salmiakki"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 466,
+      "IsIgnored": false,
+      "Original": [
+        "Caviar"
+      ],
+      "Translation": [
+        "Caviar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 467,
+      "IsIgnored": false,
+      "Original": [
+        "Mate De Koka"
+      ],
+      "Translation": [
+        "Mate De Koka"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 468,
+      "IsIgnored": true,
+      "Original": [
+        "Mr. Mole's Candy"
+      ],
+      "Translation": [
+        "Mr. Mole's Candy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 469,
+      "IsIgnored": true,
+      "Original": [
+        "Mr. Mole's Love"
+      ],
+      "Translation": [
+        "Mr. Mole's Love"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 470,
+      "IsIgnored": true,
+      "Original": [
+        "Mr. Mole's Meal"
+      ],
+      "Translation": [
+        "Mr. Mole's Meal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 471,
+      "IsIgnored": true,
+      "Original": [
+        "Mr. Mole's Mag"
+      ],
+      "Translation": [
+        "Mr. Mole's Mag"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 472,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 473,
+      "IsIgnored": true,
+      "Original": [
+        "Mr. Mole Letter"
+      ],
+      "Translation": [
+        "Mr. Mole Letter"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 474,
+      "IsIgnored": true,
+      "Original": [
+        "Mr. Mole's Shame"
+      ],
+      "Translation": [
+        "Mr. Mole's Shame"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 475,
+      "IsIgnored": false,
+      "Original": [
+        "Escape Medal"
+      ],
+      "Translation": [
+        "Escape Medal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 476,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Score"
+      ],
+      "Translation": [
+        "Yggdrasil Score"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 477,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム77"
+      ],
+      "Translation": [
+        "アイテム77"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 478,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム78"
+      ],
+      "Translation": [
+        "アイテム78"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 479,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム79"
+      ],
+      "Translation": [
+        "アイテム79"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 480,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム80"
+      ],
+      "Translation": [
+        "アイテム80"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 481,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム81"
+      ],
+      "Translation": [
+        "アイテム81"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 482,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム82"
+      ],
+      "Translation": [
+        "アイテム82"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 483,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム83"
+      ],
+      "Translation": [
+        "アイテム83"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 484,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム84"
+      ],
+      "Translation": [
+        "アイテム84"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 485,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム85"
+      ],
+      "Translation": [
+        "アイテム85"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 486,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム86"
+      ],
+      "Translation": [
+        "アイテム86"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 487,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム87"
+      ],
+      "Translation": [
+        "アイテム87"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 488,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム88"
+      ],
+      "Translation": [
+        "アイテム88"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 489,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム89"
+      ],
+      "Translation": [
+        "アイテム89"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 490,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム90"
+      ],
+      "Translation": [
+        "アイテム90"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 491,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム91"
+      ],
+      "Translation": [
+        "アイテム91"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 492,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム92"
+      ],
+      "Translation": [
+        "アイテム92"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 493,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム93"
+      ],
+      "Translation": [
+        "アイテム93"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 494,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム94"
+      ],
+      "Translation": [
+        "アイテム94"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 495,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム95"
+      ],
+      "Translation": [
+        "アイテム95"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 496,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム96"
+      ],
+      "Translation": [
+        "アイテム96"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 497,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム97"
+      ],
+      "Translation": [
+        "アイテム97"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 498,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム98"
+      ],
+      "Translation": [
+        "アイテム98"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 499,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム99"
+      ],
+      "Translation": [
+        "アイテム99"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 500,
+      "IsIgnored": true,
+      "Original": [
+        "アイテム100"
+      ],
+      "Translation": [
+        "アイテム100"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 501,
+      "IsIgnored": false,
+      "Original": [
+        "Formal Letter"
+      ],
+      "Translation": [
+        "Formal Letter"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 502,
+      "IsIgnored": false,
+      "Original": [
+        "Labyrinth Map"
+      ],
+      "Translation": [
+        "Labyrinth Map"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 503,
+      "IsIgnored": false,
+      "Original": [
+        "Greeting Letter"
+      ],
+      "Translation": [
+        "Greeting Letter"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 504,
+      "IsIgnored": false,
+      "Original": [
+        "Memento Ring"
+      ],
+      "Translation": [
+        "Memento Ring"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 505,
+      "IsIgnored": false,
+      "Original": [
+        "Ancient Tablet"
+      ],
+      "Translation": [
+        "Ancient Tablet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 506,
+      "IsIgnored": false,
+      "Original": [
+        "Brass Key"
+      ],
+      "Translation": [
+        "Brass Key"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 507,
+      "IsIgnored": false,
+      "Original": [
+        "Old Breastplate"
+      ],
+      "Translation": [
+        "Old Breastplate"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 508,
+      "IsIgnored": false,
+      "Original": [
+        "Second Tablet"
+      ],
+      "Translation": [
+        "Second Tablet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 509,
+      "IsIgnored": false,
+      "Original": [
+        "Circle Staff"
+      ],
+      "Translation": [
+        "Circle Staff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 510,
+      "IsIgnored": false,
+      "Original": [
+        "Twinfang Scroll"
+      ],
+      "Translation": [
+        "Twinfang Scroll"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 511,
+      "IsIgnored": false,
+      "Original": [
+        "Titan's Heart"
+      ],
+      "Translation": [
+        "Titan's Heart"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 512,
+      "IsIgnored": false,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 513,
+      "IsIgnored": false,
+      "Original": [
+        "Battle Goblet"
+      ],
+      "Translation": [
+        "Battle Goblet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 514,
+      "IsIgnored": false,
+      "Original": [
+        "Big Moth Egg"
+      ],
+      "Translation": [
+        "Big Moth Egg"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 515,
+      "IsIgnored": false,
+      "Original": [
+        "Moonflower"
+      ],
+      "Translation": [
+        "Moonflower"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 516,
+      "IsIgnored": false,
+      "Original": [
+        "Morning Glory"
+      ],
+      "Translation": [
+        "Morning Glory"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 517,
+      "IsIgnored": false,
+      "Original": [
+        "Twilight Glory"
+      ],
+      "Translation": [
+        "Twilight Glory"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 518,
+      "IsIgnored": false,
+      "Original": [
+        "Vine Basket"
+      ],
+      "Translation": [
+        "Vine Basket"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 519,
+      "IsIgnored": false,
+      "Original": [
+        "Plant Reference"
+      ],
+      "Translation": [
+        "Plant Reference"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 520,
+      "IsIgnored": false,
+      "Original": [
+        "Oak Barrel"
+      ],
+      "Translation": [
+        "Oak Barrel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 521,
+      "IsIgnored": false,
+      "Original": [
+        "Handmade Lunch"
+      ],
+      "Translation": [
+        "Handmade Lunch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 522,
+      "IsIgnored": false,
+      "Original": [
+        "Rose Ice Stone"
+      ],
+      "Translation": [
+        "Rose Ice Stone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 523,
+      "IsIgnored": false,
+      "Original": [
+        "Insulated Pack"
+      ],
+      "Translation": [
+        "Insulated Pack"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 524,
+      "IsIgnored": false,
+      "Original": [
+        "Ancient Wing"
+      ],
+      "Translation": [
+        "Ancient Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 525,
+      "IsIgnored": false,
+      "Original": [
+        "Special Pot"
+      ],
+      "Translation": [
+        "Special Pot"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 526,
+      "IsIgnored": false,
+      "Original": [
+        "Genetics Text"
+      ],
+      "Translation": [
+        "Genetics Text"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 527,
+      "IsIgnored": false,
+      "Original": [
+        "Fairy Bellflower"
+      ],
+      "Translation": [
+        "Fairy Bellflower"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 528,
+      "IsIgnored": false,
+      "Original": [
+        "Milk Bottle"
+      ],
+      "Translation": [
+        "Milk Bottle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 529,
+      "IsIgnored": false,
+      "Original": [
+        "Small Necklace"
+      ],
+      "Translation": [
+        "Small Necklace"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 530,
+      "IsIgnored": false,
+      "Original": [
+        "Wooden Crate"
+      ],
+      "Translation": [
+        "Wooden Crate"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 531,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Amber"
+      ],
+      "Translation": [
+        "Yggdrasil Amber"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 532,
+      "IsIgnored": false,
+      "Original": [
+        "Mysterious Pot"
+      ],
+      "Translation": [
+        "Mysterious Pot"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 533,
+      "IsIgnored": false,
+      "Original": [
+        "Search Report 01"
+      ],
+      "Translation": [
+        "Search Report 01"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 534,
+      "IsIgnored": false,
+      "Original": [
+        "Black Flame"
+      ],
+      "Translation": [
+        "Black Flame"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 535,
+      "IsIgnored": false,
+      "Original": [
+        "Drive Blade Key"
+      ],
+      "Translation": [
+        "Drive Blade Key"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 536,
+      "IsIgnored": false,
+      "Original": [
+        "Great Tree Key"
+      ],
+      "Translation": [
+        "Great Tree Key"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 537,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 538,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 539,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 540,
+      "IsIgnored": false,
+      "Original": [
+        "Fire Fungus"
+      ],
+      "Translation": [
+        "Fire Fungus"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 541,
+      "IsIgnored": false,
+      "Original": [
+        "Canister"
+      ],
+      "Translation": [
+        "Canister"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 542,
+      "IsIgnored": false,
+      "Original": [
+        "Count's Cufflinks"
+      ],
+      "Translation": [
+        "Count's Cufflinks"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 543,
+      "IsIgnored": false,
+      "Original": [
+        "Fan-Shaped Shard"
+      ],
+      "Translation": [
+        "Fan-Shaped Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 544,
+      "IsIgnored": false,
+      "Original": [
+        "Half Moon Shard"
+      ],
+      "Translation": [
+        "Half Moon Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 545,
+      "IsIgnored": false,
+      "Original": [
+        "Old Disc"
+      ],
+      "Translation": [
+        "Old Disc"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 546,
+      "IsIgnored": false,
+      "Original": [
+        "Omnikey"
+      ],
+      "Translation": [
+        "Omnikey"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 547,
+      "IsIgnored": false,
+      "Original": [
+        "Evil Eye Club"
+      ],
+      "Translation": [
+        "Evil Eye Club"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 548,
+      "IsIgnored": false,
+      "Original": [
+        "Capital Key"
+      ],
+      "Translation": [
+        "Capital Key"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 549,
+      "IsIgnored": false,
+      "Original": [
+        "Deep Forest Lore"
+      ],
+      "Translation": [
+        "Deep Forest Lore"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 550,
+      "IsIgnored": false,
+      "Original": [
+        "Bushi's Script"
+      ],
+      "Translation": [
+        "Bushi's Script"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 551,
+      "IsIgnored": false,
+      "Original": [
+        "Script of Souls"
+      ],
+      "Translation": [
+        "Script of Souls"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 552,
+      "IsIgnored": false,
+      "Original": [
+        "Epetam"
+      ],
+      "Translation": [
+        "Epetam"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 553,
+      "IsIgnored": false,
+      "Original": [
+        "Jute Bag"
+      ],
+      "Translation": [
+        "Jute Bag"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 554,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ4"
+      ],
+      "Translation": [
+        "貴重品バッファ4"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 555,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ5"
+      ],
+      "Translation": [
+        "貴重品バッファ5"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 556,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ6"
+      ],
+      "Translation": [
+        "貴重品バッファ6"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 557,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ7"
+      ],
+      "Translation": [
+        "貴重品バッファ7"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 558,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ8"
+      ],
+      "Translation": [
+        "貴重品バッファ8"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 559,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ9"
+      ],
+      "Translation": [
+        "貴重品バッファ9"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 560,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ10"
+      ],
+      "Translation": [
+        "貴重品バッファ10"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 561,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ11"
+      ],
+      "Translation": [
+        "貴重品バッファ11"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 562,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ12"
+      ],
+      "Translation": [
+        "貴重品バッファ12"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 563,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ13"
+      ],
+      "Translation": [
+        "貴重品バッファ13"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 564,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ14"
+      ],
+      "Translation": [
+        "貴重品バッファ14"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 565,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ15"
+      ],
+      "Translation": [
+        "貴重品バッファ15"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 566,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ16"
+      ],
+      "Translation": [
+        "貴重品バッファ16"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 567,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ17"
+      ],
+      "Translation": [
+        "貴重品バッファ17"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 568,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ18"
+      ],
+      "Translation": [
+        "貴重品バッファ18"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 569,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ19"
+      ],
+      "Translation": [
+        "貴重品バッファ19"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 570,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ20"
+      ],
+      "Translation": [
+        "貴重品バッファ20"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 571,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ21"
+      ],
+      "Translation": [
+        "貴重品バッファ21"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 572,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ22"
+      ],
+      "Translation": [
+        "貴重品バッファ22"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 573,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ23"
+      ],
+      "Translation": [
+        "貴重品バッファ23"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 574,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ24"
+      ],
+      "Translation": [
+        "貴重品バッファ24"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 575,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ25"
+      ],
+      "Translation": [
+        "貴重品バッファ25"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 576,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ26"
+      ],
+      "Translation": [
+        "貴重品バッファ26"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 577,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ27"
+      ],
+      "Translation": [
+        "貴重品バッファ27"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 578,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ28"
+      ],
+      "Translation": [
+        "貴重品バッファ28"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 579,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ29"
+      ],
+      "Translation": [
+        "貴重品バッファ29"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 580,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ30"
+      ],
+      "Translation": [
+        "貴重品バッファ30"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 581,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ31"
+      ],
+      "Translation": [
+        "貴重品バッファ31"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 582,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ32"
+      ],
+      "Translation": [
+        "貴重品バッファ32"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 583,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ33"
+      ],
+      "Translation": [
+        "貴重品バッファ33"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 584,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ34"
+      ],
+      "Translation": [
+        "貴重品バッファ34"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 585,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ35"
+      ],
+      "Translation": [
+        "貴重品バッファ35"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 586,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ36"
+      ],
+      "Translation": [
+        "貴重品バッファ36"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 587,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ37"
+      ],
+      "Translation": [
+        "貴重品バッファ37"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 588,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ38"
+      ],
+      "Translation": [
+        "貴重品バッファ38"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 589,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ39"
+      ],
+      "Translation": [
+        "貴重品バッファ39"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 590,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ40"
+      ],
+      "Translation": [
+        "貴重品バッファ40"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 591,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ41"
+      ],
+      "Translation": [
+        "貴重品バッファ41"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 592,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ42"
+      ],
+      "Translation": [
+        "貴重品バッファ42"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 593,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ43"
+      ],
+      "Translation": [
+        "貴重品バッファ43"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 594,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ44"
+      ],
+      "Translation": [
+        "貴重品バッファ44"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 595,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ45"
+      ],
+      "Translation": [
+        "貴重品バッファ45"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 596,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ46"
+      ],
+      "Translation": [
+        "貴重品バッファ46"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 597,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ47"
+      ],
+      "Translation": [
+        "貴重品バッファ47"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 598,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ48"
+      ],
+      "Translation": [
+        "貴重品バッファ48"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 599,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ49"
+      ],
+      "Translation": [
+        "貴重品バッファ49"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 600,
+      "IsIgnored": true,
+      "Original": [
+        "貴重品バッファ50"
+      ],
+      "Translation": [
+        "貴重品バッファ50"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 601,
+      "IsIgnored": false,
+      "Original": [
+        "Might Hammer"
+      ],
+      "Translation": [
+        "Might Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 602,
+      "IsIgnored": false,
+      "Original": [
+        "Aim Hammer"
+      ],
+      "Translation": [
+        "Aim Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 603,
+      "IsIgnored": false,
+      "Original": [
+        "Critical Hammer"
+      ],
+      "Translation": [
+        "Critical Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 604,
+      "IsIgnored": false,
+      "Original": [
+        "Power Hammer"
+      ],
+      "Translation": [
+        "Power Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 605,
+      "IsIgnored": false,
+      "Original": [
+        "Smart Hammer"
+      ],
+      "Translation": [
+        "Smart Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 606,
+      "IsIgnored": false,
+      "Original": [
+        "Guard Hammer"
+      ],
+      "Translation": [
+        "Guard Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 607,
+      "IsIgnored": false,
+      "Original": [
+        "Speed Hammer"
+      ],
+      "Translation": [
+        "Speed Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 608,
+      "IsIgnored": false,
+      "Original": [
+        "Luck Hammer"
+      ],
+      "Translation": [
+        "Luck Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 609,
+      "IsIgnored": false,
+      "Original": [
+        "Fire Hammer"
+      ],
+      "Translation": [
+        "Fire Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 610,
+      "IsIgnored": false,
+      "Original": [
+        "Ice Hammer"
+      ],
+      "Translation": [
+        "Ice Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 611,
+      "IsIgnored": false,
+      "Original": [
+        "Volt Hammer"
+      ],
+      "Translation": [
+        "Volt Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 612,
+      "IsIgnored": false,
+      "Original": [
+        "Head Hammer"
+      ],
+      "Translation": [
+        "Head Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 613,
+      "IsIgnored": false,
+      "Original": [
+        "Arm Hammer"
+      ],
+      "Translation": [
+        "Arm Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 614,
+      "IsIgnored": false,
+      "Original": [
+        "Leg Hammer"
+      ],
+      "Translation": [
+        "Leg Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 615,
+      "IsIgnored": false,
+      "Original": [
+        "Stun Hammer"
+      ],
+      "Translation": [
+        "Stun Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 616,
+      "IsIgnored": false,
+      "Original": [
+        "Flash Hammer"
+      ],
+      "Translation": [
+        "Flash Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 617,
+      "IsIgnored": false,
+      "Original": [
+        "Sleep Hammer"
+      ],
+      "Translation": [
+        "Sleep Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 618,
+      "IsIgnored": false,
+      "Original": [
+        "Poison Hammer"
+      ],
+      "Translation": [
+        "Poison Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 619,
+      "IsIgnored": false,
+      "Original": [
+        "Plague Hammer"
+      ],
+      "Translation": [
+        "Plague Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 620,
+      "IsIgnored": false,
+      "Original": [
+        "Addle Hammer"
+      ],
+      "Translation": [
+        "Addle Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 621,
+      "IsIgnored": false,
+      "Original": [
+        "Numb Hammer"
+      ],
+      "Translation": [
+        "Numb Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 622,
+      "IsIgnored": false,
+      "Original": [
+        "Curse Hammer"
+      ],
+      "Translation": [
+        "Curse Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 623,
+      "IsIgnored": false,
+      "Original": [
+        "Stone Hammer"
+      ],
+      "Translation": [
+        "Stone Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 624,
+      "IsIgnored": false,
+      "Original": [
+        "Death Hammer"
+      ],
+      "Translation": [
+        "Death Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 625,
+      "IsIgnored": false,
+      "Original": [
+        "Elemental Hammer"
+      ],
+      "Translation": [
+        "Elemental Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 626,
+      "IsIgnored": false,
+      "Original": [
+        "Pierce Hammer"
+      ],
+      "Translation": [
+        "Pierce Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 627,
+      "IsIgnored": false,
+      "Original": [
+        "Spread Hammer"
+      ],
+      "Translation": [
+        "Spread Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 628,
+      "IsIgnored": true,
+      "Original": [
+        "アザー478"
+      ],
+      "Translation": [
+        "アザー478"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 629,
+      "IsIgnored": true,
+      "Original": [
+        "アザー479"
+      ],
+      "Translation": [
+        "アザー479"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 630,
+      "IsIgnored": true,
+      "Original": [
+        "アザー480"
+      ],
+      "Translation": [
+        "アザー480"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 631,
+      "IsIgnored": true,
+      "Original": [
+        "アザー481"
+      ],
+      "Translation": [
+        "アザー481"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 632,
+      "IsIgnored": true,
+      "Original": [
+        "アザー482"
+      ],
+      "Translation": [
+        "アザー482"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 633,
+      "IsIgnored": true,
+      "Original": [
+        "アザー483"
+      ],
+      "Translation": [
+        "アザー483"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 634,
+      "IsIgnored": true,
+      "Original": [
+        "アザー484"
+      ],
+      "Translation": [
+        "アザー484"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 635,
+      "IsIgnored": true,
+      "Original": [
+        "アザー485"
+      ],
+      "Translation": [
+        "アザー485"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 636,
+      "IsIgnored": true,
+      "Original": [
+        "アザー486"
+      ],
+      "Translation": [
+        "アザー486"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 637,
+      "IsIgnored": true,
+      "Original": [
+        "アザー487"
+      ],
+      "Translation": [
+        "アザー487"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 638,
+      "IsIgnored": true,
+      "Original": [
+        "アザー488"
+      ],
+      "Translation": [
+        "アザー488"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 639,
+      "IsIgnored": true,
+      "Original": [
+        "アザー489"
+      ],
+      "Translation": [
+        "アザー489"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 640,
+      "IsIgnored": true,
+      "Original": [
+        "アザー490"
+      ],
+      "Translation": [
+        "アザー490"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 641,
+      "IsIgnored": true,
+      "Original": [
+        "アザー491"
+      ],
+      "Translation": [
+        "アザー491"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 642,
+      "IsIgnored": true,
+      "Original": [
+        "アザー492"
+      ],
+      "Translation": [
+        "アザー492"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 643,
+      "IsIgnored": true,
+      "Original": [
+        "アザー493"
+      ],
+      "Translation": [
+        "アザー493"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 644,
+      "IsIgnored": true,
+      "Original": [
+        "アザー494"
+      ],
+      "Translation": [
+        "アザー494"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 645,
+      "IsIgnored": true,
+      "Original": [
+        "アザー495"
+      ],
+      "Translation": [
+        "アザー495"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 646,
+      "IsIgnored": true,
+      "Original": [
+        "アザー496"
+      ],
+      "Translation": [
+        "アザー496"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 647,
+      "IsIgnored": true,
+      "Original": [
+        "アザー497"
+      ],
+      "Translation": [
+        "アザー497"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 648,
+      "IsIgnored": true,
+      "Original": [
+        "アザー498"
+      ],
+      "Translation": [
+        "アザー498"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 649,
+      "IsIgnored": true,
+      "Original": [
+        "アザー499"
+      ],
+      "Translation": [
+        "アザー499"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 650,
+      "IsIgnored": true,
+      "Original": [
+        "アザー500"
+      ],
+      "Translation": [
+        "アザー500"
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3447 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "MIS_005",
+  "RelativePath": "Event\\Mission\\MIS_005.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "With the [Color:6][Item:1458][Color:0], you now have the",
+        "power to roam the Cloudy Stronghold.",
+        "[Page]",
+        "",
+        "But that Imperial soldier seemed sure",
+        "that the skies surrounding the",
+        "[Color:5]Echoing Library[Color:0] are under heavy guard.",
+        "[Page]",
+        "",
+        "However... there's no need to fight",
+        "them, I don't think. We're not out",
+        "to defeat the Empire.",
+        "[Page]",
+        "",
+        "Better to catch them off guard and",
+        "sneak into the Echoing Library. And",
+        "I know just who might help.",
+        ""
+      ],
+      "Translation": [
+        "With the [Color:6][Item:1458][Color:0], you now have the",
+        "power to roam the Cloudy Stronghold.",
+        "[Page]",
+        "",
+        "But that Imperial soldier seemed sure",
+        "that the skies surrounding the",
+        "[Color:5]Echoing Library[Color:0] are under heavy guard.",
+        "[Page]",
+        "",
+        "However... there's no need to fight",
+        "them, I don't think. We're not out",
+        "to defeat the Empire.",
+        "[Page]",
+        "",
+        "Better to catch them off guard and",
+        "sneak into the Echoing Library. And",
+        "I know just who might help.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "At the Count's signal, two explorers",
+        "step into the chamber.",
+        ""
+      ],
+      "Translation": [
+        "At the Count's signal, two explorers",
+        "step into the chamber.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Long time no see, [Guild]! This'll",
+        "be our first time tackling a mission",
+        "together, won't it?",
+        ""
+      ],
+      "Translation": [
+        "Long time no see, [Guild]! This'll",
+        "be our first time tackling a mission",
+        "together, won't it?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "My name's Wiglaf. I've heard lots",
+        "about [Guild], but it's good to",
+        "see you in the flesh!",
+        ""
+      ],
+      "Translation": [
+        "My name's Wiglaf. I've heard lots",
+        "about [Guild], but it's good to",
+        "see you in the flesh!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "We meet again under highly unusual",
+        "circumstances... You are in the lead",
+        "this time, while I shall support.",
+        ""
+      ],
+      "Translation": [
+        "We meet again under highly unusual",
+        "circumstances... You are in the lead",
+        "this time, while I shall support.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "This is our first time meeting, yes?",
+        "I am Kirjonen. Though I am still in",
+        "training, I shall support you.",
+        ""
+      ],
+      "Translation": [
+        "This is our first time meeting, yes?",
+        "I am Kirjonen. Though I am still in",
+        "training, I shall support you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "This mission is highly dangerous,",
+        "which is why we have prepared this",
+        "to aid you.",
+        ""
+      ],
+      "Translation": [
+        "This mission is highly dangerous,",
+        "which is why we have prepared this",
+        "to aid you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "I worked it out after talking with",
+        "Kirjonen. It'll let you fly your",
+        "skyship extra-fast! Give it a try!",
+        ""
+      ],
+      "Translation": [
+        "I worked it out after talking with",
+        "Kirjonen. It'll let you fly your",
+        "skyship extra-fast! Give it a try!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Are yeh folks done chatting?",
+        "Then I'm going to take some of",
+        "this [Color:6][Item:1458][Color:0].",
+        "[Page]",
+        "",
+        "I'll fit this on all your skyships",
+        "so yeh can fly higher.",
+        ""
+      ],
+      "Translation": [
+        "Are yeh folks done chatting?",
+        "Then I'm going to take some of",
+        "this [Color:6][Item:1458][Color:0].",
+        "[Page]",
+        "",
+        "I'll fit this on all your skyships",
+        "so yeh can fly higher.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "So, then. Wiglaf and Kirjonen will",
+        "be responsible for a feint on their",
+        "aerial armada.",
+        "[Page]",
+        "",
+        "While their attention is diverted,",
+        "Guild [Guild] will infiltrate the",
+        "Echoing Library to rescue the Medium.",
+        "[Page]",
+        "",
+        "I suggest you depart the moment you're",
+        "prepared to do so. Best of luck!",
+        ""
+      ],
+      "Translation": [
+        "So, then. Wiglaf and Kirjonen will",
+        "be responsible for a feint on their",
+        "aerial armada.",
+        "[Page]",
+        "",
+        "While their attention is diverted,",
+        "Guild [Guild] will infiltrate the",
+        "Echoing Library to rescue the Medium.",
+        "[Page]",
+        "",
+        "I suggest you depart the moment you're",
+        "prepared to do so. Best of luck!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "\"I see... It is safe to assume that",
+        "the Imperial Prince has reached",
+        "Yggdrasil by now.",
+        "[Page]",
+        "",
+        "\"No, no, you are not to blame. If you",
+        "could not stop him, I am at a loss",
+        "to think of who could.\"",
+        ""
+      ],
+      "Translation": [
+        "\"I see... It is safe to assume that",
+        "the Imperial Prince has reached",
+        "Yggdrasil by now.",
+        "[Page]",
+        "",
+        "\"No, no, you are not to blame. If you",
+        "could not stop him, I am at a loss",
+        "to think of who could.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "It is then that a man enters the",
+        "chamber.",
+        ""
+      ],
+      "Translation": [
+        "It is then that a man enters the",
+        "chamber.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "\"It's too early to give up now.",
+        "Yggdrasil isn't fully active yet.",
+        "[Page]",
+        "",
+        "\"What you saw was only the final",
+        "preparation of the Titan's Soul. He",
+        "must integrate her into the tree.",
+        "[Page]",
+        "",
+        "\"Yggdrasil withered because the heart",
+        "was inserted. That is why its power",
+        "began to gather in the roots.",
+        "[Page]",
+        "",
+        "\"But so long as the Medium is not",
+        "integrated, we still have hope.\"",
+        ""
+      ],
+      "Translation": [
+        "\"It's too early to give up now.",
+        "Yggdrasil isn't fully active yet.",
+        "[Page]",
+        "",
+        "\"What you saw was only the final",
+        "preparation of the Titan's Soul. He",
+        "must integrate her into the tree.",
+        "[Page]",
+        "",
+        "\"Yggdrasil withered because the heart",
+        "was inserted. That is why its power",
+        "began to gather in the roots.",
+        "[Page]",
+        "",
+        "\"But so long as the Medium is not",
+        "integrated, we still have hope.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "You explain to the Count that you and",
+        "Logre acted in concert to stop the",
+        "Imperial Prince.",
+        "[Page]",
+        "",
+        "The Count seems confused at first, but",
+        "once he grasps the situation, he sends",
+        "his soldiers to gather information.",
+        ""
+      ],
+      "Translation": [
+        "You explain to the Count that you and",
+        "Logre acted in concert to stop the",
+        "Imperial Prince.",
+        "[Page]",
+        "",
+        "The Count seems confused at first, but",
+        "once he grasps the situation, he sends",
+        "his soldiers to gather information.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Guild], I think you should take",
+        "this. Few though we are, some Imperial",
+        "knights still agree with me.",
+        "[Page]",
+        "",
+        "\"If you will have us, our drive blades",
+        "will aid you on your search.\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Guild], I think you should take",
+        "this. Few though we are, some Imperial",
+        "knights still agree with me.",
+        "[Page]",
+        "",
+        "\"If you will have us, our drive blades",
+        "will aid you on your search.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Imperials can now be registered at",
+        "the Explorers Guild.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Imperials can now be registered at",
+        "the Explorers Guild.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "\"An instructor of our air force is at",
+        "the bar, ready to help with training.",
+        "Give him this [Color:6][Item:1475][Color:0].",
+        "[Page]",
+        "",
+        "\"One last request... I wish to stop His",
+        "Imperial Highness just as much as you",
+        "do. Will you have me in your guild?\"",
+        ""
+      ],
+      "Translation": [
+        "\"An instructor of our air force is at",
+        "the bar, ready to help with training.",
+        "Give him this [Color:6][Item:1475][Color:0].",
+        "[Page]",
+        "",
+        "\"One last request... I wish to stop His",
+        "Imperial Highness just as much as you",
+        "do. Will you have me in your guild?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Invite Logre into your guild?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Invite Logre into your guild?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Logre can be registered into your",
+        "guild whenever you wish.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you would still like to register",
+        "Logre in your guild, make space for",
+        "him and return to the Echoing Library.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Logre can be registered into your",
+        "guild whenever you wish.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you would still like to register",
+        "Logre in your guild, make space for",
+        "him and return to the Echoing Library.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your guild is too full to register",
+        "a new member.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you would still like to register",
+        "Logre in your guild, make space for",
+        "him and return to the Echoing Library.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your guild is too full to register",
+        "a new member.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you would still like to register",
+        "Logre in your guild, make space for",
+        "him and return to the Echoing Library.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Logre is now a registered member",
+        "of your guild.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Logre is now a registered member",
+        "of your guild.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]If you wish to put Logre into your",
+        "party, go to the Explorers Guild",
+        "and select \"Formation.\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]If you wish to put Logre into your",
+        "party, go to the Explorers Guild",
+        "and select \"Formation.\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "\"There is much I'd like to say and ask,",
+        "but this is not the time.",
+        "[Page]",
+        "",
+        "\"I trust your expertise, and I will do",
+        "my part to help.",
+        "[Page]",
+        "",
+        "\"It seems our search for Yggdrasil has",
+        "reached its climax...",
+        "[Page]",
+        "",
+        "\"We could never have imagined a crisis",
+        "such as this when we set out, but our",
+        "way forward is clear.",
+        "[Page]",
+        "",
+        "\"We must prevent the Imperial Prince",
+        "from unleashing Yggdrasil's power.",
+        "[Page]",
+        "",
+        "\"I will issue an official mission...",
+        "I pray this will be the last one.",
+        "[Page]",
+        "",
+        "\"Please lend us your strength one",
+        "final time.\"",
+        ""
+      ],
+      "Translation": [
+        "\"There is much I'd like to say and ask,",
+        "but this is not the time.",
+        "[Page]",
+        "",
+        "\"I trust your expertise, and I will do",
+        "my part to help.",
+        "[Page]",
+        "",
+        "\"It seems our search for Yggdrasil has",
+        "reached its climax...",
+        "[Page]",
+        "",
+        "\"We could never have imagined a crisis",
+        "such as this when we set out, but our",
+        "way forward is clear.",
+        "[Page]",
+        "",
+        "\"We must prevent the Imperial Prince",
+        "from unleashing Yggdrasil's power.",
+        "[Page]",
+        "",
+        "\"I will issue an official mission...",
+        "I pray this will be the last one.",
+        "[Page]",
+        "",
+        "\"Please lend us your strength one",
+        "final time.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "When you set out into the sky, you",
+        "notice the presence of other skyships.",
+        "[Page]",
+        "",
+        "You can tell at a glance that these",
+        "are not of Imperial make.",
+        "[Page]",
+        "",
+        "You respond to their signal and",
+        "approach the skyships...",
+        ""
+      ],
+      "Translation": [
+        "When you set out into the sky, you",
+        "notice the presence of other skyships.",
+        "[Page]",
+        "",
+        "You can tell at a glance that these",
+        "are not of Imperial make.",
+        "[Page]",
+        "",
+        "You respond to their signal and",
+        "approach the skyships...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "\"I am in charge of the western front.",
+        "Speak to me when you wish to begin",
+        "the feint maneuver.\"",
+        ""
+      ],
+      "Translation": [
+        "\"I am in charge of the western front.",
+        "Speak to me when you wish to begin",
+        "the feint maneuver.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "\"I'm handling the east. It's a tough",
+        "mission, but we can do it! Talk to me",
+        "when you want to move out!\"",
+        ""
+      ],
+      "Translation": [
+        "\"I'm handling the east. It's a tough",
+        "mission, but we can do it! Talk to me",
+        "when you want to move out!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "With the plan in motion, each of",
+        "them flies off to their respective",
+        "positions.",
+        "[Page]",
+        "",
+        "[Color:3]If you speak to the other explorers,",
+        "they will fly north to draw the",
+        "attention of the Empire's warships.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "With the plan in motion, each of",
+        "them flies off to their respective",
+        "positions.",
+        "[Page]",
+        "",
+        "[Color:3]If you speak to the other explorers,",
+        "they will fly north to draw the",
+        "attention of the Empire's warships.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "You take your first steps into the",
+        "Echoing Library.",
+        "[Page]",
+        "",
+        "Though you were worried that the",
+        "entrance might be guarded by Imperial",
+        "soldiers, you see no one here.",
+        "[Page]",
+        "",
+        "Somewhere within this labyrinth,",
+        "the Empire is attempting to unleash",
+        "Yggdrasil's power...",
+        "[Page]",
+        "",
+        "If that comes to pass, the lives of",
+        "many Vessels and Sentinels will be",
+        "lost.",
+        "[Page]",
+        "",
+        "You must quickly rescue the Medium",
+        "before the Empire can carry out its",
+        "horrific plan!",
+        ""
+      ],
+      "Translation": [
+        "You take your first steps into the",
+        "Echoing Library.",
+        "[Page]",
+        "",
+        "Though you were worried that the",
+        "entrance might be guarded by Imperial",
+        "soldiers, you see no one here.",
+        "[Page]",
+        "",
+        "Somewhere within this labyrinth,",
+        "the Empire is attempting to unleash",
+        "Yggdrasil's power...",
+        "[Page]",
+        "",
+        "If that comes to pass, the lives of",
+        "many Vessels and Sentinels will be",
+        "lost.",
+        "[Page]",
+        "",
+        "You must quickly rescue the Medium",
+        "before the Empire can carry out its",
+        "horrific plan!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Further down the passage is a soldier",
+        "clad in Imperial armor.",
+        "[Page]",
+        "",
+        "When he notices you, he makes to draw",
+        "his weapon, but his hand slips and the",
+        "blade clatters to the floor.",
+        "[Page]",
+        "",
+        "Only then do you see the vines and",
+        "leaves coiled around the Imperial",
+        "soldier's arm...!",
+        "[Page]",
+        "",
+        "He seems to be suffering from the same",
+        "illness the Sentinels were afflicted",
+        "with. He sullenly surrenders to you.",
+        "[Page]",
+        "",
+        "When you question him, he tells you",
+        "that only infected officers are left",
+        "here in the labyrinth.",
+        "[Page]",
+        "",
+        "The Imperial soldier claims that the",
+        "Medium offered to treat his disease,",
+        "but he firmly rejected her offer.",
+        ""
+      ],
+      "Translation": [
+        "Further down the passage is a soldier",
+        "clad in Imperial armor.",
+        "[Page]",
+        "",
+        "When he notices you, he makes to draw",
+        "his weapon, but his hand slips and the",
+        "blade clatters to the floor.",
+        "[Page]",
+        "",
+        "Only then do you see the vines and",
+        "leaves coiled around the Imperial",
+        "soldier's arm...!",
+        "[Page]",
+        "",
+        "He seems to be suffering from the same",
+        "illness the Sentinels were afflicted",
+        "with. He sullenly surrenders to you.",
+        "[Page]",
+        "",
+        "When you question him, he tells you",
+        "that only infected officers are left",
+        "here in the labyrinth.",
+        "[Page]",
+        "",
+        "The Imperial soldier claims that the",
+        "Medium offered to treat his disease,",
+        "but he firmly rejected her offer.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Further down the passage is a soldier",
+        "clad in Imperial armor.",
+        "[Page]",
+        "",
+        "He is infected with the same malady as",
+        "the soldier you met before. He casts",
+        "down his weapon and surrenders...",
+        ""
+      ],
+      "Translation": [
+        "Further down the passage is a soldier",
+        "clad in Imperial armor.",
+        "[Page]",
+        "",
+        "He is infected with the same malady as",
+        "the soldier you met before. He casts",
+        "down his weapon and surrenders...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "\"Do what you will, but His Imperial",
+        "Highness Baldur will carry out his",
+        "glorious plan for the Empire.",
+        "[Page]",
+        "",
+        "\"He is not like Emperor Alfodr. Baldur",
+        "will become a truly worthy emperor...\"",
+        "The soldier tells of the royal family.",
+        "[Page]",
+        "",
+        "It seems that Alfodr was the one who",
+        "advocated the use of Yggdrasil's",
+        "power to revive his dead lands.",
+        "[Page]",
+        "",
+        "The Emperor searched for a way to save",
+        "his people, but what he sought was",
+        "more than a path to survival.",
+        "[Page]",
+        "",
+        "He was after a means of purifying the",
+        "land without unleashing the Titan's",
+        "Curse upon the world.",
+        "[Page]",
+        "",
+        "He knew he would need the three items",
+        "to enact whatever plan he devised...",
+        "the heart, the soul, and the crown.",
+        "[Page]",
+        "",
+        "\"The Emperor planned to send a number",
+        "of knights through the barrier. He",
+        "knew it would cost lives.",
+        "[Page]",
+        "",
+        "\"But then the Emperor himself joined",
+        "the search team! As if he didn't",
+        "understand the risks!",
+        "[Page]",
+        "",
+        "\"Only Sir Logre returned. No one but",
+        "his Imperial Highness believes anymore",
+        "that Alfodr and the others are alive.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Do what you will, but His Imperial",
+        "Highness Baldur will carry out his",
+        "glorious plan for the Empire.",
+        "[Page]",
+        "",
+        "\"He is not like Emperor Alfodr. Baldur",
+        "will become a truly worthy emperor...\"",
+        "The soldier tells of the royal family.",
+        "[Page]",
+        "",
+        "It seems that Alfodr was the one who",
+        "advocated the use of Yggdrasil's",
+        "power to revive his dead lands.",
+        "[Page]",
+        "",
+        "The Emperor searched for a way to save",
+        "his people, but what he sought was",
+        "more than a path to survival.",
+        "[Page]",
+        "",
+        "He was after a means of purifying the",
+        "land without unleashing the Titan's",
+        "Curse upon the world.",
+        "[Page]",
+        "",
+        "He knew he would need the three items",
+        "to enact whatever plan he devised...",
+        "the heart, the soul, and the crown.",
+        "[Page]",
+        "",
+        "\"The Emperor planned to send a number",
+        "of knights through the barrier. He",
+        "knew it would cost lives.",
+        "[Page]",
+        "",
+        "\"But then the Emperor himself joined",
+        "the search team! As if he didn't",
+        "understand the risks!",
+        "[Page]",
+        "",
+        "\"Only Sir Logre returned. No one but",
+        "his Imperial Highness believes anymore",
+        "that Alfodr and the others are alive.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "\"You probably can't see it from your city,",
+        "but on the other side of Yggdrasil is",
+        "a wasteland. We're almost done for.",
+        "[Page]",
+        "",
+        "\"Our people have scattered from their",
+        "homes to anywhere that plants still",
+        "grow. The Empire is on the decline.",
+        "[Page]",
+        "",
+        "\"For ten years, we've tried to find",
+        "a way to use Yggdrasil without setting",
+        "off the Curse, but it's no use.",
+        "[Page]",
+        "",
+        "\"We will activate Yggdrasil, come what",
+        "may. His Imperial Highness is prepared",
+        "to face any consequence.",
+        "[Page]",
+        "",
+        "\"Those of us here now are the only",
+        "ones necessary... Everyone else is on",
+        "a skyship patrolling the perimeter.",
+        "[Page]",
+        "",
+        "\"We never thought anyone could get by",
+        "our watchful eyes and make it into",
+        "the Library...\"",
+        ""
+      ],
+      "Translation": [
+        "\"You probably can't see it from your city,",
+        "but on the other side of Yggdrasil is",
+        "a wasteland. We're almost done for.",
+        "[Page]",
+        "",
+        "\"Our people have scattered from their",
+        "homes to anywhere that plants still",
+        "grow. The Empire is on the decline.",
+        "[Page]",
+        "",
+        "\"For ten years, we've tried to find",
+        "a way to use Yggdrasil without setting",
+        "off the Curse, but it's no use.",
+        "[Page]",
+        "",
+        "\"We will activate Yggdrasil, come what",
+        "may. His Imperial Highness is prepared",
+        "to face any consequence.",
+        "[Page]",
+        "",
+        "\"Those of us here now are the only",
+        "ones necessary... Everyone else is on",
+        "a skyship patrolling the perimeter.",
+        "[Page]",
+        "",
+        "\"We never thought anyone could get by",
+        "our watchful eyes and make it into",
+        "the Library...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "\"Emperor Alfodr set out to acquire the",
+        "Titan's Heart, Soul, and Crown, but he",
+        "went missing in the process.",
+        "[Page]",
+        "",
+        "\"Afterward, the young Imperial Prince",
+        "Baldur took up his plan to harness",
+        "Yggdrasil's power.",
+        "[Page]",
+        "",
+        "\"His Imperial Highness lost many loyal",
+        "knights and shut himself inside the",
+        "palace. He has changed since then...",
+        "[Page]",
+        "",
+        "\"It was his quick wits that kept him",
+        "alive amidst all that palace intrigue.",
+        "[Page]",
+        "",
+        "\"His Imperial Highness purged any",
+        "official working for personal gain and",
+        "began enacting the Emperor's plan.",
+        "[Page]",
+        "",
+        "\"He is greatly beloved within the",
+        "Empire, but still, everyone doubted",
+        "one of his deeply-held beliefs...",
+        "[Page]",
+        "",
+        "\"That the knights who went beyond the",
+        "barrier would surely return someday.",
+        "Nobody really thought it possible.",
+        "[Page]",
+        "",
+        "\"But then Sir Logre returned to the",
+        "Empire, just as His Imperial Highness",
+        "said. After that, no one doubts him.",
+        "[Page]",
+        "",
+        "\"Sir Logre persevered in desperate",
+        "circumstances to accomplish his task",
+        "and returned a hero to our Empire.",
+        "[Page]",
+        "",
+        "\"Although that doesn't explain the",
+        "haunted look he's held ever since his",
+        "homecoming...\"",
+        ""
+      ],
+      "Translation": [
+        "\"Emperor Alfodr set out to acquire the",
+        "Titan's Heart, Soul, and Crown, but he",
+        "went missing in the process.",
+        "[Page]",
+        "",
+        "\"Afterward, the young Imperial Prince",
+        "Baldur took up his plan to harness",
+        "Yggdrasil's power.",
+        "[Page]",
+        "",
+        "\"His Imperial Highness lost many loyal",
+        "knights and shut himself inside the",
+        "palace. He has changed since then...",
+        "[Page]",
+        "",
+        "\"It was his quick wits that kept him",
+        "alive amidst all that palace intrigue.",
+        "[Page]",
+        "",
+        "\"His Imperial Highness purged any",
+        "official working for personal gain and",
+        "began enacting the Emperor's plan.",
+        "[Page]",
+        "",
+        "\"He is greatly beloved within the",
+        "Empire, but still, everyone doubted",
+        "one of his deeply-held beliefs...",
+        "[Page]",
+        "",
+        "\"That the knights who went beyond the",
+        "barrier would surely return someday.",
+        "Nobody really thought it possible.",
+        "[Page]",
+        "",
+        "\"But then Sir Logre returned to the",
+        "Empire, just as His Imperial Highness",
+        "said. After that, no one doubts him.",
+        "[Page]",
+        "",
+        "\"Sir Logre persevered in desperate",
+        "circumstances to accomplish his task",
+        "and returned a hero to our Empire.",
+        "[Page]",
+        "",
+        "\"Although that doesn't explain the",
+        "haunted look he's held ever since his",
+        "homecoming...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "\"Whirlwind...? Oh, you mean Sir Logre.",
+        "He's truly amazing. Only he managed to",
+        "return from beyond the barrier.",
+        "[Page]",
+        "",
+        "\"That reminds me... After he met with",
+        "the Imperial Prince, he was furious.",
+        "[Page]",
+        "",
+        "\"He was yelling, 'What did you do to",
+        "His Imperial Highness!?' to the",
+        "Prince's attendants.",
+        "[Page]",
+        "",
+        "\"Sir Logre must've been surprised at",
+        "how His Imperial Highness had grown",
+        "in the ten years since he'd been gone.",
+        "[Page]",
+        "",
+        "\"His Imperial Highness thinks only of",
+        "protecting his people... That is why",
+        "we risk our lives serving him.",
+        "[Page]",
+        "",
+        "\"Though his plan seems the same as",
+        "Emperor Alfodr's, it is different in",
+        "one key respect.",
+        "[Page]",
+        "",
+        "\"It has to do with the Titan's Curse",
+        "that comes with the activation of",
+        "Yggdrasil's power.",
+        "[Page]",
+        "",
+        "\"His Imperial Highness stated that any",
+        "casualties as a result of the plan are",
+        "unfortunate, but necessary.",
+        "[Page]",
+        "",
+        "\"Emperor Alfodr never would have stood",
+        "for it... but no one can gainsay His",
+        "Imperial Highness now.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Whirlwind...? Oh, you mean Sir Logre.",
+        "He's truly amazing. Only he managed to",
+        "return from beyond the barrier.",
+        "[Page]",
+        "",
+        "\"That reminds me... After he met with",
+        "the Imperial Prince, he was furious.",
+        "[Page]",
+        "",
+        "\"He was yelling, 'What did you do to",
+        "His Imperial Highness!?' to the",
+        "Prince's attendants.",
+        "[Page]",
+        "",
+        "\"Sir Logre must've been surprised at",
+        "how His Imperial Highness had grown",
+        "in the ten years since he'd been gone.",
+        "[Page]",
+        "",
+        "\"His Imperial Highness thinks only of",
+        "protecting his people... That is why",
+        "we risk our lives serving him.",
+        "[Page]",
+        "",
+        "\"Though his plan seems the same as",
+        "Emperor Alfodr's, it is different in",
+        "one key respect.",
+        "[Page]",
+        "",
+        "\"It has to do with the Titan's Curse",
+        "that comes with the activation of",
+        "Yggdrasil's power.",
+        "[Page]",
+        "",
+        "\"His Imperial Highness stated that any",
+        "casualties as a result of the plan are",
+        "unfortunate, but necessary.",
+        "[Page]",
+        "",
+        "\"Emperor Alfodr never would have stood",
+        "for it... but no one can gainsay His",
+        "Imperial Highness now.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "\"Sir Logre...? Hmm, so you will stand",
+        "against His Imperial Highness... To be",
+        "honest, I envy your backbone.",
+        "[Page]",
+        "",
+        "\"Those of us who followed His Imperial",
+        "Highness this far could not possibly",
+        "stop him.",
+        "[Page]",
+        "",
+        "\"We were too scared. To go against",
+        "him would be to admit everything we",
+        "had done this whole time was wrong.",
+        "[Page]",
+        "",
+        "\"But our peace of mind should not come",
+        "at the expense of others. Please...",
+        "you must stop His Imperial Highness.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Sir Logre...? Hmm, so you will stand",
+        "against His Imperial Highness... To be",
+        "honest, I envy your backbone.",
+        "[Page]",
+        "",
+        "\"Those of us who followed His Imperial",
+        "Highness this far could not possibly",
+        "stop him.",
+        "[Page]",
+        "",
+        "\"We were too scared. To go against",
+        "him would be to admit everything we",
+        "had done this whole time was wrong.",
+        "[Page]",
+        "",
+        "\"But our peace of mind should not come",
+        "at the expense of others. Please...",
+        "you must stop His Imperial Highness.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "\"His Imperial Highness refused to take",
+        "the title of Emperor.",
+        "[Page]",
+        "",
+        "\"I suspect he is in denial that his",
+        "father, Emperor Alfodr, died after",
+        "going beyond the barrier.",
+        "[Page]",
+        "",
+        "\"His Imperial Highness has changed",
+        "since the Emperor disappeared... He is",
+        "no longer the weak boy he was then.",
+        "[Page]",
+        "",
+        "\"He is single-minded when it comes to",
+        "realizing the dreams of the people",
+        "who adore him and his father so.\"",
+        ""
+      ],
+      "Translation": [
+        "\"His Imperial Highness refused to take",
+        "the title of Emperor.",
+        "[Page]",
+        "",
+        "\"I suspect he is in denial that his",
+        "father, Emperor Alfodr, died after",
+        "going beyond the barrier.",
+        "[Page]",
+        "",
+        "\"His Imperial Highness has changed",
+        "since the Emperor disappeared... He is",
+        "no longer the weak boy he was then.",
+        "[Page]",
+        "",
+        "\"He is single-minded when it comes to",
+        "realizing the dreams of the people",
+        "who adore him and his father so.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "You hear voices beyond the ditch and",
+        "look across to see who they belong to.",
+        "[Page]",
+        "",
+        "It is the Medium and the Imperial",
+        "Prince! He is leading her by the",
+        "hand, evidently in a hurry.",
+        "[Page]",
+        "",
+        "In his other hand, he carries a",
+        "mechanical sword, similar to the",
+        "one Whirlwind wielded.",
+        ""
+      ],
+      "Translation": [
+        "You hear voices beyond the ditch and",
+        "look across to see who they belong to.",
+        "[Page]",
+        "",
+        "It is the Medium and the Imperial",
+        "Prince! He is leading her by the",
+        "hand, evidently in a hurry.",
+        "[Page]",
+        "",
+        "In his other hand, he carries a",
+        "mechanical sword, similar to the",
+        "one Whirlwind wielded.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "\"You must be the ones Logre informed",
+        "me of. So, you've made it this far...\"",
+        "[Page]",
+        "",
+        "The Imperial Prince looks toward you",
+        "with dismay. On his forehead is a",
+        "circlet seemingly made of glass.",
+        "[Page]",
+        "",
+        "That must be the headpiece the Count",
+        "awarded Logre... the [Color:5]Titan's Crown[Color:0].",
+        "[Page]",
+        "",
+        "\"It is the wish of Emperor Alfodr and",
+        "the people of the Empire that the",
+        "power of Yggdrasil be used.",
+        "[Page]",
+        "",
+        "\"As the Emperor has not returned from",
+        "his search, it is my duty as his son",
+        "to fulfill his plan in his stead.",
+        "[Page]",
+        "",
+        "\"My father took great pains not to",
+        "harm the Vessels and Sentinels, but",
+        "I do not have that luxury.",
+        "[Page]",
+        "",
+        "\"I lack the strength to take full",
+        "control of Yggdrasil...",
+        "[Page]",
+        "",
+        "\"And thus there is no other way but",
+        "to sacrifice the Vessels and the",
+        "Sentinels for the Empire's sake.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You must be the ones Logre informed",
+        "me of. So, you've made it this far...\"",
+        "[Page]",
+        "",
+        "The Imperial Prince looks toward you",
+        "with dismay. On his forehead is a",
+        "circlet seemingly made of glass.",
+        "[Page]",
+        "",
+        "That must be the headpiece the Count",
+        "awarded Logre... the [Color:5]Titan's Crown[Color:0].",
+        "[Page]",
+        "",
+        "\"It is the wish of Emperor Alfodr and",
+        "the people of the Empire that the",
+        "power of Yggdrasil be used.",
+        "[Page]",
+        "",
+        "\"As the Emperor has not returned from",
+        "his search, it is my duty as his son",
+        "to fulfill his plan in his stead.",
+        "[Page]",
+        "",
+        "\"My father took great pains not to",
+        "harm the Vessels and Sentinels, but",
+        "I do not have that luxury.",
+        "[Page]",
+        "",
+        "\"I lack the strength to take full",
+        "control of Yggdrasil...",
+        "[Page]",
+        "",
+        "\"And thus there is no other way but",
+        "to sacrifice the Vessels and the",
+        "Sentinels for the Empire's sake.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "The Imperial Prince appears to harden",
+        "his resolve with his speech, but the",
+        "Medium does not stay silent...",
+        ""
+      ],
+      "Translation": [
+        "The Imperial Prince appears to harden",
+        "his resolve with his speech, but the",
+        "Medium does not stay silent...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "\"No... Why? You don't understand your",
+        "father's wishes at all.",
+        "[Page]",
+        "",
+        "\"You say you want to make his dream",
+        "come true, but this is not what he",
+        "would have wanted!\"",
+        "[Page]",
+        "",
+        "The Imperial Prince hears her without",
+        "changing expression.",
+        ""
+      ],
+      "Translation": [
+        "\"No... Why? You don't understand your",
+        "father's wishes at all.",
+        "[Page]",
+        "",
+        "\"You say you want to make his dream",
+        "come true, but this is not what he",
+        "would have wanted!\"",
+        "[Page]",
+        "",
+        "The Imperial Prince hears her without",
+        "changing expression.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "\"You do not fear me... Is that due to",
+        "ignorance, or strength...?\" He narrows",
+        "his eyes as he questions her.",
+        "[Page]",
+        "",
+        "He opens his mouth to continue, but",
+        "abruptly places a hand over it and",
+        "coughs violently.",
+        "[Page]",
+        "",
+        "Startled, the Medium reaches out to",
+        "him, but he takes her hand forcefully",
+        "and makes for the eastern passage.",
+        "[Page]",
+        "",
+        "As he is about to leave, the Imperial",
+        "Prince glances back at you. \"I don't",
+        "have time for further delays.",
+        "[Page]",
+        "",
+        "\"The plan will go forward unchanged.",
+        "If you will not relent... then my",
+        "knight shall bar your way.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You do not fear me... Is that due to",
+        "ignorance, or strength...?\" He narrows",
+        "his eyes as he questions her.",
+        "[Page]",
+        "",
+        "He opens his mouth to continue, but",
+        "abruptly places a hand over it and",
+        "coughs violently.",
+        "[Page]",
+        "",
+        "Startled, the Medium reaches out to",
+        "him, but he takes her hand forcefully",
+        "and makes for the eastern passage.",
+        "[Page]",
+        "",
+        "As he is about to leave, the Imperial",
+        "Prince glances back at you. \"I don't",
+        "have time for further delays.",
+        "[Page]",
+        "",
+        "\"The plan will go forward unchanged.",
+        "If you will not relent... then my",
+        "knight shall bar your way.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "As you reach for the handle on the",
+        "door before you, a sudden chill races",
+        "down your spine.",
+        "[Page]",
+        "",
+        "You have a tempestuous, foreboding",
+        "feeling from something on the other",
+        "side of the door!",
+        "[Page]",
+        "",
+        "It doesn't feel like a monster...",
+        "[Page]",
+        "",
+        "And this threat of imminent violence",
+        "feels somehow familiar. You surmise",
+        "that it is the Imperial knight, Logre.",
+        "[Page]",
+        "",
+        "If you open this door, there will be",
+        "no avoiding a fight. If you are",
+        "prepared for that, then proceed...",
+        ""
+      ],
+      "Translation": [
+        "As you reach for the handle on the",
+        "door before you, a sudden chill races",
+        "down your spine.",
+        "[Page]",
+        "",
+        "You have a tempestuous, foreboding",
+        "feeling from something on the other",
+        "side of the door!",
+        "[Page]",
+        "",
+        "It doesn't feel like a monster...",
+        "[Page]",
+        "",
+        "And this threat of imminent violence",
+        "feels somehow familiar. You surmise",
+        "that it is the Imperial knight, Logre.",
+        "[Page]",
+        "",
+        "If you open this door, there will be",
+        "no avoiding a fight. If you are",
+        "prepared for that, then proceed...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "The room beyond the opened door is",
+        "fairly small.",
+        "[Page]",
+        "",
+        "There is room for little in it but the",
+        "Imperial knight Logre, the man you",
+        "knew in Tharsis as Whirlwind.",
+        ""
+      ],
+      "Translation": [
+        "The room beyond the opened door is",
+        "fairly small.",
+        "[Page]",
+        "",
+        "There is room for little in it but the",
+        "Imperial knight Logre, the man you",
+        "knew in Tharsis as Whirlwind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "\"So the Outland Count decided to send",
+        "you, [Guild].",
+        "[Page]",
+        "",
+        "\"I have no intention of whitewashing",
+        "what I did to you. There isn't any",
+        "need for it.",
+        "[Page]",
+        "",
+        "\"You won't go any further.\" Logre",
+        "readies his large, mechanical sword,",
+        "which begins to hum.",
+        "[Page]",
+        "",
+        "\"The adventure's over.\" Before he even",
+        "finishes speaking, the black knight",
+        "advances smoothly toward you!",
+        ""
+      ],
+      "Translation": [
+        "\"So the Outland Count decided to send",
+        "you, [Guild].",
+        "[Page]",
+        "",
+        "\"I have no intention of whitewashing",
+        "what I did to you. There isn't any",
+        "need for it.",
+        "[Page]",
+        "",
+        "\"You won't go any further.\" Logre",
+        "readies his large, mechanical sword,",
+        "which begins to hum.",
+        "[Page]",
+        "",
+        "\"The adventure's over.\" Before he even",
+        "finishes speaking, the black knight",
+        "advances smoothly toward you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Your final strike drives Logre to",
+        "his knees.",
+        "[Page]",
+        "",
+        "He weakly attempts to use his sword as",
+        "a crutch to stand, but he is already",
+        "beyond that point.",
+        ""
+      ],
+      "Translation": [
+        "Your final strike drives Logre to",
+        "his knees.",
+        "[Page]",
+        "",
+        "He weakly attempts to use his sword as",
+        "a crutch to stand, but he is already",
+        "beyond that point.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "\"Sad, really, that you proved a match",
+        "for me.\" Logre looks toward you.",
+        "[Page]",
+        "",
+        "\"Aren't you going to finish me off?",
+        "No... you're explorers, not murderers.",
+        "Of course you wouldn't.",
+        "[Page]",
+        "",
+        "\"But I am no true explorer. I'd give",
+        "my life to stop you!\" Upon saying",
+        "this, he does something to his blade.",
+        "[Page]",
+        "",
+        "Suddenly, the mechanical whir increases",
+        "in pitch and the blade glows red-hot.",
+        "It's going into overdrive...!",
+        ""
+      ],
+      "Translation": [
+        "\"Sad, really, that you proved a match",
+        "for me.\" Logre looks toward you.",
+        "[Page]",
+        "",
+        "\"Aren't you going to finish me off?",
+        "No... you're explorers, not murderers.",
+        "Of course you wouldn't.",
+        "[Page]",
+        "",
+        "\"But I am no true explorer. I'd give",
+        "my life to stop you!\" Upon saying",
+        "this, he does something to his blade.",
+        "[Page]",
+        "",
+        "Suddenly, the mechanical whir increases",
+        "in pitch and the blade glows red-hot.",
+        "It's going into overdrive...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What will you do to Logre?[Color:0]",
+        "Strike him a hard blow",
+        "Tell him the Prince needs him",
+        "Wordlessly extend your hand",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What will you do to Logre?[Color:0]",
+        "Strike him a hard blow",
+        "Tell him the Prince needs him",
+        "Wordlessly extend your hand",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "You strike Logre with the full force",
+        "of your strength! The sword is knocked",
+        "away. You tamper with the mechanism.",
+        "[Page]",
+        "",
+        "You are lucky... whatever you did has",
+        "done the trick of deactivating the",
+        "blade's function.",
+        "[Page]",
+        "",
+        "You point out to Logre the moral",
+        "abhorrence of sacrificing the Vessels",
+        "and Sentinels he spent time with.",
+        "[Page]",
+        "",
+        "Logre casts his eyes down with a",
+        "pained look.",
+        ""
+      ],
+      "Translation": [
+        "You strike Logre with the full force",
+        "of your strength! The sword is knocked",
+        "away. You tamper with the mechanism.",
+        "[Page]",
+        "",
+        "You are lucky... whatever you did has",
+        "done the trick of deactivating the",
+        "blade's function.",
+        "[Page]",
+        "",
+        "You point out to Logre the moral",
+        "abhorrence of sacrificing the Vessels",
+        "and Sentinels he spent time with.",
+        "[Page]",
+        "",
+        "Logre casts his eyes down with a",
+        "pained look.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "\"...Yes, I know. Of course I know.",
+        "[Page]",
+        "",
+        "\"The Vessels and Sentinels are no",
+        "different than us. Have you seen the",
+        "human grave in the Sentinel cemetery?",
+        "[Page]",
+        "",
+        "\"I took one look at the sword by that",
+        "stone and knew. It's the tomb of the",
+        "Emperor who died beyond the barrier!",
+        "[Page]",
+        "",
+        "\"They comfort the wounded and mourn",
+        "when they die. There's no difference",
+        "between them and humans at all.",
+        "[Page]",
+        "",
+        "\"Ever since coming to know them, I",
+        "couldn't do it. I couldn't sacrifice",
+        "them...\" Logre raises his head.",
+        "[Page]",
+        "",
+        "\"The same went for you. When I saw",
+        "you breaking your backs to help the",
+        "Vessels and Sentinels, I...\"",
+        "[Page]",
+        "",
+        "You cannot imagine what goes through",
+        "his mind, but he balls his fists.",
+        "\"Go, [Guild]. I will follow.\"",
+        "[Page]",
+        "",
+        "\"And take this... it's a difficult",
+        "Burst Skill to control, but I'm",
+        "confident you can handle it.\"",
+        ""
+      ],
+      "Translation": [
+        "\"...Yes, I know. Of course I know.",
+        "[Page]",
+        "",
+        "\"The Vessels and Sentinels are no",
+        "different than us. Have you seen the",
+        "human grave in the Sentinel cemetery?",
+        "[Page]",
+        "",
+        "\"I took one look at the sword by that",
+        "stone and knew. It's the tomb of the",
+        "Emperor who died beyond the barrier!",
+        "[Page]",
+        "",
+        "\"They comfort the wounded and mourn",
+        "when they die. There's no difference",
+        "between them and humans at all.",
+        "[Page]",
+        "",
+        "\"Ever since coming to know them, I",
+        "couldn't do it. I couldn't sacrifice",
+        "them...\" Logre raises his head.",
+        "[Page]",
+        "",
+        "\"The same went for you. When I saw",
+        "you breaking your backs to help the",
+        "Vessels and Sentinels, I...\"",
+        "[Page]",
+        "",
+        "You cannot imagine what goes through",
+        "his mind, but he balls his fists.",
+        "\"Go, [Guild]. I will follow.\"",
+        "[Page]",
+        "",
+        "\"And take this... it's a difficult",
+        "Burst Skill to control, but I'm",
+        "confident you can handle it.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Logre's eyes grow wide to hear your",
+        "urging and he seems at a loss for",
+        "words.",
+        "[Page]",
+        "",
+        "He casts his eyes down, seeming",
+        "pained. You easily take away his",
+        "sword and stop the mechanism.",
+        "[Page]",
+        "",
+        "Still on his knees, Logre speaks",
+        "hollowly. \"These past ten years, His",
+        "Imperial Highness fought alone.",
+        "[Page]",
+        "",
+        "\"In his darkest hour, I could not be",
+        "at his side. It was in that state that",
+        "he grew into the man he is now.",
+        "[Page]",
+        "",
+        "\"What right do I have to rebuke him?",
+        "I could not say it... that the plan",
+        "he pursued for ten years was wrong...\"",
+        "[Page]",
+        "",
+        "\"But you are right. I cannot abandon",
+        "him either. Thus, I...\"",
+        ""
+      ],
+      "Translation": [
+        "Logre's eyes grow wide to hear your",
+        "urging and he seems at a loss for",
+        "words.",
+        "[Page]",
+        "",
+        "He casts his eyes down, seeming",
+        "pained. You easily take away his",
+        "sword and stop the mechanism.",
+        "[Page]",
+        "",
+        "Still on his knees, Logre speaks",
+        "hollowly. \"These past ten years, His",
+        "Imperial Highness fought alone.",
+        "[Page]",
+        "",
+        "\"In his darkest hour, I could not be",
+        "at his side. It was in that state that",
+        "he grew into the man he is now.",
+        "[Page]",
+        "",
+        "\"What right do I have to rebuke him?",
+        "I could not say it... that the plan",
+        "he pursued for ten years was wrong...\"",
+        "[Page]",
+        "",
+        "\"But you are right. I cannot abandon",
+        "him either. Thus, I...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "He raises his face to you again.",
+        ""
+      ],
+      "Translation": [
+        "He raises his face to you again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "\"Go, [Guild]. I will be shortly on",
+        "your heels.",
+        "[Page]",
+        "",
+        "\"And take this with you... it's a",
+        "difficult Burst Skill to control,",
+        "but I'm confident you can handle it.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Go, [Guild]. I will be shortly on",
+        "your heels.",
+        "[Page]",
+        "",
+        "\"And take this with you... it's a",
+        "difficult Burst Skill to control,",
+        "but I'm confident you can handle it.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]If you return here, you can add",
+        "Logre to your party as a guest.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Guests only stay in your party during",
+        "specific dungeons.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]In Logre's case, he will fight",
+        "at your side only on B3F of the",
+        "Echoing Library.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]If you return here, you can add",
+        "Logre to your party as a guest.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Guests only stay in your party during",
+        "specific dungeons.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]In Logre's case, he will fight",
+        "at your side only on B3F of the",
+        "Echoing Library.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "On seeing your outstretched hand,",
+        "he looks at you as if remembering",
+        "better days.",
+        "[Page]",
+        "",
+        "\"Your lenience is exceptional. Are you",
+        "asking me to come with you?",
+        "[Page]",
+        "",
+        "\"I had comrades, once... We served the",
+        "same master and worked for a common",
+        "goal. Together, we could do anything.",
+        "[Page]",
+        "",
+        "\"But... they are long passed. You must",
+        "know by now that everyone but me died",
+        "in the voyage through the barrier.",
+        "[Page]",
+        "",
+        "\"I bear the burden of my fallen",
+        "comrades. That's why I couldn't fail.\"",
+        "Logre looks away from you.",
+        "[Page]",
+        "",
+        "\"I had to carry out the mission at any",
+        "cost. I thought doing so would uphold",
+        "their honor.",
+        "[Page]",
+        "",
+        "\"But if they saw what the Empire was",
+        "doing now... I have no doubt at all",
+        "that they would try to stop it!",
+        "[Page]",
+        "",
+        "\"Their duty or their convictions...",
+        "Which is more important to uphold?",
+        "I...\"",
+        ""
+      ],
+      "Translation": [
+        "On seeing your outstretched hand,",
+        "he looks at you as if remembering",
+        "better days.",
+        "[Page]",
+        "",
+        "\"Your lenience is exceptional. Are you",
+        "asking me to come with you?",
+        "[Page]",
+        "",
+        "\"I had comrades, once... We served the",
+        "same master and worked for a common",
+        "goal. Together, we could do anything.",
+        "[Page]",
+        "",
+        "\"But... they are long passed. You must",
+        "know by now that everyone but me died",
+        "in the voyage through the barrier.",
+        "[Page]",
+        "",
+        "\"I bear the burden of my fallen",
+        "comrades. That's why I couldn't fail.\"",
+        "Logre looks away from you.",
+        "[Page]",
+        "",
+        "\"I had to carry out the mission at any",
+        "cost. I thought doing so would uphold",
+        "their honor.",
+        "[Page]",
+        "",
+        "\"But if they saw what the Empire was",
+        "doing now... I have no doubt at all",
+        "that they would try to stop it!",
+        "[Page]",
+        "",
+        "\"Their duty or their convictions...",
+        "Which is more important to uphold?",
+        "I...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "Before you sits Whirlwind... or,",
+        "rather, the Imperial knight Logre.",
+        "He quietly looks to you.",
+        "[Page]",
+        "",
+        "If you wish, you can ask him to",
+        "accompany your party.",
+        ""
+      ],
+      "Translation": [
+        "Before you sits Whirlwind... or,",
+        "rather, the Imperial knight Logre.",
+        "He quietly looks to you.",
+        "[Page]",
+        "",
+        "If you wish, you can ask him to",
+        "accompany your party.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Have Logre accompany you?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Have Logre accompany you?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Logre joins your party as a guest.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Logre joins your party as a guest.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "Preferring to hurry on ahead, you",
+        "politely decline his offer.",
+        "[Page]",
+        "",
+        "Though should you run into trouble",
+        "ahead, you suppose you could always",
+        "return here and ask for his help.",
+        ""
+      ],
+      "Translation": [
+        "Preferring to hurry on ahead, you",
+        "politely decline his offer.",
+        "[Page]",
+        "",
+        "Though should you run into trouble",
+        "ahead, you suppose you could always",
+        "return here and ask for his help.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "You silently nod to him and decide",
+        "to hurry on ahead.",
+        "[Page]",
+        "",
+        "Though should you run into trouble",
+        "ahead, you suppose you could always",
+        "return here and ask for his help.",
+        ""
+      ],
+      "Translation": [
+        "You silently nod to him and decide",
+        "to hurry on ahead.",
+        "[Page]",
+        "",
+        "Though should you run into trouble",
+        "ahead, you suppose you could always",
+        "return here and ask for his help.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "What awaits you in that small room",
+        "is the Imperial knight Logre, the",
+        "man you once knew as Whirlwind.",
+        ""
+      ],
+      "Translation": [
+        "What awaits you in that small room",
+        "is the Imperial knight Logre, the",
+        "man you once knew as Whirlwind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "He has no intention of stopping you.",
+        "The knight clad in black armor merely",
+        "gazes at you in silence.",
+        ""
+      ],
+      "Translation": [
+        "He has no intention of stopping you.",
+        "The knight clad in black armor merely",
+        "gazes at you in silence.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Logre leaves the party.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Logre leaves the party.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "You part with Logre at the exit",
+        "from B3F of the Echoing Library.",
+        "[Page]",
+        "",
+        "When you return, you have no doubt",
+        "that he will be waiting, ready to",
+        "fight by your side again.",
+        "[Page]",
+        "",
+        "You may find him in the room down",
+        "the stairs if you wish to ask him to",
+        "rejoin your party.",
+        ""
+      ],
+      "Translation": [
+        "You part with Logre at the exit",
+        "from B3F of the Echoing Library.",
+        "[Page]",
+        "",
+        "When you return, you have no doubt",
+        "that he will be waiting, ready to",
+        "fight by your side again.",
+        "[Page]",
+        "",
+        "You may find him in the room down",
+        "the stairs if you wish to ask him to",
+        "rejoin your party.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "You are currently in an immense",
+        "library, facing a corridor where",
+        "dangerous monsters roam.",
+        "[Page]",
+        "",
+        "You look toward the door further to",
+        "the north and can make out firefly-",
+        "like lights flickering near it!",
+        "[Page]",
+        "",
+        "The lights eventually fade...",
+        "[Page]",
+        "",
+        "You believe you recall a similar",
+        "phenomenon in the Misty Ravine.",
+        "[Page]",
+        "",
+        "It may be that the Medium is being",
+        "held captive past that door.",
+        "[Page]",
+        "",
+        "But beware... wherever the Medium is",
+        "to be found, you may be sure that the",
+        "Imperial Prince is also.",
+        ""
+      ],
+      "Translation": [
+        "You are currently in an immense",
+        "library, facing a corridor where",
+        "dangerous monsters roam.",
+        "[Page]",
+        "",
+        "You look toward the door further to",
+        "the north and can make out firefly-",
+        "like lights flickering near it!",
+        "[Page]",
+        "",
+        "The lights eventually fade...",
+        "[Page]",
+        "",
+        "You believe you recall a similar",
+        "phenomenon in the Misty Ravine.",
+        "[Page]",
+        "",
+        "It may be that the Medium is being",
+        "held captive past that door.",
+        "[Page]",
+        "",
+        "But beware... wherever the Medium is",
+        "to be found, you may be sure that the",
+        "Imperial Prince is also.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Beyond the open door is a giant hall,",
+        "large enough for a dragon to make",
+        "its roost.",
+        "[Page]",
+        "",
+        "Near the center, you can see the",
+        "Imperial Prince and the Medium!",
+        "[Page]",
+        "",
+        "The girl is lying limp as the Imperial",
+        "Prince supports her. Small orbs of",
+        "light flicker around her.",
+        "[Page]",
+        "",
+        "You rush toward the Medium...",
+        ""
+      ],
+      "Translation": [
+        "Beyond the open door is a giant hall,",
+        "large enough for a dragon to make",
+        "its roost.",
+        "[Page]",
+        "",
+        "Near the center, you can see the",
+        "Imperial Prince and the Medium!",
+        "[Page]",
+        "",
+        "The girl is lying limp as the Imperial",
+        "Prince supports her. Small orbs of",
+        "light flicker around her.",
+        "[Page]",
+        "",
+        "You rush toward the Medium...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "But at that very moment, a giant stone",
+        "statue falls from the ceiling!",
+        "[Page]",
+        "",
+        "The Imperial Prince turns his",
+        "attention to you and makes a clear-",
+        "voiced declaration.",
+        ""
+      ],
+      "Translation": [
+        "But at that very moment, a giant stone",
+        "statue falls from the ceiling!",
+        "[Page]",
+        "",
+        "The Imperial Prince turns his",
+        "attention to you and makes a clear-",
+        "voiced declaration.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "\"It is useless. Ordinary explorers",
+        "such as you have no right to challenge",
+        "one burdened with an entire people.",
+        "[Page]",
+        "",
+        "\"That holy tree was made for a lofty",
+        "purpose... for the sole aim of",
+        "purifying the tainted land...",
+        "[Page]",
+        "",
+        "\"That is Yggdrasil. The Vessels and",
+        "the Sentinels were created to nurture",
+        "and protect it.",
+        "[Page]",
+        "",
+        "\"Then why do we hesitate to use",
+        "Yggdrasil for its intended purpose",
+        "and sacrifice its caretakers?",
+        "[Page]",
+        "",
+        "\"The tragedy of our Empire could",
+        "befall you as well. The land is",
+        "hopelessly tainted.",
+        "[Page]",
+        "",
+        "\"Be you sure that within decades,",
+        "Tharsis will face the same problem.",
+        "What will your Outland Count do then?",
+        "[Page]",
+        "",
+        "\"When the burden is his, I think he",
+        "will not be swayed by cheap sentiment.",
+        "That will save nothing!\"",
+        ""
+      ],
+      "Translation": [
+        "\"It is useless. Ordinary explorers",
+        "such as you have no right to challenge",
+        "one burdened with an entire people.",
+        "[Page]",
+        "",
+        "\"That holy tree was made for a lofty",
+        "purpose... for the sole aim of",
+        "purifying the tainted land...",
+        "[Page]",
+        "",
+        "\"That is Yggdrasil. The Vessels and",
+        "the Sentinels were created to nurture",
+        "and protect it.",
+        "[Page]",
+        "",
+        "\"Then why do we hesitate to use",
+        "Yggdrasil for its intended purpose",
+        "and sacrifice its caretakers?",
+        "[Page]",
+        "",
+        "\"The tragedy of our Empire could",
+        "befall you as well. The land is",
+        "hopelessly tainted.",
+        "[Page]",
+        "",
+        "\"Be you sure that within decades,",
+        "Tharsis will face the same problem.",
+        "What will your Outland Count do then?",
+        "[Page]",
+        "",
+        "\"When the burden is his, I think he",
+        "will not be swayed by cheap sentiment.",
+        "That will save nothing!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "The Medium, who had been breathing",
+        "raggedly, opens her eyes and speaks",
+        "faintly to the Imperial Prince.",
+        ""
+      ],
+      "Translation": [
+        "The Medium, who had been breathing",
+        "raggedly, opens her eyes and speaks",
+        "faintly to the Imperial Prince.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "\"No... it is you who is mistaken.",
+        "How can you say such horrible things",
+        "about living beings...?",
+        "[Page]",
+        "",
+        "\"The ancient humans wanted to make the",
+        "world a better place. They made the",
+        "Vessels and Sentinels as companions.",
+        "[Page]",
+        "",
+        "\"They weren't created only to die.",
+        "[Page]",
+        "",
+        "\"Even Yggdrasil isn't saying that.",
+        "Yggdrasil doesn't want this... Please",
+        "just let it sleep...!\"",
+        ""
+      ],
+      "Translation": [
+        "\"No... it is you who is mistaken.",
+        "How can you say such horrible things",
+        "about living beings...?",
+        "[Page]",
+        "",
+        "\"The ancient humans wanted to make the",
+        "world a better place. They made the",
+        "Vessels and Sentinels as companions.",
+        "[Page]",
+        "",
+        "\"They weren't created only to die.",
+        "[Page]",
+        "",
+        "\"Even Yggdrasil isn't saying that.",
+        "Yggdrasil doesn't want this... Please",
+        "just let it sleep...!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "The Imperial Prince shows a rare",
+        "moment of sorrow in response to the",
+        "Medium's desperate plea.",
+        ""
+      ],
+      "Translation": [
+        "The Imperial Prince shows a rare",
+        "moment of sorrow in response to the",
+        "Medium's desperate plea.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "\"Medium... it is too late now.",
+        "I cannot turn back.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Medium... it is too late now.",
+        "I cannot turn back.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "The Imperial Prince raises his hand",
+        "before her and a bright light streams",
+        "out. The Medium falls to the ground.",
+        "[Page]",
+        "",
+        "As you are about to rush to her side,",
+        "the Prince directs a sharp glare at",
+        "you and yells out.",
+        "[Page]",
+        "",
+        "\"Obey the birthright of my blood,",
+        "[Enemy1:190]! Fulfill your duty",
+        "and dispose of these intruders!",
+        "[Page]",
+        "",
+        "As if responding to his directive,",
+        "a mechanical sound echoes from the",
+        "statue, which raises a fist at you!",
+        ""
+      ],
+      "Translation": [
+        "The Imperial Prince raises his hand",
+        "before her and a bright light streams",
+        "out. The Medium falls to the ground.",
+        "[Page]",
+        "",
+        "As you are about to rush to her side,",
+        "the Prince directs a sharp glare at",
+        "you and yells out.",
+        "[Page]",
+        "",
+        "\"Obey the birthright of my blood,",
+        "[Enemy1:190]! Fulfill your duty",
+        "and dispose of these intruders!",
+        "[Page]",
+        "",
+        "As if responding to his directive,",
+        "a mechanical sound echoes from the",
+        "statue, which raises a fist at you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "Logre takes a step forward. \"Listen to",
+        "her, Your Imperial Highness.\"",
+        "[Page]",
+        "",
+        "The Imperial Prince is shocked at the",
+        "unexpected resistance. The pain in his",
+        "eyes at Logre's betrayal is clear.",
+        "[Page]",
+        "",
+        "\"Forgive me, Your Imperial Highness,",
+        "but the plan needs to be reconsidered.",
+        "The cost is too high.",
+        "[Page]",
+        "",
+        "\"Have you forgotten that the Emperor",
+        "and the knights who gladly died for",
+        "this plan wanted no one to be hurt?\"",
+        "[Page]",
+        "",
+        "Logre speaks as if to challenge the",
+        "Imperial Prince wears at his soul, yet",
+        "his words pierce the Prince's heart.",
+        "[Page]",
+        "",
+        "He stands as if frozen to the spot.",
+        "When he finally speaks again, it is",
+        "with the tone of a whipped dog.",
+        ""
+      ],
+      "Translation": [
+        "Logre takes a step forward. \"Listen to",
+        "her, Your Imperial Highness.\"",
+        "[Page]",
+        "",
+        "The Imperial Prince is shocked at the",
+        "unexpected resistance. The pain in his",
+        "eyes at Logre's betrayal is clear.",
+        "[Page]",
+        "",
+        "\"Forgive me, Your Imperial Highness,",
+        "but the plan needs to be reconsidered.",
+        "The cost is too high.",
+        "[Page]",
+        "",
+        "\"Have you forgotten that the Emperor",
+        "and the knights who gladly died for",
+        "this plan wanted no one to be hurt?\"",
+        "[Page]",
+        "",
+        "Logre speaks as if to challenge the",
+        "Imperial Prince wears at his soul, yet",
+        "his words pierce the Prince's heart.",
+        "[Page]",
+        "",
+        "He stands as if frozen to the spot.",
+        "When he finally speaks again, it is",
+        "with the tone of a whipped dog.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "\"Logre... you too!? Will you abandon",
+        "me too!?\" The Imperial Prince's cry",
+        "echoes through the hall.",
+        "[Page]",
+        "",
+        "\"So be it! I have been alone these",
+        "ten years! I no longer need you to",
+        "finish the plan. You shall see!",
+        "[Page]",
+        "",
+        "\"I will protect my people in Father's",
+        "stead!\" the Imperial Prince shouts.",
+        "[Page]",
+        "",
+        "Surprised at the sudden mood swing,",
+        "the Medium reaches toward him, but",
+        "the Imperial Prince rejects even that.",
+        "[Page]",
+        "",
+        "\"Don't touch me!\" he yelps.",
+        ""
+      ],
+      "Translation": [
+        "\"Logre... you too!? Will you abandon",
+        "me too!?\" The Imperial Prince's cry",
+        "echoes through the hall.",
+        "[Page]",
+        "",
+        "\"So be it! I have been alone these",
+        "ten years! I no longer need you to",
+        "finish the plan. You shall see!",
+        "[Page]",
+        "",
+        "\"I will protect my people in Father's",
+        "stead!\" the Imperial Prince shouts.",
+        "[Page]",
+        "",
+        "Surprised at the sudden mood swing,",
+        "the Medium reaches toward him, but",
+        "the Imperial Prince rejects even that.",
+        "[Page]",
+        "",
+        "\"Don't touch me!\" he yelps.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Light pours from the hand that shoves",
+        "the Medium. After being struck by the",
+        "light, the Medium falls to the ground.",
+        "[Page]",
+        "",
+        "The Imperial Prince realizes his",
+        "error and drops to his knees. He takes",
+        "her hand... but she does not move.",
+        "[Page]",
+        "",
+        "\"Ah... Aaaaaaaaah!\"",
+        "[Page]",
+        "",
+        "His scream is heartrending. As if in",
+        "response to it, the statue rumbles to",
+        "life and raises a fist at you!",
+        ""
+      ],
+      "Translation": [
+        "Light pours from the hand that shoves",
+        "the Medium. After being struck by the",
+        "light, the Medium falls to the ground.",
+        "[Page]",
+        "",
+        "The Imperial Prince realizes his",
+        "error and drops to his knees. He takes",
+        "her hand... but she does not move.",
+        "[Page]",
+        "",
+        "\"Ah... Aaaaaaaaah!\"",
+        "[Page]",
+        "",
+        "His scream is heartrending. As if in",
+        "response to it, the statue rumbles to",
+        "life and raises a fist at you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "You barely manage to destroy the",
+        "[Enemy1:190], but the Imperial",
+        "Prince is nowhere to be seen.",
+        "[Page]",
+        "",
+        "All you see is something like an",
+        "altar further inside the room.",
+        ""
+      ],
+      "Translation": [
+        "You barely manage to destroy the",
+        "[Enemy1:190], but the Imperial",
+        "Prince is nowhere to be seen.",
+        "[Page]",
+        "",
+        "All you see is something like an",
+        "altar further inside the room.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "\"He's gone past the altar. Why... why",
+        "won't he reconsider...!?\" Logre balls",
+        "his fists, too upset for words.",
+        ""
+      ],
+      "Translation": [
+        "\"He's gone past the altar. Why... why",
+        "won't he reconsider...!?\" Logre balls",
+        "his fists, too upset for words.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "It seems Logre entered the room",
+        "without you noticing. His speech",
+        "to you is grim.",
+        ""
+      ],
+      "Translation": [
+        "It seems Logre entered the room",
+        "without you noticing. His speech",
+        "to you is grim.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": false,
+      "Original": [
+        "\"We can assume that bright light was",
+        "the final adjustment to the Medium.",
+        "She's most likely unconscious now.",
+        "[Page]",
+        "",
+        "\"All that remains for him is to return",
+        "the Medium and the Titan's Heart to",
+        "reactivate Yggdrasil's power...\"",
+        ""
+      ],
+      "Translation": [
+        "\"We can assume that bright light was",
+        "the final adjustment to the Medium.",
+        "She's most likely unconscious now.",
+        "[Page]",
+        "",
+        "\"All that remains for him is to return",
+        "the Medium and the Titan's Heart to",
+        "reactivate Yggdrasil's power...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "No sooner does Logre finish speaking",
+        "than you feel a tremendous jolt",
+        "throughout the labyrinth.",
+        "[Page]",
+        "",
+        "\"That quake... Has it begun already!?\"",
+        "Logre manages to keep his balance,",
+        "but his face is far from poised.",
+        ""
+      ],
+      "Translation": [
+        "No sooner does Logre finish speaking",
+        "than you feel a tremendous jolt",
+        "throughout the labyrinth.",
+        "[Page]",
+        "",
+        "\"That quake... Has it begun already!?\"",
+        "Logre manages to keep his balance,",
+        "but his face is far from poised.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "Furrowing his brow, he darts out of",
+        "the room.",
+        ""
+      ],
+      "Translation": [
+        "Furrowing his brow, he darts out of",
+        "the room.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": false,
+      "Original": [
+        "Logre quickly stops the mechanism in",
+        "his blade and stands up reassuringly.",
+        ""
+      ],
+      "Translation": [
+        "Logre quickly stops the mechanism in",
+        "his blade and stands up reassuringly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": false,
+      "Original": [
+        "\"Throwing my life away and doing",
+        "nothing would be a desecration of",
+        "their memory.",
+        "[Page]",
+        "",
+        "\"If you will lend your hand to me,",
+        "I will be the man I was then. I will",
+        "stop the Empire in their stead.",
+        "[Page]",
+        "",
+        "\"Here, take this... It's a difficult",
+        "Burst Skill to control, but I'm",
+        "confident you can handle it.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Throwing my life away and doing",
+        "nothing would be a desecration of",
+        "their memory.",
+        "[Page]",
+        "",
+        "\"If you will lend your hand to me,",
+        "I will be the man I was then. I will",
+        "stop the Empire in their stead.",
+        "[Page]",
+        "",
+        "\"Here, take this... It's a difficult",
+        "Burst Skill to control, but I'm",
+        "confident you can handle it.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Guests only stay in your party during",
+        "specific dungeons.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]In Logre's case, he will fight",
+        "at your side only on B3F of the",
+        "Echoing Library.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Guests only stay in your party during",
+        "specific dungeons.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]In Logre's case, he will fight",
+        "at your side only on B3F of the",
+        "Echoing Library.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "You return to Tharsis.",
+        "[Page]",
+        "",
+        "As you contemplate your next step,",
+        "you notice an uproar in the city",
+        "square not far from here.",
+        ""
+      ],
+      "Translation": [
+        "You return to Tharsis.",
+        "[Page]",
+        "",
+        "As you contemplate your next step,",
+        "you notice an uproar in the city",
+        "square not far from here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil slowly withers before",
+        "your eyes!",
+        "[Page]",
+        "",
+        "The leaves fall, one after another,",
+        "and the bark grows colorless. Within",
+        "minutes, Yggdrasil is withered away.",
+        "[Page]",
+        "",
+        "There follows a cracking sound, like",
+        "Yggdrasil's own scream, as the mighty",
+        "tree slowly collapses!",
+        "[Page]",
+        "",
+        "Unable to bear its own weight after",
+        "growing so brittle, Yggdrasil splits",
+        "halfway up its trunk and falls down.",
+        "[Page]",
+        "",
+        "Everyone in the city square stares",
+        "into the northern sky, stunned...",
+        ""
+      ],
+      "Translation": [
+        "Yggdrasil slowly withers before",
+        "your eyes!",
+        "[Page]",
+        "",
+        "The leaves fall, one after another,",
+        "and the bark grows colorless. Within",
+        "minutes, Yggdrasil is withered away.",
+        "[Page]",
+        "",
+        "There follows a cracking sound, like",
+        "Yggdrasil's own scream, as the mighty",
+        "tree slowly collapses!",
+        "[Page]",
+        "",
+        "Unable to bear its own weight after",
+        "growing so brittle, Yggdrasil splits",
+        "halfway up its trunk and falls down.",
+        "[Page]",
+        "",
+        "Everyone in the city square stares",
+        "into the northern sky, stunned...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, you're here... Yes, I understand.",
+        "To think such a tragedy could befall",
+        "Yggdrasil...",
+        "[Page]",
+        "",
+        "\"I'm sorry, I can't think of anything",
+        "to say. The words won't come... Go on",
+        "and report your mission results.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, you're here... Yes, I understand.",
+        "To think such a tragedy could befall",
+        "Yggdrasil...",
+        "[Page]",
+        "",
+        "\"I'm sorry, I can't think of anything",
+        "to say. The words won't come... Go on",
+        "and report your mission results.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your skyship can now fly at extremely",
+        "high altitudes.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your skyship can now fly at extremely",
+        "high altitudes.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "Everyone is facing north with despair",
+        "on their faces.",
+        "[Page]",
+        "",
+        "You look northward with confusion and",
+        "immediately understand what has caused",
+        "such widespread loss of hope.",
+        ""
+      ],
+      "Translation": [
+        "Everyone is facing north with despair",
+        "on their faces.",
+        "[Page]",
+        "",
+        "You look northward with confusion and",
+        "immediately understand what has caused",
+        "such widespread loss of hope.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": false,
+      "Original": [
+        "After concluding your venture into the",
+        "sky, you return to Tharsis, where you",
+        "are greeted by a pale wharf master.",
+        ""
+      ],
+      "Translation": [
+        "After concluding your venture into the",
+        "sky, you return to Tharsis, where you",
+        "are greeted by a pale wharf master.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "\"Thank heaven yeh're all right,",
+        "[Guild]. I'll guess from your",
+        "face that yeh didn't notice...",
+        "[Page]",
+        "",
+        "\"But the Emergency Pole yeh set in",
+        "the Cloudy Stronghold is busted.",
+        "The Empire's doing, of course.",
+        "[Page]",
+        "",
+        "\"Seems like they're dead set on not",
+        "letting yeh near the Echoing Library.",
+        "Be careful where yeh set your Pole.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Thank heaven yeh're all right,",
+        "[Guild]. I'll guess from your",
+        "face that yeh didn't notice...",
+        "[Page]",
+        "",
+        "\"But the Emergency Pole yeh set in",
+        "the Cloudy Stronghold is busted.",
+        "The Empire's doing, of course.",
+        "[Page]",
+        "",
+        "\"Seems like they're dead set on not",
+        "letting yeh near the Echoing Library.",
+        "Be careful where yeh set your Pole.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": false,
+      "Original": [
+        "While the Empire patrols the skies,",
+        "Emergency Poles set in certain parts",
+        "of the Stronghold will be destroyed.",
+        "[Page]",
+        "",
+        "Take caution when using an",
+        "[Color:6][Item:2186][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "While the Empire patrols the skies,",
+        "Emergency Poles set in certain parts",
+        "of the Stronghold will be destroyed.",
+        "[Page]",
+        "",
+        "Take caution when using an",
+        "[Color:6][Item:2186][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The Emergency Pole you set has been",
+        "destroyed.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The Emergency Pole you set has been",
+        "destroyed.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

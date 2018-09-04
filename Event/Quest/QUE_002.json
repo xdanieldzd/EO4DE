@@ -1,0 +1,637 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_002",
+  "RelativePath": "Event\\Quest\\QUE_002.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request comes from the Berund",
+        "Atelier. They are keenly interested",
+        "in materials for a sword.",
+        "[Page]",
+        "",
+        "They can supply you with more details",
+        "of the task at the Atelier. I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That request comes from the Berund",
+        "Atelier. They are keenly interested",
+        "in materials for a sword.",
+        "[Page]",
+        "",
+        "They can supply you with more details",
+        "of the task at the Atelier. I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. You have completed this",
+        "request, I take it? Thank you for",
+        "your hard work.",
+        "[Page]",
+        "",
+        "There have been scant few requests",
+        "from civilians at this bar.",
+        "[Page]",
+        "",
+        "You might think of quests as a bridge",
+        "between you and the citizenry here.",
+        "[Page]",
+        "",
+        "Here are the [Item:1355]s that",
+        "constitute your reward. Now you will",
+        "not have to buy one next time, yes?",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. You have completed this",
+        "request, I take it? Thank you for",
+        "your hard work.",
+        "[Page]",
+        "",
+        "There have been scant few requests",
+        "from civilians at this bar.",
+        "[Page]",
+        "",
+        "You might think of quests as a bridge",
+        "between you and the citizenry here.",
+        "[Page]",
+        "",
+        "Here are the [Item:1355]s that",
+        "constitute your reward. Now you will",
+        "not have to buy one next time, yes?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "The requested [Color:6][Item:929][Color:0]s for the Berund",
+        "Atelier have been collected. You need",
+        "only sell them to the shop now.",
+        ""
+      ],
+      "Translation": [
+        "The requested [Color:6][Item:929][Color:0]s for the Berund",
+        "Atelier have been collected. You need",
+        "only sell them to the shop now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, it's da [Guild] crew.",
+        "Welco--huh? Da request?",
+        "[Page]",
+        "",
+        "\"Oh, dag! I forgot ta take down dat",
+        "request even after we got da stuff",
+        "ta make more [Color:6][Item:2][Color:0]es!",
+        "[Page]",
+        "",
+        "\"But... a request's a request! We'll",
+        "pay ya da reward anyways, so don't",
+        "worry about dat.",
+        "[Page]",
+        "",
+        "\"But, uh, heheh, maybe ya could",
+        "forget ta tell my boss about dis?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, it's da [Guild] crew.",
+        "Welco--huh? Da request?",
+        "[Page]",
+        "",
+        "\"Oh, dag! I forgot ta take down dat",
+        "request even after we got da stuff",
+        "ta make more [Color:6][Item:2][Color:0]es!",
+        "[Page]",
+        "",
+        "\"But... a request's a request! We'll",
+        "pay ya da reward anyways, so don't",
+        "worry about dat.",
+        "[Page]",
+        "",
+        "\"But, uh, heheh, maybe ya could",
+        "forget ta tell my boss about dis?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, so ya took dat request, huh?",
+        "Lotta explorers been coming around",
+        "lately. I'm outta junk for swords.",
+        "[Page]",
+        "",
+        "\"So I want yas to get me [Color:5]two[Color:0] of dem",
+        "[Color:6][Item:929][Color:0]s. Dem [Color:5][Enemy1:3][Color:0]s out in da",
+        "Lush Woodlands drop em.",
+        "[Page]",
+        "",
+        "\"Huh? Ya already gots some? Just what",
+        "I esspected from da [Guild] crew!",
+        "Bang on target!",
+        "[Page]",
+        "",
+        "\"OK, just sell em ta me. Don't worry.",
+        "Da money yas get for selling em ain't",
+        "part of da quest reward.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, so ya took dat request, huh?",
+        "Lotta explorers been coming around",
+        "lately. I'm outta junk for swords.",
+        "[Page]",
+        "",
+        "\"So I want yas to get me [Color:5]two[Color:0] of dem",
+        "[Color:6][Item:929][Color:0]s. Dem [Color:5][Enemy1:3][Color:0]s out in da",
+        "Lush Woodlands drop em.",
+        "[Page]",
+        "",
+        "\"Huh? Ya already gots some? Just what",
+        "I esspected from da [Guild] crew!",
+        "Bang on target!",
+        "[Page]",
+        "",
+        "\"OK, just sell em ta me. Don't worry.",
+        "Da money yas get for selling em ain't",
+        "part of da quest reward.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, so ya took dat request, huh?",
+        "Lotta explorers been coming around",
+        "lately. I'm outta junk for swords.",
+        "[Page]",
+        "",
+        "\"So I want yas to get me [Color:5]two[Color:0] of dem",
+        "[Color:6][Item:929][Color:0]s. Dem [Color:5][Enemy1:3][Color:0]s out in da",
+        "Lush Woodlands drop em.",
+        "[Page]",
+        "",
+        "\"When ya gots em, come sell em ta",
+        "me. Don't worry, da money yas get for",
+        "selling em ain't part of da reward.\"",
+        "[Page]",
+        "",
+        "\"I'm counting on yas! Buh-bye!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, so ya took dat request, huh?",
+        "Lotta explorers been coming around",
+        "lately. I'm outta junk for swords.",
+        "[Page]",
+        "",
+        "\"So I want yas to get me [Color:5]two[Color:0] of dem",
+        "[Color:6][Item:929][Color:0]s. Dem [Color:5][Enemy1:3][Color:0]s out in da",
+        "Lush Woodlands drop em.",
+        "[Page]",
+        "",
+        "\"When ya gots em, come sell em ta",
+        "me. Don't worry, da money yas get for",
+        "selling em ain't part of da reward.\"",
+        "[Page]",
+        "",
+        "\"I'm counting on yas! Buh-bye!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "For a [Item:2], I gotta have two",
+        "[Item:929]s from dose [Enemy1:3]s.",
+        "I'm counting on yas!",
+        ""
+      ],
+      "Translation": [
+        "For a [Item:2], I gotta have two",
+        "[Item:929]s from dose [Enemy1:3]s.",
+        "I'm counting on yas!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "When ya get em, come sell em ta",
+        "me. Den da request's complete!",
+        ""
+      ],
+      "Translation": [
+        "When ya get em, come sell em ta",
+        "me. Den da request's complete!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "\"Now dat we got da [Item:929]s, we can",
+        "finally carry dose [Color:6][Item:2][Color:0]es again!",
+        "[Page]",
+        "",
+        "\"Dat sword's real popular wit",
+        "explorers since it's cheap, sturdy,",
+        "and easy ta use. I recommend it!",
+        "[Page]",
+        "",
+        "\"Well, tanks a lot! Ya can get da",
+        "reward from dat lady at da bar.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Now dat we got da [Item:929]s, we can",
+        "finally carry dose [Color:6][Item:2][Color:0]es again!",
+        "[Page]",
+        "",
+        "\"Dat sword's real popular wit",
+        "explorers since it's cheap, sturdy,",
+        "and easy ta use. I recommend it!",
+        "[Page]",
+        "",
+        "\"Well, tanks a lot! Ya can get da",
+        "reward from dat lady at da bar.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey, ya gots a minute?",
+        "[Page]",
+        "",
+        "\"Now dat we got da [Item:929]s, we can",
+        "finally carry dose [Color:6][Item:2][Color:0]es again!",
+        "[Page]",
+        "",
+        "\"Dat sword's real popular wit",
+        "explorers since it's cheap, sturdy,",
+        "and easy ta use. I recommend it!",
+        "[Page]",
+        "",
+        "\"Well, tanks a lot! Ya can get da",
+        "reward from dat lady at da bar.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hey, ya gots a minute?",
+        "[Page]",
+        "",
+        "\"Now dat we got da [Item:929]s, we can",
+        "finally carry dose [Color:6][Item:2][Color:0]es again!",
+        "[Page]",
+        "",
+        "\"Dat sword's real popular wit",
+        "explorers since it's cheap, sturdy,",
+        "and easy ta use. I recommend it!",
+        "[Page]",
+        "",
+        "\"Well, tanks a lot! Ya can get da",
+        "reward from dat lady at da bar.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

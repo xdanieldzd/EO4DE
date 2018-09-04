@@ -1,0 +1,1138 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_039",
+  "RelativePath": "Event\\Quest\\QUE_039.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Thank goodness you have come! Are you",
+        "going to accept that request? Oh, but",
+        "you must!",
+        "[Page]",
+        "",
+        "A well-known gourmand is making absurd",
+        "orders at the inn and giving Dalla",
+        "the hardest of times.",
+        "[Page]",
+        "",
+        "I have heard rumors about him, but I",
+        "never thought he would show his face",
+        "in Tharsis...",
+        "[Page]",
+        "",
+        "He has allegedly driven hundreds of",
+        "inns and restaurants out of business!",
+        "Go! Quickly! To the inn!",
+        ""
+      ],
+      "Translation": [
+        "Thank goodness you have come! Are you",
+        "going to accept that request? Oh, but",
+        "you must!",
+        "[Page]",
+        "",
+        "A well-known gourmand is making absurd",
+        "orders at the inn and giving Dalla",
+        "the hardest of times.",
+        "[Page]",
+        "",
+        "I have heard rumors about him, but I",
+        "never thought he would show his face",
+        "in Tharsis...",
+        "[Page]",
+        "",
+        "He has allegedly driven hundreds of",
+        "inns and restaurants out of business!",
+        "Go! Quickly! To the inn!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, you have returned. Welcome back.",
+        "[Page]",
+        "",
+        "The gourmand just fled from the inn",
+        "with tears, snot, and assorted other",
+        "fluids staining his face...",
+        "[Page]",
+        "",
+        "Was this your work? No? It wasn't...?",
+        "[Page]",
+        "",
+        "Hmm...",
+        "[Page]",
+        "",
+        "Well... Er... The request is complete,",
+        "at least. I have no complaints.",
+        "I again thank you for your hard work.",
+        ""
+      ],
+      "Translation": [
+        "Ah, you have returned. Welcome back.",
+        "[Page]",
+        "",
+        "The gourmand just fled from the inn",
+        "with tears, snot, and assorted other",
+        "fluids staining his face...",
+        "[Page]",
+        "",
+        "Was this your work? No? It wasn't...?",
+        "[Page]",
+        "",
+        "Hmm...",
+        "[Page]",
+        "",
+        "Well... Er... The request is complete,",
+        "at least. I have no complaints.",
+        "I again thank you for your hard work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Oh my, the [Guild] Guild. Welcome.",
+        "[Page]",
+        "",
+        "My request? Oh! Yes. We have a guest",
+        "right now who is just... unpleasable,",
+        "and I'm having trouble handling him.",
+        "[Page]",
+        "",
+        "He asks for things I can't understand,",
+        "like, [Color:5]\"Bring me a dish that makes",
+        "one strong!\"[Color:0]",
+        "[Page]",
+        "",
+        "Do you explorers know what he means?",
+        "I need you to gather ingredients that",
+        "fit his order into this wooden box.",
+        ""
+      ],
+      "Translation": [
+        "Oh my, the [Guild] Guild. Welcome.",
+        "[Page]",
+        "",
+        "My request? Oh! Yes. We have a guest",
+        "right now who is just... unpleasable,",
+        "and I'm having trouble handling him.",
+        "[Page]",
+        "",
+        "He asks for things I can't understand,",
+        "like, [Color:5]\"Bring me a dish that makes",
+        "one strong!\"[Color:0]",
+        "[Page]",
+        "",
+        "Do you explorers know what he means?",
+        "I need you to gather ingredients that",
+        "fit his order into this wooden box.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "When you have the ingredients, please",
+        "bring them back to me.",
+        ""
+      ],
+      "Translation": [
+        "When you have the ingredients, please",
+        "bring them back to me.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You obtained [Color:6][Number:1][Color:0]!",
+        "[Page]",
+        "",
+        "If you believe it fits the gourmand's",
+        "demand for a [Color:5]\"dish that makes one",
+        "strong,\"[Color:0] you may put it into the box.",
+        ""
+      ],
+      "Translation": [
+        "You obtained [Color:6][Number:1][Color:0]!",
+        "[Page]",
+        "",
+        "If you believe it fits the gourmand's",
+        "demand for a [Color:5]\"dish that makes one",
+        "strong,\"[Color:0] you may put it into the box.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Put [Color:6][Number:1][Color:5] in the box?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Put [Color:6][Number:1][Color:5] in the box?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "You put the [Number:1] into",
+        "the wooden box. All that remains",
+        "is to take this to the inn...",
+        ""
+      ],
+      "Translation": [
+        "You put the [Number:1] into",
+        "the wooden box. All that remains",
+        "is to take this to the inn...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to put the [Number:1]",
+        "with the rest of your possessions",
+        "rather than into the wooden box.",
+        ""
+      ],
+      "Translation": [
+        "You decide to put the [Number:1]",
+        "with the rest of your possessions",
+        "rather than into the wooden box.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, welcome back, dearies. Did you",
+        "find something for, ahem, a [Color:5]\"dish",
+        "that makes one strong\"[Color:0]?",
+        "[Page]",
+        "",
+        "Oh, this [Color:6][Number:1][Color:0]... You're",
+        "all sure about this? All right, then,",
+        "I trust you, dears.",
+        "[Page]",
+        "",
+        "Well, I'd best go prepare something",
+        "quickly for that man. Please wait...",
+        ""
+      ],
+      "Translation": [
+        "Oh, welcome back, dearies. Did you",
+        "find something for, ahem, a [Color:5]\"dish",
+        "that makes one strong\"[Color:0]?",
+        "[Page]",
+        "",
+        "Oh, this [Color:6][Number:1][Color:0]... You're",
+        "all sure about this? All right, then,",
+        "I trust you, dears.",
+        "[Page]",
+        "",
+        "Well, I'd best go prepare something",
+        "quickly for that man. Please wait...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You were right, dearies! Spot on!",
+        "Our guest was very satisfied. I knew",
+        "I was right to believe in you!",
+        "[Page]",
+        "",
+        "But then... right after his meal was",
+        "done, he put in another ridiculous",
+        "order...",
+        "[Page]",
+        "",
+        "This time, he asked for something",
+        "silly, like [Color:5]\"a dish that can make",
+        "me smart\"[Color:0]...",
+        "[Page]",
+        "",
+        "I'm very sorry, but can I trouble you",
+        "once more? I'll make sure to add",
+        "something extra to the reward...",
+        ""
+      ],
+      "Translation": [
+        "You were right, dearies! Spot on!",
+        "Our guest was very satisfied. I knew",
+        "I was right to believe in you!",
+        "[Page]",
+        "",
+        "But then... right after his meal was",
+        "done, he put in another ridiculous",
+        "order...",
+        "[Page]",
+        "",
+        "This time, he asked for something",
+        "silly, like [Color:5]\"a dish that can make",
+        "me smart\"[Color:0]...",
+        "[Page]",
+        "",
+        "I'm very sorry, but can I trouble you",
+        "once more? I'll make sure to add",
+        "something extra to the reward...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, dearies, I'm afraid you had it",
+        "wrong. The guest was so mad, he broke",
+        "my table...",
+        "[Page]",
+        "",
+        "Whatever that [Number:1] was,",
+        "it wasn't what he wanted... I'm sorry,",
+        "but can you all try one more time?",
+        ""
+      ],
+      "Translation": [
+        "Oh, dearies, I'm afraid you had it",
+        "wrong. The guest was so mad, he broke",
+        "my table...",
+        "[Page]",
+        "",
+        "Whatever that [Number:1] was,",
+        "it wasn't what he wanted... I'm sorry,",
+        "but can you all try one more time?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "It's supposed to be \"a dish that makes",
+        "one strong.\"",
+        ""
+      ],
+      "Translation": [
+        "It's supposed to be \"a dish that makes",
+        "one strong.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You obtained [Color:6][Number:1][Color:0]!",
+        "[Page]",
+        "",
+        "If you believe it fits the gourmand's",
+        "demand for a [Color:5]\"dish that makes one",
+        "smart,\"[Color:0] you may put it into the box.",
+        ""
+      ],
+      "Translation": [
+        "You obtained [Color:6][Number:1][Color:0]!",
+        "[Page]",
+        "",
+        "If you believe it fits the gourmand's",
+        "demand for a [Color:5]\"dish that makes one",
+        "smart,\"[Color:0] you may put it into the box.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, welcome back, dearies. Did you",
+        "find something for, ahem, a [Color:5]\"dish",
+        "that makes one smart\"[Color:0]?",
+        "[Page]",
+        "",
+        "Oh, this [Color:6][Number:1][Color:0]... You're",
+        "all sure about this? All right, then,",
+        "I trust you, dears.",
+        "[Page]",
+        "",
+        "Well, I'd best go prepare something",
+        "quickly for that man. Please wait...",
+        ""
+      ],
+      "Translation": [
+        "Oh, welcome back, dearies. Did you",
+        "find something for, ahem, a [Color:5]\"dish",
+        "that makes one smart\"[Color:0]?",
+        "[Page]",
+        "",
+        "Oh, this [Color:6][Number:1][Color:0]... You're",
+        "all sure about this? All right, then,",
+        "I trust you, dears.",
+        "[Page]",
+        "",
+        "Well, I'd best go prepare something",
+        "quickly for that man. Please wait...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "You were right, dearies! Spot on!",
+        "Our guest was very satisfied. I knew",
+        "I was right to believe in you!",
+        "[Page]",
+        "",
+        "But then... right after his meal was",
+        "done, he put in another ridiculous",
+        "order...",
+        "[Page]",
+        "",
+        "This time, he made the craziest",
+        "demand! He said, [Color:5]\"I want to eat a",
+        "[Enemy1:109]' favorite food\"[Color:0]...",
+        "[Page]",
+        "",
+        "I'm very sorry, but can I trouble you",
+        "once more? I'll make sure to add",
+        "something extra to the reward...",
+        ""
+      ],
+      "Translation": [
+        "You were right, dearies! Spot on!",
+        "Our guest was very satisfied. I knew",
+        "I was right to believe in you!",
+        "[Page]",
+        "",
+        "But then... right after his meal was",
+        "done, he put in another ridiculous",
+        "order...",
+        "[Page]",
+        "",
+        "This time, he made the craziest",
+        "demand! He said, [Color:5]\"I want to eat a",
+        "[Enemy1:109]' favorite food\"[Color:0]...",
+        "[Page]",
+        "",
+        "I'm very sorry, but can I trouble you",
+        "once more? I'll make sure to add",
+        "something extra to the reward...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, dearies, I'm afraid you had it",
+        "wrong. The guest was so mad, he broke",
+        "my table...",
+        "[Page]",
+        "",
+        "Whatever that [Number:1] was,",
+        "it wasn't what he wanted... I'm sorry,",
+        "but can you all try one more time?",
+        ""
+      ],
+      "Translation": [
+        "Oh, dearies, I'm afraid you had it",
+        "wrong. The guest was so mad, he broke",
+        "my table...",
+        "[Page]",
+        "",
+        "Whatever that [Number:1] was,",
+        "it wasn't what he wanted... I'm sorry,",
+        "but can you all try one more time?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "It's supposed to be \"a dish that makes",
+        "one smart.\"",
+        ""
+      ],
+      "Translation": [
+        "It's supposed to be \"a dish that makes",
+        "one smart.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You obtained [Color:6][Number:1][Color:0]!",
+        "[Page]",
+        "",
+        "If you believe it fits the gourmand's",
+        "demand for [Color:5]\"the [Enemy1:109]' favorite",
+        "food,\"[Color:0] you may put it into the box.",
+        ""
+      ],
+      "Translation": [
+        "You obtained [Color:6][Number:1][Color:0]!",
+        "[Page]",
+        "",
+        "If you believe it fits the gourmand's",
+        "demand for [Color:5]\"the [Enemy1:109]' favorite",
+        "food,\"[Color:0] you may put it into the box.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, welcome back, dearies. Did you",
+        "find something for, ahem, [Color:5]\"the",
+        "[Enemy1:109]' favorite food\"[Color:0]?",
+        "[Page]",
+        "",
+        "Oh, this [Color:6][Number:1][Color:0]... You're",
+        "all sure about this? All right, then,",
+        "I trust you, dears.",
+        "[Page]",
+        "",
+        "Well, I'd best go prepare something",
+        "quickly for that man. Please wait...",
+        ""
+      ],
+      "Translation": [
+        "Oh, welcome back, dearies. Did you",
+        "find something for, ahem, [Color:5]\"the",
+        "[Enemy1:109]' favorite food\"[Color:0]?",
+        "[Page]",
+        "",
+        "Oh, this [Color:6][Number:1][Color:0]... You're",
+        "all sure about this? All right, then,",
+        "I trust you, dears.",
+        "[Page]",
+        "",
+        "Well, I'd best go prepare something",
+        "quickly for that man. Please wait...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "You were right, dearies! Spot on!",
+        "Our guest was very satisfied. I knew",
+        "I was right to believe in you!",
+        "[Page]",
+        "",
+        "But then... right after his meal was",
+        "done, he put in another ridiculous",
+        "order...",
+        "[Page]",
+        "",
+        "He's no guest, he's just a pest off",
+        "the street. And I have an idea...",
+        "[Page]",
+        "",
+        "Thank you so much for all you've done",
+        "to help me with him, dearies. Go on",
+        "to the bar and tell Kirtida about it.",
+        ""
+      ],
+      "Translation": [
+        "You were right, dearies! Spot on!",
+        "Our guest was very satisfied. I knew",
+        "I was right to believe in you!",
+        "[Page]",
+        "",
+        "But then... right after his meal was",
+        "done, he put in another ridiculous",
+        "order...",
+        "[Page]",
+        "",
+        "He's no guest, he's just a pest off",
+        "the street. And I have an idea...",
+        "[Page]",
+        "",
+        "Thank you so much for all you've done",
+        "to help me with him, dearies. Go on",
+        "to the bar and tell Kirtida about it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, dearies, I'm afraid you had it",
+        "wrong. The guest was so mad, he broke",
+        "my table...",
+        "[Page]",
+        "",
+        "Whatever that [Number:1] was,",
+        "it wasn't what he wanted... I'm sorry,",
+        "but can you all try one more time?",
+        ""
+      ],
+      "Translation": [
+        "Oh, dearies, I'm afraid you had it",
+        "wrong. The guest was so mad, he broke",
+        "my table...",
+        "[Page]",
+        "",
+        "Whatever that [Number:1] was,",
+        "it wasn't what he wanted... I'm sorry,",
+        "but can you all try one more time?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "It's supposed to be \"the [Enemy1:109]'",
+        "favorite food.\"",
+        ""
+      ],
+      "Translation": [
+        "It's supposed to be \"the [Enemy1:109]'",
+        "favorite food.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "Temporary Text.",
+        "I cannot wait!",
+        ""
+      ],
+      "Translation": [
+        "Temporary Text.",
+        "I cannot wait!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": true,
+      "Original": [
+        "Temporary Text.",
+        "Don't fail it.",
+        ""
+      ],
+      "Translation": [
+        "Temporary Text.",
+        "Don't fail it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": true,
+      "Original": [
+        "Temporary Text.",
+        "I cannot wait!",
+        ""
+      ],
+      "Translation": [
+        "Temporary Text.",
+        "I cannot wait!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": true,
+      "Original": [
+        "Temporary Text.",
+        "Aw, da [Guild] crew!",
+        "Don't I gots da worst accent?",
+        ""
+      ],
+      "Translation": [
+        "Temporary Text.",
+        "Aw, da [Guild] crew!",
+        "Don't I gots da worst accent?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": true,
+      "Original": [
+        "Temporary Text.",
+        "I cannot wait!",
+        ""
+      ],
+      "Translation": [
+        "Temporary Text.",
+        "I cannot wait!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

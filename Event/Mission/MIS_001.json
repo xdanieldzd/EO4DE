@@ -1,0 +1,1925 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "MIS_001",
+  "RelativePath": "Event\\Mission\\MIS_001.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Until now, the greatest threat we'd",
+        "known in the Lush Woodlands were the",
+        "black bears... the [Enemy1:84]s.",
+        "[Page]",
+        "",
+        "But now we're getting reports of a",
+        "bear with red fur, as if stained with",
+        "blood. It seems much more fearsome.",
+        "[Page]",
+        "",
+        "Encountering new species means, on the",
+        "one hand, that our explorations are",
+        "advancing, but we can't celebrate yet.",
+        "[Page]",
+        "",
+        "Not after these casualties. It's safe",
+        "to say that this red-furred beast has",
+        "the run of the lower floors.",
+        "[Page]",
+        "",
+        "And so I have issued a mission to",
+        "[Color:5]eliminate the threat lurking in the",
+        "Lush Woodlands[Color:0]!",
+        "[Page]",
+        "",
+        "We must secure our explorers' safety",
+        "by eradicating whatever thwarts our",
+        "search, starting with this beast.",
+        "[Page]",
+        "",
+        "The mission will be more dangerous",
+        "than any you have faced, so it would",
+        "not do for you to be unprepared.",
+        "[Page]",
+        "",
+        "I have asked the Guildmaster to supply",
+        "you with something that will help you",
+        "stay alive in the labyrinths.",
+        "[Page]",
+        "",
+        "Stop by the Explorers Guild and see",
+        "him before you go any further. That's",
+        "all from me! Best of luck, then.",
+        ""
+      ],
+      "Translation": [
+        "Until now, the greatest threat we'd",
+        "known in the Lush Woodlands were the",
+        "black bears... the [Enemy1:84]s.",
+        "[Page]",
+        "",
+        "But now we're getting reports of a",
+        "bear with red fur, as if stained with",
+        "blood. It seems much more fearsome.",
+        "[Page]",
+        "",
+        "Encountering new species means, on the",
+        "one hand, that our explorations are",
+        "advancing, but we can't celebrate yet.",
+        "[Page]",
+        "",
+        "Not after these casualties. It's safe",
+        "to say that this red-furred beast has",
+        "the run of the lower floors.",
+        "[Page]",
+        "",
+        "And so I have issued a mission to",
+        "[Color:5]eliminate the threat lurking in the",
+        "Lush Woodlands[Color:0]!",
+        "[Page]",
+        "",
+        "We must secure our explorers' safety",
+        "by eradicating whatever thwarts our",
+        "search, starting with this beast.",
+        "[Page]",
+        "",
+        "The mission will be more dangerous",
+        "than any you have faced, so it would",
+        "not do for you to be unprepared.",
+        "[Page]",
+        "",
+        "I have asked the Guildmaster to supply",
+        "you with something that will help you",
+        "stay alive in the labyrinths.",
+        "[Page]",
+        "",
+        "Stop by the Explorers Guild and see",
+        "him before you go any further. That's",
+        "all from me! Best of luck, then.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Interesting. I'm impressed that you've",
+        "slain the leader of those beasts!",
+        "You've come so far in a short time.",
+        "[Page]",
+        "",
+        "I wonder, though, what was that stone",
+        "tablet? And you say you found it on",
+        "top of an altar... Hmm...",
+        "[Page]",
+        "",
+        "I'll send my soldiers and sages to",
+        "investigate the altar. You keep the",
+        "tablet for now... you may need it.",
+        "[Page]",
+        "",
+        "Wasn't there an [Color:5]emblem[Color:0] on the monument",
+        "near the northern barrier much like the",
+        "one on your tablet? Here's an idea...",
+        "[Page]",
+        "",
+        "Try [Color:5]taking that tablet to the stone",
+        "monument[Color:0] in the north, and see what",
+        "you can accomplish that way.",
+        "[Page]",
+        "",
+        "But that's enough out of me for now,",
+        "certainly. You must be tired. Just",
+        "one more thing before you go...",
+        "[Page]",
+        "",
+        "Well done on your mission! I'm proud",
+        "of you for returning safely, and you",
+        "should be too. Rest well, [Guild].",
+        ""
+      ],
+      "Translation": [
+        "Interesting. I'm impressed that you've",
+        "slain the leader of those beasts!",
+        "You've come so far in a short time.",
+        "[Page]",
+        "",
+        "I wonder, though, what was that stone",
+        "tablet? And you say you found it on",
+        "top of an altar... Hmm...",
+        "[Page]",
+        "",
+        "I'll send my soldiers and sages to",
+        "investigate the altar. You keep the",
+        "tablet for now... you may need it.",
+        "[Page]",
+        "",
+        "Wasn't there an [Color:5]emblem[Color:0] on the monument",
+        "near the northern barrier much like the",
+        "one on your tablet? Here's an idea...",
+        "[Page]",
+        "",
+        "Try [Color:5]taking that tablet to the stone",
+        "monument[Color:0] in the north, and see what",
+        "you can accomplish that way.",
+        "[Page]",
+        "",
+        "But that's enough out of me for now,",
+        "certainly. You must be tired. Just",
+        "one more thing before you go...",
+        "[Page]",
+        "",
+        "Well done on your mission! I'm proud",
+        "of you for returning safely, and you",
+        "should be too. Rest well, [Guild].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "When you open the door and enter the",
+        "hall, you are faced with battered",
+        "armor scattered everywhere.",
+        ""
+      ],
+      "Translation": [
+        "When you open the door and enter the",
+        "hall, you are faced with battered",
+        "armor scattered everywhere.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "At the center of these bloodstained",
+        "heaps is a beast whose fur is stained",
+        "crimson...",
+        "[Page]",
+        "",
+        "This can only be the red-furred beast",
+        "rumored to be attacking soldiers and",
+        "explorers!",
+        "[Page]",
+        "",
+        "Have a care, for the beast's eyes are",
+        "narrowed as it readies itself for",
+        "your approach!",
+        ""
+      ],
+      "Translation": [
+        "At the center of these bloodstained",
+        "heaps is a beast whose fur is stained",
+        "crimson...",
+        "[Page]",
+        "",
+        "This can only be the red-furred beast",
+        "rumored to be attacking soldiers and",
+        "explorers!",
+        "[Page]",
+        "",
+        "Have a care, for the beast's eyes are",
+        "narrowed as it readies itself for",
+        "your approach!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "The red-furred beast, finding itself",
+        "at a disadvantage, suddenly flees.",
+        "It charges towards a nearby wall...",
+        ""
+      ],
+      "Translation": [
+        "The red-furred beast, finding itself",
+        "at a disadvantage, suddenly flees.",
+        "It charges towards a nearby wall...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "After instantly tearing the wall apart",
+        "with its sharp claws, it passes into",
+        "the space beyond.",
+        "[Page]",
+        "",
+        "You are left stunned by its speed, but",
+        "its path is marked by traces of blood",
+        "leading to a stairway downward.",
+        ""
+      ],
+      "Translation": [
+        "After instantly tearing the wall apart",
+        "with its sharp claws, it passes into",
+        "the space beyond.",
+        "[Page]",
+        "",
+        "You are left stunned by its speed, but",
+        "its path is marked by traces of blood",
+        "leading to a stairway downward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "It seems there are even lower reaches",
+        "to the Lush Woodlands. You hesitate to",
+        "call your objective complete yet...",
+        "[Page]",
+        "",
+        "You know you must eventually pursue",
+        "it, but it may also be wise at this",
+        "point to return to Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "It seems there are even lower reaches",
+        "to the Lush Woodlands. You hesitate to",
+        "call your objective complete yet...",
+        "[Page]",
+        "",
+        "You know you must eventually pursue",
+        "it, but it may also be wise at this",
+        "point to return to Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "I'm glad to see that you're safe,",
+        "members of [Guild]. How are you",
+        "finding things on B3F?",
+        "[Page]",
+        "",
+        "A giant beast's roar, hm...? I see.",
+        "It sounds as if something worse than",
+        "the Bloodbear may lurk down there.",
+        "[Page]",
+        "",
+        "The Lush Woodlands will not be safe",
+        "to explore unless something is done.",
+        "Keep at it, and stay on your toes.",
+        ""
+      ],
+      "Translation": [
+        "I'm glad to see that you're safe,",
+        "members of [Guild]. How are you",
+        "finding things on B3F?",
+        "[Page]",
+        "",
+        "A giant beast's roar, hm...? I see.",
+        "It sounds as if something worse than",
+        "the Bloodbear may lurk down there.",
+        "[Page]",
+        "",
+        "The Lush Woodlands will not be safe",
+        "to explore unless something is done.",
+        "Keep at it, and stay on your toes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Eventually, you reach a small room",
+        "with a spring. Near it is the red-",
+        "furred beast, licking its wounds.",
+        "[Page]",
+        "",
+        "On seeing you, it gives a threatening",
+        "snarl. It seems it has no intention",
+        "of fleeing this time.",
+        "[Page]",
+        "",
+        "When you are ready, step forward and",
+        "let your second round begin!",
+        ""
+      ],
+      "Translation": [
+        "Eventually, you reach a small room",
+        "with a spring. Near it is the red-",
+        "furred beast, licking its wounds.",
+        "[Page]",
+        "",
+        "On seeing you, it gives a threatening",
+        "snarl. It seems it has no intention",
+        "of fleeing this time.",
+        "[Page]",
+        "",
+        "When you are ready, step forward and",
+        "let your second round begin!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "The red-furred beast falls before the",
+        "onslaught of your fierce attacks.",
+        "[Page]",
+        "",
+        "You have defeated a powerful foe, at",
+        "the request of the nobility, no less!",
+        "But your joy is short-lived.",
+        ""
+      ],
+      "Translation": [
+        "The red-furred beast falls before the",
+        "onslaught of your fierce attacks.",
+        "[Page]",
+        "",
+        "You have defeated a powerful foe, at",
+        "the request of the nobility, no less!",
+        "But your joy is short-lived.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "For suddenly, a beastly roar shakes",
+        "the entire maze!",
+        "[Page]",
+        "",
+        "The sadness and anger of losing",
+        "a comrade is unmistakable in that",
+        "deafening roar.",
+        "[Page]",
+        "",
+        "One after another, you hear answering",
+        "roars from other beasts. You stand",
+        "there, stunned, as the roars die down.",
+        "[Page]",
+        "",
+        "The succession of roars is disturbing,",
+        "but not so much as that first howl.",
+        "It was very different from the others.",
+        "[Page]",
+        "",
+        "You think there can be no doubt that",
+        "something on this level far surpasses",
+        "the threat of the Bloodbear...",
+        ""
+      ],
+      "Translation": [
+        "For suddenly, a beastly roar shakes",
+        "the entire maze!",
+        "[Page]",
+        "",
+        "The sadness and anger of losing",
+        "a comrade is unmistakable in that",
+        "deafening roar.",
+        "[Page]",
+        "",
+        "One after another, you hear answering",
+        "roars from other beasts. You stand",
+        "there, stunned, as the roars die down.",
+        "[Page]",
+        "",
+        "The succession of roars is disturbing,",
+        "but not so much as that first howl.",
+        "It was very different from the others.",
+        "[Page]",
+        "",
+        "You think there can be no doubt that",
+        "something on this level far surpasses",
+        "the threat of the Bloodbear...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "As you carry out your search, a sense",
+        "of menace from beyond the door causes",
+        "you to stop in your tracks.",
+        "[Page]",
+        "",
+        "You think it safe to assume that past",
+        "this point is the creature which",
+        "surpasses that red-furred beast.",
+        "[Page]",
+        "",
+        "You take a deep breath, wondering if",
+        "you are ready to open the door and",
+        "behold this fierce adversary yourself.",
+        ""
+      ],
+      "Translation": [
+        "As you carry out your search, a sense",
+        "of menace from beyond the door causes",
+        "you to stop in your tracks.",
+        "[Page]",
+        "",
+        "You think it safe to assume that past",
+        "this point is the creature which",
+        "surpasses that red-furred beast.",
+        "[Page]",
+        "",
+        "You take a deep breath, wondering if",
+        "you are ready to open the door and",
+        "behold this fierce adversary yourself.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "When you make up your mind and open",
+        "the door, you find a vast, open space",
+        "rich with the smell of beasts.",
+        "[Page]",
+        "",
+        "Within it awaits an enormous scarlet",
+        "brute, glaring at you. Its eyes burn",
+        "with rage...",
+        "[Page]",
+        "",
+        "There is no room for error. This must",
+        "be the leader of the red-furred beasts",
+        "who rule the Lush Woodlands.",
+        "[Page]",
+        "",
+        "You glance at the springs to the east",
+        "and west of the hall, where other red-",
+        "furred beasts roam.",
+        "[Page]",
+        "",
+        "If they choose to come to the aid of",
+        "their leader during the battle, your",
+        "situation will become hopeless.",
+        "[Page]",
+        "",
+        "The ideal scenario would be to draw",
+        "the leader deeper within, without the",
+        "other beasts noticing, but how?",
+        "[Page]",
+        "",
+        "You study your surroundings carefully,",
+        "looking to the environment for any",
+        "advantage...",
+        ""
+      ],
+      "Translation": [
+        "When you make up your mind and open",
+        "the door, you find a vast, open space",
+        "rich with the smell of beasts.",
+        "[Page]",
+        "",
+        "Within it awaits an enormous scarlet",
+        "brute, glaring at you. Its eyes burn",
+        "with rage...",
+        "[Page]",
+        "",
+        "There is no room for error. This must",
+        "be the leader of the red-furred beasts",
+        "who rule the Lush Woodlands.",
+        "[Page]",
+        "",
+        "You glance at the springs to the east",
+        "and west of the hall, where other red-",
+        "furred beasts roam.",
+        "[Page]",
+        "",
+        "If they choose to come to the aid of",
+        "their leader during the battle, your",
+        "situation will become hopeless.",
+        "[Page]",
+        "",
+        "The ideal scenario would be to draw",
+        "the leader deeper within, without the",
+        "other beasts noticing, but how?",
+        "[Page]",
+        "",
+        "You study your surroundings carefully,",
+        "looking to the environment for any",
+        "advantage...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "With the leader of the red-furred",
+        "beasts defeated, the murderous aura",
+        "permeating this maze dissipates...",
+        "[Page]",
+        "",
+        "You have eliminated the greatest",
+        "threat to the exploration of the Lush",
+        "Woodlands! Your mission is complete.",
+        "[Page]",
+        "",
+        "Finally at rest, you take a look",
+        "around the area. The altar-like object",
+        "further on seems clearly man-made.",
+        ""
+      ],
+      "Translation": [
+        "With the leader of the red-furred",
+        "beasts defeated, the murderous aura",
+        "permeating this maze dissipates...",
+        "[Page]",
+        "",
+        "You have eliminated the greatest",
+        "threat to the exploration of the Lush",
+        "Woodlands! Your mission is complete.",
+        "[Page]",
+        "",
+        "Finally at rest, you take a look",
+        "around the area. The altar-like object",
+        "further on seems clearly man-made.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "A stone tablet is enshrined upon",
+        "the altar.",
+        ""
+      ],
+      "Translation": [
+        "A stone tablet is enshrined upon",
+        "the altar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "There are words on the stone tablet in",
+        "an unfamiliar language, but they are",
+        "so weathered, no sage could read them.",
+        "[Page]",
+        "",
+        "But the emblem in the center of it",
+        "is another story. It is the same one",
+        "engraved in the monument to the north.",
+        "[Page]",
+        "",
+        "You decide to remove the stone tablet",
+        "from the altar and bring it back, in",
+        "hopes it can aid the investigation.",
+        ""
+      ],
+      "Translation": [
+        "There are words on the stone tablet in",
+        "an unfamiliar language, but they are",
+        "so weathered, no sage could read them.",
+        "[Page]",
+        "",
+        "But the emblem in the center of it",
+        "is another story. It is the same one",
+        "engraved in the monument to the north.",
+        "[Page]",
+        "",
+        "You decide to remove the stone tablet",
+        "from the altar and bring it back, in",
+        "hopes it can aid the investigation.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Tempting though the altar may be,",
+        "the monsters that have wounded many",
+        "adventurers are your highest priority!",
+        ""
+      ],
+      "Translation": [
+        "Tempting though the altar may be,",
+        "the monsters that have wounded many",
+        "adventurers are your highest priority!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "You return to Tharsis from the depths",
+        "of the Lush Woodland, the Bloodbear's",
+        "head in hand.",
+        "[Page]",
+        "",
+        "You still cannot forget the fearsome",
+        "roar that shook the entire labyrinth",
+        "when the blood-red beast fell.",
+        "[Page]",
+        "",
+        "Until the owner of that roar has",
+        "fallen, [Color:5]you cannot consider the",
+        "Count's mission to be complete[Color:0].",
+        "[Page]",
+        "",
+        "While you are lost in thought, a man",
+        "approaches you. You recognize him",
+        "as Whirlwind.",
+        ""
+      ],
+      "Translation": [
+        "You return to Tharsis from the depths",
+        "of the Lush Woodland, the Bloodbear's",
+        "head in hand.",
+        "[Page]",
+        "",
+        "You still cannot forget the fearsome",
+        "roar that shook the entire labyrinth",
+        "when the blood-red beast fell.",
+        "[Page]",
+        "",
+        "Until the owner of that roar has",
+        "fallen, [Color:5]you cannot consider the",
+        "Count's mission to be complete[Color:0].",
+        "[Page]",
+        "",
+        "While you are lost in thought, a man",
+        "approaches you. You recognize him",
+        "as Whirlwind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "\"Glad to see we both made it out.",
+        "Amazing that you beat the Bloodbear",
+        "when the Tharsis soldiers couldn't!",
+        "[Page]",
+        "",
+        "\"So how're things? The monsters down",
+        "on B3F giving you any trouble?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Glad to see we both made it out.",
+        "Amazing that you beat the Bloodbear",
+        "when the Tharsis soldiers couldn't!",
+        "[Page]",
+        "",
+        "\"So how're things? The monsters down",
+        "on B3F giving you any trouble?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Tell him that they are?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Tell him that they are?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "\"Good to hear! Sounds like you've got",
+        "it under control. It's normal that",
+        "[Color:5]monsters get harder the lower you go[Color:0].",
+        "[Page]",
+        "",
+        "\"Dealing with the tougher critters is",
+        "the key to making it through a maze.",
+        "I'm glad to hear you're managing.",
+        "[Page]",
+        "",
+        "\"But if you have trouble doing it in",
+        "the future, think about maybe [Color:5]going",
+        "to another labyrinth for practice[Color:0].",
+        "[Page]",
+        "",
+        "\"There's bound to be one out there",
+        "somewhere that your party can tackle.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Good to hear! Sounds like you've got",
+        "it under control. It's normal that",
+        "[Color:5]monsters get harder the lower you go[Color:0].",
+        "[Page]",
+        "",
+        "\"Dealing with the tougher critters is",
+        "the key to making it through a maze.",
+        "I'm glad to hear you're managing.",
+        "[Page]",
+        "",
+        "\"But if you have trouble doing it in",
+        "the future, think about maybe [Color:5]going",
+        "to another labyrinth for practice[Color:0].",
+        "[Page]",
+        "",
+        "\"There's bound to be one out there",
+        "somewhere that your party can tackle.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "\"That's too bad... Have you thought",
+        "about going to the [Color:5]Valley Spring[Color:0]?",
+        "[Page]",
+        "",
+        "\"It's south of the [Color:5]Small Orchard[Color:0], in",
+        "the middle of the valley with the",
+        "giant beasts wandering around.",
+        "[Page]",
+        "",
+        "\"You can gather rare materials at that",
+        "spring and fight some tough monsters.",
+        "I think you're up to the challenge.",
+        "[Page]",
+        "",
+        "\"The [Color:5][Enemy1:89][Color:0] might get in your",
+        "way, but it loves [Color:5]vegetables[Color:0]. Drop one",
+        "near it, and it'll pounce right over.\"",
+        ""
+      ],
+      "Translation": [
+        "\"That's too bad... Have you thought",
+        "about going to the [Color:5]Valley Spring[Color:0]?",
+        "[Page]",
+        "",
+        "\"It's south of the [Color:5]Small Orchard[Color:0], in",
+        "the middle of the valley with the",
+        "giant beasts wandering around.",
+        "[Page]",
+        "",
+        "\"You can gather rare materials at that",
+        "spring and fight some tough monsters.",
+        "I think you're up to the challenge.",
+        "[Page]",
+        "",
+        "\"The [Color:5][Enemy1:89][Color:0] might get in your",
+        "way, but it loves [Color:5]vegetables[Color:0]. Drop one",
+        "near it, and it'll pounce right over.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "You say farewell to Whirlwind and he",
+        "disappears through the city gates.",
+        ""
+      ],
+      "Translation": [
+        "You say farewell to Whirlwind and he",
+        "disappears through the city gates.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "As you leave the Grand Court, you pass",
+        "a young girl.",
+        "[Page]",
+        "",
+        "You believe you have seen her behind",
+        "the counter at the Berund Atelier.",
+        "As your eyes meet, she smiles.",
+        ""
+      ],
+      "Translation": [
+        "As you leave the Grand Court, you pass",
+        "a young girl.",
+        "[Page]",
+        "",
+        "You believe you have seen her behind",
+        "the counter at the Berund Atelier.",
+        "As your eyes meet, she smiles.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "\"Wow, didja have some bidness wit",
+        "da Outland Count?",
+        "[Page]",
+        "",
+        "\"He's all fired up bout dis mission.",
+        "I got da big shipment of [Color:6][Item:1356][Color:0]s",
+        "and [Color:6][Item:1371][Color:0]s he aksed for.",
+        "[Page]",
+        "",
+        "\"Iunno if ya know, but [Color:6][Item:1356][Color:0]s ",
+        "carry ya to da last stairs ya used.",
+        "[Page]",
+        "",
+        "\"An da [Color:6][Item:1371][Color:0] takes ya clean",
+        "outta da labyrint. Kinda like da",
+        "[Color:6][Item:1355][Color:0], akshally.",
+        "[Page]",
+        "",
+        "\"I got em out in da store, so c'mon",
+        "and take a look-see if ya wanna!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Wow, didja have some bidness wit",
+        "da Outland Count?",
+        "[Page]",
+        "",
+        "\"He's all fired up bout dis mission.",
+        "I got da big shipment of [Color:6][Item:1356][Color:0]s",
+        "and [Color:6][Item:1371][Color:0]s he aksed for.",
+        "[Page]",
+        "",
+        "\"Iunno if ya know, but [Color:6][Item:1356][Color:0]s ",
+        "carry ya to da last stairs ya used.",
+        "[Page]",
+        "",
+        "\"An da [Color:6][Item:1371][Color:0] takes ya clean",
+        "outta da labyrint. Kinda like da",
+        "[Color:6][Item:1355][Color:0], akshally.",
+        "[Page]",
+        "",
+        "\"I got em out in da store, so c'mon",
+        "and take a look-see if ya wanna!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "...It sounds as if items useful to",
+        "your adventure have been stocked.",
+        "[Page]",
+        "",
+        "If you are interested, go to the",
+        "Berund Atelier to see what it is",
+        "they have.",
+        ""
+      ],
+      "Translation": [
+        "...It sounds as if items useful to",
+        "your adventure have been stocked.",
+        "[Page]",
+        "",
+        "If you are interested, go to the",
+        "Berund Atelier to see what it is",
+        "they have.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're the [Guild] Guild, right?",
+        "I can't let you head to the lower area",
+        "of the Lush Woodlands like that.",
+        "[Page]",
+        "",
+        "\"Go see the Guildmaster at the",
+        "Explorers Guild, and he'll give you",
+        "what you need to go deeper.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You're the [Guild] Guild, right?",
+        "I can't let you head to the lower area",
+        "of the Lush Woodlands like that.",
+        "[Page]",
+        "",
+        "\"Go see the Guildmaster at the",
+        "Explorers Guild, and he'll give you",
+        "what you need to go deeper.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "There y'are, [Guild]. The Outland",
+        "Count told me a bit about what you'll",
+        "be facing.",
+        "[Page]",
+        "",
+        "The red beastie on B2F of the Lush",
+        "Woodlands... you're a mite lacking",
+        "in strength to be hunting that thing.",
+        "[Page]",
+        "",
+        "That's why, as overseer of the guild,",
+        "I've got a new kind of skill for you.",
+        ""
+      ],
+      "Translation": [
+        "There y'are, [Guild]. The Outland",
+        "Count told me a bit about what you'll",
+        "be facing.",
+        "[Page]",
+        "",
+        "The red beastie on B2F of the Lush",
+        "Woodlands... you're a mite lacking",
+        "in strength to be hunting that thing.",
+        "[Page]",
+        "",
+        "That's why, as overseer of the guild,",
+        "I've got a new kind of skill for you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "That there's a Burst Skill.",
+        "The essence of the techniques your",
+        "forebears used is written down in it.",
+        "[Page]",
+        "",
+        "There are more to find, and I suggest",
+        "y'do. Burst Skills will do a lot to",
+        "up your survivability in the wild.",
+        ""
+      ],
+      "Translation": [
+        "That there's a Burst Skill.",
+        "The essence of the techniques your",
+        "forebears used is written down in it.",
+        "[Page]",
+        "",
+        "There are more to find, and I suggest",
+        "y'do. Burst Skills will do a lot to",
+        "up your survivability in the wild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You can now use Burst Skills![Color:0]",
+        "[Page]",
+        "",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You can now use Burst Skills![Color:0]",
+        "[Page]",
+        "",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]End the explanation?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]End the explanation?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "Ah... new faces, hm? Welcome to the",
+        "[Color:5]Explorers Guild[Color:0].",
+        "[Page]",
+        "",
+        "I've heard rumors about you,",
+        "[Guild]. But now's maybe not the",
+        "time for the pleasantries.",
+        "[Page]",
+        "",
+        "That red beastie down on B2F of the",
+        "Lush Woodlands... you're a mite weak",
+        "to go hunting it, I'd say.",
+        "[Page]",
+        "",
+        "That's why, as overseer of the guild,",
+        "I've got a new kind of skill for you.",
+        ""
+      ],
+      "Translation": [
+        "Ah... new faces, hm? Welcome to the",
+        "[Color:5]Explorers Guild[Color:0].",
+        "[Page]",
+        "",
+        "I've heard rumors about you,",
+        "[Guild]. But now's maybe not the",
+        "time for the pleasantries.",
+        "[Page]",
+        "",
+        "That red beastie down on B2F of the",
+        "Lush Woodlands... you're a mite weak",
+        "to go hunting it, I'd say.",
+        "[Page]",
+        "",
+        "That's why, as overseer of the guild,",
+        "I've got a new kind of skill for you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed through B2F of the",
+        "Lush Woodlands, you encounter a group",
+        "of Tharsis soldiers.",
+        "[Page]",
+        "",
+        "Many of them seem injured... some can",
+        "barely walk, even with the support of",
+        "their comrades.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed through B2F of the",
+        "Lush Woodlands, you encounter a group",
+        "of Tharsis soldiers.",
+        "[Page]",
+        "",
+        "Many of them seem injured... some can",
+        "barely walk, even with the support of",
+        "their comrades.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "\"You explorers?\" asks one. \"What a",
+        "sorry lot we are... We're going back",
+        "to Tharsis.\" His hands shake angrily.",
+        "[Page]",
+        "",
+        "\"We never stood a chance. While we",
+        "hunted the red-furred beast, a [Enemy1:84]",
+        "found us. You can guess the rest.",
+        "[Page]",
+        "",
+        "\"We looked everywhere, but there's no",
+        "sign of the red-furred thing. Maybe",
+        "it's hiding [Color:5]somewhere in the thicket[Color:0]?\"",
+        ""
+      ],
+      "Translation": [
+        "\"You explorers?\" asks one. \"What a",
+        "sorry lot we are... We're going back",
+        "to Tharsis.\" His hands shake angrily.",
+        "[Page]",
+        "",
+        "\"We never stood a chance. While we",
+        "hunted the red-furred beast, a [Enemy1:84]",
+        "found us. You can guess the rest.",
+        "[Page]",
+        "",
+        "\"We looked everywhere, but there's no",
+        "sign of the red-furred thing. Maybe",
+        "it's hiding [Color:5]somewhere in the thicket[Color:0]?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "It seems that it will not be easy to",
+        "find the red-furred beast you hunt.",
+        "[Page]",
+        "",
+        "You prepare yourselves for an extended",
+        "search and resume your journey.",
+        ""
+      ],
+      "Translation": [
+        "It seems that it will not be easy to",
+        "find the red-furred beast you hunt.",
+        "[Page]",
+        "",
+        "You prepare yourselves for an extended",
+        "search and resume your journey.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_13",
+  "RelativePath": "Event\\Bar\\BAR_13.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Hm? A crashed explorer? Oh, Raht...",
+        "Yeah, I know him. The kid who went",
+        "down in the Sacred Mountains, right?",
+        "[Page]",
+        "",
+        "Hmm, though... Where did I see him?",
+        "It's on the tip of my tongue...",
+        "[Page]",
+        "",
+        "I feel like I might remember if you",
+        "gave me [Number:1]en... Can you help",
+        "a fellow explorer out?",
+        ""
+      ],
+      "Translation": [
+        "Hm? A crashed explorer? Oh, Raht...",
+        "Yeah, I know him. The kid who went",
+        "down in the Sacred Mountains, right?",
+        "[Page]",
+        "",
+        "Hmm, though... Where did I see him?",
+        "It's on the tip of my tongue...",
+        "[Page]",
+        "",
+        "I feel like I might remember if you",
+        "gave me [Number:1]en... Can you help",
+        "a fellow explorer out?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Pay him [Number:1]en?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Pay him [Number:1]en?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Oh... I forgot it... completely. What",
+        "a shame. But I might remember later,",
+        "so ask again if you change your mind.",
+        ""
+      ],
+      "Translation": [
+        "Oh... I forgot it... completely. What",
+        "a shame. But I might remember later,",
+        "so ask again if you change your mind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Huh... doesn't seem like you have",
+        "quite that much. It's a shame, but",
+        "I don't think I can remember now.",
+        ""
+      ],
+      "Translation": [
+        "Huh... doesn't seem like you have",
+        "quite that much. It's a shame, but",
+        "I don't think I can remember now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Great doing business with you. Does",
+        "anyone ever tell you you're kind of",
+        "gullible? Anyway...",
+        ""
+      ],
+      "Translation": [
+        "Great doing business with you. Does",
+        "anyone ever tell you you're kind of",
+        "gullible? Anyway...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Huh? You want to hear it again?",
+        "Fine... Hmm, what was it...?",
+        ""
+      ],
+      "Translation": [
+        "Huh? You want to hear it again?",
+        "Fine... Hmm, what was it...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Ooh, I think my memory's coming",
+        "back to me!",
+        "[Page]",
+        "",
+        "Yeah... I was searching the south half",
+        "of the Sacred Mountains. That's the",
+        "C and D rows on a map.",
+        "[Page]",
+        "",
+        "I saw Raht somewhere around there,",
+        "I just can't remember exactly where...",
+        "No, I really meant that this time.",
+        ""
+      ],
+      "Translation": [
+        "Ooh, I think my memory's coming",
+        "back to me!",
+        "[Page]",
+        "",
+        "Yeah... I was searching the south half",
+        "of the Sacred Mountains. That's the",
+        "C and D rows on a map.",
+        "[Page]",
+        "",
+        "I saw Raht somewhere around there,",
+        "I just can't remember exactly where...",
+        "No, I really meant that this time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

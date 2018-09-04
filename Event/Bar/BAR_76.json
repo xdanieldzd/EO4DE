@@ -1,0 +1,657 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_76",
+  "RelativePath": "Event\\Bar\\BAR_76.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Some guy's been copying me lately,",
+        "but don't worry, I'm the real deal.",
+        "Don't I just sound more badass?",
+        "[Page]",
+        "",
+        "Good, 'cause there's a badass monster",
+        "in the [Color:5]Scarlet Pillars[Color:0]. Your job is",
+        "to investigate that cutie pie.",
+        "[Page]",
+        "",
+        "What I want to know in particular is",
+        "where she lives and what she eats.",
+        "[Page]",
+        "",
+        "Her house is somewhere around [Color:5]C-1[Color:0]...",
+        "I've narrowed it down that far. But",
+        "as for what she likes to eat...",
+        "[Page]",
+        "",
+        "You'll have to find that out for",
+        "yourselves. Well, good luck.",
+        ""
+      ],
+      "Translation": [
+        "Some guy's been copying me lately,",
+        "but don't worry, I'm the real deal.",
+        "Don't I just sound more badass?",
+        "[Page]",
+        "",
+        "Good, 'cause there's a badass monster",
+        "in the [Color:5]Scarlet Pillars[Color:0]. Your job is",
+        "to investigate that cutie pie.",
+        "[Page]",
+        "",
+        "What I want to know in particular is",
+        "where she lives and what she eats.",
+        "[Page]",
+        "",
+        "Her house is somewhere around [Color:5]C-1[Color:0]...",
+        "I've narrowed it down that far. But",
+        "as for what she likes to eat...",
+        "[Page]",
+        "",
+        "You'll have to find that out for",
+        "yourselves. Well, good luck.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Hey, how'd it go? You find out where",
+        "that cutie pie lives?",
+        ""
+      ],
+      "Translation": [
+        "Hey, how'd it go? You find out where",
+        "that cutie pie lives?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Did you find it?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Did you find it?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "You do, do you? All I could get was",
+        "the coordinates [Color:5]C-1[Color:0] in the [Color:5]Scarlet",
+        "Pillars[Color:0].",
+        "[Page]",
+        "",
+        "That's all the help I got to give,",
+        "get it? Any more and my request gets",
+        "pretty pointless.",
+        ""
+      ],
+      "Translation": [
+        "You do, do you? All I could get was",
+        "the coordinates [Color:5]C-1[Color:0] in the [Color:5]Scarlet",
+        "Pillars[Color:0].",
+        "[Page]",
+        "",
+        "That's all the help I got to give,",
+        "get it? Any more and my request gets",
+        "pretty pointless.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Aww, come on. Well, they say all",
+        "things come to those who wait, and",
+        "I'm in no hurry. Not this cat.",
+        ""
+      ],
+      "Translation": [
+        "Aww, come on. Well, they say all",
+        "things come to those who wait, and",
+        "I'm in no hurry. Not this cat.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Ooh, fantastic. Then would you care",
+        "to show me the location of her house?",
+        "And be precise, okay?",
+        ""
+      ],
+      "Translation": [
+        "Ooh, fantastic. Then would you care",
+        "to show me the location of her house?",
+        "And be precise, okay?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm, alright... What about what it",
+        "likes to eat? You figure that one",
+        "out too?",
+        ""
+      ],
+      "Translation": [
+        "Hmm, alright... What about what it",
+        "likes to eat? You figure that one",
+        "out too?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What does it like to eat?[Color:0]",
+        "[Item:2086] ",
+        "[Item:2091] ",
+        "[Item:2079] ",
+        "[Item:2092] ",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What does it like to eat?[Color:0]",
+        "[Item:2086] ",
+        "[Item:2091] ",
+        "[Item:2079] ",
+        "[Item:2092] ",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm, okay, okay... Was that it?",
+        "You didn't see anything else there?",
+        ""
+      ],
+      "Translation": [
+        "Hmm, okay, okay... Was that it?",
+        "You didn't see anything else there?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What else does it eat?[Color:0]",
+        "[Item:2073] ",
+        "[Item:2085] ",
+        "[Item:2074] ",
+        "[Item:2080] ",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What else does it eat?[Color:0]",
+        "[Item:2073] ",
+        "[Item:2085] ",
+        "[Item:2074] ",
+        "[Item:2080] ",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Alright, got it! Then I'm gonna go",
+        "check it out on my skyship, the",
+        "Violet Bronco!",
+        ""
+      ],
+      "Translation": [
+        "Alright, got it! Then I'm gonna go",
+        "check it out on my skyship, the",
+        "Violet Bronco!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Hey! You rat! I didn't find any",
+        "monster's nest there. You're sure",
+        "you saw it?",
+        "[Page]",
+        "",
+        "We're both pros, aren't we? Then make",
+        "sure you give me good info next time!",
+        "For heaven's sake...",
+        ""
+      ],
+      "Translation": [
+        "Hey! You rat! I didn't find any",
+        "monster's nest there. You're sure",
+        "you saw it?",
+        "[Page]",
+        "",
+        "We're both pros, aren't we? Then make",
+        "sure you give me good info next time!",
+        "For heaven's sake...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Sorry for the wait, but you were",
+        "right. I did find that cutie pie's",
+        "house! Pretty impressive work.",
+        ""
+      ],
+      "Translation": [
+        "Sorry for the wait, but you were",
+        "right. I did find that cutie pie's",
+        "house! Pretty impressive work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "But your information on the food it",
+        "likes wasn't so hot.",
+        "[Page]",
+        "",
+        "I didn't find any sign that it liked",
+        "the stuff you told me about.",
+        "[Page]",
+        "",
+        "You can get a girl's address, but you",
+        "can't ask her out without the right",
+        "gifts, no? So go out and try again.",
+        ""
+      ],
+      "Translation": [
+        "But your information on the food it",
+        "likes wasn't so hot.",
+        "[Page]",
+        "",
+        "I didn't find any sign that it liked",
+        "the stuff you told me about.",
+        "[Page]",
+        "",
+        "You can get a girl's address, but you",
+        "can't ask her out without the right",
+        "gifts, no? So go out and try again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "But your information on the food it",
+        "likes wasn't so hot.",
+        "[Page]",
+        "",
+        "I admit, it was clear that it ate the",
+        "[Item:2079]. But the other one...",
+        "You missed the mark by a mile.",
+        "[Page]",
+        "",
+        "Sorry, but I gotta ask you to try",
+        "again. Otherwise, I can't call the",
+        "request complete.",
+        ""
+      ],
+      "Translation": [
+        "But your information on the food it",
+        "likes wasn't so hot.",
+        "[Page]",
+        "",
+        "I admit, it was clear that it ate the",
+        "[Item:2079]. But the other one...",
+        "You missed the mark by a mile.",
+        "[Page]",
+        "",
+        "Sorry, but I gotta ask you to try",
+        "again. Otherwise, I can't call the",
+        "request complete.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "But your information on the food it",
+        "likes wasn't so hot.",
+        "[Page]",
+        "",
+        "I admit, it was clear that it ate the",
+        "[Item:2085]. But the other one...",
+        "You missed the mark by a mile.",
+        "[Page]",
+        "",
+        "Sorry, but I gotta ask you to try",
+        "again. Otherwise, I can't call the",
+        "request complete.",
+        ""
+      ],
+      "Translation": [
+        "But your information on the food it",
+        "likes wasn't so hot.",
+        "[Page]",
+        "",
+        "I admit, it was clear that it ate the",
+        "[Item:2085]. But the other one...",
+        "You missed the mark by a mile.",
+        "[Page]",
+        "",
+        "Sorry, but I gotta ask you to try",
+        "again. Otherwise, I can't call the",
+        "request complete.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "And your information about what food",
+        "it likes was bang on! Perfect!",
+        "[Page]",
+        "",
+        "It was pretty obvious that it eats",
+        "tons of [Item:2079] and",
+        "[Item:2085].",
+        "[Page]",
+        "",
+        "Now everything's ready... Oh, uhhh,",
+        "thanks to you guys. I'm gonna call",
+        "this request complete!",
+        "[Page]",
+        "",
+        "In fact, I already told the goddess",
+        "of the Dancing Peacock you did it.",
+        "Feel free to get your reward.",
+        ""
+      ],
+      "Translation": [
+        "And your information about what food",
+        "it likes was bang on! Perfect!",
+        "[Page]",
+        "",
+        "It was pretty obvious that it eats",
+        "tons of [Item:2079] and",
+        "[Item:2085].",
+        "[Page]",
+        "",
+        "Now everything's ready... Oh, uhhh,",
+        "thanks to you guys. I'm gonna call",
+        "this request complete!",
+        "[Page]",
+        "",
+        "In fact, I already told the goddess",
+        "of the Dancing Peacock you did it.",
+        "Feel free to get your reward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Heh... We might see each other again",
+        "soon. Why? Don't you know? Real pros",
+        "tend to be drawn to each other.",
+        ""
+      ],
+      "Translation": [
+        "Heh... We might see each other again",
+        "soon. Why? Don't you know? Real pros",
+        "tend to be drawn to each other.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Bingo... You guys again. I knew you'd",
+        "take this request. Real pros, yadda",
+        "yadda.",
+        "[Page]",
+        "",
+        "My target's the resident of that",
+        "nest we found before... Yeah, the",
+        "cutie pie.",
+        "[Page]",
+        "",
+        "I don't mind tangoing solo with it,",
+        "but I need an outside observer who",
+        "can tell the tale.",
+        "[Page]",
+        "",
+        "And that's you. I'll get everything",
+        "set up. You guys just be there at the",
+        "nest at night!",
+        "[Page]",
+        "",
+        "You're lucky you get to catch my act",
+        "for free. Hey, I'd want to see it too,",
+        "if I could.",
+        ""
+      ],
+      "Translation": [
+        "Bingo... You guys again. I knew you'd",
+        "take this request. Real pros, yadda",
+        "yadda.",
+        "[Page]",
+        "",
+        "My target's the resident of that",
+        "nest we found before... Yeah, the",
+        "cutie pie.",
+        "[Page]",
+        "",
+        "I don't mind tangoing solo with it,",
+        "but I need an outside observer who",
+        "can tell the tale.",
+        "[Page]",
+        "",
+        "And that's you. I'll get everything",
+        "set up. You guys just be there at the",
+        "nest at night!",
+        "[Page]",
+        "",
+        "You're lucky you get to catch my act",
+        "for free. Hey, I'd want to see it too,",
+        "if I could.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Swing by the cutie pie's house at",
+        "[Color:5]night[Color:0]. I'll make sure to have",
+        "everything ready.",
+        "[Page]",
+        "",
+        "You remember where it is, yeah? It's",
+        "around [Color:5]C-1[Color:0] in the [Color:5]Scarlet Pillars[Color:0].",
+        "That place just a ways in.",
+        ""
+      ],
+      "Translation": [
+        "Swing by the cutie pie's house at",
+        "[Color:5]night[Color:0]. I'll make sure to have",
+        "everything ready.",
+        "[Page]",
+        "",
+        "You remember where it is, yeah? It's",
+        "around [Color:5]C-1[Color:0] in the [Color:5]Scarlet Pillars[Color:0].",
+        "That place just a ways in.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Swing by the cutie pie's house at",
+        "[Color:5]night[Color:0]. I'll make sure to have",
+        "everything ready.",
+        "[Page]",
+        "",
+        "You remember where it is, yeah? It's",
+        "around [Color:5]C-1[Color:0] in the [Color:5]Scarlet Pillars[Color:0].",
+        "That place just a ways in.",
+        "[Page]",
+        "",
+        "Whoa, dude! Look at the time! You're",
+        "gonna be late! Oh, I guess the same",
+        "is true for me, huh?",
+        ""
+      ],
+      "Translation": [
+        "Swing by the cutie pie's house at",
+        "[Color:5]night[Color:0]. I'll make sure to have",
+        "everything ready.",
+        "[Page]",
+        "",
+        "You remember where it is, yeah? It's",
+        "around [Color:5]C-1[Color:0] in the [Color:5]Scarlet Pillars[Color:0].",
+        "That place just a ways in.",
+        "[Page]",
+        "",
+        "Whoa, dude! Look at the time! You're",
+        "gonna be late! Oh, I guess the same",
+        "is true for me, huh?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

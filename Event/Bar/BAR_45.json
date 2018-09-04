@@ -1,0 +1,91 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_45",
+  "RelativePath": "Event\\Bar\\BAR_45.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Hail, explorers. Take a seat and have",
+        "a drink, why don't you?",
+        "[Page]",
+        "",
+        "An explorer's curiosity certainly is",
+        "insatiable... If they have an errand,",
+        "they'll even head out at night.",
+        "[Page]",
+        "",
+        "Since you seem to just be starting",
+        "out, let me give you fair warning.",
+        "Be careful when exploring at night.",
+        "[Page]",
+        "",
+        "You're likely to run into terrifying",
+        "beasts you don't see during the day.",
+        "It takes some getting used to.",
+        ""
+      ],
+      "Translation": [
+        "Hail, explorers. Take a seat and have",
+        "a drink, why don't you?",
+        "[Page]",
+        "",
+        "An explorer's curiosity certainly is",
+        "insatiable... If they have an errand,",
+        "they'll even head out at night.",
+        "[Page]",
+        "",
+        "Since you seem to just be starting",
+        "out, let me give you fair warning.",
+        "Be careful when exploring at night.",
+        "[Page]",
+        "",
+        "You're likely to run into terrifying",
+        "beasts you don't see during the day.",
+        "It takes some getting used to.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Hail, explorers. Take a seat and have",
+        "a drink, why don't you?",
+        "[Page]",
+        "",
+        "When you're up against a [Enemy1:15],",
+        "you can't be the ones to attack first.",
+        "That only makes it angrier.",
+        "[Page]",
+        "",
+        "It's the same when going up against",
+        "rival guilds. Throw the first punch,",
+        "and you're liable to get arrested...",
+        ""
+      ],
+      "Translation": [
+        "Hail, explorers. Take a seat and have",
+        "a drink, why don't you?",
+        "[Page]",
+        "",
+        "When you're up against a [Enemy1:15],",
+        "you can't be the ones to attack first.",
+        "That only makes it angrier.",
+        "[Page]",
+        "",
+        "It's the same when going up against",
+        "rival guilds. Throw the first punch,",
+        "and you're liable to get arrested...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

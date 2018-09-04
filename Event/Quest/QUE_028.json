@@ -1,0 +1,1767 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_028",
+  "RelativePath": "Event\\Quest\\QUE_028.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "This comes from the Outland Count.",
+        "He has a special request for the",
+        "[Guild] Guild.",
+        "[Page]",
+        "",
+        "He apparently wants you to go to the",
+        "South Sanctuary. He has summoned you",
+        "to the Grand Court for more details.",
+        "[Page]",
+        "",
+        "I shall await your swift return.",
+        "Be careful as you go.",
+        ""
+      ],
+      "Translation": [
+        "This comes from the Outland Count.",
+        "He has a special request for the",
+        "[Guild] Guild.",
+        "[Page]",
+        "",
+        "He apparently wants you to go to the",
+        "South Sanctuary. He has summoned you",
+        "to the Grand Court for more details.",
+        "[Page]",
+        "",
+        "I shall await your swift return.",
+        "Be careful as you go.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Gracious, you are a shambles...",
+        "Was the Outland Count's request so",
+        "troublesome?",
+        "[Page]",
+        "",
+        "But you do appear to have completed",
+        "it. He came here every day until you",
+        "accepted his request.",
+        "[Page]",
+        "",
+        "He was very persistent in asking if",
+        "[Guild] had been here. He appears to",
+        "be very reliant upon you.",
+        "[Page]",
+        "",
+        "Now then, I again thank you for your",
+        "hard work. Here is the Count's reward.",
+        "As you would expect, it is luxurious.",
+        ""
+      ],
+      "Translation": [
+        "Gracious, you are a shambles...",
+        "Was the Outland Count's request so",
+        "troublesome?",
+        "[Page]",
+        "",
+        "But you do appear to have completed",
+        "it. He came here every day until you",
+        "accepted his request.",
+        "[Page]",
+        "",
+        "He was very persistent in asking if",
+        "[Guild] had been here. He appears to",
+        "be very reliant upon you.",
+        "[Page]",
+        "",
+        "Now then, I again thank you for your",
+        "hard work. Here is the Count's reward.",
+        "As you would expect, it is luxurious.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello! So you accepted my request.",
+        "Wonderful! The reward will be very",
+        "much worth your effort!",
+        "[Page]",
+        "",
+        "Here is the problem. When we went to",
+        "the [Color:5]South Sanctuary[Color:0] for the summit,",
+        "I dropped my favorite cufflinks.",
+        "[Page]",
+        "",
+        "They are very important and absolutely",
+        "irreplaceable. I want you to retrieve",
+        "them for me. How does that sound?",
+        "[Page]",
+        "",
+        "I will be counting on you!",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello! So you accepted my request.",
+        "Wonderful! The reward will be very",
+        "much worth your effort!",
+        "[Page]",
+        "",
+        "Here is the problem. When we went to",
+        "the [Color:5]South Sanctuary[Color:0] for the summit,",
+        "I dropped my favorite cufflinks.",
+        "[Page]",
+        "",
+        "They are very important and absolutely",
+        "irreplaceable. I want you to retrieve",
+        "them for me. How does that sound?",
+        "[Page]",
+        "",
+        "I will be counting on you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "The cufflinks in question should be at",
+        "the [Color:5]South Sanctuary[Color:0], where the summit",
+        "took place. I will be counting on you!",
+        ""
+      ],
+      "Translation": [
+        "The cufflinks in question should be at",
+        "the [Color:5]South Sanctuary[Color:0], where the summit",
+        "took place. I will be counting on you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, there you are! The wait was",
+        "making me anxious! Did you find",
+        "the cufflinks!?",
+        "[Page]",
+        "",
+        "Hmm... yes, these are them. A beast",
+        "had them, you say? Well, I am glad",
+        "you managed to wrest them back.",
+        "[Page]",
+        "",
+        "Oh, you saw the inscription? These",
+        "were actually a gift from my late wife",
+        "on the anniversary of our wedding...",
+        "[Page]",
+        "",
+        "It was the last thing she ever gave",
+        "me. I may be wealthy, but some things",
+        "in this world, money cannot buy.",
+        "[Page]",
+        "",
+        "But thank you for your efforts on my",
+        "behalf! Your reward will be waiting",
+        "for you at the Dancing Peacock.",
+        ""
+      ],
+      "Translation": [
+        "Ah, there you are! The wait was",
+        "making me anxious! Did you find",
+        "the cufflinks!?",
+        "[Page]",
+        "",
+        "Hmm... yes, these are them. A beast",
+        "had them, you say? Well, I am glad",
+        "you managed to wrest them back.",
+        "[Page]",
+        "",
+        "Oh, you saw the inscription? These",
+        "were actually a gift from my late wife",
+        "on the anniversary of our wedding...",
+        "[Page]",
+        "",
+        "It was the last thing she ever gave",
+        "me. I may be wealthy, but some things",
+        "in this world, money cannot buy.",
+        "[Page]",
+        "",
+        "But thank you for your efforts on my",
+        "behalf! Your reward will be waiting",
+        "for you at the Dancing Peacock.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Having accepted the Outland Count's",
+        "request, you arrive at the site where",
+        "the summit was held.",
+        "[Page]",
+        "",
+        "The wooden cufflinks are lying in",
+        "plain sight in the middle of the room.",
+        "[Page]",
+        "",
+        "But when you reach for them, they",
+        "suddenly float upward before flying",
+        "through the door behind you!",
+        ""
+      ],
+      "Translation": [
+        "Having accepted the Outland Count's",
+        "request, you arrive at the site where",
+        "the summit was held.",
+        "[Page]",
+        "",
+        "The wooden cufflinks are lying in",
+        "plain sight in the middle of the room.",
+        "[Page]",
+        "",
+        "But when you reach for them, they",
+        "suddenly float upward before flying",
+        "through the door behind you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Befuddled though you are by this turn",
+        "of events, you decide to chase after",
+        "the cufflinks.",
+        ""
+      ],
+      "Translation": [
+        "Befuddled though you are by this turn",
+        "of events, you decide to chase after",
+        "the cufflinks.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "You pursue the cufflinks through the",
+        "door, only to see them already leaving",
+        "through another door!",
+        ""
+      ],
+      "Translation": [
+        "You pursue the cufflinks through the",
+        "door, only to see them already leaving",
+        "through another door!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to chase after the",
+        "cufflinks...",
+        ""
+      ],
+      "Translation": [
+        "You decide to chase after the",
+        "cufflinks...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "When you open the door, you see the",
+        "cufflinks going straight down the",
+        "narrow path!",
+        "[Page]",
+        "",
+        "You give chase, careful not to come",
+        "into contact with any beasts that",
+        "wander the area!",
+        ""
+      ],
+      "Translation": [
+        "When you open the door, you see the",
+        "cufflinks going straight down the",
+        "narrow path!",
+        "[Page]",
+        "",
+        "You give chase, careful not to come",
+        "into contact with any beasts that",
+        "wander the area!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "You see the cufflinks going straight",
+        "down the narrow path!",
+        "[Page]",
+        "",
+        "You give chase, careful not to come",
+        "into contact with any beasts that",
+        "wander the area!",
+        ""
+      ],
+      "Translation": [
+        "You see the cufflinks going straight",
+        "down the narrow path!",
+        "[Page]",
+        "",
+        "You give chase, careful not to come",
+        "into contact with any beasts that",
+        "wander the area!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "You spot the cufflinks floating in",
+        "the room you opened!",
+        ""
+      ],
+      "Translation": [
+        "You spot the cufflinks floating in",
+        "the room you opened!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "The cufflinks move past the open area",
+        "as you watch them float away!",
+        ""
+      ],
+      "Translation": [
+        "The cufflinks move past the open area",
+        "as you watch them float away!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "As if taunting you, the cufflinks",
+        "float away in a zig-zag pattern down",
+        "the winding path!",
+        ""
+      ],
+      "Translation": [
+        "As if taunting you, the cufflinks",
+        "float away in a zig-zag pattern down",
+        "the winding path!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "You chase the cufflinks into a small",
+        "room, but when you enter, you do not",
+        "see them...",
+        "[Page]",
+        "",
+        "Where did they disappear to? There are",
+        "no other exits from this room, and you",
+        "are sure you saw them enter.",
+        ""
+      ],
+      "Translation": [
+        "You chase the cufflinks into a small",
+        "room, but when you enter, you do not",
+        "see them...",
+        "[Page]",
+        "",
+        "Where did they disappear to? There are",
+        "no other exits from this room, and you",
+        "are sure you saw them enter.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "You move through the hidden passage",
+        "and finally catch up to the cufflinks",
+        "floating in the center of the room!",
+        ""
+      ],
+      "Translation": [
+        "You move through the hidden passage",
+        "and finally catch up to the cufflinks",
+        "floating in the center of the room!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "You reach out to the cufflinks but",
+        "abruptly sense danger and quickly",
+        "withdraw your hand!",
+        ""
+      ],
+      "Translation": [
+        "You reach out to the cufflinks but",
+        "abruptly sense danger and quickly",
+        "withdraw your hand!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "It is then that you find the floating",
+        "cufflinks were a chameleon changing",
+        "its color to match the surroundings!",
+        "[Page]",
+        "",
+        "Your dogged pursuit must have made it",
+        "impatient, causing it to shed its",
+        "disguise and appear before you!",
+        "[Page]",
+        "",
+        "Knowing its trick now, you should have",
+        "nothing to fear. Take up your weapons",
+        "and fight!",
+        ""
+      ],
+      "Translation": [
+        "It is then that you find the floating",
+        "cufflinks were a chameleon changing",
+        "its color to match the surroundings!",
+        "[Page]",
+        "",
+        "Your dogged pursuit must have made it",
+        "impatient, causing it to shed its",
+        "disguise and appear before you!",
+        "[Page]",
+        "",
+        "Knowing its trick now, you should have",
+        "nothing to fear. Take up your weapons",
+        "and fight!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "As you enter the small room, you keep",
+        "your guard up as cast an eye over",
+        "your surroundings...",
+        "[Page]",
+        "",
+        "You somehow doubt that the cufflinks",
+        "returned to the same path...",
+        ""
+      ],
+      "Translation": [
+        "As you enter the small room, you keep",
+        "your guard up as cast an eye over",
+        "your surroundings...",
+        "[Page]",
+        "",
+        "You somehow doubt that the cufflinks",
+        "returned to the same path...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "You retrace your steps, searching for",
+        "the cufflinks, but you seem to have",
+        "lost track of them...",
+        "[Page]",
+        "",
+        "The best approach might be to return",
+        "to the site of the summit and begin",
+        "your search anew.",
+        ""
+      ],
+      "Translation": [
+        "You retrace your steps, searching for",
+        "the cufflinks, but you seem to have",
+        "lost track of them...",
+        "[Page]",
+        "",
+        "The best approach might be to return",
+        "to the site of the summit and begin",
+        "your search anew.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "You run toward where the cufflinks",
+        "were, but there is already no trace",
+        "of them left...",
+        "[Page]",
+        "",
+        "It appears that their trail has gone",
+        "cold due to your tardiness.",
+        "[Page]",
+        "",
+        "If you hope to catch them, you must",
+        "avoid unnecessary battles, and pursue",
+        "them by the quickest route.",
+        "[Page]",
+        "",
+        "The best approach might be to return",
+        "to the site of the summit and begin",
+        "your search anew.",
+        ""
+      ],
+      "Translation": [
+        "You run toward where the cufflinks",
+        "were, but there is already no trace",
+        "of them left...",
+        "[Page]",
+        "",
+        "It appears that their trail has gone",
+        "cold due to your tardiness.",
+        "[Page]",
+        "",
+        "If you hope to catch them, you must",
+        "avoid unnecessary battles, and pursue",
+        "them by the quickest route.",
+        "[Page]",
+        "",
+        "The best approach might be to return",
+        "to the site of the summit and begin",
+        "your search anew.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "When you return to the summit site,",
+        "you see the cufflinks floating there",
+        "again, as if mocking you.",
+        "[Page]",
+        "",
+        "More determined than ever to capture",
+        "them this time, you go on the chase!",
+        ""
+      ],
+      "Translation": [
+        "When you return to the summit site,",
+        "you see the cufflinks floating there",
+        "again, as if mocking you.",
+        "[Page]",
+        "",
+        "More determined than ever to capture",
+        "them this time, you go on the chase!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "You suddenly remember what it was that",
+        "brought you to this labyrinth...",
+        "[Page]",
+        "",
+        "You had agreed to search for the",
+        "Outland Count's cufflinks.",
+        "[Page]",
+        "",
+        "If you intend to fulfill the request,",
+        "you must go back to the site of the",
+        "summit and find the cufflinks.",
+        ""
+      ],
+      "Translation": [
+        "You suddenly remember what it was that",
+        "brought you to this labyrinth...",
+        "[Page]",
+        "",
+        "You had agreed to search for the",
+        "Outland Count's cufflinks.",
+        "[Page]",
+        "",
+        "If you intend to fulfill the request,",
+        "you must go back to the site of the",
+        "summit and find the cufflinks.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "After subduing the beast, you reach",
+        "out once more for the Outland Count's",
+        "lost trinket!",
+        ""
+      ],
+      "Translation": [
+        "After subduing the beast, you reach",
+        "out once more for the Outland Count's",
+        "lost trinket!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "You cannot see anything about the",
+        "polished cufflinks that would cause",
+        "the Outland Count to value them so.",
+        "[Page]",
+        "",
+        "But when you turn them over, the",
+        "reason instantly becomes apparent.",
+        "[Page]",
+        "",
+        "There, the message \"To my husband,",
+        "with eternal love\" is inscribed.",
+        "[Page]",
+        "",
+        "Understanding the situation more",
+        "fully, you take care not to lose or",
+        "damage them and return to Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "You cannot see anything about the",
+        "polished cufflinks that would cause",
+        "the Outland Count to value them so.",
+        "[Page]",
+        "",
+        "But when you turn them over, the",
+        "reason instantly becomes apparent.",
+        "[Page]",
+        "",
+        "There, the message \"To my husband,",
+        "with eternal love\" is inscribed.",
+        "[Page]",
+        "",
+        "Understanding the situation more",
+        "fully, you take care not to lose or",
+        "damage them and return to Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": true,
+      "Original": [
+        "Debug text. Arrival time was",
+        "[Number:0]/[Number:1] minutes. Next aimed",
+        "time is [Number:2] minutes.",
+        ""
+      ],
+      "Translation": [
+        "Debug text. Arrival time was",
+        "[Number:0]/[Number:1] minutes. Next aimed",
+        "time is [Number:2] minutes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": true,
+      "Original": [
+        "Debug text. Arrival time was",
+        "[Number:0]/[Number:2] minutes.",
+        ""
+      ],
+      "Translation": [
+        "Debug text. Arrival time was",
+        "[Number:0]/[Number:2] minutes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]South Sanctuary[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]South Sanctuary[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

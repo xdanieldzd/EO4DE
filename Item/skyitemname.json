@@ -1,0 +1,2503 @@
+{
+  "FileType": "StringTable",
+  "Description": "Skyship equipment/food/etc. names",
+  "RelativePath": "Item\\skyitemname.tbl",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "NONE"
+      ],
+      "Translation": [
+        "NONE"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Tharsis Buffalo"
+      ],
+      "Translation": [
+        "Tharsis-Büffel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Red Horned Ox"
+      ],
+      "Translation": [
+        "Rothorn-Ochse"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Black Taurus"
+      ],
+      "Translation": [
+        "Schwarzer Stier"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Tharsis Duck"
+      ],
+      "Translation": [
+        "Tharsis-Ente"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Heavy Duck"
+      ],
+      "Translation": [
+        "Schwere Ente"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Goose"
+      ],
+      "Translation": [
+        "Goldene Gans"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Gray Trout"
+      ],
+      "Translation": [
+        "Graue Forelle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Red Kokanee"
+      ],
+      "Translation": [
+        "Rotlachs"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Sakura Trout"
+      ],
+      "Translation": [
+        "Sakura-Forelle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Baby Carrot"
+      ],
+      "Translation": [
+        "Kleine Karotte"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Sugar Carrot"
+      ],
+      "Translation": [
+        "Zuckerkarotte"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Ebony Carrot"
+      ],
+      "Translation": [
+        "Schwarze Karotte"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Forest Wild Pig"
+      ],
+      "Translation": [
+        "Waldwildschwein"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Silk White Pig"
+      ],
+      "Translation": [
+        "Seidenschwein"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Gray Black Pig"
+      ],
+      "Translation": [
+        "Grauschwein"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Apricot Maitake"
+      ],
+      "Translation": [
+        "Apricot-Maitake"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Oyster Shroom"
+      ],
+      "Translation": [
+        "Austernpilz"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Gold Stinkhorn"
+      ],
+      "Translation": [
+        "Stinkmorchel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Bearded Catfish"
+      ],
+      "Translation": [
+        "Bärtiger Wels"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Fatty Catfish"
+      ],
+      "Translation": [
+        "Dicker Wels"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Galaxy Catfish"
+      ],
+      "Translation": [
+        "Galaktischer Wels"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "Forest Ostrich"
+      ],
+      "Translation": [
+        "Waldstrauß"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "Humped Ostrich"
+      ],
+      "Translation": [
+        "Buckliger Strauß"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "Scarlet Emu"
+      ],
+      "Translation": [
+        "Scharlachemu"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "Mountain Hare"
+      ],
+      "Translation": [
+        "Schneehase"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Snowy Lapin"
+      ],
+      "Translation": [
+        "Schneekaninchen"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Happiness Hare"
+      ],
+      "Translation": [
+        "Glückshase"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Amber Turkey"
+      ],
+      "Translation": [
+        "Bernsteintruthahn"
+      ],
+      "Notes": [
+        "Overflow!"
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "Snow Turkey"
+      ],
+      "Translation": [
+        "Schneetruthahn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "Royal Turkey"
+      ],
+      "Translation": [
+        "Königstruthahn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Flying Smelt"
+      ],
+      "Translation": [
+        "Flugstint"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "Stormy Smelt"
+      ],
+      "Translation": [
+        "Sturmstint"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "Sweetfish"
+      ],
+      "Translation": [
+        "Ayu"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "Sunshine Apple"
+      ],
+      "Translation": [
+        "Sonnenapfel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "White Apple"
+      ],
+      "Translation": [
+        "Weißer Apfel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "Crimson Apple"
+      ],
+      "Translation": [
+        "Blutroter Apfel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Cloud Goat"
+      ],
+      "Translation": [
+        "Wolkenziege"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "Milky Goat"
+      ],
+      "Translation": [
+        "Milchziege"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "Furry Goat"
+      ],
+      "Translation": [
+        "Pelzziege"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Quail"
+      ],
+      "Translation": [
+        "Goldwachtel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Prism Pheasant"
+      ],
+      "Translation": [
+        "Prismafasan"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Love Chickens"
+      ],
+      "Translation": [
+        "Liebeshühnchen"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "Crucian Carp"
+      ],
+      "Translation": [
+        "Karausche"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "Silver Carp"
+      ],
+      "Translation": [
+        "Silberkarpfen"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": false,
+      "Original": [
+        "Dragon Carp"
+      ],
+      "Translation": [
+        "Drachenkoi"
+      ],
+      "Notes": [
+        "Übersetzung prüfen, echter Fisch! \"Butterfly-Koi\"?"
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "Pepo Pumpkin"
+      ],
+      "Translation": [
+        "Gartenkürbis"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "Marron Gourd"
+      ],
+      "Translation": [
+        "Kastanienkürbis"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "Meteor Pumpkin"
+      ],
+      "Translation": [
+        "Meteor-Kürbis"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "Fire Crystal"
+      ],
+      "Translation": [
+        "Feuerkristall"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": false,
+      "Original": [
+        "Flash Crystal"
+      ],
+      "Translation": [
+        "Blitzkristall"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "Ice Crystal"
+      ],
+      "Translation": [
+        "Eiskristall"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": false,
+      "Original": [
+        "Albino Taurus"
+      ],
+      "Translation": [
+        "Albinostier"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Egg"
+      ],
+      "Translation": [
+        "Goldenes Ei"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": false,
+      "Original": [
+        "Immortal Peach"
+      ],
+      "Translation": [
+        "Ewiger Pfirsich"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 108,
+      "IsIgnored": false,
+      "Original": [
+        "Black Diamond"
+      ],
+      "Translation": [
+        "Diamant-Trüffel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 109,
+      "IsIgnored": false,
+      "Original": [
+        "Ice Pomegranate"
+      ],
+      "Translation": [
+        "Eis-Granatapfel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Crab"
+      ],
+      "Translation": [
+        "Goldene Krabbe"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "Emperor Peacock"
+      ],
+      "Translation": [
+        "Kaiserfasan"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "Cloud Boar"
+      ],
+      "Translation": [
+        "Wolkeneber"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 117,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 118,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 119,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 128,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 129,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Horn"
+      ],
+      "Translation": [
+        "Waldhorn"
+      ],
+      "Notes": [
+        "\"Goldenes Waldhorn\""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Windcock"
+      ],
+      "Translation": [
+        "Wetterhahn"
+      ],
+      "Notes": [
+        "\"Goldener Wetterhahn\""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Fish Flag"
+      ],
+      "Translation": [
+        "Fischflagge"
+      ],
+      "Notes": [
+        "\"Goldene Fischflagge\""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": false,
+      "Original": [
+        "Harvest Charm"
+      ],
+      "Translation": [
+        "Ernteamulett"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": false,
+      "Original": [
+        "Hunter's Guide"
+      ],
+      "Translation": [
+        "Jäger-Leitfaden"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": false,
+      "Original": [
+        "Spotter's Book"
+      ],
+      "Translation": [
+        "Späher-Fibel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": false,
+      "Original": [
+        "Fisher's Manual"
+      ],
+      "Translation": [
+        "Angelratgeber"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 136,
+      "IsIgnored": false,
+      "Original": [
+        "Farmer's Almanac"
+      ],
+      "Translation": [
+        "Bauernkalender"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 137,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 138,
+      "IsIgnored": false,
+      "Original": [
+        "Emergency Pole"
+      ],
+      "Translation": [
+        "Notfallmast"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 139,
+      "IsIgnored": false,
+      "Original": [
+        "Dowsing Rods"
+      ],
+      "Translation": [
+        "Wünschelruten"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 140,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": false,
+      "Original": [
+        "Foodapult"
+      ],
+      "Translation": [
+        "Futter-Katapult"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": false,
+      "Original": [
+        "Foodapult Mk II"
+      ],
+      "Translation": [
+        "Futter-Katapult V2"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": false,
+      "Original": [
+        "Windrider Bell"
+      ],
+      "Translation": [
+        "Windreiter-Glocke"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": false,
+      "Original": [
+        "Storm God Icon"
+      ],
+      "Translation": [
+        "Sturmgott-Ikone"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": false,
+      "Original": [
+        "Twin Propeller"
+      ],
+      "Translation": [
+        "Doppelpropeller"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 147,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 149,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 151,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 152,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 153,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 154,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 156,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 157,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 158,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 159,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 160,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 166,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 167,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 168,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 169,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 170,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 177,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 178,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 179,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 180,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 183,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 184,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 185,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 186,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 187,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 188,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 189,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 190,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 191,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

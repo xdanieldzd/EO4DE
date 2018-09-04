@@ -1,0 +1,318 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_064",
+  "RelativePath": "Event\\QR\\QR_064.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, that request... I am sorry to say",
+        "it is yet another search for the",
+        "hapless Raht.",
+        "[Page]",
+        "",
+        "It seems that he rushed out again upon",
+        "hearing that the Sacred Mountains are",
+        "open... His father is the client.",
+        "[Page]",
+        "",
+        "As usual, you may ask the client",
+        "himself for further details. I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Oh, that request... I am sorry to say",
+        "it is yet another search for the",
+        "hapless Raht.",
+        "[Page]",
+        "",
+        "It seems that he rushed out again upon",
+        "hearing that the Sacred Mountains are",
+        "open... His father is the client.",
+        "[Page]",
+        "",
+        "As usual, you may ask the client",
+        "himself for further details. I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Well done, everyone, in successfully",
+        "finding Raht.",
+        "[Page]",
+        "",
+        "At first, I thought him a nuisance,",
+        "but now... I feel a strange attachment",
+        "to him.",
+        "[Page]",
+        "",
+        "Is the same true for you? If so, we",
+        "may all be fools charmed by his",
+        "misadventures.",
+        ""
+      ],
+      "Translation": [
+        "Well done, everyone, in successfully",
+        "finding Raht.",
+        "[Page]",
+        "",
+        "At first, I thought him a nuisance,",
+        "but now... I feel a strange attachment",
+        "to him.",
+        "[Page]",
+        "",
+        "Is the same true for you? If so, we",
+        "may all be fools charmed by his",
+        "misadventures.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed through the frigid",
+        "mountains, you discover a wrecked",
+        "skyship in the snowy plains.",
+        "[Page]",
+        "",
+        "Nearby is a collapsed man. When he",
+        "notices you, he greets you with a",
+        "thumbs up.",
+        "[Page]",
+        "",
+        "There is no mistaking it now... This",
+        "is Raht, the missing explorer you",
+        "were charged with finding.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed through the frigid",
+        "mountains, you discover a wrecked",
+        "skyship in the snowy plains.",
+        "[Page]",
+        "",
+        "Nearby is a collapsed man. When he",
+        "notices you, he greets you with a",
+        "thumbs up.",
+        "[Page]",
+        "",
+        "There is no mistaking it now... This",
+        "is Raht, the missing explorer you",
+        "were charged with finding.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You quickly land and rush to his side.",
+        "Raht smiles powerlessly and speaks",
+        "in a halting voice.",
+        "[Page]",
+        "",
+        "\"I'm sorry I keep putting you in this",
+        "situation. Even I know I'm not cut",
+        "out to be an explorer. But...",
+        "[Page]",
+        "",
+        "\"I don't have much time left...\"",
+        "He rolls back his sleeve to show the",
+        "horrendous bruises covering his arm.",
+        "[Page]",
+        "",
+        "\"It's a mysterious, rare disease. The",
+        "bruises will eventually cover my whole",
+        "body, and then... There's no cure.",
+        "[Page]",
+        "",
+        "\"That's why while I could still move--",
+        "even though I'm hurt and can't now--",
+        "I wanted to see the world.",
+        "[Page]",
+        "",
+        "\"Please don't tell my family about",
+        "any of this. Oh, but do tell them",
+        "I'm here!\"",
+        "[Page]",
+        "",
+        "As he cracks a weak joke, you realize",
+        "that he has returned to his usual",
+        "feckless, friendly manner.",
+        "[Page]",
+        "",
+        "You decide to board your skyship in",
+        "order to return to Tharsis and report",
+        "Raht's location to his father.",
+        ""
+      ],
+      "Translation": [
+        "You quickly land and rush to his side.",
+        "Raht smiles powerlessly and speaks",
+        "in a halting voice.",
+        "[Page]",
+        "",
+        "\"I'm sorry I keep putting you in this",
+        "situation. Even I know I'm not cut",
+        "out to be an explorer. But...",
+        "[Page]",
+        "",
+        "\"I don't have much time left...\"",
+        "He rolls back his sleeve to show the",
+        "horrendous bruises covering his arm.",
+        "[Page]",
+        "",
+        "\"It's a mysterious, rare disease. The",
+        "bruises will eventually cover my whole",
+        "body, and then... There's no cure.",
+        "[Page]",
+        "",
+        "\"That's why while I could still move--",
+        "even though I'm hurt and can't now--",
+        "I wanted to see the world.",
+        "[Page]",
+        "",
+        "\"Please don't tell my family about",
+        "any of this. Oh, but do tell them",
+        "I'm here!\"",
+        "[Page]",
+        "",
+        "As he cracks a weak joke, you realize",
+        "that he has returned to his usual",
+        "feckless, friendly manner.",
+        "[Page]",
+        "",
+        "You decide to board your skyship in",
+        "order to return to Tharsis and report",
+        "Raht's location to his father.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Below you is the explorer Raht,",
+        "who waves to you from his position",
+        "collapsed on the ground.",
+        "[Page]",
+        "",
+        "You must hurry and tell the client,",
+        "his father, of his location in order",
+        "to see him rescued.",
+        ""
+      ],
+      "Translation": [
+        "Below you is the explorer Raht,",
+        "who waves to you from his position",
+        "collapsed on the ground.",
+        "[Page]",
+        "",
+        "You must hurry and tell the client,",
+        "his father, of his location in order",
+        "to see him rescued.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

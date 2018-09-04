@@ -1,0 +1,4718 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "skillexpbattle",
+  "RelativePath": "Skill\\skillexpbattle.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Attack",
+        ""
+      ],
+      "Translation": [
+        "Attack",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Enemies you hit suffer defense and",
+        "evasion penalties.",
+        ""
+      ],
+      "Translation": [
+        "Enemies you hit suffer defense and",
+        "evasion penalties.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Enemies you hit suffer greater",
+        "defense and evasion penalties.",
+        ""
+      ],
+      "Translation": [
+        "Enemies you hit suffer greater",
+        "defense and evasion penalties.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Enemies you hit suffer greater",
+        "defense and evasion penalties.",
+        ""
+      ],
+      "Translation": [
+        "Enemies you hit suffer greater",
+        "defense and evasion penalties.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of halving physical attack",
+        "damage to allies on your line.",
+        ""
+      ],
+      "Translation": [
+        "Chance of halving physical attack",
+        "damage to allies on your line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Increases physical defense when",
+        "two weapons are equipped.",
+        ""
+      ],
+      "Translation": [
+        "Increases physical defense when",
+        "two weapons are equipped.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "When attacking before all enemies,",
+        "your damage and accuracy increases.",
+        ""
+      ],
+      "Translation": [
+        "When attacking before all enemies,",
+        "your damage and accuracy increases.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Increases added attack's damage",
+        "with each successive added attack.",
+        ""
+      ],
+      "Translation": [
+        "Increases added attack's damage",
+        "with each successive added attack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your physical attack power.",
+        ""
+      ],
+      "Translation": [
+        "Increases your physical attack power.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your defense against",
+        "physical attacks.",
+        ""
+      ],
+      "Translation": [
+        "Increases your defense against",
+        "physical attacks.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Lower your defense for 5 turns while",
+        "acting first and increasing attack.",
+        ""
+      ],
+      "Translation": [
+        "Lower your defense for 5 turns while",
+        "acting first and increasing attack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "For 3 turns, more allies gain",
+        "added attacks from Link skills.",
+        ""
+      ],
+      "Translation": [
+        "For 3 turns, more allies gain",
+        "added attacks from Link skills.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Melee bash attack to 1 enemy. Lowers",
+        "its physical damage for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Melee bash attack to 1 enemy. Lowers",
+        "its physical damage for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Melee bash attack to 1 enemy. Lowers",
+        "its elemental damage for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Melee bash attack to 1 enemy. Lowers",
+        "its elemental damage for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "A close-range attack against",
+        "1 enemy at the turn's start.",
+        ""
+      ],
+      "Translation": [
+        "A close-range attack against",
+        "1 enemy at the turn's start.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Melee fire attack to 1 enemy. Adds",
+        "fire attack to next ally's strike.",
+        ""
+      ],
+      "Translation": [
+        "Melee fire attack to 1 enemy. Adds",
+        "fire attack to next ally's strike.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Melee ice attack to 1 enemy. Adds",
+        "ice attack to next ally's strike.",
+        ""
+      ],
+      "Translation": [
+        "Melee ice attack to 1 enemy. Adds",
+        "ice attack to next ally's strike.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Melee volt attack to 1 enemy. Adds",
+        "volt attack to next ally's strike.",
+        ""
+      ],
+      "Translation": [
+        "Melee volt attack to 1 enemy. Adds",
+        "volt attack to next ally's strike.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Attack an enemy twice with your",
+        "equipped weapon.",
+        ""
+      ],
+      "Translation": [
+        "Attack an enemy twice with your",
+        "equipped weapon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Melee cut attack that splashes",
+        "from the targeted enemy.",
+        ""
+      ],
+      "Translation": [
+        "Melee cut attack that splashes",
+        "from the targeted enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Slow but powerful melee cut attack",
+        "to 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Slow but powerful melee cut attack",
+        "to 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Melee stab attack that pierces",
+        "across the enemy lines.",
+        ""
+      ],
+      "Translation": [
+        "Melee stab attack that pierces",
+        "across the enemy lines.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Flurry of random melee stab attacks",
+        "to a line of enemies.",
+        ""
+      ],
+      "Translation": [
+        "Flurry of random melee stab attacks",
+        "to a line of enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Heals 1 ally's HP while navigating",
+        "a dungeon.",
+        ""
+      ],
+      "Translation": [
+        "Heals 1 ally's HP while navigating",
+        "a dungeon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Greater chance of finding extra ore",
+        "when mining.",
+        ""
+      ],
+      "Translation": [
+        "Greater chance of finding extra ore",
+        "when mining.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Increases STR gains from cooked food.",
+        ""
+      ],
+      "Translation": [
+        "Increases STR gains from cooked food.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Greatly increases damage to enemies",
+        "suffering from ailments.",
+        ""
+      ],
+      "Translation": [
+        "Greatly increases damage to enemies",
+        "suffering from ailments.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Further increases damage to enemies",
+        "suffering from ailments.",
+        ""
+      ],
+      "Translation": [
+        "Further increases damage to enemies",
+        "suffering from ailments.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Further increases damage to enemies",
+        "suffering from ailments.",
+        ""
+      ],
+      "Translation": [
+        "Further increases damage to enemies",
+        "suffering from ailments.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Can attack twice per turn if two",
+        "weapons are equipped.",
+        ""
+      ],
+      "Translation": [
+        "Can attack twice per turn if two",
+        "weapons are equipped.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Weapon attack skills may sometimes",
+        "activate twice.",
+        ""
+      ],
+      "Translation": [
+        "Weapon attack skills may sometimes",
+        "activate twice.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Shadow Cloak may activate at the",
+        "start of battle.",
+        ""
+      ],
+      "Translation": [
+        "Shadow Cloak may activate at the",
+        "start of battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Spread Throw may activate at the",
+        "start of battle.",
+        ""
+      ],
+      "Translation": [
+        "Spread Throw may activate at the",
+        "start of battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Increases attack power with each",
+        "status ailment inflicted.",
+        ""
+      ],
+      "Translation": [
+        "Increases attack power with each",
+        "status ailment inflicted.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Increases action speed, hit rate,",
+        "and evasion rate.",
+        ""
+      ],
+      "Translation": [
+        "Increases action speed, hit rate,",
+        "and evasion rate.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Nulls one physical attack in the",
+        "next 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Nulls one physical attack in the",
+        "next 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the chances of 1 ally to",
+        "be targeted by enemies for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Increases the chances of 1 ally to",
+        "be targeted by enemies for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "The next Throw skill you use will",
+        "attack all enemies.",
+        ""
+      ],
+      "Translation": [
+        "The next Throw skill you use will",
+        "attack all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Melee ice cut attack to 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Melee ice cut attack to 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Melee attack to 1 enemy. If not hit",
+        "this turn, do another cut attack.",
+        ""
+      ],
+      "Translation": [
+        "Melee attack to 1 enemy. If not hit",
+        "this turn, do another cut attack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "Melee instant kill to 1 enemy. Higher",
+        "success rate against ailing enemies.",
+        ""
+      ],
+      "Translation": [
+        "Melee instant kill to 1 enemy. Higher",
+        "success rate against ailing enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Melee cut attack with increased",
+        "damage against ailing enemies.",
+        ""
+      ],
+      "Translation": [
+        "Melee cut attack with increased",
+        "damage against ailing enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "Multiple melee cut attacks to",
+        "1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Multiple melee cut attacks to",
+        "1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged cut attack to 1 enemy.",
+        "May blind.",
+        ""
+      ],
+      "Translation": [
+        "Ranged cut attack to 1 enemy.",
+        "May blind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged cut attack to 1 enemy.",
+        "May poison.",
+        ""
+      ],
+      "Translation": [
+        "Ranged cut attack to 1 enemy.",
+        "May poison.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged cut attack to 1 enemy.",
+        "May induce sleep.",
+        ""
+      ],
+      "Translation": [
+        "Ranged cut attack to 1 enemy.",
+        "May induce sleep.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged cut attack to 1 enemy.",
+        "May paralyze.",
+        ""
+      ],
+      "Translation": [
+        "Ranged cut attack to 1 enemy.",
+        "May paralyze.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged cut attack to 1 enemy.",
+        "May curse.",
+        ""
+      ],
+      "Translation": [
+        "Ranged cut attack to 1 enemy.",
+        "May curse.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the chance of acting",
+        "first in a battle.",
+        ""
+      ],
+      "Translation": [
+        "Increases the chance of acting",
+        "first in a battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Greater chance of finding extra",
+        "plants when gathering.",
+        ""
+      ],
+      "Translation": [
+        "Greater chance of finding extra",
+        "plants when gathering.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Increases AGI gains from cooked food.",
+        ""
+      ],
+      "Translation": [
+        "Increases AGI gains from cooked food.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Recover some TP each time you're",
+        "attacked while on the front line.",
+        ""
+      ],
+      "Translation": [
+        "Recover some TP each time you're",
+        "attacked while on the front line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Recover more TP each time you're",
+        "attacked while on the front line.",
+        ""
+      ],
+      "Translation": [
+        "Recover more TP each time you're",
+        "attacked while on the front line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Recover more TP each time you're",
+        "attacked while on the front line.",
+        ""
+      ],
+      "Translation": [
+        "Recover more TP each time you're",
+        "attacked while on the front line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your natural recovery rate",
+        "from ailments and binds.",
+        ""
+      ],
+      "Translation": [
+        "Increases your natural recovery rate",
+        "from ailments and binds.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "When allies in your line Defend,",
+        "they recover some HP.",
+        ""
+      ],
+      "Translation": [
+        "When allies in your line Defend,",
+        "they recover some HP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "Taunt may activate at the start",
+        "of battle.",
+        ""
+      ],
+      "Translation": [
+        "Taunt may activate at the start",
+        "of battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "May block physical/elemental attacks",
+        "against you while in the front line.",
+        ""
+      ],
+      "Translation": [
+        "May block physical/elemental attacks",
+        "against you while in the front line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your defense against",
+        "physical attacks.",
+        ""
+      ],
+      "Translation": [
+        "Increases your defense against",
+        "physical attacks.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your maximum HP.",
+        ""
+      ],
+      "Translation": [
+        "Increases your maximum HP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your physical and elemental",
+        "defense for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Increases your physical and elemental",
+        "defense for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "Increases chance of enemies",
+        "targeting you for 4 turns.",
+        ""
+      ],
+      "Translation": [
+        "Increases chance of enemies",
+        "targeting you for 4 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "Melee volt bash attack to 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Melee volt bash attack to 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "Melee bash attack to 1 enemy.",
+        "Recovers some HP.",
+        ""
+      ],
+      "Translation": [
+        "Melee bash attack to 1 enemy.",
+        "Recovers some HP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "Strong melee bash attack to 1 enemy",
+        "after 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Strong melee bash attack to 1 enemy",
+        "after 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "Melee bash attack with a splash",
+        "effect. Also damages yourself.",
+        ""
+      ],
+      "Translation": [
+        "Melee bash attack with a splash",
+        "effect. Also damages yourself.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "Protects 1 ally for this turn and",
+        "takes any damage they would sustain.",
+        ""
+      ],
+      "Translation": [
+        "Protects 1 ally for this turn and",
+        "takes any damage they would sustain.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "Protects one line for this turn and",
+        "takes any damage they would sustain.",
+        ""
+      ],
+      "Translation": [
+        "Protects one line for this turn and",
+        "takes any damage they would sustain.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "Protects the party for this turn and",
+        "takes any damage they would sustain.",
+        ""
+      ],
+      "Translation": [
+        "Protects the party for this turn and",
+        "takes any damage they would sustain.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Takes damage in place of allies with",
+        "under 50% HP for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Takes damage in place of allies with",
+        "under 50% HP for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Protects a line of allies from one",
+        "status ailment over 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Protects a line of allies from one",
+        "status ailment over 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "Increases all allies' physical",
+        "defense for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Increases all allies' physical",
+        "defense for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Increases all allies' elemental",
+        "defense for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Increases all allies' elemental",
+        "defense for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "See the location of FOEs on the map",
+        "for a certain number of steps.",
+        ""
+      ],
+      "Translation": [
+        "See the location of FOEs on the map",
+        "for a certain number of steps.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "Greater chance of finding extra ore",
+        "when mining.",
+        ""
+      ],
+      "Translation": [
+        "Greater chance of finding extra ore",
+        "when mining.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "Increases VIT gains from cooked food.",
+        ""
+      ],
+      "Translation": [
+        "Increases VIT gains from cooked food.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "Bow skills may deal critical hits.",
+        "Damage from critical hits increases.",
+        ""
+      ],
+      "Translation": [
+        "Bow skills may deal critical hits.",
+        "Damage from critical hits increases.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "Further increases the damage of",
+        "critical hits.",
+        ""
+      ],
+      "Translation": [
+        "Further increases the damage of",
+        "critical hits.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "Further increases the damage of",
+        "critical hits.",
+        ""
+      ],
+      "Translation": [
+        "Further increases the damage of",
+        "critical hits.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Increases drop rate for materials",
+        "from defeated monsters.",
+        ""
+      ],
+      "Translation": [
+        "Increases drop rate for materials",
+        "from defeated monsters.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Increases critical hit rate.",
+        ""
+      ],
+      "Translation": [
+        "Increases critical hit rate.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "Performs a follow-up attack when an",
+        "ally binds an enemy.",
+        ""
+      ],
+      "Translation": [
+        "Performs a follow-up attack when an",
+        "ally binds an enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "Increases critical hit rate",
+        "against bound enemies.",
+        ""
+      ],
+      "Translation": [
+        "Increases critical hit rate",
+        "against bound enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": false,
+      "Original": [
+        "Can prevent the party from being",
+        "surprised in battle.",
+        ""
+      ],
+      "Translation": [
+        "Can prevent the party from being",
+        "surprised in battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your physical attack power.",
+        ""
+      ],
+      "Translation": [
+        "Increases your physical attack power.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "Decreases 1 enemy's physical defense",
+        "for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Decreases 1 enemy's physical defense",
+        "for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the party's hit rate",
+        "for 5 turns.",
+        ""
+      ],
+      "Translation": [
+        "Increases the party's hit rate",
+        "for 5 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your critical hit rate",
+        "for 5 turns.",
+        ""
+      ],
+      "Translation": [
+        "Increases your critical hit rate",
+        "for 5 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged stab attack to 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Ranged stab attack to 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "May bind the enemy's legs.",
+        ""
+      ],
+      "Translation": [
+        "May bind the enemy's legs.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "May bind the enemy's arms.",
+        ""
+      ],
+      "Translation": [
+        "May bind the enemy's arms.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "May bind the enemy's head.",
+        ""
+      ],
+      "Translation": [
+        "May bind the enemy's head.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged stab attack that pierces",
+        "across the enemy lines.",
+        ""
+      ],
+      "Translation": [
+        "Ranged stab attack that pierces",
+        "across the enemy lines.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged stab attack to 1 enemy that",
+        "ignores buffs and physical defenses.",
+        ""
+      ],
+      "Translation": [
+        "Ranged stab attack to 1 enemy that",
+        "ignores buffs and physical defenses.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged stab attack that pierces enemy",
+        "lines. Cooldown period of 2 turns.",
+        ""
+      ],
+      "Translation": [
+        "Ranged stab attack that pierces enemy",
+        "lines. Cooldown period of 2 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged stab attack to an entire",
+        "line of enemies.",
+        ""
+      ],
+      "Translation": [
+        "Ranged stab attack to an entire",
+        "line of enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged stab attacks to all enemies",
+        "at random.",
+        ""
+      ],
+      "Translation": [
+        "Ranged stab attacks to all enemies",
+        "at random.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged stab attack that removes enemy",
+        "binds. Increases damage for each bind.",
+        ""
+      ],
+      "Translation": [
+        "Ranged stab attack that removes enemy",
+        "binds. Increases damage for each bind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "Decreases the encounter rate for",
+        "a certain number of steps.",
+        ""
+      ],
+      "Translation": [
+        "Decreases the encounter rate for",
+        "a certain number of steps.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of finding extra materials",
+        "when chopping wood.",
+        ""
+      ],
+      "Translation": [
+        "Chance of finding extra materials",
+        "when chopping wood.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "Increases chance of finding rare",
+        "materials at a supply point.",
+        ""
+      ],
+      "Translation": [
+        "Increases chance of finding rare",
+        "materials at a supply point.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the amount of HP recovered",
+        "with the party's healing skills.",
+        ""
+      ],
+      "Translation": [
+        "Increases the amount of HP recovered",
+        "with the party's healing skills.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "Further increases HP recovered with",
+        "the party's healing skills.",
+        ""
+      ],
+      "Translation": [
+        "Further increases HP recovered with",
+        "the party's healing skills.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": false,
+      "Original": [
+        "Further increases HP recovered with",
+        "the party's healing skills.",
+        ""
+      ],
+      "Translation": [
+        "Further increases HP recovered with",
+        "the party's healing skills.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": false,
+      "Original": [
+        "Restores some HP to the entire",
+        "party after a battle.",
+        ""
+      ],
+      "Translation": [
+        "Restores some HP to the entire",
+        "party after a battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of restoring some of an",
+        "ally's HP if it falls below 30%.",
+        ""
+      ],
+      "Translation": [
+        "Chance of restoring some of an",
+        "ally's HP if it falls below 30%.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of automatically reviving",
+        "an ally when they fall unconscious.",
+        ""
+      ],
+      "Translation": [
+        "Chance of automatically reviving",
+        "an ally when they fall unconscious.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 108,
+      "IsIgnored": false,
+      "Original": [
+        "Increases recovery amount for the",
+        "user's healing skills.",
+        ""
+      ],
+      "Translation": [
+        "Increases recovery amount for the",
+        "user's healing skills.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 109,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your resistance to binds.",
+        ""
+      ],
+      "Translation": [
+        "Increases your resistance to binds.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your maximum TP.",
+        ""
+      ],
+      "Translation": [
+        "Increases your maximum TP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "Increases effect of your HP healing",
+        "skills for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Increases effect of your HP healing",
+        "skills for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "Recovery, Refresh, Treat, and Full",
+        "Refresh heal more allies for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Recovery, Refresh, Treat, and Full",
+        "Refresh heal more allies for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "Restores some HP to 1 ally.",
+        ""
+      ],
+      "Translation": [
+        "Restores some HP to 1 ally.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": false,
+      "Original": [
+        "Restores some HP to one line",
+        "of allies.",
+        ""
+      ],
+      "Translation": [
+        "Restores some HP to one line",
+        "of allies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": false,
+      "Original": [
+        "Restores some HP to the entire party.",
+        ""
+      ],
+      "Translation": [
+        "Restores some HP to the entire party.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": false,
+      "Original": [
+        "Restores full HP to 1 ally.",
+        ""
+      ],
+      "Translation": [
+        "Restores full HP to 1 ally.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 117,
+      "IsIgnored": false,
+      "Original": [
+        "Revives a fallen ally.",
+        ""
+      ],
+      "Translation": [
+        "Revives a fallen ally.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 118,
+      "IsIgnored": false,
+      "Original": [
+        "Heals status weakening effects.",
+        ""
+      ],
+      "Translation": [
+        "Heals status weakening effects.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 119,
+      "IsIgnored": false,
+      "Original": [
+        "Heals status ailments.",
+        ""
+      ],
+      "Translation": [
+        "Heals status ailments.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": false,
+      "Original": [
+        "Heals binds.",
+        ""
+      ],
+      "Translation": [
+        "Heals binds.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "Heals all status weakening effects,",
+        "ailments, and binds for 1 ally.",
+        ""
+      ],
+      "Translation": [
+        "Heals all status weakening effects,",
+        "ailments, and binds for 1 ally.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "Melee bash attack to 1 enemy.",
+        "May stun.",
+        ""
+      ],
+      "Translation": [
+        "Melee bash attack to 1 enemy.",
+        "May stun.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "Melee bash attack to 1 enemy.",
+        "May induce sleep.",
+        ""
+      ],
+      "Translation": [
+        "Melee bash attack to 1 enemy.",
+        "May induce sleep.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "Melee attack to 1 enemy that reduces",
+        "its physical defense for this turn.",
+        ""
+      ],
+      "Translation": [
+        "Melee attack to 1 enemy that reduces",
+        "its physical defense for this turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "Greater chance of finding extra",
+        "plants when gathering.",
+        ""
+      ],
+      "Translation": [
+        "Greater chance of finding extra",
+        "plants when gathering.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "Eliminates the poison in certain food",
+        "while cooking it.",
+        ""
+      ],
+      "Translation": [
+        "Eliminates the poison in certain food",
+        "while cooking it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "Increases magical attack and defense",
+        "for allies in your line.",
+        ""
+      ],
+      "Translation": [
+        "Increases magical attack and defense",
+        "for allies in your line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 128,
+      "IsIgnored": false,
+      "Original": [
+        "Further increases magical attack and",
+        "defense for allies in your line.",
+        ""
+      ],
+      "Translation": [
+        "Further increases magical attack and",
+        "defense for allies in your line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 129,
+      "IsIgnored": false,
+      "Original": [
+        "Further increases magical attack and",
+        "defense for allies in your line.",
+        ""
+      ],
+      "Translation": [
+        "Further increases magical attack and",
+        "defense for allies in your line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of nulling an elemental",
+        "attack to an ally in your line.",
+        ""
+      ],
+      "Translation": [
+        "Chance of nulling an elemental",
+        "attack to an ally in your line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "Increases damage when striking an",
+        "enemy's weakness.",
+        ""
+      ],
+      "Translation": [
+        "Increases damage when striking an",
+        "enemy's weakness.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": false,
+      "Original": [
+        "Increases attack power of rune",
+        "skills.",
+        ""
+      ],
+      "Translation": [
+        "Increases attack power of rune",
+        "skills.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of not expending TP when",
+        "using a skill.",
+        ""
+      ],
+      "Translation": [
+        "Chance of not expending TP when",
+        "using a skill.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your maximum TP.",
+        ""
+      ],
+      "Translation": [
+        "Increases your maximum TP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": false,
+      "Original": [
+        "Increases elemental and untyped",
+        "attack power.",
+        ""
+      ],
+      "Translation": [
+        "Increases elemental and untyped",
+        "attack power.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 136,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the power of your magical",
+        "attack skills for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Increases the power of your magical",
+        "attack skills for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 137,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the party's fire resistance",
+        "and lowers the enemy's.",
+        ""
+      ],
+      "Translation": [
+        "Increases the party's fire resistance",
+        "and lowers the enemy's.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 138,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the party's ice resistance",
+        "and lowers the enemy's.",
+        ""
+      ],
+      "Translation": [
+        "Increases the party's ice resistance",
+        "and lowers the enemy's.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 139,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the party's volt resistance",
+        "and lowers the enemy's.",
+        ""
+      ],
+      "Translation": [
+        "Increases the party's volt resistance",
+        "and lowers the enemy's.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 140,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged untyped attack to all",
+        "enemies.",
+        ""
+      ],
+      "Translation": [
+        "Ranged untyped attack to all",
+        "enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged fire attack with a splash",
+        "effect.",
+        ""
+      ],
+      "Translation": [
+        "Ranged fire attack with a splash",
+        "effect.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged fire attack to all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Ranged fire attack to all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged fire attack to 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Ranged fire attack to 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged ice attack that pierces across",
+        "the enemy lines to hit two enemies.",
+        ""
+      ],
+      "Translation": [
+        "Ranged ice attack that pierces across",
+        "the enemy lines to hit two enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged ice attack to random enemies.",
+        ""
+      ],
+      "Translation": [
+        "Ranged ice attack to random enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged ice attack to all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Ranged ice attack to all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 147,
+      "IsIgnored": false,
+      "Original": [
+        "Melee volt attack to an entire line",
+        "of enemies.",
+        ""
+      ],
+      "Translation": [
+        "Melee volt attack to an entire line",
+        "of enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged volt attack to 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Ranged volt attack to 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 149,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged volt attack to random",
+        "enemies.",
+        ""
+      ],
+      "Translation": [
+        "Ranged volt attack to random",
+        "enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": false,
+      "Original": [
+        "Greater chance of finding extra",
+        "plants when gathering.",
+        ""
+      ],
+      "Translation": [
+        "Greater chance of finding extra",
+        "plants when gathering.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 151,
+      "IsIgnored": false,
+      "Original": [
+        "Increases TEC gains from cooked food.",
+        ""
+      ],
+      "Translation": [
+        "Increases TEC gains from cooked food.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 152,
+      "IsIgnored": false,
+      "Original": [
+        "Effect of Waltzes, Tangos, and",
+        "Sambas lengthened by 1 turn.",
+        ""
+      ],
+      "Translation": [
+        "Effect of Waltzes, Tangos, and",
+        "Sambas lengthened by 1 turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 153,
+      "IsIgnored": false,
+      "Original": [
+        "Effect of Waltzes, Tangos, and",
+        "Sambas lengthened by another turn.",
+        ""
+      ],
+      "Translation": [
+        "Effect of Waltzes, Tangos, and",
+        "Sambas lengthened by another turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 154,
+      "IsIgnored": false,
+      "Original": [
+        "Effect of Waltzes, Tangos, and",
+        "Sambas lengthened by another turn.",
+        ""
+      ],
+      "Translation": [
+        "Effect of Waltzes, Tangos, and",
+        "Sambas lengthened by another turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of performing multiple attacks",
+        "when performing a normal attack.",
+        ""
+      ],
+      "Translation": [
+        "Chance of performing multiple attacks",
+        "when performing a normal attack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 156,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your evasion rate.",
+        ""
+      ],
+      "Translation": [
+        "Increases your evasion rate.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 157,
+      "IsIgnored": false,
+      "Original": [
+        "While Waltz, Tango, or Samba is in",
+        "effect, the Burst Gauge fills faster.",
+        ""
+      ],
+      "Translation": [
+        "While Waltz, Tango, or Samba is in",
+        "effect, the Burst Gauge fills faster.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 158,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of expending 1 less Burst",
+        "gauge when you use a Burst Skill.",
+        ""
+      ],
+      "Translation": [
+        "Chance of expending 1 less Burst",
+        "gauge when you use a Burst Skill.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 159,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of stunning an enemy when",
+        "performing a normal attack.",
+        ""
+      ],
+      "Translation": [
+        "Chance of stunning an enemy when",
+        "performing a normal attack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 160,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your action speed,",
+        "hit rate, and evasion rate.",
+        ""
+      ],
+      "Translation": [
+        "Increases your action speed,",
+        "hit rate, and evasion rate.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": false,
+      "Original": [
+        "Select an ally you wish to act first",
+        "at the beginning of a turn.",
+        ""
+      ],
+      "Translation": [
+        "Select an ally you wish to act first",
+        "at the beginning of a turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": false,
+      "Original": [
+        "Your line recovers some HP at",
+        "the end of a turn for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Your line recovers some HP at",
+        "the end of a turn for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": false,
+      "Original": [
+        "Removes binds for your line at the",
+        "end of a turn for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Removes binds for your line at the",
+        "end of a turn for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": false,
+      "Original": [
+        "Your line recovers from ailments at",
+        "the end of a turn for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Your line recovers from ailments at",
+        "the end of a turn for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": false,
+      "Original": [
+        "Your line's physical attack power",
+        "is increased for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Your line's physical attack power",
+        "is increased for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 166,
+      "IsIgnored": false,
+      "Original": [
+        "Your line's physical defense is",
+        "increased for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Your line's physical defense is",
+        "increased for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 167,
+      "IsIgnored": false,
+      "Original": [
+        "The TP cost of skills is decreased",
+        "for your line for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "The TP cost of skills is decreased",
+        "for your line for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 168,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of attacking when an enemy",
+        "strikes your line for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Chance of attacking when an enemy",
+        "strikes your line for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 169,
+      "IsIgnored": false,
+      "Original": [
+        "Follow up attacks by allies on",
+        "your line for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Follow up attacks by allies on",
+        "your line for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 170,
+      "IsIgnored": false,
+      "Original": [
+        "Allies in your line will follow up",
+        "your attacks for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Allies in your line will follow up",
+        "your attacks for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": false,
+      "Original": [
+        "Restores some HP to the entire",
+        "party when dancing a Waltz.",
+        ""
+      ],
+      "Translation": [
+        "Restores some HP to the entire",
+        "party when dancing a Waltz.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": false,
+      "Original": [
+        "Used during Tango. Last Waltz/Tango/",
+        "Samba affects all allies this turn.",
+        ""
+      ],
+      "Translation": [
+        "Used during Tango. Last Waltz/Tango/",
+        "Samba affects all allies this turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": false,
+      "Original": [
+        "Used during Samba. You will follow",
+        "up all allies' attacks this turn.",
+        ""
+      ],
+      "Translation": [
+        "Used during Samba. You will follow",
+        "up all allies' attacks this turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": false,
+      "Original": [
+        "When you dance a Waltz, Tango, and",
+        "Samba, entire party attacks 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "When you dance a Waltz, Tango, and",
+        "Samba, entire party attacks 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of finding extra materials",
+        "when chopping wood.",
+        ""
+      ],
+      "Translation": [
+        "Chance of finding extra materials",
+        "when chopping wood.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": false,
+      "Original": [
+        "Increases LUC gains from cooked food.",
+        ""
+      ],
+      "Translation": [
+        "Increases LUC gains from cooked food.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 177,
+      "IsIgnored": false,
+      "Original": [
+        "Recover TP when the effects of a",
+        "Circle wear off.",
+        ""
+      ],
+      "Translation": [
+        "Recover TP when the effects of a",
+        "Circle wear off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 178,
+      "IsIgnored": false,
+      "Original": [
+        "Recover more TP when the effects",
+        "of a Circle wear off.",
+        ""
+      ],
+      "Translation": [
+        "Recover more TP when the effects",
+        "of a Circle wear off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 179,
+      "IsIgnored": false,
+      "Original": [
+        "Recover more TP when the effects",
+        "of a Circle wear off.",
+        ""
+      ],
+      "Translation": [
+        "Recover more TP when the effects",
+        "of a Circle wear off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 180,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of nulling a bind or status",
+        "ailment on allies in your line.",
+        ""
+      ],
+      "Translation": [
+        "Chance of nulling a bind or status",
+        "ailment on allies in your line.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": false,
+      "Original": [
+        "Party recovers some HP at the end of",
+        "each turn while a Circle is active.",
+        ""
+      ],
+      "Translation": [
+        "Party recovers some HP at the end of",
+        "each turn while a Circle is active.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "IsIgnored": false,
+      "Original": [
+        "Recover some TP when inflicting",
+        "ailments or binds.",
+        ""
+      ],
+      "Translation": [
+        "Recover some TP when inflicting",
+        "ailments or binds.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 183,
+      "IsIgnored": false,
+      "Original": [
+        "Heals the entire party as you walk",
+        "through dungeons.",
+        ""
+      ],
+      "Translation": [
+        "Heals the entire party as you walk",
+        "through dungeons.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 184,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the effect of dismissing",
+        "Circles.",
+        ""
+      ],
+      "Translation": [
+        "Increases the effect of dismissing",
+        "Circles.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 185,
+      "IsIgnored": false,
+      "Original": [
+        "Increases chance of inflicting",
+        "status ailments on enemies.",
+        ""
+      ],
+      "Translation": [
+        "Increases chance of inflicting",
+        "status ailments on enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 186,
+      "IsIgnored": false,
+      "Original": [
+        "Dismiss the active Circle for a",
+        "ranged untyped attack to 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Dismiss the active Circle for a",
+        "ranged untyped attack to 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 187,
+      "IsIgnored": false,
+      "Original": [
+        "Dismiss the active Circle for a",
+        "ranged untyped attack to all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Dismiss the active Circle for a",
+        "ranged untyped attack to all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 188,
+      "IsIgnored": false,
+      "Original": [
+        "Dismiss the active Circle to restore",
+        "some HP to the entire party.",
+        ""
+      ],
+      "Translation": [
+        "Dismiss the active Circle to restore",
+        "some HP to the entire party.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 189,
+      "IsIgnored": false,
+      "Original": [
+        "Eliminates 1 enemy's resistances",
+        "to binds and status ailments.",
+        ""
+      ],
+      "Translation": [
+        "Eliminates 1 enemy's resistances",
+        "to binds and status ailments.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 190,
+      "IsIgnored": false,
+      "Original": [
+        "Forms a Circle that lasts 3 turns,",
+        "paralyzing all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Forms a Circle that lasts 3 turns,",
+        "paralyzing all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 191,
+      "IsIgnored": false,
+      "Original": [
+        "Forms a Circle that lasts 3 turns,",
+        "inducing sleep on all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Forms a Circle that lasts 3 turns,",
+        "inducing sleep on all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 192,
+      "IsIgnored": false,
+      "Original": [
+        "Forms a Circle that lasts 3 turns,",
+        "poisoning all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Forms a Circle that lasts 3 turns,",
+        "poisoning all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 193,
+      "IsIgnored": false,
+      "Original": [
+        "Forms a Circle that lasts 3 turns,",
+        "panicking all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Forms a Circle that lasts 3 turns,",
+        "panicking all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 194,
+      "IsIgnored": false,
+      "Original": [
+        "Forms a Circle that lasts 3 turns,",
+        "binding the heads of all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Forms a Circle that lasts 3 turns,",
+        "binding the heads of all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 195,
+      "IsIgnored": false,
+      "Original": [
+        "Forms a Circle that lasts 3 turns,",
+        "binding the arms of all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Forms a Circle that lasts 3 turns,",
+        "binding the arms of all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 196,
+      "IsIgnored": false,
+      "Original": [
+        "Forms a Circle that lasts 3 turns,",
+        "binding the legs of all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Forms a Circle that lasts 3 turns,",
+        "binding the legs of all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 197,
+      "IsIgnored": false,
+      "Original": [
+        "For 3 turns, lowers physical and",
+        "elemental power of all enemy attacks.",
+        ""
+      ],
+      "Translation": [
+        "For 3 turns, lowers physical and",
+        "elemental power of all enemy attacks.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 198,
+      "IsIgnored": false,
+      "Original": [
+        "For 3 turns, lowers physical and",
+        "elemental defense for all enemies.",
+        ""
+      ],
+      "Translation": [
+        "For 3 turns, lowers physical and",
+        "elemental defense for all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 199,
+      "IsIgnored": false,
+      "Original": [
+        "Decreases damage taken from damage",
+        "floors for a certain number of steps.",
+        ""
+      ],
+      "Translation": [
+        "Decreases damage taken from damage",
+        "floors for a certain number of steps.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 200,
+      "IsIgnored": false,
+      "Original": [
+        "Greater chance of finding extra",
+        "plants when gathering.",
+        ""
+      ],
+      "Translation": [
+        "Greater chance of finding extra",
+        "plants when gathering.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 201,
+      "IsIgnored": false,
+      "Original": [
+        "Increases TP gains from cooked food.",
+        ""
+      ],
+      "Translation": [
+        "Increases TP gains from cooked food.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 202,
+      "IsIgnored": false,
+      "Original": [
+        "Recover some TP when performing",
+        "a normal attack.",
+        ""
+      ],
+      "Translation": [
+        "Recover some TP when performing",
+        "a normal attack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 203,
+      "IsIgnored": false,
+      "Original": [
+        "Recover more TP when performing",
+        "a normal attack.",
+        ""
+      ],
+      "Translation": [
+        "Recover more TP when performing",
+        "a normal attack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 204,
+      "IsIgnored": false,
+      "Original": [
+        "Recover more TP when performing",
+        "a normal attack.",
+        ""
+      ],
+      "Translation": [
+        "Recover more TP when performing",
+        "a normal attack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 205,
+      "IsIgnored": false,
+      "Original": [
+        "Your physical attack power increases",
+        "while equipping two weapons.",
+        ""
+      ],
+      "Translation": [
+        "Your physical attack power increases",
+        "while equipping two weapons.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 206,
+      "IsIgnored": false,
+      "Original": [
+        "Blood Surge may activate at the",
+        "start of battle.",
+        ""
+      ],
+      "Translation": [
+        "Blood Surge may activate at the",
+        "start of battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 207,
+      "IsIgnored": false,
+      "Original": [
+        "Once per battle, should your HP",
+        "reach 0, you recover a small amount.",
+        ""
+      ],
+      "Translation": [
+        "Once per battle, should your HP",
+        "reach 0, you recover a small amount.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 208,
+      "IsIgnored": false,
+      "Original": [
+        "Recover some HP when performing",
+        "a normal attack.",
+        ""
+      ],
+      "Translation": [
+        "Recover some HP when performing",
+        "a normal attack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 209,
+      "IsIgnored": false,
+      "Original": [
+        "In Blood Surge, low HP raises defense",
+        "and low TP raises attack power.",
+        ""
+      ],
+      "Translation": [
+        "In Blood Surge, low HP raises defense",
+        "and low TP raises attack power.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 210,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your physical attack power.",
+        ""
+      ],
+      "Translation": [
+        "Increases your physical attack power.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 211,
+      "IsIgnored": false,
+      "Original": [
+        "The physical attack power of your",
+        "next action is increased.",
+        ""
+      ],
+      "Translation": [
+        "The physical attack power of your",
+        "next action is increased.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 212,
+      "IsIgnored": false,
+      "Original": [
+        "Lose HP and TP each time you act,",
+        "in exchange for increased damage.",
+        ""
+      ],
+      "Translation": [
+        "Lose HP and TP each time you act,",
+        "in exchange for increased damage.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 213,
+      "IsIgnored": false,
+      "Original": [
+        "Come out of the Blood Surge state",
+        "and recover some HP and TP.",
+        ""
+      ],
+      "Translation": [
+        "Come out of the Blood Surge state",
+        "and recover some HP and TP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 214,
+      "IsIgnored": false,
+      "Original": [
+        "Eliminates all buffs on 1 enemy and",
+        "does untyped damage to it.",
+        ""
+      ],
+      "Translation": [
+        "Eliminates all buffs on 1 enemy and",
+        "does untyped damage to it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 215,
+      "IsIgnored": false,
+      "Original": [
+        "Melee bash attack to 1 enemy.",
+        "May paralyze.",
+        ""
+      ],
+      "Translation": [
+        "Melee bash attack to 1 enemy.",
+        "May paralyze.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 216,
+      "IsIgnored": false,
+      "Original": [
+        "Ranged cut attack to all enemies.",
+        "Costs HP as well as TP.",
+        ""
+      ],
+      "Translation": [
+        "Ranged cut attack to all enemies.",
+        "Costs HP as well as TP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 217,
+      "IsIgnored": false,
+      "Original": [
+        "Melee cut attack to an entire",
+        "line of enemies.",
+        ""
+      ],
+      "Translation": [
+        "Melee cut attack to an entire",
+        "line of enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 218,
+      "IsIgnored": false,
+      "Original": [
+        "Melee ice-elemental cut attack to",
+        "1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Melee ice-elemental cut attack to",
+        "1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 219,
+      "IsIgnored": false,
+      "Original": [
+        "Melee cut attack to one enemy.",
+        ""
+      ],
+      "Translation": [
+        "Melee cut attack to one enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 220,
+      "IsIgnored": false,
+      "Original": [
+        "Melee cut attacks to random enemies.",
+        "Number of hits increases with low HP.",
+        ""
+      ],
+      "Translation": [
+        "Melee cut attacks to random enemies.",
+        "Number of hits increases with low HP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 221,
+      "IsIgnored": false,
+      "Original": [
+        "Melee bash attack to 1 enemy.",
+        "May bind its head.",
+        ""
+      ],
+      "Translation": [
+        "Melee bash attack to 1 enemy.",
+        "May bind its head.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 222,
+      "IsIgnored": false,
+      "Original": [
+        "Melee fire-elemental bash attack",
+        "to 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Melee fire-elemental bash attack",
+        "to 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 223,
+      "IsIgnored": false,
+      "Original": [
+        "Melee bash attack with a splash",
+        "effect.",
+        ""
+      ],
+      "Translation": [
+        "Melee bash attack with a splash",
+        "effect.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 224,
+      "IsIgnored": false,
+      "Original": [
+        "Strong melee bash attack to 1 enemy.",
+        "Paralyzes you after attacking.",
+        ""
+      ],
+      "Translation": [
+        "Strong melee bash attack to 1 enemy.",
+        "Paralyzes you after attacking.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 225,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of finding extra materials",
+        "when chopping wood.",
+        ""
+      ],
+      "Translation": [
+        "Chance of finding extra materials",
+        "when chopping wood.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 226,
+      "IsIgnored": false,
+      "Original": [
+        "Increases HP gains from cooked food.",
+        ""
+      ],
+      "Translation": [
+        "Increases HP gains from cooked food.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 227,
+      "IsIgnored": false,
+      "Original": [
+        "Decreases the drive blade's cooldown",
+        "time by 1 turn.",
+        ""
+      ],
+      "Translation": [
+        "Decreases the drive blade's cooldown",
+        "time by 1 turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 228,
+      "IsIgnored": false,
+      "Original": [
+        "Decreases the drive blade's cooldown",
+        "time by an additional turn.",
+        ""
+      ],
+      "Translation": [
+        "Decreases the drive blade's cooldown",
+        "time by an additional turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 229,
+      "IsIgnored": false,
+      "Original": [
+        "Decreases the drive blade's cooldown",
+        "time by an additional turn.",
+        ""
+      ],
+      "Translation": [
+        "Decreases the drive blade's cooldown",
+        "time by an additional turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 230,
+      "IsIgnored": false,
+      "Original": [
+        "Recover some TP after striking an",
+        "enemy's weakness.",
+        ""
+      ],
+      "Translation": [
+        "Recover some TP after striking an",
+        "enemy's weakness.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 231,
+      "IsIgnored": false,
+      "Original": [
+        "Skills that target 1 enemy may gain",
+        "a splash effect.",
+        ""
+      ],
+      "Translation": [
+        "Skills that target 1 enemy may gain",
+        "a splash effect.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 232,
+      "IsIgnored": false,
+      "Original": [
+        "Recover some TP when you defeat",
+        "an enemy.",
+        ""
+      ],
+      "Translation": [
+        "Recover some TP when you defeat",
+        "an enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 233,
+      "IsIgnored": false,
+      "Original": [
+        "The more your drive blade overheats",
+        "in a battle, the more damage you do.",
+        ""
+      ],
+      "Translation": [
+        "The more your drive blade overheats",
+        "in a battle, the more damage you do.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 234,
+      "IsIgnored": false,
+      "Original": [
+        "Increases your physical attack power.",
+        ""
+      ],
+      "Translation": [
+        "Increases your physical attack power.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 235,
+      "IsIgnored": false,
+      "Original": [
+        "Increases elemental and untyped",
+        "attack power.",
+        ""
+      ],
+      "Translation": [
+        "Increases elemental and untyped",
+        "attack power.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 236,
+      "IsIgnored": false,
+      "Original": [
+        "Decreases 1 enemy's elemental defense",
+        "for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Decreases 1 enemy's elemental defense",
+        "for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 237,
+      "IsIgnored": false,
+      "Original": [
+        "Has 1 ally act last for 5 turns",
+        "and increases their defenses.",
+        ""
+      ],
+      "Translation": [
+        "Has 1 ally act last for 5 turns",
+        "and increases their defenses.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 238,
+      "IsIgnored": false,
+      "Original": [
+        "Reduces cooldown time by 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Reduces cooldown time by 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 239,
+      "IsIgnored": false,
+      "Original": [
+        "Cools your drive blade and prevents",
+        "it from overheating for 3 turns.",
+        ""
+      ],
+      "Translation": [
+        "Cools your drive blade and prevents",
+        "it from overheating for 3 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 240,
+      "IsIgnored": false,
+      "Original": [
+        "Melee cut attack to 1 enemy.",
+        "Reduces cooldown time by 1 turn.",
+        ""
+      ],
+      "Translation": [
+        "Melee cut attack to 1 enemy.",
+        "Reduces cooldown time by 1 turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 241,
+      "IsIgnored": false,
+      "Original": [
+        "Melee cut attack to 1 enemy. Recovers",
+        "your TP. Can be used after Sharp Edge.",
+        ""
+      ],
+      "Translation": [
+        "Melee cut attack to 1 enemy. Recovers",
+        "your TP. Can be used after Sharp Edge.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 242,
+      "IsIgnored": false,
+      "Original": [
+        "Melee cut attack to 1 enemy. Reduces",
+        "cooldown by 2 turns.",
+        ""
+      ],
+      "Translation": [
+        "Melee cut attack to 1 enemy. Reduces",
+        "cooldown by 2 turns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 243,
+      "IsIgnored": false,
+      "Original": [
+        "Melee cut attack to 1 enemy.",
+        "Increases attack power next turn.",
+        ""
+      ],
+      "Translation": [
+        "Melee cut attack to 1 enemy.",
+        "Increases attack power next turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 244,
+      "IsIgnored": false,
+      "Original": [
+        "Melee cut attack to 1 enemy. Lowers",
+        "DEF until use. 8-turn cooldown.",
+        ""
+      ],
+      "Translation": [
+        "Melee cut attack to 1 enemy. Lowers",
+        "DEF until use. 8-turn cooldown.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 245,
+      "IsIgnored": false,
+      "Original": [
+        "Melee fire cut attack to 1 enemy.",
+        "Lowers DEF until use. 9-turn cooldown.",
+        ""
+      ],
+      "Translation": [
+        "Melee fire cut attack to 1 enemy.",
+        "Lowers DEF until use. 9-turn cooldown.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 246,
+      "IsIgnored": false,
+      "Original": [
+        "Melee ice cut attack to 1 enemy.",
+        "Lowers DEF until use. 9-turn cooldown.",
+        ""
+      ],
+      "Translation": [
+        "Melee ice cut attack to 1 enemy.",
+        "Lowers DEF until use. 9-turn cooldown.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 247,
+      "IsIgnored": false,
+      "Original": [
+        "Melee volt cut attack to 1 enemy.",
+        "Lowers DEF until use. 9-turn cooldown.",
+        ""
+      ],
+      "Translation": [
+        "Melee volt cut attack to 1 enemy.",
+        "Lowers DEF until use. 9-turn cooldown.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 248,
+      "IsIgnored": false,
+      "Original": [
+        "Melee untyped cut attack to 1 enemy.",
+        "Lowers DEF until use. 9-turn cooldown.",
+        ""
+      ],
+      "Translation": [
+        "Melee untyped cut attack to 1 enemy.",
+        "Lowers DEF until use. 9-turn cooldown.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 249,
+      "IsIgnored": false,
+      "Original": [
+        "Null Ignition for ranged untyped attack",
+        "to all enemies. Lowers DEF until use.",
+        ""
+      ],
+      "Translation": [
+        "Null Ignition for ranged untyped attack",
+        "to all enemies. Lowers DEF until use.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 250,
+      "IsIgnored": false,
+      "Original": [
+        "Greater chance of finding extra ore",
+        "when mining.",
+        ""
+      ],
+      "Translation": [
+        "Greater chance of finding extra ore",
+        "when mining.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 251,
+      "IsIgnored": false,
+      "Original": [
+        "Chance of gathering food without",
+        "depleting the resource point.",
+        ""
+      ],
+      "Translation": [
+        "Chance of gathering food without",
+        "depleting the resource point.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 252,
+      "IsIgnored": false,
+      "Original": [
+        "High chance of escaping from battle",
+        "to your entrance to this floor.",
+        ""
+      ],
+      "Translation": [
+        "High chance of escaping from battle",
+        "to your entrance to this floor.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 253,
+      "IsIgnored": false,
+      "Original": [
+        "Recover some of your HP.",
+        ""
+      ],
+      "Translation": [
+        "Recover some of your HP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 254,
+      "IsIgnored": false,
+      "Original": [
+        "Get 1 enemy's full information to be",
+        "recorded in the Monstrous Codex.",
+        ""
+      ],
+      "Translation": [
+        "Get 1 enemy's full information to be",
+        "recorded in the Monstrous Codex.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 255,
+      "IsIgnored": false,
+      "Original": [
+        "Perform two powerful ranged cut",
+        "attacks to 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Perform two powerful ranged cut",
+        "attacks to 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 256,
+      "IsIgnored": false,
+      "Original": [
+        "Powerful ranged fire attack to an",
+        "entire line of enemies.",
+        ""
+      ],
+      "Translation": [
+        "Powerful ranged fire attack to an",
+        "entire line of enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 257,
+      "IsIgnored": false,
+      "Original": [
+        "Increases EXP gained for the battle.",
+        "Can only be used once per battle.",
+        ""
+      ],
+      "Translation": [
+        "Increases EXP gained for the battle.",
+        "Can only be used once per battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 258,
+      "IsIgnored": false,
+      "Original": [
+        "Greatly increases all allies' action",
+        "speed for this turn.",
+        ""
+      ],
+      "Translation": [
+        "Greatly increases all allies' action",
+        "speed for this turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 259,
+      "IsIgnored": false,
+      "Original": [
+        "Ailments and binds on all enemies",
+        "last longer. Cannot be amplified.",
+        ""
+      ],
+      "Translation": [
+        "Ailments and binds on all enemies",
+        "last longer. Cannot be amplified.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 260,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the damage dealt by the",
+        "entire party for this turn.",
+        ""
+      ],
+      "Translation": [
+        "Increases the damage dealt by the",
+        "entire party for this turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 261,
+      "IsIgnored": false,
+      "Original": [
+        "Decreases the damage taken by the",
+        "entire party for this turn.",
+        ""
+      ],
+      "Translation": [
+        "Decreases the damage taken by the",
+        "entire party for this turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 262,
+      "IsIgnored": false,
+      "Original": [
+        "Powerful ranged ice attack to",
+        "1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "Powerful ranged ice attack to",
+        "1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 263,
+      "IsIgnored": false,
+      "Original": [
+        "Nullifies all physical damage to",
+        "the party for this turn.",
+        ""
+      ],
+      "Translation": [
+        "Nullifies all physical damage to",
+        "the party for this turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 264,
+      "IsIgnored": false,
+      "Original": [
+        "Nullifies all elemental damage to",
+        "the party for this turn.",
+        ""
+      ],
+      "Translation": [
+        "Nullifies all elemental damage to",
+        "the party for this turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 265,
+      "IsIgnored": false,
+      "Original": [
+        "Powerful bash attack to random",
+        "enemies.",
+        ""
+      ],
+      "Translation": [
+        "Powerful bash attack to random",
+        "enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 266,
+      "IsIgnored": false,
+      "Original": [
+        "Increases the party's damage as well",
+        "as their defense for this turn.",
+        ""
+      ],
+      "Translation": [
+        "Increases the party's damage as well",
+        "as their defense for this turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 267,
+      "IsIgnored": false,
+      "Original": [
+        "Powerful ranged cut attack to all",
+        "enemies. May instantly kill.",
+        ""
+      ],
+      "Translation": [
+        "Powerful ranged cut attack to all",
+        "enemies. May instantly kill.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 268,
+      "IsIgnored": false,
+      "Original": [
+        "High chance of binding all parts",
+        "of 1 enemy.",
+        ""
+      ],
+      "Translation": [
+        "High chance of binding all parts",
+        "of 1 enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 269,
+      "IsIgnored": false,
+      "Original": [
+        "Nullifies all damage to the party",
+        "for this turn.",
+        ""
+      ],
+      "Translation": [
+        "Nullifies all damage to the party",
+        "for this turn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 270,
+      "IsIgnored": false,
+      "Original": [
+        "Powerful ranged volt attacks to",
+        "random enemies.",
+        ""
+      ],
+      "Translation": [
+        "Powerful ranged volt attacks to",
+        "random enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 271,
+      "IsIgnored": false,
+      "Original": [
+        "Powerful ranged bash attack to all",
+        "enemies. Guaranteed stun.",
+        ""
+      ],
+      "Translation": [
+        "Powerful ranged bash attack to all",
+        "enemies. Guaranteed stun.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 272,
+      "IsIgnored": false,
+      "Original": [
+        "Powerful ranged untyped attack to",
+        "all enemies.",
+        ""
+      ],
+      "Translation": [
+        "Powerful ranged untyped attack to",
+        "all enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 273,
+      "IsIgnored": false,
+      "Original": [
+        "Fully heals party's HP, binds,",
+        "ailments, and unconsciousness.",
+        ""
+      ],
+      "Translation": [
+        "Fully heals party's HP, binds,",
+        "ailments, and unconsciousness.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 274,
+      "IsIgnored": false,
+      "Original": [
+        "テスト",
+        ""
+      ],
+      "Translation": [
+        "テスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 275,
+      "IsIgnored": false,
+      "Original": [
+        "テスト",
+        ""
+      ],
+      "Translation": [
+        "テスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 276,
+      "IsIgnored": false,
+      "Original": [
+        "テスト",
+        ""
+      ],
+      "Translation": [
+        "テスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 277,
+      "IsIgnored": false,
+      "Original": [
+        "テスト",
+        ""
+      ],
+      "Translation": [
+        "テスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 278,
+      "IsIgnored": false,
+      "Original": [
+        "テスト",
+        ""
+      ],
+      "Translation": [
+        "テスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 279,
+      "IsIgnored": false,
+      "Original": [
+        "テスト",
+        ""
+      ],
+      "Translation": [
+        "テスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 280,
+      "IsIgnored": false,
+      "Original": [
+        "テスト",
+        ""
+      ],
+      "Translation": [
+        "テスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 281,
+      "IsIgnored": false,
+      "Original": [
+        "テスト",
+        ""
+      ],
+      "Translation": [
+        "テスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 282,
+      "IsIgnored": false,
+      "Original": [
+        "テスト",
+        ""
+      ],
+      "Translation": [
+        "テスト",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

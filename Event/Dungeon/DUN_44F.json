@@ -1,0 +1,61 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_44F",
+  "RelativePath": "Event\\Dungeon\\DUN_44F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You realize that the barrier before",
+        "you is quite different compared to the",
+        "others in this place.",
+        "[Page]",
+        "",
+        "The branches and trunks are thin enough",
+        "here to see partly beyond...",
+        "[Page]",
+        "",
+        "Though not thin enough to give at your",
+        "attempt to push your way past. You leave",
+        "the barrier be and hurry on.",
+        ""
+      ],
+      "Translation": [
+        "You realize that the barrier before",
+        "you is quite different compared to the",
+        "others in this place.",
+        "[Page]",
+        "",
+        "The branches and trunks are thin enough",
+        "here to see partly beyond...",
+        "[Page]",
+        "",
+        "Though not thin enough to give at your",
+        "attempt to push your way past. You leave",
+        "the barrier be and hurry on.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "The beast roars and charges at",
+        "the wall.",
+        ""
+      ],
+      "Translation": [
+        "The beast roars and charges at",
+        "the wall.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

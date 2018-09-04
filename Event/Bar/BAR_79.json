@@ -1,0 +1,258 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_79",
+  "RelativePath": "Event\\Bar\\BAR_79.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Hey, you guys. Are you familiar with",
+        "the lonely hunter Dylan? Heh, that's",
+        "right. You're looking at him.",
+        "[Page]",
+        "",
+        "What about the [Color:5][Enemy1:208][Color:0]? It's a big,",
+        "powerful praying mantis that flies",
+        "around the Sacred Mountains.",
+        "[Page]",
+        "",
+        "The parts from a monster that tough",
+        "sell for a bundle to collectors.",
+        "Naturally, they hired me.",
+        "[Page]",
+        "",
+        "But I went out for some recon and that",
+        "thing's impossible... I don't think",
+        "it would even consider me a threat.",
+        "[Page]",
+        "",
+        "So, erm... I put in a request for",
+        "some other guild to bring me the",
+        "[Color:6][Item:1022][Color:0] instead.",
+        ""
+      ],
+      "Translation": [
+        "Hey, you guys. Are you familiar with",
+        "the lonely hunter Dylan? Heh, that's",
+        "right. You're looking at him.",
+        "[Page]",
+        "",
+        "What about the [Color:5][Enemy1:208][Color:0]? It's a big,",
+        "powerful praying mantis that flies",
+        "around the Sacred Mountains.",
+        "[Page]",
+        "",
+        "The parts from a monster that tough",
+        "sell for a bundle to collectors.",
+        "Naturally, they hired me.",
+        "[Page]",
+        "",
+        "But I went out for some recon and that",
+        "thing's impossible... I don't think",
+        "it would even consider me a threat.",
+        "[Page]",
+        "",
+        "So, erm... I put in a request for",
+        "some other guild to bring me the",
+        "[Color:6][Item:1022][Color:0] instead.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You happen to have a [Color:6][Number:0][Color:0]",
+        "already. If you give it to the man,",
+        "this request will be complete!",
+        ""
+      ],
+      "Translation": [
+        "You happen to have a [Color:6][Number:0][Color:0]",
+        "already. If you give it to the man,",
+        "this request will be complete!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Beat the giant [Color:5][Enemy1:208][Color:0], found out",
+        "in the [Color:5]Sacred Mountains[Color:0], and get me",
+        "a [Color:6][Item:1022][Color:0].",
+        "[Page]",
+        "",
+        "Of course, the reward promised to me",
+        "will be passed right along to you...",
+        "So don't worry about that.",
+        "[Page]",
+        "",
+        "If you can't beat the [Enemy1:208] or",
+        "have trouble getting a [Item:1022],",
+        "don't worry... It'll come to you.",
+        ""
+      ],
+      "Translation": [
+        "Beat the giant [Color:5][Enemy1:208][Color:0], found out",
+        "in the [Color:5]Sacred Mountains[Color:0], and get me",
+        "a [Color:6][Item:1022][Color:0].",
+        "[Page]",
+        "",
+        "Of course, the reward promised to me",
+        "will be passed right along to you...",
+        "So don't worry about that.",
+        "[Page]",
+        "",
+        "If you can't beat the [Enemy1:208] or",
+        "have trouble getting a [Item:1022],",
+        "don't worry... It'll come to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, it's you guys. Did you get",
+        "a [Item:1022]?",
+        ""
+      ],
+      "Translation": [
+        "Oh, it's you guys. Did you get",
+        "a [Item:1022]?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you have a [Item:1022]?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you have a [Item:1022]?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, too bad. But I believe in you.",
+        "I know you guys will get it done",
+        "in style!",
+        ""
+      ],
+      "Translation": [
+        "Oh, too bad. But I believe in you.",
+        "I know you guys will get it done",
+        "in style!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "R-Really!? Can you show me...?",
+        ""
+      ],
+      "Translation": [
+        "R-Really!? Can you show me...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "This does seem to be a [Item:1022].",
+        "So you beat the [Enemy1:208]? You...",
+        "sure are something.",
+        "[Page]",
+        "",
+        "Oh, no, thank you. You've been...",
+        "extremely helpful. You fulfilled",
+        "my request with style.",
+        "[Page]",
+        "",
+        "I'll fill out the report for my",
+        "request and then send the reward",
+        "over to the bartender.",
+        "[Page]",
+        "",
+        "I feel really... Yeah, I'm sorry I",
+        "bit off more than I could chew.",
+        "Excuse me...",
+        ""
+      ],
+      "Translation": [
+        "This does seem to be a [Item:1022].",
+        "So you beat the [Enemy1:208]? You...",
+        "sure are something.",
+        "[Page]",
+        "",
+        "Oh, no, thank you. You've been...",
+        "extremely helpful. You fulfilled",
+        "my request with style.",
+        "[Page]",
+        "",
+        "I'll fill out the report for my",
+        "request and then send the reward",
+        "over to the bartender.",
+        "[Page]",
+        "",
+        "I feel really... Yeah, I'm sorry I",
+        "bit off more than I could chew.",
+        "Excuse me...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "It's all taken care of now. You'll",
+        "find your reward waiting at the bar.",
+        "My hat's off to you...",
+        ""
+      ],
+      "Translation": [
+        "It's all taken care of now. You'll",
+        "find your reward waiting at the bar.",
+        "My hat's off to you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

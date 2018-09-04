@@ -1,0 +1,339 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Mark Grand Court text",
+  "RelativePath": "InterfaceFile\\FacilityGovernmentText.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Accept official missions.",
+        ""
+      ],
+      "Translation": [
+        "Offizielle Missionen annehmen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "File a report after",
+        "completed missions.",
+        ""
+      ],
+      "Translation": [
+        "Reicht euren Bericht nach Abschluss",
+        "einer Mission ein.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Speak with the Count.",
+        ""
+      ],
+      "Translation": [
+        "Sprecht mit dem Grafen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Return to the plaza.",
+        ""
+      ],
+      "Translation": [
+        "Kehrt zum Hauptplatz zurück.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Return to the plaza.",
+        ""
+      ],
+      "Translation": [
+        "Kehrt zum Hauptplatz zurück.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "There are no new missions.",
+        ""
+      ],
+      "Translation": [
+        "Es gibt keine neuen Missionen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Accept this mission?",
+        ""
+      ],
+      "Translation": [
+        "Akzeptiert diese Mission?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "You have accepted the mission.",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt die Mission akzeptiert.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "You haven't accepted any missions.",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt keine Missionen akzeptiert.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:5][Variable1:0][Color:0]を報告した!",
+        ""
+      ],
+      "Translation": [
+        "[Color:5][Variable1:0][Color:0]を報告した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:5][Variable1:0][Color:0]を報告した!",
+        ""
+      ],
+      "Translation": [
+        "[Color:5][Variable1:0][Color:0]を報告した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "サブクラスを選択してください",
+        ""
+      ],
+      "Translation": [
+        "サブクラスを選択してください",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": true,
+      "Original": [
+        "このクラスを習得します",
+        "よろしいですか?",
+        ""
+      ],
+      "Translation": [
+        "このクラスを習得します",
+        "よろしいですか?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": true,
+      "Original": [
+        "[Variable1:0]を習得しました",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]を習得しました",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": true,
+      "Original": [
+        "すでにサブクラスを習得しています!",
+        ""
+      ],
+      "Translation": [
+        "すでにサブクラスを習得しています!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": true,
+      "Original": [
+        "サブクラスを習得します",
+        "よろしいですか?",
+        ""
+      ],
+      "Translation": [
+        "サブクラスを習得します",
+        "よろしいですか?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": true,
+      "Original": [
+        "パーティ全員が",
+        "サブクラスを習得しています!",
+        ""
+      ],
+      "Translation": [
+        "パーティ全員が",
+        "サブクラスを習得しています!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": true,
+      "Original": [
+        "サブクラスが習得可能です",
+        ""
+      ],
+      "Translation": [
+        "サブクラスが習得可能です",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": true,
+      "Original": [
+        "天極殿の住人と話をします",
+        ""
+      ],
+      "Translation": [
+        "天極殿の住人と話をします",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

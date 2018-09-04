@@ -1,0 +1,826 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_094",
+  "RelativePath": "Event\\Quest\\QUE_094.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, the [Guild] Guild. Your target",
+        "this time is sizable... it is none",
+        "other than the [Color:5][Enemy1:201][Color:0].",
+        "[Page]",
+        "",
+        "Do you remember the request to rescue",
+        "Regine at the [Color:5]Scarlet Pillars[Color:0]?",
+        "[Page]",
+        "",
+        "We learned then that the [Enemy1:201]",
+        "enjoys her peach schnapps.",
+        "[Page]",
+        "",
+        "The Outland Count then hatched a",
+        "scheme to draw the dragon into its",
+        "lair using the schnapps as bait.",
+        "[Page]",
+        "",
+        "I want you to take that opportunity",
+        "to slay it. Can you do this? It may",
+        "be a fearsome opponent, so be ready.",
+        ""
+      ],
+      "Translation": [
+        "Ah, the [Guild] Guild. Your target",
+        "this time is sizable... it is none",
+        "other than the [Color:5][Enemy1:201][Color:0].",
+        "[Page]",
+        "",
+        "Do you remember the request to rescue",
+        "Regine at the [Color:5]Scarlet Pillars[Color:0]?",
+        "[Page]",
+        "",
+        "We learned then that the [Enemy1:201]",
+        "enjoys her peach schnapps.",
+        "[Page]",
+        "",
+        "The Outland Count then hatched a",
+        "scheme to draw the dragon into its",
+        "lair using the schnapps as bait.",
+        "[Page]",
+        "",
+        "I want you to take that opportunity",
+        "to slay it. Can you do this? It may",
+        "be a fearsome opponent, so be ready.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Congratulations on",
+        "besting the [Enemy1:201]! I would",
+        "expect nothing less from you.",
+        "[Page]",
+        "",
+        "Regine should be pleased as well to",
+        "have her schnapps used for such a",
+        "noble purpose.",
+        "[Page]",
+        "",
+        "The Scarlet Pillars should be a much",
+        "safer place to voyage now. Very good",
+        "work, [Guild] Guild.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Congratulations on",
+        "besting the [Enemy1:201]! I would",
+        "expect nothing less from you.",
+        "[Page]",
+        "",
+        "Regine should be pleased as well to",
+        "have her schnapps used for such a",
+        "noble purpose.",
+        "[Page]",
+        "",
+        "The Scarlet Pillars should be a much",
+        "safer place to voyage now. Very good",
+        "work, [Guild] Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "After you arrive at the Scarlet",
+        "Pillars, a hawk from Tharsis flies",
+        "to your skyship.",
+        "[Page]",
+        "",
+        "There is a message tied to the hawk's",
+        "leg that contains the coordinates for",
+        "a location on your map.",
+        "[Page]",
+        "",
+        "You surmise that this is the lair of",
+        "the [Enemy1:201].",
+        "[Page]",
+        "",
+        "The same [Enemy1:201] you have taken",
+        "a request to eliminate...",
+        "[Page]",
+        "",
+        "You gather the rest of your party to",
+        "determine if you are ready before you",
+        "head for your decisive battle.",
+        ""
+      ],
+      "Translation": [
+        "After you arrive at the Scarlet",
+        "Pillars, a hawk from Tharsis flies",
+        "to your skyship.",
+        "[Page]",
+        "",
+        "There is a message tied to the hawk's",
+        "leg that contains the coordinates for",
+        "a location on your map.",
+        "[Page]",
+        "",
+        "You surmise that this is the lair of",
+        "the [Enemy1:201].",
+        "[Page]",
+        "",
+        "The same [Enemy1:201] you have taken",
+        "a request to eliminate...",
+        "[Page]",
+        "",
+        "You gather the rest of your party to",
+        "determine if you are ready before you",
+        "head for your decisive battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "After a pitched battle, you have at",
+        "last subdued the golden dragon!",
+        "[Page]",
+        "",
+        "As it falls to the ground, its body",
+        "begins to glow brightly and dissipate",
+        "into golden particles!",
+        "[Page]",
+        "",
+        "The cloud of golden particles takes",
+        "shape, eventually compacting into the",
+        "form of a jewel!",
+        "[Page]",
+        "",
+        "As you take hold of the floating gem,",
+        "you feel a transcendent, golden power",
+        "rush through your bodies!",
+        ""
+      ],
+      "Translation": [
+        "After a pitched battle, you have at",
+        "last subdued the golden dragon!",
+        "[Page]",
+        "",
+        "As it falls to the ground, its body",
+        "begins to glow brightly and dissipate",
+        "into golden particles!",
+        "[Page]",
+        "",
+        "The cloud of golden particles takes",
+        "shape, eventually compacting into the",
+        "form of a jewel!",
+        "[Page]",
+        "",
+        "As you take hold of the floating gem,",
+        "you feel a transcendent, golden power",
+        "rush through your bodies!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 80![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 80![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 90![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 90![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 99![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The level cap has been raised.",
+        "You can now reach level 99![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "\"So this is the power of the dragon...",
+        "I heard about it from my family, but",
+        "it's more than I imagined...\"",
+        "[Page]",
+        "",
+        "Wiglaf thinks for a while before",
+        "speaking again.",
+        "[Page]",
+        "",
+        "\"I don't know how it started, but our",
+        "family have been dragon slayers for",
+        "generations. Haha, you didn't know?",
+        "[Page]",
+        "",
+        "\"But my father took one job that was",
+        "too much to handle... and my brother",
+        "was the only one to come back.",
+        "[Page]",
+        "",
+        "\"People who knew my father say he died",
+        "a hero, but to me, he was just dead.",
+        "[Page]",
+        "",
+        "\"That's why I left home.",
+        "[Page]",
+        "",
+        "\"I came here to work as an explorer",
+        "for the Outland Count, since he had",
+        "been a friend of my father.",
+        "[Page]",
+        "",
+        "\"When I saw Ms. Regine's husband and",
+        "kid waiting for her to come back,",
+        "I just couldn't forgive myself.",
+        "[Page]",
+        "",
+        "\"I thought it would be terrible if",
+        "someone like me, who has the power to",
+        "defeat dragons, let it go to waste.",
+        "[Page]",
+        "",
+        "\"But... I probably couldn't have done",
+        "it alone. Thanks, [Guild].\"",
+        "[Page]",
+        "",
+        "She gives you a satisfied nod before",
+        "boarding her skyship and returning",
+        "to Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "\"So this is the power of the dragon...",
+        "I heard about it from my family, but",
+        "it's more than I imagined...\"",
+        "[Page]",
+        "",
+        "Wiglaf thinks for a while before",
+        "speaking again.",
+        "[Page]",
+        "",
+        "\"I don't know how it started, but our",
+        "family have been dragon slayers for",
+        "generations. Haha, you didn't know?",
+        "[Page]",
+        "",
+        "\"But my father took one job that was",
+        "too much to handle... and my brother",
+        "was the only one to come back.",
+        "[Page]",
+        "",
+        "\"People who knew my father say he died",
+        "a hero, but to me, he was just dead.",
+        "[Page]",
+        "",
+        "\"That's why I left home.",
+        "[Page]",
+        "",
+        "\"I came here to work as an explorer",
+        "for the Outland Count, since he had",
+        "been a friend of my father.",
+        "[Page]",
+        "",
+        "\"When I saw Ms. Regine's husband and",
+        "kid waiting for her to come back,",
+        "I just couldn't forgive myself.",
+        "[Page]",
+        "",
+        "\"I thought it would be terrible if",
+        "someone like me, who has the power to",
+        "defeat dragons, let it go to waste.",
+        "[Page]",
+        "",
+        "\"But... I probably couldn't have done",
+        "it alone. Thanks, [Guild].\"",
+        "[Page]",
+        "",
+        "She gives you a satisfied nod before",
+        "boarding her skyship and returning",
+        "to Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "\"You did it, [Guild]. Finally...",
+        "anyone who wants to come here can",
+        "feel safe doing it.\"",
+        "[Page]",
+        "",
+        "Wiglaf congratulates you with a",
+        "beaming smile.",
+        "[Page]",
+        "",
+        "\"I kind of wish I had pitched in with",
+        "the fight, but it doesn't matter now.",
+        "Congrats!\"",
+        "[Page]",
+        "",
+        "She gives you a satisfied nod before",
+        "boarding her skyship and returning",
+        "to Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "\"You did it, [Guild]. Finally...",
+        "anyone who wants to come here can",
+        "feel safe doing it.\"",
+        "[Page]",
+        "",
+        "Wiglaf congratulates you with a",
+        "beaming smile.",
+        "[Page]",
+        "",
+        "\"I kind of wish I had pitched in with",
+        "the fight, but it doesn't matter now.",
+        "Congrats!\"",
+        "[Page]",
+        "",
+        "She gives you a satisfied nod before",
+        "boarding her skyship and returning",
+        "to Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "You look around in case anything has",
+        "broken on the ship, but find nothing",
+        "amiss and leave.",
+        ""
+      ],
+      "Translation": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "You look around in case anything has",
+        "broken on the ship, but find nothing",
+        "amiss and leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "Disturbing laughter echoes in your",
+        "minds...",
+        "[Page]",
+        "",
+        "[Color:5]\"Well done, humans! Now, all the seals",
+        "are broken![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Despicable wyrms who protected the",
+        "seals for the Divine Dragon! Meddling",
+        "with humans has incurred their wrath![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Fools! I shall consume Yggdrasil,",
+        "and with its power, assume the mantle",
+        "of the Divine Dragon for myself![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Once I have the throne of the Lord",
+        "of Dragons, a new age of tyranny",
+        "shall begin!\"[Color:0]",
+        "[Page]",
+        "",
+        "The party murmurs amongst themselves.",
+        "[Page]",
+        "",
+        "But the voice says no more...",
+        "Who could it have belonged to?",
+        "[Page]",
+        "",
+        "There is no one to answer that",
+        "question. With a new and unsettling",
+        "mystery begun, you leave the area.",
+        ""
+      ],
+      "Translation": [
+        "As you board the skyship, you hear",
+        "a strange sound...",
+        "[Page]",
+        "",
+        "It seemed to be that of a chain's",
+        "links shattering.",
+        "[Page]",
+        "",
+        "Disturbing laughter echoes in your",
+        "minds...",
+        "[Page]",
+        "",
+        "[Color:5]\"Well done, humans! Now, all the seals",
+        "are broken![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Despicable wyrms who protected the",
+        "seals for the Divine Dragon! Meddling",
+        "with humans has incurred their wrath![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Fools! I shall consume Yggdrasil,",
+        "and with its power, assume the mantle",
+        "of the Divine Dragon for myself![Color:0]",
+        "[Page]",
+        "",
+        "[Color:5]\"Once I have the throne of the Lord",
+        "of Dragons, a new age of tyranny",
+        "shall begin!\"[Color:0]",
+        "[Page]",
+        "",
+        "The party murmurs amongst themselves.",
+        "[Page]",
+        "",
+        "But the voice says no more...",
+        "Who could it have belonged to?",
+        "[Page]",
+        "",
+        "There is no one to answer that",
+        "question. With a new and unsettling",
+        "mystery begun, you leave the area.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

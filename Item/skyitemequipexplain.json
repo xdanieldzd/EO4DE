@@ -1,0 +1,547 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Skyship equipment descriptions",
+  "RelativePath": "Item\\skyitemequipexplain.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "A beast horn, carved into an instrument.",
+        "Used by ancient nomads to lead livestock.",
+        "[Color:8]Effect[Color:10]: Rare food from beast points",
+        ""
+      ],
+      "Translation": [
+        "A beast horn, carved into an instrument.",
+        "Used by ancient nomads to lead livestock.",
+        "[Color:8]Effect[Color:10]: Rare food from beast points",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "A weathercock shaped like a golden",
+        "rooster. It points the way to rare birds.",
+        "[Color:8]Effect[Color:10]: Rare food from bird points",
+        ""
+      ],
+      "Translation": [
+        "A weathercock shaped like a golden",
+        "rooster. It points the way to rare birds.",
+        "[Color:8]Effect[Color:10]: Rare food from bird points",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "A ship's ensign embroidered with a",
+        "legendary golden fish to attract luck.",
+        "[Color:8]Effect[Color:10]: Rare food from fish points",
+        ""
+      ],
+      "Translation": [
+        "A ship's ensign embroidered with a",
+        "legendary golden fish to attract luck.",
+        "[Color:8]Effect[Color:10]: Rare food from fish points",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "A charm to pray for successful harvests.",
+        "Said to promote strong and fertile crops.",
+        "[Color:8]Effect[Color:10]: Rare food from plant points",
+        ""
+      ],
+      "Translation": [
+        "A charm to pray for successful harvests.",
+        "Said to promote strong and fertile crops.",
+        "[Color:8]Effect[Color:10]: Rare food from plant points",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "A book full of tips on hunting wild",
+        "beasts.",
+        "[Color:8]Effect[Color:10]: Food caught at beast points ↑",
+        ""
+      ],
+      "Translation": [
+        "A book full of tips on hunting wild",
+        "beasts.",
+        "[Color:8]Effect[Color:10]: Food caught at beast points ↑",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "An illustrated guide detailing a number",
+        "of bird species and ways to capture them.",
+        "[Color:8]Effect[Color:10]: Food caught at bird points ↑",
+        ""
+      ],
+      "Translation": [
+        "An illustrated guide detailing a number",
+        "of bird species and ways to capture them.",
+        "[Color:8]Effect[Color:10]: Food caught at bird points ↑",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "An encyclopedia of fishing knowledge",
+        "for all times and locales.",
+        "[Color:8]Effect[Color:10]: Food caught at fish points ↑",
+        ""
+      ],
+      "Translation": [
+        "An encyclopedia of fishing knowledge",
+        "for all times and locales.",
+        "[Color:8]Effect[Color:10]: Food caught at fish points ↑",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "An annotated timetable describing the",
+        "best ways to maximize vegetable harvests.",
+        "[Color:8]Effect[Color:10]: Food taken at plant points ↑",
+        ""
+      ],
+      "Translation": [
+        "An annotated timetable describing the",
+        "best ways to maximize vegetable harvests.",
+        "[Color:8]Effect[Color:10]: Food taken at plant points ↑",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "A portable geomagnetic pole created after",
+        "much research. Its workings are a mystery.",
+        "[Color:8]Effect[Color:10]: Warp back to where it was used",
+        ""
+      ],
+      "Translation": [
+        "A portable geomagnetic pole created after",
+        "much research. Its workings are a mystery.",
+        "[Color:8]Effect[Color:10]: Warp back to where it was used",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "A pair of L-shaped dowsing rods used",
+        "for discovering hidden treasures.",
+        "[Color:8]Effect[Color:10]: Ability to find treasures",
+        ""
+      ],
+      "Translation": [
+        "A pair of L-shaped dowsing rods used",
+        "for discovering hidden treasures.",
+        "[Color:8]Effect[Color:10]: Ability to find treasures",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "A catapult remodeled to fire bait. The",
+        "modifications make it useless as a weapon.",
+        "[Color:8]Effect[Color:10]: Toss food 1 square ahead",
+        ""
+      ],
+      "Translation": [
+        "A catapult remodeled to fire bait. The",
+        "modifications make it useless as a weapon.",
+        "[Color:8]Effect[Color:10]: Toss food 1 square ahead",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "A [Item:2189] that has been improved for",
+        "increased throwing distance.",
+        "[Color:8]Effect[Color:10]: Toss food 2 squares ahead",
+        ""
+      ],
+      "Translation": [
+        "A [Item:2189] that has been improved for",
+        "increased throwing distance.",
+        "[Color:8]Effect[Color:10]: Toss food 2 squares ahead",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "A bell with the name [Skyship]",
+        "engraved on it. It can overcome winds.",
+        "[Color:8]Effect[Color:10]: Ignore air currents",
+        ""
+      ],
+      "Translation": [
+        "A bell with the name [Skyship]",
+        "engraved on it. It can overcome winds.",
+        "[Color:8]Effect[Color:10]: Ignore air currents",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "A silver figurehead modeled after a god",
+        "of northern winds for tornado protection.",
+        "[Color:8]Effect[Color:10]: Ignore tornadoes",
+        ""
+      ],
+      "Translation": [
+        "A silver figurehead modeled after a god",
+        "of northern winds for tornado protection.",
+        "[Color:8]Effect[Color:10]: Ignore tornadoes",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "A propeller for quick acceleration. It",
+        "briefly lets a ship move twice as fast.",
+        "[Color:8]Effect[Color:10]: Move 2 squares at a time",
+        ""
+      ],
+      "Translation": [
+        "A propeller for quick acceleration. It",
+        "briefly lets a ship move twice as fast.",
+        "[Color:8]Effect[Color:10]: Move 2 squares at a time",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

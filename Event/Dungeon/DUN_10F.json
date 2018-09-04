@@ -1,0 +1,1895 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_10F",
+  "RelativePath": "Event\\Dungeon\\DUN_10F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Upon visiting the Echoing Library,",
+        "you are reunited with Logre.",
+        "[Page]",
+        "",
+        "If you wish, you can invite Logre",
+        "into your guild.",
+        ""
+      ],
+      "Translation": [
+        "Upon visiting the Echoing Library,",
+        "you are reunited with Logre.",
+        "[Page]",
+        "",
+        "If you wish, you can invite Logre",
+        "into your guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Invite Logre into your guild?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Invite Logre into your guild?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your guild is too full to register",
+        "a new member.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you would still like to register",
+        "Logre in your guild, make space for",
+        "him and return here.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your guild is too full to register",
+        "a new member.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you would still like to register",
+        "Logre in your guild, make space for",
+        "him and return here.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Logre is now a registered member",
+        "of your guild.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Logre is now a registered member",
+        "of your guild.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]If you wish to put Logre into your",
+        "party, go to the Explorers Guild",
+        "and select \"Formation.\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]If you wish to put Logre into your",
+        "party, go to the Explorers Guild",
+        "and select \"Formation.\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk through the ancient",
+        "labyrinth, you find a large bookshelf",
+        "nestled in a dead end.",
+        "[Page]",
+        "",
+        "You wonder if you have time to check",
+        "its contents, or if you should ignore",
+        "it and return to your explorations.",
+        ""
+      ],
+      "Translation": [
+        "As you walk through the ancient",
+        "labyrinth, you find a large bookshelf",
+        "nestled in a dead end.",
+        "[Page]",
+        "",
+        "You wonder if you have time to check",
+        "its contents, or if you should ignore",
+        "it and return to your explorations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "A large bookshelf looms before you...",
+        ""
+      ],
+      "Translation": [
+        "A large bookshelf looms before you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Check the bookshelf?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Check the bookshelf?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Upon closer investigation, you find",
+        "a book that is still in good enough",
+        "condition to be read.",
+        "[Page]",
+        "",
+        "You open it up and look inside...",
+        "[Page]",
+        "",
+        "Letters in an unknown language dance",
+        "on the page... Irritated, you return",
+        "the book to the shelf.",
+        ""
+      ],
+      "Translation": [
+        "Upon closer investigation, you find",
+        "a book that is still in good enough",
+        "condition to be read.",
+        "[Page]",
+        "",
+        "You open it up and look inside...",
+        "[Page]",
+        "",
+        "Letters in an unknown language dance",
+        "on the page... Irritated, you return",
+        "the book to the shelf.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Upon closer investigation, you find",
+        "a book that is still in good enough",
+        "condition to be read.",
+        "[Page]",
+        "",
+        "You open it up and look inside...",
+        "[Page]",
+        "",
+        "The pages contain numerical formula",
+        "after formula... You sigh and return",
+        "the book to its place on the shelf.",
+        ""
+      ],
+      "Translation": [
+        "Upon closer investigation, you find",
+        "a book that is still in good enough",
+        "condition to be read.",
+        "[Page]",
+        "",
+        "You open it up and look inside...",
+        "[Page]",
+        "",
+        "The pages contain numerical formula",
+        "after formula... You sigh and return",
+        "the book to its place on the shelf.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Upon closer investigation, you find",
+        "a book that is still in good enough",
+        "condition to be read.",
+        "[Page]",
+        "",
+        "You open it up and look inside...",
+        "[Page]",
+        "",
+        "The book is filled with diagrams of",
+        "double helices. Dejected, you put",
+        "the book back where it came from.",
+        ""
+      ],
+      "Translation": [
+        "Upon closer investigation, you find",
+        "a book that is still in good enough",
+        "condition to be read.",
+        "[Page]",
+        "",
+        "You open it up and look inside...",
+        "[Page]",
+        "",
+        "The book is filled with diagrams of",
+        "double helices. Dejected, you put",
+        "the book back where it came from.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk the oppressively silent",
+        "halls of the ancient labyrinth, you",
+        "see a fallen pillar in the corner.",
+        "[Page]",
+        "",
+        "It looks to be just the right height",
+        "to sit down on for a rest.",
+        ""
+      ],
+      "Translation": [
+        "As you walk the oppressively silent",
+        "halls of the ancient labyrinth, you",
+        "see a fallen pillar in the corner.",
+        "[Page]",
+        "",
+        "It looks to be just the right height",
+        "to sit down on for a rest.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "There is a fallen pillar in the corner",
+        "of an open area...",
+        "[Page]",
+        "",
+        "It looks to be just the right height",
+        "to sit down on for a rest.",
+        ""
+      ],
+      "Translation": [
+        "There is a fallen pillar in the corner",
+        "of an open area...",
+        "[Page]",
+        "",
+        "It looks to be just the right height",
+        "to sit down on for a rest.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "If you wish to rest here, despite the",
+        "potential threat of monsters, you are",
+        "free to do so.",
+        ""
+      ],
+      "Translation": [
+        "If you wish to rest here, despite the",
+        "potential threat of monsters, you are",
+        "free to do so.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Sit down on the pillar?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Sit down on the pillar?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "While you are mulling over whether or",
+        "not to rest, [Character:0] murmurs",
+        "something to you.",
+        ""
+      ],
+      "Translation": [
+        "While you are mulling over whether or",
+        "not to rest, [Character:0] murmurs",
+        "something to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] says the scent of monsters",
+        "is in the air and that you should",
+        "leave this place immediately.",
+        "[Page]",
+        "",
+        "You hate to ignore advice from a",
+        "trusted guildmate, but on the other",
+        "hand, you are very tired...",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] says the scent of monsters",
+        "is in the air and that you should",
+        "leave this place immediately.",
+        "[Page]",
+        "",
+        "You hate to ignore advice from a",
+        "trusted guildmate, but on the other",
+        "hand, you are very tired...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Just as you take off your packs and",
+        "sit down on the pillar, you hear",
+        "rustling from a nearby thicket!",
+        "[Page]",
+        "",
+        "It seems the cruel labyrinth won't",
+        "allow you a moment's rest! Defend",
+        "yourself against the oncoming beasts!",
+        ""
+      ],
+      "Translation": [
+        "Just as you take off your packs and",
+        "sit down on the pillar, you hear",
+        "rustling from a nearby thicket!",
+        "[Page]",
+        "",
+        "It seems the cruel labyrinth won't",
+        "allow you a moment's rest! Defend",
+        "yourself against the oncoming beasts!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "With the monsters slain, you regret",
+        "ever thinking of resting here and",
+        "shamefacedly take your leave.",
+        ""
+      ],
+      "Translation": [
+        "With the monsters slain, you regret",
+        "ever thinking of resting here and",
+        "shamefacedly take your leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You regret not trusting the Sentinel's",
+        "sense of smell and shamefacedly take",
+        "your leave.",
+        ""
+      ],
+      "Translation": [
+        "You regret not trusting the Sentinel's",
+        "sense of smell and shamefacedly take",
+        "your leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "It seems that [Character:0]'s senses",
+        "are detecting a faint scent of",
+        "monsters nearby.",
+        "[Page]",
+        "",
+        "Forewarned is forearmed, and you may",
+        "be able to rest here even knowing",
+        "that monsters could attack...",
+        ""
+      ],
+      "Translation": [
+        "It seems that [Character:0]'s senses",
+        "are detecting a faint scent of",
+        "monsters nearby.",
+        "[Page]",
+        "",
+        "Forewarned is forearmed, and you may",
+        "be able to rest here even knowing",
+        "that monsters could attack...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "You set down your packs and decide to",
+        "take a rest.",
+        "[Page]",
+        "",
+        "Here in this quiet corner of the maze,",
+        "you manage to forget your exhaustion",
+        "for a short while...",
+        ""
+      ],
+      "Translation": [
+        "You set down your packs and decide to",
+        "take a rest.",
+        "[Page]",
+        "",
+        "Here in this quiet corner of the maze,",
+        "you manage to forget your exhaustion",
+        "for a short while...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "But just as you are about to hop down",
+        "from the pillar, there comes rustling",
+        "from a nearby thicket!",
+        "[Page]",
+        "",
+        "It seems that your extended rest",
+        "allowed monsters to close in on you!",
+        "You hastily draw your weapons!",
+        ""
+      ],
+      "Translation": [
+        "But just as you are about to hop down",
+        "from the pillar, there comes rustling",
+        "from a nearby thicket!",
+        "[Page]",
+        "",
+        "It seems that your extended rest",
+        "allowed monsters to close in on you!",
+        "You hastily draw your weapons!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Thanks to your rest, you had a slight",
+        "advantage in the fray.",
+        ""
+      ],
+      "Translation": [
+        "Thanks to your rest, you had a slight",
+        "advantage in the fray.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "You look to [Character:0], who says that",
+        "there is no scent of monsters in the",
+        "air and that it is safe to rest.",
+        "[Page]",
+        "",
+        "Your aching muscles want to believe",
+        "that, but your anxious nerves wonder",
+        "if you should leave anyway...",
+        ""
+      ],
+      "Translation": [
+        "You look to [Character:0], who says that",
+        "there is no scent of monsters in the",
+        "air and that it is safe to rest.",
+        "[Page]",
+        "",
+        "Your aching muscles want to believe",
+        "that, but your anxious nerves wonder",
+        "if you should leave anyway...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "You set down your packs and decide to",
+        "take a rest.",
+        "[Page]",
+        "",
+        "Here in this quiet corner of the maze,",
+        "you manage to forget your exhaustion",
+        "for a short while...",
+        ""
+      ],
+      "Translation": [
+        "You set down your packs and decide to",
+        "take a rest.",
+        "[Page]",
+        "",
+        "Here in this quiet corner of the maze,",
+        "you manage to forget your exhaustion",
+        "for a short while...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Well satisfied with the rest, you",
+        "return to your journey with rested",
+        "bodies.",
+        ""
+      ],
+      "Translation": [
+        "Well satisfied with the rest, you",
+        "return to your journey with rested",
+        "bodies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "As you leave, [Character:0] gazes sadly",
+        "back at the pillar...",
+        ""
+      ],
+      "Translation": [
+        "As you leave, [Character:0] gazes sadly",
+        "back at the pillar...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Though a rest might calm your body,",
+        "you doubt it would do anything for",
+        "your mind, and you decide to leave.",
+        ""
+      ],
+      "Translation": [
+        "Though a rest might calm your body,",
+        "you doubt it would do anything for",
+        "your mind, and you decide to leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 150 HP",
+        "and 40 TP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 150 HP",
+        "and 40 TP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Just as you begin your trek through",
+        "the Echoing Library, you hear a voice",
+        "call out to you.",
+        ""
+      ],
+      "Translation": [
+        "Just as you begin your trek through",
+        "the Echoing Library, you hear a voice",
+        "call out to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "You turn and see a soldier who appears",
+        "to have been dispatched from Tharsis.",
+        "[Page]",
+        "",
+        "\"I hear tell that you've already been",
+        "through B1F of this place. In which",
+        "case I have a favor to ask...",
+        "[Page]",
+        "",
+        "\"There's supposedly a [Color:5]book concerning",
+        "numerical formulas[Color:0] here. Does that",
+        "ring a bell?",
+        "[Page]",
+        "",
+        "You think back to see if you can",
+        "remember the book the soldier wants",
+        "so you can point him toward it.",
+        ""
+      ],
+      "Translation": [
+        "You turn and see a soldier who appears",
+        "to have been dispatched from Tharsis.",
+        "[Page]",
+        "",
+        "\"I hear tell that you've already been",
+        "through B1F of this place. In which",
+        "case I have a favor to ask...",
+        "[Page]",
+        "",
+        "\"There's supposedly a [Color:5]book concerning",
+        "numerical formulas[Color:0] here. Does that",
+        "ring a bell?",
+        "[Page]",
+        "",
+        "You think back to see if you can",
+        "remember the book the soldier wants",
+        "so you can point him toward it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you know where it is?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you know where it is?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "You recall seeing such a book while",
+        "exploring B1F previously. You tell",
+        "the soldier where to look for it.",
+        ""
+      ],
+      "Translation": [
+        "You recall seeing such a book while",
+        "exploring B1F previously. You tell",
+        "the soldier where to look for it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "\"Aha... so that's where it is? Much",
+        "obliged, explorers.",
+        "[Page]",
+        "",
+        "\"I'll have a reward for you once I go",
+        "and get it.\" With that, the soldier",
+        "walks away.",
+        ""
+      ],
+      "Translation": [
+        "\"Aha... so that's where it is? Much",
+        "obliged, explorers.",
+        "[Page]",
+        "",
+        "\"I'll have a reward for you once I go",
+        "and get it.\" With that, the soldier",
+        "walks away.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "\"Drat. Finding one book in this vast",
+        "library will be no small task... I'll",
+        "keep combing through the stacks here.",
+        "[Page]",
+        "",
+        "\"Sorry to have taken up your time,\"",
+        "the soldier apologizes, and then",
+        "moves to the center of the hall.",
+        ""
+      ],
+      "Translation": [
+        "\"Drat. Finding one book in this vast",
+        "library will be no small task... I'll",
+        "keep combing through the stacks here.",
+        "[Page]",
+        "",
+        "\"Sorry to have taken up your time,\"",
+        "the soldier apologizes, and then",
+        "moves to the center of the hall.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "You walk away in order to continue",
+        "your own search.",
+        ""
+      ],
+      "Translation": [
+        "You walk away in order to continue",
+        "your own search.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "You again find the soldier who had",
+        "asked you about a book before, staring",
+        "at a map in the center of the hall.",
+        "[Page]",
+        "",
+        "As you recall, he is searching for",
+        "a [Color:5]book of numerical formulas[Color:0]. If you",
+        "know of it, you may wish to share.",
+        ""
+      ],
+      "Translation": [
+        "You again find the soldier who had",
+        "asked you about a book before, staring",
+        "at a map in the center of the hall.",
+        "[Page]",
+        "",
+        "As you recall, he is searching for",
+        "a [Color:5]book of numerical formulas[Color:0]. If you",
+        "know of it, you may wish to share.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Give him its location?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Give him its location?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, it's you. I'm still at it, I'm",
+        "afraid... You wouldn't have found the",
+        "book I'm looking for, hmm?\"",
+        "[Page]",
+        "",
+        "You open up your map and tell the",
+        "soldier where the book can be found.",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, it's you. I'm still at it, I'm",
+        "afraid... You wouldn't have found the",
+        "book I'm looking for, hmm?\"",
+        "[Page]",
+        "",
+        "You open up your map and tell the",
+        "soldier where the book can be found.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, so you saw it here? I knew I",
+        "could count on the explorers of",
+        "the guild.",
+        "[Page]",
+        "",
+        "\"Thank you. I'll repay your kindness",
+        "once the book is in my hands.\" With",
+        "that, the soldier begins packing up.",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, so you saw it here? I knew I",
+        "could count on the explorers of",
+        "the guild.",
+        "[Page]",
+        "",
+        "\"Thank you. I'll repay your kindness",
+        "once the book is in my hands.\" With",
+        "that, the soldier begins packing up.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "As you have no idea where the book is,",
+        "you leave the soldier to his maps and",
+        "walk away.",
+        ""
+      ],
+      "Translation": [
+        "As you have no idea where the book is,",
+        "you leave the soldier to his maps and",
+        "walk away.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "You again find the soldier who had",
+        "asked you about a book before, staring",
+        "at a map in the center of the hall.",
+        "[Page]",
+        "",
+        "He looks up from his map and notices",
+        "your presence.",
+        ""
+      ],
+      "Translation": [
+        "You again find the soldier who had",
+        "asked you about a book before, staring",
+        "at a map in the center of the hall.",
+        "[Page]",
+        "",
+        "He looks up from his map and notices",
+        "your presence.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah... Yes. You know, I looked where",
+        "you told me to, but I didn't find the",
+        "book I needed.",
+        "[Page]",
+        "",
+        "The soldier narrows his eyes.",
+        "[Page]",
+        "",
+        "\"Are you positive that you know where",
+        "that [Color:5]book of numerical formulas[Color:0] is?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ah... Yes. You know, I looked where",
+        "you told me to, but I didn't find the",
+        "book I needed.",
+        "[Page]",
+        "",
+        "The soldier narrows his eyes.",
+        "[Page]",
+        "",
+        "\"Are you positive that you know where",
+        "that [Color:5]book of numerical formulas[Color:0] is?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "\"The location you gave me the other",
+        "day... The books I found there were",
+        "useless. Not at all what I needed.\"",
+        "[Page]",
+        "",
+        "The soldier narrows his eyes. \"Are",
+        "you positive that you know where",
+        "that [Color:5]book of numerical formulas[Color:0] is?\"",
+        ""
+      ],
+      "Translation": [
+        "\"The location you gave me the other",
+        "day... The books I found there were",
+        "useless. Not at all what I needed.\"",
+        "[Page]",
+        "",
+        "The soldier narrows his eyes. \"Are",
+        "you positive that you know where",
+        "that [Color:5]book of numerical formulas[Color:0] is?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you truly know its location?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you truly know its location?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "You silently nod. \"Then give me the",
+        "correct location this time,\" says",
+        "the soldier testily.",
+        ""
+      ],
+      "Translation": [
+        "You silently nod. \"Then give me the",
+        "correct location this time,\" says",
+        "the soldier testily.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hmm... Your eyes seem honest enough.",
+        "I'll believe you one more time.\"",
+        "[Page]",
+        "",
+        "The soldier nods curtly, pulls his",
+        "knapsack over his back, and goes down",
+        "into the depths of the maze.",
+        ""
+      ],
+      "Translation": [
+        "\"Hmm... Your eyes seem honest enough.",
+        "I'll believe you one more time.\"",
+        "[Page]",
+        "",
+        "The soldier nods curtly, pulls his",
+        "knapsack over his back, and goes down",
+        "into the depths of the maze.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "\"So... you didn't know. Then are you",
+        "saying you lied to me?",
+        "[Page]",
+        "",
+        "\"Never mind, I blame myself for being",
+        "too trusting. I'll overlook it this",
+        "once.",
+        "[Page]",
+        "",
+        "\"If you do happen to find out where",
+        "it is, I'll be here. Please come tell",
+        "me about it... the truth, this time.\"",
+        "[Page]",
+        "",
+        "With that, the soldier returns to",
+        "poring over his map. You think it",
+        "wise to return to your own search.",
+        ""
+      ],
+      "Translation": [
+        "\"So... you didn't know. Then are you",
+        "saying you lied to me?",
+        "[Page]",
+        "",
+        "\"Never mind, I blame myself for being",
+        "too trusting. I'll overlook it this",
+        "once.",
+        "[Page]",
+        "",
+        "\"If you do happen to find out where",
+        "it is, I'll be here. Please come tell",
+        "me about it... the truth, this time.\"",
+        "[Page]",
+        "",
+        "With that, the soldier returns to",
+        "poring over his map. You think it",
+        "wise to return to your own search.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Just as you are about to embark on",
+        "your search, a voice calls out to",
+        "you, saying, \"You there!\"",
+        ""
+      ],
+      "Translation": [
+        "Just as you are about to embark on",
+        "your search, a voice calls out to",
+        "you, saying, \"You there!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Rushing over to you, out of breath,",
+        "is the Tharsis soldier whom you",
+        "helped in finding a book.",
+        "[Page]",
+        "",
+        "\"I've been looking for you! I was",
+        "waiting here to repay you for your",
+        "assistance the other day.",
+        "[Page]",
+        "",
+        "\"The book I needed was precisely",
+        "where you told me... Thanks to you,",
+        "my task is complete.\"",
+        "[Page]",
+        "",
+        "The soldier cheerfully removes",
+        "something from his leather pouch.",
+        "\"This is for you,\" he says.",
+        ""
+      ],
+      "Translation": [
+        "Rushing over to you, out of breath,",
+        "is the Tharsis soldier whom you",
+        "helped in finding a book.",
+        "[Page]",
+        "",
+        "\"I've been looking for you! I was",
+        "waiting here to repay you for your",
+        "assistance the other day.",
+        "[Page]",
+        "",
+        "\"The book I needed was precisely",
+        "where you told me... Thanks to you,",
+        "my task is complete.\"",
+        "[Page]",
+        "",
+        "The soldier cheerfully removes",
+        "something from his leather pouch.",
+        "\"This is for you,\" he says.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "\"I'd best be off, but I wish you the",
+        "best of luck in your explorations.\"",
+        "[Page]",
+        "",
+        "With that, the soldier jogs off to",
+        "the skyship landing en route to the",
+        "city. You return to your search...",
+        ""
+      ],
+      "Translation": [
+        "\"I'd best be off, but I wish you the",
+        "best of luck in your explorations.\"",
+        "[Page]",
+        "",
+        "With that, the soldier jogs off to",
+        "the skyship landing en route to the",
+        "city. You return to your search...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk the quiet ruins' halls,",
+        "you spy a pool of blood up ahead.",
+        "[Page]",
+        "",
+        "When you approach it, you find a",
+        "crater in the ground with the corpse",
+        "of a crushed soldier inside.",
+        "[Page]",
+        "",
+        "He must have fallen victim to one of",
+        "the roaming automatons with the iron",
+        "weights...",
+        "[Page]",
+        "",
+        "You realize gravely that you are not",
+        "immune to the same fate, and vow to",
+        "be cautious in your travels.",
+        ""
+      ],
+      "Translation": [
+        "As you walk the quiet ruins' halls,",
+        "you spy a pool of blood up ahead.",
+        "[Page]",
+        "",
+        "When you approach it, you find a",
+        "crater in the ground with the corpse",
+        "of a crushed soldier inside.",
+        "[Page]",
+        "",
+        "He must have fallen victim to one of",
+        "the roaming automatons with the iron",
+        "weights...",
+        "[Page]",
+        "",
+        "You realize gravely that you are not",
+        "immune to the same fate, and vow to",
+        "be cautious in your travels.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "The instant the mechanical monsters",
+        "detect you, they begin sounding an",
+        "earsplitting klaxon.",
+        ""
+      ],
+      "Translation": [
+        "The instant the mechanical monsters",
+        "detect you, they begin sounding an",
+        "earsplitting klaxon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "Your stomach sinks as you sense more",
+        "enemies drawing near in response to",
+        "the sound!",
+        "[Page]",
+        "",
+        "At this rate, you will face danger",
+        "from both sides... You must mind the",
+        "monsters drawing near to survive!",
+        ""
+      ],
+      "Translation": [
+        "Your stomach sinks as you sense more",
+        "enemies drawing near in response to",
+        "the sound!",
+        "[Page]",
+        "",
+        "At this rate, you will face danger",
+        "from both sides... You must mind the",
+        "monsters drawing near to survive!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "An earsplitting klaxon sounds",
+        "throughout the area!",
+        ""
+      ],
+      "Translation": [
+        "An earsplitting klaxon sounds",
+        "throughout the area!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

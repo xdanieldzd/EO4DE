@@ -1,0 +1,565 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_072",
+  "RelativePath": "Event\\Quest\\QUE_072.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You have come! As you surmised, that",
+        "request is from the Outland Count...",
+        "He has a new mark for you to find.",
+        "[Page]",
+        "",
+        "A new document provides clues to its",
+        "location. Go on! Hurry and see the",
+        "Outland Count!",
+        "[Page]",
+        "",
+        "I shall eagerly await your swift",
+        "return and the tale that follows...!",
+        ""
+      ],
+      "Translation": [
+        "You have come! As you surmised, that",
+        "request is from the Outland Count...",
+        "He has a new mark for you to find.",
+        "[Page]",
+        "",
+        "A new document provides clues to its",
+        "location. Go on! Hurry and see the",
+        "Outland Count!",
+        "[Page]",
+        "",
+        "I shall eagerly await your swift",
+        "return and the tale that follows...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Very good work. Once again, you easily",
+        "fulfill the appointed task... It was",
+        "an earth mark this time?",
+        "[Page]",
+        "",
+        "Water... fire... earth... Three marks",
+        "so far. Does it also seem to you that",
+        "another request will be posted soon?",
+        "[Page]",
+        "",
+        "I simply have a feeling. At any rate,",
+        "here is the reward you were promised.",
+        ""
+      ],
+      "Translation": [
+        "Very good work. Once again, you easily",
+        "fulfill the appointed task... It was",
+        "an earth mark this time?",
+        "[Page]",
+        "",
+        "Water... fire... earth... Three marks",
+        "so far. Does it also seem to you that",
+        "another request will be posted soon?",
+        "[Page]",
+        "",
+        "I simply have a feeling. At any rate,",
+        "here is the reward you were promised.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, so you accepted again. Then I am",
+        "saved the bother of an explanation.",
+        "[Page]",
+        "",
+        "We have found yet another Imperial",
+        "document. Pay careful attention as",
+        "I read this one aloud...",
+        ""
+      ],
+      "Translation": [
+        "Ah, so you accepted again. Then I am",
+        "saved the bother of an explanation.",
+        "[Page]",
+        "",
+        "We have found yet another Imperial",
+        "document. Pay careful attention as",
+        "I read this one aloud...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "\"As mentioned, there are two starting",
+        "points in [Color:5]A-1[Color:0]. We have successfully",
+        "excavated [Color:5][Codename: Trigger][Color:0].",
+        "[Page]",
+        "",
+        "\"If you enter the starting point with",
+        "[Color:5][Codename: Gatekeeper][Color:0] simultaneously,",
+        "it should guide you to the reaction.\"",
+        ""
+      ],
+      "Translation": [
+        "\"As mentioned, there are two starting",
+        "points in [Color:5]A-1[Color:0]. We have successfully",
+        "excavated [Color:5][Codename: Trigger][Color:0].",
+        "[Page]",
+        "",
+        "\"If you enter the starting point with",
+        "[Color:5][Codename: Gatekeeper][Color:0] simultaneously,",
+        "it should guide you to the reaction.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "That is the long and short of it.",
+        "Before, I had no idea how to solve",
+        "this, but this changes things.",
+        "[Page]",
+        "",
+        "Perhaps the mark mentioned here is",
+        "like the water and fire marks that",
+        "we discovered.",
+        "[Page]",
+        "",
+        "If that is the case... But you know",
+        "where I am going with this by now.",
+        "[Page]",
+        "",
+        "I want you to get the mark in this",
+        "document to [Color:5]react[Color:0] and report its",
+        "location to me. I'm counting on you.",
+        ""
+      ],
+      "Translation": [
+        "That is the long and short of it.",
+        "Before, I had no idea how to solve",
+        "this, but this changes things.",
+        "[Page]",
+        "",
+        "Perhaps the mark mentioned here is",
+        "like the water and fire marks that",
+        "we discovered.",
+        "[Page]",
+        "",
+        "If that is the case... But you know",
+        "where I am going with this by now.",
+        "[Page]",
+        "",
+        "I want you to get the mark in this",
+        "document to [Color:5]react[Color:0] and report its",
+        "location to me. I'm counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello, my friends. Did you get",
+        "the mark to react and reveal its",
+        "location?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello, my friends. Did you get",
+        "the mark to react and reveal its",
+        "location?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Did you find the mark?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Did you find the mark?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... Well, I wish you luck. I have",
+        "confidence in you, my friends! And",
+        "so does Margherita.",
+        ""
+      ],
+      "Translation": [
+        "Hmm... Well, I wish you luck. I have",
+        "confidence in you, my friends! And",
+        "so does Margherita.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "More information, eh? Then let me read",
+        "the document aloud once more...",
+        ""
+      ],
+      "Translation": [
+        "More information, eh? Then let me read",
+        "the document aloud once more...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "That is all that is written. We do not",
+        "yet know the starting point... we must",
+        "simply comb the [Color:5]A-1[Color:0] region.",
+        "[Page]",
+        "",
+        "What vexes me more is the part about",
+        "entering the starting point at the",
+        "same time as this \"Gatekeeper\"...",
+        ""
+      ],
+      "Translation": [
+        "That is all that is written. We do not",
+        "yet know the starting point... we must",
+        "simply comb the [Color:5]A-1[Color:0] region.",
+        "[Page]",
+        "",
+        "What vexes me more is the part about",
+        "entering the starting point at the",
+        "same time as this \"Gatekeeper\"...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Is that so!? Another success for my",
+        "favorite explorers! Now then, where",
+        "might we find this mark?",
+        ""
+      ],
+      "Translation": [
+        "Is that so!? Another success for my",
+        "favorite explorers! Now then, where",
+        "might we find this mark?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Very well. I shall send my scouts to",
+        "investigate as soon as possible.",
+        ""
+      ],
+      "Translation": [
+        "Very well. I shall send my scouts to",
+        "investigate as soon as possible.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "I may have to withdraw the compliment",
+        "I gave you...",
+        "[Page]",
+        "",
+        "There seemed to be no mark where you",
+        "spoke of. Maybe the coordinates were",
+        "off? You... did activate the mark...?",
+        "[Page]",
+        "",
+        "Whatever the reason, this result is",
+        "unacceptable! I am left with nothing",
+        "but the awkward praise I gave you!",
+        "[Page]",
+        "",
+        "I need verifiable information. Next",
+        "time, make the mark react and give",
+        "me the correct location.",
+        ""
+      ],
+      "Translation": [
+        "I may have to withdraw the compliment",
+        "I gave you...",
+        "[Page]",
+        "",
+        "There seemed to be no mark where you",
+        "spoke of. Maybe the coordinates were",
+        "off? You... did activate the mark...?",
+        "[Page]",
+        "",
+        "Whatever the reason, this result is",
+        "unacceptable! I am left with nothing",
+        "but the awkward praise I gave you!",
+        "[Page]",
+        "",
+        "I need verifiable information. Next",
+        "time, make the mark react and give",
+        "me the correct location.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Congratulations, my friends! You've",
+        "done it! My scouts found the mark",
+        "just where you said it would be!",
+        "[Page]",
+        "",
+        "The reports say that given its shape,",
+        "it appears to be the earth mark.",
+        "That's three so far...",
+        "[Page]",
+        "",
+        "We still don't know what they're for.",
+        "Perhaps we'll never know... But that",
+        "is all part of the research process!",
+        "[Page]",
+        "",
+        "Now, my friends, the request is",
+        "complete. Go to the bar and collect",
+        "your reward.",
+        ""
+      ],
+      "Translation": [
+        "Congratulations, my friends! You've",
+        "done it! My scouts found the mark",
+        "just where you said it would be!",
+        "[Page]",
+        "",
+        "The reports say that given its shape,",
+        "it appears to be the earth mark.",
+        "That's three so far...",
+        "[Page]",
+        "",
+        "We still don't know what they're for.",
+        "Perhaps we'll never know... But that",
+        "is all part of the research process!",
+        "[Page]",
+        "",
+        "Now, my friends, the request is",
+        "complete. Go to the bar and collect",
+        "your reward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "We've found water, fire, and now an",
+        "earth mark... If they relate to the",
+        "basic elements...",
+        "[Page]",
+        "",
+        "Can you not see where this is going,",
+        "my friends? The next request should",
+        "be posted very soon, I think...",
+        ""
+      ],
+      "Translation": [
+        "We've found water, fire, and now an",
+        "earth mark... If they relate to the",
+        "basic elements...",
+        "[Page]",
+        "",
+        "Can you not see where this is going,",
+        "my friends? The next request should",
+        "be posted very soon, I think...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You thoroughly survey the area and",
+        "suddenly chance upon a small Imperial",
+        "flag just below your skyship.",
+        ""
+      ],
+      "Translation": [
+        "You thoroughly survey the area and",
+        "suddenly chance upon a small Imperial",
+        "flag just below your skyship.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "All of a sudden, you hear a strangely",
+        "familiar sound from the [Color:5]east[Color:0]!",
+        "Something has happened...",
+        ""
+      ],
+      "Translation": [
+        "All of a sudden, you hear a strangely",
+        "familiar sound from the [Color:5]east[Color:0]!",
+        "Something has happened...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "As you hunt for the origin of the",
+        "strange noise, you spy a faint glow",
+        "arising from the stone pavement.",
+        "[Page]",
+        "",
+        "This would appear to be the source",
+        "of the strange sound...",
+        "[Page]",
+        "",
+        "It is marked with an engraving that",
+        "symbolizes the earth. This must be",
+        "the mark you sought!",
+        "[Page]",
+        "",
+        "Now, you need only copy down its",
+        "location and report it to the Count.",
+        ""
+      ],
+      "Translation": [
+        "As you hunt for the origin of the",
+        "strange noise, you spy a faint glow",
+        "arising from the stone pavement.",
+        "[Page]",
+        "",
+        "This would appear to be the source",
+        "of the strange sound...",
+        "[Page]",
+        "",
+        "It is marked with an engraving that",
+        "symbolizes the earth. This must be",
+        "the mark you sought!",
+        "[Page]",
+        "",
+        "Now, you need only copy down its",
+        "location and report it to the Count.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "As you make a thorough search of the",
+        "area, you spy a faint glow arising",
+        "from the earth at your feet.",
+        ""
+      ],
+      "Translation": [
+        "As you make a thorough search of the",
+        "area, you spy a faint glow arising",
+        "from the earth at your feet.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

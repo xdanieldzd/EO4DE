@@ -1,0 +1,165 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_11",
+  "RelativePath": "Event\\Bar\\BAR_11.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Huh? Raht? Oh, that clueless explorer?",
+        "Yeah, I saw him crashed in the Sacred",
+        "Mountains.",
+        "[Page]",
+        "",
+        "I could tell you where that was, but",
+        "I have bills to pay, same as everyone.",
+        "It'll cost you [Number:1]en.",
+        ""
+      ],
+      "Translation": [
+        "Huh? Raht? Oh, that clueless explorer?",
+        "Yeah, I saw him crashed in the Sacred",
+        "Mountains.",
+        "[Page]",
+        "",
+        "I could tell you where that was, but",
+        "I have bills to pay, same as everyone.",
+        "It'll cost you [Number:1]en.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Pay him [Number:1]en?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Pay him [Number:1]en?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Huh, that's too bad. Guess you're",
+        "getting nothing out of me.",
+        ""
+      ],
+      "Translation": [
+        "Huh, that's too bad. Guess you're",
+        "getting nothing out of me.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Uhh... I don't think you have the",
+        "cash to give my asking price. Come",
+        "back again with money to spare.",
+        ""
+      ],
+      "Translation": [
+        "Uhh... I don't think you have the",
+        "cash to give my asking price. Come",
+        "back again with money to spare.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Ahh, very generous of you. Now that's",
+        "what I'm talking about... Alright,",
+        "fork it over.",
+        ""
+      ],
+      "Translation": [
+        "Ahh, very generous of you. Now that's",
+        "what I'm talking about... Alright,",
+        "fork it over.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "What, you forgot what I told you?",
+        "Fine...",
+        ""
+      ],
+      "Translation": [
+        "What, you forgot what I told you?",
+        "Fine...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "I was searching the west side of the",
+        "Sacred Mountains... all over columns",
+        "1, 2, and 3 on the map.",
+        "[Page]",
+        "",
+        "Somewhere in there, I saw a crashed",
+        "skyship and a kid explorer. Don't",
+        "remember exactly where, though.",
+        ""
+      ],
+      "Translation": [
+        "I was searching the west side of the",
+        "Sacred Mountains... all over columns",
+        "1, 2, and 3 on the map.",
+        "[Page]",
+        "",
+        "Somewhere in there, I saw a crashed",
+        "skyship and a kid explorer. Don't",
+        "remember exactly where, though.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_003",
+  "RelativePath": "Event\\QR\\QR_003.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You intend to take that request?",
+        "It involves the slaying of a large",
+        "monster that roams in the labyrinth.",
+        "[Page]",
+        "",
+        "You must slay the [Color:5][Enemy2:1][Color:0]",
+        "on [Color:5]B[Number:0]F[Color:0] of the [Color:5][Location][Color:0].",
+        "Can I entrust this task to you?",
+        ""
+      ],
+      "Translation": [
+        "You intend to take that request?",
+        "It involves the slaying of a large",
+        "monster that roams in the labyrinth.",
+        "[Page]",
+        "",
+        "You must slay the [Color:5][Enemy2:1][Color:0]",
+        "on [Color:5]B[Number:0]F[Color:0] of the [Color:5][Location][Color:0].",
+        "Can I entrust this task to you?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "You intend to take that request?",
+        "It involves the slaying of a large",
+        "monster that roams in the labyrinth.",
+        "[Page]",
+        "",
+        "You must slay the [Color:5][Enemy2:1][Color:0]",
+        "found in the [Color:5][Location][Color:0].",
+        "Can I entrust this task to you?",
+        ""
+      ],
+      "Translation": [
+        "You intend to take that request?",
+        "It involves the slaying of a large",
+        "monster that roams in the labyrinth.",
+        "[Page]",
+        "",
+        "You must slay the [Color:5][Enemy2:1][Color:0]",
+        "found in the [Color:5][Location][Color:0].",
+        "Can I entrust this task to you?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You intend to take that request?",
+        "It involves the slaying of a large",
+        "monster that roams the skies.",
+        "[Page]",
+        "",
+        "You must slay the [Color:5][Enemy2:1][Color:0]",
+        "found in the [Color:5][Location][Color:0].",
+        "Can I entrust this task to you?",
+        ""
+      ],
+      "Translation": [
+        "You intend to take that request?",
+        "It involves the slaying of a large",
+        "monster that roams the skies.",
+        "[Page]",
+        "",
+        "You must slay the [Color:5][Enemy2:1][Color:0]",
+        "found in the [Color:5][Location][Color:0].",
+        "Can I entrust this task to you?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You intend to take that request?",
+        "It involves the slaying of a large",
+        "monster that roams in the labyrinth.",
+        "[Page]",
+        "",
+        "You must slay the [Color:5][Enemy2:1][Color:0].",
+        "Do you know where this monster might",
+        "be found?",
+        ""
+      ],
+      "Translation": [
+        "You intend to take that request?",
+        "It involves the slaying of a large",
+        "monster that roams in the labyrinth.",
+        "[Page]",
+        "",
+        "You must slay the [Color:5][Enemy2:1][Color:0].",
+        "Do you know where this monster might",
+        "be found?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "It is said that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]east[Color:0]. Be careful in your",
+        "search for it.",
+        ""
+      ],
+      "Translation": [
+        "It is said that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]east[Color:0]. Be careful in your",
+        "search for it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "I have heard that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]west[Color:0]. Be sure to bring a",
+        "generous supply of healing items.",
+        ""
+      ],
+      "Translation": [
+        "I have heard that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]west[Color:0]. Be sure to bring a",
+        "generous supply of healing items.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "It seems that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]south[Color:0]. I hope that you",
+        "are able to find it...",
+        ""
+      ],
+      "Translation": [
+        "It seems that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]south[Color:0]. I hope that you",
+        "are able to find it...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "They say that the [Color:5][Enemy2:1][Color:0]",
+        "dwells in the [Color:5]north[Color:0]. Be sure to check",
+        "your equipment before challenging it.",
+        ""
+      ],
+      "Translation": [
+        "They say that the [Color:5][Enemy2:1][Color:0]",
+        "dwells in the [Color:5]north[Color:0]. Be sure to check",
+        "your equipment before challenging it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "It is said that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]northeast[Color:0]. Be careful in",
+        "your search for it.",
+        ""
+      ],
+      "Translation": [
+        "It is said that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]northeast[Color:0]. Be careful in",
+        "your search for it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "I have heard that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]southeast[Color:0]. Be sure to bring",
+        "a generous supply of healing items.",
+        ""
+      ],
+      "Translation": [
+        "I have heard that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]southeast[Color:0]. Be sure to bring",
+        "a generous supply of healing items.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "It seems that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]northwest[Color:0]. I hope that you",
+        "are able to find it...",
+        ""
+      ],
+      "Translation": [
+        "It seems that the [Color:5][Enemy2:1][Color:0]",
+        "is in the [Color:5]northwest[Color:0]. I hope that you",
+        "are able to find it...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "They say that the [Color:5][Enemy2:1][Color:0]",
+        "dwells in the [Color:5]southwest[Color:0]. Be sure to",
+        "check your equipment before facing it.",
+        ""
+      ],
+      "Translation": [
+        "They say that the [Color:5][Enemy2:1][Color:0]",
+        "dwells in the [Color:5]southwest[Color:0]. Be sure to",
+        "check your equipment before facing it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "May kismet smile upon your hunt.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "May kismet smile upon your hunt.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back, [Guild]. I hear that",
+        "you have successfully slain the",
+        "[Enemy2:1]. Were you hurt?",
+        ""
+      ],
+      "Translation": [
+        "Welcome back, [Guild]. I hear that",
+        "you have successfully slain the",
+        "[Enemy2:1]. Were you hurt?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Here is your promised reward...",
+        "Well done. I hope that I can count",
+        "on your guild next time as well.",
+        ""
+      ],
+      "Translation": [
+        "Here is your promised reward...",
+        "Well done. I hope that I can count",
+        "on your guild next time as well.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back, [Guild]. I hear that",
+        "you have successfully slain the",
+        "[Enemy2:1]. Were you hurt?",
+        "[Page]",
+        "",
+        "Ah yes, the client left a message for",
+        "you upon the reports of your success.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back, [Guild]. I hear that",
+        "you have successfully slain the",
+        "[Enemy2:1]. Were you hurt?",
+        "[Page]",
+        "",
+        "Ah yes, the client left a message for",
+        "you upon the reports of your success.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Here is your promised reward...",
+        "Well done. I hope that I can count",
+        "on your guild next time as well.",
+        ""
+      ],
+      "Translation": [
+        "Here is your promised reward...",
+        "Well done. I hope that I can count",
+        "on your guild next time as well.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "After a fierce battle, you finally",
+        "slay the [Enemy2:1]!",
+        ""
+      ],
+      "Translation": [
+        "After a fierce battle, you finally",
+        "slay the [Enemy2:1]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "The request is now complete! You feel",
+        "a sense of accomplishment as you head",
+        "to the bar to report your success.",
+        ""
+      ],
+      "Translation": [
+        "The request is now complete! You feel",
+        "a sense of accomplishment as you head",
+        "to the bar to report your success.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

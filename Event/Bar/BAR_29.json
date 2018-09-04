@@ -1,0 +1,113 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_29",
+  "RelativePath": "Event\\Bar\\BAR_29.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "D-Did you have any trouble with all",
+        "the [Color:5]b-burning scales[Color:0] in the [Color:5]Golden",
+        "Lair[Color:0]?",
+        "[Page]",
+        "",
+        "That's wh-when it's good to use",
+        "[Color:5]Tame Ground[Color:0], a Circle we Vessels",
+        "are p-p-proud of.",
+        "[Page]",
+        "",
+        "Its effects help you take less damage",
+        "from painful terrain, making it easier",
+        "to explore.",
+        "[Page]",
+        "",
+        "By the way, we Vessels take pride in",
+        "training the use of Tame Ground...",
+        "I-I'll just come out and ask you...",
+        "[Page]",
+        "",
+        "P...Please let me join your guild...",
+        ""
+      ],
+      "Translation": [
+        "D-Did you have any trouble with all",
+        "the [Color:5]b-burning scales[Color:0] in the [Color:5]Golden",
+        "Lair[Color:0]?",
+        "[Page]",
+        "",
+        "That's wh-when it's good to use",
+        "[Color:5]Tame Ground[Color:0], a Circle we Vessels",
+        "are p-p-proud of.",
+        "[Page]",
+        "",
+        "Its effects help you take less damage",
+        "from painful terrain, making it easier",
+        "to explore.",
+        "[Page]",
+        "",
+        "By the way, we Vessels take pride in",
+        "training the use of Tame Ground...",
+        "I-I'll just come out and ask you...",
+        "[Page]",
+        "",
+        "P...Please let me join your guild...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "G-Good news. Instead of using our [Color:5]Tame",
+        "Ground[Color:0] skill, th-there's another way",
+        "to be safe around the burning scales.",
+        "[Page]",
+        "",
+        "Even though it's a product of the",
+        "Berund Atelier, the [Color:6][Item:1357][Color:0] has",
+        "the same effect as Tame Ground.",
+        "[Page]",
+        "",
+        "If you bring in the materials dropped",
+        "by a [Color:5]Hexroot[Color:0] from the [Color:5]Toxic Cave[Color:0],",
+        "th-they can make you one.",
+        "[Page]",
+        "",
+        "B-By the way... I... Um...",
+        "[Page]",
+        "",
+        "P...Please let me join your guild...",
+        ""
+      ],
+      "Translation": [
+        "G-Good news. Instead of using our [Color:5]Tame",
+        "Ground[Color:0] skill, th-there's another way",
+        "to be safe around the burning scales.",
+        "[Page]",
+        "",
+        "Even though it's a product of the",
+        "Berund Atelier, the [Color:6][Item:1357][Color:0] has",
+        "the same effect as Tame Ground.",
+        "[Page]",
+        "",
+        "If you bring in the materials dropped",
+        "by a [Color:5]Hexroot[Color:0] from the [Color:5]Toxic Cave[Color:0],",
+        "th-they can make you one.",
+        "[Page]",
+        "",
+        "B-By the way... I... Um...",
+        "[Page]",
+        "",
+        "P...Please let me join your guild...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_52F",
+  "RelativePath": "Event\\Dungeon\\DUN_52F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You feel a familiar lightheadedness",
+        "setting in... You fear that you've",
+        "been inside the miasma for too long.",
+        "[Page]",
+        "",
+        "To remain in this hall any longer is",
+        "to put your life at risk! You quickly",
+        "retrace your steps and leave.",
+        ""
+      ],
+      "Translation": [
+        "You feel a familiar lightheadedness",
+        "setting in... You fear that you've",
+        "been inside the miasma for too long.",
+        "[Page]",
+        "",
+        "To remain in this hall any longer is",
+        "to put your life at risk! You quickly",
+        "retrace your steps and leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Just as you are becoming accustomed",
+        "to the foul stench, [Character:0]",
+        "abruptly doubles over and vomits!",
+        "[Page]",
+        "",
+        "The others rush to [Character:0]'s side,",
+        "but by then, everyone has noticed",
+        "the ill effects taking hold.",
+        "[Page]",
+        "",
+        "You feel severe lightheadedness and",
+        "nausea wash over you... The world",
+        "sways as if an earthquake had struck.",
+        "[Page]",
+        "",
+        "The entire party loses consciousness",
+        "and slumps to the ground...",
+        ""
+      ],
+      "Translation": [
+        "Just as you are becoming accustomed",
+        "to the foul stench, [Character:0]",
+        "abruptly doubles over and vomits!",
+        "[Page]",
+        "",
+        "The others rush to [Character:0]'s side,",
+        "but by then, everyone has noticed",
+        "the ill effects taking hold.",
+        "[Page]",
+        "",
+        "You feel severe lightheadedness and",
+        "nausea wash over you... The world",
+        "sways as if an earthquake had struck.",
+        "[Page]",
+        "",
+        "The entire party loses consciousness",
+        "and slumps to the ground...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "...",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "You hear a voice from somewhere...",
+        "It sounds like someone muttering",
+        "to themselves...",
+        ""
+      ],
+      "Translation": [
+        "...",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "You hear a voice from somewhere...",
+        "It sounds like someone muttering",
+        "to themselves...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "\"...That should be all of them.",
+        "[Page]",
+        "",
+        "\"Unbelievable... This many? Here?",
+        "Did they arrive on that flying",
+        "monstrosity?\"",
+        "[Page]",
+        "",
+        "You open your eyes and squint against",
+        "the sudden glare to find a woman",
+        "standing before you.",
+        ""
+      ],
+      "Translation": [
+        "\"...That should be all of them.",
+        "[Page]",
+        "",
+        "\"Unbelievable... This many? Here?",
+        "Did they arrive on that flying",
+        "monstrosity?\"",
+        "[Page]",
+        "",
+        "You open your eyes and squint against",
+        "the sudden glare to find a woman",
+        "standing before you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "But when your vision regains focus,",
+        "you choke back a cry of surprise.",
+        "She looks scarcely human...!",
+        "[Page]",
+        "",
+        "Her stick-thin arms and legs, and her",
+        "sallow skin, mark her as obviously",
+        "different from your party.",
+        "[Page]",
+        "",
+        "The woman speaks to you with an",
+        "anxious edge to her voice.",
+        ""
+      ],
+      "Translation": [
+        "But when your vision regains focus,",
+        "you choke back a cry of surprise.",
+        "She looks scarcely human...!",
+        "[Page]",
+        "",
+        "Her stick-thin arms and legs, and her",
+        "sallow skin, mark her as obviously",
+        "different from your party.",
+        "[Page]",
+        "",
+        "The woman speaks to you with an",
+        "anxious edge to her voice.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "\"I am Wufan, leader of the [Color:5]Vessel[Color:0]",
+        "arcanists. What business do you have",
+        "in this Miasma Forest, humans?\"",
+        "[Page]",
+        "",
+        "\"This is cursed ground. If you do not",
+        "heed your steps, you will succumb to",
+        "the miasma from the [Color:6][Item:1226][Color:0].",
+        "[Page]",
+        "",
+        "\"You humans are our creators. It is",
+        "out of respect for your guidance that",
+        "I took it upon myself to save you.",
+        "[Page]",
+        "",
+        "\"But the ties between us were severed",
+        "at the [Color:5]Battle for the Holy Tree[Color:0], and",
+        "we have no wish to restore them.",
+        "[Page]",
+        "",
+        "\"Understand that you are not welcome.",
+        "Our preference would be for you to do",
+        "nothing here and leave at once.\"",
+        ""
+      ],
+      "Translation": [
+        "\"I am Wufan, leader of the [Color:5]Vessel[Color:0]",
+        "arcanists. What business do you have",
+        "in this Miasma Forest, humans?\"",
+        "[Page]",
+        "",
+        "\"This is cursed ground. If you do not",
+        "heed your steps, you will succumb to",
+        "the miasma from the [Color:6][Item:1226][Color:0].",
+        "[Page]",
+        "",
+        "\"You humans are our creators. It is",
+        "out of respect for your guidance that",
+        "I took it upon myself to save you.",
+        "[Page]",
+        "",
+        "\"But the ties between us were severed",
+        "at the [Color:5]Battle for the Holy Tree[Color:0], and",
+        "we have no wish to restore them.",
+        "[Page]",
+        "",
+        "\"Understand that you are not welcome.",
+        "Our preference would be for you to do",
+        "nothing here and leave at once.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "The woman delivers her speech while",
+        "you are still too weak to respond and",
+        "then disappears somewhere.",
+        "[Page]",
+        "",
+        "That hall is most likely filled with",
+        "some kind of miasma... She must have",
+        "saved you when you collapsed.",
+        "[Page]",
+        "",
+        "Though she seemed displeased at the",
+        "idea of you remaining here, you can",
+        "continue your search if you wish.",
+        "[Page]",
+        "",
+        "Though there is the miasma to think",
+        "about... A held breath could get your",
+        "party through [Color:5]about ten steps[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The woman delivers her speech while",
+        "you are still too weak to respond and",
+        "then disappears somewhere.",
+        "[Page]",
+        "",
+        "That hall is most likely filled with",
+        "some kind of miasma... She must have",
+        "saved you when you collapsed.",
+        "[Page]",
+        "",
+        "Though she seemed displeased at the",
+        "idea of you remaining here, you can",
+        "continue your search if you wish.",
+        "[Page]",
+        "",
+        "Though there is the miasma to think",
+        "about... A held breath could get your",
+        "party through [Color:5]about ten steps[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "No sooner is the door open than an",
+        "overpowering stench causes you to gag.",
+        "[Page]",
+        "",
+        "Is that sulfur you smell? Whatever",
+        "it is, a powerful rotting smell fills",
+        "the entire hall.",
+        "[Page]",
+        "",
+        "As suspicious as that smell seems,",
+        "you proceed with your search.",
+        ""
+      ],
+      "Translation": [
+        "No sooner is the door open than an",
+        "overpowering stench causes you to gag.",
+        "[Page]",
+        "",
+        "Is that sulfur you smell? Whatever",
+        "it is, a powerful rotting smell fills",
+        "the entire hall.",
+        "[Page]",
+        "",
+        "As suspicious as that smell seems,",
+        "you proceed with your search.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "The black ore you have mined is",
+        "giving off a sulfurous reek.",
+        "[Page]",
+        "",
+        "If this is like the [Color:6][Item:1173][Color:0],",
+        "it may help to improve the buoyancy",
+        "of your skyship...",
+        "[Page]",
+        "",
+        "You should take this to the wharf in",
+        "Tharsis and consult Ciaran, the wharf",
+        "master, about it.",
+        ""
+      ],
+      "Translation": [
+        "The black ore you have mined is",
+        "giving off a sulfurous reek.",
+        "[Page]",
+        "",
+        "If this is like the [Color:6][Item:1173][Color:0],",
+        "it may help to improve the buoyancy",
+        "of your skyship...",
+        "[Page]",
+        "",
+        "You should take this to the wharf in",
+        "Tharsis and consult Ciaran, the wharf",
+        "master, about it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "The black ore you have mined is",
+        "giving off a sulfurous reek.",
+        "[Page]",
+        "",
+        "It may be useful to create the sort",
+        "of light gas that Ciaran, the wharf",
+        "master, mentioned.",
+        "[Page]",
+        "",
+        "You should waste no time in returning",
+        "to the city and consulting him.",
+        ""
+      ],
+      "Translation": [
+        "The black ore you have mined is",
+        "giving off a sulfurous reek.",
+        "[Page]",
+        "",
+        "It may be useful to create the sort",
+        "of light gas that Ciaran, the wharf",
+        "master, mentioned.",
+        "[Page]",
+        "",
+        "You should waste no time in returning",
+        "to the city and consulting him.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Upon passing through the gas-soaked",
+        "hall, you find a flower with trumpet-",
+        "shaped petals growing in a crevice.",
+        ""
+      ],
+      "Translation": [
+        "Upon passing through the gas-soaked",
+        "hall, you find a flower with trumpet-",
+        "shaped petals growing in a crevice.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "A beautiful flower with trumpet-shaped",
+        "petals is growing here...",
+        ""
+      ],
+      "Translation": [
+        "A beautiful flower with trumpet-shaped",
+        "petals is growing here...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "The ivory petals, like moonlight",
+        "shining on the water, make quite",
+        "an impression on you...",
+        "[Page]",
+        "",
+        "You stare in awe of the flower's",
+        "beauty for some time before tearing",
+        "yourself away to leave.",
+        ""
+      ],
+      "Translation": [
+        "The ivory petals, like moonlight",
+        "shining on the water, make quite",
+        "an impression on you...",
+        "[Page]",
+        "",
+        "You stare in awe of the flower's",
+        "beauty for some time before tearing",
+        "yourself away to leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "The red petals, like a fiercely",
+        "burning sun, make quite an impression",
+        "on you...",
+        "[Page]",
+        "",
+        "You stare in awe of the flower's",
+        "beauty for some time before tearing",
+        "yourself away to leave.",
+        ""
+      ],
+      "Translation": [
+        "The red petals, like a fiercely",
+        "burning sun, make quite an impression",
+        "on you...",
+        "[Page]",
+        "",
+        "You stare in awe of the flower's",
+        "beauty for some time before tearing",
+        "yourself away to leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "The flower is both white and red;",
+        "in the center, they meet to form a",
+        "lovely pink like that of a twilit sky.",
+        "[Page]",
+        "",
+        "You stare in awe of the beautiful,",
+        "one-of-a-kind flower for some time",
+        "before eventually taking your leave.",
+        ""
+      ],
+      "Translation": [
+        "The flower is both white and red;",
+        "in the center, they meet to form a",
+        "lovely pink like that of a twilit sky.",
+        "[Page]",
+        "",
+        "You stare in awe of the beautiful,",
+        "one-of-a-kind flower for some time",
+        "before eventually taking your leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Upon passing through the gas-soaked",
+        "hall, you find a large flower bud",
+        "growing from a crevice in the rock.",
+        "[Page]",
+        "",
+        "You wonder what sort of flower such",
+        "a magnificent bud would yield...",
+        "[Page]",
+        "",
+        "Though you walk away for now, you muse",
+        "that it would be nice to see the",
+        "flower should the opportunity arise.",
+        ""
+      ],
+      "Translation": [
+        "Upon passing through the gas-soaked",
+        "hall, you find a large flower bud",
+        "growing from a crevice in the rock.",
+        "[Page]",
+        "",
+        "You wonder what sort of flower such",
+        "a magnificent bud would yield...",
+        "[Page]",
+        "",
+        "Though you walk away for now, you muse",
+        "that it would be nice to see the",
+        "flower should the opportunity arise.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

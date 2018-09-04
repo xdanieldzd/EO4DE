@@ -1,0 +1,1676 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Quest descriptions",
+  "RelativePath": "Event\\quest_complete.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Drop[Color:0] food acquired from your skyship",
+        "to the soldiers' camp east of the",
+        "[Color:5]Lush Woodlands[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Drop[Color:0] food acquired from your skyship",
+        "to the soldiers' camp east of the",
+        "[Color:5]Lush Woodlands[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Sell [Color:5]2[Color:0] [Color:6][Item:929][Color:0]s dropped by the",
+        "[Color:5][Enemy1:3][Color:0]s to [Color:5]Berund Atelier[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Sell [Color:5]2[Color:0] [Color:6][Item:929][Color:0]s dropped by the",
+        "[Color:5][Enemy1:3][Color:0]s to [Color:5]Berund Atelier[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Slay the [Color:5][Enemy1:6][Color:0] that vandalized",
+        "the wooden box on [Color:5]B1F[Color:0] of the",
+        "[Color:5]Lush Woodlands[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Slay the [Color:5][Enemy1:6][Color:0] that vandalized",
+        "the wooden box on [Color:5]B1F[Color:0] of the",
+        "[Color:5]Lush Woodlands[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Gather a [Color:6][Item:1225][Color:0] on [Color:5]B1F[Color:0] of the [Color:5]Lush",
+        "Woodlands[Color:0] and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Gather a [Color:6][Item:1225][Color:0] on [Color:5]B1F[Color:0] of the [Color:5]Lush",
+        "Woodlands[Color:0] and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Gather a [Color:6][Item:1191][Color:0] in the [Color:5]Small",
+        "Orchard[Color:0] and sell it to [Color:5]Berund Atelier[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Gather a [Color:6][Item:1191][Color:0] in the [Color:5]Small",
+        "Orchard[Color:0] and sell it to [Color:5]Berund Atelier[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Slay the [Color:5]mysterious monster[Color:0] said to",
+        "emerge from the [Color:5]hole[Color:0] on [Color:5]B2F[Color:0] of the",
+        "[Color:5]Lush Woodlands[Color:0] at [Color:5]night[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Slay the [Color:5]mysterious monster[Color:0] said to",
+        "emerge from the [Color:5]hole[Color:0] on [Color:5]B2F[Color:0] of the",
+        "[Color:5]Lush Woodlands[Color:0] at [Color:5]night[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Fulfill the [Color:5]merchant Sabert[Color:0]'s request!",
+        ""
+      ],
+      "Translation": [
+        "Fulfill the [Color:5]merchant Sabert[Color:0]'s request!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Find the [Color:5]ring[Color:0] on [Color:5]B3F[Color:0] of the [Color:5]Lush",
+        "Woodlands[Color:0] and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Find the [Color:5]ring[Color:0] on [Color:5]B3F[Color:0] of the [Color:5]Lush",
+        "Woodlands[Color:0] and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Fill the vine basket full of [Color:5]mushrooms[Color:0]",
+        "from the [Color:5]Scarlet Pillars[Color:0] and deliver",
+        "them to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Fill the vine basket full of [Color:5]mushrooms[Color:0]",
+        "from the [Color:5]Scarlet Pillars[Color:0] and deliver",
+        "them to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Find the [Color:5][Item:1443][Color:0] and deliver",
+        "it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Find the [Color:5][Item:1443][Color:0] and deliver",
+        "it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Help Wynne from Berund Atelier gather",
+        "[Color:6][Item:1190][Color:0]s in the [Color:5]Dense Bushland[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Help Wynne from Berund Atelier gather",
+        "[Color:6][Item:1190][Color:0]s in the [Color:5]Dense Bushland[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver a [Color:5]mysterious flower[Color:0] that grows",
+        "in the [Color:5]Miasma Forest[Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Deliver a [Color:5]mysterious flower[Color:0] that grows",
+        "in the [Color:5]Miasma Forest[Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Discover the true nature of the [Color:5]mist",
+        "monster[Color:0] that appears on [Color:5]B1F[Color:0] of the",
+        "[Color:5]Misty Ravine[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Discover the true nature of the [Color:5]mist",
+        "monster[Color:0] that appears on [Color:5]B1F[Color:0] of the",
+        "[Color:5]Misty Ravine[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Find a [Color:5][Item:1438][Color:0] in the [Color:5]Moth's",
+        "Garden[Color:0] and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Find a [Color:5][Item:1438][Color:0] in the [Color:5]Moth's",
+        "Garden[Color:0] and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Slay the [Color:5]spellcasting monster[Color:0] that",
+        "appears on [Color:5]B2F[Color:0] of the [Color:5]Misty Ravine[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Slay the [Color:5]spellcasting monster[Color:0] that",
+        "appears on [Color:5]B2F[Color:0] of the [Color:5]Misty Ravine[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Find the [Color:5]soldier[Color:0] who went missing in",
+        "the [Color:5]Scarlet Pillars[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Find the [Color:5]soldier[Color:0] who went missing in",
+        "the [Color:5]Scarlet Pillars[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Sell a [Color:6][Item:1175][Color:0] and a [Color:6][Item:985][Color:0]",
+        "to [Color:5]Berund Atelier[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Sell a [Color:6][Item:1175][Color:0] and a [Color:6][Item:985][Color:0]",
+        "to [Color:5]Berund Atelier[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Fill the [Item:1444] with [Color:5]apples[Color:0] that",
+        "can be found in the [Color:5]Sacred Mountains[Color:0]",
+        "and deliver them to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Fill the [Item:1444] with [Color:5]apples[Color:0] that",
+        "can be found in the [Color:5]Sacred Mountains[Color:0]",
+        "and deliver them to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver a lunchbox to the soldier",
+        "investigating the [Color:5]Cramped Nest[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Deliver a lunchbox to the soldier",
+        "investigating the [Color:5]Cramped Nest[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver a [Color:5]rock[Color:0] that can be found in",
+        "the [Color:5]Golden Lair[Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Deliver a [Color:5]rock[Color:0] that can be found in",
+        "the [Color:5]Golden Lair[Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Go to [Color:5]B1F[Color:0] of the [Color:5]Golden Lair[Color:0], find an",
+        "[Color:5]Ice Stone[Color:0], and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Go to [Color:5]B1F[Color:0] of the [Color:5]Golden Lair[Color:0], find an",
+        "[Color:5]Ice Stone[Color:0], and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Gather [Color:5]poison-drenched material[Color:0] in",
+        "the [Color:5]Toxic Cave[Color:0] and deliver it to",
+        "the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Gather [Color:5]poison-drenched material[Color:0] in",
+        "the [Color:5]Toxic Cave[Color:0] and deliver it to",
+        "the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Slay all the [Color:5]baboon monsters[Color:0] that",
+        "dwell in the [Color:5]Old Forest Mine[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Slay all the [Color:5]baboon monsters[Color:0] that",
+        "dwell in the [Color:5]Old Forest Mine[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Find a [Color:5]Fire Fungus[Color:0] in the [Color:5]Golden Lair[Color:0]",
+        "and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Find a [Color:5]Fire Fungus[Color:0] in the [Color:5]Golden Lair[Color:0]",
+        "and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Find [Color:5]everlasting ice[Color:0] in the",
+        "[Color:5]Underground Lake[Color:0] and deliver it",
+        "to [Color:5]Vessel Town[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Find [Color:5]everlasting ice[Color:0] in the",
+        "[Color:5]Underground Lake[Color:0] and deliver it",
+        "to [Color:5]Vessel Town[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver [Color:5]2[Color:0] [Color:6][Item:996][Color:0]s and a",
+        "[Color:6][Item:997][Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Deliver [Color:5]2[Color:0] [Color:6][Item:996][Color:0]s and a",
+        "[Color:6][Item:997][Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Fill the [Item:1449] with [Color:5]fish[Color:0] that",
+        "can be caught in the [Color:5]Cloudy Stronghold[Color:0]",
+        "and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Fill the [Item:1449] with [Color:5]fish[Color:0] that",
+        "can be caught in the [Color:5]Cloudy Stronghold[Color:0]",
+        "and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Retrieve a [Color:5]book with double helices",
+        "drawn in it[Color:0] from the [Color:5]Echoing Library[Color:0]",
+        "and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Retrieve a [Color:5]book with double helices",
+        "drawn in it[Color:0] from the [Color:5]Echoing Library[Color:0]",
+        "and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver material that can be gathered",
+        "in the [Color:5]Echoing Library[Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Deliver material that can be gathered",
+        "in the [Color:5]Echoing Library[Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Find the truth behind the rumor of",
+        "the fairies that supposedly appear",
+        "in the [Color:5]Echoing Library[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Find the truth behind the rumor of",
+        "the fairies that supposedly appear",
+        "in the [Color:5]Echoing Library[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver the [Color:5]tree roots[Color:0] that [Color:5]grow",
+        "where a strong wind blows[Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Deliver the [Color:5]tree roots[Color:0] that [Color:5]grow",
+        "where a strong wind blows[Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Golden Deer Keep[Color:0] and",
+        "capture a [Color:5][Enemy1:102][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Golden Deer Keep[Color:0] and",
+        "capture a [Color:5][Enemy1:102][Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver a [Color:6][Item:1041][Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Deliver a [Color:6][Item:1041][Color:0] to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Find the [Color:5]remains of an ancient",
+        "creature[Color:0] said to be at the [Color:5]Underground",
+        "Lake[Color:0] and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Find the [Color:5]remains of an ancient",
+        "creature[Color:0] said to be at the [Color:5]Underground",
+        "Lake[Color:0] and deliver it to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Fulfill the [Color:5]Imperial linguist Muse[Color:0]'s",
+        "request!",
+        ""
+      ],
+      "Translation": [
+        "Fulfill the [Color:5]Imperial linguist Muse[Color:0]'s",
+        "request!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Find the [Color:5]revived monster[Color:0] headed for",
+        "the [Color:5]Lush Woodlands[Color:0] and slay it!",
+        ""
+      ],
+      "Translation": [
+        "Find the [Color:5]revived monster[Color:0] headed for",
+        "the [Color:5]Lush Woodlands[Color:0] and slay it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Fill the container with the food",
+        "requested by Dalla and deliver it",
+        "to the [Color:5]inn[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Fill the container with the food",
+        "requested by Dalla and deliver it",
+        "to the [Color:5]inn[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Gather all the [Color:5]legendary food[Color:0] said to",
+        "be found in each land and deliver it",
+        "to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Gather all the [Color:5]legendary food[Color:0] said to",
+        "be found in each land and deliver it",
+        "to the [Color:5]bar[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "Fulfill the [Color:5]Yggdrasil scholar Kohst[Color:0]'s",
+        "request!",
+        ""
+      ],
+      "Translation": [
+        "Fulfill the [Color:5]Yggdrasil scholar Kohst[Color:0]'s",
+        "request!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Head to [Color:5]B2F[Color:0] of the [Color:5]Echoing Library[Color:0] and",
+        "help the soldier troop [Color:5]investigate",
+        "monsters[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Head to [Color:5]B2F[Color:0] of the [Color:5]Echoing Library[Color:0] and",
+        "help the soldier troop [Color:5]investigate",
+        "monsters[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "Fulfill the [Color:5]wandering artist Qulart[Color:0]'s",
+        "request!",
+        ""
+      ],
+      "Translation": [
+        "Fulfill the [Color:5]wandering artist Qulart[Color:0]'s",
+        "request!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "Fulfill the [Color:5]lonely hunter Dylan[Color:0]'s",
+        "request!",
+        ""
+      ],
+      "Translation": [
+        "Fulfill the [Color:5]lonely hunter Dylan[Color:0]'s",
+        "request!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Translation": [
+        "Go to the [Color:5]Grand Court[Color:0] and hear the",
+        "[Color:5]Outland Count[Color:0]'s plea!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": true,
+      "Original": [
+        "Moved to QR",
+        ""
+      ],
+      "Translation": [
+        "Moved to QR",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the specified locations in the",
+        "[Color:5]Windy Plains[Color:0] and assist in rescuing",
+        "the crashed skyships!",
+        ""
+      ],
+      "Translation": [
+        "Go to the specified locations in the",
+        "[Color:5]Windy Plains[Color:0] and assist in rescuing",
+        "the crashed skyships!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "Slay the [Color:5][Enemy1:202][Color:0] that dwells in",
+        "the [Color:5]Windy Plains[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Slay the [Color:5][Enemy1:202][Color:0] that dwells in",
+        "the [Color:5]Windy Plains[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "Rescue Ms. Regine, who went missing",
+        "while gathering peaches in the",
+        "[Color:5]Scarlet Pillars[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Rescue Ms. Regine, who went missing",
+        "while gathering peaches in the",
+        "[Color:5]Scarlet Pillars[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "Slay the [Color:5][Enemy1:201][Color:0] that dwells in",
+        "the [Color:5]Scarlet Pillars[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Slay the [Color:5][Enemy1:201][Color:0] that dwells in",
+        "the [Color:5]Scarlet Pillars[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver the [Color:6][Item:2147][Color:0]s that the",
+        "[Color:5][Enemy1:200][Color:0] soaring around the",
+        "[Color:5]Sacred Mountains[Color:0] drops!",
+        ""
+      ],
+      "Translation": [
+        "Deliver the [Color:6][Item:2147][Color:0]s that the",
+        "[Color:5][Enemy1:200][Color:0] soaring around the",
+        "[Color:5]Sacred Mountains[Color:0] drops!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": false,
+      "Original": [
+        "Slay the [Color:5][Enemy1:200][Color:0] that dwells in",
+        "the [Color:5]Sacred Mountains[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Slay the [Color:5][Enemy1:200][Color:0] that dwells in",
+        "the [Color:5]Sacred Mountains[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "Slay the [Color:5]accursed one[Color:0] that has been",
+        "released into the [Color:5]Cloudy Stronghold[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Slay the [Color:5]accursed one[Color:0] that has been",
+        "released into the [Color:5]Cloudy Stronghold[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

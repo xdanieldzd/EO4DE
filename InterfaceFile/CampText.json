@@ -1,0 +1,819 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Camp/main menu text",
+  "RelativePath": "InterfaceFile\\CampText.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Is this the party you wish?",
+        ""
+      ],
+      "Translation": [
+        "Ist diese Gruppe in Ordnung?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Create a suspend save?",
+        ""
+      ],
+      "Translation": [
+        "Unterbrechungsdaten erstellen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Thank you for playing.",
+        "Please turn the power OFF.",
+        ""
+      ],
+      "Translation": [
+        "Danke für das Spiel.",
+        "Bitte schalten Sie das Gerät ab.",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung…?",
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "No condition",
+        ""
+      ],
+      "Translation": [
+        "Keine Verfassung",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "You will learn [Variable1:0].",
+        "Continue?",
+        ""
+      ],
+      "Translation": [
+        "Ihr werdet [Variable1:0] lernen.",
+        "Fortsetzen?",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Raise the LV[Variable1:1] [Variable1:0]",
+        "to LV[Variable1:2]?",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] von Level [Variable1:1]",
+        "auf Level [Variable1:2] erhöhen?",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] ",
+        "is now available!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist nun",
+        "verfügbar!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "You don't have enough skill points!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt nicht genügend Fähigkeitspunkte!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Learning this skill requires:",
+        "[Variable1:0] LV[Variable1:1]",
+        ""
+      ],
+      "Translation": [
+        "Diese Fähigkeit benötigt:",
+        "[Variable1:0] (Level [Variable1:1])",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Learning this skill requires:",
+        "[Variable1:0] LV[Variable1:1]",
+        "[Variable1:2] LV[Variable1:3]",
+        ""
+      ],
+      "Translation": [
+        "Diese Fähigkeit benötigt:",
+        "[Variable1:0] (Level [Variable1:1])",
+        "[Variable1:2] (Level [Variable1:3])",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Used [Variable1:0].",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] verwendet.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Will you discard this item?",
+        ""
+      ],
+      "Translation": [
+        "Diesen Gegenstand wegwerfen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "You discarded [Variable1:0] x[Variable1:1].",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] (x[Variable1:1]) weggeworfen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You haven't any skills to use!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt keine verwendbaren Fähigkeiten!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "In the [Color:3]Items[Color:0] menu, you can use",
+        "or throw away items in your",
+        "inventory.",
+        ""
+      ],
+      "Translation": [
+        "Verwendet das [Color:3]Items[Color:0]-Menü um",
+        "Gegenstände einzusetzen oder wegzuwerfen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "In the [Color:3]Skills[Color:0] menu, you can use",
+        "the skills that are available",
+        "outside of combat.",
+        ""
+      ],
+      "Translation": [
+        "Verwendet das [Color:3]Fähigkeiten[Color:0]-Menü um",
+        "die Fähigkeiten einzusetzen, die außerhalb von",
+        "Kämpfen verfügbar sind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "In the [Color:3]Equip[Color:0] menu, you can",
+        "adjust a party member's",
+        "equipment.",
+        "[Page]",
+        "",
+        "[Color:3]Some classes require particular",
+        "weapons[Color:0] to use some of their",
+        "skills. Be mindful of this.",
+        ""
+      ],
+      "Translation": [
+        "Verwendet das [Color:3]Ausrüstungs[Color:0]-Menü um",
+        "die Ausrüstung eines Gruppenmitglieds zu",
+        "verändern.",
+        "[Page]",
+        "",
+        "[Color:3]Manche Klassen benötigen bestimmte Waffen[Color:0]",
+        "um verschiedene Fähigkeiten zu verwenden.",
+        "Bedenkt dies bei der Wahl der Ausrüstung.",
+        ""
+      ],
+      "Notes": [
+        "Overflow…?",
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "In the [Color:3]Custom[Color:0] menu, you can",
+        "spend skill points to learn",
+        "new [Color:3]skills[Color:0].",
+        "[Page]",
+        "",
+        "In this game, [Color:3]for each level",
+        "you gain, you earn only one",
+        "skill point[Color:0].",
+        "[Page]",
+        "",
+        "Use them wisely either to",
+        "strengthen existing skills",
+        "or to learn new ones.",
+        ""
+      ],
+      "Translation": [
+        "Verwendet das [Color:3]Anpassen[Color:0]-Menü um",
+        "Fähigkeitspunkte einzusetzen, um neue Fähigkeiten",
+        "zu erlernen.",
+        "[Page]",
+        "",
+        "In diesem Spiel erhaltet Ihr [Color:3]einen Fähigkeits-",
+        "punkt für jedes Level[Color:0].",
+        "[Page]",
+        "",
+        "Setzt eure Punkt klug ein, um bereits erlernte",
+        "Fähigkeiten zu verstärken oder neue",
+        "zu erlernen.",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "In the [Color:3]Party[Color:0] menu, you can",
+        "reconfigure your party",
+        "formation.",
+        "[Page]",
+        "",
+        "In battle, [Color:3]if the entire front",
+        "line dies, it will be replaced",
+        "by the back line[Color:0].",
+        "[Page]",
+        "",
+        "Should the back line replace the",
+        "fallen front line, remember to",
+        "reform the party afterward.",
+        ""
+      ],
+      "Translation": [
+        "Verwendet das [Color:3]Gruppen[Color:0]-Menü um",
+        "die Formation eurer Gruppe zu verändern.",
+        "[Page]",
+        "",
+        "Sollte im Kampf [Color:3]die gesamte vordere Reihe",
+        "fallen, so wird die hintere Reihe nach vorn",
+        "gerufen[Color:0].",
+        "[Page]",
+        "",
+        "Denkt daran die Gruppe wieder neu aufzustellen,",
+        "falls die hintere Reihe die vordere Reihe",
+        "ersetzt hat.",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "In the [Color:3]Book[Color:0] menu, you can view",
+        "any accepted or completed quests",
+        "and missions.",
+        "[Page]",
+        "",
+        "You may also view your collection",
+        "of guild cards here.",
+        ""
+      ],
+      "Translation": [
+        "Verwendet das [Color:3]Logbuch[Color:0]-Menü um",
+        "angenommene und abgeschlossene Aufträge und",
+        "Missionen anzusehen.",
+        "[Page]",
+        "",
+        "Eure Sammlung von Gildenkarten kann ebenfalls",
+        "hier eingesehen werden.",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Cannot equip the doll without",
+        "removing another weapon. Do you",
+        "still wish to equip it?",
+        ""
+      ],
+      "Translation": [
+        "Kann Puppe nicht ausrüsten, ohne andere",
+        "Waffe zu entfernen. Dennoch ausrüsten?",
+        ""
+      ],
+      "Notes": [
+        "Wird nicht verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "That cannot be removed without",
+        "first discarding something.",
+        ""
+      ],
+      "Translation": [
+        "Das kann nicht entfernt werden,",
+        "ohne vorher etwas wegzuwerfen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "You have no active requests.",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt keine laufenden Anfragen.",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung...?",
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Are you sure you wish to discard",
+        "this guild card?",
+        ""
+      ],
+      "Translation": [
+        "Möchtet Ihr diese Gildenkarte wirklich",
+        "wegwerfen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "The guild card has been discarded.",
+        ""
+      ],
+      "Translation": [
+        "Die Gildenkarte wurde weggeworfen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s strength is now [Variable1:1]!",
+        "*[Color:3][Variable1:3][Color:0] remaining uses of [Variable1:2]",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Stärke ist nun [Variable1:1]!",
+        "＊[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
+        "verwendet werden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s technique is now [Variable1:1]!",
+        "*[Color:3][Variable1:3][Color:0] remaining uses of [Variable1:2]",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Technik ist nun [Variable1:1]!",
+        "＊[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
+        "verwendet werden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s vitality is now [Variable1:1]!",
+        "*[Color:3][Variable1:3][Color:0] remaining uses of [Variable1:2]",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Ausdauer ist nun [Variable1:1]!",
+        "＊[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
+        "verwendet werden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s agility is now [Variable1:1]!",
+        "*[Color:3][Variable1:3][Color:0] remaining uses of [Variable1:2]",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Agilität ist nun [Variable1:1]!",
+        "＊[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
+        "verwendet werden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s luck is now [Variable1:1]!",
+        "*[Color:3][Variable1:3][Color:0] remaining uses of [Variable1:2]",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Glück ist nun [Variable1:1]!",
+        "＊[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
+        "verwendet werden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "There was no effect!",
+        ""
+      ],
+      "Translation": [
+        "Es hat keine Wirkung!",
+        ""
+      ],
+      "Notes": [
+        "Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "In the [Color:3]Status[Color:0] menu, you can",
+        "see a party member's status,",
+        "equipment, and skills.",
+        ""
+      ],
+      "Translation": [
+        "Verwendet das [Color:3]Status[Color:0]-Menü um",
+        "Status, Ausrüstung und Fähigkeiten eines",
+        "Gruppenmitglieds anzusehen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "You have equipped a [Color:3]subweapon[Color:0],",
+        "enabling you to use that weapon's",
+        "skills in battle!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt eine [Color:3]Zusatzwaffe[Color:0]",
+        "ausgerüstet! Ihr könnt die Fähigkeiten",
+        "dieser Waffe im Kampf benutzen.",
+        ""
+      ],
+      "Notes": [
+        "Siehe FacilityShopText",
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "The change in equipment has changed",
+        "the skills that can be used.",
+        ""
+      ],
+      "Translation": [
+        "Durch den Wechsel der Ausrüstung haben",
+        "sich die verwendbaren Fähigkeiten verändert.",
+        ""
+      ],
+      "Notes": [
+        "Siehe FacilityShopText",
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "This character's equipment cannot",
+        "be changed!",
+        ""
+      ],
+      "Translation": [
+        "Die Ausrüstung dieses Charakters kann",
+        "nicht verändert werden!",
+        ""
+      ],
+      "Notes": [
+        "Siehe FacilityShopText",
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "You are not yet at the necessary",
+        "level of [Color:3]20[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt noch nicht das notwendige Level",
+        "[Color:3]20[Color:0] erreicht.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "You are not yet at the necessary",
+        "level of [Color:3]40[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt noch nicht das notwendige Level",
+        "[Color:3]40[Color:0] erreicht.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "That skill has already been mastered.",
+        ""
+      ],
+      "Translation": [
+        "Diese Fähigkeit wurde bereits gemeistert.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "A [Color:3]drive blade[Color:0] is currently equipped.",
+        "Subweapons cannot be equipped while",
+        "a drive blade is in use.",
+        ""
+      ],
+      "Translation": [
+        "Eine [Color:3]Antriebsklinge[Color:0] ist ausgerüstet.",
+        "Zusatzwaffen können nicht zusammen mit",
+        "Antriebsklingen ausgerüstet werden.",
+        ""
+      ],
+      "Notes": [
+        "Siehe FacilityShopText",
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "That cannot be used on this character!",
+        ""
+      ],
+      "Translation": [
+        "Das kann nicht mit diesem Charakter",
+        "verwendet werden!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "This character's stats are already",
+        "at their maximum.",
+        ""
+      ],
+      "Translation": [
+        "Die Werte dieses Charakters haben bereits",
+        "ihr Maximum erreicht.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "This character has already used the",
+        "[Variable1:0] 10 times.",
+        ""
+      ],
+      "Translation": [
+        "Dieser Charakter hat das [Variable1:0] bereits",
+        "zehnmal eingesetzt.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

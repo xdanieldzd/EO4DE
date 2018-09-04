@@ -1,0 +1,803 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "StreetPass wireless text",
+  "RelativePath": "InterfaceFile\\AirportWirelessText.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Etrian Odyssey IV's StreetPass",
+        "feature is already enabled.",
+        ""
+      ],
+      "Translation": [
+        "Etrian Odyssey IV's StreetPass-Funktionen",
+        "sind bereits aktiviert.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "To disable it, select System Settings",
+        "from the HOME Menu.",
+        ""
+      ],
+      "Translation": [
+        "Um sie zu deaktivieren, gehe in das HOME-",
+        "Menü und wähle dort Systemeinstellungen.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Once there, select Data Management",
+        "and then disable it with the",
+        "StreetPass Management option.",
+        ""
+      ],
+      "Translation": [
+        "Unter Datenverwaltung⇒StreetPass-",
+        "Verwaltung kann StreetPass nun",
+        "deaktiviert werden.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "In order to enable StreetPass, you",
+        "must agree to the most recently",
+        "updated User Agreement.",
+        ""
+      ],
+      "Translation": [
+        "Um StreetPass zu aktivieren, musst",
+        "du als erstes den aktuellen",
+        "Nutzungsbedingungen zustimmen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Select Internet Settings⇒Other",
+        "Information⇒User Agreement and",
+        "agree to the newest User Agreement.",
+        ""
+      ],
+      "Translation": [
+        "Wähle Interneteinstellungen⇒Weitere",
+        "Informationen⇒Nutzungsbedingungen",
+        "und stimme den Bedingungen zu.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "The StreetPass feature in this game",
+        "cannot be used, since StreetPass is",
+        "restricted in Parental Controls.",
+        ""
+      ],
+      "Translation": [
+        "Die StreetPass-Funktionen können nicht",
+        "verwendet werden, da StreetPass in den",
+        "Altersbeschränkungen beschränkt wurde.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Your Nintendo 3DS system cannot enable",
+        "StreetPass in any more games.",
+        ""
+      ],
+      "Translation": [
+        "Dein Nintendo 3DS-System kann",
+        "StreetPass für keine weiteren Spiele",
+        "aktivieren.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Disable StreetPass for other games",
+        "first with StreetPass Management in",
+        "the Nintendo 3DS System Settings.",
+        ""
+      ],
+      "Translation": [
+        "Deaktiviere die StreetPass-Funktionen",
+        "anderer Spiele mit der StreetPass-",
+        "Verwaltung in den Systemeinstellungen.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "By enabling StreetPass, you can",
+        "exchange Guild Cards with people",
+        "you StreetPass with.",
+        ""
+      ],
+      "Translation": [
+        "Durch das aktivieren der StreetPass-",
+        "Funktionen können Gildenkarten mit",
+        "anderen Spielern getauscht werden.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Enable Etrian Odyssey IV's StreetPass",
+        "feature on this Nintendo 3DS?",
+        ""
+      ],
+      "Translation": [
+        "Etrian Odyssey IV's StreetPass-Funktionen",
+        "auf diesem Nintendo 3DS aktivieren?",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Etrian Odyssey IV's StreetPass",
+        "feature has been enabled on this",
+        "Nintendo 3DS system.",
+        ""
+      ],
+      "Translation": [
+        "Etrian Odyssey IV's StreetPass-",
+        "Funktionen wurden auf diesem",
+        "Nintendo 3DS-System aktiviert.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "StreetPass exchanges will happen",
+        "automatically, even in Sleep Mode.",
+        ""
+      ],
+      "Translation": [
+        "Der Datenaustausch via StreetPass",
+        "funktioniert automatisch, auch",
+        "wenn das System im Standby-Modus ist.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "From the HOME Menu, select System",
+        "Settings, Data Management, then",
+        "StreetPass Management to disable.",
+        ""
+      ],
+      "Translation": [
+        "Zum deaktivieren, gehe in das HOME-",
+        "Menü, Systemeinstellungen⇒Daten-",
+        "verwaltung⇒StreetPass-Verwaltung.",
+        ""
+      ],
+      "Notes": [
+        "Deutsche Menüpunkte/Begriffe überprüfen!",
+        ""
+      ]
+    }
+  ]
+}

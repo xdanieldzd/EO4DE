@@ -1,0 +1,184 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Text entry interface",
+  "RelativePath": "InterfaceFile\\KeyBoardText.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Enter a guild name.",
+        "[Color:3]Do not use personal information",
+        "or offensive language.",
+        ""
+      ],
+      "Translation": [
+        "Namen der Gilde eingeben.",
+        "[Color:3]Keine persönlichen Daten oder",
+        "beleidigenden Ausdrücke.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Is this guild name acceptable?",
+        ""
+      ],
+      "Translation": [
+        "Ist dieser Gildenname in Ordnung?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Enter the adventurer's name",
+        "using the keyboard below.",
+        ""
+      ],
+      "Translation": [
+        "Namen des Abenteurers über",
+        "die Tastatur unten eingeben.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Choose a new name using the",
+        "keyboard below.",
+        ""
+      ],
+      "Translation": [
+        "Den neuen Namen über die",
+        "Tastatur unten eingeben.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Would you like to register",
+        "this character?",
+        ""
+      ],
+      "Translation": [
+        "Wollt Ihr diesen Charakter",
+        "registrieren?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Enter a skyship name.",
+        "[Color:3]Do not use personal information",
+        "or offensive language.",
+        ""
+      ],
+      "Translation": [
+        "Namen des Luftschiffs eingeben.",
+        "[Color:3]Keine persönlichen Daten oder",
+        "beleidigenden Ausdrücke.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Is this ship name acceptable?",
+        ""
+      ],
+      "Translation": [
+        "Ist dieser Luftschiffname in Ordnung?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Is this name acceptable?",
+        ""
+      ],
+      "Translation": [
+        "Ist dieser Name in Ordnung?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": true,
+      "Original": [
+        "パスワードを入力してください",
+        ""
+      ],
+      "Translation": [
+        "パスワードを入力してください",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "このパスワードでよろしいですか?",
+        ""
+      ],
+      "Translation": [
+        "このパスワードでよろしいですか?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,688 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_058",
+  "RelativePath": "Event\\Quest\\QUE_058.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "That one is from the Outland Count,",
+        "whom you know. He wants you to find a",
+        "glowing tree... Is there such a thing?",
+        "[Page]",
+        "",
+        "Well, you can ask the Count himself",
+        "for the details at the Grand Court.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That one is from the Outland Count,",
+        "whom you know. He wants you to find a",
+        "glowing tree... Is there such a thing?",
+        "[Page]",
+        "",
+        "Well, you can ask the Count himself",
+        "for the details at the Grand Court.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "I heard about your outing. That tonic",
+        "made from the shining slime mold will",
+        "be available for free at the clinic.",
+        "[Page]",
+        "",
+        "The Count truly puts his city first.",
+        "Not many governors are as benevolent",
+        "as he is...",
+        "[Page]",
+        "",
+        "He is quite exceptional. So many heads",
+        "of state oppress their people and",
+        "take advantage of them...",
+        "[Page]",
+        "",
+        "But when he brings a request for the",
+        "explorers to this establishment, it",
+        "is with our interests at heart.",
+        "[Page]",
+        "",
+        "To that, I think he would say, \"That",
+        "is the duty of the one who holds the",
+        "power and purse strings, my friends.\"",
+        ""
+      ],
+      "Translation": [
+        "I heard about your outing. That tonic",
+        "made from the shining slime mold will",
+        "be available for free at the clinic.",
+        "[Page]",
+        "",
+        "The Count truly puts his city first.",
+        "Not many governors are as benevolent",
+        "as he is...",
+        "[Page]",
+        "",
+        "He is quite exceptional. So many heads",
+        "of state oppress their people and",
+        "take advantage of them...",
+        "[Page]",
+        "",
+        "But when he brings a request for the",
+        "explorers to this establishment, it",
+        "is with our interests at heart.",
+        "[Page]",
+        "",
+        "To that, I think he would say, \"That",
+        "is the duty of the one who holds the",
+        "power and purse strings, my friends.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "I've been waiting for you, my friends.",
+        "So you were the ones who took the",
+        "request... I had a feeling you would.",
+        "[Page]",
+        "",
+        "Now then, about this [Color:5]glowing tree[Color:0]. The",
+        "rumor among you explorers is that it's",
+        "been seen in the [Color:5]Scarlet Pillars[Color:0].",
+        "[Page]",
+        "",
+        "Though I'm reasonably confident that",
+        "the true reason for the glow is a",
+        "shining slime mold.",
+        "[Page]",
+        "",
+        "It attaches itself to the tree and",
+        "gives off a natural [Color:5]white light[Color:0]. I",
+        "wonder if it has any medicinal use...",
+        "[Page]",
+        "",
+        "I want you to find that glowing tree.",
+        "Of course, we will collect and perform",
+        "research upon the mold.",
+        "[Page]",
+        "",
+        "Reports say it is to the northwest on",
+        "first entering the Scarlet Pillars.",
+        "Now go forth, for Tharsis!",
+        ""
+      ],
+      "Translation": [
+        "I've been waiting for you, my friends.",
+        "So you were the ones who took the",
+        "request... I had a feeling you would.",
+        "[Page]",
+        "",
+        "Now then, about this [Color:5]glowing tree[Color:0]. The",
+        "rumor among you explorers is that it's",
+        "been seen in the [Color:5]Scarlet Pillars[Color:0].",
+        "[Page]",
+        "",
+        "Though I'm reasonably confident that",
+        "the true reason for the glow is a",
+        "shining slime mold.",
+        "[Page]",
+        "",
+        "It attaches itself to the tree and",
+        "gives off a natural [Color:5]white light[Color:0]. I",
+        "wonder if it has any medicinal use...",
+        "[Page]",
+        "",
+        "I want you to find that glowing tree.",
+        "Of course, we will collect and perform",
+        "research upon the mold.",
+        "[Page]",
+        "",
+        "Reports say it is to the northwest on",
+        "first entering the Scarlet Pillars.",
+        "Now go forth, for Tharsis!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello, my friends! And what of",
+        "the glowing tree? Did you find the",
+        "shining slime mold?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello, my friends! And what of",
+        "the glowing tree? Did you find the",
+        "shining slime mold?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Did you find it?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Did you find it?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Most people have trouble saying \"no\"",
+        "to me. But you always give me the",
+        "truth, and I appreciate that.",
+        "[Page]",
+        "",
+        "Though it is not the answer I had",
+        "hoped for, you understand.",
+        ""
+      ],
+      "Translation": [
+        "Most people have trouble saying \"no\"",
+        "to me. But you always give me the",
+        "truth, and I appreciate that.",
+        "[Page]",
+        "",
+        "Though it is not the answer I had",
+        "hoped for, you understand.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Our eyewitnesses say it's in the",
+        "northwest of the Scarlet Pillars.",
+        "Probably somewhere in the C-2 area.",
+        "[Page]",
+        "",
+        "Once there... Hmm. When searching for",
+        "a [Color:5]glowing white tree[Color:0], you should go",
+        "when the glow is easiest to see.",
+        ""
+      ],
+      "Translation": [
+        "Our eyewitnesses say it's in the",
+        "northwest of the Scarlet Pillars.",
+        "Probably somewhere in the C-2 area.",
+        "[Page]",
+        "",
+        "Once there... Hmm. When searching for",
+        "a [Color:5]glowing white tree[Color:0], you should go",
+        "when the glow is easiest to see.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Splendid, my friends! Please, point",
+        "out the location of this glowing tree",
+        "at once.",
+        ""
+      ],
+      "Translation": [
+        "Splendid, my friends! Please, point",
+        "out the location of this glowing tree",
+        "at once.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "I see... Then that is where I will",
+        "send my scouts!",
+        ""
+      ],
+      "Translation": [
+        "I see... Then that is where I will",
+        "send my scouts!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "I am sorry, my friends, but my scouts",
+        "have come back empty-handed. They saw",
+        "no glowing white tree there.",
+        "[Page]",
+        "",
+        "Are you certain that the tree you",
+        "found was glowing [Color:5]white[Color:0]?",
+        "[Page]",
+        "",
+        "There have been accounts, after all,",
+        "of slime mold glowing another color.",
+        "Be mindful of that in your search.",
+        ""
+      ],
+      "Translation": [
+        "I am sorry, my friends, but my scouts",
+        "have come back empty-handed. They saw",
+        "no glowing white tree there.",
+        "[Page]",
+        "",
+        "Are you certain that the tree you",
+        "found was glowing [Color:5]white[Color:0]?",
+        "[Page]",
+        "",
+        "There have been accounts, after all,",
+        "of slime mold glowing another color.",
+        "Be mindful of that in your search.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Splendid news, my friends! The scouts",
+        "did indeed find that shining slime",
+        "mold with the white glow!",
+        "[Page]",
+        "",
+        "And sure enough, it's doing wonders",
+        "for medicine in Tharsis! I should form",
+        "a dedicated team to harvest it...",
+        "[Page]",
+        "",
+        "Thank you once more for all of your",
+        "hard work. The reward is waiting for",
+        "you already at the Dancing Peacock!",
+        ""
+      ],
+      "Translation": [
+        "Splendid news, my friends! The scouts",
+        "did indeed find that shining slime",
+        "mold with the white glow!",
+        "[Page]",
+        "",
+        "And sure enough, it's doing wonders",
+        "for medicine in Tharsis! I should form",
+        "a dedicated team to harvest it...",
+        "[Page]",
+        "",
+        "Thank you once more for all of your",
+        "hard work. The reward is waiting for",
+        "you already at the Dancing Peacock!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "As usual, every time I submit a",
+        "request for explorers, you discover",
+        "new possibilities.",
+        "[Page]",
+        "",
+        "The only sore point is that I am sad",
+        "I cannot personally accompany you...",
+        "[Page]",
+        "",
+        "I have money, and I have power...",
+        "But in the end, that is all I have.",
+        ""
+      ],
+      "Translation": [
+        "As usual, every time I submit a",
+        "request for explorers, you discover",
+        "new possibilities.",
+        "[Page]",
+        "",
+        "The only sore point is that I am sad",
+        "I cannot personally accompany you...",
+        "[Page]",
+        "",
+        "I have money, and I have power...",
+        "But in the end, that is all I have.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "While searching the land under a",
+        "magnificent night sky, you look",
+        "below and see a faint light.",
+        "[Page]",
+        "",
+        "Upon closer inspection, you see a",
+        "standing tree covered in an ethereal",
+        "[Color:5]white light[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "While searching the land under a",
+        "magnificent night sky, you look",
+        "below and see a faint light.",
+        "[Page]",
+        "",
+        "Upon closer inspection, you see a",
+        "standing tree covered in an ethereal",
+        "[Color:5]white light[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You try and remember whether this is",
+        "the tree whose position you are meant",
+        "to mark and report to the Count...",
+        ""
+      ],
+      "Translation": [
+        "You try and remember whether this is",
+        "the tree whose position you are meant",
+        "to mark and report to the Count...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Though you are briefly fascinated by",
+        "the mysterious phenomenon, you take",
+        "your leave and continue your travels.",
+        ""
+      ],
+      "Translation": [
+        "Though you are briefly fascinated by",
+        "the mysterious phenomenon, you take",
+        "your leave and continue your travels.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "While searching the land under a",
+        "magnificent night sky, you look",
+        "below and see a faint light.",
+        "[Page]",
+        "",
+        "Upon closer inspection, you see a",
+        "standing tree covered in a fierce",
+        "[Color:5]red light[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "While searching the land under a",
+        "magnificent night sky, you look",
+        "below and see a faint light.",
+        "[Page]",
+        "",
+        "Upon closer inspection, you see a",
+        "standing tree covered in a fierce",
+        "[Color:5]red light[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "You try and remember whether this is",
+        "the tree whose position you are meant",
+        "to mark and report to the Count...",
+        ""
+      ],
+      "Translation": [
+        "You try and remember whether this is",
+        "the tree whose position you are meant",
+        "to mark and report to the Count...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Though you are briefly fascinated by",
+        "the mysterious phenomenon, you take",
+        "your leave and continue your travels.",
+        ""
+      ],
+      "Translation": [
+        "Though you are briefly fascinated by",
+        "the mysterious phenomenon, you take",
+        "your leave and continue your travels.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "While searching the land under a",
+        "magnificent night sky, you look",
+        "below and see a faint light.",
+        "[Page]",
+        "",
+        "Upon closer inspection, you see a",
+        "standing tree covered in a soothing",
+        "[Color:5]azure light[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "While searching the land under a",
+        "magnificent night sky, you look",
+        "below and see a faint light.",
+        "[Page]",
+        "",
+        "Upon closer inspection, you see a",
+        "standing tree covered in a soothing",
+        "[Color:5]azure light[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You try and remember whether this is",
+        "the tree whose position you are meant",
+        "to mark and report to the Count...",
+        ""
+      ],
+      "Translation": [
+        "You try and remember whether this is",
+        "the tree whose position you are meant",
+        "to mark and report to the Count...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Though you are briefly fascinated by",
+        "the mysterious phenomenon, you take",
+        "your leave and continue your travels.",
+        ""
+      ],
+      "Translation": [
+        "Though you are briefly fascinated by",
+        "the mysterious phenomenon, you take",
+        "your leave and continue your travels.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "While searching the land under a",
+        "magnificent night sky, you look",
+        "below and see a faint light.",
+        "[Page]",
+        "",
+        "Upon closer inspection, you see a",
+        "standing tree covered in a dazzling",
+        "[Color:5]golden light[Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "While searching the land under a",
+        "magnificent night sky, you look",
+        "below and see a faint light.",
+        "[Page]",
+        "",
+        "Upon closer inspection, you see a",
+        "standing tree covered in a dazzling",
+        "[Color:5]golden light[Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "You try and remember whether this is",
+        "the tree whose position you are meant",
+        "to mark and report to the Count...",
+        ""
+      ],
+      "Translation": [
+        "You try and remember whether this is",
+        "the tree whose position you are meant",
+        "to mark and report to the Count...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Though you are briefly fascinated by",
+        "the mysterious phenomenon, you take",
+        "your leave and continue your travels.",
+        ""
+      ],
+      "Translation": [
+        "Though you are briefly fascinated by",
+        "the mysterious phenomenon, you take",
+        "your leave and continue your travels.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

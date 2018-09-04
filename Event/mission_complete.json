@@ -1,0 +1,202 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Mission names for completion",
+  "RelativePath": "Event\\mission_complete.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Obtain an Iridescent Ore!",
+        ""
+      ],
+      "Translation": [
+        "Obtain an Iridescent Ore!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Liberate the Lush Woodlands!",
+        ""
+      ],
+      "Translation": [
+        "Liberate the Lush Woodlands!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver the letter to the Medium!",
+        ""
+      ],
+      "Translation": [
+        "Deliver the letter to the Medium!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Obtain the legendary heart!",
+        ""
+      ],
+      "Translation": [
+        "Obtain the legendary heart!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Escort the Outland Count!",
+        ""
+      ],
+      "Translation": [
+        "Escort the Outland Count!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Stop the Empire's ambition!",
+        ""
+      ],
+      "Translation": [
+        "Stop the Empire's ambition!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Stop the activation of Yggdrasil!",
+        ""
+      ],
+      "Translation": [
+        "Stop the activation of Yggdrasil!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy07",
+        ""
+      ],
+      "Translation": [
+        "Dummy07",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy08",
+        ""
+      ],
+      "Translation": [
+        "Dummy08",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy09",
+        ""
+      ],
+      "Translation": [
+        "Dummy09",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy10",
+        ""
+      ],
+      "Translation": [
+        "Dummy10",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy11",
+        ""
+      ],
+      "Translation": [
+        "Dummy11",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy12",
+        ""
+      ],
+      "Translation": [
+        "Dummy12",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_40",
+  "RelativePath": "Event\\Bar\\BAR_40.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Up until now, I was going to Yggdrasil",
+        "to earn fame and fortune. But this is",
+        "the end of the line for me.",
+        "[Page]",
+        "",
+        "Fame and fortune don't mean anything",
+        "if you're dead. You guys should run",
+        "away, too.",
+        "[Page]",
+        "",
+        "Though now that that thing's shown",
+        "up, I don't know where there is to",
+        "run to... Hahaha... ha...",
+        ""
+      ],
+      "Translation": [
+        "Up until now, I was going to Yggdrasil",
+        "to earn fame and fortune. But this is",
+        "the end of the line for me.",
+        "[Page]",
+        "",
+        "Fame and fortune don't mean anything",
+        "if you're dead. You guys should run",
+        "away, too.",
+        "[Page]",
+        "",
+        "Though now that that thing's shown",
+        "up, I don't know where there is to",
+        "run to... Hahaha... ha...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

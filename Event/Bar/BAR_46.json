@@ -1,0 +1,363 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_46",
+  "RelativePath": "Event\\Bar\\BAR_46.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Yes? I'm busy studying the Monstrous",
+        "Codex... Your guild does pay attention",
+        "to the [Color:5]Codex[Color:0], I hope.",
+        "[Page]",
+        "",
+        "It lists the weaknesses of monsters",
+        "and the materials they drop. It's like",
+        "a manual for explorers.",
+        "[Page]",
+        "",
+        "Now go away. I'm busy...",
+        ""
+      ],
+      "Translation": [
+        "Yes? I'm busy studying the Monstrous",
+        "Codex... Your guild does pay attention",
+        "to the [Color:5]Codex[Color:0], I hope.",
+        "[Page]",
+        "",
+        "It lists the weaknesses of monsters",
+        "and the materials they drop. It's like",
+        "a manual for explorers.",
+        "[Page]",
+        "",
+        "Now go away. I'm busy...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Yes? I'm busy reading this...",
+        "The [Color:6][Item:1602][Color:0]...",
+        "[Page]",
+        "",
+        "If I can learn [Color:5]Analyze[Color:0] from this,",
+        "I'll know what materials the",
+        "monsters drop...",
+        "[Page]",
+        "",
+        "Now go away. I'm busy...",
+        ""
+      ],
+      "Translation": [
+        "Yes? I'm busy reading this...",
+        "The [Color:6][Item:1602][Color:0]...",
+        "[Page]",
+        "",
+        "If I can learn [Color:5]Analyze[Color:0] from this,",
+        "I'll know what materials the",
+        "monsters drop...",
+        "[Page]",
+        "",
+        "Now go away. I'm busy...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "This is a [Color:6][Item:955][Color:0]... clipped",
+        "from a [Color:5][Enemy1:21][Color:0]...",
+        "[Page]",
+        "",
+        "You can obtain it by defeating the",
+        "[Enemy1:21] before its flower blooms.",
+        "[Page]",
+        "",
+        "Even if you don't want the bud, the",
+        "[Enemy1:21] is dangerous when its flower",
+        "blooms. Best to defeat it quickly.",
+        ""
+      ],
+      "Translation": [
+        "This is a [Color:6][Item:955][Color:0]... clipped",
+        "from a [Color:5][Enemy1:21][Color:0]...",
+        "[Page]",
+        "",
+        "You can obtain it by defeating the",
+        "[Enemy1:21] before its flower blooms.",
+        "[Page]",
+        "",
+        "Even if you don't want the bud, the",
+        "[Enemy1:21] is dangerous when its flower",
+        "blooms. Best to defeat it quickly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Take a look at this [Color:6][Item:1007][Color:0]...",
+        "It's so bumpy that it's almost cute,",
+        "in a way...",
+        "[Page]",
+        "",
+        "[Color:5][Enemy1:31][Color:0]s drop them. It's by no",
+        "means easy, though. I had to thrash",
+        "one continuously with my wand.",
+        "[Page]",
+        "",
+        "I'm going to test that technique out",
+        "on a [Color:5][Enemy1:32][Color:0] next time. Heheh.",
+        "I wonder what it might drop...",
+        ""
+      ],
+      "Translation": [
+        "Take a look at this [Color:6][Item:1007][Color:0]...",
+        "It's so bumpy that it's almost cute,",
+        "in a way...",
+        "[Page]",
+        "",
+        "[Color:5][Enemy1:31][Color:0]s drop them. It's by no",
+        "means easy, though. I had to thrash",
+        "one continuously with my wand.",
+        "[Page]",
+        "",
+        "I'm going to test that technique out",
+        "on a [Color:5][Enemy1:32][Color:0] next time. Heheh.",
+        "I wonder what it might drop...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "This [Color:6][Item:934][Color:0] is... jiggly...",
+        "I won it from a [Color:5][Enemy1:70][Color:0].",
+        "[Page]",
+        "",
+        "I used over 60 cans of [Color:6][Item:1365][Color:0]",
+        "trying to get this... Even when it",
+        "was paralyzed, it wouldn't drop it.",
+        "[Page]",
+        "",
+        "If you want one, you should try",
+        "that technique...",
+        ""
+      ],
+      "Translation": [
+        "This [Color:6][Item:934][Color:0] is... jiggly...",
+        "I won it from a [Color:5][Enemy1:70][Color:0].",
+        "[Page]",
+        "",
+        "I used over 60 cans of [Color:6][Item:1365][Color:0]",
+        "trying to get this... Even when it",
+        "was paralyzed, it wouldn't drop it.",
+        "[Page]",
+        "",
+        "If you want one, you should try",
+        "that technique...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "*hmf* It's so hard, this [Color:6][Item:963][Color:0].",
+        "And totally inedible...  Yes? Are you",
+        "curious about this one?",
+        "[Page]",
+        "",
+        "To collect this, we had to seal the",
+        "[Color:5][Enemy1:99][Color:0]'s legs. No mean feat,",
+        "that.",
+        "[Page]",
+        "",
+        "In the process, it knocked out three",
+        "of my partners. I'll take them to the",
+        "inn once I'm done eating this...",
+        ""
+      ],
+      "Translation": [
+        "*hmf* It's so hard, this [Color:6][Item:963][Color:0].",
+        "And totally inedible...  Yes? Are you",
+        "curious about this one?",
+        "[Page]",
+        "",
+        "To collect this, we had to seal the",
+        "[Color:5][Enemy1:99][Color:0]'s legs. No mean feat,",
+        "that.",
+        "[Page]",
+        "",
+        "In the process, it knocked out three",
+        "of my partners. I'll take them to the",
+        "inn once I'm done eating this...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Hahah, look at the way it sparkles...",
+        "This is called a [Color:6][Item:1057][Color:0].",
+        "[Page]",
+        "",
+        "The [Color:5][Enemy1:53][Color:0] is weak to lightning,",
+        "which explains the sparkling. I was",
+        "right to take three sorcerers.",
+        "[Page]",
+        "",
+        "Though all three of them fell in",
+        "battle. I left them at the Explorers",
+        "Guild. We'll go to the inn eventually.",
+        ""
+      ],
+      "Translation": [
+        "Hahah, look at the way it sparkles...",
+        "This is called a [Color:6][Item:1057][Color:0].",
+        "[Page]",
+        "",
+        "The [Color:5][Enemy1:53][Color:0] is weak to lightning,",
+        "which explains the sparkling. I was",
+        "right to take three sorcerers.",
+        "[Page]",
+        "",
+        "Though all three of them fell in",
+        "battle. I left them at the Explorers",
+        "Guild. We'll go to the inn eventually.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Look how bumpy this one is... It's a",
+        "seed the [Color:5][Enemy1:61][Color:0] dropped.",
+        "[Page]",
+        "",
+        "If you can turn an [Enemy1:61] to [Color:5]stone[Color:0]",
+        "and defeat it, this is the result...",
+        "[Page]",
+        "",
+        "I wonder--if I plant this seed in my",
+        "garden, will an [Enemy1:61] grow? A",
+        "festival of [Enemy1:61]s... how exciting!",
+        ""
+      ],
+      "Translation": [
+        "Look how bumpy this one is... It's a",
+        "seed the [Color:5][Enemy1:61][Color:0] dropped.",
+        "[Page]",
+        "",
+        "If you can turn an [Enemy1:61] to [Color:5]stone[Color:0]",
+        "and defeat it, this is the result...",
+        "[Page]",
+        "",
+        "I wonder--if I plant this seed in my",
+        "garden, will an [Enemy1:61] grow? A",
+        "festival of [Enemy1:61]s... how exciting!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "The eagle eye in my heart will always",
+        "be trained on you... So good luck...",
+        "[Page]",
+        "",
+        "Ah... you can repay me with materials",
+        "from the Titan. I'm counting on you.",
+        ""
+      ],
+      "Translation": [
+        "The eagle eye in my heart will always",
+        "be trained on you... So good luck...",
+        "[Page]",
+        "",
+        "Ah... you can repay me with materials",
+        "from the Titan. I'm counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. You did... very well.",
+        "[Page]",
+        "",
+        "Trying different tactics to defeat a",
+        "monster may lead to gaining different",
+        "materials...",
+        "[Page]",
+        "",
+        "Defeat it quickly, for instance, or",
+        "turn it to stone, or...",
+        "[Page]",
+        "",
+        "That one might be good to try on the",
+        "[Enemy1:171], which keeps reviving",
+        "no matter how often you defeat it.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. You did... very well.",
+        "[Page]",
+        "",
+        "Trying different tactics to defeat a",
+        "monster may lead to gaining different",
+        "materials...",
+        "[Page]",
+        "",
+        "Defeat it quickly, for instance, or",
+        "turn it to stone, or...",
+        "[Page]",
+        "",
+        "That one might be good to try on the",
+        "[Enemy1:171], which keeps reviving",
+        "no matter how often you defeat it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

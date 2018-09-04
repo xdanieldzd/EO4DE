@@ -1,0 +1,310 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_72F",
+  "RelativePath": "Event\\Dungeon\\DUN_72F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You step into the Windy Archives and",
+        "immediately discover how the place",
+        "got its name.",
+        "[Page]",
+        "",
+        "A fierce, even violent wind blows",
+        "from the north to the south!",
+        "[Page]",
+        "",
+        "It will be difficult to move in such",
+        "strong winds unless you stick close",
+        "to the walls.",
+        "[Page]",
+        "",
+        "The [Color:6][Item:1458][Color:0] slumbers somewhere in",
+        "this archive. You begin your search...",
+        ""
+      ],
+      "Translation": [
+        "You step into the Windy Archives and",
+        "immediately discover how the place",
+        "got its name.",
+        "[Page]",
+        "",
+        "A fierce, even violent wind blows",
+        "from the north to the south!",
+        "[Page]",
+        "",
+        "It will be difficult to move in such",
+        "strong winds unless you stick close",
+        "to the walls.",
+        "[Page]",
+        "",
+        "The [Color:6][Item:1458][Color:0] slumbers somewhere in",
+        "this archive. You begin your search...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "At last, you fend off the raging winds",
+        "long enough to reach the room which",
+        "contains the object of your search.",
+        "[Page]",
+        "",
+        "An immense flame roars atop a baroque",
+        "candlestick.",
+        "[Page]",
+        "",
+        "Next to it, however, is an Imperial",
+        "soldier clad in steel armor! Your",
+        "party bristles with tension...",
+        ""
+      ],
+      "Translation": [
+        "At last, you fend off the raging winds",
+        "long enough to reach the room which",
+        "contains the object of your search.",
+        "[Page]",
+        "",
+        "An immense flame roars atop a baroque",
+        "candlestick.",
+        "[Page]",
+        "",
+        "Next to it, however, is an Imperial",
+        "soldier clad in steel armor! Your",
+        "party bristles with tension...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're the explorers from Tharsis,",
+        "are you not? I had a feeling you would",
+        "come here sooner or later.\"",
+        "[Page]",
+        "",
+        "The Imperial soldier quietly gazes",
+        "at you.",
+        "[Page]",
+        "",
+        "\"Heed my words, for there is something",
+        "you must know.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You're the explorers from Tharsis,",
+        "are you not? I had a feeling you would",
+        "come here sooner or later.\"",
+        "[Page]",
+        "",
+        "The Imperial soldier quietly gazes",
+        "at you.",
+        "[Page]",
+        "",
+        "\"Heed my words, for there is something",
+        "you must know.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "It seems an Imperial battle fleet",
+        "surrounds the [Color:5]Echoing Library[Color:0] where",
+        "the Medium is being kept.",
+        "[Page]",
+        "",
+        "The skyships forming the fleet are",
+        "much larger than any you have seen and",
+        "could be called aerial battleships.",
+        "[Page]",
+        "",
+        "\"You have that careless look in your",
+        "eye that says you'd march in, heedless",
+        "of the danger...\"",
+        "[Page]",
+        "",
+        "\"There is much I don't understand",
+        "about the outside world, even now.",
+        "But I see what Lord Logre spoke of.\"",
+        "[Page]",
+        "",
+        "Though you cannot see the soldier's",
+        "face behind his helmet, the amusement",
+        "in his voice carries through.",
+        "[Page]",
+        "",
+        "\"Well, I've told you what I know.",
+        "You should consider carefully how you",
+        "will enter the Echoing Library.\"",
+        "[Page]",
+        "",
+        "You ask the soldier if he came here",
+        "at Whirlwind's suggestion.",
+        "[Page]",
+        "",
+        "\"Perish the thought... Lord Logre of",
+        "the Imperial knights would never act",
+        "counter to his Imperial Highness.",
+        "[Page]",
+        "",
+        "\"But when I saw his pained face, I",
+        "just thought... 'What would he have",
+        "done if he were not duty-bound?'\"",
+        ""
+      ],
+      "Translation": [
+        "It seems an Imperial battle fleet",
+        "surrounds the [Color:5]Echoing Library[Color:0] where",
+        "the Medium is being kept.",
+        "[Page]",
+        "",
+        "The skyships forming the fleet are",
+        "much larger than any you have seen and",
+        "could be called aerial battleships.",
+        "[Page]",
+        "",
+        "\"You have that careless look in your",
+        "eye that says you'd march in, heedless",
+        "of the danger...\"",
+        "[Page]",
+        "",
+        "\"There is much I don't understand",
+        "about the outside world, even now.",
+        "But I see what Lord Logre spoke of.\"",
+        "[Page]",
+        "",
+        "Though you cannot see the soldier's",
+        "face behind his helmet, the amusement",
+        "in his voice carries through.",
+        "[Page]",
+        "",
+        "\"Well, I've told you what I know.",
+        "You should consider carefully how you",
+        "will enter the Echoing Library.\"",
+        "[Page]",
+        "",
+        "You ask the soldier if he came here",
+        "at Whirlwind's suggestion.",
+        "[Page]",
+        "",
+        "\"Perish the thought... Lord Logre of",
+        "the Imperial knights would never act",
+        "counter to his Imperial Highness.",
+        "[Page]",
+        "",
+        "\"But when I saw his pained face, I",
+        "just thought... 'What would he have",
+        "done if he were not duty-bound?'\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "With that, the soldier leaves the",
+        "room. You face the lit candlestick",
+        "once again...",
+        "[Page]",
+        "",
+        "You extend a specially prepared torch",
+        "to the flame, which lights instantly!",
+        "[Page]",
+        "",
+        "Your objective here is accomplished!",
+        "Return to Tharsis and tell the Grand",
+        "Court that you have the [Color:6][Item:1458][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "With that, the soldier leaves the",
+        "room. You face the lit candlestick",
+        "once again...",
+        "[Page]",
+        "",
+        "You extend a specially prepared torch",
+        "to the flame, which lights instantly!",
+        "[Page]",
+        "",
+        "Your objective here is accomplished!",
+        "Return to Tharsis and tell the Grand",
+        "Court that you have the [Color:6][Item:1458][Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

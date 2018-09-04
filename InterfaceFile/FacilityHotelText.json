@@ -1,0 +1,446 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Saehrimnir Inn text",
+  "RelativePath": "InterfaceFile\\FacilityHotelText.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー",
+        ""
+      ],
+      "Translation": [
+        "ダミー",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Sleep at the inn to recover",
+        "HP and TP.",
+        ""
+      ],
+      "Translation": [
+        "Schlaft im Gasthaus um",
+        "KP und TP zu erneuern.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Heal party members' ailments",
+        "or revive them.",
+        ""
+      ],
+      "Translation": [
+        "Heilt Gruppenmitglieder oder",
+        "belebt sie wieder.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Store or claim goods.",
+        ""
+      ],
+      "Translation": [
+        "Lagert Gegenstände ein",
+        "oder holt sie ab.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Talk to Dalla.",
+        ""
+      ],
+      "Translation": [
+        "Sprecht mit Dalla.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Save your game.",
+        ""
+      ],
+      "Translation": [
+        "Speichert das Spiel.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Return to the plaza.",
+        ""
+      ],
+      "Translation": [
+        "Kehrt zum Hauptplatz zurück.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Stay at the inn until 7AM",
+        "to fully recover HP and TP.",
+        ""
+      ],
+      "Translation": [
+        "Bleibt bis 7 Uhr im Gasthaus.",
+        "Erneuert alle KP und TP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Stay at the inn until 7PM",
+        "to fully recover HP and TP.",
+        ""
+      ],
+      "Translation": [
+        "Bleibt bis 19 Uhr im Gasthaus.",
+        "Erneuert alle KP und TP.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "There are no items stored!",
+        ""
+      ],
+      "Translation": [
+        "Es sind keine Gegenstände",
+        "eingelagert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You have no items to store!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt keine Gegenstände,",
+        "die gelagert werden könnten!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Stored [Variable1:0] item(s).",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] Gegenstände gelagert.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Claimed [Variable1:0] item(s).",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] Gegenstände abgeholt.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Storing [Variable1:0] item(s).",
+        "Is that all right with you?",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] Gegenstände werden",
+        "gelagert. Ist das in Ordnung?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Taking out [Variable1:0] item(s)",
+        "Is that all right with you?",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] Gegenstände werden",
+        "abgeholt. Ist das in Ordnung?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "The storage room is full!",
+        ""
+      ],
+      "Translation": [
+        "Der Lagerraum ist voll!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You cannot store any more",
+        "of [Variable1:0]!",
+        ""
+      ],
+      "Translation": [
+        "Ihr könnt keine weiteren",
+        "[Variable1:0] lagern!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Choose items to store.",
+        ""
+      ],
+      "Translation": [
+        "Wählt zu lagernde Gegenstände.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Choose items to claim.",
+        ""
+      ],
+      "Translation": [
+        "Wählt zu holende Gegenstände.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "That will be [Variable1:0]en.",
+        "Is that all right with you?",
+        ""
+      ],
+      "Translation": [
+        "Euer Aufenthalt kostet [Variable1:0]en.",
+        "Ist Euch das recht?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You don't have enough money!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt nicht genug Geld!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Who do you want to heal?",
+        ""
+      ],
+      "Translation": [
+        "Wen möchtet Ihr heilen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "No one needs healing.",
+        ""
+      ],
+      "Translation": [
+        "Niemand muss geheilt werden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Treatment complete.",
+        ""
+      ],
+      "Translation": [
+        "Behandlung abgeschlossen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Would you like to save?",
+        ""
+      ],
+      "Translation": [
+        "Wollt Ihr speichern?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Store the selecte item(s)?",
+        ""
+      ],
+      "Translation": [
+        "Die ausgewählten Gegenstände einlagern?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Claim the selected item(s)?",
+        ""
+      ],
+      "Translation": [
+        "Die ausgewählten Gegenstände abholen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Your inventory is full!",
+        ""
+      ],
+      "Translation": [
+        "Euer Inventar ist voll!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

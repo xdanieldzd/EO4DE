@@ -1,0 +1,44 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_34",
+  "RelativePath": "Event\\Bar\\BAR_34.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "There might still be a few legible",
+        "books in that new labyrinth, the",
+        "Echoing Library...",
+        "[Page]",
+        "",
+        "A ruin filled with old books... it's",
+        "like a dream come true for me. How I",
+        "envy you explorers!",
+        "[Page]",
+        "",
+        "I wonder what the people of old read",
+        "and wrote about...",
+        ""
+      ],
+      "Translation": [
+        "There might still be a few legible",
+        "books in that new labyrinth, the",
+        "Echoing Library...",
+        "[Page]",
+        "",
+        "A ruin filled with old books... it's",
+        "like a dream come true for me. How I",
+        "envy you explorers!",
+        "[Page]",
+        "",
+        "I wonder what the people of old read",
+        "and wrote about...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

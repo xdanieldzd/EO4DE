@@ -1,0 +1,56 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_22",
+  "RelativePath": "Event\\Bar\\BAR_22.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You guys took the bear-slaying mission",
+        "too...? Then you should head for the",
+        "[Color:5]Valley Spring[Color:0] to get stronger.",
+        "[Page]",
+        "",
+        "Strong enough to handle anything that",
+        "happens or any monster that might",
+        "attack on B3F of the Lush Woodlands.",
+        "[Page]",
+        "",
+        "That's my plan... I'm not going to get",
+        "myself killed, charging in without",
+        "being ready for anything.",
+        "[Page]",
+        "",
+        "The Valley Spring's to the west side",
+        "of the Windy Plains. It's the valley",
+        "where those [Color:5][Enemy1:89][Color:0]s live.",
+        ""
+      ],
+      "Translation": [
+        "You guys took the bear-slaying mission",
+        "too...? Then you should head for the",
+        "[Color:5]Valley Spring[Color:0] to get stronger.",
+        "[Page]",
+        "",
+        "Strong enough to handle anything that",
+        "happens or any monster that might",
+        "attack on B3F of the Lush Woodlands.",
+        "[Page]",
+        "",
+        "That's my plan... I'm not going to get",
+        "myself killed, charging in without",
+        "being ready for anything.",
+        "[Page]",
+        "",
+        "The Valley Spring's to the west side",
+        "of the Windy Plains. It's the valley",
+        "where those [Color:5][Enemy1:89][Color:0]s live.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

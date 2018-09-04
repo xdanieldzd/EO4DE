@@ -1,0 +1,1038 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Staff roll",
+  "RelativePath": "InterfaceFile\\Staffroll.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "[Color:13]Guild:[Color:0]",
+        "[Guild]",
+        "",
+        "[Color:13]Skyship:[Color:0]",
+        "[Skyship]",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "[Color:13]Gilde:[Color:0]",
+        "[Guild]",
+        "",
+        "[Color:13]Luftschiff:[Color:0]",
+        "[Skyship]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:13]Explorers:[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:13]Entdecker:[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Director:[Color:0]",
+        "Daisuke Kanada",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Director:[Color:0]",
+        "Daisuke Kanada",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Character Designer:[Color:0]",
+        "Yuji Himukai",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Character Designer:[Color:0]",
+        "Yuji Himukai",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Monster Designer:[Color:0]",
+        "Shin Nagasawa",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Monster Designer:[Color:0]",
+        "Shin Nagasawa",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Music Composer:[Color:0]",
+        "Yuzo Koshiro",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Music Composer:[Color:0]",
+        "Yuzo Koshiro",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Background Artist:[Color:0]",
+        "Nizo Yamamoto",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Background Artist:[Color:0]",
+        "Nizo Yamamoto",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "[Color:13]Scenario:[Color:0]",
+        "Kenichi Takamori",
+        "",
+        "[Color:13]Event Planner:[Color:0]",
+        "Kenichi Takamori",
+        "Makoto Miyauchi",
+        "Yuta Aihara",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "[Color:13]Scenario:[Color:0]",
+        "Kenichi Takamori",
+        "",
+        "[Color:13]Event Planner:[Color:0]",
+        "Kenichi Takamori",
+        "Makoto Miyauchi",
+        "Yuta Aihara",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "[Color:13]Battle Planner:[Color:0]",
+        "Satoshi Ebato",
+        "Shinji Anan",
+        "Kaoru Kigawa",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "[Color:13]Battle Planner:[Color:0]",
+        "Satoshi Ebato",
+        "Shinji Anan",
+        "Kaoru Kigawa",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "[Color:13]Field Planner:[Color:0]",
+        "Tadayoshi Ishihara",
+        "Kakeru Agatsuma",
+        "Katsumori Nagayama",
+        "",
+        "[Color:13]Support Writer:[Color:0]",
+        "Yoh Haduki",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "[Color:13]Field Planner:[Color:0]",
+        "Tadayoshi Ishihara",
+        "Kakeru Agatsuma",
+        "Katsumori Nagayama",
+        "",
+        "[Color:13]Support Writer:[Color:0]",
+        "Yoh Haduki",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Chief Programmer:[Color:0]",
+        "Masayuki Higo",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Chief Programmer:[Color:0]",
+        "Masayuki Higo",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "[Color:13]Lead Programmer:[Color:0]",
+        "Yoshihiro Komori",
+        "",
+        "[Color:13]Programmer:[Color:0]",
+        "Hiroki Shintani",
+        "Junichi Nakamura",
+        "Yoshiki Oyamada",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "[Color:13]Lead Programmer:[Color:0]",
+        "Yoshihiro Komori",
+        "",
+        "[Color:13]Programmer:[Color:0]",
+        "Hiroki Shintani",
+        "Junichi Nakamura",
+        "Yoshiki Oyamada",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Art Director:[Color:0]",
+        "Yukari Yokoro",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Art Director:[Color:0]",
+        "Yukari Yokoro",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "[Color:13]3D Character Designer:[Color:0]",
+        "Miyuki Harigai",
+        "Hiroki Fujioka",
+        "",
+        "[Color:13]Motion Designer:[Color:0]",
+        "Yoshie Nakajima",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "[Color:13]3D Character Designer:[Color:0]",
+        "Miyuki Harigai",
+        "Hiroki Fujioka",
+        "",
+        "[Color:13]Motion Designer:[Color:0]",
+        "Yoshie Nakajima",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "[Color:13]Effect Designer:[Color:0]",
+        "Mayumi Iwata",
+        "",
+        "[Color:13]Interface Designer:[Color:0]",
+        "Hiroshi Sasazu",
+        "Akihiko Morishige",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "[Color:13]Effect Designer:[Color:0]",
+        "Mayumi Iwata",
+        "",
+        "[Color:13]Interface Designer:[Color:0]",
+        "Hiroshi Sasazu",
+        "Akihiko Morishige",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "[Color:13]Background Artist:[Color:0]",
+        "Kaori Hino",
+        "Kunihiko Inaba",
+        "",
+        "[Color:13]Background Art Producer:[Color:0]",
+        "Takao Yamamoto",
+        "",
+        "[Color:13]Background Art Company:[Color:0]",
+        "KAIEISHA Co.,LTD",
+        ""
+      ],
+      "Translation": [
+        "",
+        "[Color:13]Background Artist:[Color:0]",
+        "Kaori Hino",
+        "Kunihiko Inaba",
+        "",
+        "[Color:13]Background Art Producer:[Color:0]",
+        "Takao Yamamoto",
+        "",
+        "[Color:13]Background Art Company:[Color:0]",
+        "KAIEISHA Co.,LTD",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:13]Composer,Arranger:[Color:0]",
+        "Yuzo Koshiro",
+        "Ancient Co.,LTD",
+        "",
+        "[Color:13]Arranger:[Color:0]",
+        "Takeshi Yanagawa",
+        "",
+        "[Color:13]Sound Effect:[Color:0]",
+        "Takeshi Arai",
+        "Ancient Co.,LTD",
+        ""
+      ],
+      "Translation": [
+        "[Color:13]Composer,Arranger:[Color:0]",
+        "Yuzo Koshiro",
+        "Ancient Co.,LTD",
+        "",
+        "[Color:13]Arranger:[Color:0]",
+        "Takeshi Yanagawa",
+        "",
+        "[Color:13]Sound Effect:[Color:0]",
+        "Takeshi Arai",
+        "Ancient Co.,LTD",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "[Color:13]Recording Director:[Color:0]",
+        "Norihiko Hibino",
+        "GEM Impact Co.,LTD",
+        "",
+        "[Color:13]Strings:[Color:0]",
+        "Aya Itou",
+        "Yuuya Yanagihara",
+        "Mikiyo Kikuchi",
+        "Masami Horisawa",
+        ""
+      ],
+      "Translation": [
+        "",
+        "[Color:13]Recording Director:[Color:0]",
+        "Norihiko Hibino",
+        "GEM Impact Co.,LTD",
+        "",
+        "[Color:13]Strings:[Color:0]",
+        "Aya Itou",
+        "Yuuya Yanagihara",
+        "Mikiyo Kikuchi",
+        "Masami Horisawa",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:13]Piano:[Color:0]",
+        "Ayaki Saitou",
+        "",
+        "[Color:13]Guitar:[Color:0]",
+        "Daisuke Kunita",
+        "G.A.Cool",
+        "",
+        "[Color:13]Bass:[Color:0]",
+        "Katsuomi Gotou",
+        "Toshiyuki Tanahashi",
+        ""
+      ],
+      "Translation": [
+        "[Color:13]Piano:[Color:0]",
+        "Ayaki Saitou",
+        "",
+        "[Color:13]Guitar:[Color:0]",
+        "Daisuke Kunita",
+        "G.A.Cool",
+        "",
+        "[Color:13]Bass:[Color:0]",
+        "Katsuomi Gotou",
+        "Toshiyuki Tanahashi",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:13]Drums:[Color:0]",
+        "Hiroki Murakami",
+        "",
+        "[Color:13]Percussion:[Color:0]",
+        "Naoko Satou",
+        "",
+        "[Color:13]Trumpet:[Color:0]",
+        "Yoshiki Minezaki",
+        "",
+        "[Color:13]Trombone:[Color:0]",
+        "Makoto Igarashi",
+        ""
+      ],
+      "Translation": [
+        "[Color:13]Drums:[Color:0]",
+        "Hiroki Murakami",
+        "",
+        "[Color:13]Percussion:[Color:0]",
+        "Naoko Satou",
+        "",
+        "[Color:13]Trumpet:[Color:0]",
+        "Yoshiki Minezaki",
+        "",
+        "[Color:13]Trombone:[Color:0]",
+        "Makoto Igarashi",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:13]Saxophone:[Color:0]",
+        "Norihiko Hibino",
+        "",
+        "[Color:13]Flute:[Color:0]",
+        "Ryou Sakagami",
+        "",
+        "[Color:13]Mixing,",
+        "Mastering Engineer:[Color:0]",
+        "quad",
+        "luvtrax",
+        ""
+      ],
+      "Translation": [
+        "[Color:13]Saxophone:[Color:0]",
+        "Norihiko Hibino",
+        "",
+        "[Color:13]Flute:[Color:0]",
+        "Ryou Sakagami",
+        "",
+        "[Color:13]Mixing,",
+        "Mastering Engineer:[Color:0]",
+        "quad",
+        "luvtrax",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "[Color:13]Recording Engineer:[Color:0]",
+        "Shinya Matsushita",
+        "Studio Dede",
+        "",
+        "Miki Nagashima",
+        "xign",
+        "",
+        "Megurogawa STUDIO",
+        ""
+      ],
+      "Translation": [
+        "",
+        "[Color:13]Recording Engineer:[Color:0]",
+        "Shinya Matsushita",
+        "Studio Dede",
+        "",
+        "Miki Nagashima",
+        "xign",
+        "",
+        "Megurogawa STUDIO",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:13]Index Digital Media, Inc.",
+        "Executive Producer:[Color:0]",
+        "Naoto Hiraoka",
+        "",
+        "[Color:13]General Manager:[Color:0]",
+        "Mitsuhiro Tanaka",
+        "",
+        "[Color:13]Director of Production:[Color:0]",
+        "Bill Alexander",
+        "",
+        "[Color:13]Project Lead:[Color:0]",
+        "Nich Maragos",
+        ""
+      ],
+      "Translation": [
+        "[Color:13]Index Digital Media, Inc.",
+        "Executive Producer:[Color:0]",
+        "Naoto Hiraoka",
+        "",
+        "[Color:13]General Manager:[Color:0]",
+        "Mitsuhiro Tanaka",
+        "",
+        "[Color:13]Director of Production:[Color:0]",
+        "Bill Alexander",
+        "",
+        "[Color:13]Project Lead:[Color:0]",
+        "Nich Maragos",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:13]Project Coordinators:[Color:0]",
+        "Hiroyuki Tanaka",
+        "Shigeto Sammy Matsushima",
+        "",
+        "[Color:13]Translators:[Color:0]",
+        "Mai Namba",
+        "Jason Higa",
+        "Masahide \"Mason\" Hyodo",
+        "",
+        "[Color:13]Editors:[Color:0]",
+        "Nich Maragos",
+        "Michael Meeker",
+        ""
+      ],
+      "Translation": [
+        "[Color:13]Project Coordinators:[Color:0]",
+        "Hiroyuki Tanaka",
+        "Shigeto Sammy Matsushima",
+        "",
+        "[Color:13]Translators:[Color:0]",
+        "Mai Namba",
+        "Jason Higa",
+        "Masahide \"Mason\" Hyodo",
+        "",
+        "[Color:13]Editors:[Color:0]",
+        "Nich Maragos",
+        "Michael Meeker",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:13]European Localization[Color:0]",
+        "",
+        "[Color:13]Localization Producer:[Color:0]",
+        "Takuro Yamashita",
+        "",
+        "[Color:13]Localization Director:[Color:0]",
+        "Yoko Nishikawa",
+        ""
+      ],
+      "Translation": [
+        "[Color:13]European Localization[Color:0]",
+        "",
+        "[Color:13]Localization Producer:[Color:0]",
+        "Takuro Yamashita",
+        "",
+        "[Color:13]Localization Director:[Color:0]",
+        "Yoko Nishikawa",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "[Color:13]Localization Coordinator:[Color:0]",
+        "Alan Costa",
+        "",
+        "[Color:13]Production Director:[Color:0]",
+        "Hiroko Kanazashi",
+        "",
+        "[Color:13]Design Director:[Color:0]",
+        "Mizuki Nishida",
+        ""
+      ],
+      "Translation": [
+        "",
+        "[Color:13]Localization Coordinator:[Color:0]",
+        "Alan Costa",
+        "",
+        "[Color:13]Production Director:[Color:0]",
+        "Hiroko Kanazashi",
+        "",
+        "[Color:13]Design Director:[Color:0]",
+        "Mizuki Nishida",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "[Color:13]Packaging Design:[Color:0]",
+        "Adam Johnson",
+        "",
+        "[Color:13]Marketing Director:[Color:0]",
+        "Nao Zook",
+        "",
+        "[Color:13]Marketing:[Color:0]",
+        "Ryan Phillips",
+        "Chris King",
+        ""
+      ],
+      "Translation": [
+        "",
+        "[Color:13]Packaging Design:[Color:0]",
+        "Adam Johnson",
+        "",
+        "[Color:13]Marketing Director:[Color:0]",
+        "Nao Zook",
+        "",
+        "[Color:13]Marketing:[Color:0]",
+        "Ryan Phillips",
+        "Chris King",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "[Color:13]Web Design:[Color:0]",
+        "Shenin Mesdaghi",
+        "John Asabushi",
+        "",
+        "[Color:13]Quality Assurance:[Color:0]",
+        "NISA QA Team",
+        "",
+        "Localized for Europe by",
+        "NIS America, Inc.",
+        ""
+      ],
+      "Translation": [
+        "",
+        "[Color:13]Web Design:[Color:0]",
+        "Shenin Mesdaghi",
+        "John Asabushi",
+        "",
+        "[Color:13]Quality Assurance:[Color:0]",
+        "NISA QA Team",
+        "",
+        "Localized for Europe by",
+        "NIS America, Inc.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "[Color:13]Project Support:[Color:0]",
+        "Yuki Nozawa",
+        "Atsushi Yagi",
+        "Takeshi Hiruta",
+        "Hirohito Shindo",
+        "Keiichirou Oota",
+        "Kei Yamazaki",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "[Color:13]Project Support:[Color:0]",
+        "Yuki Nozawa",
+        "Atsushi Yagi",
+        "Takeshi Hiruta",
+        "Hirohito Shindo",
+        "Keiichirou Oota",
+        "Kei Yamazaki",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "[Color:13]Project Manager:[Color:0]",
+        "Hitoshi Sadakata",
+        "",
+        "[Color:13]Assistant Project Manager:[Color:0]",
+        "Takahiko Takizawa",
+        "Yoshio Kishi",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "[Color:13]Project Manager:[Color:0]",
+        "Hitoshi Sadakata",
+        "",
+        "[Color:13]Assistant Project Manager:[Color:0]",
+        "Takahiko Takizawa",
+        "Yoshio Kishi",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Consumer Software Division",
+        "General Manager:[Color:0]",
+        "Naoto Hiraoka",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Consumer Software Division",
+        "General Manager:[Color:0]",
+        "Naoto Hiraoka",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Executive Producer:[Color:0]",
+        "Yoshimi Ogawa",
+        "Naoto Hiraoka",
+        ""
+      ],
+      "Translation": [
+        "",
+        "",
+        "",
+        "",
+        "[Color:13]Executive Producer:[Color:0]",
+        "Yoshimi Ogawa",
+        "Naoto Hiraoka",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

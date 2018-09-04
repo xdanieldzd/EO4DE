@@ -1,0 +1,781 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_005",
+  "RelativePath": "Event\\Quest\\QUE_005.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request was submitted by the",
+        "Berund Atelier. They said they crafted",
+        "a new item using [Color:6][Item:1191][Color:0].",
+        "[Page]",
+        "",
+        "If you would like to know more, visit",
+        "the Atelier. Take care, and I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That request was submitted by the",
+        "Berund Atelier. They said they crafted",
+        "a new item using [Color:6][Item:1191][Color:0].",
+        "[Page]",
+        "",
+        "If you would like to know more, visit",
+        "the Atelier. Take care, and I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "It seems that you have completed the",
+        "request. I thank you again for all you",
+        "do for us.",
+        "[Page]",
+        "",
+        "There are many explorers in Tharsis",
+        "like yourselves, and considerable",
+        "demand for their services...",
+        "[Page]",
+        "",
+        "So check back with us to peruse the",
+        "request board from time to time, yes?",
+        "[Page]",
+        "",
+        "Here, this is your reward. It seems",
+        "to be a sword... but she advised",
+        "caution when using it.",
+        ""
+      ],
+      "Translation": [
+        "It seems that you have completed the",
+        "request. I thank you again for all you",
+        "do for us.",
+        "[Page]",
+        "",
+        "There are many explorers in Tharsis",
+        "like yourselves, and considerable",
+        "demand for their services...",
+        "[Page]",
+        "",
+        "So check back with us to peruse the",
+        "request board from time to time, yes?",
+        "[Page]",
+        "",
+        "Here, this is your reward. It seems",
+        "to be a sword... but she advised",
+        "caution when using it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "The [Color:6][Item:1191][Color:0] requested by the",
+        "Atelier is in hand. All that remains",
+        "is to go and sell it.",
+        ""
+      ],
+      "Translation": [
+        "The [Color:6][Item:1191][Color:0] requested by the",
+        "Atelier is in hand. All that remains",
+        "is to go and sell it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "\"You da guys what took my request?",
+        "Da truth is... we already had dat",
+        "[Color:6][Item:1191][Color:0] we aksed for.",
+        "[Page]",
+        "",
+        "\"I wuz planning ta go take down da",
+        "request, but I kept putting it off,",
+        "and, well...",
+        "[Page]",
+        "",
+        "\"But a deal's a deal! I'll make sure",
+        "you get da reward, so don't ya worry",
+        "about dat.",
+        "[Page]",
+        "",
+        "\"But, uh, heheh, maybe ya could",
+        "not go blabbing about dis ta",
+        "da boss?\"",
+        ""
+      ],
+      "Translation": [
+        "\"You da guys what took my request?",
+        "Da truth is... we already had dat",
+        "[Color:6][Item:1191][Color:0] we aksed for.",
+        "[Page]",
+        "",
+        "\"I wuz planning ta go take down da",
+        "request, but I kept putting it off,",
+        "and, well...",
+        "[Page]",
+        "",
+        "\"But a deal's a deal! I'll make sure",
+        "you get da reward, so don't ya worry",
+        "about dat.",
+        "[Page]",
+        "",
+        "\"But, uh, heheh, maybe ya could",
+        "not go blabbing about dis ta",
+        "da boss?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ya took my request? Alright, dis",
+        "time I want yas ta go get some",
+        "[Color:6][Item:1191][Color:0].",
+        "[Page]",
+        "",
+        "\"Huh? Whoa, what's dis now? Ya gots",
+        "it already!? How didja know!?",
+        "Dat's awesome!",
+        "[Page]",
+        "",
+        "\"All ya gotta do now is sell it ta",
+        "me and dat's dat. Tanks again! I'm",
+        "gonna use ya alla time after dis!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ya took my request? Alright, dis",
+        "time I want yas ta go get some",
+        "[Color:6][Item:1191][Color:0].",
+        "[Page]",
+        "",
+        "\"Huh? Whoa, what's dis now? Ya gots",
+        "it already!? How didja know!?",
+        "Dat's awesome!",
+        "[Page]",
+        "",
+        "\"All ya gotta do now is sell it ta",
+        "me and dat's dat. Tanks again! I'm",
+        "gonna use ya alla time after dis!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ya took my request? Alright, dis",
+        "time I want yas ta go get some",
+        "[Color:6][Item:1191][Color:0].",
+        "[Page]",
+        "",
+        "\"I hear ya can find it in da",
+        "[Color:5]Small Orchard[Color:0], a little west of",
+        "da Lush Woodlands.",
+        "[Page]",
+        "",
+        "\"Once I finish dat new item, I bet",
+        "ya'll flip! So besta luck!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ya took my request? Alright, dis",
+        "time I want yas ta go get some",
+        "[Color:6][Item:1191][Color:0].",
+        "[Page]",
+        "",
+        "\"I hear ya can find it in da",
+        "[Color:5]Small Orchard[Color:0], a little west of",
+        "da Lush Woodlands.",
+        "[Page]",
+        "",
+        "\"Once I finish dat new item, I bet",
+        "ya'll flip! So besta luck!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "\"I hear ya can find da [Item:1191]",
+        "in da [Color:5]Small Orchard[Color:0], a little west of",
+        "da Lush Woodlands.",
+        "[Page]",
+        "",
+        "\"Once I finish dat new item, I bet",
+        "ya'll flip! So besta luck!\"",
+        ""
+      ],
+      "Translation": [
+        "\"I hear ya can find da [Item:1191]",
+        "in da [Color:5]Small Orchard[Color:0], a little west of",
+        "da Lush Woodlands.",
+        "[Page]",
+        "",
+        "\"Once I finish dat new item, I bet",
+        "ya'll flip! So besta luck!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Once ya get da stuff, just sell it",
+        "ta me and dat'll be dat!",
+        ""
+      ],
+      "Translation": [
+        "Once ya get da stuff, just sell it",
+        "ta me and dat'll be dat!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey, listen ta dis! I made some brand",
+        "new stuff outta dat [Item:1191] ya",
+        "sold me!",
+        "[Page]",
+        "",
+        "\"Some [Color:6][Item:1350][Color:0], some [Color:6][Item:1351][Color:0],",
+        "and some [Color:6][Item:1352][Color:0].",
+        "[Page]",
+        "",
+        "\"If ya smear it on your weapons,",
+        "it'll add dat element ta your attack!",
+        "Why don'tcha try it out?",
+        "[Page]",
+        "",
+        "\"Anyhoo, tanks again! Ya can pick up",
+        "da reward at dat bar.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hey, listen ta dis! I made some brand",
+        "new stuff outta dat [Item:1191] ya",
+        "sold me!",
+        "[Page]",
+        "",
+        "\"Some [Color:6][Item:1350][Color:0], some [Color:6][Item:1351][Color:0],",
+        "and some [Color:6][Item:1352][Color:0].",
+        "[Page]",
+        "",
+        "\"If ya smear it on your weapons,",
+        "it'll add dat element ta your attack!",
+        "Why don'tcha try it out?",
+        "[Page]",
+        "",
+        "\"Anyhoo, tanks again! Ya can pick up",
+        "da reward at dat bar.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey, listen ta dis! I made some brand",
+        "new stuff outta dat [Item:1191] ya",
+        "sold me!",
+        "[Page]",
+        "",
+        "\"Some [Color:6][Item:1350][Color:0], some [Color:6][Item:1351][Color:0],",
+        "and some [Color:6][Item:1352][Color:0].",
+        "[Page]",
+        "",
+        "\"If ya smear it on your weapons,",
+        "it'll add dat element ta your attack!",
+        "Why don'tcha try it out?",
+        "[Page]",
+        "",
+        "\"Anyhoo, tanks again! Ya can pick up",
+        "da reward at dat bar.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hey, listen ta dis! I made some brand",
+        "new stuff outta dat [Item:1191] ya",
+        "sold me!",
+        "[Page]",
+        "",
+        "\"Some [Color:6][Item:1350][Color:0], some [Color:6][Item:1351][Color:0],",
+        "and some [Color:6][Item:1352][Color:0].",
+        "[Page]",
+        "",
+        "\"If ya smear it on your weapons,",
+        "it'll add dat element ta your attack!",
+        "Why don'tcha try it out?",
+        "[Page]",
+        "",
+        "\"Anyhoo, tanks again! Ya can pick up",
+        "da reward at dat bar.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Small Orchard[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Small Orchard[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

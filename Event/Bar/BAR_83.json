@@ -1,0 +1,100 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_83",
+  "RelativePath": "Event\\Bar\\BAR_83.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "I found the bloodied fortress girl on",
+        "a small island near the city...",
+        "[Page]",
+        "",
+        "You're the ones who accepted the",
+        "request she wrote on her bed at the",
+        "clinic, right?",
+        "[Page]",
+        "",
+        "Whatever got to her... there's no",
+        "denying it's extremely powerful.",
+        "Be very careful hunting it.",
+        ""
+      ],
+      "Translation": [
+        "I found the bloodied fortress girl on",
+        "a small island near the city...",
+        "[Page]",
+        "",
+        "You're the ones who accepted the",
+        "request she wrote on her bed at the",
+        "clinic, right?",
+        "[Page]",
+        "",
+        "Whatever got to her... there's no",
+        "denying it's extremely powerful.",
+        "Be very careful hunting it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "When I found the fortress girl, her",
+        "skyship was perched on a small island.",
+        "[Page]",
+        "",
+        "It was equipped with a gleaming new",
+        "[Color:5][Item:2189][Color:0].",
+        "[Page]",
+        "",
+        "It may have been necessary to catch",
+        "the monster, though we have no way",
+        "of knowing that now...",
+        "[Page]",
+        "",
+        "Please... accomplish in her stead",
+        "what she failed to do...",
+        ""
+      ],
+      "Translation": [
+        "When I found the fortress girl, her",
+        "skyship was perched on a small island.",
+        "[Page]",
+        "",
+        "It was equipped with a gleaming new",
+        "[Color:5][Item:2189][Color:0].",
+        "[Page]",
+        "",
+        "It may have been necessary to catch",
+        "the monster, though we have no way",
+        "of knowing that now...",
+        "[Page]",
+        "",
+        "Please... accomplish in her stead",
+        "what she failed to do...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

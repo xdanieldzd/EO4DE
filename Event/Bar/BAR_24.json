@@ -1,0 +1,103 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_24",
+  "RelativePath": "Event\\Bar\\BAR_24.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Hey, [Guild], how's it going? Huh?",
+        "What do you mean, you don't know me?",
+        "We stay at the inn together!",
+        "[Page]",
+        "",
+        "Well, no matter... Are you guys making",
+        "good use of the storeroom there?",
+        "[Page]",
+        "",
+        "Normally, a guild only gets space for",
+        "[Color:5]10[Color:0] types of items, but apparently you",
+        "can negotiate more.",
+        "[Page]",
+        "",
+        "Just the other day, I saw a certain",
+        "other guild clearly sorting through",
+        "more than 10 types of stuff.",
+        "[Page]",
+        "",
+        "I guess if you do Dalla a favor,",
+        "she'll take care of you in return.",
+        "But what does she want...?",
+        ""
+      ],
+      "Translation": [
+        "Hey, [Guild], how's it going? Huh?",
+        "What do you mean, you don't know me?",
+        "We stay at the inn together!",
+        "[Page]",
+        "",
+        "Well, no matter... Are you guys making",
+        "good use of the storeroom there?",
+        "[Page]",
+        "",
+        "Normally, a guild only gets space for",
+        "[Color:5]10[Color:0] types of items, but apparently you",
+        "can negotiate more.",
+        "[Page]",
+        "",
+        "Just the other day, I saw a certain",
+        "other guild clearly sorting through",
+        "more than 10 types of stuff.",
+        "[Page]",
+        "",
+        "I guess if you do Dalla a favor,",
+        "she'll take care of you in return.",
+        "But what does she want...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Thanks to those skyship upgrades,",
+        "the area we can explore has really",
+        "been bumped up.",
+        "[Page]",
+        "",
+        "Hey, you remember that labyrinth that",
+        "was up too high to enter? [Color:5]On top of",
+        "the cliff[Color:0] in the [Color:5]Windy Plains[Color:0]?",
+        "[Page]",
+        "",
+        "I guess in the excitement to explore",
+        "the Scarlet Pillars, everyone forgot",
+        "about it...",
+        ""
+      ],
+      "Translation": [
+        "Thanks to those skyship upgrades,",
+        "the area we can explore has really",
+        "been bumped up.",
+        "[Page]",
+        "",
+        "Hey, you remember that labyrinth that",
+        "was up too high to enter? [Color:5]On top of",
+        "the cliff[Color:0] in the [Color:5]Windy Plains[Color:0]?",
+        "[Page]",
+        "",
+        "I guess in the excitement to explore",
+        "the Scarlet Pillars, everyone forgot",
+        "about it...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

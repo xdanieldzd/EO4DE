@@ -1,0 +1,399 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_75",
+  "RelativePath": "Event\\Bar\\BAR_75.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You want something? If you're asking",
+        "me out to tea, no thanks. I'm waiting",
+        "for--Oh, you took my request?",
+        "[Page]",
+        "",
+        "Well then... nice meeting you. I'm a",
+        "farmer and an explorer. You ever",
+        "heard about people like me before?",
+        ""
+      ],
+      "Translation": [
+        "You want something? If you're asking",
+        "me out to tea, no thanks. I'm waiting",
+        "for--Oh, you took my request?",
+        "[Page]",
+        "",
+        "Well then... nice meeting you. I'm a",
+        "farmer and an explorer. You ever",
+        "heard about people like me before?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you know of them?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you know of them?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, okay. Well, that simplifies things",
+        "considerably. You meet another farmer",
+        "somewhere or something?",
+        "[Page]",
+        "",
+        "If you did, you might have an idea",
+        "what I'm asking for. Or maybe not.",
+        "Either way, I'll explain it.",
+        ""
+      ],
+      "Translation": [
+        "Oh, okay. Well, that simplifies things",
+        "considerably. You meet another farmer",
+        "somewhere or something?",
+        "[Page]",
+        "",
+        "If you did, you might have an idea",
+        "what I'm asking for. Or maybe not.",
+        "Either way, I'll explain it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "We go exploring in between doing some",
+        "farm work. Our special know-how comes",
+        "in handy on adventures!",
+        "[Page]",
+        "",
+        "But I should explain why I came.",
+        "Where do I start...",
+        ""
+      ],
+      "Translation": [
+        "We go exploring in between doing some",
+        "farm work. Our special know-how comes",
+        "in handy on adventures!",
+        "[Page]",
+        "",
+        "But I should explain why I came.",
+        "Where do I start...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "I make my living in livestock, and I",
+        "heard there's some top-notch feed",
+        "in these parts.",
+        "[Page]",
+        "",
+        "Do you know where the Scarlet Pillars",
+        "are? Somewhere by a lake northwest in",
+        "there are these \"Finest Plains.\"",
+        "[Page]",
+        "",
+        "Have you heard of them? I want you",
+        "guys to find out where they are.",
+        "[Page]",
+        "",
+        "Come talk to me when you do. I'll be",
+        "here praying you find success.",
+        ""
+      ],
+      "Translation": [
+        "I make my living in livestock, and I",
+        "heard there's some top-notch feed",
+        "in these parts.",
+        "[Page]",
+        "",
+        "Do you know where the Scarlet Pillars",
+        "are? Somewhere by a lake northwest in",
+        "there are these \"Finest Plains.\"",
+        "[Page]",
+        "",
+        "Have you heard of them? I want you",
+        "guys to find out where they are.",
+        "[Page]",
+        "",
+        "Come talk to me when you do. I'll be",
+        "here praying you find success.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Whoa, back already? Don't tell me you",
+        "found the Finest Plains so soon?",
+        ""
+      ],
+      "Translation": [
+        "Whoa, back already? Don't tell me you",
+        "found the Finest Plains so soon?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Have you found them?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Have you found them?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Well, what's the cotton-picking idea,",
+        "then? I don't like being teased.",
+        ""
+      ],
+      "Translation": [
+        "Well, what's the cotton-picking idea,",
+        "then? I don't like being teased.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Information? It's not much, but...",
+        "I heard it's [Color:5]near a lake northwest in",
+        "the Scarlet Pillars[Color:0]. That ring a bell?",
+        ""
+      ],
+      "Translation": [
+        "Information? It's not much, but...",
+        "I heard it's [Color:5]near a lake northwest in",
+        "the Scarlet Pillars[Color:0]. That ring a bell?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Huh!? Really!? Golly! I won't be able",
+        "to sit still 'til I've seen them for",
+        "myself.",
+        "[Page]",
+        "",
+        "I'll go and check if you just show",
+        "me on the map.",
+        ""
+      ],
+      "Translation": [
+        "Huh!? Really!? Golly! I won't be able",
+        "to sit still 'til I've seen them for",
+        "myself.",
+        "[Page]",
+        "",
+        "I'll go and check if you just show",
+        "me on the map.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Huh... Well, all right. I'll hurry",
+        "there and come straight back with an",
+        "[Item:1355]! Just sit tight.",
+        ""
+      ],
+      "Translation": [
+        "Huh... Well, all right. I'll hurry",
+        "there and come straight back with an",
+        "[Item:1355]! Just sit tight.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Hey! The Finest Plains weren't there!",
+        "You think you can play me for a rube?",
+        "[Page]",
+        "",
+        "I almost got eaten by this awful old",
+        "monster! That wouldn'tve been funny!",
+        "[Page]",
+        "",
+        "Now listen here. You better find the",
+        "Finest Plains and tell me honest",
+        "where they are.",
+        "[Page]",
+        "",
+        "If you don't... I'll use you folks",
+        "as fertilizer! Believe that!",
+        ""
+      ],
+      "Translation": [
+        "Hey! The Finest Plains weren't there!",
+        "You think you can play me for a rube?",
+        "[Page]",
+        "",
+        "I almost got eaten by this awful old",
+        "monster! That wouldn'tve been funny!",
+        "[Page]",
+        "",
+        "Now listen here. You better find the",
+        "Finest Plains and tell me honest",
+        "where they are.",
+        "[Page]",
+        "",
+        "If you don't... I'll use you folks",
+        "as fertilizer! Believe that!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Yes... yes! Momma! Pawpaw! I finally",
+        "found the Finest Plains!",
+        "[Page]",
+        "",
+        "Oh... whoopsie.",
+        ""
+      ],
+      "Translation": [
+        "Yes... yes! Momma! Pawpaw! I finally",
+        "found the Finest Plains!",
+        "[Page]",
+        "",
+        "Oh... whoopsie.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Hmph, you're better than I thought.",
+        "I guess you're not so bad after all.",
+        "Honestly... I am grateful, a little.",
+        "[Page]",
+        "",
+        "I-I talked to the bar girl already.",
+        "So go on and get your reward, got",
+        "it!? And... um... thanks.",
+        ""
+      ],
+      "Translation": [
+        "Hmph, you're better than I thought.",
+        "I guess you're not so bad after all.",
+        "Honestly... I am grateful, a little.",
+        "[Page]",
+        "",
+        "I-I talked to the bar girl already.",
+        "So go on and get your reward, got",
+        "it!? And... um... thanks.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Things sure are gonna be hectic round",
+        "the farm. The seasons never stop...",
+        "I better get a harvest crew together.",
+        ""
+      ],
+      "Translation": [
+        "Things sure are gonna be hectic round",
+        "the farm. The seasons never stop...",
+        "I better get a harvest crew together.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

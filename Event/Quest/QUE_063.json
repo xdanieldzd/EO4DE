@@ -1,0 +1,175 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_063",
+  "RelativePath": "Event\\Quest\\QUE_063.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, this request. It is from the girl",
+        "sitting over there. The one with the",
+        "thick glasses...",
+        "[Page]",
+        "",
+        "She says that she is a wandering",
+        "artist on a journey to find something",
+        "beautiful. You should talk to her.",
+        "[Page]",
+        "",
+        "Now then, I await your swift return",
+        "with a report on what this \"beautiful",
+        "thing\" might be.",
+        ""
+      ],
+      "Translation": [
+        "Ah, this request. It is from the girl",
+        "sitting over there. The one with the",
+        "thick glasses...",
+        "[Page]",
+        "",
+        "She says that she is a wandering",
+        "artist on a journey to find something",
+        "beautiful. You should talk to her.",
+        "[Page]",
+        "",
+        "Now then, I await your swift return",
+        "with a report on what this \"beautiful",
+        "thing\" might be.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I could not help but",
+        "overhear... So you successfully",
+        "found the Snow Garden?",
+        "[Page]",
+        "",
+        "A gleaming flower made of snow... How",
+        "romantic! It is nice to handle these",
+        "kinds of requests once in a while.",
+        "[Page]",
+        "",
+        "I would love to see it for myself...",
+        "Though then again, I am sensitive to",
+        "the cold.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I could not help but",
+        "overhear... So you successfully",
+        "found the Snow Garden?",
+        "[Page]",
+        "",
+        "A gleaming flower made of snow... How",
+        "romantic! It is nice to handle these",
+        "kinds of requests once in a while.",
+        "[Page]",
+        "",
+        "I would love to see it for myself...",
+        "Though then again, I am sensitive to",
+        "the cold.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "As you move through the blizzard on",
+        "your skyship, you reach a hidden spot",
+        "where sunlight filters through.",
+        "[Page]",
+        "",
+        "You emerge from the ship to find an",
+        "ocean of flower-like objects made of",
+        "snow. They sparkle in the sunlight...",
+        "[Page]",
+        "",
+        "You know not how, but the snow has",
+        "hardened into flowery crystals. It is",
+        "a breathtaking sight...",
+        ""
+      ],
+      "Translation": [
+        "As you move through the blizzard on",
+        "your skyship, you reach a hidden spot",
+        "where sunlight filters through.",
+        "[Page]",
+        "",
+        "You emerge from the ship to find an",
+        "ocean of flower-like objects made of",
+        "snow. They sparkle in the sunlight...",
+        "[Page]",
+        "",
+        "You know not how, but the snow has",
+        "hardened into flowery crystals. It is",
+        "a breathtaking sight...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "The natural spectacle of the snow",
+        "flowers still fascinates you. You",
+        "decide to return later...",
+        ""
+      ],
+      "Translation": [
+        "The natural spectacle of the snow",
+        "flowers still fascinates you. You",
+        "decide to return later...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "This is the Snow Garden your client",
+        "wanted. Once you mark its location,",
+        "return to her at the bar.",
+        ""
+      ],
+      "Translation": [
+        "This is the Snow Garden your client",
+        "wanted. Once you mark its location,",
+        "return to her at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

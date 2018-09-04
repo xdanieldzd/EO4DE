@@ -1,0 +1,22 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "wireless_name",
+  "RelativePath": "Event\\wireless_name.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "海の野獣を討て!",
+        ""
+      ],
+      "Translation": [
+        "海の野獣を討て!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

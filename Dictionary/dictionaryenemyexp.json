@@ -1,0 +1,4863 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Enemy descriptions",
+  "RelativePath": "Dictionary\\dictionaryenemyexp.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "A grasshopper that lives",
+        "in the forest. Their kicks",
+        "are powerful, but they are",
+        "no threat when alone.",
+        ""
+      ],
+      "Translation": [
+        "A grasshopper that lives",
+        "in the forest. Their kicks",
+        "are powerful, but they are",
+        "no threat when alone.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "A small creature which",
+        "can curl up in its shell",
+        "in order to roll around",
+        "and ram its enemies.",
+        ""
+      ],
+      "Translation": [
+        "A small creature which",
+        "can curl up in its shell",
+        "in order to roll around",
+        "and ram its enemies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "A rat native to the forest.",
+        "It is not strong, but can",
+        "be fearsome when cornered.",
+        ""
+      ],
+      "Translation": [
+        "A rat native to the forest.",
+        "It is not strong, but can",
+        "be fearsome when cornered.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "An eerie, human-shaped",
+        "plant whose shriek upon",
+        "death is said to cause",
+        "migraine headaches.",
+        ""
+      ],
+      "Translation": [
+        "An eerie, human-shaped",
+        "plant whose shriek upon",
+        "death is said to cause",
+        "migraine headaches.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "A giant owl with vibrant",
+        "patterns on its wings.",
+        "It can send forth",
+        "lightning from its beak.",
+        ""
+      ],
+      "Translation": [
+        "A giant owl with vibrant",
+        "patterns on its wings.",
+        "It can send forth",
+        "lightning from its beak.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "A large baboon with unique",
+        "coloration on its face...",
+        "and a signature pattern",
+        "on its posterior.",
+        ""
+      ],
+      "Translation": [
+        "A large baboon with unique",
+        "coloration on its face...",
+        "and a signature pattern",
+        "on its posterior.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "A rare lizard that can",
+        "blend into the scenery",
+        "and disappear, making it",
+        "easy for it to catch prey.",
+        ""
+      ],
+      "Translation": [
+        "A rare lizard that can",
+        "blend into the scenery",
+        "and disappear, making it",
+        "easy for it to catch prey.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Butterflies often seen",
+        "at the forest entrance.",
+        "Easy prey even for",
+        "novice adventurers.",
+        ""
+      ],
+      "Translation": [
+        "Butterflies often seen",
+        "at the forest entrance.",
+        "Easy prey even for",
+        "novice adventurers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "A grown Roller. As it is",
+        "heavier now, its ramming",
+        "assault is even more",
+        "powerful than before.",
+        ""
+      ],
+      "Translation": [
+        "A grown Roller. As it is",
+        "heavier now, its ramming",
+        "assault is even more",
+        "powerful than before.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "A dreadful plant that",
+        "evolved from harmless",
+        "vines into a monster that",
+        "snaps at any passersby.",
+        ""
+      ],
+      "Translation": [
+        "A dreadful plant that",
+        "evolved from harmless",
+        "vines into a monster that",
+        "snaps at any passersby.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "A giant scorpion with a",
+        "hard shell. It carefully",
+        "gauges its range before",
+        "striking with its venom.",
+        ""
+      ],
+      "Translation": [
+        "A giant scorpion with a",
+        "hard shell. It carefully",
+        "gauges its range before",
+        "striking with its venom.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "A large frog native to",
+        "the forest. Adventurers",
+        "with any experience",
+        "should have no problems.",
+        ""
+      ],
+      "Translation": [
+        "A large frog native to",
+        "the forest. Adventurers",
+        "with any experience",
+        "should have no problems.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "A Hollow that appears in",
+        "the Misty Ravine. It acts",
+        "in groups, but cannot be",
+        "communicated with.",
+        ""
+      ],
+      "Translation": [
+        "A Hollow that appears in",
+        "the Misty Ravine. It acts",
+        "in groups, but cannot be",
+        "communicated with.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "A subspecies of Hollows",
+        "that appears in the Misty",
+        "Ravine. It has the look",
+        "of one focused in prayer.",
+        ""
+      ],
+      "Translation": [
+        "A subspecies of Hollows",
+        "that appears in the Misty",
+        "Ravine. It has the look",
+        "of one focused in prayer.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Should this ferocious",
+        "bison be provoked,",
+        "its rampage cannot",
+        "afterward be stopped.",
+        ""
+      ],
+      "Translation": [
+        "Should this ferocious",
+        "bison be provoked,",
+        "its rampage cannot",
+        "afterward be stopped.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "A pet animal that has",
+        "gone feral. Its powerful",
+        "bite makes it extremely",
+        "dangerous to approach.",
+        ""
+      ],
+      "Translation": [
+        "A pet animal that has",
+        "gone feral. Its powerful",
+        "bite makes it extremely",
+        "dangerous to approach.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "A two-legged mushroom that",
+        "walks around the dungeon.",
+        "Breathe in its spores and",
+        "you will become confused.",
+        ""
+      ],
+      "Translation": [
+        "A two-legged mushroom that",
+        "walks around the dungeon.",
+        "Breathe in its spores and",
+        "you will become confused.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "A giant bird with an",
+        "insatiable hunger.",
+        "It is at the top of its",
+        "habitat's food chain.",
+        ""
+      ],
+      "Translation": [
+        "A giant bird with an",
+        "insatiable hunger.",
+        "It is at the top of its",
+        "habitat's food chain.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "A gigantic boar which,",
+        "once agitated, charges",
+        "heedlessly until its",
+        "enemy or itself is dead.",
+        ""
+      ],
+      "Translation": [
+        "A gigantic boar which,",
+        "once agitated, charges",
+        "heedlessly until its",
+        "enemy or itself is dead.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "A flower whose sweet",
+        "scent is a soporific.",
+        "Take caution, for it",
+        "releases upon impact.",
+        ""
+      ],
+      "Translation": [
+        "A flower whose sweet",
+        "scent is a soporific.",
+        "Take caution, for it",
+        "releases upon impact.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "A brutal monkey that hunts",
+        "from the shadows at night.",
+        "Its poisonous claws drain",
+        "its prey's stamina.",
+        ""
+      ],
+      "Translation": [
+        "A brutal monkey that hunts",
+        "from the shadows at night.",
+        "Its poisonous claws drain",
+        "its prey's stamina.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "A balloon-like plant",
+        "monster. It explodes when",
+        "others approach, sometimes",
+        "hurting its allies.",
+        ""
+      ],
+      "Translation": [
+        "A balloon-like plant",
+        "monster. It explodes when",
+        "others approach, sometimes",
+        "hurting its allies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "A fat rabbit with the odd",
+        "power to summon lightning.",
+        "It seems content resting",
+        "its stomach on its tail.",
+        ""
+      ],
+      "Translation": [
+        "A fat rabbit with the odd",
+        "power to summon lightning.",
+        "It seems content resting",
+        "its stomach on its tail.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "A vine that grew even",
+        "more deadly as it gained",
+        "a taste for man. It will",
+        "attack indiscriminately.",
+        ""
+      ],
+      "Translation": [
+        "A vine that grew even",
+        "more deadly as it gained",
+        "a taste for man. It will",
+        "attack indiscriminately.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "A black frog with an",
+        "organ that generates",
+        "voltage for purposes",
+        "of self-defense.",
+        ""
+      ],
+      "Translation": [
+        "A black frog with an",
+        "organ that generates",
+        "voltage for purposes",
+        "of self-defense.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "A large frog with a blue",
+        "tongue. It lets out a",
+        "bizarre cry and attacks",
+        "in groups.",
+        ""
+      ],
+      "Translation": [
+        "A large frog with a blue",
+        "tongue. It lets out a",
+        "bizarre cry and attacks",
+        "in groups.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "A rare purple grasshopper",
+        "that likes dark places.",
+        "It is highly advised to",
+        "finish it off quickly.",
+        ""
+      ],
+      "Translation": [
+        "A rare purple grasshopper",
+        "that likes dark places.",
+        "It is highly advised to",
+        "finish it off quickly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "A large insect with a hard",
+        "shell. It is deceptively",
+        "quick and may protect its",
+        "comrades when in groups.",
+        ""
+      ],
+      "Translation": [
+        "A large insect with a hard",
+        "shell. It is deceptively",
+        "quick and may protect its",
+        "comrades when in groups.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "A large bat that lives in",
+        "clusters in caves. Despite",
+        "its sharp fangs, a veteran",
+        "party should not fear.",
+        ""
+      ],
+      "Translation": [
+        "A large bat that lives in",
+        "clusters in caves. Despite",
+        "its sharp fangs, a veteran",
+        "party should not fear.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "A magma monster from the",
+        "earth's bowels. It is",
+        "extremely vulnerable to",
+        "the cold.",
+        ""
+      ],
+      "Translation": [
+        "A magma monster from the",
+        "earth's bowels. It is",
+        "extremely vulnerable to",
+        "the cold.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "An ice monster active in",
+        "cold habitats. It cannot",
+        "use its full strength in",
+        "warm environments.",
+        ""
+      ],
+      "Translation": [
+        "An ice monster active in",
+        "cold habitats. It cannot",
+        "use its full strength in",
+        "warm environments.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "This plant's piercing",
+        "scream causes weak-willed",
+        "explorers to lose control",
+        "over their body.",
+        ""
+      ],
+      "Translation": [
+        "This plant's piercing",
+        "scream causes weak-willed",
+        "explorers to lose control",
+        "over their body.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "A giant baboon with purple",
+        "fur living high in the",
+        "mountains. Though slow,",
+        "it is very powerful.",
+        ""
+      ],
+      "Translation": [
+        "A giant baboon with purple",
+        "fur living high in the",
+        "mountains. Though slow,",
+        "it is very powerful.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "A mushroom adapted to",
+        "underground habitats.",
+        "Though it looks tasty,",
+        "its spores are poison.",
+        ""
+      ],
+      "Translation": [
+        "A mushroom adapted to",
+        "underground habitats.",
+        "Though it looks tasty,",
+        "its spores are poison.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "An owl with shining wings.",
+        "It's said to control the",
+        "atmospheric temperature,",
+        "which may be an illusion.",
+        ""
+      ],
+      "Translation": [
+        "An owl with shining wings.",
+        "It's said to control the",
+        "atmospheric temperature,",
+        "which may be an illusion.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "An old model of automated",
+        "soldier that eliminates",
+        "intruders. Its eyes serve",
+        "as targeting beacons.",
+        ""
+      ],
+      "Translation": [
+        "An old model of automated",
+        "soldier that eliminates",
+        "intruders. Its eyes serve",
+        "as targeting beacons.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "An automated attack dog",
+        "deployed in the dungeon.",
+        "If it finds a target, it",
+        "will move to eliminate.",
+        ""
+      ],
+      "Translation": [
+        "An automated attack dog",
+        "deployed in the dungeon.",
+        "If it finds a target, it",
+        "will move to eliminate.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Brilliant flames serve",
+        "as a second coat of fur.",
+        "Its fiery claws kill its",
+        "prey without fail.",
+        ""
+      ],
+      "Translation": [
+        "Brilliant flames serve",
+        "as a second coat of fur.",
+        "Its fiery claws kill its",
+        "prey without fail.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "A dangerous rat with high",
+        "resistance to heat and an",
+        "ability to ignite itself.",
+        "It need not pose a threat.",
+        ""
+      ],
+      "Translation": [
+        "A dangerous rat with high",
+        "resistance to heat and an",
+        "ability to ignite itself.",
+        "It need not pose a threat.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "A brightly-colored fungal",
+        "beast. The spores that",
+        "grow inside it curse the",
+        "one it sees when it dies.",
+        ""
+      ],
+      "Translation": [
+        "A brightly-colored fungal",
+        "beast. The spores that",
+        "grow inside it curse the",
+        "one it sees when it dies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "A dangerous flower with",
+        "a will of its own. If you",
+        "breathe in its pollen,",
+        "you may lose your sanity.",
+        ""
+      ],
+      "Translation": [
+        "A dangerous flower with",
+        "a will of its own. If you",
+        "breathe in its pollen,",
+        "you may lose your sanity.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "A large ape with long,",
+        "sharp claws and tough",
+        "hide. Its steely claws",
+        "can easily rend armor.",
+        ""
+      ],
+      "Translation": [
+        "A large ape with long,",
+        "sharp claws and tough",
+        "hide. Its steely claws",
+        "can easily rend armor.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "A large scorpion with a",
+        "steel shell. Beware its",
+        "stinger, as its venom",
+        "can calcify your body.",
+        ""
+      ],
+      "Translation": [
+        "A large scorpion with a",
+        "steel shell. Beware its",
+        "stinger, as its venom",
+        "can calcify your body.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "This arboreal terror",
+        "wraps its pliable",
+        "branches around its",
+        "prey to kill it.",
+        ""
+      ],
+      "Translation": [
+        "This arboreal terror",
+        "wraps its pliable",
+        "branches around its",
+        "prey to kill it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "A rabbit monster found",
+        "in the Labyrinth. When",
+        "threatened, the gases in",
+        "it destroy all nearby.",
+        ""
+      ],
+      "Translation": [
+        "A rabbit monster found",
+        "in the Labyrinth. When",
+        "threatened, the gases in",
+        "it destroy all nearby.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "It has hard, shell-like",
+        "armor, but uses it more",
+        "for offense than defense.",
+        "Approach with caution.",
+        ""
+      ],
+      "Translation": [
+        "It has hard, shell-like",
+        "armor, but uses it more",
+        "for offense than defense.",
+        "Approach with caution.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "A boxing marsupial full",
+        "of fighting spirit. The",
+        "child in the pouch learns",
+        "by watching its parent.",
+        ""
+      ],
+      "Translation": [
+        "A boxing marsupial full",
+        "of fighting spirit. The",
+        "child in the pouch learns",
+        "by watching its parent.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "A gigantic bird with an",
+        "insatiable appetite. It",
+        "barely flies, but it can",
+        "still crush from above.",
+        ""
+      ],
+      "Translation": [
+        "A gigantic bird with an",
+        "insatiable appetite. It",
+        "barely flies, but it can",
+        "still crush from above.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "A ram mutated by the thick",
+        "miasma in the labyrinth.",
+        "It expels the miasma from",
+        "all parts of its body.",
+        ""
+      ],
+      "Translation": [
+        "A ram mutated by the thick",
+        "miasma in the labyrinth.",
+        "It expels the miasma from",
+        "all parts of its body.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "A fierce crocodile that",
+        "awaits its prey with its",
+        "wide jaws open until it",
+        "can swallow them whole.",
+        ""
+      ],
+      "Translation": [
+        "A fierce crocodile that",
+        "awaits its prey with its",
+        "wide jaws open until it",
+        "can swallow them whole.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "A grotesquely enlarged",
+        "dragonfly that entraps",
+        "travelers with its dance",
+        "before preying on them.",
+        ""
+      ],
+      "Translation": [
+        "A grotesquely enlarged",
+        "dragonfly that entraps",
+        "travelers with its dance",
+        "before preying on them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "A beast that lives deep",
+        "in the forest. Though",
+        "normally calm, its rage",
+        "can explode in a moment.",
+        ""
+      ],
+      "Translation": [
+        "A beast that lives deep",
+        "in the forest. Though",
+        "normally calm, its rage",
+        "can explode in a moment.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "A mutated Magma Spawn.",
+        "If you have no defenses",
+        "against fire, it is best",
+        "avoided entirely.",
+        ""
+      ],
+      "Translation": [
+        "A mutated Magma Spawn.",
+        "If you have no defenses",
+        "against fire, it is best",
+        "avoided entirely.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "A Glacier Spawn that has",
+        "crystallized over many",
+        "years. Its strength is",
+        "far beyond the original.",
+        ""
+      ],
+      "Translation": [
+        "A Glacier Spawn that has",
+        "crystallized over many",
+        "years. Its strength is",
+        "far beyond the original.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "A Hollow that strayed from",
+        "the group long ago. Those",
+        "who form a blood pact with",
+        "it gain unknown power.",
+        ""
+      ],
+      "Translation": [
+        "A Hollow that strayed from",
+        "the group long ago. Those",
+        "who form a blood pact with",
+        "it gain unknown power.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "A beast thoroughly tainted",
+        "by hatred. It will not",
+        "cease punching until its",
+        "opponent stops twitching.",
+        ""
+      ],
+      "Translation": [
+        "A beast thoroughly tainted",
+        "by hatred. It will not",
+        "cease punching until its",
+        "opponent stops twitching.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "A superior metal beast",
+        "programmed to protect",
+        "important areas. It has",
+        "no pity or remorse.",
+        ""
+      ],
+      "Translation": [
+        "A superior metal beast",
+        "programmed to protect",
+        "important areas. It has",
+        "no pity or remorse.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "A butterfly commonly seen",
+        "near Yggdrasil trees for",
+        "some reason. Be careful",
+        "near its poison scales.",
+        ""
+      ],
+      "Translation": [
+        "A butterfly commonly seen",
+        "near Yggdrasil trees for",
+        "some reason. Be careful",
+        "near its poison scales.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "A mutated Fire Bulb. One",
+        "must be careful not to",
+        "let it release the stored",
+        "cold air in its fruit.",
+        ""
+      ],
+      "Translation": [
+        "A mutated Fire Bulb. One",
+        "must be careful not to",
+        "let it release the stored",
+        "cold air in its fruit.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "A dreadful tree festering",
+        "deep in the forest. Those",
+        "hit with its poison writhe",
+        "painfully unto death.",
+        ""
+      ],
+      "Translation": [
+        "A dreadful tree festering",
+        "deep in the forest. Those",
+        "hit with its poison writhe",
+        "painfully unto death.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "A demonic tree root.",
+        "Those who hear its death",
+        "cry are said to fall",
+        "into a deep slumber.",
+        ""
+      ],
+      "Translation": [
+        "A demonic tree root.",
+        "Those who hear its death",
+        "cry are said to fall",
+        "into a deep slumber.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "A bat that lives off the",
+        "blood of the unwary. It",
+        "is easy prey for veteran",
+        "explorers.",
+        ""
+      ],
+      "Translation": [
+        "A bat that lives off the",
+        "blood of the unwary. It",
+        "is easy prey for veteran",
+        "explorers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "A mole which waits for",
+        "its prey underground,",
+        "then strikes with its",
+        "sharp claws.",
+        ""
+      ],
+      "Translation": [
+        "A mole which waits for",
+        "its prey underground,",
+        "then strikes with its",
+        "sharp claws.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "A red locust turned savage",
+        "deep in the forest. It is",
+        "stained with the blood of",
+        "its cursed prey.",
+        ""
+      ],
+      "Translation": [
+        "A red locust turned savage",
+        "deep in the forest. It is",
+        "stained with the blood of",
+        "its cursed prey.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "A huge, slumbering lion",
+        "ensconced in the dungeon.",
+        "When it awakens, it kills",
+        "everything in sight.",
+        ""
+      ],
+      "Translation": [
+        "A huge, slumbering lion",
+        "ensconced in the dungeon.",
+        "When it awakens, it kills",
+        "everything in sight.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "A large insect with a hard",
+        "shell. It uses its shell's",
+        "protection to plant itself",
+        "firmly before its prey.",
+        ""
+      ],
+      "Translation": [
+        "A large insect with a hard",
+        "shell. It uses its shell's",
+        "protection to plant itself",
+        "firmly before its prey.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "The king of insects. Its",
+        "sturdy shell can even",
+        "deflect attacks directed",
+        "towards its allies.",
+        ""
+      ],
+      "Translation": [
+        "The king of insects. Its",
+        "sturdy shell can even",
+        "deflect attacks directed",
+        "towards its allies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "A lizard that camouflages",
+        "itself as it lies in wait",
+        "for prey. So long as you",
+        "can see it, it is benign.",
+        ""
+      ],
+      "Translation": [
+        "A lizard that camouflages",
+        "itself as it lies in wait",
+        "for prey. So long as you",
+        "can see it, it is benign.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "A close cousin to the",
+        "Trip Mushroom, this",
+        "ambulatory fungus can",
+        "release paralytic spores.",
+        ""
+      ],
+      "Translation": [
+        "A close cousin to the",
+        "Trip Mushroom, this",
+        "ambulatory fungus can",
+        "release paralytic spores.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "A giant lion known for",
+        "its flame-like mane. Once",
+        "it awakens, it crushes its",
+        "prey with powerful jaws.",
+        ""
+      ],
+      "Translation": [
+        "A giant lion known for",
+        "its flame-like mane. Once",
+        "it awakens, it crushes its",
+        "prey with powerful jaws.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "These moles strike",
+        "unrelentingly with their",
+        "sharp claws. Use extreme",
+        "caution around them.",
+        ""
+      ],
+      "Translation": [
+        "These moles strike",
+        "unrelentingly with their",
+        "sharp claws. Use extreme",
+        "caution around them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "A Thunder Spawn that felt",
+        "threatened. It discharges",
+        "high voltage bursts until",
+        "the danger passes.",
+        ""
+      ],
+      "Translation": [
+        "A Thunder Spawn that felt",
+        "threatened. It discharges",
+        "high voltage bursts until",
+        "the danger passes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "A beautiful mountain cat",
+        "which stalks its prey in",
+        "the dungeon. Was once",
+        "the pet of nobles.",
+        ""
+      ],
+      "Translation": [
+        "A beautiful mountain cat",
+        "which stalks its prey in",
+        "the dungeon. Was once",
+        "the pet of nobles.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "A Hollow dwelling deep in",
+        "the Misty Ravine. Its",
+        "motives are not like those",
+        "of ordinary Hollows.",
+        ""
+      ],
+      "Translation": [
+        "A Hollow dwelling deep in",
+        "the Misty Ravine. Its",
+        "motives are not like those",
+        "of ordinary Hollows.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "A beautiful, blue flower",
+        "that blooms underground.",
+        "When its bud opens, there",
+        "is only ruin.",
+        ""
+      ],
+      "Translation": [
+        "A beautiful, blue flower",
+        "that blooms underground.",
+        "When its bud opens, there",
+        "is only ruin.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "The final guardian, meant",
+        "for the highest level of",
+        "the intruder elimination",
+        "system.",
+        ""
+      ],
+      "Translation": [
+        "The final guardian, meant",
+        "for the highest level of",
+        "the intruder elimination",
+        "system.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Due to it constantly",
+        "calling down lightning,",
+        "this Forest Hare gained",
+        "control over the storm.",
+        ""
+      ],
+      "Translation": [
+        "Due to it constantly",
+        "calling down lightning,",
+        "this Forest Hare gained",
+        "control over the storm.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "A mole that froze its",
+        "body to adapt to its",
+        "habitat. Its icy claws",
+        "are all the sharper.",
+        ""
+      ],
+      "Translation": [
+        "A mole that froze its",
+        "body to adapt to its",
+        "habitat. Its icy claws",
+        "are all the sharper.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": false,
+      "Original": [
+        "Bears with thick muscles",
+        "and long claws. Novice",
+        "adventurers should avoid",
+        "them at all costs.",
+        ""
+      ],
+      "Translation": [
+        "Bears with thick muscles",
+        "and long claws. Novice",
+        "adventurers should avoid",
+        "them at all costs.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "A vicious bear whose fur",
+        "is matted with blood.",
+        "It is vulnerable while",
+        "readying a deadly strike.",
+        ""
+      ],
+      "Translation": [
+        "A vicious bear whose fur",
+        "is matted with blood.",
+        "It is vulnerable while",
+        "readying a deadly strike.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "A vicious deer with",
+        "immense horns. It strikes",
+        "fear into explorers with",
+        "its cry before attacking.",
+        ""
+      ],
+      "Translation": [
+        "A vicious deer with",
+        "immense horns. It strikes",
+        "fear into explorers with",
+        "its cry before attacking.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": false,
+      "Original": [
+        "A fawn with beautiful fur.",
+        "It seems unthreatening,",
+        "but witnesses speak of",
+        "a parent lurking nearby.",
+        ""
+      ],
+      "Translation": [
+        "A fawn with beautiful fur.",
+        "It seems unthreatening,",
+        "but witnesses speak of",
+        "a parent lurking nearby.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": false,
+      "Original": [
+        "A carnivorous monster",
+        "that roams the highlands.",
+        "It viciously rends its",
+        "prey before eating it.",
+        ""
+      ],
+      "Translation": [
+        "A carnivorous monster",
+        "that roams the highlands.",
+        "It viciously rends its",
+        "prey before eating it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": false,
+      "Original": [
+        "A giant beast that bounds",
+        "across the plains as if",
+        "it owns them. Its child is",
+        "still taller than a man.",
+        ""
+      ],
+      "Translation": [
+        "A giant beast that bounds",
+        "across the plains as if",
+        "it owns them. Its child is",
+        "still taller than a man.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "The poison seeping from",
+        "its tail is so deadly that",
+        "without an antivenin, the",
+        "beast is best avoided.",
+        ""
+      ],
+      "Translation": [
+        "The poison seeping from",
+        "its tail is so deadly that",
+        "without an antivenin, the",
+        "beast is best avoided.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "A large moth naturally",
+        "drawn to battle. The",
+        "scales it spreads affect",
+        "one's nervous system.",
+        ""
+      ],
+      "Translation": [
+        "A large moth naturally",
+        "drawn to battle. The",
+        "scales it spreads affect",
+        "one's nervous system.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "This large, plump,",
+        "flightless bird",
+        "compensates with",
+        "its quick foot speed.",
+        ""
+      ],
+      "Translation": [
+        "This large, plump,",
+        "flightless bird",
+        "compensates with",
+        "its quick foot speed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "Larger than a normal",
+        "Forest Frog, it uses its",
+        "strong leap to direct",
+        "powerful kicks at you.",
+        ""
+      ],
+      "Translation": [
+        "Larger than a normal",
+        "Forest Frog, it uses its",
+        "strong leap to direct",
+        "powerful kicks at you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "A ram beast that wanders",
+        "the Pillars. Looking into",
+        "its red, jewellike eyes",
+        "induces a deep sleep.",
+        ""
+      ],
+      "Translation": [
+        "A ram beast that wanders",
+        "the Pillars. Looking into",
+        "its red, jewellike eyes",
+        "induces a deep sleep.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "The king of insects. The",
+        "sharp sickles on its",
+        "powerful arms can easily",
+        "end an explorer's life.",
+        ""
+      ],
+      "Translation": [
+        "The king of insects. The",
+        "sharp sickles on its",
+        "powerful arms can easily",
+        "end an explorer's life.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": false,
+      "Original": [
+        "A giant turtle whose shell",
+        "is strong as armor. Though",
+        "it is slow, it can charge",
+        "surprisingly quickly.",
+        ""
+      ],
+      "Translation": [
+        "A giant turtle whose shell",
+        "is strong as armor. Though",
+        "it is slow, it can charge",
+        "surprisingly quickly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "An abnormally evolved",
+        "cave bat. Its patrols",
+        "take it through paths",
+        "invisible to the eye.",
+        ""
+      ],
+      "Translation": [
+        "An abnormally evolved",
+        "cave bat. Its patrols",
+        "take it through paths",
+        "invisible to the eye.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": false,
+      "Original": [
+        "This lizard strews poison",
+        "around its lair; when its",
+        "prey is weak, it attacks",
+        "with its deadly tail.",
+        ""
+      ],
+      "Translation": [
+        "This lizard strews poison",
+        "around its lair; when its",
+        "prey is weak, it attacks",
+        "with its deadly tail.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "A giant raptor making its",
+        "home in the mountains.",
+        "It creates gale winds to",
+        "immobilize its prey.",
+        ""
+      ],
+      "Translation": [
+        "A giant raptor making its",
+        "home in the mountains.",
+        "It creates gale winds to",
+        "immobilize its prey.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "A mechanical soldier set",
+        "to eliminate intruders.",
+        "On finding one, it walks",
+        "up silently as death.",
+        ""
+      ],
+      "Translation": [
+        "A mechanical soldier set",
+        "to eliminate intruders.",
+        "On finding one, it walks",
+        "up silently as death.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "A giant chameleon that",
+        "lurks in places where it",
+        "cannot be seen in order",
+        "to ambush its prey.",
+        ""
+      ],
+      "Translation": [
+        "A giant chameleon that",
+        "lurks in places where it",
+        "cannot be seen in order",
+        "to ambush its prey.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": false,
+      "Original": [
+        "A buck with shining golden",
+        "fur. Its habitats are rare",
+        "enough that one does not",
+        "encounter it often.",
+        ""
+      ],
+      "Translation": [
+        "A buck with shining golden",
+        "fur. Its habitats are rare",
+        "enough that one does not",
+        "encounter it often.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "A mysterious sculpture",
+        "with unknown origins. It",
+        "uses a strange smoke to",
+        "negate its own weaknesses.",
+        ""
+      ],
+      "Translation": [
+        "A mysterious sculpture",
+        "with unknown origins. It",
+        "uses a strange smoke to",
+        "negate its own weaknesses.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": false,
+      "Original": [
+        "A giant raptor that flies",
+        "the Windy Plains' skies.",
+        "Novice explorers are no",
+        "match for its might.",
+        ""
+      ],
+      "Translation": [
+        "A giant raptor that flies",
+        "the Windy Plains' skies.",
+        "Novice explorers are no",
+        "match for its might.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": false,
+      "Original": [
+        "A humanoid soldier built",
+        "to annihilate intruders.",
+        "It bisects its targets",
+        "in a single swipe.",
+        ""
+      ],
+      "Translation": [
+        "A humanoid soldier built",
+        "to annihilate intruders.",
+        "It bisects its targets",
+        "in a single swipe.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": false,
+      "Original": [
+        "A mutated giant turtle.",
+        "Its plated shell has",
+        "sharp spikes; none can",
+        "withstand its charges.",
+        ""
+      ],
+      "Translation": [
+        "A mutated giant turtle.",
+        "Its plated shell has",
+        "sharp spikes; none can",
+        "withstand its charges.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": false,
+      "Original": [
+        "Like the Moa, but",
+        "intelligent enough",
+        "to use its feet to kick",
+        "as well as to sprint.",
+        ""
+      ],
+      "Translation": [
+        "Like the Moa, but",
+        "intelligent enough",
+        "to use its feet to kick",
+        "as well as to sprint.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 108,
+      "IsIgnored": false,
+      "Original": [
+        "A blue-furred bear whose",
+        "shining silver claws have",
+        "mauled many explorers to",
+        "death.",
+        ""
+      ],
+      "Translation": [
+        "A blue-furred bear whose",
+        "shining silver claws have",
+        "mauled many explorers to",
+        "death.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 109,
+      "IsIgnored": false,
+      "Original": [
+        "A vicious mantis flying",
+        "the skies with sharp",
+        "sickles at the ready.",
+        ""
+      ],
+      "Translation": [
+        "A vicious mantis flying",
+        "the skies with sharp",
+        "sickles at the ready.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "A vicious man-eating",
+        "flower. Once it weakens",
+        "its prey with toxic gas,",
+        "it freezes and eats it.",
+        ""
+      ],
+      "Translation": [
+        "A vicious man-eating",
+        "flower. Once it weakens",
+        "its prey with toxic gas,",
+        "it freezes and eats it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "Having grown fat from the",
+        "humans it has eaten, it",
+        "shoots out a rain of",
+        "thorns at its prey.",
+        ""
+      ],
+      "Translation": [
+        "Having grown fat from the",
+        "humans it has eaten, it",
+        "shoots out a rain of",
+        "thorns at its prey.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "The leader of dragonflies.",
+        "When any of its retinue",
+        "is defeated, it swings",
+        "its claws, enraged.",
+        ""
+      ],
+      "Translation": [
+        "The leader of dragonflies.",
+        "When any of its retinue",
+        "is defeated, it swings",
+        "its claws, enraged.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "A hellish pumpkin demon.",
+        "It catches explorers off",
+        "guard and then binds",
+        "them with its vines.",
+        ""
+      ],
+      "Translation": [
+        "A hellish pumpkin demon.",
+        "It catches explorers off",
+        "guard and then binds",
+        "them with its vines.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": false,
+      "Original": [
+        "A pumpkin ghost with three",
+        "heads. It is said to be",
+        "the most combative of the",
+        "ghastly pumpkins.",
+        ""
+      ],
+      "Translation": [
+        "A pumpkin ghost with three",
+        "heads. It is said to be",
+        "the most combative of the",
+        "ghastly pumpkins.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": false,
+      "Original": [
+        "An eerie vegetable filled",
+        "with the grudges of the",
+        "dead. It binds its prey",
+        "tightly before the kill.",
+        ""
+      ],
+      "Translation": [
+        "An eerie vegetable filled",
+        "with the grudges of the",
+        "dead. It binds its prey",
+        "tightly before the kill.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": false,
+      "Original": [
+        "The king of all moths.",
+        "Its vibrant colors mark",
+        "the deathly poison",
+        "present in its scales.",
+        ""
+      ],
+      "Translation": [
+        "The king of all moths.",
+        "Its vibrant colors mark",
+        "the deathly poison",
+        "present in its scales.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 117,
+      "IsIgnored": false,
+      "Original": [
+        "A raptor that has ruled",
+        "the skies since ancient",
+        "times. Barring dragons,",
+        "nothing is stronger.",
+        ""
+      ],
+      "Translation": [
+        "A raptor that has ruled",
+        "the skies since ancient",
+        "times. Barring dragons,",
+        "nothing is stronger.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 118,
+      "IsIgnored": false,
+      "Original": [
+        "A Magma Spawn that has",
+        "lost its powers inside",
+        "the frozen cave. In this",
+        "state, it is harmless.",
+        ""
+      ],
+      "Translation": [
+        "A Magma Spawn that has",
+        "lost its powers inside",
+        "the frozen cave. In this",
+        "state, it is harmless.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 119,
+      "IsIgnored": false,
+      "Original": [
+        "A Glacier Spawn that has",
+        "lost its powers inside",
+        "the heated cave. In this",
+        "state, it is harmless.",
+        ""
+      ],
+      "Translation": [
+        "A Glacier Spawn that has",
+        "lost its powers inside",
+        "the heated cave. In this",
+        "state, it is harmless.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": false,
+      "Original": [
+        "A liquid metal monster",
+        "with an electric charge.",
+        "When it senses danger,",
+        "it changes its form.",
+        ""
+      ],
+      "Translation": [
+        "A liquid metal monster",
+        "with an electric charge.",
+        "When it senses danger,",
+        "it changes its form.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "A Magma Beast that has",
+        "lost its powers inside",
+        "the frozen cave. In this",
+        "state, it is harmless.",
+        ""
+      ],
+      "Translation": [
+        "A Magma Beast that has",
+        "lost its powers inside",
+        "the frozen cave. In this",
+        "state, it is harmless.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "A Glacier Beast that has",
+        "lost its powers inside",
+        "the heated cave. In this",
+        "state, it is harmless.",
+        ""
+      ],
+      "Translation": [
+        "A Glacier Beast that has",
+        "lost its powers inside",
+        "the heated cave. In this",
+        "state, it is harmless.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "A baboon that roams the",
+        "Old Forest Mine. Besting",
+        "one in combat is a rite",
+        "of passage for explorers.",
+        ""
+      ],
+      "Translation": [
+        "A baboon that roams the",
+        "Old Forest Mine. Besting",
+        "one in combat is a rite",
+        "of passage for explorers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "A mysterious sculpture",
+        "with unknown origins. It",
+        "seals its enemy's movement",
+        "before passing judgement.",
+        ""
+      ],
+      "Translation": [
+        "A mysterious sculpture",
+        "with unknown origins. It",
+        "seals its enemy's movement",
+        "before passing judgement.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "A floating organism seen",
+        "only rarely. Some say",
+        "that it is a seed from",
+        "Yggdrasil.",
+        ""
+      ],
+      "Translation": [
+        "A floating organism seen",
+        "only rarely. Some say",
+        "that it is a seed from",
+        "Yggdrasil.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "A floating organism seen",
+        "only rarely. It is marked",
+        "by cross-shaped eyes and",
+        "a whimsical nature.",
+        ""
+      ],
+      "Translation": [
+        "A floating organism seen",
+        "only rarely. It is marked",
+        "by cross-shaped eyes and",
+        "a whimsical nature.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "A floating organism seen",
+        "only rarely. In contrast",
+        "to its tough appearance,",
+        "it is soft to the touch.",
+        ""
+      ],
+      "Translation": [
+        "A floating organism seen",
+        "only rarely. In contrast",
+        "to its tough appearance,",
+        "it is soft to the touch.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 128,
+      "IsIgnored": false,
+      "Original": [
+        "A floating organism seen",
+        "only rarely. Encounters",
+        "with it are said to bring",
+        "financial fortune.",
+        ""
+      ],
+      "Translation": [
+        "A floating organism seen",
+        "only rarely. Encounters",
+        "with it are said to bring",
+        "financial fortune.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 129,
+      "IsIgnored": false,
+      "Original": [
+        "A floating organism seen",
+        "only rarely. It is called",
+        "the King of Pookas due",
+        "to its vibrant coat.",
+        ""
+      ],
+      "Translation": [
+        "A floating organism seen",
+        "only rarely. It is called",
+        "the King of Pookas due",
+        "to its vibrant coat.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": false,
+      "Original": [
+        "A Glacier Beast grown",
+        "gigantic over the years.",
+        "Those who encounter it",
+        "have reason to tremble.",
+        ""
+      ],
+      "Translation": [
+        "A Glacier Beast grown",
+        "gigantic over the years.",
+        "Those who encounter it",
+        "have reason to tremble.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "A legendary organism",
+        "sought by many an",
+        "explorer. Truly, it is",
+        "a wonder of the world...",
+        ""
+      ],
+      "Translation": [
+        "A legendary organism",
+        "sought by many an",
+        "explorer. Truly, it is",
+        "a wonder of the world...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 136,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 137,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 138,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 139,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 140,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 147,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 149,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 151,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 152,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 153,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 154,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 156,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 157,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 158,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 159,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 160,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 166,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 167,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 168,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 169,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 170,
+      "IsIgnored": false,
+      "Original": [
+        "A vicious bear whose fur",
+        "is matted with blood.",
+        "It is vulnerable while",
+        "readying a deadly strike.",
+        ""
+      ],
+      "Translation": [
+        "A vicious bear whose fur",
+        "is matted with blood.",
+        "It is vulnerable while",
+        "readying a deadly strike.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": false,
+      "Original": [
+        "A bear ruling over the",
+        "Lush Woodlands' beasts.",
+        "It bristles its fur and",
+        "roars to shake the forest.",
+        ""
+      ],
+      "Translation": [
+        "A bear ruling over the",
+        "Lush Woodlands' beasts.",
+        "It bristles its fur and",
+        "roars to shake the forest.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": false,
+      "Original": [
+        "A strong Hollow that",
+        "attends the Queen. Its",
+        "role is to keep outsiders",
+        "from its liege.",
+        ""
+      ],
+      "Translation": [
+        "A strong Hollow that",
+        "attends the Queen. Its",
+        "role is to keep outsiders",
+        "from its liege.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": false,
+      "Original": [
+        "The mysterious queen of",
+        "the Ravine's Hollows. She",
+        "is her race's progenitor,",
+        "birthing them constantly.",
+        ""
+      ],
+      "Translation": [
+        "The mysterious queen of",
+        "the Ravine's Hollows. She",
+        "is her race's progenitor,",
+        "birthing them constantly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": false,
+      "Original": [
+        "A hero of the Sentinels",
+        "who challenges those who",
+        "come to the village to",
+        "test their strength.",
+        ""
+      ],
+      "Translation": [
+        "A hero of the Sentinels",
+        "who challenges those who",
+        "come to the village to",
+        "test their strength.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": false,
+      "Original": [
+        "A giant lizard also known",
+        "as the Diamond Beast. Its",
+        "scales are hot enough to",
+        "alter the Lair's very air.",
+        ""
+      ],
+      "Translation": [
+        "A giant lizard also known",
+        "as the Diamond Beast. Its",
+        "scales are hot enough to",
+        "alter the Lair's very air.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": false,
+      "Original": [
+        "A drive blade wielder of",
+        "the Empire. His secret",
+        "mission was to save his",
+        "homeland.",
+        ""
+      ],
+      "Translation": [
+        "A drive blade wielder of",
+        "the Empire. His secret",
+        "mission was to save his",
+        "homeland.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 177,
+      "IsIgnored": false,
+      "Original": [
+        "The separated head of the",
+        "Guardian, which can float",
+        "on its own power and self-",
+        "destruct as a last resort.",
+        ""
+      ],
+      "Translation": [
+        "The separated head of the",
+        "Guardian, which can float",
+        "on its own power and self-",
+        "destruct as a last resort.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 178,
+      "IsIgnored": false,
+      "Original": [
+        "The young prince of the",
+        "Empire. In harnessing",
+        "Yggdrasil, he was twisted",
+        "by its unfathomable power.",
+        ""
+      ],
+      "Translation": [
+        "The young prince of the",
+        "Empire. In harnessing",
+        "Yggdrasil, he was twisted",
+        "by its unfathomable power.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 179,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil in human form",
+        "after regaining its power.",
+        "Only the Medium is holding",
+        "back the miasma.",
+        ""
+      ],
+      "Translation": [
+        "Yggdrasil in human form",
+        "after regaining its power.",
+        "Only the Medium is holding",
+        "back the miasma.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 180,
+      "IsIgnored": false,
+      "Original": [
+        "The ravenous maggot left",
+        "by the lost civilization",
+        "as a failsafe should they",
+        "lose control of Yggdrasil.",
+        ""
+      ],
+      "Translation": [
+        "The ravenous maggot left",
+        "by the lost civilization",
+        "as a failsafe should they",
+        "lose control of Yggdrasil.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": false,
+      "Original": [
+        "A strong Hollow that",
+        "attends the Queen. Its",
+        "role is to keep outsiders",
+        "from its liege.",
+        ""
+      ],
+      "Translation": [
+        "A strong Hollow that",
+        "attends the Queen. Its",
+        "role is to keep outsiders",
+        "from its liege.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "IsIgnored": false,
+      "Original": [
+        "A human-like monster of",
+        "the Misty Ravine. It is",
+        "difficult to touch without",
+        "first binding its legs.",
+        ""
+      ],
+      "Translation": [
+        "A human-like monster of",
+        "the Misty Ravine. It is",
+        "difficult to touch without",
+        "first binding its legs.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 183,
+      "IsIgnored": false,
+      "Original": [
+        "A human-like monster of",
+        "the Misty Ravine. It is",
+        "highly intelligent and a",
+        "master of ice magic.",
+        ""
+      ],
+      "Translation": [
+        "A human-like monster of",
+        "the Misty Ravine. It is",
+        "highly intelligent and a",
+        "master of ice magic.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 184,
+      "IsIgnored": false,
+      "Original": [
+        "A scale that releases heat",
+        "as directed by the Boiling",
+        "Lizard. It can be broken",
+        "with an Ice Stake.",
+        ""
+      ],
+      "Translation": [
+        "A scale that releases heat",
+        "as directed by the Boiling",
+        "Lizard. It can be broken",
+        "with an Ice Stake.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 185,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 186,
+      "IsIgnored": false,
+      "Original": [
+        "The Heavenbringer's right",
+        "arm. The symbols it forms",
+        "create phenomena that",
+        "ignore the laws of nature.",
+        ""
+      ],
+      "Translation": [
+        "The Heavenbringer's right",
+        "arm. The symbols it forms",
+        "create phenomena that",
+        "ignore the laws of nature.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 187,
+      "IsIgnored": false,
+      "Original": [
+        "The Heavenbringer's left",
+        "arm. The symbols it forms",
+        "create phenomena that",
+        "distort nature's bounty.",
+        ""
+      ],
+      "Translation": [
+        "The Heavenbringer's left",
+        "arm. The symbols it forms",
+        "create phenomena that",
+        "distort nature's bounty.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 188,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil's head, become",
+        "the Titan. Even asleep,",
+        "the Medium barely holds",
+        "the Titan's power at bay.",
+        ""
+      ],
+      "Translation": [
+        "Yggdrasil's head, become",
+        "the Titan. Even asleep,",
+        "the Medium barely holds",
+        "the Titan's power at bay.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 189,
+      "IsIgnored": false,
+      "Original": [
+        "The distorted result of",
+        "Yggdrasil's power, mutated",
+        "inside the maggot into",
+        "this form.",
+        ""
+      ],
+      "Translation": [
+        "The distorted result of",
+        "Yggdrasil's power, mutated",
+        "inside the maggot into",
+        "this form.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 190,
+      "IsIgnored": false,
+      "Original": [
+        "A gigantic, stone soldier",
+        "revived by the Empire.",
+        "It can change its plating",
+        "to adjust its weaknesses.",
+        ""
+      ],
+      "Translation": [
+        "A gigantic, stone soldier",
+        "revived by the Empire.",
+        "It can change its plating",
+        "to adjust its weaknesses.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 191,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 192,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 193,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 194,
+      "IsIgnored": false,
+      "Original": [
+        "The Savior's right bud.",
+        "Its thrusts draw copious",
+        "blood, giving life to",
+        "truly evil blossoms.",
+        ""
+      ],
+      "Translation": [
+        "The Savior's right bud.",
+        "Its thrusts draw copious",
+        "blood, giving life to",
+        "truly evil blossoms.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 195,
+      "IsIgnored": false,
+      "Original": [
+        "The Savior's left bud.",
+        "Its tip is harder than",
+        "it looks; all that it",
+        "pierces will bleed.",
+        ""
+      ],
+      "Translation": [
+        "The Savior's left bud.",
+        "Its tip is harder than",
+        "it looks; all that it",
+        "pierces will bleed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 196,
+      "IsIgnored": false,
+      "Original": [
+        "The Savior's right claw.",
+        "Those who challenge it",
+        "will have their bravery",
+        "torn away and despair.",
+        ""
+      ],
+      "Translation": [
+        "The Savior's right claw.",
+        "Those who challenge it",
+        "will have their bravery",
+        "torn away and despair.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 197,
+      "IsIgnored": false,
+      "Original": [
+        "The Savior's left claw.",
+        "It seizes on anything",
+        "living to cut it down",
+        "in its prime.",
+        ""
+      ],
+      "Translation": [
+        "The Savior's left claw.",
+        "It seizes on anything",
+        "living to cut it down",
+        "in its prime.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 198,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 199,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 200,
+      "IsIgnored": false,
+      "Original": [
+        "The legendary blue dragon",
+        "spoken of since ancient",
+        "times. None can withstand",
+        "its tripartite attack.",
+        ""
+      ],
+      "Translation": [
+        "The legendary blue dragon",
+        "spoken of since ancient",
+        "times. None can withstand",
+        "its tripartite attack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 201,
+      "IsIgnored": false,
+      "Original": [
+        "A legendary golden dragon",
+        "alive for aeons. Its",
+        "thunderous strength can",
+        "change the very landscape.",
+        ""
+      ],
+      "Translation": [
+        "A legendary golden dragon",
+        "alive for aeons. Its",
+        "thunderous strength can",
+        "change the very landscape.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 202,
+      "IsIgnored": false,
+      "Original": [
+        "A legendary red dragon",
+        "alive for millennia. Even",
+        "hardened explorers prepare",
+        "for death when facing it.",
+        ""
+      ],
+      "Translation": [
+        "A legendary red dragon",
+        "alive for millennia. Even",
+        "hardened explorers prepare",
+        "for death when facing it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 203,
+      "IsIgnored": false,
+      "Original": [
+        "A legendary bird with",
+        "golden feathers, said to",
+        "be capable of shattering",
+        "mountains.",
+        ""
+      ],
+      "Translation": [
+        "A legendary bird with",
+        "golden feathers, said to",
+        "be capable of shattering",
+        "mountains.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 204,
+      "IsIgnored": false,
+      "Original": [
+        "A locust possessed by",
+        "Death. It seals its prey's",
+        "powers and finishes them",
+        "with a strong kick.",
+        ""
+      ],
+      "Translation": [
+        "A locust possessed by",
+        "Death. It seals its prey's",
+        "powers and finishes them",
+        "with a strong kick.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 205,
+      "IsIgnored": false,
+      "Original": [
+        "The most advanced locust",
+        "in the plains. One poses",
+        "little threat, but a",
+        "swarm is troublesome.",
+        ""
+      ],
+      "Translation": [
+        "The most advanced locust",
+        "in the plains. One poses",
+        "little threat, but a",
+        "swarm is troublesome.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 206,
+      "IsIgnored": false,
+      "Original": [
+        "A giant draconic monster",
+        "that lurks in the plain.",
+        "It tortures its prey with",
+        "poison before the kill.",
+        ""
+      ],
+      "Translation": [
+        "A giant draconic monster",
+        "that lurks in the plain.",
+        "It tortures its prey with",
+        "poison before the kill.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 207,
+      "IsIgnored": false,
+      "Original": [
+        "A bison living deep in",
+        "the Pillars. It is very",
+        "pugnacious and attacks",
+        "explorers with its horns.",
+        ""
+      ],
+      "Translation": [
+        "A bison living deep in",
+        "the Pillars. It is very",
+        "pugnacious and attacks",
+        "explorers with its horns.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 208,
+      "IsIgnored": false,
+      "Original": [
+        "A giant mantis with frozen",
+        "sickles. It controls the",
+        "cold, freezing anything in",
+        "order to slice through it.",
+        ""
+      ],
+      "Translation": [
+        "A giant mantis with frozen",
+        "sickles. It controls the",
+        "cold, freezing anything in",
+        "order to slice through it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 209,
+      "IsIgnored": false,
+      "Original": [
+        "A giant turtle evolved in",
+        "a more vicious direction.",
+        "It can easily destroy all",
+        "manner of obstacles.",
+        ""
+      ],
+      "Translation": [
+        "A giant turtle evolved in",
+        "a more vicious direction.",
+        "It can easily destroy all",
+        "manner of obstacles.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 210,
+      "IsIgnored": false,
+      "Original": [
+        "A legendary bird dwelling",
+        "in Yggdrasil's trunk. Its",
+        "task is to carry souls to",
+        "the lands beyond.",
+        ""
+      ],
+      "Translation": [
+        "A legendary bird dwelling",
+        "in Yggdrasil's trunk. Its",
+        "task is to carry souls to",
+        "the lands beyond.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 211,
+      "IsIgnored": false,
+      "Original": [
+        "A lion monster with four",
+        "black horns. Although",
+        "vicious, it acts and",
+        "sleeps as it pleases.",
+        ""
+      ],
+      "Translation": [
+        "A lion monster with four",
+        "black horns. Although",
+        "vicious, it acts and",
+        "sleeps as it pleases.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 212,
+      "IsIgnored": false,
+      "Original": [
+        "An ebon dragon born of",
+        "darkness and descended",
+        "upon the world to return",
+        "the earth to ashes.",
+        ""
+      ],
+      "Translation": [
+        "An ebon dragon born of",
+        "darkness and descended",
+        "upon the world to return",
+        "the earth to ashes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 213,
+      "IsIgnored": false,
+      "Original": [
+        "The king of baboons. All",
+        "who rise against it will",
+        "be mown down by its",
+        "devastating strikes.",
+        ""
+      ],
+      "Translation": [
+        "The king of baboons. All",
+        "who rise against it will",
+        "be mown down by its",
+        "devastating strikes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 214,
+      "IsIgnored": false,
+      "Original": [
+        "A Roller attending the",
+        "Baboon King as a healer.",
+        "It is oddly loyal, but",
+        "still gets thrown around.",
+        ""
+      ],
+      "Translation": [
+        "A Roller attending the",
+        "Baboon King as a healer.",
+        "It is oddly loyal, but",
+        "still gets thrown around.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 215,
+      "IsIgnored": false,
+      "Original": [
+        "A sand-colored dragon that",
+        "spits fiery balls of sand.",
+        "Though it is enormous, its",
+        "wings do carry its weight.",
+        ""
+      ],
+      "Translation": [
+        "A sand-colored dragon that",
+        "spits fiery balls of sand.",
+        "Though it is enormous, its",
+        "wings do carry its weight.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 216,
+      "IsIgnored": false,
+      "Original": [
+        "The leader of chameleons,",
+        "with advanced camouflage.",
+        "Even brave men lose their",
+        "nerve at its sudden lick.",
+        ""
+      ],
+      "Translation": [
+        "The leader of chameleons,",
+        "with advanced camouflage.",
+        "Even brave men lose their",
+        "nerve at its sudden lick.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 217,
+      "IsIgnored": false,
+      "Original": [
+        "Elite minions supporting",
+        "the Chameleon King. They",
+        "employ their camouflage",
+        "to baffle explorers.",
+        ""
+      ],
+      "Translation": [
+        "Elite minions supporting",
+        "the Chameleon King. They",
+        "employ their camouflage",
+        "to baffle explorers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 218,
+      "IsIgnored": false,
+      "Original": [
+        "A human-like monster of",
+        "the Misty Ravine. It is",
+        "difficult to touch without",
+        "first binding its legs.",
+        ""
+      ],
+      "Translation": [
+        "A human-like monster of",
+        "the Misty Ravine. It is",
+        "difficult to touch without",
+        "first binding its legs.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 219,
+      "IsIgnored": false,
+      "Original": [
+        "A baboon in the Old Forest",
+        "Mine that has gone savage.",
+        "Its blind, furious swings",
+        "make it a dangerous enemy.",
+        ""
+      ],
+      "Translation": [
+        "A baboon in the Old Forest",
+        "Mine that has gone savage.",
+        "Its blind, furious swings",
+        "make it a dangerous enemy.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 220,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 221,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 222,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 223,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 224,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 225,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 226,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 227,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 228,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 229,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 230,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 231,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 232,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 233,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 234,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 235,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 236,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 237,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 238,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 239,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 240,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 241,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 242,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 243,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 244,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 245,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 246,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 247,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 248,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 249,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 250,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 251,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 252,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 253,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 254,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 255,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Translation": [
+        "Dummy Description here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

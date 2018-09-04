@@ -1,0 +1,345 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_004",
+  "RelativePath": "Event\\Quest\\QUE_004.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You will take that request? It is from",
+        "Dalla of the Saehrimnir Inn.",
+        "[Page]",
+        "",
+        "She wants someone to retrieve an herb",
+        "called [Color:6][Item:1225][Color:0], which grows on [Color:5]B1F[Color:0]",
+        "of the [Color:5]Lush Woodlands[Color:0].",
+        "[Page]",
+        "",
+        "The [Item:1225] supposedly grows [Color:5]deep in",
+        "the hidden path at the far north of",
+        "B1F[Color:0]. It has a very distinctive scent.",
+        "[Page]",
+        "",
+        "The area can be hard to find, so look",
+        "closely and carefully at your map.",
+        "I shall be awaiting your swift return.",
+        ""
+      ],
+      "Translation": [
+        "You will take that request? It is from",
+        "Dalla of the Saehrimnir Inn.",
+        "[Page]",
+        "",
+        "She wants someone to retrieve an herb",
+        "called [Color:6][Item:1225][Color:0], which grows on [Color:5]B1F[Color:0]",
+        "of the [Color:5]Lush Woodlands[Color:0].",
+        "[Page]",
+        "",
+        "The [Item:1225] supposedly grows [Color:5]deep in",
+        "the hidden path at the far north of",
+        "B1F[Color:0]. It has a very distinctive scent.",
+        "[Page]",
+        "",
+        "The area can be hard to find, so look",
+        "closely and carefully at your map.",
+        "I shall be awaiting your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Just after you accept the request,",
+        "you recall that you already have a",
+        "sample of the [Color:6][Number:0][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to complete the request,",
+        "you can do so now by delivering the",
+        "[Number:0].",
+        ""
+      ],
+      "Translation": [
+        "Just after you accept the request,",
+        "you recall that you already have a",
+        "sample of the [Color:6][Number:0][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to complete the request,",
+        "you can do so now by delivering the",
+        "[Number:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Were you able to get",
+        "some [Color:6][Item:1225][Color:0]? Oh... is this it?",
+        "[Page]",
+        "",
+        "It is a rather... very well, an",
+        "extremely unique scent. Perhaps it",
+        "is simply too strong for my tastes.",
+        "[Page]",
+        "",
+        "Though I admit to being curious as to",
+        "how Dalla plans to use this in a dish.",
+        "[Page]",
+        "",
+        "Maybe I will sample some once I",
+        "deliver it to her. Would you like",
+        "to accompany me there?",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Were you able to get",
+        "some [Color:6][Item:1225][Color:0]? Oh... is this it?",
+        "[Page]",
+        "",
+        "It is a rather... very well, an",
+        "extremely unique scent. Perhaps it",
+        "is simply too strong for my tastes.",
+        "[Page]",
+        "",
+        "Though I admit to being curious as to",
+        "how Dalla plans to use this in a dish.",
+        "[Page]",
+        "",
+        "Maybe I will sample some once I",
+        "deliver it to her. Would you like",
+        "to accompany me there?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "As you explore the hidden path,",
+        "you notice plants at your feet with",
+        "a strange odor.",
+        "[Page]",
+        "",
+        "You suddenly recall the quest having",
+        "to do with retrieving some [Color:6][Item:1225][Color:0],",
+        "an herb with a distinctive scent.",
+        "[Page]",
+        "",
+        "This plant growing at your feet must",
+        "be the very same. You could complete",
+        "the request by gathering some.",
+        ""
+      ],
+      "Translation": [
+        "As you explore the hidden path,",
+        "you notice plants at your feet with",
+        "a strange odor.",
+        "[Page]",
+        "",
+        "You suddenly recall the quest having",
+        "to do with retrieving some [Color:6][Item:1225][Color:0],",
+        "an herb with a distinctive scent.",
+        "[Page]",
+        "",
+        "This plant growing at your feet must",
+        "be the very same. You could complete",
+        "the request by gathering some.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "After carefully wrapping the plants",
+        "up against damage, you go back the",
+        "way you came and deliver them.",
+        ""
+      ],
+      "Translation": [
+        "After carefully wrapping the plants",
+        "up against damage, you go back the",
+        "way you came and deliver them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You are suddenly reminded of the",
+        "request you undertook to deliver",
+        "the [Color:6][Number:0][Color:0]...",
+        "[Page]",
+        "",
+        "It is in your pack even now. If you",
+        "mean to fulfill the request, you must",
+        "be careful not to sell it.",
+        ""
+      ],
+      "Translation": [
+        "You are suddenly reminded of the",
+        "request you undertook to deliver",
+        "the [Color:6][Number:0][Color:0]...",
+        "[Page]",
+        "",
+        "It is in your pack even now. If you",
+        "mean to fulfill the request, you must",
+        "be careful not to sell it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

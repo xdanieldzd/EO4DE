@@ -1,0 +1,3041 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "MIS_003",
+  "RelativePath": "Event\\Mission\\MIS_003.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Just so I understand, both the Titan's",
+        "Heart and Medium's power are needed",
+        "to cure the Sentinels' illness?",
+        "[Page]",
+        "",
+        "And the Medium is already on site,",
+        "doing what she can for them...",
+        "[Page]",
+        "",
+        "It's funny, isn't it? Humans and",
+        "Vessels working together for the",
+        "sake of the Sentinels.",
+        "[Page]",
+        "",
+        "It's an important opportunity to gauge",
+        "whether we can all live in harmony",
+        "with one another in the future.",
+        "[Page]",
+        "",
+        "I'll send along a medical team from",
+        "Tharsis to the Sentinel's village.",
+        "May the Sentinels find a use for them.",
+        "[Page]",
+        "",
+        "As for you, I think I'd like for you",
+        "to head down into the maze and lend",
+        "a hand finding that Titan's Heart.",
+        ""
+      ],
+      "Translation": [
+        "Just so I understand, both the Titan's",
+        "Heart and Medium's power are needed",
+        "to cure the Sentinels' illness?",
+        "[Page]",
+        "",
+        "And the Medium is already on site,",
+        "doing what she can for them...",
+        "[Page]",
+        "",
+        "It's funny, isn't it? Humans and",
+        "Vessels working together for the",
+        "sake of the Sentinels.",
+        "[Page]",
+        "",
+        "It's an important opportunity to gauge",
+        "whether we can all live in harmony",
+        "with one another in the future.",
+        "[Page]",
+        "",
+        "I'll send along a medical team from",
+        "Tharsis to the Sentinel's village.",
+        "May the Sentinels find a use for them.",
+        "[Page]",
+        "",
+        "As for you, I think I'd like for you",
+        "to head down into the maze and lend",
+        "a hand finding that Titan's Heart.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "\"I see. It sounds as if disaster has",
+        "struck... And the situation is still",
+        "in flux. I understand now.",
+        "[Page]",
+        "",
+        "\"There's no guessing at why he has so",
+        "recklessly kidnapped the Medium, but",
+        "we cannot idly dismiss the problem.",
+        "[Page]",
+        "",
+        "\"Tharsis will make every effort to",
+        "recover her. And I hope that you,",
+        "too, will continue to stand with us.\"",
+        ""
+      ],
+      "Translation": [
+        "\"I see. It sounds as if disaster has",
+        "struck... And the situation is still",
+        "in flux. I understand now.",
+        "[Page]",
+        "",
+        "\"There's no guessing at why he has so",
+        "recklessly kidnapped the Medium, but",
+        "we cannot idly dismiss the problem.",
+        "[Page]",
+        "",
+        "\"Tharsis will make every effort to",
+        "recover her. And I hope that you,",
+        "too, will continue to stand with us.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Kibagami, who had been standing in the",
+        "corner of the room, speaks up.",
+        ""
+      ],
+      "Translation": [
+        "Kibagami, who had been standing in the",
+        "corner of the room, speaks up.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "\"Human leader... We owe the Medium a",
+        "deep debt. We Sentinels pledge our",
+        "strength in taking the Medium back.",
+        "[Page]",
+        "",
+        "\"[Guild] Guild, I entrust this",
+        "[Color:6][Item:1437][Color:0] to you.",
+        "[Page]",
+        "",
+        "\"Whenever you wish, you may call upon",
+        "my bushi to be your sword and cut",
+        "through whatever obstacles you face!",
+        "[Page]",
+        "",
+        "\"This [Color:6][Item:1474][Color:0] will help you",
+        "train. If you wish to do so, speak to",
+        "the Sentinel warrior at the bar.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Human leader... We owe the Medium a",
+        "deep debt. We Sentinels pledge our",
+        "strength in taking the Medium back.",
+        "[Page]",
+        "",
+        "\"[Guild] Guild, I entrust this",
+        "[Color:6][Item:1437][Color:0] to you.",
+        "[Page]",
+        "",
+        "\"Whenever you wish, you may call upon",
+        "my bushi to be your sword and cut",
+        "through whatever obstacles you face!",
+        "[Page]",
+        "",
+        "\"This [Color:6][Item:1474][Color:0] will help you",
+        "train. If you wish to do so, speak to",
+        "the Sentinel warrior at the bar.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Bushi can now be registered at",
+        "the Explorers Guild.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Bushi can now be registered at",
+        "the Explorers Guild.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "And [Guild]. I must insist that you",
+        "add me to your guild as well!",
+        "[Page]",
+        "",
+        "I want to help the Medium as much as",
+        "anyone. Please... I beg you!",
+        ""
+      ],
+      "Translation": [
+        "And [Guild]. I must insist that you",
+        "add me to your guild as well!",
+        "[Page]",
+        "",
+        "I want to help the Medium as much as",
+        "anyone. Please... I beg you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Register Kibagami into your guild?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Register Kibagami into your guild?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Kibagami is now a registered member",
+        "of your guild.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Kibagami is now a registered member",
+        "of your guild.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]If you wish to put Kibagami into your",
+        "party, go to the Explorers Guild",
+        "and select \"Formation.\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]If you wish to put Kibagami into your",
+        "party, go to the Explorers Guild",
+        "and select \"Formation.\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your guild is too full to register",
+        "a new member.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you still wish to register Kibagami",
+        "into your guild, make room for him and",
+        "return to the Sentinel village.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your guild is too full to register",
+        "a new member.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you still wish to register Kibagami",
+        "into your guild, make room for him and",
+        "return to the Sentinel village.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Kibagami can be registered into your",
+        "guild whenever you wish.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you later wish to register Kibagami",
+        "into your guild, make room for him and",
+        "return to the Sentinel village.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Kibagami can be registered into your",
+        "guild whenever you wish.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you later wish to register Kibagami",
+        "into your guild, make room for him and",
+        "return to the Sentinel village.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "For you to make such an offer, even",
+        "with your village in such a terrible",
+        "state... I thank you, Sir Kibagami.",
+        "[Page]",
+        "",
+        "Our highest priority now must be to",
+        "secure the Medium's safety. I promise",
+        "to do everything in my power.",
+        ""
+      ],
+      "Translation": [
+        "For you to make such an offer, even",
+        "with your village in such a terrible",
+        "state... I thank you, Sir Kibagami.",
+        "[Page]",
+        "",
+        "Our highest priority now must be to",
+        "secure the Medium's safety. I promise",
+        "to do everything in my power.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "For you to make such an offer, even",
+        "with your village in such a terrible",
+        "state... I thank you, Sir Kibagami.",
+        "[Page]",
+        "",
+        "Though this \"Empire\" with a fleet of",
+        "skyships troubles me...",
+        "[Page]",
+        "",
+        "I expect that Whirlwind is connected",
+        "to the Empire somehow. I will, of",
+        "course, be meeting with them.",
+        "[Page]",
+        "",
+        "All I ask of you is that you escort",
+        "me along the way.",
+        "[Page]",
+        "",
+        "In fact, why don't I make that an",
+        "official mission? I do hope you'll",
+        "be the ones to accept it.",
+        ""
+      ],
+      "Translation": [
+        "For you to make such an offer, even",
+        "with your village in such a terrible",
+        "state... I thank you, Sir Kibagami.",
+        "[Page]",
+        "",
+        "Though this \"Empire\" with a fleet of",
+        "skyships troubles me...",
+        "[Page]",
+        "",
+        "I expect that Whirlwind is connected",
+        "to the Empire somehow. I will, of",
+        "course, be meeting with them.",
+        "[Page]",
+        "",
+        "All I ask of you is that you escort",
+        "me along the way.",
+        "[Page]",
+        "",
+        "In fact, why don't I make that an",
+        "official mission? I do hope you'll",
+        "be the ones to accept it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "As you cautiously tread through",
+        "the maze, you encounter a Sentinel",
+        "warrior.",
+        "[Page]",
+        "",
+        "When you speak to him, you find that",
+        "he is headed to the [Enemy1:175]'s",
+        "hall, just as you are.",
+        "[Page]",
+        "",
+        "\"How are you holding up? Have you had",
+        "any trouble with those fiery scales?",
+        "[Page]",
+        "",
+        "\"Oh, didn't you know? Those metallic",
+        "red things are the [Enemy1:175]'s scales.",
+        "[Page]",
+        "",
+        "\"It scatters its scales like that to",
+        "make the cave more comfortable for",
+        "itself. You should take one of these.",
+        "[Page]",
+        "",
+        "\"Don't worry about me! I have a few",
+        "spares. Be careful as you go!\"",
+        ""
+      ],
+      "Translation": [
+        "As you cautiously tread through",
+        "the maze, you encounter a Sentinel",
+        "warrior.",
+        "[Page]",
+        "",
+        "When you speak to him, you find that",
+        "he is headed to the [Enemy1:175]'s",
+        "hall, just as you are.",
+        "[Page]",
+        "",
+        "\"How are you holding up? Have you had",
+        "any trouble with those fiery scales?",
+        "[Page]",
+        "",
+        "\"Oh, didn't you know? Those metallic",
+        "red things are the [Enemy1:175]'s scales.",
+        "[Page]",
+        "",
+        "\"It scatters its scales like that to",
+        "make the cave more comfortable for",
+        "itself. You should take one of these.",
+        "[Page]",
+        "",
+        "\"Don't worry about me! I have a few",
+        "spares. Be careful as you go!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "As you cautiously tread through the",
+        "labyrinth, you encounter a Sentinel",
+        "warrior.",
+        "[Page]",
+        "",
+        "On conversing with him, you discover",
+        "he is bound for the [Enemy1:175]'s",
+        "hall, just as you are.",
+        "[Page]",
+        "",
+        "\"You must be the outsiders Kibagami",
+        "spoke of. It's an honor to meet you.",
+        "[Page]",
+        "",
+        "\"I am headed for the lower reaches",
+        "as well, but my supplies are low and",
+        "I am considering heading back.",
+        "[Page]",
+        "",
+        "\"But let me give you this first.",
+        "It's a special bell which wards off",
+        "monsters. Use it wisely...\"",
+        ""
+      ],
+      "Translation": [
+        "As you cautiously tread through the",
+        "labyrinth, you encounter a Sentinel",
+        "warrior.",
+        "[Page]",
+        "",
+        "On conversing with him, you discover",
+        "he is bound for the [Enemy1:175]'s",
+        "hall, just as you are.",
+        "[Page]",
+        "",
+        "\"You must be the outsiders Kibagami",
+        "spoke of. It's an honor to meet you.",
+        "[Page]",
+        "",
+        "\"I am headed for the lower reaches",
+        "as well, but my supplies are low and",
+        "I am considering heading back.",
+        "[Page]",
+        "",
+        "\"But let me give you this first.",
+        "It's a special bell which wards off",
+        "monsters. Use it wisely...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "You see stairs ahead that lead down",
+        "into B3F.",
+        "[Page]",
+        "",
+        "A Sentinel is kneeling before the",
+        "stairs, gauging the situation below",
+        "before descending.",
+        ""
+      ],
+      "Translation": [
+        "You see stairs ahead that lead down",
+        "into B3F.",
+        "[Page]",
+        "",
+        "A Sentinel is kneeling before the",
+        "stairs, gauging the situation below",
+        "before descending.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "\"Kibagami went on alone. My leg was",
+        "hurt in the last battle... It is",
+        "frustrating, but I must turn back.",
+        "[Page]",
+        "",
+        "\"If you are going onward, take this",
+        "in my stead. It won't last long, but",
+        "it might matter when it counts.",
+        "[Page]",
+        "",
+        "\"All I ask in return is that you add",
+        "your strength to Kibagami's.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Kibagami went on alone. My leg was",
+        "hurt in the last battle... It is",
+        "frustrating, but I must turn back.",
+        "[Page]",
+        "",
+        "\"If you are going onward, take this",
+        "in my stead. It won't last long, but",
+        "it might matter when it counts.",
+        "[Page]",
+        "",
+        "\"All I ask in return is that you add",
+        "your strength to Kibagami's.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "When you enter the room, it feels a",
+        "bit cooler than the rest of the maze",
+        "due to pools of water on either side.",
+        "[Page]",
+        "",
+        "In the center stands Kibagami, the",
+        "ox-headed leader of the Sentinels.",
+        "He notices you and nods silently.",
+        ""
+      ],
+      "Translation": [
+        "When you enter the room, it feels a",
+        "bit cooler than the rest of the maze",
+        "due to pools of water on either side.",
+        "[Page]",
+        "",
+        "In the center stands Kibagami, the",
+        "ox-headed leader of the Sentinels.",
+        "He notices you and nods silently.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"You've come, I see. I was waiting",
+        "for the other warriors to arrive...",
+        "[Page]",
+        "",
+        "\"But you have beaten them all here!",
+        "It seems my bushi are undertrained...",
+        "This won't do.",
+        "[Page]",
+        "",
+        "\"Let me give you this as a reward for",
+        "your speed. It's something I picked",
+        "up on the way here.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You've come, I see. I was waiting",
+        "for the other warriors to arrive...",
+        "[Page]",
+        "",
+        "\"But you have beaten them all here!",
+        "It seems my bushi are undertrained...",
+        "This won't do.",
+        "[Page]",
+        "",
+        "\"Let me give you this as a reward for",
+        "your speed. It's something I picked",
+        "up on the way here.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "\"But I now have a favor to ask. Will",
+        "you let me join you?",
+        "[Page]",
+        "",
+        "\"I can't waste any more time here.",
+        "I beg you!\" Kibagami bows deeply.",
+        ""
+      ],
+      "Translation": [
+        "\"But I now have a favor to ask. Will",
+        "you let me join you?",
+        "[Page]",
+        "",
+        "\"I can't waste any more time here.",
+        "I beg you!\" Kibagami bows deeply.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will you allow Kibagami to join?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will you allow Kibagami to join?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "\"Fantastic! There seem to be",
+        "[Color:5][Enemy1:96][Color:0]s up ahead. Let us brace",
+        "ourselves and go forth!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Fantastic! There seem to be",
+        "[Color:5][Enemy1:96][Color:0]s up ahead. Let us brace",
+        "ourselves and go forth!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Kibagami joins your party as a guest.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Kibagami joins your party as a guest.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Guests only stay in your party during",
+        "specific dungeons.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]In Kibagami's case, he will fight",
+        "at your side only on B3F of the",
+        "Golden Lair.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Guests only stay in your party during",
+        "specific dungeons.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]In Kibagami's case, he will fight",
+        "at your side only on B3F of the",
+        "Golden Lair.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hmm... very well, then. Some",
+        "[Color:5][Enemy1:96][Color:0]s await you further",
+        "ahead. Brace yourselves and move on!",
+        "[Page]",
+        "",
+        "[Color:3]If you return here, you can add",
+        "Kibagami to your party as a guest",
+        "again.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Guests only stay in your party during",
+        "specific dungeons.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]In Kibagami's case, he will fight",
+        "at your side only on B3F of the",
+        "Golden Lair.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "\"Hmm... very well, then. Some",
+        "[Color:5][Enemy1:96][Color:0]s await you further",
+        "ahead. Brace yourselves and move on!",
+        "[Page]",
+        "",
+        "[Color:3]If you return here, you can add",
+        "Kibagami to your party as a guest",
+        "again.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Guests only stay in your party during",
+        "specific dungeons.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]In Kibagami's case, he will fight",
+        "at your side only on B3F of the",
+        "Golden Lair.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Kibagami is here, painstakingly",
+        "maintaining his weapons. When he",
+        "notices you, he speaks up again.",
+        "[Page]",
+        "",
+        "\"Are you going on ahead? I beg you,",
+        "won't you let me join you?\"",
+        ""
+      ],
+      "Translation": [
+        "Kibagami is here, painstakingly",
+        "maintaining his weapons. When he",
+        "notices you, he speaks up again.",
+        "[Page]",
+        "",
+        "\"Are you going on ahead? I beg you,",
+        "won't you let me join you?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Kibagami joins your party as a guest.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Kibagami joins your party as a guest.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "Preferring to hurry on ahead, you",
+        "politely decline his offer.",
+        "[Page]",
+        "",
+        "Though should you run into trouble",
+        "ahead, you suppose you could always",
+        "return here and ask for his help.",
+        ""
+      ],
+      "Translation": [
+        "Preferring to hurry on ahead, you",
+        "politely decline his offer.",
+        "[Page]",
+        "",
+        "Though should you run into trouble",
+        "ahead, you suppose you could always",
+        "return here and ask for his help.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "As you about to go deeper into B3F in",
+        "search of the Titan's Heart, you hear",
+        "a voice call to you from behind.",
+        ""
+      ],
+      "Translation": [
+        "As you about to go deeper into B3F in",
+        "search of the Titan's Heart, you hear",
+        "a voice call to you from behind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "\"[Guild], wait! Won't you allow me",
+        "to join you on your search? Can't you",
+        "use someone of my strength?\"",
+        ""
+      ],
+      "Translation": [
+        "\"[Guild], wait! Won't you allow me",
+        "to join you on your search? Can't you",
+        "use someone of my strength?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "As you move through the secret path",
+        "obscured by rocks, a large figure",
+        "appears before you.",
+        "[Page]",
+        "",
+        "An extraordinarly tense moment passes",
+        "before you realize who it is and sigh",
+        "with relief.",
+        ""
+      ],
+      "Translation": [
+        "As you move through the secret path",
+        "obscured by rocks, a large figure",
+        "appears before you.",
+        "[Page]",
+        "",
+        "An extraordinarly tense moment passes",
+        "before you realize who it is and sigh",
+        "with relief.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "\"I've been waiting for you, [Guild].",
+        "I had a feeling you'd use this secret",
+        "passage, so I waited here for you.",
+        "[Page]",
+        "",
+        "\"Won't you allow me to join you on",
+        "your search? Can't you use someone",
+        "of my strength?\"",
+        ""
+      ],
+      "Translation": [
+        "\"I've been waiting for you, [Guild].",
+        "I had a feeling you'd use this secret",
+        "passage, so I waited here for you.",
+        "[Page]",
+        "",
+        "\"Won't you allow me to join you on",
+        "your search? Can't you use someone",
+        "of my strength?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "You part with Kibagami at the exit",
+        "from B3F of the Golden Lair.",
+        "[Page]",
+        "",
+        "When you return, you have no doubt",
+        "that he will be waiting, ready to",
+        "fight by your side again.",
+        "[Page]",
+        "",
+        "You may find him in the room down",
+        "the stairs if you wish to ask him to",
+        "rejoin your party.",
+        ""
+      ],
+      "Translation": [
+        "You part with Kibagami at the exit",
+        "from B3F of the Golden Lair.",
+        "[Page]",
+        "",
+        "When you return, you have no doubt",
+        "that he will be waiting, ready to",
+        "fight by your side again.",
+        "[Page]",
+        "",
+        "You may find him in the room down",
+        "the stairs if you wish to ask him to",
+        "rejoin your party.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "You notice a fierce blast of hot air",
+        "blowing out from the cracks of the",
+        "door before you.",
+        "[Page]",
+        "",
+        "You gasp at the tremendous heat...",
+        "It is safe to assume that the",
+        "[Enemy1:175] waits past this point.",
+        "[Page]",
+        "",
+        "You check everything once more to",
+        "ensure you are prepared to step into",
+        "the nest of this cave's master.",
+        "[Page]",
+        "",
+        "For as soon as you are, you shall",
+        "open the door and unleash the full",
+        "force of Guild [Guild]!",
+        ""
+      ],
+      "Translation": [
+        "You notice a fierce blast of hot air",
+        "blowing out from the cracks of the",
+        "door before you.",
+        "[Page]",
+        "",
+        "You gasp at the tremendous heat...",
+        "It is safe to assume that the",
+        "[Enemy1:175] waits past this point.",
+        "[Page]",
+        "",
+        "You check everything once more to",
+        "ensure you are prepared to step into",
+        "the nest of this cave's master.",
+        "[Page]",
+        "",
+        "For as soon as you are, you shall",
+        "open the door and unleash the full",
+        "force of Guild [Guild]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "Through the opened door is a monster",
+        "with flaming, charred skin.",
+        "[Page]",
+        "",
+        "As soon as it notices your presence,",
+        "it flexes its enormous body.",
+        ""
+      ],
+      "Translation": [
+        "Through the opened door is a monster",
+        "with flaming, charred skin.",
+        "[Page]",
+        "",
+        "As soon as it notices your presence,",
+        "it flexes its enormous body.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "\"The [Enemy1:175] rips out its own",
+        "scales to penetrate the natural energy",
+        "here and gain heat from the cave.",
+        "[Page]",
+        "",
+        "\"What that means is that it doesn't",
+        "like the cold at all. Do you see the",
+        "unusually large scale further in?",
+        "[Page]",
+        "",
+        "\"If we destroy that, the room will be",
+        "cooled, preventing it from bringing",
+        "its full power to bear!\"",
+        ""
+      ],
+      "Translation": [
+        "\"The [Enemy1:175] rips out its own",
+        "scales to penetrate the natural energy",
+        "here and gain heat from the cave.",
+        "[Page]",
+        "",
+        "\"What that means is that it doesn't",
+        "like the cold at all. Do you see the",
+        "unusually large scale further in?",
+        "[Page]",
+        "",
+        "\"If we destroy that, the room will be",
+        "cooled, preventing it from bringing",
+        "its full power to bear!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "Now that the monster is in sight, you",
+        "can see that the metal shards in your",
+        "path on the way here were its scales.",
+        "[Page]",
+        "",
+        "Be careful, for what you do with the",
+        "scales piercing this room could",
+        "decide the outcome of this battle!",
+        ""
+      ],
+      "Translation": [
+        "Now that the monster is in sight, you",
+        "can see that the metal shards in your",
+        "path on the way here were its scales.",
+        "[Page]",
+        "",
+        "Be careful, for what you do with the",
+        "scales piercing this room could",
+        "decide the outcome of this battle!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "No sooner do you reach towards the",
+        "entwined roots than the [Enemy1:175]",
+        "roars a challenge.",
+        "[Page]",
+        "",
+        "It will take some time to check this",
+        "pillar-like root system to your",
+        "satisfaction.",
+        "[Page]",
+        "",
+        "Should the [Enemy1:175] attack you",
+        "then, you would not go unscathed...",
+        "You must dispatch it first!",
+        ""
+      ],
+      "Translation": [
+        "No sooner do you reach towards the",
+        "entwined roots than the [Enemy1:175]",
+        "roars a challenge.",
+        "[Page]",
+        "",
+        "It will take some time to check this",
+        "pillar-like root system to your",
+        "satisfaction.",
+        "[Page]",
+        "",
+        "Should the [Enemy1:175] attack you",
+        "then, you would not go unscathed...",
+        "You must dispatch it first!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "After slaying the [Enemy1:175],",
+        "you step further into the cavern.",
+        ""
+      ],
+      "Translation": [
+        "After slaying the [Enemy1:175],",
+        "you step further into the cavern.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "\"Good going, [Guild]. You really",
+        "showed that thing who's boss.\"",
+        "[Page]",
+        "",
+        "Was that Whirlwind's voice...?",
+        "[Page]",
+        "",
+        "He seems to have snuck in while you",
+        "were fighting.",
+        "[Page]",
+        "",
+        "\"Sorry I couldn't help out, but it",
+        "seemed like you had it covered.",
+        "[Page]",
+        "",
+        "\"Anyway, look over there. Isn't that",
+        "the [Color:6][Item:1435][Color:0]?",
+        "[Page]",
+        "",
+        "\"You beat the [Enemy1:175], so it's",
+        "only fair that you be the ones to",
+        "give it to the Sentinels.\"",
+        "[Page]",
+        "",
+        "With Whirlwind urging you on, you",
+        "reach for the fist-sized red gem",
+        "decorating the entwined roots.",
+        "[Page]",
+        "",
+        "This, it seems, is the [Color:6][Item:1435][Color:0].",
+        "Though despite the name, it does not",
+        "appear to literally be an organ.",
+        ""
+      ],
+      "Translation": [
+        "\"Good going, [Guild]. You really",
+        "showed that thing who's boss.\"",
+        "[Page]",
+        "",
+        "Was that Whirlwind's voice...?",
+        "[Page]",
+        "",
+        "He seems to have snuck in while you",
+        "were fighting.",
+        "[Page]",
+        "",
+        "\"Sorry I couldn't help out, but it",
+        "seemed like you had it covered.",
+        "[Page]",
+        "",
+        "\"Anyway, look over there. Isn't that",
+        "the [Color:6][Item:1435][Color:0]?",
+        "[Page]",
+        "",
+        "\"You beat the [Enemy1:175], so it's",
+        "only fair that you be the ones to",
+        "give it to the Sentinels.\"",
+        "[Page]",
+        "",
+        "With Whirlwind urging you on, you",
+        "reach for the fist-sized red gem",
+        "decorating the entwined roots.",
+        "[Page]",
+        "",
+        "This, it seems, is the [Color:6][Item:1435][Color:0].",
+        "Though despite the name, it does not",
+        "appear to literally be an organ.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "As you contemplate the Heart, the door",
+        "before you opens and a Sentinel that",
+        "seems to be Kibagami enters.",
+        "[Page]",
+        "",
+        "His praise for your great deed is",
+        "rather effusive.",
+        ""
+      ],
+      "Translation": [
+        "As you contemplate the Heart, the door",
+        "before you opens and a Sentinel that",
+        "seems to be Kibagami enters.",
+        "[Page]",
+        "",
+        "His praise for your great deed is",
+        "rather effusive.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "\"Without your strength, we could never",
+        "have slayed the [Enemy1:175].",
+        "[Page]",
+        "",
+        "\"I will go on ahead to tell the rest",
+        "of my people the good news.",
+        "[Page]",
+        "",
+        "\"Follow as quickly as you can! They",
+        "will all be waiting to see you!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Without your strength, we could never",
+        "have slayed the [Enemy1:175].",
+        "[Page]",
+        "",
+        "\"I will go on ahead to tell the rest",
+        "of my people the good news.",
+        "[Page]",
+        "",
+        "\"Follow as quickly as you can! They",
+        "will all be waiting to see you!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Kibagami leaves the party.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Kibagami leaves the party.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "You recall the stone tablet, which",
+        "you have always found in the deepest",
+        "reaches of the labyrinths.",
+        ""
+      ],
+      "Translation": [
+        "You recall the stone tablet, which",
+        "you have always found in the deepest",
+        "reaches of the labyrinths.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "With high hopes, you check the",
+        "altar... but the stone tablet is",
+        "nowhere to be seen!",
+        ""
+      ],
+      "Translation": [
+        "With high hopes, you check the",
+        "altar... but the stone tablet is",
+        "nowhere to be seen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "\"What's wrong? Huh... so you'd always",
+        "found a stone tablet on those altars",
+        "before?",
+        "[Page]",
+        "",
+        "\"Guess that means we have no way of",
+        "getting closer to Yggdrasil yet,\"",
+        "Whirlwind says glumly.",
+        "[Page]",
+        "",
+        "\"Eh, we'll cross that bridge later.",
+        "See you back at the Sentinels'",
+        "village, okay?\"",
+        ""
+      ],
+      "Translation": [
+        "\"What's wrong? Huh... so you'd always",
+        "found a stone tablet on those altars",
+        "before?",
+        "[Page]",
+        "",
+        "\"Guess that means we have no way of",
+        "getting closer to Yggdrasil yet,\"",
+        "Whirlwind says glumly.",
+        "[Page]",
+        "",
+        "\"Eh, we'll cross that bridge later.",
+        "See you back at the Sentinels'",
+        "village, okay?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "With that, Whirlwind leaves you alone",
+        "in the large cavern.",
+        ""
+      ],
+      "Translation": [
+        "With that, Whirlwind leaves you alone",
+        "in the large cavern.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "The giant monster of unimaginable",
+        "power spews scorching flames, as if",
+        "breathing out its own inner essence.",
+        "[Page]",
+        "",
+        "But even these hellish flames cannot",
+        "melt your resolve, after all the",
+        "trials you have overcome thus far!",
+        "[Page]",
+        "",
+        "After suffering too many deep wounds",
+        "to continue, the [Enemy1:175] at",
+        "last gives a death cry and collapses.",
+        "[Page]",
+        "",
+        "You have slain the master of this",
+        "labyrinth; the most powerful monster",
+        "here! Your chest swells with pride.",
+        "[Page]",
+        "",
+        "But your task is not quite complete.",
+        "You must still find the [Color:5]Titan's Heart[Color:0]",
+        "somewhere in this spacious cavern.",
+        "[Page]",
+        "",
+        "Even now, the children of the Sentinel",
+        "village are struggling against their",
+        "illness. You must not waste time...",
+        ""
+      ],
+      "Translation": [
+        "The giant monster of unimaginable",
+        "power spews scorching flames, as if",
+        "breathing out its own inner essence.",
+        "[Page]",
+        "",
+        "But even these hellish flames cannot",
+        "melt your resolve, after all the",
+        "trials you have overcome thus far!",
+        "[Page]",
+        "",
+        "After suffering too many deep wounds",
+        "to continue, the [Enemy1:175] at",
+        "last gives a death cry and collapses.",
+        "[Page]",
+        "",
+        "You have slain the master of this",
+        "labyrinth; the most powerful monster",
+        "here! Your chest swells with pride.",
+        "[Page]",
+        "",
+        "But your task is not quite complete.",
+        "You must still find the [Color:5]Titan's Heart[Color:0]",
+        "somewhere in this spacious cavern.",
+        "[Page]",
+        "",
+        "Even now, the children of the Sentinel",
+        "village are struggling against their",
+        "illness. You must not waste time...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. How goes your search?",
+        "[Page]",
+        "",
+        "What's this? You've slain the Boiling",
+        "Lizard!? Then you've found the [Color:6]Titan's",
+        "Heart[Color:0]...? Ah! Splendid!",
+        "[Page]",
+        "",
+        "You must go and deliver it to them",
+        "at once! I'm sure they're waiting",
+        "eagerly for it.",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. How goes your search?",
+        "[Page]",
+        "",
+        "What's this? You've slain the Boiling",
+        "Lizard!? Then you've found the [Color:6]Titan's",
+        "Heart[Color:0]...? Ah! Splendid!",
+        "[Page]",
+        "",
+        "You must go and deliver it to them",
+        "at once! I'm sure they're waiting",
+        "eagerly for it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "You visit the ward of sick Sentinel",
+        "children.",
+        "[Page]",
+        "",
+        "The Medium is here, telling them",
+        "stories of wondrous happenings in",
+        "her town.",
+        "[Page]",
+        "",
+        "The children listen raptly to her",
+        "stories with wide, shining eyes.",
+        ""
+      ],
+      "Translation": [
+        "You visit the ward of sick Sentinel",
+        "children.",
+        "[Page]",
+        "",
+        "The Medium is here, telling them",
+        "stories of wondrous happenings in",
+        "her town.",
+        "[Page]",
+        "",
+        "The children listen raptly to her",
+        "stories with wide, shining eyes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh!\" she says upon noticing you.",
+        "\"Welcome back, everyone! I was just",
+        "telling the children of how we met.",
+        "[Page]",
+        "",
+        "\"What's this...? You have the [Color:6]Titan's",
+        "Heart[Color:0]? But that's incredible! Oh, is",
+        "this it!?\"",
+        "[Page]",
+        "",
+        "The Medium breathes a cry of surprise",
+        "and the Sentinel children look at you",
+        "with hope in their eyes.",
+        "[Page]",
+        "",
+        "You hand the [Color:6][Item:1435][Color:0] to the",
+        "Medium.",
+        "[Page]",
+        "",
+        "She cradles the large gem in her hands",
+        "and softly closes her eyes.",
+        "[Page]",
+        "",
+        "\"I know this. It originates from",
+        "Yggdrasil. It is a part of it, just",
+        "as I am...\"",
+        "[Page]",
+        "",
+        "She dandles the Sentinel child nearest",
+        "to her on her knee.",
+        "[Page]",
+        "",
+        "\"Don't be scared. All will be well.",
+        "Just leave it in my hands.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh!\" she says upon noticing you.",
+        "\"Welcome back, everyone! I was just",
+        "telling the children of how we met.",
+        "[Page]",
+        "",
+        "\"What's this...? You have the [Color:6]Titan's",
+        "Heart[Color:0]? But that's incredible! Oh, is",
+        "this it!?\"",
+        "[Page]",
+        "",
+        "The Medium breathes a cry of surprise",
+        "and the Sentinel children look at you",
+        "with hope in their eyes.",
+        "[Page]",
+        "",
+        "You hand the [Color:6][Item:1435][Color:0] to the",
+        "Medium.",
+        "[Page]",
+        "",
+        "She cradles the large gem in her hands",
+        "and softly closes her eyes.",
+        "[Page]",
+        "",
+        "\"I know this. It originates from",
+        "Yggdrasil. It is a part of it, just",
+        "as I am...\"",
+        "[Page]",
+        "",
+        "She dandles the Sentinel child nearest",
+        "to her on her knee.",
+        "[Page]",
+        "",
+        "\"Don't be scared. All will be well.",
+        "Just leave it in my hands.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": false,
+      "Original": [
+        "The light that the gem radiates seeps",
+        "down through the Medium's fingers.",
+        "[Page]",
+        "",
+        "When its warm glow reaches the child,",
+        "the vines and resin covering him",
+        "begin to fall off!",
+        ""
+      ],
+      "Translation": [
+        "The light that the gem radiates seeps",
+        "down through the Medium's fingers.",
+        "[Page]",
+        "",
+        "When its warm glow reaches the child,",
+        "the vines and resin covering him",
+        "begin to fall off!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "\"Impossible...!\"",
+        "[Page]",
+        "",
+        "Kibagami gasps with surprise as the",
+        "child on the Medium's knee evinces",
+        "a swift and noticeable recovery!",
+        "[Page]",
+        "",
+        "\"Such power... is this the miracle we",
+        "had hoped for from the [Color:6][Item:1435][Color:0]",
+        "and the Medium?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Impossible...!\"",
+        "[Page]",
+        "",
+        "Kibagami gasps with surprise as the",
+        "child on the Medium's knee evinces",
+        "a swift and noticeable recovery!",
+        "[Page]",
+        "",
+        "\"Such power... is this the miracle we",
+        "had hoped for from the [Color:6][Item:1435][Color:0]",
+        "and the Medium?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "No sooner does the Medium let down",
+        "one recovered child than she picks up",
+        "another and begins to pray again.",
+        "[Page]",
+        "",
+        "Beads of sweat form on her forehead,",
+        "but she pays them no heed and works",
+        "without rest.",
+        ""
+      ],
+      "Translation": [
+        "No sooner does the Medium let down",
+        "one recovered child than she picks up",
+        "another and begins to pray again.",
+        "[Page]",
+        "",
+        "Beads of sweat form on her forehead,",
+        "but she pays them no heed and works",
+        "without rest.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": false,
+      "Original": [
+        "\"Amazing. But I'd expect nothing less",
+        "from Yggdrasil's own Medium...\"",
+        "[Page]",
+        "",
+        "Even Whirlwind, who brought the",
+        "Medium here from Vessel Town, cannot",
+        "hide his surprise at the sight.",
+        ""
+      ],
+      "Translation": [
+        "\"Amazing. But I'd expect nothing less",
+        "from Yggdrasil's own Medium...\"",
+        "[Page]",
+        "",
+        "Even Whirlwind, who brought the",
+        "Medium here from Vessel Town, cannot",
+        "hide his surprise at the sight.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": false,
+      "Original": [
+        "Once all the Sentinels have been cured",
+        "of their illness, the proceedings move",
+        "on to a feast in honor of the event.",
+        "[Page]",
+        "",
+        "You and the Sentinels were not the",
+        "only ones participating in the search",
+        "for the heart.",
+        "[Page]",
+        "",
+        "Explorers from Tharsis, and even a few",
+        "Vessels, had come to the Golden Lair",
+        "to do their part.",
+        "[Page]",
+        "",
+        "The walls between races break down",
+        "as you all eat from the same pot,",
+        "chatting and laughing with each other.",
+        "[Page]",
+        "",
+        "As your guild is considered heroes for",
+        "retrieving the [Color:6][Item:1435][Color:0], a long",
+        "line of Sentinels pays their respects.",
+        ""
+      ],
+      "Translation": [
+        "Once all the Sentinels have been cured",
+        "of their illness, the proceedings move",
+        "on to a feast in honor of the event.",
+        "[Page]",
+        "",
+        "You and the Sentinels were not the",
+        "only ones participating in the search",
+        "for the heart.",
+        "[Page]",
+        "",
+        "Explorers from Tharsis, and even a few",
+        "Vessels, had come to the Golden Lair",
+        "to do their part.",
+        "[Page]",
+        "",
+        "The walls between races break down",
+        "as you all eat from the same pot,",
+        "chatting and laughing with each other.",
+        "[Page]",
+        "",
+        "As your guild is considered heroes for",
+        "retrieving the [Color:6][Item:1435][Color:0], a long",
+        "line of Sentinels pays their respects.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": false,
+      "Original": [
+        "\"We owe our lives to you outsiders.",
+        "Humans, Vessels, Sentinels...",
+        "[Page]",
+        "",
+        "\"Only through our combined effort did",
+        "the hunt succeed. I thank the fates",
+        "for bringing us together.\"",
+        ""
+      ],
+      "Translation": [
+        "\"We owe our lives to you outsiders.",
+        "Humans, Vessels, Sentinels...",
+        "[Page]",
+        "",
+        "\"Only through our combined effort did",
+        "the hunt succeed. I thank the fates",
+        "for bringing us together.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "The feast continues... Humans fill",
+        "Vessel goblets and the Sentinels bring",
+        "an endless supply of their cooking.",
+        "[Page]",
+        "",
+        "A number of Sentinel children come to",
+        "you, begging to hear tales of your",
+        "exploits in the labyrinth.",
+        "[Page]",
+        "",
+        "Laughter and merrymaking ring out,",
+        "filling the ample cavern.",
+        ""
+      ],
+      "Translation": [
+        "The feast continues... Humans fill",
+        "Vessel goblets and the Sentinels bring",
+        "an endless supply of their cooking.",
+        "[Page]",
+        "",
+        "A number of Sentinel children come to",
+        "you, begging to hear tales of your",
+        "exploits in the labyrinth.",
+        "[Page]",
+        "",
+        "Laughter and merrymaking ring out,",
+        "filling the ample cavern.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "\"Terrible news, master! Whirlwind took",
+        "the [Color:6][Item:1435][Color:0] and left!\"",
+        "[Page]",
+        "",
+        "\"He had the Medium with him as well!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Terrible news, master! Whirlwind took",
+        "the [Color:6][Item:1435][Color:0] and left!\"",
+        "[Page]",
+        "",
+        "\"He had the Medium with him as well!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "Kibagami gasps with astonishment.",
+        "[Page]",
+        "",
+        "It seems that Whirlwind appeared near",
+        "the exit of the Sentinels' village",
+        "with the Medium.",
+        "[Page]",
+        "",
+        "A young Sentinel, suspicious of the",
+        "situation, stopped him. At first, the",
+        "explorer was cooperative...",
+        "[Page]",
+        "",
+        "But when the Sentinel realized he had",
+        "the [Color:6][Item:1435][Color:0], Whirlwind suddenly",
+        "drew a large sword from his bag.",
+        "[Page]",
+        "",
+        "The young Sentinel was not mortally",
+        "wounded and alerted his comrades",
+        "before collapsing.",
+        ""
+      ],
+      "Translation": [
+        "Kibagami gasps with astonishment.",
+        "[Page]",
+        "",
+        "It seems that Whirlwind appeared near",
+        "the exit of the Sentinels' village",
+        "with the Medium.",
+        "[Page]",
+        "",
+        "A young Sentinel, suspicious of the",
+        "situation, stopped him. At first, the",
+        "explorer was cooperative...",
+        "[Page]",
+        "",
+        "But when the Sentinel realized he had",
+        "the [Color:6][Item:1435][Color:0], Whirlwind suddenly",
+        "drew a large sword from his bag.",
+        "[Page]",
+        "",
+        "The young Sentinel was not mortally",
+        "wounded and alerted his comrades",
+        "before collapsing.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "\"The Medium did not seem to resist,",
+        "but it was clear that something was",
+        "wrong...",
+        "[Page]",
+        "",
+        "\"As unbelievable as it sounds, we",
+        "think that our guest has kidnapped",
+        "the Medium!\"",
+        ""
+      ],
+      "Translation": [
+        "\"The Medium did not seem to resist,",
+        "but it was clear that something was",
+        "wrong...",
+        "[Page]",
+        "",
+        "\"As unbelievable as it sounds, we",
+        "think that our guest has kidnapped",
+        "the Medium!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "\"Why would the traveller do such a",
+        "thing...?\" Kibagami's stunned shock",
+        "lasts only for a moment.",
+        "[Page]",
+        "",
+        "He stands and raises his voice.",
+        "\"Everyone, pursue the traveller! We",
+        "must reclaim the Medium and the heart!\"",
+        "[Page]",
+        "",
+        "\"[Guild]. I will be satisfied with",
+        "nothing less than an explanation from",
+        "the traveller himself.\"",
+        "[Page]",
+        "",
+        "\"I know that you cannot leave the",
+        "Medium be, either. Let me join you.",
+        "I will wait at your flying basket!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Why would the traveller do such a",
+        "thing...?\" Kibagami's stunned shock",
+        "lasts only for a moment.",
+        "[Page]",
+        "",
+        "He stands and raises his voice.",
+        "\"Everyone, pursue the traveller! We",
+        "must reclaim the Medium and the heart!\"",
+        "[Page]",
+        "",
+        "\"[Guild]. I will be satisfied with",
+        "nothing less than an explanation from",
+        "the traveller himself.\"",
+        "[Page]",
+        "",
+        "\"I know that you cannot leave the",
+        "Medium be, either. Let me join you.",
+        "I will wait at your flying basket!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "Kibagami does not wait for your answer",
+        "before running off toward the Golden",
+        "Lair's entrance.",
+        ""
+      ],
+      "Translation": [
+        "Kibagami does not wait for your answer",
+        "before running off toward the Golden",
+        "Lair's entrance.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": false,
+      "Original": [
+        "\"Medium!\" Kibagami calls out. \"Forgive",
+        "me for doubting your abilities. You",
+        "are truly a friend to the Sentinels.\"",
+        "[Page]",
+        "",
+        "Kibagami then turns to you and bows",
+        "deeply.",
+        "[Page]",
+        "",
+        "\"And you, the [Guild] Guild. It is",
+        "through you that I understand the",
+        "generosity and power of humankind.",
+        "[Page]",
+        "",
+        "\"As leader of the bushi, I promise",
+        "nothing shall come between Sentinels",
+        "and humans!\"",
+        "[Page]",
+        "",
+        "Finally, he turns to Whirlwind. \"My",
+        "thanks to you as well, traveller!",
+        "You brought our salvation to us.\"",
+        "[Page]",
+        "",
+        "\"I hope to entertain you all today as",
+        "best we can in return. Sentinels!",
+        "Let us prepare them a feast!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Medium!\" Kibagami calls out. \"Forgive",
+        "me for doubting your abilities. You",
+        "are truly a friend to the Sentinels.\"",
+        "[Page]",
+        "",
+        "Kibagami then turns to you and bows",
+        "deeply.",
+        "[Page]",
+        "",
+        "\"And you, the [Guild] Guild. It is",
+        "through you that I understand the",
+        "generosity and power of humankind.",
+        "[Page]",
+        "",
+        "\"As leader of the bushi, I promise",
+        "nothing shall come between Sentinels",
+        "and humans!\"",
+        "[Page]",
+        "",
+        "Finally, he turns to Whirlwind. \"My",
+        "thanks to you as well, traveller!",
+        "You brought our salvation to us.\"",
+        "[Page]",
+        "",
+        "\"I hope to entertain you all today as",
+        "best we can in return. Sentinels!",
+        "Let us prepare them a feast!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "...After a while, you notice that",
+        "Whirlwind and the Medium are not",
+        "taking part in the festivities.",
+        "[Page]",
+        "",
+        "Puzzled by this, you bring it up to",
+        "Kibagami.",
+        "[Page]",
+        "",
+        "But it seems he has no explanation",
+        "either. \"You are right,\" he says.",
+        "\"Maybe they are resting somewhere?\"",
+        "[Page]",
+        "",
+        "While the two of you consider this,",
+        "a highly flustered Sentinel soldier",
+        "rushes to Kibagami's side.",
+        ""
+      ],
+      "Translation": [
+        "...After a while, you notice that",
+        "Whirlwind and the Medium are not",
+        "taking part in the festivities.",
+        "[Page]",
+        "",
+        "Puzzled by this, you bring it up to",
+        "Kibagami.",
+        "[Page]",
+        "",
+        "But it seems he has no explanation",
+        "either. \"You are right,\" he says.",
+        "\"Maybe they are resting somewhere?\"",
+        "[Page]",
+        "",
+        "While the two of you consider this,",
+        "a highly flustered Sentinel soldier",
+        "rushes to Kibagami's side.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": false,
+      "Original": [
+        "So the Sentinels' disease has been",
+        "treated? Well done, everyone!",
+        "[Page]",
+        "",
+        "Hm? Something new has come up?",
+        "Whirlwind made off with the Medium?",
+        "Haha, surely you jest.",
+        "[Page]",
+        "",
+        "You do, er... Oh, dear. Wh-Why would",
+        "he do such a thing?",
+        "[Page]",
+        "",
+        "I must know the details! Please, omit",
+        "nothing when turning in your mission",
+        "report.",
+        ""
+      ],
+      "Translation": [
+        "So the Sentinels' disease has been",
+        "treated? Well done, everyone!",
+        "[Page]",
+        "",
+        "Hm? Something new has come up?",
+        "Whirlwind made off with the Medium?",
+        "Haha, surely you jest.",
+        "[Page]",
+        "",
+        "You do, er... Oh, dear. Wh-Why would",
+        "he do such a thing?",
+        "[Page]",
+        "",
+        "I must know the details! Please, omit",
+        "nothing when turning in your mission",
+        "report.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "So the Sentinels' disease has been",
+        "treated? Well done, everyone!",
+        "[Page]",
+        "",
+        "Hm? Something new has come up?",
+        "Whirlwind made off with the Medium?",
+        "Haha, surely you jest.",
+        "[Page]",
+        "",
+        "And these \"battleships\" that were part",
+        "of an \"Empire\" you encountered...",
+        "Isn't this joke going a bit far?",
+        "[Page]",
+        "",
+        "This, erm, is... a... Oh, dear.",
+        "H-How did this happen!?",
+        "[Page]",
+        "",
+        "I must know the details! Please, omit",
+        "nothing when turning in your mission",
+        "report.",
+        ""
+      ],
+      "Translation": [
+        "So the Sentinels' disease has been",
+        "treated? Well done, everyone!",
+        "[Page]",
+        "",
+        "Hm? Something new has come up?",
+        "Whirlwind made off with the Medium?",
+        "Haha, surely you jest.",
+        "[Page]",
+        "",
+        "And these \"battleships\" that were part",
+        "of an \"Empire\" you encountered...",
+        "Isn't this joke going a bit far?",
+        "[Page]",
+        "",
+        "This, erm, is... a... Oh, dear.",
+        "H-How did this happen!?",
+        "[Page]",
+        "",
+        "I must know the details! Please, omit",
+        "nothing when turning in your mission",
+        "report.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "Why did you leave without filing",
+        "your mission report!?",
+        "[Page]",
+        "",
+        "If you pursued the Medium's kidnapper",
+        "and encountered Imperial battleships",
+        "who wish to parley with me...",
+        "[Page]",
+        "",
+        "Surely these things are worthy of",
+        "mention in a report!",
+        "[Page]",
+        "",
+        "File your report, I will review it,",
+        "and we can proceed from there.",
+        ""
+      ],
+      "Translation": [
+        "Why did you leave without filing",
+        "your mission report!?",
+        "[Page]",
+        "",
+        "If you pursued the Medium's kidnapper",
+        "and encountered Imperial battleships",
+        "who wish to parley with me...",
+        "[Page]",
+        "",
+        "Surely these things are worthy of",
+        "mention in a report!",
+        "[Page]",
+        "",
+        "File your report, I will review it,",
+        "and we can proceed from there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, if it isn't the [Guild] Guild!\"",
+        "You hear someone calling you in the",
+        "city square.",
+        "[Page]",
+        "",
+        "You turn to find the guildmaster of",
+        "the Explorers Guild standing there.",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, if it isn't the [Guild] Guild!\"",
+        "You hear someone calling you in the",
+        "city square.",
+        "[Page]",
+        "",
+        "You turn to find the guildmaster of",
+        "the Explorers Guild standing there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": false,
+      "Original": [
+        "\"I was looking for you. We've been",
+        "seeing more skilled explorers since",
+        "you brought that [Color:6][Item:1434][Color:0].",
+        "[Page]",
+        "",
+        "\"I owe it all to you. And because of",
+        "that, you'll find some new equipment",
+        "for your skyship as thanks.",
+        "[Page]",
+        "",
+        "\"Go to the city gates. That's where",
+        "I left your [Color:6][Item:2192][Color:0].",
+        "[Page]",
+        "",
+        "\"The Sacred Mountains are chockablock",
+        "with tornadoes... but with that thing,",
+        "you'll have smooth sailing.\"",
+        ""
+      ],
+      "Translation": [
+        "\"I was looking for you. We've been",
+        "seeing more skilled explorers since",
+        "you brought that [Color:6][Item:1434][Color:0].",
+        "[Page]",
+        "",
+        "\"I owe it all to you. And because of",
+        "that, you'll find some new equipment",
+        "for your skyship as thanks.",
+        "[Page]",
+        "",
+        "\"Go to the city gates. That's where",
+        "I left your [Color:6][Item:2192][Color:0].",
+        "[Page]",
+        "",
+        "\"The Sacred Mountains are chockablock",
+        "with tornadoes... but with that thing,",
+        "you'll have smooth sailing.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "You thank the guildmaster, who nods",
+        "and leaves with aplomb.",
+        ""
+      ],
+      "Translation": [
+        "You thank the guildmaster, who nods",
+        "and leaves with aplomb.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed into the depths of the",
+        "Golden Lair, you encounter a set of",
+        "unfamiliar faces.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed into the depths of the",
+        "Golden Lair, you encounter a set of",
+        "unfamiliar faces.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "\"You are Guild [Guild], correct?",
+        "The path ahead leads to a dead end.\"",
+        "The group is composed of Vessels.",
+        "[Page]",
+        "",
+        "\"We came here alongside the Medium.",
+        "We wished to put our talents to use.",
+        "[Page]",
+        "",
+        "\"But even after hearing their legend,",
+        "we do not understand it. Why do they",
+        "see Yggdrasil as an evil thing?\"",
+        ""
+      ],
+      "Translation": [
+        "\"You are Guild [Guild], correct?",
+        "The path ahead leads to a dead end.\"",
+        "The group is composed of Vessels.",
+        "[Page]",
+        "",
+        "\"We came here alongside the Medium.",
+        "We wished to put our talents to use.",
+        "[Page]",
+        "",
+        "\"But even after hearing their legend,",
+        "we do not understand it. Why do they",
+        "see Yggdrasil as an evil thing?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "They tell you that the monsters at",
+        "this depth are formidable, and they",
+        "will be regrouping at Vessel Town.",
+        "[Page]",
+        "",
+        "Before they go, they mention their",
+        "plans to train at a small cave",
+        "[Color:5]northeast in the Sacred Mountains[Color:0]...",
+        ""
+      ],
+      "Translation": [
+        "They tell you that the monsters at",
+        "this depth are formidable, and they",
+        "will be regrouping at Vessel Town.",
+        "[Page]",
+        "",
+        "Before they go, they mention their",
+        "plans to train at a small cave",
+        "[Color:5]northeast in the Sacred Mountains[Color:0]...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

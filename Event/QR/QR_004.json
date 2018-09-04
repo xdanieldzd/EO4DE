@@ -1,0 +1,2279 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_004",
+  "RelativePath": "Event\\QR\\QR_004.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, this season has come once more!",
+        "Oh... This will be your first time",
+        "in the hunting tournament, yes?",
+        "[Page]",
+        "",
+        "It is something of a festival that",
+        "the Guildmaster holds to develop",
+        "the skills of Tharsis' explorers.",
+        "[Page]",
+        "",
+        "You must slay many of the specified",
+        "monster and compare your final tally",
+        "with the other guilds.",
+        ""
+      ],
+      "Translation": [
+        "Ah, this season has come once more!",
+        "Oh... This will be your first time",
+        "in the hunting tournament, yes?",
+        "[Page]",
+        "",
+        "It is something of a festival that",
+        "the Guildmaster holds to develop",
+        "the skills of Tharsis' explorers.",
+        "[Page]",
+        "",
+        "You must slay many of the specified",
+        "monster and compare your final tally",
+        "with the other guilds.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Good luck. I am not supposed to take",
+        "sides, but I hope you find victory.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Good luck. I am not supposed to take",
+        "sides, but I hope you find victory.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Yarakahna... pah. Never has there been",
+        "a guild so stuffed with cretins. The",
+        "[Guild] Guild would be safer...",
+        "[Page]",
+        "",
+        "O-Oh! When did you arrive? Ah, the",
+        "request, yes? That is correct. It is",
+        "a monster hunting job.",
+        ""
+      ],
+      "Translation": [
+        "Yarakahna... pah. Never has there been",
+        "a guild so stuffed with cretins. The",
+        "[Guild] Guild would be safer...",
+        "[Page]",
+        "",
+        "O-Oh! When did you arrive? Ah, the",
+        "request, yes? That is correct. It is",
+        "a monster hunting job.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Now listen. You absolutely must emerge",
+        "victorious in this. I have... wagered",
+        "a considerable sum and...",
+        "[Page]",
+        "",
+        "*cough* Oh my, have I caught a cold?",
+        "Er, haha... Well, then, I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Now listen. You absolutely must emerge",
+        "victorious in this. I have... wagered",
+        "a considerable sum and...",
+        "[Page]",
+        "",
+        "*cough* Oh my, have I caught a cold?",
+        "Er, haha... Well, then, I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "That shrill harpy... Acting so high",
+        "and mighty because she sponsors a",
+        "strong guild... Oh, the request?",
+        "[Page]",
+        "",
+        "It is a hunting tournament. You will",
+        "enter, yes? The owner of a different",
+        "establishment just came here to boast!",
+        "[Page]",
+        "",
+        "This tournament is a competition",
+        "between explorers, but also between",
+        "proprietresses. And I will not lose...",
+        ""
+      ],
+      "Translation": [
+        "That shrill harpy... Acting so high",
+        "and mighty because she sponsors a",
+        "strong guild... Oh, the request?",
+        "[Page]",
+        "",
+        "It is a hunting tournament. You will",
+        "enter, yes? The owner of a different",
+        "establishment just came here to boast!",
+        "[Page]",
+        "",
+        "This tournament is a competition",
+        "between explorers, but also between",
+        "proprietresses. And I will not lose...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "I am relying on you, [Guild] Guild.",
+        "The reputation of my establishment",
+        "depends on your efforts.",
+        ""
+      ],
+      "Translation": [
+        "I am relying on you, [Guild] Guild.",
+        "The reputation of my establishment",
+        "depends on your efforts.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Are you curious about that request?",
+        "You are explorers, so naturally I",
+        "assume that you are.",
+        "[Page]",
+        "",
+        "The Guildmaster is holding a hunting",
+        "tournament. Your kill tally will be",
+        "compared with that of other guilds.",
+        ""
+      ],
+      "Translation": [
+        "Are you curious about that request?",
+        "You are explorers, so naturally I",
+        "assume that you are.",
+        "[Page]",
+        "",
+        "The Guildmaster is holding a hunting",
+        "tournament. Your kill tally will be",
+        "compared with that of other guilds.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Well then, good luck. Do not let",
+        "those other guilds get the best of",
+        "you! I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Well then, good luck. Do not let",
+        "those other guilds get the best of",
+        "you! I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": true,
+      "Original": [
+        "デファインを作るためのダミーだから",
+        "気にしなくていいわ。",
+        ""
+      ],
+      "Translation": [
+        "デファインを作るためのダミーだから",
+        "気にしなくていいわ。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "デファインを作るためのダミーだから",
+        "気にしなくていいわ。",
+        ""
+      ],
+      "Translation": [
+        "デファインを作るためのダミーだから",
+        "気にしなくていいわ。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "デファインを作るためのダミーだから",
+        "気にしなくていいわ。",
+        ""
+      ],
+      "Translation": [
+        "デファインを作るためのダミーだから",
+        "気にしなくていいわ。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. How was your first",
+        "hunting tournament?",
+        "[Page]",
+        "",
+        "You may not have won the grand",
+        "prize, but the Guildmaster left",
+        "a consolation prize for you.",
+        "[Page]",
+        "",
+        "You did your best, I am sure.",
+        "But next time, try and win...!",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. How was your first",
+        "hunting tournament?",
+        "[Page]",
+        "",
+        "You may not have won the grand",
+        "prize, but the Guildmaster left",
+        "a consolation prize for you.",
+        "[Page]",
+        "",
+        "You did your best, I am sure.",
+        "But next time, try and win...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. It seems your results",
+        "were adequate. \"Adequate\" accurately",
+        "describes my feelings as well.",
+        "[Page]",
+        "",
+        "Still, you did your best, I am sure.",
+        "Simply try harder next time. Here is",
+        "your consolation prize.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. It seems your results",
+        "were adequate. \"Adequate\" accurately",
+        "describes my feelings as well.",
+        "[Page]",
+        "",
+        "Still, you did your best, I am sure.",
+        "Simply try harder next time. Here is",
+        "your consolation prize.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. It seems your results",
+        "were adequate. \"Adequate\" accurately",
+        "describes my feelings as well.",
+        "[Page]",
+        "",
+        "Still, you did your best, I am sure.",
+        "Simply try harder next time. Here is",
+        "your consolation prize.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. It seems your results",
+        "were adequate. \"Adequate\" accurately",
+        "describes my feelings as well.",
+        "[Page]",
+        "",
+        "Still, you did your best, I am sure.",
+        "Simply try harder next time. Here is",
+        "your consolation prize.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. It seems your results",
+        "were adequate.",
+        "[Page]",
+        "",
+        "Here is your consolation prize.",
+        "[Page]",
+        "",
+        "You did your best, I am sure.",
+        "But next time, try and win...!",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. It seems your results",
+        "were adequate.",
+        "[Page]",
+        "",
+        "Here is your consolation prize.",
+        "[Page]",
+        "",
+        "You did your best, I am sure.",
+        "But next time, try and win...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I heard that you took",
+        "third place...",
+        "[Page]",
+        "",
+        "That is an impressive result for your",
+        "first time. The Guildmaster was most",
+        "surprised as well.",
+        "[Page]",
+        "",
+        "Here is the third place prize. There",
+        "is no need to be modest... You have",
+        "earned this. Well done.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I heard that you took",
+        "third place...",
+        "[Page]",
+        "",
+        "That is an impressive result for your",
+        "first time. The Guildmaster was most",
+        "surprised as well.",
+        "[Page]",
+        "",
+        "Here is the third place prize. There",
+        "is no need to be modest... You have",
+        "earned this. Well done.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I heard that you took",
+        "third place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... The Guildmaster has",
+        "a supplementary prize for you.",
+        "[Page]",
+        "",
+        "And since you took third, my own",
+        "wagers paid out... Hm? Oh, never",
+        "mind that.",
+        "[Page]",
+        "",
+        "Well done. I shall have even higher",
+        "expectations of you next time...!",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I heard that you took",
+        "third place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... The Guildmaster has",
+        "a supplementary prize for you.",
+        "[Page]",
+        "",
+        "And since you took third, my own",
+        "wagers paid out... Hm? Oh, never",
+        "mind that.",
+        "[Page]",
+        "",
+        "Well done. I shall have even higher",
+        "expectations of you next time...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I heard that you took",
+        "third place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... The Guildmaster has",
+        "a supplementary prize for you.",
+        "[Page]",
+        "",
+        "You were so close, though... I nearly",
+        "had that bitter harridan cut down",
+        "to size...",
+        "[Page]",
+        "",
+        "In any case, well done. Make sure you",
+        "rest well tonight, for I shall surely",
+        "have more work for you soon.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I heard that you took",
+        "third place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... The Guildmaster has",
+        "a supplementary prize for you.",
+        "[Page]",
+        "",
+        "You were so close, though... I nearly",
+        "had that bitter harridan cut down",
+        "to size...",
+        "[Page]",
+        "",
+        "In any case, well done. Make sure you",
+        "rest well tonight, for I shall surely",
+        "have more work for you soon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I heard that you took",
+        "third place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... The Guildmaster has",
+        "a supplementary prize for you.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I heard that you took",
+        "third place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... The Guildmaster has",
+        "a supplementary prize for you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "I again thank you for your hard work.",
+        "Make sure you rest well tonight.",
+        ""
+      ],
+      "Translation": [
+        "I again thank you for your hard work.",
+        "Make sure you rest well tonight.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I heard that you won",
+        "second place...",
+        "[Page]",
+        "",
+        "That is an amazing result for your",
+        "first time. The Guildmaster had high",
+        "praise for you too.",
+        "[Page]",
+        "",
+        "Here is your promised reward. Ah,",
+        "that second-place prize... It is",
+        "quite magnificent.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I heard that you won",
+        "second place...",
+        "[Page]",
+        "",
+        "That is an amazing result for your",
+        "first time. The Guildmaster had high",
+        "praise for you too.",
+        "[Page]",
+        "",
+        "Here is your promised reward. Ah,",
+        "that second-place prize... It is",
+        "quite magnificent.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I heard that you won",
+        "second place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... The Guildmaster has",
+        "a supplementary prize for you.",
+        "[Page]",
+        "",
+        "And since you won second, my own",
+        "wagers paid out... Hm? Oh, never",
+        "mind that.",
+        "[Page]",
+        "",
+        "Well done. I shall have even higher",
+        "expectations of you next time...!",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I heard that you won",
+        "second place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... The Guildmaster has",
+        "a supplementary prize for you.",
+        "[Page]",
+        "",
+        "And since you won second, my own",
+        "wagers paid out... Hm? Oh, never",
+        "mind that.",
+        "[Page]",
+        "",
+        "Well done. I shall have even higher",
+        "expectations of you next time...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I heard that you won",
+        "second place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... The Guildmaster has",
+        "a supplementary prize for you.",
+        "[Page]",
+        "",
+        "You were so close, though... I nearly",
+        "had that bitter harridan cut down",
+        "to size...",
+        "[Page]",
+        "",
+        "In any case, well done. Make sure you",
+        "rest well tonight, for I shall surely",
+        "have more work for you soon.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I heard that you won",
+        "second place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... The Guildmaster has",
+        "a supplementary prize for you.",
+        "[Page]",
+        "",
+        "You were so close, though... I nearly",
+        "had that bitter harridan cut down",
+        "to size...",
+        "[Page]",
+        "",
+        "In any case, well done. Make sure you",
+        "rest well tonight, for I shall surely",
+        "have more work for you soon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I heard that you won",
+        "second place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... I am proud of you.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I heard that you won",
+        "second place...",
+        "[Page]",
+        "",
+        "Congratulations. That is the [Guild]",
+        "Guild I know... I am proud of you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "I again thank you for your hard work.",
+        "Make sure you rest well tonight.",
+        ""
+      ],
+      "Translation": [
+        "I again thank you for your hard work.",
+        "Make sure you rest well tonight.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Ah! You're back! Welcome!",
+        "[Page]",
+        "",
+        "Congratulations on earning first",
+        "place! You are truly unparalleled",
+        "among explorers!",
+        "[Page]",
+        "",
+        "I have the first-place prize for you",
+        "from the Guildmaster. It's quite",
+        "magnificent to behold...",
+        ""
+      ],
+      "Translation": [
+        "Ah! You're back! Welcome!",
+        "[Page]",
+        "",
+        "Congratulations on earning first",
+        "place! You are truly unparalleled",
+        "among explorers!",
+        "[Page]",
+        "",
+        "I have the first-place prize for you",
+        "from the Guildmaster. It's quite",
+        "magnificent to behold...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Ah! You're back! Welcome!",
+        "[Page]",
+        "",
+        "Congratulations on earning first",
+        "place! You are truly unparalleled",
+        "among explorers! I am so pleased...",
+        "[Page]",
+        "",
+        "In fact, for you, everything in this",
+        "establishment is on the house today!",
+        "Come now... enjoy yourselves!",
+        ""
+      ],
+      "Translation": [
+        "Ah! You're back! Welcome!",
+        "[Page]",
+        "",
+        "Congratulations on earning first",
+        "place! You are truly unparalleled",
+        "among explorers! I am so pleased...",
+        "[Page]",
+        "",
+        "In fact, for you, everything in this",
+        "establishment is on the house today!",
+        "Come now... enjoy yourselves!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Ah! You're back! Welcome!",
+        "[Page]",
+        "",
+        "Did you see the sign in front that",
+        "said \"Bar of Champions\"? I made it as",
+        "quickly as I could to celebrate!",
+        "[Page]",
+        "",
+        "I'm so proud of you that I could",
+        "burst through the ceiling!",
+        ""
+      ],
+      "Translation": [
+        "Ah! You're back! Welcome!",
+        "[Page]",
+        "",
+        "Did you see the sign in front that",
+        "said \"Bar of Champions\"? I made it as",
+        "quickly as I could to celebrate!",
+        "[Page]",
+        "",
+        "I'm so proud of you that I could",
+        "burst through the ceiling!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Ah! You're back! Welcome!",
+        "[Page]",
+        "",
+        "The entire city is abuzz over your",
+        "first-place win on your first time",
+        "in the hunting tournament.",
+        "[Page]",
+        "",
+        "That is the [Guild] Guild I know!",
+        "I think there are no explorers in",
+        "Tharsis more skilled than you.",
+        ""
+      ],
+      "Translation": [
+        "Ah! You're back! Welcome!",
+        "[Page]",
+        "",
+        "The entire city is abuzz over your",
+        "first-place win on your first time",
+        "in the hunting tournament.",
+        "[Page]",
+        "",
+        "That is the [Guild] Guild I know!",
+        "I think there are no explorers in",
+        "Tharsis more skilled than you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "When you reach the [Color:5][Location][Color:0],",
+        "as requested, a soldier on standby",
+        "hails you.",
+        ""
+      ],
+      "Translation": [
+        "When you reach the [Color:5][Location][Color:0],",
+        "as requested, a soldier on standby",
+        "hails you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"You are the [Guild] Guild who",
+        "entered from the Dancing Peacock,",
+        "correct?",
+        ""
+      ],
+      "Translation": [
+        "\"You are the [Guild] Guild who",
+        "entered from the Dancing Peacock,",
+        "correct?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "\"This hunting tournament is open to",
+        "all explorers of Tharsis. Each bar",
+        "sends its own representative guild.",
+        "[Page]",
+        "",
+        "\"Your targets are the [Color:5][Enemy2:0][Color:0]",
+        "and [Color:5][Enemy2:1][Color:0]. Defeat as many",
+        "of them as you can on this floor.",
+        "[Page]",
+        "",
+        "\"Since the tournament is for explorers",
+        "to pit their skill against each other,",
+        "there is a ranking system involved.",
+        "[Page]",
+        "",
+        "\"It's determined by the total number",
+        "of both types of monster defeated.",
+        "Do your best to stay on top.",
+        "[Page]",
+        "",
+        "[Color:5]\"If you leave this floor through any",
+        "method, your tally is fixed for the",
+        "purposes of the tournament.",
+        "[Color:0][Page]",
+        "",
+        "\"If the tally is less than 10 at that",
+        "time, you are considered to have",
+        "failed the request, so be careful.",
+        "[Page]",
+        "",
+        "\"Once the request is over, head to",
+        "the Explorers Guild and ask the",
+        "Guildmaster about your ranking.",
+        "[Page]",
+        "",
+        "\"That covers the rules. Any questions?",
+        "If not, I'll signal for the tournament",
+        "to begin.\"",
+        ""
+      ],
+      "Translation": [
+        "\"This hunting tournament is open to",
+        "all explorers of Tharsis. Each bar",
+        "sends its own representative guild.",
+        "[Page]",
+        "",
+        "\"Your targets are the [Color:5][Enemy2:0][Color:0]",
+        "and [Color:5][Enemy2:1][Color:0]. Defeat as many",
+        "of them as you can on this floor.",
+        "[Page]",
+        "",
+        "\"Since the tournament is for explorers",
+        "to pit their skill against each other,",
+        "there is a ranking system involved.",
+        "[Page]",
+        "",
+        "\"It's determined by the total number",
+        "of both types of monster defeated.",
+        "Do your best to stay on top.",
+        "[Page]",
+        "",
+        "[Color:5]\"If you leave this floor through any",
+        "method, your tally is fixed for the",
+        "purposes of the tournament.",
+        "[Color:0][Page]",
+        "",
+        "\"If the tally is less than 10 at that",
+        "time, you are considered to have",
+        "failed the request, so be careful.",
+        "[Page]",
+        "",
+        "\"Once the request is over, head to",
+        "the Explorers Guild and ask the",
+        "Guildmaster about your ranking.",
+        "[Page]",
+        "",
+        "\"That covers the rules. Any questions?",
+        "If not, I'll signal for the tournament",
+        "to begin.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Begin the tournament?[Color:0]",
+        "Begin",
+        "Ask for the rules again",
+        "Not yet",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Begin the tournament?[Color:0]",
+        "Begin",
+        "Ask for the rules again",
+        "Not yet",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "\"You seem eager to get started.",
+        "Well then, head on out!\"",
+        ""
+      ],
+      "Translation": [
+        "\"You seem eager to get started.",
+        "Well then, head on out!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier encourages you on as you",
+        "proceed into the labyrinth in search",
+        "of the specified monsters...",
+        ""
+      ],
+      "Translation": [
+        "The soldier encourages you on as you",
+        "proceed into the labyrinth in search",
+        "of the specified monsters...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "\"This will be a fierce fight. It's",
+        "good to make sure you're prepared.",
+        "Come talk to me again when you are.\"",
+        ""
+      ],
+      "Translation": [
+        "\"This will be a fierce fight. It's",
+        "good to make sure you're prepared.",
+        "Come talk to me again when you are.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "\"Are you ready now? If there are no",
+        "problems, I'll signal the tournament",
+        "to begin...\"",
+        ""
+      ],
+      "Translation": [
+        "\"Are you ready now? If there are no",
+        "problems, I'll signal the tournament",
+        "to begin...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "As you head to your skyship, a soldier",
+        "halts you.",
+        ""
+      ],
+      "Translation": [
+        "As you head to your skyship, a soldier",
+        "halts you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're the [Guild] Guild, right?",
+        "If you leave now, it'll conclude",
+        "the request.",
+        "[Page]",
+        "",
+        "\"If you don't mind having your tally",
+        "set where it is, go ahead and leave.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You're the [Guild] Guild, right?",
+        "If you leave now, it'll conclude",
+        "the request.",
+        "[Page]",
+        "",
+        "\"If you don't mind having your tally",
+        "set where it is, go ahead and leave.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're the [Guild] Guild, right?",
+        "You haven't reached the minimum",
+        "tally of 10 monsters yet.",
+        "[Page]",
+        "",
+        "\"If you leave now, the request will",
+        "be considered a failure, so make",
+        "sure you really want to go.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You're the [Guild] Guild, right?",
+        "You haven't reached the minimum",
+        "tally of 10 monsters yet.",
+        "[Page]",
+        "",
+        "\"If you leave now, the request will",
+        "be considered a failure, so make",
+        "sure you really want to go.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "With that, the soldier returns to",
+        "his post.",
+        "[Page]",
+        "",
+        "You are free to leave this floor or",
+        "head back to continue the tournament.",
+        ""
+      ],
+      "Translation": [
+        "With that, the soldier returns to",
+        "his post.",
+        "[Page]",
+        "",
+        "You are free to leave this floor or",
+        "head back to continue the tournament.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "Ignoring the soldier's warning, you",
+        "leave the labyrinth. The request has",
+        "thus failed...!",
+        "[Page]",
+        "",
+        "If you wish to attempt it again,",
+        "head back to the bar to cancel the",
+        "request and reaccept it.",
+        ""
+      ],
+      "Translation": [
+        "Ignoring the soldier's warning, you",
+        "leave the labyrinth. The request has",
+        "thus failed...!",
+        "[Page]",
+        "",
+        "If you wish to attempt it again,",
+        "head back to the bar to cancel the",
+        "request and reaccept it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "Upon ending your participation in the",
+        "tournament, you return to the city",
+        "square.",
+        "[Page]",
+        "",
+        "The soldier mentioned that the results",
+        "are given at the Explorers Guild...",
+        "You should head there to inquire.",
+        ""
+      ],
+      "Translation": [
+        "Upon ending your participation in the",
+        "tournament, you return to the city",
+        "square.",
+        "[Page]",
+        "",
+        "The soldier mentioned that the results",
+        "are given at the Explorers Guild...",
+        "You should head there to inquire.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "As you finish off your 10th monster,",
+        "you sheathe your weapons and recall",
+        "the soldier's words.",
+        "[Page]",
+        "",
+        "As he said it, a tally of 10 monsters",
+        "was the minimum requirement to",
+        "complete the request.",
+        "[Page]",
+        "",
+        "You have now met that requirement...",
+        "You are free to end the request now",
+        "or attempt a higher ranking.",
+        ""
+      ],
+      "Translation": [
+        "As you finish off your 10th monster,",
+        "you sheathe your weapons and recall",
+        "the soldier's words.",
+        "[Page]",
+        "",
+        "As he said it, a tally of 10 monsters",
+        "was the minimum requirement to",
+        "complete the request.",
+        "[Page]",
+        "",
+        "You have now met that requirement...",
+        "You are free to end the request now",
+        "or attempt a higher ranking.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "As you continue to strive for a higher",
+        "ranking, you realize you have defeated",
+        "enough monsters to win a prize.",
+        "[Page]",
+        "",
+        "But the sound of battle can yet be",
+        "heard throughout the floor... There",
+        "are still guilds in the tournament.",
+        "[Page]",
+        "",
+        "If you are satisfied with your",
+        "standing, you may end the request, or",
+        "continue to attempt a higher ranking.",
+        ""
+      ],
+      "Translation": [
+        "As you continue to strive for a higher",
+        "ranking, you realize you have defeated",
+        "enough monsters to win a prize.",
+        "[Page]",
+        "",
+        "But the sound of battle can yet be",
+        "heard throughout the floor... There",
+        "are still guilds in the tournament.",
+        "[Page]",
+        "",
+        "If you are satisfied with your",
+        "standing, you may end the request, or",
+        "continue to attempt a higher ranking.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "You keep careful track of your stamina",
+        "as you fight on... You believe you",
+        "should be in the upper echelons now!",
+        "[Page]",
+        "",
+        "But there are still faint sounds of a",
+        "struggle on this floor... It seems",
+        "another guild is striving for first.",
+        "[Page]",
+        "",
+        "If you are satisfied with your current",
+        "standing, you may end the request,",
+        "or you may attempt a higher ranking.",
+        ""
+      ],
+      "Translation": [
+        "You keep careful track of your stamina",
+        "as you fight on... You believe you",
+        "should be in the upper echelons now!",
+        "[Page]",
+        "",
+        "But there are still faint sounds of a",
+        "struggle on this floor... It seems",
+        "another guild is striving for first.",
+        "[Page]",
+        "",
+        "If you are satisfied with your current",
+        "standing, you may end the request,",
+        "or you may attempt a higher ranking.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "You slay monster after monster in your",
+        "pursuit of the highest rank...",
+        "[Page]",
+        "",
+        "Suddenly, you realize that your guild",
+        "is the only one remaining in the",
+        "labyrinth! Your victory is assured!",
+        "[Page]",
+        "",
+        "All that remains is to go to the",
+        "Explorers Guild and report your",
+        "dazzling results!",
+        ""
+      ],
+      "Translation": [
+        "You slay monster after monster in your",
+        "pursuit of the highest rank...",
+        "[Page]",
+        "",
+        "Suddenly, you realize that your guild",
+        "is the only one remaining in the",
+        "labyrinth! Your victory is assured!",
+        "[Page]",
+        "",
+        "All that remains is to go to the",
+        "Explorers Guild and report your",
+        "dazzling results!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "All right, looks like everyone is",
+        "back now. I'll get right to announcing",
+        "the tournament winners.",
+        "[Page]",
+        "",
+        "I'll start with third place!",
+        ""
+      ],
+      "Translation": [
+        "All right, looks like everyone is",
+        "back now. I'll get right to announcing",
+        "the tournament winners.",
+        "[Page]",
+        "",
+        "I'll start with third place!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Next, second place!",
+        ""
+      ],
+      "Translation": [
+        "Next, second place!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "And the grand prize goes to...",
+        "[Page]",
+        "",
+        "Let's see here...",
+        ""
+      ],
+      "Translation": [
+        "And the grand prize goes to...",
+        "[Page]",
+        "",
+        "Let's see here...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "That's all for the announcements!",
+        "[Page]",
+        "",
+        "Those guilds who won this time, don't",
+        "let it go to your heads. Those who",
+        "didn't, continue to hone your skills.",
+        "[Page]",
+        "",
+        "Special participation prizes can be",
+        "claimed at the bar where you were",
+        "selected for the tourney. Dismissed!",
+        ""
+      ],
+      "Translation": [
+        "That's all for the announcements!",
+        "[Page]",
+        "",
+        "Those guilds who won this time, don't",
+        "let it go to your heads. Those who",
+        "didn't, continue to hone your skills.",
+        "[Page]",
+        "",
+        "Special participation prizes can be",
+        "claimed at the bar where you were",
+        "selected for the tourney. Dismissed!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "The [Guild] Guild, with a tally of",
+        "[Color:5][Number:1] monsters[Color:0]! Congratulations!",
+        "That's all there is to say!",
+        ""
+      ],
+      "Translation": [
+        "The [Guild] Guild, with a tally of",
+        "[Color:5][Number:1] monsters[Color:0]! Congratulations!",
+        "That's all there is to say!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "The [Guild] Guild, with a tally of",
+        "[Color:5][Number:1] monsters[Color:0]! Well done! May you be",
+        "an example to other guilds!",
+        ""
+      ],
+      "Translation": [
+        "The [Guild] Guild, with a tally of",
+        "[Color:5][Number:1] monsters[Color:0]! Well done! May you be",
+        "an example to other guilds!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "The [Guild] Guild, with a tally of",
+        "[Color:5][Number:1] monsters[Color:0]! What's the matter?",
+        "Weren't feeling well?",
+        ""
+      ],
+      "Translation": [
+        "The [Guild] Guild, with a tally of",
+        "[Color:5][Number:1] monsters[Color:0]! What's the matter?",
+        "Weren't feeling well?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "The Vulcanus Guild, with [Color:5][Number:1]",
+        "monsters[Color:0]! Make sure you put out",
+        "those fires you cast!",
+        ""
+      ],
+      "Translation": [
+        "The Vulcanus Guild, with [Color:5][Number:1]",
+        "monsters[Color:0]! Make sure you put out",
+        "those fires you cast!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "The Highbrow Guild, with [Color:5][Number:1]",
+        "monsters[Color:0]! You really proved",
+        "yourselves out there!",
+        ""
+      ],
+      "Translation": [
+        "The Highbrow Guild, with [Color:5][Number:1]",
+        "monsters[Color:0]! You really proved",
+        "yourselves out there!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "The Epicure Union, with [Color:5][Number:1]",
+        "monsters[Color:0]! A team of five fortresses",
+        "is an impressive sight to see!",
+        ""
+      ],
+      "Translation": [
+        "The Epicure Union, with [Color:5][Number:1]",
+        "monsters[Color:0]! A team of five fortresses",
+        "is an impressive sight to see!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "The 3rd Cargo Maintenance Squad,",
+        "with [Color:5][Number:1] monsters[Color:0]! Remember not",
+        "to slack off on your main duties!",
+        ""
+      ],
+      "Translation": [
+        "The 3rd Cargo Maintenance Squad,",
+        "with [Color:5][Number:1] monsters[Color:0]! Remember not",
+        "to slack off on your main duties!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "The Yarakahna Guild, with [Color:5][Number:1]",
+        "monsters[Color:0]! Oh, for... Can't you",
+        "even try to stand up straight!?",
+        ""
+      ],
+      "Translation": [
+        "The Yarakahna Guild, with [Color:5][Number:1]",
+        "monsters[Color:0]! Oh, for... Can't you",
+        "even try to stand up straight!?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, it's you. I suppose you accepted",
+        "the request I sent out.",
+        "[Page]",
+        "",
+        "The explorers of Tharsis are a hardy",
+        "bunch. If you want a prize, you'll",
+        "have to show some backbone.",
+        "[Page]",
+        "",
+        "Once you're fully prepared, go to the",
+        "[Color:5][Location][Color:0] to get the rules.",
+        ""
+      ],
+      "Translation": [
+        "Ah, it's you. I suppose you accepted",
+        "the request I sent out.",
+        "[Page]",
+        "",
+        "The explorers of Tharsis are a hardy",
+        "bunch. If you want a prize, you'll",
+        "have to show some backbone.",
+        "[Page]",
+        "",
+        "Once you're fully prepared, go to the",
+        "[Color:5][Location][Color:0] to get the rules.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": true,
+      "Original": [
+        "現在[Number:0]ポイントです。ここでは、",
+        "デバッグ用に汎用変数4・5番に指定した",
+        "エンカウントIDと戦闘が行えます。",
+        ""
+      ],
+      "Translation": [
+        "現在[Number:0]ポイントです。ここでは、",
+        "デバッグ用に汎用変数4・5番に指定した",
+        "エンカウントIDと戦闘が行えます。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:5]どうしますか?[Color:0]",
+        "汎用変数4 ID[Number:2]",
+        "汎用変数5 ID[Number:3]",
+        "戦闘をしない",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]どうしますか?[Color:0]",
+        "汎用変数4 ID[Number:2]",
+        "汎用変数5 ID[Number:3]",
+        "戦闘をしない",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": true,
+      "Original": [
+        "直前の戦闘にて",
+        "[Number:1]ポイントを入手。",
+        ""
+      ],
+      "Translation": [
+        "直前の戦闘にて",
+        "[Number:1]ポイントを入手。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "Ask the soldier on [Color:5]B[Number:2]F of the",
+        "[Location][Color:0] for more details",
+        "about the rules.",
+        ""
+      ],
+      "Translation": [
+        "Ask the soldier on [Color:5]B[Number:2]F of the",
+        "[Location][Color:0] for more details",
+        "about the rules.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "Ask the soldier in the",
+        "[Color:5][Location][Color:0] for more",
+        "details about the rules.",
+        ""
+      ],
+      "Translation": [
+        "Ask the soldier in the",
+        "[Color:5][Location][Color:0] for more",
+        "details about the rules.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

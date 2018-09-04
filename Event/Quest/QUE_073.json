@@ -1,0 +1,598 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_073",
+  "RelativePath": "Event\\Quest\\QUE_073.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "There you are! We knew there would be",
+        "another in this line of requests!",
+        "[Page]",
+        "",
+        "He believes this will be the last...",
+        "Both the Outland Count and I agree",
+        "that there are four marks.",
+        "[Page]",
+        "",
+        "I need hardly tell you this, but you",
+        "should visit him at the Grand Court.",
+        "I shall await your swift return!",
+        ""
+      ],
+      "Translation": [
+        "There you are! We knew there would be",
+        "another in this line of requests!",
+        "[Page]",
+        "",
+        "He believes this will be the last...",
+        "Both the Outland Count and I agree",
+        "that there are four marks.",
+        "[Page]",
+        "",
+        "I need hardly tell you this, but you",
+        "should visit him at the Grand Court.",
+        "I shall await your swift return!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. So the last mark was...",
+        "the wind mark? It is good that you",
+        "found it.",
+        "[Page]",
+        "",
+        "The marks are all known... I wonder",
+        "who left them, and for what purpose.",
+        "[Page]",
+        "",
+        "It seems you have flown all across",
+        "the Cloudy Stronghold in your quest.",
+        "Tharsis is in your debt.",
+        "[Page]",
+        "",
+        "Perhaps the Outland Count anticipated",
+        "this outcome and posted the request",
+        "just for you... That was a joke.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. So the last mark was...",
+        "the wind mark? It is good that you",
+        "found it.",
+        "[Page]",
+        "",
+        "The marks are all known... I wonder",
+        "who left them, and for what purpose.",
+        "[Page]",
+        "",
+        "It seems you have flown all across",
+        "the Cloudy Stronghold in your quest.",
+        "Tharsis is in your debt.",
+        "[Page]",
+        "",
+        "Perhaps the Outland Count anticipated",
+        "this outcome and posted the request",
+        "just for you... That was a joke.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Hm? Oh yes... the request. It is none",
+        "other than another mark. I trust I",
+        "needn't explain it to you.",
+        "[Page]",
+        "",
+        "Let me start with assumptions. So far,",
+        "we have found water, fire, and earth",
+        "marks. What strikes you as missing?",
+        "[Page]",
+        "",
+        "Exactly! Wind! If the marks represent",
+        "the four elements, there should be a",
+        "wind mark! Nay, there must be!",
+        "[Page]",
+        "",
+        "Alas, we cannot always count on a",
+        "conveniently-unearthed document. We",
+        "have no clues. But will that stop me?",
+        ""
+      ],
+      "Translation": [
+        "Hm? Oh yes... the request. It is none",
+        "other than another mark. I trust I",
+        "needn't explain it to you.",
+        "[Page]",
+        "",
+        "Let me start with assumptions. So far,",
+        "we have found water, fire, and earth",
+        "marks. What strikes you as missing?",
+        "[Page]",
+        "",
+        "Exactly! Wind! If the marks represent",
+        "the four elements, there should be a",
+        "wind mark! Nay, there must be!",
+        "[Page]",
+        "",
+        "Alas, we cannot always count on a",
+        "conveniently-unearthed document. We",
+        "have no clues. But will that stop me?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will that stop him?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will that stop him?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Ha! I'm glad to have friends unafraid",
+        "to joke with me like this. But no!",
+        "I will never give up!",
+        ""
+      ],
+      "Translation": [
+        "Ha! I'm glad to have friends unafraid",
+        "to joke with me like this. But no!",
+        "I will never give up!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Of course, we know each other too",
+        "well by now for you to think I would",
+        "let anything stop me.",
+        ""
+      ],
+      "Translation": [
+        "Of course, we know each other too",
+        "well by now for you to think I would",
+        "let anything stop me.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Let us take the four elements as a",
+        "base assumption. We have found three.",
+        "Can you guess where the last may be?",
+        "[Page]",
+        "",
+        "If you can figure it out, then report",
+        "to me, and I will send a team to",
+        "handle the investigation.",
+        ""
+      ],
+      "Translation": [
+        "Let us take the four elements as a",
+        "base assumption. We have found three.",
+        "Can you guess where the last may be?",
+        "[Page]",
+        "",
+        "If you can figure it out, then report",
+        "to me, and I will send a team to",
+        "handle the investigation.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Have you deduced the location of the",
+        "fourth mark?",
+        ""
+      ],
+      "Translation": [
+        "Have you deduced the location of the",
+        "fourth mark?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you know where the 4th mark is?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you know where the 4th mark is?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, that is a good girl, Margherita.",
+        "You are the only one who understands",
+        "my frustration...",
+        "[Page]",
+        "",
+        "When you came to me, I assumed you",
+        "needed to review the facts or else",
+        "you had the location for me.",
+        "[Page]",
+        "",
+        "But neither is true. Margherita,",
+        "do you share this nebulous feeling",
+        "caused by such incomprehensibility?",
+        "[Page]",
+        "",
+        "What are you doing, my friends?",
+        "Be quick and think of where the",
+        "sole remaining mark might be.",
+        ""
+      ],
+      "Translation": [
+        "Ah, that is a good girl, Margherita.",
+        "You are the only one who understands",
+        "my frustration...",
+        "[Page]",
+        "",
+        "When you came to me, I assumed you",
+        "needed to review the facts or else",
+        "you had the location for me.",
+        "[Page]",
+        "",
+        "But neither is true. Margherita,",
+        "do you share this nebulous feeling",
+        "caused by such incomprehensibility?",
+        "[Page]",
+        "",
+        "What are you doing, my friends?",
+        "Be quick and think of where the",
+        "sole remaining mark might be.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Information... Hmm... Why don't we",
+        "review the locations of the marks",
+        "we have already found?",
+        "[Page]",
+        "",
+        "The [Color:5]water mark[Color:0] was at [Color:5]A-4/5-1[Color:0].",
+        "The [Color:5]fire mark[Color:0] was at [Color:5]C-2/1-5[Color:0].",
+        "And the [Color:5]earth mark[Color:0] was at [Color:5]A-2/5-5[Color:0].",
+        "[Page]",
+        "",
+        "Why not mark those spots on your map",
+        "and see how they are arranged as",
+        "a whole?",
+        ""
+      ],
+      "Translation": [
+        "Information... Hmm... Why don't we",
+        "review the locations of the marks",
+        "we have already found?",
+        "[Page]",
+        "",
+        "The [Color:5]water mark[Color:0] was at [Color:5]A-4/5-1[Color:0].",
+        "The [Color:5]fire mark[Color:0] was at [Color:5]C-2/1-5[Color:0].",
+        "And the [Color:5]earth mark[Color:0] was at [Color:5]A-2/5-5[Color:0].",
+        "[Page]",
+        "",
+        "Why not mark those spots on your map",
+        "and see how they are arranged as",
+        "a whole?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, just what I hoped to hear! Then",
+        "tell me... Where do you believe the",
+        "fourth mark to be located?",
+        ""
+      ],
+      "Translation": [
+        "Ah, just what I hoped to hear! Then",
+        "tell me... Where do you believe the",
+        "fourth mark to be located?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Understood. I will dispatch my scouts",
+        "and see what the result is.",
+        ""
+      ],
+      "Translation": [
+        "Understood. I will dispatch my scouts",
+        "and see what the result is.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "There was no mark where you thought",
+        "there might be... Look at the anguish",
+        "on poor Margherita's face...",
+        "[Page]",
+        "",
+        "I understand that it is difficult to",
+        "take an accurate shot in the dark, but",
+        "this is important. Try a bit harder.",
+        ""
+      ],
+      "Translation": [
+        "There was no mark where you thought",
+        "there might be... Look at the anguish",
+        "on poor Margherita's face...",
+        "[Page]",
+        "",
+        "I understand that it is difficult to",
+        "take an accurate shot in the dark, but",
+        "this is important. Try a bit harder.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "They did, in fact, discover a new mark",
+        "at the location you deduced! What a",
+        "magnificent find!",
+        "[Page]",
+        "",
+        "It seems safe to say, judging by the",
+        "design, that it is the wind mark.",
+        "Now all four marks are known...",
+        "[Page]",
+        "",
+        "Yet even now, it remains a mystery",
+        "what their purpose is and why they",
+        "were created.",
+        "[Page]",
+        "",
+        "Still, this request can be considered",
+        "complete. The reward is yours... go",
+        "and accept it with pride.",
+        ""
+      ],
+      "Translation": [
+        "They did, in fact, discover a new mark",
+        "at the location you deduced! What a",
+        "magnificent find!",
+        "[Page]",
+        "",
+        "It seems safe to say, judging by the",
+        "design, that it is the wind mark.",
+        "Now all four marks are known...",
+        "[Page]",
+        "",
+        "Yet even now, it remains a mystery",
+        "what their purpose is and why they",
+        "were created.",
+        "[Page]",
+        "",
+        "Still, this request can be considered",
+        "complete. The reward is yours... go",
+        "and accept it with pride.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Hm? What is it? You want to pet",
+        "Margherita? Hahaha, I am afraid",
+        "that is impossible.",
+        ""
+      ],
+      "Translation": [
+        "Hm? What is it? You want to pet",
+        "Margherita? Hahaha, I am afraid",
+        "that is impossible.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "In your search for the fourth mark,",
+        "you arrive at the location where you",
+        "believe it to be.",
+        ""
+      ],
+      "Translation": [
+        "In your search for the fourth mark,",
+        "you arrive at the location where you",
+        "believe it to be.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "As you make a thorough survey of the",
+        "land, you find the wind mark... It is",
+        "just what you and the Count hoped for!",
+        "[Page]",
+        "",
+        "All that remains is to remember its",
+        "location and report it to the Outland",
+        "Count.",
+        ""
+      ],
+      "Translation": [
+        "As you make a thorough survey of the",
+        "land, you find the wind mark... It is",
+        "just what you and the Count hoped for!",
+        "[Page]",
+        "",
+        "All that remains is to remember its",
+        "location and report it to the Outland",
+        "Count.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You narrow your eyes and can make out",
+        "the [Color:5]wind mark[Color:0] engraved in the land...",
+        ""
+      ],
+      "Translation": [
+        "You narrow your eyes and can make out",
+        "the [Color:5]wind mark[Color:0] engraved in the land...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

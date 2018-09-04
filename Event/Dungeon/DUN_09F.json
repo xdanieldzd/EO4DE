@@ -1,0 +1,1649 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_09F",
+  "RelativePath": "Event\\Dungeon\\DUN_09F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "As you touch the plain door, you hear",
+        "the echo of something enormous moving",
+        "from beyond it.",
+        "[Page]",
+        "",
+        "Eventually, the sound stops. It seems",
+        "that the door can now be opened and",
+        "closed.",
+        ""
+      ],
+      "Translation": [
+        "As you touch the plain door, you hear",
+        "the echo of something enormous moving",
+        "from beyond it.",
+        "[Page]",
+        "",
+        "Eventually, the sound stops. It seems",
+        "that the door can now be opened and",
+        "closed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "At the end of the path, you find",
+        "a worn hardcover book.",
+        "[Page]",
+        "",
+        "Most of the pages are now unreadable,",
+        "but you can make out the following...",
+        "[Page]",
+        "",
+        "\"Yggdrasil Sealing Project, Summary 2",
+        "Each seal requires a corresponding",
+        "tablet arranged by a protector.",
+        "[Page]",
+        "",
+        "\"But due to the loss of... we lack",
+        "sufficient protectors. We must place",
+        "the tablets on the outer ring and...\"",
+        "[Page]",
+        "",
+        "More than that is impossible to read.",
+        "You leave the book behind and hurry",
+        "on ahead.",
+        ""
+      ],
+      "Translation": [
+        "At the end of the path, you find",
+        "a worn hardcover book.",
+        "[Page]",
+        "",
+        "Most of the pages are now unreadable,",
+        "but you can make out the following...",
+        "[Page]",
+        "",
+        "\"Yggdrasil Sealing Project, Summary 2",
+        "Each seal requires a corresponding",
+        "tablet arranged by a protector.",
+        "[Page]",
+        "",
+        "\"But due to the loss of... we lack",
+        "sufficient protectors. We must place",
+        "the tablets on the outer ring and...\"",
+        "[Page]",
+        "",
+        "More than that is impossible to read.",
+        "You leave the book behind and hurry",
+        "on ahead.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You find a small monument in this",
+        "dead end and stop. Close inspection",
+        "reveals a message engraved on it...",
+        "[Page]",
+        "",
+        "\"One born from chaos...",
+        "Thy name is fire.\"",
+        "[Page]",
+        "",
+        "What could this mean...? You are",
+        "unsure whether to commit this to",
+        "memory or ignore it altogether.",
+        ""
+      ],
+      "Translation": [
+        "You find a small monument in this",
+        "dead end and stop. Close inspection",
+        "reveals a message engraved on it...",
+        "[Page]",
+        "",
+        "\"One born from chaos...",
+        "Thy name is fire.\"",
+        "[Page]",
+        "",
+        "What could this mean...? You are",
+        "unsure whether to commit this to",
+        "memory or ignore it altogether.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "In the course of your journey, you",
+        "find something shining on the surface",
+        "of the rock above you.",
+        "[Page]",
+        "",
+        "If you are curious about it, you",
+        "could climb the rock to inspect it",
+        "more closely.",
+        ""
+      ],
+      "Translation": [
+        "In the course of your journey, you",
+        "find something shining on the surface",
+        "of the rock above you.",
+        "[Page]",
+        "",
+        "If you are curious about it, you",
+        "could climb the rock to inspect it",
+        "more closely.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Inspect the shining object?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Inspect the shining object?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] climbs up and finds an ore",
+        "that could be useful as a material.",
+        "[Page]",
+        "",
+        "[Character:0] digs out the ore with the",
+        "tools on hand before joining up with",
+        "the party with satisfaction.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] climbs up and finds an ore",
+        "that could be useful as a material.",
+        "[Page]",
+        "",
+        "[Character:0] digs out the ore with the",
+        "tools on hand before joining up with",
+        "the party with satisfaction.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "In the course of your journey, you",
+        "find something shining on the surface",
+        "of the rock above you.",
+        "[Page]",
+        "",
+        "If you are curious about it, you",
+        "could climb the rock to inspect it",
+        "more closely.",
+        ""
+      ],
+      "Translation": [
+        "In the course of your journey, you",
+        "find something shining on the surface",
+        "of the rock above you.",
+        "[Page]",
+        "",
+        "If you are curious about it, you",
+        "could climb the rock to inspect it",
+        "more closely.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Inspect the shining object?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Inspect the shining object?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "After climbing up, [Character:0] finds",
+        "a sword thrust into the rock.",
+        "[Page]",
+        "",
+        "A sword could potentially be useful...",
+        "You wonder if you should pull it out.",
+        ""
+      ],
+      "Translation": [
+        "After climbing up, [Character:0] finds",
+        "a sword thrust into the rock.",
+        "[Page]",
+        "",
+        "A sword could potentially be useful...",
+        "You wonder if you should pull it out.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Pull the sword out?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Pull the sword out?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "As soon as [Character:0] pulls out the",
+        "sword, a disquieting rumble begins",
+        "to echo throughout the area!",
+        "[Page]",
+        "",
+        "You look up and see that the rock",
+        "from which you removed the sword is",
+        "starting to crumble!",
+        "[Page]",
+        "",
+        "Pieces of stone rain mercilessly",
+        "upon your heads!",
+        ""
+      ],
+      "Translation": [
+        "As soon as [Character:0] pulls out the",
+        "sword, a disquieting rumble begins",
+        "to echo throughout the area!",
+        "[Page]",
+        "",
+        "You look up and see that the rock",
+        "from which you removed the sword is",
+        "starting to crumble!",
+        "[Page]",
+        "",
+        "Pieces of stone rain mercilessly",
+        "upon your heads!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] loses [Number:1] HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] loses [Number:1] HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "The sword in the rock was apparently",
+        "used as a wedge to prevent a collapse.",
+        "It is not usable as a weapon...",
+        "[Page]",
+        "",
+        "But now is not the time to sulk over",
+        "the sword. If you wish to continue",
+        "your journey, heal yourselves now!",
+        ""
+      ],
+      "Translation": [
+        "The sword in the rock was apparently",
+        "used as a wedge to prevent a collapse.",
+        "It is not usable as a weapon...",
+        "[Page]",
+        "",
+        "But now is not the time to sulk over",
+        "the sword. If you wish to continue",
+        "your journey, heal yourselves now!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "Judging by the condition of the rock,",
+        "the sword is likely acting as a wedge",
+        "to keep its collapse at bay.",
+        "[Page]",
+        "",
+        "[Character:0] concurs and joins back up",
+        "with the others without touching the",
+        "sword.",
+        ""
+      ],
+      "Translation": [
+        "Judging by the condition of the rock,",
+        "the sword is likely acting as a wedge",
+        "to keep its collapse at bay.",
+        "[Page]",
+        "",
+        "[Character:0] concurs and joins back up",
+        "with the others without touching the",
+        "sword.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "As you continue exploring the hidden",
+        "recesses of the cave, you notice",
+        "something shining above you.",
+        "[Page]",
+        "",
+        "If you are curious about it, you",
+        "could climb the rock to inspect it",
+        "more closely.",
+        ""
+      ],
+      "Translation": [
+        "As you continue exploring the hidden",
+        "recesses of the cave, you notice",
+        "something shining above you.",
+        "[Page]",
+        "",
+        "If you are curious about it, you",
+        "could climb the rock to inspect it",
+        "more closely.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Inspect the shining object?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Inspect the shining object?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "After climbing up, [Character:0] finds an",
+        "ore that may be a useful material.",
+        "With a word, it could be yours.",
+        ""
+      ],
+      "Translation": [
+        "After climbing up, [Character:0] finds an",
+        "ore that may be a useful material.",
+        "With a word, it could be yours.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Whatever the shining object is, it is",
+        "not worth risking the climb. You elect",
+        "to leave.",
+        ""
+      ],
+      "Translation": [
+        "Whatever the shining object is, it is",
+        "not worth risking the climb. You elect",
+        "to leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Mine the ore?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Mine the ore?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] carefully digs the ore out",
+        "from the wall and tosses it over to",
+        "the others.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] carefully digs the ore out",
+        "from the wall and tosses it over to",
+        "the others.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "There still seems to be ore remaining",
+        "in the wall's vein. You may be able",
+        "to acquire that as well.",
+        ""
+      ],
+      "Translation": [
+        "There still seems to be ore remaining",
+        "in the wall's vein. You may be able",
+        "to acquire that as well.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] senses an imminent collapse",
+        "and returns to the rest of the party",
+        "without touching the remaining ore.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] senses an imminent collapse",
+        "and returns to the rest of the party",
+        "without touching the remaining ore.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "Just as [Character:0] digs the ore out",
+        "from the wall, an ominous roar begins",
+        "to echo through the area!",
+        "[Page]",
+        "",
+        "It seems your mining of the ore has",
+        "caused the rock wall to collapse!",
+        "[Character:0] tumbles to the ground!",
+        ""
+      ],
+      "Translation": [
+        "Just as [Character:0] digs the ore out",
+        "from the wall, an ominous roar begins",
+        "to echo through the area!",
+        "[Page]",
+        "",
+        "It seems your mining of the ore has",
+        "caused the rock wall to collapse!",
+        "[Character:0] tumbles to the ground!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] loses 80 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] loses 80 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Pieces of stone rain mercilessly",
+        "upon your heads!",
+        ""
+      ],
+      "Translation": [
+        "Pieces of stone rain mercilessly",
+        "upon your heads!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] loses [Number:1] HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] loses [Number:1] HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "As you escape from the rockfall with",
+        "your lives barely intact, you regret",
+        "your greed and stagger on your way.",
+        ""
+      ],
+      "Translation": [
+        "As you escape from the rockfall with",
+        "your lives barely intact, you regret",
+        "your greed and stagger on your way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "It is a treasure box with a tree",
+        "symbol on it. However, it is locked,",
+        "and you have no key that fits.",
+        ""
+      ],
+      "Translation": [
+        "It is a treasure box with a tree",
+        "symbol on it. However, it is locked,",
+        "and you have no key that fits.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "As you step into B3F of the Golden",
+        "Lair, you notice that this level has",
+        "regained its heat.",
+        "[Page]",
+        "",
+        "With the atmosphere this warm, the ice",
+        "will have melted, making the lakes",
+        "impassable again.",
+        "[Page]",
+        "",
+        "In the past, you were able to cool",
+        "this level by destroying the giant,",
+        "scorching red monolith...",
+        ""
+      ],
+      "Translation": [
+        "As you step into B3F of the Golden",
+        "Lair, you notice that this level has",
+        "regained its heat.",
+        "[Page]",
+        "",
+        "With the atmosphere this warm, the ice",
+        "will have melted, making the lakes",
+        "impassable again.",
+        "[Page]",
+        "",
+        "In the past, you were able to cool",
+        "this level by destroying the giant,",
+        "scorching red monolith...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

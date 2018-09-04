@@ -1,0 +1,382 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_066",
+  "RelativePath": "Event\\QR\\QR_066.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "That request is from the woman in a",
+        "lab coat sitting over there... She is",
+        "the monster scholar Barbule.",
+        "[Page]",
+        "",
+        "What an interesting occupation...",
+        "I would be curious to know more.",
+        "I shall await your swift return...",
+        ""
+      ],
+      "Translation": [
+        "That request is from the woman in a",
+        "lab coat sitting over there... She is",
+        "the monster scholar Barbule.",
+        "[Page]",
+        "",
+        "What an interesting occupation...",
+        "I would be curious to know more.",
+        "I shall await your swift return...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I heard what happened.",
+        "It sounds as if you slayed what was",
+        "literally big game.",
+        "[Page]",
+        "",
+        "The beast was called a [Enemy1:130]?",
+        "Is that some cruel joke?",
+        "[Page]",
+        "",
+        "It seems there are still many strange",
+        "creatures in this world. I can see",
+        "where research would be necessary.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I heard what happened.",
+        "It sounds as if you slayed what was",
+        "literally big game.",
+        "[Page]",
+        "",
+        "The beast was called a [Enemy1:130]?",
+        "Is that some cruel joke?",
+        "[Page]",
+        "",
+        "It seems there are still many strange",
+        "creatures in this world. I can see",
+        "where research would be necessary.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Upon reaching the frozen wall you",
+        "were asked to investigate, you see",
+        "many animals trapped within it.",
+        "[Page]",
+        "",
+        "You approach the wall for closer",
+        "observation, when you sense a deadly",
+        "presence and a piercing chill!",
+        "[Page]",
+        "",
+        "You know instantly that whatever is",
+        "the cause of this deathly chill is",
+        "the creator of this ice wall!",
+        "[Page]",
+        "",
+        "You consider staying here and facing",
+        "it, though you know that the chill",
+        "will tax your stamina as you do so...",
+        ""
+      ],
+      "Translation": [
+        "Upon reaching the frozen wall you",
+        "were asked to investigate, you see",
+        "many animals trapped within it.",
+        "[Page]",
+        "",
+        "You approach the wall for closer",
+        "observation, when you sense a deadly",
+        "presence and a piercing chill!",
+        "[Page]",
+        "",
+        "You know instantly that whatever is",
+        "the cause of this deathly chill is",
+        "the creator of this ice wall!",
+        "[Page]",
+        "",
+        "You consider staying here and facing",
+        "it, though you know that the chill",
+        "will tax your stamina as you do so...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Remain here?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Remain here?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "If you stay here any longer, you fear",
+        "that you may lose life and limb to",
+        "frostbite!",
+        "[Page]",
+        "",
+        "Your decision made, you grip the",
+        "rudder with numb hands and quickly",
+        "steer the [Skyship] elsewhere.",
+        ""
+      ],
+      "Translation": [
+        "If you stay here any longer, you fear",
+        "that you may lose life and limb to",
+        "frostbite!",
+        "[Page]",
+        "",
+        "Your decision made, you grip the",
+        "rudder with numb hands and quickly",
+        "steer the [Skyship] elsewhere.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "You draw your coat against the cold",
+        "and do your best to endure the ominous",
+        "chill... Will the monster appear...?",
+        ""
+      ],
+      "Translation": [
+        "You draw your coat against the cold",
+        "and do your best to endure the ominous",
+        "chill... Will the monster appear...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "You continue waiting, but the monster",
+        "shows no sign of appearing. The frigid",
+        "winds continue to bite into you!",
+        "[Page]",
+        "",
+        "[Color:3]The party loses 50 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "You continue waiting, but the monster",
+        "shows no sign of appearing. The frigid",
+        "winds continue to bite into you!",
+        "[Page]",
+        "",
+        "[Color:3]The party loses 50 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "But that hateful presence is still",
+        "palpable... There is no doubt that it",
+        "yet lurks nearby.",
+        ""
+      ],
+      "Translation": [
+        "But that hateful presence is still",
+        "palpable... There is no doubt that it",
+        "yet lurks nearby.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "But you feel strangely certain that",
+        "the enemy has drawn nearer than",
+        "before... It may appear soon.",
+        ""
+      ],
+      "Translation": [
+        "But you feel strangely certain that",
+        "the enemy has drawn nearer than",
+        "before... It may appear soon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You are free to remain and wait for",
+        "the monster to appear, or to heed the",
+        "danger and leave at once.",
+        ""
+      ],
+      "Translation": [
+        "You are free to remain and wait for",
+        "the monster to appear, or to heed the",
+        "danger and leave at once.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Remain here?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Remain here?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "No sooner do you elect to wait than",
+        "a tremendous roar echoes from beneath",
+        "the [Skyship]!",
+        "[Page]",
+        "",
+        "When you look over the railing, you",
+        "see a shockingly immense ice monster",
+        "preparing to attack!",
+        "[Page]",
+        "",
+        "A fight would be just the thing to",
+        "warm your frozen bodies, you think,",
+        "taking up arms to meet the monster!",
+        ""
+      ],
+      "Translation": [
+        "No sooner do you elect to wait than",
+        "a tremendous roar echoes from beneath",
+        "the [Skyship]!",
+        "[Page]",
+        "",
+        "When you look over the railing, you",
+        "see a shockingly immense ice monster",
+        "preparing to attack!",
+        "[Page]",
+        "",
+        "A fight would be just the thing to",
+        "warm your frozen bodies, you think,",
+        "taking up arms to meet the monster!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "After a fierce battle, you defeat",
+        "the ice monster! It seems the animals",
+        "trapped in the wall were its prey...",
+        "[Page]",
+        "",
+        "You take down notes on the monster on",
+        "a scroll and set off for Tharsis to",
+        "report to your scholarly client.",
+        ""
+      ],
+      "Translation": [
+        "After a fierce battle, you defeat",
+        "the ice monster! It seems the animals",
+        "trapped in the wall were its prey...",
+        "[Page]",
+        "",
+        "You take down notes on the monster on",
+        "a scroll and set off for Tharsis to",
+        "report to your scholarly client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Before you looms an ice wall, which",
+        "contains many animals preserved in the",
+        "same state as when they were alive...",
+        ""
+      ],
+      "Translation": [
+        "Before you looms an ice wall, which",
+        "contains many animals preserved in the",
+        "same state as when they were alive...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

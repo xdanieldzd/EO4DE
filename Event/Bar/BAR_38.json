@@ -1,0 +1,46 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_38",
+  "RelativePath": "Event\\Bar\\BAR_38.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Our overreliance on His Imperial",
+        "Highness may be one of the reasons",
+        "the Empire spiraled out of control.",
+        "[Page]",
+        "",
+        "That is why we Imperial knights must",
+        "be the ones to stop him. In that way,",
+        "I remain loyal to my Empire...",
+        "[Page]",
+        "",
+        "I am sorry that you have been tangled",
+        "up in this, but I need your help,",
+        "[Guild] Guild.",
+        ""
+      ],
+      "Translation": [
+        "Our overreliance on His Imperial",
+        "Highness may be one of the reasons",
+        "the Empire spiraled out of control.",
+        "[Page]",
+        "",
+        "That is why we Imperial knights must",
+        "be the ones to stop him. In that way,",
+        "I remain loyal to my Empire...",
+        "[Page]",
+        "",
+        "I am sorry that you have been tangled",
+        "up in this, but I need your help,",
+        "[Guild] Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11655 @@
+{
+  "FileType": "StringTable",
+  "Description": "Equipment item names",
+  "RelativePath": "Item\\equipitemnametable.tbl",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "NONE"
+      ],
+      "Translation": [
+        "NONE"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Shortsword"
+      ],
+      "Translation": [
+        "Kurzschwert"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": true,
+      "Original": [
+        "Kopis"
+      ],
+      "Translation": [
+        "Kopis"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": true,
+      "Original": [
+        "Scramasax"
+      ],
+      "Translation": [
+        "Scramasax"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Cutlass"
+      ],
+      "Translation": [
+        "Entermesser"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": true,
+      "Original": [
+        "Shamshir"
+      ],
+      "Translation": [
+        "Shamshir"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Talwaar"
+      ],
+      "Translation": [
+        "Talwar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": true,
+      "Original": [
+        "Macuahuitl"
+      ],
+      "Translation": [
+        "Macuahuitl"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Viking Sword"
+      ],
+      "Translation": [
+        "Wikingerschwert"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Walloon Sword"
+      ],
+      "Translation": [
+        "Haudegen"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "Falchion"
+      ],
+      "Translation": [
+        "Falchion"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "Bastard Sword"
+      ],
+      "Translation": [
+        "Bastardschwert"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": true,
+      "Original": [
+        "Schiavona"
+      ],
+      "Translation": [
+        "Schiavona"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": true,
+      "Original": [
+        "Katzbalger"
+      ],
+      "Translation": [
+        "Katzbalger"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": true,
+      "Original": [
+        "Macabuin"
+      ],
+      "Translation": [
+        "Macabuin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Dvergr Sword"
+      ],
+      "Translation": [
+        "Dvergrschwert"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": true,
+      "Original": [
+        "Hrunting"
+      ],
+      "Translation": [
+        "Hrunting"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": true,
+      "Original": [
+        "Caladbolg"
+      ],
+      "Translation": [
+        "Caladbolg"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Dragonbane"
+      ],
+      "Translation": [
+        "Drachenfluch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Sword"
+      ],
+      "Translation": [
+        "Yggdrasil-Schwert"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "King Slicer"
+      ],
+      "Translation": [
+        "Königsschneide"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Escape Sword"
+      ],
+      "Translation": [
+        "Fluchtschwert"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": true,
+      "Original": [
+        "Wiglaf Sword"
+      ],
+      "Translation": [
+        "Wiglaf-Schwert"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Poison Blade"
+      ],
+      "Translation": [
+        "Giftklinge"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": true,
+      "Original": [
+        "Falx"
+      ],
+      "Translation": [
+        "Falx"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": true,
+      "Original": [
+        "Harpe"
+      ],
+      "Translation": [
+        "Harpe"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Icy Almace"
+      ],
+      "Translation": [
+        "Eisiges Almace"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Durandal"
+      ],
+      "Translation": [
+        "Durandart"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Cavalier Killer"
+      ],
+      "Translation": [
+        "Kavaliersmörder"
+      ],
+      "Notes": [
+        "Übersetzung? Basiert auf 斬馬刀 / Zanbatou?"
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Ancient Kopis"
+      ],
+      "Translation": [
+        "Altes Kopis"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Ancient Schiavona"
+      ],
+      "Translation": [
+        "Altes Schiavona"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Sword10"
+      ],
+      "Translation": [
+        "Rare Sword10"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": true,
+      "Original": [
+        "Wakizashi"
+      ],
+      "Translation": [
+        "Wakizashi"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": true,
+      "Original": [
+        "Uchigatana"
+      ],
+      "Translation": [
+        "Uchigatana"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": true,
+      "Original": [
+        "Warabite"
+      ],
+      "Translation": [
+        "Warabite"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": true,
+      "Original": [
+        "Dangosashi"
+      ],
+      "Translation": [
+        "Dangosashi"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": true,
+      "Original": [
+        "Kumo Otoshi"
+      ],
+      "Translation": [
+        "Kumo Otoshi"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": true,
+      "Original": [
+        "Kijin Daiou"
+      ],
+      "Translation": [
+        "Kijin Daiou"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": true,
+      "Original": [
+        "Ichimonji"
+      ],
+      "Translation": [
+        "Ichimonji"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": true,
+      "Original": [
+        "Nenekirimaru"
+      ],
+      "Translation": [
+        "Nenekirimaru"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "Ameno Habakiri"
+      ],
+      "Translation": [
+        "Ameno Habakiri"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": true,
+      "Original": [
+        "Yggdrasil Reitou"
+      ],
+      "Translation": [
+        "Yggdrasil Reitou"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": true,
+      "Original": [
+        "Mumeitou"
+      ],
+      "Translation": [
+        "Mumeitou"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": true,
+      "Original": [
+        "Nikkari"
+      ],
+      "Translation": [
+        "Nikkari"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": true,
+      "Original": [
+        "Monohoshizao"
+      ],
+      "Translation": [
+        "Monohoshizao"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": true,
+      "Original": [
+        "Kotegiri"
+      ],
+      "Translation": [
+        "Kotegiri"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": true,
+      "Original": [
+        "Youtou Nihiru"
+      ],
+      "Translation": [
+        "Youtou Nihiru"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Sword06"
+      ],
+      "Translation": [
+        "Rare Sword06"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Sword07"
+      ],
+      "Translation": [
+        "Rare Sword07"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": true,
+      "Original": [
+        "DUMMY"
+      ],
+      "Translation": [
+        "DUMMY"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Imperial Blade"
+      ],
+      "Translation": [
+        "Imperiale Klinge"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "Peacemaker"
+      ],
+      "Translation": [
+        "Peacemaker"
+      ],
+      "Notes": [
+        "Übersetzung? \"Friedensstifter\"?"
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "Dragoon"
+      ],
+      "Translation": [
+        "Dragoon"
+      ],
+      "Notes": [
+        "Übersetzung? \"Dragoner\"?"
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": true,
+      "Original": [
+        "Shiden"
+      ],
+      "Translation": [
+        "Shiden"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": true,
+      "Original": [
+        "Fomalhaut"
+      ],
+      "Translation": [
+        "Fomalhaut"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Prince"
+      ],
+      "Translation": [
+        "Prinz Yggdrasil"
+      ],
+      "Notes": [
+        "Übersetzung?"
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": true,
+      "Original": [
+        "A drive blade07"
+      ],
+      "Translation": [
+        "A drive blade07"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": true,
+      "Original": [
+        "A drive blade08"
+      ],
+      "Translation": [
+        "A drive blade08"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": true,
+      "Original": [
+        "A drive blade09"
+      ],
+      "Translation": [
+        "A drive blade09"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": true,
+      "Original": [
+        "A drive blade10"
+      ],
+      "Translation": [
+        "A drive blade10"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": true,
+      "Original": [
+        "A drive blade11"
+      ],
+      "Translation": [
+        "A drive blade11"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": true,
+      "Original": [
+        "A drive blade12"
+      ],
+      "Translation": [
+        "A drive blade12"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": true,
+      "Original": [
+        "A drive blade13"
+      ],
+      "Translation": [
+        "A drive blade13"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": true,
+      "Original": [
+        "A drive blade14"
+      ],
+      "Translation": [
+        "A drive blade14"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": true,
+      "Original": [
+        "A drive blade15"
+      ],
+      "Translation": [
+        "A drive blade15"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": true,
+      "Original": [
+        "Shiden EX"
+      ],
+      "Translation": [
+        "Shiden EX"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": true,
+      "Original": [
+        "Reppu"
+      ],
+      "Translation": [
+        "Reppu"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "Paralyzer"
+      ],
+      "Translation": [
+        "Paralyzer"
+      ],
+      "Notes": [
+        "Übersetzung? \"Paralysierer\"?"
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Drive Sword04"
+      ],
+      "Translation": [
+        "Rare Drive Sword04"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Drive Sword05"
+      ],
+      "Translation": [
+        "Rare Drive Sword05"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Drive Sword06"
+      ],
+      "Translation": [
+        "Rare Drive Sword06"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Drive Sword07"
+      ],
+      "Translation": [
+        "Rare Drive Sword07"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 108,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 109,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": true,
+      "Original": [
+        "ダミー"
+      ],
+      "Translation": [
+        "ダミー"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 117,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 118,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 119,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "Dagger"
+      ],
+      "Translation": [
+        "Dolch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "Makiri"
+      ],
+      "Translation": [
+        "Makiri"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "Pugio"
+      ],
+      "Translation": [
+        "Pugio"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "Balisong"
+      ],
+      "Translation": [
+        "Balisong"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "Machete"
+      ],
+      "Translation": [
+        "Machete"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "Spatha"
+      ],
+      "Translation": [
+        "Spatha"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "Ballock Knife"
+      ],
+      "Translation": [
+        "Nierendolch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 128,
+      "IsIgnored": false,
+      "Original": [
+        "Ring Dagger"
+      ],
+      "Translation": [
+        "Ringdolch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 129,
+      "IsIgnored": false,
+      "Original": [
+        "Kunai"
+      ],
+      "Translation": [
+        "Kunai"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": false,
+      "Original": [
+        "Jamadhar"
+      ],
+      "Translation": [
+        "Jamadhar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "Parazonium"
+      ],
+      "Translation": [
+        "Parazonium"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": false,
+      "Original": [
+        "Aikuchi"
+      ],
+      "Translation": [
+        "Aikuchi"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": false,
+      "Original": [
+        "Dirk"
+      ],
+      "Translation": [
+        "Langdolch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": false,
+      "Original": [
+        "Baselard"
+      ],
+      "Translation": [
+        "Baselard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": false,
+      "Original": [
+        "Kukuri"
+      ],
+      "Translation": [
+        "Kukuri"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 136,
+      "IsIgnored": false,
+      "Original": [
+        "Khanjar"
+      ],
+      "Translation": [
+        "Khanjar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 137,
+      "IsIgnored": false,
+      "Original": [
+        "Liuyedao"
+      ],
+      "Translation": [
+        "Liuyedao"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 138,
+      "IsIgnored": false,
+      "Original": [
+        "Futsuno Mitama"
+      ],
+      "Translation": [
+        "Futsuno Mitama"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 139,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Knife"
+      ],
+      "Translation": [
+        "Yggdrasil-Messer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 140,
+      "IsIgnored": false,
+      "Original": [
+        "Surgical Scalpel"
+      ],
+      "Translation": [
+        "Chirurgisches Skalpell"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": false,
+      "Original": [
+        "Main Gauche"
+      ],
+      "Translation": [
+        "Main Gauche"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": false,
+      "Original": [
+        "Sanctus"
+      ],
+      "Translation": [
+        "Sanctus"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 147,
+      "IsIgnored": false,
+      "Original": [
+        "Sonic Dagger"
+      ],
+      "Translation": [
+        "Sonic Dagger"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": false,
+      "Original": [
+        "Keris"
+      ],
+      "Translation": [
+        "Keris"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 149,
+      "IsIgnored": false,
+      "Original": [
+        "Ancient Makiri"
+      ],
+      "Translation": [
+        "Ancient Makiri"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": false,
+      "Original": [
+        "Narcoleps"
+      ],
+      "Translation": [
+        "Narcoleps"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 151,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 152,
+      "IsIgnored": false,
+      "Original": [
+        "Stun Knife"
+      ],
+      "Translation": [
+        "Stun Knife"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 153,
+      "IsIgnored": false,
+      "Original": [
+        "Epetam"
+      ],
+      "Translation": [
+        "Epetam"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 154,
+      "IsIgnored": false,
+      "Original": [
+        "Ancient Kunai"
+      ],
+      "Translation": [
+        "Ancient Kunai"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": false,
+      "Original": [
+        "Assassin Dagger"
+      ],
+      "Translation": [
+        "Assassin Dagger"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 156,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 157,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 158,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 159,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 160,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": false,
+      "Original": [
+        "Fleuret"
+      ],
+      "Translation": [
+        "Fleuret"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": false,
+      "Original": [
+        "Panzerstecher"
+      ],
+      "Translation": [
+        "Panzerstecher"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": false,
+      "Original": [
+        "Town Sword"
+      ],
+      "Translation": [
+        "Town Sword"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": false,
+      "Original": [
+        "Pallasch"
+      ],
+      "Translation": [
+        "Pallasch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": false,
+      "Original": [
+        "Pigsticker"
+      ],
+      "Translation": [
+        "Pigsticker"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 166,
+      "IsIgnored": false,
+      "Original": [
+        "Rapier"
+      ],
+      "Translation": [
+        "Rapier"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 167,
+      "IsIgnored": false,
+      "Original": [
+        "Espada Ropera"
+      ],
+      "Translation": [
+        "Espada Ropera"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 168,
+      "IsIgnored": false,
+      "Original": [
+        "Verdun"
+      ],
+      "Translation": [
+        "Verdun"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 169,
+      "IsIgnored": false,
+      "Original": [
+        "Stiletto"
+      ],
+      "Translation": [
+        "Stiletto"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 170,
+      "IsIgnored": false,
+      "Original": [
+        "Moralltach"
+      ],
+      "Translation": [
+        "Moralltach"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": false,
+      "Original": [
+        "Estoc"
+      ],
+      "Translation": [
+        "Estoc"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": false,
+      "Original": [
+        "Misericorde"
+      ],
+      "Translation": [
+        "Misericorde"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": false,
+      "Original": [
+        "Colichemarde"
+      ],
+      "Translation": [
+        "Colichemarde"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": false,
+      "Original": [
+        "Zirah Bouk"
+      ],
+      "Translation": [
+        "Zirah Bouk"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": false,
+      "Original": [
+        "Egeking"
+      ],
+      "Translation": [
+        "Egeking"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": false,
+      "Original": [
+        "Struggle"
+      ],
+      "Translation": [
+        "Struggle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 177,
+      "IsIgnored": false,
+      "Original": [
+        "Last Estoc"
+      ],
+      "Translation": [
+        "Last Estoc"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 178,
+      "IsIgnored": false,
+      "Original": [
+        "Fragarach"
+      ],
+      "Translation": [
+        "Fragarach"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 179,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Rapier"
+      ],
+      "Translation": [
+        "Yggdrasil Rapier"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 180,
+      "IsIgnored": false,
+      "Original": [
+        "Ancient Rapier"
+      ],
+      "Translation": [
+        "Ancient Rapier"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": false,
+      "Original": [
+        "Acupuncture Pin"
+      ],
+      "Translation": [
+        "Acupuncture Pin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "IsIgnored": false,
+      "Original": [
+        "Matador Rapier"
+      ],
+      "Translation": [
+        "Matador Rapier"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 183,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 184,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 185,
+      "IsIgnored": false,
+      "Original": [
+        "Blinding Piercer"
+      ],
+      "Translation": [
+        "Blinding Piercer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 186,
+      "IsIgnored": false,
+      "Original": [
+        "Sting"
+      ],
+      "Translation": [
+        "Sting"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 187,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 188,
+      "IsIgnored": false,
+      "Original": [
+        "Joyeuse"
+      ],
+      "Translation": [
+        "Joyeuse"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 189,
+      "IsIgnored": false,
+      "Original": [
+        "Hauteclaire"
+      ],
+      "Translation": [
+        "Hauteclaire"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 190,
+      "IsIgnored": false,
+      "Original": [
+        "Panic Fleuret"
+      ],
+      "Translation": [
+        "Panic Fleuret"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 191,
+      "IsIgnored": false,
+      "Original": [
+        "Ascalon"
+      ],
+      "Translation": [
+        "Ascalon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 192,
+      "IsIgnored": false,
+      "Original": [
+        "Ancient Estoc"
+      ],
+      "Translation": [
+        "Ancient Estoc"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 193,
+      "IsIgnored": false,
+      "Original": [
+        "Flamberge"
+      ],
+      "Translation": [
+        "Flamberge"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 194,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Rapier10"
+      ],
+      "Translation": [
+        "Rare Rapier10"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 195,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 196,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 197,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 198,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 199,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 200,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 201,
+      "IsIgnored": false,
+      "Original": [
+        "Wood Bow"
+      ],
+      "Translation": [
+        "Wood Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 202,
+      "IsIgnored": false,
+      "Original": [
+        "Beast Bow"
+      ],
+      "Translation": [
+        "Beast Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 203,
+      "IsIgnored": false,
+      "Original": [
+        "Short Bow"
+      ],
+      "Translation": [
+        "Short Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 204,
+      "IsIgnored": false,
+      "Original": [
+        "Recurve Bow"
+      ],
+      "Translation": [
+        "Recurve Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 205,
+      "IsIgnored": false,
+      "Original": [
+        "Hindi"
+      ],
+      "Translation": [
+        "Hindi"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 206,
+      "IsIgnored": false,
+      "Original": [
+        "Kamatha"
+      ],
+      "Translation": [
+        "Kamatha"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 207,
+      "IsIgnored": false,
+      "Original": [
+        "Long Bow"
+      ],
+      "Translation": [
+        "Long Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 208,
+      "IsIgnored": false,
+      "Original": [
+        "Hunter Bow"
+      ],
+      "Translation": [
+        "Hunter Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 209,
+      "IsIgnored": false,
+      "Original": [
+        "Fin Bow"
+      ],
+      "Translation": [
+        "Fin Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 210,
+      "IsIgnored": false,
+      "Original": [
+        "Higoyumi"
+      ],
+      "Translation": [
+        "Higoyumi"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 211,
+      "IsIgnored": false,
+      "Original": [
+        "Gendawa"
+      ],
+      "Translation": [
+        "Gendawa"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 212,
+      "IsIgnored": false,
+      "Original": [
+        "Aquael"
+      ],
+      "Translation": [
+        "Aquael"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 213,
+      "IsIgnored": false,
+      "Original": [
+        "War Bow"
+      ],
+      "Translation": [
+        "War Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 214,
+      "IsIgnored": false,
+      "Original": [
+        "Sigurd's Bow"
+      ],
+      "Translation": [
+        "Sigurd's Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 215,
+      "IsIgnored": false,
+      "Original": [
+        "Zamiel Bow"
+      ],
+      "Translation": [
+        "Zamiel Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 216,
+      "IsIgnored": false,
+      "Original": [
+        "Shidgedou"
+      ],
+      "Translation": [
+        "Shidgedou"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 217,
+      "IsIgnored": false,
+      "Original": [
+        "Tristan's Bow"
+      ],
+      "Translation": [
+        "Tristan's Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 218,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Bow"
+      ],
+      "Translation": [
+        "Yggdrasil Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 219,
+      "IsIgnored": false,
+      "Original": [
+        "Ancient Hindi"
+      ],
+      "Translation": [
+        "Ancient Hindi"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 220,
+      "IsIgnored": false,
+      "Original": [
+        "Quintet Bow"
+      ],
+      "Translation": [
+        "Quintet Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 221,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 222,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 223,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 224,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 225,
+      "IsIgnored": false,
+      "Original": [
+        "Arm Shooter"
+      ],
+      "Translation": [
+        "Arm Shooter"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 226,
+      "IsIgnored": false,
+      "Original": [
+        "Tension Bow"
+      ],
+      "Translation": [
+        "Tension Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 227,
+      "IsIgnored": false,
+      "Original": [
+        "Apollo"
+      ],
+      "Translation": [
+        "Apollo"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 228,
+      "IsIgnored": false,
+      "Original": [
+        "Heaven Bow"
+      ],
+      "Translation": [
+        "Heaven Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 229,
+      "IsIgnored": false,
+      "Original": [
+        "Raijoudou"
+      ],
+      "Translation": [
+        "Raijoudou"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 230,
+      "IsIgnored": false,
+      "Original": [
+        "Yumiyawata"
+      ],
+      "Translation": [
+        "Yumiyawata"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 231,
+      "IsIgnored": false,
+      "Original": [
+        "Sylvan Bow"
+      ],
+      "Translation": [
+        "Sylvan Bow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 232,
+      "IsIgnored": false,
+      "Original": [
+        "Blaster"
+      ],
+      "Translation": [
+        "Blaster"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 233,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Bow 09"
+      ],
+      "Translation": [
+        "Rare Bow 09"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 234,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Bow10"
+      ],
+      "Translation": [
+        "Rare Bow10"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 235,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 236,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 237,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 238,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 239,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 240,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 241,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 242,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 243,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 244,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 245,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 246,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 247,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 248,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 249,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 250,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 251,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 252,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 253,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 254,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 255,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 256,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 257,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 258,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 259,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 260,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 261,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 262,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 263,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 264,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 265,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 266,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 267,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 268,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 269,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 270,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 271,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 272,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 273,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 274,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 275,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 276,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 277,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 278,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 279,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 280,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 281,
+      "IsIgnored": false,
+      "Original": [
+        "Light Mace"
+      ],
+      "Translation": [
+        "Light Mace"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 282,
+      "IsIgnored": false,
+      "Original": [
+        "Nirrti"
+      ],
+      "Translation": [
+        "Nirrti"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 283,
+      "IsIgnored": false,
+      "Original": [
+        "Crushing Club"
+      ],
+      "Translation": [
+        "Crushing Club"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 284,
+      "IsIgnored": false,
+      "Original": [
+        "Spiked Club"
+      ],
+      "Translation": [
+        "Spiked Club"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 285,
+      "IsIgnored": false,
+      "Original": [
+        "Meteor Hammer"
+      ],
+      "Translation": [
+        "Meteor Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 286,
+      "IsIgnored": false,
+      "Original": [
+        "Hex Club"
+      ],
+      "Translation": [
+        "Hex Club"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 287,
+      "IsIgnored": false,
+      "Original": [
+        "Heavy Mace"
+      ],
+      "Translation": [
+        "Heavy Mace"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 288,
+      "IsIgnored": false,
+      "Original": [
+        "Volcanic"
+      ],
+      "Translation": [
+        "Volcanic"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 289,
+      "IsIgnored": false,
+      "Original": [
+        "Kanasaibou"
+      ],
+      "Translation": [
+        "Kanasaibou"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 290,
+      "IsIgnored": false,
+      "Original": [
+        "Dramborleg"
+      ],
+      "Translation": [
+        "Dramborleg"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 291,
+      "IsIgnored": false,
+      "Original": [
+        "Jadagna"
+      ],
+      "Translation": [
+        "Jadagna"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 292,
+      "IsIgnored": false,
+      "Original": [
+        "Langyabang"
+      ],
+      "Translation": [
+        "Langyabang"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 293,
+      "IsIgnored": false,
+      "Original": [
+        "War Pick"
+      ],
+      "Translation": [
+        "War Pick"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 294,
+      "IsIgnored": false,
+      "Original": [
+        "Eliminator"
+      ],
+      "Translation": [
+        "Eliminator"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 295,
+      "IsIgnored": false,
+      "Original": [
+        "Bolt Warhammer"
+      ],
+      "Translation": [
+        "Bolt Warhammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 296,
+      "IsIgnored": false,
+      "Original": [
+        "Gennou"
+      ],
+      "Translation": [
+        "Gennou"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 297,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Mace"
+      ],
+      "Translation": [
+        "Yggdrasil Mace"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 298,
+      "IsIgnored": false,
+      "Original": [
+        "Juncto Hammer"
+      ],
+      "Translation": [
+        "Juncto Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 299,
+      "IsIgnored": false,
+      "Original": [
+        "King Salmon"
+      ],
+      "Translation": [
+        "King Salmon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 300,
+      "IsIgnored": false,
+      "Original": [
+        "Lexxy's Hammer"
+      ],
+      "Translation": [
+        "Lexxy's Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 301,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 302,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 303,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 304,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 305,
+      "IsIgnored": false,
+      "Original": [
+        "Macana"
+      ],
+      "Translation": [
+        "Macana"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 306,
+      "IsIgnored": false,
+      "Original": [
+        "Komodo Hammer"
+      ],
+      "Translation": [
+        "Komodo Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 307,
+      "IsIgnored": false,
+      "Original": [
+        "Morgenstern"
+      ],
+      "Translation": [
+        "Morgenstern"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 308,
+      "IsIgnored": false,
+      "Original": [
+        "Metal Keisaku"
+      ],
+      "Translation": [
+        "Metal Keisaku"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 309,
+      "IsIgnored": false,
+      "Original": [
+        "Cataphract"
+      ],
+      "Translation": [
+        "Cataphract"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 310,
+      "IsIgnored": false,
+      "Original": [
+        "Yagrush"
+      ],
+      "Translation": [
+        "Yagrush"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 311,
+      "IsIgnored": false,
+      "Original": [
+        "Ancient Volcanic"
+      ],
+      "Translation": [
+        "Ancient Volcanic"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 312,
+      "IsIgnored": false,
+      "Original": [
+        "Evil Eye Club"
+      ],
+      "Translation": [
+        "Evil Eye Club"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 313,
+      "IsIgnored": false,
+      "Original": [
+        "Skull Crusher"
+      ],
+      "Translation": [
+        "Skull Crusher"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 314,
+      "IsIgnored": false,
+      "Original": [
+        "Bloody Hammer"
+      ],
+      "Translation": [
+        "Bloody Hammer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 315,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 316,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 317,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 318,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 319,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 320,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 321,
+      "IsIgnored": false,
+      "Original": [
+        "Wand"
+      ],
+      "Translation": [
+        "Wand"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 322,
+      "IsIgnored": false,
+      "Original": [
+        "Bone Staff"
+      ],
+      "Translation": [
+        "Bone Staff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 323,
+      "IsIgnored": false,
+      "Original": [
+        "Amud Staff"
+      ],
+      "Translation": [
+        "Amud Staff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 324,
+      "IsIgnored": false,
+      "Original": [
+        "Feather Staff"
+      ],
+      "Translation": [
+        "Feather Staff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 325,
+      "IsIgnored": false,
+      "Original": [
+        "Rune Wand"
+      ],
+      "Translation": [
+        "Rune Wand"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 326,
+      "IsIgnored": false,
+      "Original": [
+        "Fragrant Wand"
+      ],
+      "Translation": [
+        "Fragrant Wand"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 327,
+      "IsIgnored": false,
+      "Original": [
+        "Mist Rod"
+      ],
+      "Translation": [
+        "Mist Rod"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 328,
+      "IsIgnored": false,
+      "Original": [
+        "Wind Rod"
+      ],
+      "Translation": [
+        "Wind Rod"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 329,
+      "IsIgnored": false,
+      "Original": [
+        "Luck Staff"
+      ],
+      "Translation": [
+        "Luck Staff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 330,
+      "IsIgnored": false,
+      "Original": [
+        "Jewel Staff"
+      ],
+      "Translation": [
+        "Jewel Staff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 331,
+      "IsIgnored": false,
+      "Original": [
+        "Vajra"
+      ],
+      "Translation": [
+        "Vajra"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 332,
+      "IsIgnored": false,
+      "Original": [
+        "Purple Rod"
+      ],
+      "Translation": [
+        "Purple Rod"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 333,
+      "IsIgnored": false,
+      "Original": [
+        "Mirage Rod"
+      ],
+      "Translation": [
+        "Mirage Rod"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 334,
+      "IsIgnored": false,
+      "Original": [
+        "Khakkhara"
+      ],
+      "Translation": [
+        "Khakkhara"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 335,
+      "IsIgnored": false,
+      "Original": [
+        "Thyrsos"
+      ],
+      "Translation": [
+        "Thyrsos"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 336,
+      "IsIgnored": false,
+      "Original": [
+        "Arcana Rod"
+      ],
+      "Translation": [
+        "Arcana Rod"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 337,
+      "IsIgnored": false,
+      "Original": [
+        "Sage Wand"
+      ],
+      "Translation": [
+        "Sage Wand"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 338,
+      "IsIgnored": false,
+      "Original": [
+        "Kerykeion"
+      ],
+      "Translation": [
+        "Kerykeion"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 339,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Branch"
+      ],
+      "Translation": [
+        "Yggdrasil Branch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 340,
+      "IsIgnored": false,
+      "Original": [
+        "Frigid Staff"
+      ],
+      "Translation": [
+        "Frigid Staff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 341,
+      "IsIgnored": false,
+      "Original": [
+        "Whispering Staff"
+      ],
+      "Translation": [
+        "Whispering Staff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 342,
+      "IsIgnored": false,
+      "Original": [
+        "Goddess Torch"
+      ],
+      "Translation": [
+        "Goddess Torch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 343,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Baton"
+      ],
+      "Translation": [
+        "Yggdrasil Baton"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 344,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 345,
+      "IsIgnored": false,
+      "Original": [
+        "Healing Wand"
+      ],
+      "Translation": [
+        "Healing Wand"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 346,
+      "IsIgnored": false,
+      "Original": [
+        "Old Wand"
+      ],
+      "Translation": [
+        "Old Wand"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 347,
+      "IsIgnored": false,
+      "Original": [
+        "Death Wand"
+      ],
+      "Translation": [
+        "Death Wand"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 348,
+      "IsIgnored": false,
+      "Original": [
+        "Ogre Vajra"
+      ],
+      "Translation": [
+        "Ogre Vajra"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 349,
+      "IsIgnored": false,
+      "Original": [
+        "Cranial Chill"
+      ],
+      "Translation": [
+        "Cranial Chill"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 350,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Wand06"
+      ],
+      "Translation": [
+        "Rare Wand06"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 351,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Wand07"
+      ],
+      "Translation": [
+        "Rare Wand07"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 352,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Wand08"
+      ],
+      "Translation": [
+        "Rare Wand08"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 353,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Wand09"
+      ],
+      "Translation": [
+        "Rare Wand09"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 354,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Wand10"
+      ],
+      "Translation": [
+        "Rare Wand10"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 355,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 356,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 357,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 358,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 359,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 360,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 361,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 362,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 363,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 364,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 365,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 366,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 367,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 368,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 369,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 370,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 371,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 372,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 373,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 374,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 375,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 376,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 377,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 378,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 379,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 380,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 381,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 382,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 383,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 384,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 385,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 386,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 387,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 388,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 389,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 390,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 391,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 392,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 393,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 394,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 395,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 396,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 397,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 398,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 399,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 400,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 401,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 402,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 403,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 404,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 405,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 406,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 407,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 408,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 409,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 410,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 411,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 412,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 413,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 414,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 415,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 416,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 417,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 418,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 419,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 420,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 421,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 422,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 423,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 424,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 425,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 426,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 427,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 428,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 429,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 430,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 431,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 432,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 433,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 434,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 435,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 436,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 437,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 438,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 439,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 440,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 441,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 442,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 443,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 444,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 445,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 446,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 447,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 448,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 449,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 450,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 451,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 452,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 453,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 454,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 455,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 456,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 457,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 458,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 459,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 460,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 461,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 462,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 463,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 464,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 465,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 466,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 467,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 468,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 469,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 470,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 471,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 472,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 473,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 474,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 475,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 476,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 477,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 478,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 479,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 480,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 481,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 482,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 483,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 484,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 485,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 486,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 487,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 488,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 489,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 490,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 491,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 492,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 493,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 494,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 495,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 496,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 497,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 498,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 499,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 500,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 501,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 502,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 503,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 504,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 505,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 506,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 507,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 508,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 509,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 510,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 511,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 512,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 513,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 514,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 515,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 516,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 517,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 518,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 519,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 520,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 521,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 522,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 523,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 524,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 525,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 526,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 527,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 528,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 529,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 530,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 531,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 532,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 533,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 534,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 535,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 536,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 537,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 538,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 539,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 540,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 541,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 542,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 543,
+      "IsIgnored": true,
+      "Original": [
+        "Test Armor"
+      ],
+      "Translation": [
+        "Test Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 544,
+      "IsIgnored": false,
+      "Original": [
+        "Scale Mail"
+      ],
+      "Translation": [
+        "Scale Mail"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 545,
+      "IsIgnored": false,
+      "Original": [
+        "Lorica Squamata"
+      ],
+      "Translation": [
+        "Lorica Squamata"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 546,
+      "IsIgnored": false,
+      "Original": [
+        "Studded Mail"
+      ],
+      "Translation": [
+        "Studded Mail"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 547,
+      "IsIgnored": false,
+      "Original": [
+        "Ring Mail"
+      ],
+      "Translation": [
+        "Ring Mail"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 548,
+      "IsIgnored": false,
+      "Original": [
+        "Fluted Armor"
+      ],
+      "Translation": [
+        "Fluted Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 549,
+      "IsIgnored": false,
+      "Original": [
+        "Alla Romana"
+      ],
+      "Translation": [
+        "Alla Romana"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 550,
+      "IsIgnored": false,
+      "Original": [
+        "Composite Armor"
+      ],
+      "Translation": [
+        "Composite Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 551,
+      "IsIgnored": false,
+      "Original": [
+        "Plate Mail"
+      ],
+      "Translation": [
+        "Plate Mail"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 552,
+      "IsIgnored": false,
+      "Original": [
+        "Brigandine"
+      ],
+      "Translation": [
+        "Brigandine"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 553,
+      "IsIgnored": false,
+      "Original": [
+        "Full Plate"
+      ],
+      "Translation": [
+        "Full Plate"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 554,
+      "IsIgnored": false,
+      "Original": [
+        "Plate Coat"
+      ],
+      "Translation": [
+        "Plate Coat"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 555,
+      "IsIgnored": false,
+      "Original": [
+        "Field Armor"
+      ],
+      "Translation": [
+        "Field Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 556,
+      "IsIgnored": true,
+      "Original": [
+        "Kirjonen Thing"
+      ],
+      "Translation": [
+        "Kirjonen Thing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 557,
+      "IsIgnored": true,
+      "Original": [
+        "Kirjonen Thing 2"
+      ],
+      "Translation": [
+        "Kirjonen Thing 2"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 558,
+      "IsIgnored": true,
+      "Original": [
+        "Kirjonen Thing 3"
+      ],
+      "Translation": [
+        "Kirjonen Thing 3"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 559,
+      "IsIgnored": false,
+      "Original": [
+        "Sarcophagus"
+      ],
+      "Translation": [
+        "Sarcophagus"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 560,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 561,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 562,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 563,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 564,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 565,
+      "IsIgnored": false,
+      "Original": [
+        "Tourney Mail"
+      ],
+      "Translation": [
+        "Tourney Mail"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 566,
+      "IsIgnored": false,
+      "Original": [
+        "Shell Armor"
+      ],
+      "Translation": [
+        "Shell Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 567,
+      "IsIgnored": false,
+      "Original": [
+        "Heavy Armor"
+      ],
+      "Translation": [
+        "Heavy Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 568,
+      "IsIgnored": false,
+      "Original": [
+        "Adama Armor"
+      ],
+      "Translation": [
+        "Adama Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 569,
+      "IsIgnored": false,
+      "Original": [
+        "Demon Mail"
+      ],
+      "Translation": [
+        "Demon Mail"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 570,
+      "IsIgnored": false,
+      "Original": [
+        "Knight Armor"
+      ],
+      "Translation": [
+        "Knight Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 571,
+      "IsIgnored": false,
+      "Original": [
+        "Royal Byrnie"
+      ],
+      "Translation": [
+        "Royal Byrnie"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 572,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 573,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 574,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 575,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 576,
+      "IsIgnored": false,
+      "Original": [
+        "Leather Vest"
+      ],
+      "Translation": [
+        "Leather Vest"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 577,
+      "IsIgnored": false,
+      "Original": [
+        "Hobblegeon"
+      ],
+      "Translation": [
+        "Hobblegeon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 578,
+      "IsIgnored": false,
+      "Original": [
+        "Hard Plate"
+      ],
+      "Translation": [
+        "Hard Plate"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 579,
+      "IsIgnored": false,
+      "Original": [
+        "Half Armor"
+      ],
+      "Translation": [
+        "Half Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 580,
+      "IsIgnored": false,
+      "Original": [
+        "Leaf Tunic"
+      ],
+      "Translation": [
+        "Leaf Tunic"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 581,
+      "IsIgnored": false,
+      "Original": [
+        "Cuirassair"
+      ],
+      "Translation": [
+        "Cuirassair"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 582,
+      "IsIgnored": false,
+      "Original": [
+        "Hard Leather"
+      ],
+      "Translation": [
+        "Hard Leather"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 583,
+      "IsIgnored": false,
+      "Original": [
+        "Aketon"
+      ],
+      "Translation": [
+        "Aketon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 584,
+      "IsIgnored": false,
+      "Original": [
+        "Iron Plate"
+      ],
+      "Translation": [
+        "Iron Plate"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 585,
+      "IsIgnored": false,
+      "Original": [
+        "Wing Plate"
+      ],
+      "Translation": [
+        "Wing Plate"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 586,
+      "IsIgnored": false,
+      "Original": [
+        "Indigo Chain"
+      ],
+      "Translation": [
+        "Indigo Chain"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 587,
+      "IsIgnored": false,
+      "Original": [
+        "Hide Armor"
+      ],
+      "Translation": [
+        "Hide Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 588,
+      "IsIgnored": false,
+      "Original": [
+        "Padded Armor"
+      ],
+      "Translation": [
+        "Padded Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 589,
+      "IsIgnored": false,
+      "Original": [
+        "Fusskampf"
+      ],
+      "Translation": [
+        "Fusskampf"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 590,
+      "IsIgnored": false,
+      "Original": [
+        "Sevenfold Hide"
+      ],
+      "Translation": [
+        "Sevenfold Hide"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 591,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 592,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 593,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 594,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 595,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 596,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 597,
+      "IsIgnored": false,
+      "Original": [
+        "Pure Plate"
+      ],
+      "Translation": [
+        "Pure Plate"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 598,
+      "IsIgnored": false,
+      "Original": [
+        "Cloth Armor"
+      ],
+      "Translation": [
+        "Cloth Armor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 599,
+      "IsIgnored": false,
+      "Original": [
+        "Sneaking Plate"
+      ],
+      "Translation": [
+        "Sneaking Plate"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 600,
+      "IsIgnored": false,
+      "Original": [
+        "Studded Leather"
+      ],
+      "Translation": [
+        "Studded Leather"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 601,
+      "IsIgnored": false,
+      "Original": [
+        "General Leather"
+      ],
+      "Translation": [
+        "General Leather"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 602,
+      "IsIgnored": false,
+      "Original": [
+        "Mirage Vest"
+      ],
+      "Translation": [
+        "Mirage Vest"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 603,
+      "IsIgnored": false,
+      "Original": [
+        "Fairy Chain"
+      ],
+      "Translation": [
+        "Fairy Chain"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 604,
+      "IsIgnored": false,
+      "Original": [
+        "Hihiirokane"
+      ],
+      "Translation": [
+        "Hihiirokane"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 605,
+      "IsIgnored": false,
+      "Original": [
+        "Sylpheed"
+      ],
+      "Translation": [
+        "Sylpheed"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 606,
+      "IsIgnored": false,
+      "Original": [
+        "Panacea Vest"
+      ],
+      "Translation": [
+        "Panacea Vest"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 607,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 608,
+      "IsIgnored": false,
+      "Original": [
+        "Tweed"
+      ],
+      "Translation": [
+        "Tweed"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 609,
+      "IsIgnored": false,
+      "Original": [
+        "Scale Jerkin"
+      ],
+      "Translation": [
+        "Scale Jerkin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 610,
+      "IsIgnored": false,
+      "Original": [
+        "Chemise"
+      ],
+      "Translation": [
+        "Chemise"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 611,
+      "IsIgnored": false,
+      "Original": [
+        "Leaf Jacket"
+      ],
+      "Translation": [
+        "Leaf Jacket"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 612,
+      "IsIgnored": false,
+      "Original": [
+        "Kazak"
+      ],
+      "Translation": [
+        "Kazak"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 613,
+      "IsIgnored": false,
+      "Original": [
+        "Sack Dress"
+      ],
+      "Translation": [
+        "Sack Dress"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 614,
+      "IsIgnored": false,
+      "Original": [
+        "Mist Robe"
+      ],
+      "Translation": [
+        "Mist Robe"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 615,
+      "IsIgnored": false,
+      "Original": [
+        "Cotardie"
+      ],
+      "Translation": [
+        "Cotardie"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 616,
+      "IsIgnored": false,
+      "Original": [
+        "Mantle"
+      ],
+      "Translation": [
+        "Mantle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 617,
+      "IsIgnored": false,
+      "Original": [
+        "Caster's Coat"
+      ],
+      "Translation": [
+        "Caster's Coat"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 618,
+      "IsIgnored": false,
+      "Original": [
+        "Gilet"
+      ],
+      "Translation": [
+        "Gilet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 619,
+      "IsIgnored": false,
+      "Original": [
+        "Siren Tunic"
+      ],
+      "Translation": [
+        "Siren Tunic"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 620,
+      "IsIgnored": false,
+      "Original": [
+        "Witch Drawers"
+      ],
+      "Translation": [
+        "Witch Drawers"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 621,
+      "IsIgnored": false,
+      "Original": [
+        "Spirit Cape"
+      ],
+      "Translation": [
+        "Spirit Cape"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 622,
+      "IsIgnored": false,
+      "Original": [
+        "Linen Cuirass"
+      ],
+      "Translation": [
+        "Linen Cuirass"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 623,
+      "IsIgnored": false,
+      "Original": [
+        "Great Coat"
+      ],
+      "Translation": [
+        "Great Coat"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 624,
+      "IsIgnored": false,
+      "Original": [
+        "Illusion Cloak"
+      ],
+      "Translation": [
+        "Illusion Cloak"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 625,
+      "IsIgnored": false,
+      "Original": [
+        "Ao Dai"
+      ],
+      "Translation": [
+        "Ao Dai"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 626,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 627,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 628,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 629,
+      "IsIgnored": false,
+      "Original": [
+        "Moth Coat"
+      ],
+      "Translation": [
+        "Moth Coat"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 630,
+      "IsIgnored": false,
+      "Original": [
+        "Red Doublet"
+      ],
+      "Translation": [
+        "Red Doublet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 631,
+      "IsIgnored": false,
+      "Original": [
+        "Hermit Robe"
+      ],
+      "Translation": [
+        "Hermit Robe"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 632,
+      "IsIgnored": false,
+      "Original": [
+        "Aurora Veil"
+      ],
+      "Translation": [
+        "Aurora Veil"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 633,
+      "IsIgnored": false,
+      "Original": [
+        "Verdant Attire"
+      ],
+      "Translation": [
+        "Verdant Attire"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 634,
+      "IsIgnored": false,
+      "Original": [
+        "Mythic Nithsdale"
+      ],
+      "Translation": [
+        "Mythic Nithsdale"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 635,
+      "IsIgnored": false,
+      "Original": [
+        "Element Cloak"
+      ],
+      "Translation": [
+        "Element Cloak"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 636,
+      "IsIgnored": true,
+      "Original": [
+        "Kranis"
+      ],
+      "Translation": [
+        "Kranis"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 637,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Cloak09"
+      ],
+      "Translation": [
+        "Rare Cloak09"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 638,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Cloak10"
+      ],
+      "Translation": [
+        "Rare Cloak10"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 639,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 640,
+      "IsIgnored": false,
+      "Original": [
+        "Feathered Hat"
+      ],
+      "Translation": [
+        "Feathered Hat"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 641,
+      "IsIgnored": false,
+      "Original": [
+        "Deep Forest Pin"
+      ],
+      "Translation": [
+        "Deep Forest Pin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 642,
+      "IsIgnored": false,
+      "Original": [
+        "Hairpin"
+      ],
+      "Translation": [
+        "Hairpin"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 643,
+      "IsIgnored": false,
+      "Original": [
+        "Kettle Hat"
+      ],
+      "Translation": [
+        "Kettle Hat"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 644,
+      "IsIgnored": false,
+      "Original": [
+        "Chain Helm"
+      ],
+      "Translation": [
+        "Chain Helm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 645,
+      "IsIgnored": false,
+      "Original": [
+        "Bascinet"
+      ],
+      "Translation": [
+        "Bascinet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 646,
+      "IsIgnored": false,
+      "Original": [
+        "Caresche"
+      ],
+      "Translation": [
+        "Caresche"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 647,
+      "IsIgnored": false,
+      "Original": [
+        "Round Helm"
+      ],
+      "Translation": [
+        "Round Helm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 648,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 649,
+      "IsIgnored": false,
+      "Original": [
+        "Crown Hat"
+      ],
+      "Translation": [
+        "Crown Hat"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 650,
+      "IsIgnored": false,
+      "Original": [
+        "Nightcap"
+      ],
+      "Translation": [
+        "Nightcap"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 651,
+      "IsIgnored": false,
+      "Original": [
+        "Morion"
+      ],
+      "Translation": [
+        "Morion"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 652,
+      "IsIgnored": false,
+      "Original": [
+        "Barrel Helm"
+      ],
+      "Translation": [
+        "Barrel Helm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 653,
+      "IsIgnored": false,
+      "Original": [
+        "Armet"
+      ],
+      "Translation": [
+        "Armet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 654,
+      "IsIgnored": false,
+      "Original": [
+        "Kirjonen's Hat"
+      ],
+      "Translation": [
+        "Kirjonen's Hat"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 655,
+      "IsIgnored": false,
+      "Original": [
+        "Kirjonen's Helm"
+      ],
+      "Translation": [
+        "Kirjonen's Helm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 656,
+      "IsIgnored": false,
+      "Original": [
+        "Raht's Helm"
+      ],
+      "Translation": [
+        "Raht's Helm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 657,
+      "IsIgnored": false,
+      "Original": [
+        "Third Eye Cloth"
+      ],
+      "Translation": [
+        "Third Eye Cloth"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 658,
+      "IsIgnored": false,
+      "Original": [
+        "Jester's Mask"
+      ],
+      "Translation": [
+        "Jester's Mask"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 659,
+      "IsIgnored": false,
+      "Original": [
+        "Beast God Collar"
+      ],
+      "Translation": [
+        "Beast God Collar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 660,
+      "IsIgnored": false,
+      "Original": [
+        "Dryad's Earring"
+      ],
+      "Translation": [
+        "Dryad's Earring"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 661,
+      "IsIgnored": false,
+      "Original": [
+        "Ninja Hood"
+      ],
+      "Translation": [
+        "Ninja Hood"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 662,
+      "IsIgnored": false,
+      "Original": [
+        "Jade Mask"
+      ],
+      "Translation": [
+        "Jade Mask"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 663,
+      "IsIgnored": false,
+      "Original": [
+        "Barbute"
+      ],
+      "Translation": [
+        "Barbute"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 664,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil Crown"
+      ],
+      "Translation": [
+        "Yggdrasil Crown"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 665,
+      "IsIgnored": false,
+      "Original": [
+        "Forest Crown"
+      ],
+      "Translation": [
+        "Forest Crown"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 666,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 667,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 668,
+      "IsIgnored": false,
+      "Original": [
+        "Circlet"
+      ],
+      "Translation": [
+        "Circlet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 669,
+      "IsIgnored": false,
+      "Original": [
+        "Heretic's Mask"
+      ],
+      "Translation": [
+        "Heretic's Mask"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 670,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Helm08"
+      ],
+      "Translation": [
+        "Rare Helm08"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 671,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 672,
+      "IsIgnored": false,
+      "Original": [
+        "Thick Gages"
+      ],
+      "Translation": [
+        "Thick Gages"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 673,
+      "IsIgnored": false,
+      "Original": [
+        "Feather Gloves"
+      ],
+      "Translation": [
+        "Feather Gloves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 674,
+      "IsIgnored": false,
+      "Original": [
+        "Leather Gloves"
+      ],
+      "Translation": [
+        "Leather Gloves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 675,
+      "IsIgnored": false,
+      "Original": [
+        "Studded Gloves"
+      ],
+      "Translation": [
+        "Studded Gloves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 676,
+      "IsIgnored": false,
+      "Original": [
+        "Iron Gloves"
+      ],
+      "Translation": [
+        "Iron Gloves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 677,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 678,
+      "IsIgnored": false,
+      "Original": [
+        "Hard Gloves"
+      ],
+      "Translation": [
+        "Hard Gloves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 679,
+      "IsIgnored": false,
+      "Original": [
+        "Stain Gages"
+      ],
+      "Translation": [
+        "Stain Gages"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 680,
+      "IsIgnored": false,
+      "Original": [
+        "Exorcism Gloves"
+      ],
+      "Translation": [
+        "Exorcism Gloves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 681,
+      "IsIgnored": false,
+      "Original": [
+        "Gauntlets"
+      ],
+      "Translation": [
+        "Gauntlets"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 682,
+      "IsIgnored": false,
+      "Original": [
+        "Rune Gages"
+      ],
+      "Translation": [
+        "Rune Gages"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 683,
+      "IsIgnored": false,
+      "Original": [
+        "Expel Arms"
+      ],
+      "Translation": [
+        "Expel Arms"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 684,
+      "IsIgnored": false,
+      "Original": [
+        "Beast Gauntlets"
+      ],
+      "Translation": [
+        "Beast Gauntlets"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 685,
+      "IsIgnored": false,
+      "Original": [
+        "Brave Bracers"
+      ],
+      "Translation": [
+        "Brave Bracers"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 686,
+      "IsIgnored": true,
+      "Original": [
+        "Kirjonen's Bracers"
+      ],
+      "Translation": [
+        "Kirjonen's Bracers"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 687,
+      "IsIgnored": false,
+      "Original": [
+        "Medic's Gloves"
+      ],
+      "Translation": [
+        "Medic's Gloves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 688,
+      "IsIgnored": false,
+      "Original": [
+        "Sniper Gauntlets"
+      ],
+      "Translation": [
+        "Sniper Gauntlets"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 689,
+      "IsIgnored": false,
+      "Original": [
+        "Runemaster Bangle"
+      ],
+      "Translation": [
+        "Runemaster Bangle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 690,
+      "IsIgnored": true,
+      "Original": [
+        "Arms19"
+      ],
+      "Translation": [
+        "Arms19"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 691,
+      "IsIgnored": true,
+      "Original": [
+        "Arms20"
+      ],
+      "Translation": [
+        "Arms20"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 692,
+      "IsIgnored": true,
+      "Original": [
+        "Arms21"
+      ],
+      "Translation": [
+        "Arms21"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 693,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 694,
+      "IsIgnored": false,
+      "Original": [
+        "Poofy Mittens"
+      ],
+      "Translation": [
+        "Poofy Mittens"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 695,
+      "IsIgnored": false,
+      "Original": [
+        "Strength Bracers"
+      ],
+      "Translation": [
+        "Strength Bracers"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 696,
+      "IsIgnored": false,
+      "Original": [
+        "Bracers"
+      ],
+      "Translation": [
+        "Bracers"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 697,
+      "IsIgnored": false,
+      "Original": [
+        "Croc Bracers"
+      ],
+      "Translation": [
+        "Croc Bracers"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 698,
+      "IsIgnored": false,
+      "Original": [
+        "Power Gloves"
+      ],
+      "Translation": [
+        "Power Gloves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 699,
+      "IsIgnored": false,
+      "Original": [
+        "Superior Glove"
+      ],
+      "Translation": [
+        "Superior Glove"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 700,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Arms07"
+      ],
+      "Translation": [
+        "Rare Arms07"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 701,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Arms08"
+      ],
+      "Translation": [
+        "Rare Arms08"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 702,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Arms09"
+      ],
+      "Translation": [
+        "Rare Arms09"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 703,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 704,
+      "IsIgnored": false,
+      "Original": [
+        "Hide Boots"
+      ],
+      "Translation": [
+        "Hide Boots"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 705,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 706,
+      "IsIgnored": false,
+      "Original": [
+        "Strap Shoes"
+      ],
+      "Translation": [
+        "Strap Shoes"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 707,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 708,
+      "IsIgnored": false,
+      "Original": [
+        "Jackboots"
+      ],
+      "Translation": [
+        "Jackboots"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 709,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 710,
+      "IsIgnored": false,
+      "Original": [
+        "Chain Greaves"
+      ],
+      "Translation": [
+        "Chain Greaves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 711,
+      "IsIgnored": false,
+      "Original": [
+        "Ivy Anklets"
+      ],
+      "Translation": [
+        "Ivy Anklets"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 712,
+      "IsIgnored": false,
+      "Original": [
+        "Front Cuisse"
+      ],
+      "Translation": [
+        "Front Cuisse"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 713,
+      "IsIgnored": false,
+      "Original": [
+        "Kilt Tassels"
+      ],
+      "Translation": [
+        "Kilt Tassels"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 714,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 715,
+      "IsIgnored": false,
+      "Original": [
+        "War Greaves"
+      ],
+      "Translation": [
+        "War Greaves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 716,
+      "IsIgnored": false,
+      "Original": [
+        "Morbarabakets"
+      ],
+      "Translation": [
+        "Morbarabakets"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 717,
+      "IsIgnored": false,
+      "Original": [
+        "Sabaton"
+      ],
+      "Translation": [
+        "Sabaton"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 718,
+      "IsIgnored": false,
+      "Original": [
+        "War Boots"
+      ],
+      "Translation": [
+        "War Boots"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 719,
+      "IsIgnored": false,
+      "Original": [
+        "Talaria"
+      ],
+      "Translation": [
+        "Talaria"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 720,
+      "IsIgnored": false,
+      "Original": [
+        "Imperial Boots"
+      ],
+      "Translation": [
+        "Imperial Boots"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 721,
+      "IsIgnored": false,
+      "Original": [
+        "Dance Shoes"
+      ],
+      "Translation": [
+        "Dance Shoes"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 722,
+      "IsIgnored": false,
+      "Original": [
+        "Western Boots"
+      ],
+      "Translation": [
+        "Western Boots"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 723,
+      "IsIgnored": false,
+      "Original": [
+        "Vanguard Boots"
+      ],
+      "Translation": [
+        "Vanguard Boots"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 724,
+      "IsIgnored": false,
+      "Original": [
+        "Kung Fu Shoes"
+      ],
+      "Translation": [
+        "Kung Fu Shoes"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 725,
+      "IsIgnored": false,
+      "Original": [
+        "Solid Moccasins"
+      ],
+      "Translation": [
+        "Solid Moccasins"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 726,
+      "IsIgnored": false,
+      "Original": [
+        "Poleyn"
+      ],
+      "Translation": [
+        "Poleyn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 727,
+      "IsIgnored": false,
+      "Original": [
+        "Fairy Boots"
+      ],
+      "Translation": [
+        "Fairy Boots"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 728,
+      "IsIgnored": false,
+      "Original": [
+        "Quill Boots"
+      ],
+      "Translation": [
+        "Quill Boots"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 729,
+      "IsIgnored": false,
+      "Original": [
+        "Night Greaves"
+      ],
+      "Translation": [
+        "Night Greaves"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 730,
+      "IsIgnored": false,
+      "Original": [
+        "Commander's Boots"
+      ],
+      "Translation": [
+        "Commander's Boots"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 731,
+      "IsIgnored": true,
+      "Original": [
+        "Cianontedae"
+      ],
+      "Translation": [
+        "Cianontedae"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 732,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Leg08"
+      ],
+      "Translation": [
+        "Rare Leg08"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 733,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Leg09"
+      ],
+      "Translation": [
+        "Rare Leg09"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 734,
+      "IsIgnored": true,
+      "Original": [
+        "Rare Leg10"
+      ],
+      "Translation": [
+        "Rare Leg10"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 735,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 736,
+      "IsIgnored": false,
+      "Original": [
+        "Buckler"
+      ],
+      "Translation": [
+        "Buckler"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 737,
+      "IsIgnored": false,
+      "Original": [
+        "Hide Aspis"
+      ],
+      "Translation": [
+        "Hide Aspis"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 738,
+      "IsIgnored": false,
+      "Original": [
+        "Targe"
+      ],
+      "Translation": [
+        "Targe"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 739,
+      "IsIgnored": false,
+      "Original": [
+        "Round Shield"
+      ],
+      "Translation": [
+        "Round Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 740,
+      "IsIgnored": false,
+      "Original": [
+        "Feather Shield"
+      ],
+      "Translation": [
+        "Feather Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 741,
+      "IsIgnored": false,
+      "Original": [
+        "Lantern Shield"
+      ],
+      "Translation": [
+        "Lantern Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 742,
+      "IsIgnored": false,
+      "Original": [
+        "Caetra"
+      ],
+      "Translation": [
+        "Caetra"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 743,
+      "IsIgnored": false,
+      "Original": [
+        "Aspis"
+      ],
+      "Translation": [
+        "Aspis"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 744,
+      "IsIgnored": false,
+      "Original": [
+        "Kite Shield"
+      ],
+      "Translation": [
+        "Kite Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 745,
+      "IsIgnored": false,
+      "Original": [
+        "Silver Shield"
+      ],
+      "Translation": [
+        "Silver Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 746,
+      "IsIgnored": false,
+      "Original": [
+        "Hoplon"
+      ],
+      "Translation": [
+        "Hoplon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 747,
+      "IsIgnored": false,
+      "Original": [
+        "Body Aspis"
+      ],
+      "Translation": [
+        "Body Aspis"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 748,
+      "IsIgnored": false,
+      "Original": [
+        "Singauta"
+      ],
+      "Translation": [
+        "Singauta"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 749,
+      "IsIgnored": false,
+      "Original": [
+        "Kirjonen's Shield"
+      ],
+      "Translation": [
+        "Kirjonen's Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 750,
+      "IsIgnored": false,
+      "Original": [
+        "Lexxy's Shield"
+      ],
+      "Translation": [
+        "Lexxy's Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 751,
+      "IsIgnored": false,
+      "Original": [
+        "Fortress Shield"
+      ],
+      "Translation": [
+        "Fortress Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 752,
+      "IsIgnored": false,
+      "Original": [
+        "Pizza Margherita"
+      ],
+      "Translation": [
+        "Pizza Margherita"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 753,
+      "IsIgnored": true,
+      "Original": [
+        "Shield18"
+      ],
+      "Translation": [
+        "Shield18"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 754,
+      "IsIgnored": true,
+      "Original": [
+        "Shield19"
+      ],
+      "Translation": [
+        "Shield19"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 755,
+      "IsIgnored": true,
+      "Original": [
+        "Shield20"
+      ],
+      "Translation": [
+        "Shield20"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 756,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 757,
+      "IsIgnored": false,
+      "Original": [
+        "Fist Shield"
+      ],
+      "Translation": [
+        "Fist Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 758,
+      "IsIgnored": false,
+      "Original": [
+        "Somastes"
+      ],
+      "Translation": [
+        "Somastes"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 759,
+      "IsIgnored": false,
+      "Original": [
+        "Hildebrand"
+      ],
+      "Translation": [
+        "Hildebrand"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 760,
+      "IsIgnored": false,
+      "Original": [
+        "Pelta"
+      ],
+      "Translation": [
+        "Pelta"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 761,
+      "IsIgnored": false,
+      "Original": [
+        "Qibo Shield"
+      ],
+      "Translation": [
+        "Qibo Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 762,
+      "IsIgnored": true,
+      "Original": [
+        "Caesar Shield"
+      ],
+      "Translation": [
+        "Caesar Shield"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 763,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 764,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 765,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 766,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 767,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 768,
+      "IsIgnored": false,
+      "Original": [
+        "Life Belt"
+      ],
+      "Translation": [
+        "Life Belt"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 769,
+      "IsIgnored": false,
+      "Original": [
+        "Stamina Belt"
+      ],
+      "Translation": [
+        "Stamina Belt"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 770,
+      "IsIgnored": false,
+      "Original": [
+        "Brilliance Belt"
+      ],
+      "Translation": [
+        "Brilliance Belt"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 771,
+      "IsIgnored": false,
+      "Original": [
+        "Heavenly Belt"
+      ],
+      "Translation": [
+        "Heavenly Belt"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 772,
+      "IsIgnored": false,
+      "Original": [
+        "Power Ring"
+      ],
+      "Translation": [
+        "Power Ring"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 773,
+      "IsIgnored": false,
+      "Original": [
+        "Strength Ring"
+      ],
+      "Translation": [
+        "Strength Ring"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 774,
+      "IsIgnored": false,
+      "Original": [
+        "Smart Earring"
+      ],
+      "Translation": [
+        "Smart Earring"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 775,
+      "IsIgnored": false,
+      "Original": [
+        "Wisdom Earring"
+      ],
+      "Translation": [
+        "Wisdom Earring"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 776,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 777,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 778,
+      "IsIgnored": false,
+      "Original": [
+        "Rabbit Amulet"
+      ],
+      "Translation": [
+        "Rabbit Amulet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 779,
+      "IsIgnored": false,
+      "Original": [
+        "Gale Amulet"
+      ],
+      "Translation": [
+        "Gale Amulet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 780,
+      "IsIgnored": false,
+      "Original": [
+        "Lucky Choker"
+      ],
+      "Translation": [
+        "Lucky Choker"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 781,
+      "IsIgnored": false,
+      "Original": [
+        "Fortune Necklace"
+      ],
+      "Translation": [
+        "Fortune Necklace"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 782,
+      "IsIgnored": false,
+      "Original": [
+        "Critical Belt"
+      ],
+      "Translation": [
+        "Critical Belt"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 783,
+      "IsIgnored": false,
+      "Original": [
+        "Deathly Belt"
+      ],
+      "Translation": [
+        "Deathly Belt"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 784,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 785,
+      "IsIgnored": false,
+      "Original": [
+        "Velocity Choker"
+      ],
+      "Translation": [
+        "Velocity Choker"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 786,
+      "IsIgnored": false,
+      "Original": [
+        "Aim Goggles"
+      ],
+      "Translation": [
+        "Aim Goggles"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 787,
+      "IsIgnored": false,
+      "Original": [
+        "Target Goggles"
+      ],
+      "Translation": [
+        "Target Goggles"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 788,
+      "IsIgnored": false,
+      "Original": [
+        "Fire Charm"
+      ],
+      "Translation": [
+        "Fire Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 789,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 790,
+      "IsIgnored": false,
+      "Original": [
+        "Ice Charm"
+      ],
+      "Translation": [
+        "Ice Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 791,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 792,
+      "IsIgnored": false,
+      "Original": [
+        "Bolt Charm"
+      ],
+      "Translation": [
+        "Bolt Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 793,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 794,
+      "IsIgnored": false,
+      "Original": [
+        "Slash Charm"
+      ],
+      "Translation": [
+        "Slash Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 795,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 796,
+      "IsIgnored": false,
+      "Original": [
+        "Stab Charm"
+      ],
+      "Translation": [
+        "Stab Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 797,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 798,
+      "IsIgnored": false,
+      "Original": [
+        "Bash Charm"
+      ],
+      "Translation": [
+        "Bash Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 799,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 800,
+      "IsIgnored": false,
+      "Original": [
+        "Death Magatama"
+      ],
+      "Translation": [
+        "Death Magatama"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 801,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 802,
+      "IsIgnored": false,
+      "Original": [
+        "Stone Charm"
+      ],
+      "Translation": [
+        "Stone Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 803,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 804,
+      "IsIgnored": false,
+      "Original": [
+        "Curse Gem"
+      ],
+      "Translation": [
+        "Curse Gem"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 805,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 806,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 807,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 808,
+      "IsIgnored": false,
+      "Original": [
+        "Poison Charm"
+      ],
+      "Translation": [
+        "Poison Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 809,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 810,
+      "IsIgnored": false,
+      "Original": [
+        "Sleep Guard"
+      ],
+      "Translation": [
+        "Sleep Guard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 811,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 812,
+      "IsIgnored": false,
+      "Original": [
+        "Panic Guard"
+      ],
+      "Translation": [
+        "Panic Guard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 813,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 814,
+      "IsIgnored": false,
+      "Original": [
+        "Paralysis Ankh"
+      ],
+      "Translation": [
+        "Paralysis Ankh"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 815,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 816,
+      "IsIgnored": false,
+      "Original": [
+        "Blind Mask"
+      ],
+      "Translation": [
+        "Blind Mask"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 817,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 818,
+      "IsIgnored": false,
+      "Original": [
+        "Head Guard"
+      ],
+      "Translation": [
+        "Head Guard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 819,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 820,
+      "IsIgnored": false,
+      "Original": [
+        "Arm Guard"
+      ],
+      "Translation": [
+        "Arm Guard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 821,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 822,
+      "IsIgnored": false,
+      "Original": [
+        "Leg Guard"
+      ],
+      "Translation": [
+        "Leg Guard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 823,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 824,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 825,
+      "IsIgnored": false,
+      "Original": [
+        "Stun Seal"
+      ],
+      "Translation": [
+        "Stun Seal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 826,
+      "IsIgnored": false,
+      "Original": [
+        "Lion Medal"
+      ],
+      "Translation": [
+        "Lion Medal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 827,
+      "IsIgnored": false,
+      "Original": [
+        "Great Hawk Medal"
+      ],
+      "Translation": [
+        "Great Hawk Medal"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 828,
+      "IsIgnored": false,
+      "Original": [
+        "Tharsis Wing"
+      ],
+      "Translation": [
+        "Tharsis Wing"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 829,
+      "IsIgnored": false,
+      "Original": [
+        "Tharsis Comet"
+      ],
+      "Translation": [
+        "Tharsis Comet"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 830,
+      "IsIgnored": false,
+      "Original": [
+        "Driftwood Dragon"
+      ],
+      "Translation": [
+        "Driftwood Dragon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 831,
+      "IsIgnored": false,
+      "Original": [
+        "Bronze Icon"
+      ],
+      "Translation": [
+        "Bronze Icon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 832,
+      "IsIgnored": false,
+      "Original": [
+        "Dragon Shard"
+      ],
+      "Translation": [
+        "Dragon Shard"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 833,
+      "IsIgnored": false,
+      "Original": [
+        "Silver Icon"
+      ],
+      "Translation": [
+        "Silver Icon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 834,
+      "IsIgnored": false,
+      "Original": [
+        "Dragon Fangs"
+      ],
+      "Translation": [
+        "Dragon Fangs"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 835,
+      "IsIgnored": false,
+      "Original": [
+        "Gold Icon"
+      ],
+      "Translation": [
+        "Gold Icon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 836,
+      "IsIgnored": false,
+      "Original": [
+        "Dragon Stud"
+      ],
+      "Translation": [
+        "Dragon Stud"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 837,
+      "IsIgnored": false,
+      "Original": [
+        "Platinum Icon"
+      ],
+      "Translation": [
+        "Platinum Icon"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 838,
+      "IsIgnored": true,
+      "Original": [
+        "Kirjonen's Charm"
+      ],
+      "Translation": [
+        "Kirjonen's Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 839,
+      "IsIgnored": false,
+      "Original": [
+        "Lightning Ring"
+      ],
+      "Translation": [
+        "Lightning Ring"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 840,
+      "IsIgnored": false,
+      "Original": [
+        "Binoculars"
+      ],
+      "Translation": [
+        "Binoculars"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 841,
+      "IsIgnored": false,
+      "Original": [
+        "Curse Ink"
+      ],
+      "Translation": [
+        "Curse Ink"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 842,
+      "IsIgnored": false,
+      "Original": [
+        "Combat Gong"
+      ],
+      "Translation": [
+        "Combat Gong"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 843,
+      "IsIgnored": false,
+      "Original": [
+        "Snow Ring"
+      ],
+      "Translation": [
+        "Snow Ring"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 844,
+      "IsIgnored": false,
+      "Original": [
+        "Eagle Eye Visor"
+      ],
+      "Translation": [
+        "Eagle Eye Visor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 845,
+      "IsIgnored": false,
+      "Original": [
+        "Knife Pouch"
+      ],
+      "Translation": [
+        "Knife Pouch"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 846,
+      "IsIgnored": false,
+      "Original": [
+        "Hawkeye Visor"
+      ],
+      "Translation": [
+        "Hawkeye Visor"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 847,
+      "IsIgnored": false,
+      "Original": [
+        "Helpful Letter"
+      ],
+      "Translation": [
+        "Helpful Letter"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 848,
+      "IsIgnored": false,
+      "Original": [
+        "Battle Charm"
+      ],
+      "Translation": [
+        "Battle Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 849,
+      "IsIgnored": false,
+      "Original": [
+        "Analysis Goggles"
+      ],
+      "Translation": [
+        "Analysis Goggles"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 850,
+      "IsIgnored": false,
+      "Original": [
+        "Maasai Necklace"
+      ],
+      "Translation": [
+        "Maasai Necklace"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 851,
+      "IsIgnored": false,
+      "Original": [
+        "Mr. Mole's Claw"
+      ],
+      "Translation": [
+        "Mr. Mole's Claw"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 852,
+      "IsIgnored": false,
+      "Original": [
+        "Senpai's Charm"
+      ],
+      "Translation": [
+        "Senpai's Charm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 853,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 854,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 855,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 856,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 857,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 858,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 859,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 860,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 861,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 862,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 863,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 864,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 865,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 866,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 867,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 868,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 869,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 870,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 871,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 872,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 873,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 874,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 875,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 876,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 877,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 878,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 879,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 880,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 881,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 882,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 883,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 884,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 885,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 886,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 887,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 888,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 889,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 890,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 891,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 892,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 893,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 894,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 895,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy"
+      ],
+      "Translation": [
+        "Dummy"
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

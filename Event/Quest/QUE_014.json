@@ -1,0 +1,407 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_014",
+  "RelativePath": "Event\\Quest\\QUE_014.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ugh... You're going to take... that",
+        "request? I posted it up high, where I",
+        "hoped no one would see it...",
+        "[Page]",
+        "",
+        "It comes from an entomologist who",
+        "wants someone to bring him back a",
+        "[Color:5]moth egg[Color:0].",
+        "[Page]",
+        "",
+        "It can be found at the [Color:5]Moth's Garden[Color:0],",
+        "naturally. Now... a word, please. You",
+        "needn't try so hard on this one...",
+        "[Page]",
+        "",
+        "I shall... I shall await your...",
+        "swift... return.",
+        ""
+      ],
+      "Translation": [
+        "Ugh... You're going to take... that",
+        "request? I posted it up high, where I",
+        "hoped no one would see it...",
+        "[Page]",
+        "",
+        "It comes from an entomologist who",
+        "wants someone to bring him back a",
+        "[Color:5]moth egg[Color:0].",
+        "[Page]",
+        "",
+        "It can be found at the [Color:5]Moth's Garden[Color:0],",
+        "naturally. Now... a word, please. You",
+        "needn't try so hard on this one...",
+        "[Page]",
+        "",
+        "I shall... I shall await your...",
+        "swift... return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Did you find the moth",
+        "egg, as the--What is this? Why did you",
+        "bring it here without covering it up?",
+        "[Page]",
+        "",
+        "Well, I happen to have here an empty",
+        "bottle, a cork, sealing wax... and a",
+        "steel lockbox with a metal chain...",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Did you find the moth",
+        "egg, as the--What is this? Why did you",
+        "bring it here without covering it up?",
+        "[Page]",
+        "",
+        "Well, I happen to have here an empty",
+        "bottle, a cork, sealing wax... and a",
+        "steel lockbox with a metal chain...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "There, much better. Now, not even",
+        "explosives could dislodge the",
+        "contents.",
+        "[Page]",
+        "",
+        "I enjoy helping others, but this kind",
+        "of request is the only drawback. I",
+        "hope the client picks this up soon...",
+        ""
+      ],
+      "Translation": [
+        "There, much better. Now, not even",
+        "explosives could dislodge the",
+        "contents.",
+        "[Page]",
+        "",
+        "I enjoy helping others, but this kind",
+        "of request is the only drawback. I",
+        "hope the client picks this up soon...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "After dodging attacks from the moth",
+        "monsters, you finally arrive at what",
+        "seems to be the innermost reaches.",
+        "[Page]",
+        "",
+        "The walls here are covered with",
+        "vibrantly-colored eggs, putting your",
+        "whole party on edge.",
+        "[Page]",
+        "",
+        "These must be the eggs the client",
+        "wants for his research... You summon",
+        "the courage to pluck away one egg.",
+        ""
+      ],
+      "Translation": [
+        "After dodging attacks from the moth",
+        "monsters, you finally arrive at what",
+        "seems to be the innermost reaches.",
+        "[Page]",
+        "",
+        "The walls here are covered with",
+        "vibrantly-colored eggs, putting your",
+        "whole party on edge.",
+        "[Page]",
+        "",
+        "These must be the eggs the client",
+        "wants for his research... You summon",
+        "the courage to pluck away one egg.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will you take an egg?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will you take an egg?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "In order to more quickly vacate this",
+        "discomfiting area, you swiftly remove",
+        "one egg.",
+        ""
+      ],
+      "Translation": [
+        "In order to more quickly vacate this",
+        "discomfiting area, you swiftly remove",
+        "one egg.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "That is all you need to complete the",
+        "request. The final step is to deliver",
+        "the egg to the owner of the bar!",
+        ""
+      ],
+      "Translation": [
+        "That is all you need to complete the",
+        "request. The final step is to deliver",
+        "the egg to the owner of the bar!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You take in a deep breath and decide",
+        "to stay your hand for now.",
+        ""
+      ],
+      "Translation": [
+        "You take in a deep breath and decide",
+        "to stay your hand for now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Moth's Garden[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Moth's Garden[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

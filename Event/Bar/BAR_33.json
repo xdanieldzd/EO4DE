@@ -1,0 +1,44 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_33",
+  "RelativePath": "Event\\Bar\\BAR_33.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Haw haw haw! That was classic! Don't",
+        "ever think about luring the [Color:5]statue[Color:0]",
+        "that moves [Color:5]around the Echoing Library[Color:0]!",
+        "[Page]",
+        "",
+        "We've tried everything... They don't",
+        "even [Color:5]care about food[Color:0].",
+        "[Page]",
+        "",
+        "I figured that out after the 20th or",
+        "30th try. Oh... rocks don't eat food,",
+        "do they? Haw haw haw! Classic!",
+        ""
+      ],
+      "Translation": [
+        "Haw haw haw! That was classic! Don't",
+        "ever think about luring the [Color:5]statue[Color:0]",
+        "that moves [Color:5]around the Echoing Library[Color:0]!",
+        "[Page]",
+        "",
+        "We've tried everything... They don't",
+        "even [Color:5]care about food[Color:0].",
+        "[Page]",
+        "",
+        "I figured that out after the 20th or",
+        "30th try. Oh... rocks don't eat food,",
+        "do they? Haw haw haw! Classic!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

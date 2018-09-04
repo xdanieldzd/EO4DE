@@ -1,0 +1,893 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_033",
+  "RelativePath": "Event\\Quest\\QUE_033.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, did the gold-foil writing on that",
+        "request catch your interest? It's from",
+        "the Golden Lady, a very elegant woman.",
+        "[Page]",
+        "",
+        "She seems to want the fur from a",
+        "bright, golden monster known as a",
+        "[Color:5][Enemy1:102][Color:0].",
+        "[Page]",
+        "",
+        "The monster resides in the [Color:5]Golden Deer",
+        "Keep[Color:0], where her soldiers have already",
+        "been sent.",
+        "[Page]",
+        "",
+        "You are to work with them to capture",
+        "it. For more details, I believe you",
+        "should consult the soldiers.",
+        ""
+      ],
+      "Translation": [
+        "Ah, did the gold-foil writing on that",
+        "request catch your interest? It's from",
+        "the Golden Lady, a very elegant woman.",
+        "[Page]",
+        "",
+        "She seems to want the fur from a",
+        "bright, golden monster known as a",
+        "[Color:5][Enemy1:102][Color:0].",
+        "[Page]",
+        "",
+        "The monster resides in the [Color:5]Golden Deer",
+        "Keep[Color:0], where her soldiers have already",
+        "been sent.",
+        "[Page]",
+        "",
+        "You are to work with them to capture",
+        "it. For more details, I believe you",
+        "should consult the soldiers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. As difficult as this",
+        "request seemed, I think you did an",
+        "excellent job with it.",
+        "[Page]",
+        "",
+        "What an absurd request... to capture",
+        "a dangerous creature of the labyrinth",
+        "alive...!",
+        "[Page]",
+        "",
+        "Regardless, I am glad that you are",
+        "safe. You may not get the promised",
+        "bonus, but you do have your lives.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. As difficult as this",
+        "request seemed, I think you did an",
+        "excellent job with it.",
+        "[Page]",
+        "",
+        "What an absurd request... to capture",
+        "a dangerous creature of the labyrinth",
+        "alive...!",
+        "[Page]",
+        "",
+        "Regardless, I am glad that you are",
+        "safe. You may not get the promised",
+        "bonus, but you do have your lives.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "I heard from the Golden Lady that your",
+        "[Guild] Guild succeeded in capturing",
+        "the [Enemy1:102]!",
+        "[Page]",
+        "",
+        "Was predicting the monster's movements",
+        "too simple a task for you veteran",
+        "explorers?",
+        "[Page]",
+        "",
+        "Alas... in the end, that beautiful fur",
+        "will be turned into a coat for the",
+        "Lady. My feelings are somewhat mixed.",
+        "[Page]",
+        "",
+        "Though you seem to accept it with",
+        "aplomb. So long as you get your",
+        "reward, I suppose.",
+        "[Page]",
+        "",
+        "Here is the reward you were promised.",
+        "Thank you for your excellent work,",
+        "and please do come again!",
+        ""
+      ],
+      "Translation": [
+        "I heard from the Golden Lady that your",
+        "[Guild] Guild succeeded in capturing",
+        "the [Enemy1:102]!",
+        "[Page]",
+        "",
+        "Was predicting the monster's movements",
+        "too simple a task for you veteran",
+        "explorers?",
+        "[Page]",
+        "",
+        "Alas... in the end, that beautiful fur",
+        "will be turned into a coat for the",
+        "Lady. My feelings are somewhat mixed.",
+        "[Page]",
+        "",
+        "Though you seem to accept it with",
+        "aplomb. So long as you get your",
+        "reward, I suppose.",
+        "[Page]",
+        "",
+        "Here is the reward you were promised.",
+        "Thank you for your excellent work,",
+        "and please do come again!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the labyrinth after",
+        "agreeing to capture the [Enemy1:102].",
+        "Several soldiers greet you.",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the labyrinth after",
+        "agreeing to capture the [Enemy1:102].",
+        "Several soldiers greet you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "\"Are you guys the [Guild] Guild?",
+        "Our Lady said you took the request.",
+        "[Page]",
+        "",
+        "\"Let's get down to brass tacks. Or",
+        "gold tacks,\" grins the soldier as he",
+        "slowly raises his hand.",
+        "[Page]",
+        "",
+        "At his signal, soldiers on either side",
+        "of the path pull on a rope and a giant",
+        "cage rises from under the ground!",
+        "[Page]",
+        "",
+        "\"Get a load of this beauty! We had",
+        "this specially built to capture that",
+        "thing without damaging the fur.",
+        "[Page]",
+        "",
+        "\"You guys [Color:5]go into its room and lead it",
+        "over here[Color:0]. You can handle that, right?",
+        "From all I've heard...\"",
+        "[Page]",
+        "",
+        "Before you can nod, the soldier",
+        "yells, \"Get to your places!\" to his",
+        "associates, and they go into hiding.",
+        ""
+      ],
+      "Translation": [
+        "\"Are you guys the [Guild] Guild?",
+        "Our Lady said you took the request.",
+        "[Page]",
+        "",
+        "\"Let's get down to brass tacks. Or",
+        "gold tacks,\" grins the soldier as he",
+        "slowly raises his hand.",
+        "[Page]",
+        "",
+        "At his signal, soldiers on either side",
+        "of the path pull on a rope and a giant",
+        "cage rises from under the ground!",
+        "[Page]",
+        "",
+        "\"Get a load of this beauty! We had",
+        "this specially built to capture that",
+        "thing without damaging the fur.",
+        "[Page]",
+        "",
+        "\"You guys [Color:5]go into its room and lead it",
+        "over here[Color:0]. You can handle that, right?",
+        "From all I've heard...\"",
+        "[Page]",
+        "",
+        "Before you can nod, the soldier",
+        "yells, \"Get to your places!\" to his",
+        "associates, and they go into hiding.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "You prepare for your own part in",
+        "capturing the [Enemy1:102].",
+        ""
+      ],
+      "Translation": [
+        "You prepare for your own part in",
+        "capturing the [Enemy1:102].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "\"We'll be waiting by the trap,",
+        "so hurry and lure the [Enemy1:102]",
+        "this way.\"",
+        ""
+      ],
+      "Translation": [
+        "\"We'll be waiting by the trap,",
+        "so hurry and lure the [Enemy1:102]",
+        "this way.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "The Golden Deer notices you and wastes",
+        "no time in charging!",
+        "[Page]",
+        "",
+        "You must carefully avoid the monster",
+        "and lure it to where the soldiers",
+        "await with the trap!",
+        ""
+      ],
+      "Translation": [
+        "The Golden Deer notices you and wastes",
+        "no time in charging!",
+        "[Page]",
+        "",
+        "You must carefully avoid the monster",
+        "and lure it to where the soldiers",
+        "await with the trap!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "When you open the door, the sight of",
+        "a beautiful, golden deer with shining",
+        "fur greets you.",
+        "[Page]",
+        "",
+        "It can only be the [Enemy1:102] you",
+        "seek to capture! You must skillfully",
+        "lure it to the waiting trap!",
+        ""
+      ],
+      "Translation": [
+        "When you open the door, the sight of",
+        "a beautiful, golden deer with shining",
+        "fur greets you.",
+        "[Page]",
+        "",
+        "It can only be the [Enemy1:102] you",
+        "seek to capture! You must skillfully",
+        "lure it to the waiting trap!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "As you put away your weapons after the",
+        "monster's defeat, the soldiers come",
+        "around and cry out in disappointment.",
+        ""
+      ],
+      "Translation": [
+        "As you put away your weapons after the",
+        "monster's defeat, the soldiers come",
+        "around and cry out in disappointment.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "\"How did this happen!?",
+        "The [Enemy1:102]'s fur has",
+        "been damaged...",
+        "[Page]",
+        "",
+        "\"But I guess we can't complain if the",
+        "monster was just that powerful.",
+        "[Page]",
+        "",
+        "\"Still... there's no way the Lady",
+        "will accept the fur in this state.",
+        "[Page]",
+        "",
+        "\"It's a shame we didn't get to test",
+        "out that cage, either... Oh well.",
+        "Thanks for helping anyway, guys.",
+        "[Page]",
+        "",
+        "\"Take it away!\" the soldier calls,",
+        "and his associates gather around the",
+        "monster to remove its remains.",
+        ""
+      ],
+      "Translation": [
+        "\"How did this happen!?",
+        "The [Enemy1:102]'s fur has",
+        "been damaged...",
+        "[Page]",
+        "",
+        "\"But I guess we can't complain if the",
+        "monster was just that powerful.",
+        "[Page]",
+        "",
+        "\"Still... there's no way the Lady",
+        "will accept the fur in this state.",
+        "[Page]",
+        "",
+        "\"It's a shame we didn't get to test",
+        "out that cage, either... Oh well.",
+        "Thanks for helping anyway, guys.",
+        "[Page]",
+        "",
+        "\"Take it away!\" the soldier calls,",
+        "and his associates gather around the",
+        "monster to remove its remains.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Though you did not meet the original",
+        "objective, the request is complete.",
+        "You need only report in to the bar.",
+        ""
+      ],
+      "Translation": [
+        "Though you did not meet the original",
+        "objective, the request is complete.",
+        "You need only report in to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Now that the battle is over, you can",
+        "no longer see the [Enemy1:102].",
+        "[Page]",
+        "",
+        "In order to fulfill the request, your",
+        "only option is to wait for the monster",
+        "to show itself again...",
+        ""
+      ],
+      "Translation": [
+        "Now that the battle is over, you can",
+        "no longer see the [Enemy1:102].",
+        "[Page]",
+        "",
+        "In order to fulfill the request, your",
+        "only option is to wait for the monster",
+        "to show itself again...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "After desperately fleeing from the",
+        "charging monster, you feel its menace",
+        "dissipate and finally halt.",
+        "[Page]",
+        "",
+        "The sense of danger has been replaced",
+        "by the hearty cheers of the soldiers!",
+        ""
+      ],
+      "Translation": [
+        "After desperately fleeing from the",
+        "charging monster, you feel its menace",
+        "dissipate and finally halt.",
+        "[Page]",
+        "",
+        "The sense of danger has been replaced",
+        "by the hearty cheers of the soldiers!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "After you catch your breath, you walk",
+        "up to the cage and see a golden-furred",
+        "monster thrashing about inside.",
+        ""
+      ],
+      "Translation": [
+        "After you catch your breath, you walk",
+        "up to the cage and see a golden-furred",
+        "monster thrashing about inside.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "\"That went pretty well! Thanks to your",
+        "courage, your quick wits, and... this",
+        "beauty of a cage!",
+        "[Page]",
+        "",
+        "\"Our Lady will be pleased as punch!",
+        "Thanks, [Guild] Guild!",
+        "[Page]",
+        "",
+        "\"That's all we needed from you.",
+        "The reward is at the bar, and if",
+        "you ask me, you guys deserve it.\"",
+        "[Page]",
+        "",
+        "You nod to the soldier, who yells,",
+        "\"Take it away!\" His associates heft",
+        "the cage as one and walk off.",
+        ""
+      ],
+      "Translation": [
+        "\"That went pretty well! Thanks to your",
+        "courage, your quick wits, and... this",
+        "beauty of a cage!",
+        "[Page]",
+        "",
+        "\"Our Lady will be pleased as punch!",
+        "Thanks, [Guild] Guild!",
+        "[Page]",
+        "",
+        "\"That's all we needed from you.",
+        "The reward is at the bar, and if",
+        "you ask me, you guys deserve it.\"",
+        "[Page]",
+        "",
+        "You nod to the soldier, who yells,",
+        "\"Take it away!\" His associates heft",
+        "the cage as one and walk off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "After the soldiers carrying the cage",
+        "have vanished from view, you return",
+        "to Tharsis to report your success.",
+        ""
+      ],
+      "Translation": [
+        "After the soldiers carrying the cage",
+        "have vanished from view, you return",
+        "to Tharsis to report your success.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Golden Deer Keep[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Golden Deer Keep[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

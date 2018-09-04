@@ -1,0 +1,54 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_50",
+  "RelativePath": "Event\\Bar\\BAR_50.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ha! Take a look... three sixes,",
+        "six times in a row! What do you",
+        "mean, stop playing around?",
+        "[Page]",
+        "",
+        "I'll have you know this is an idea I",
+        "had to experiment with a new Circle...",
+        "[Page]",
+        "",
+        "You see, for we Vessels skilled in",
+        "the use of Circles, [Color:5]luck[Color:0] must be on",
+        "our side.",
+        "[Page]",
+        "",
+        "The pulse of the earth is also the",
+        "pulse of fortune... If you employ any",
+        "arcanists, take care not to forget.",
+        ""
+      ],
+      "Translation": [
+        "Ha! Take a look... three sixes,",
+        "six times in a row! What do you",
+        "mean, stop playing around?",
+        "[Page]",
+        "",
+        "I'll have you know this is an idea I",
+        "had to experiment with a new Circle...",
+        "[Page]",
+        "",
+        "You see, for we Vessels skilled in",
+        "the use of Circles, [Color:5]luck[Color:0] must be on",
+        "our side.",
+        "[Page]",
+        "",
+        "The pulse of the earth is also the",
+        "pulse of fortune... If you employ any",
+        "arcanists, take care not to forget.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

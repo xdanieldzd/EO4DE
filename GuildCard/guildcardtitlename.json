@@ -1,0 +1,1921 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Guild Card achievement text",
+  "RelativePath": "GuildCard\\guildcardtitlename.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Vessels' Ally",
+        ""
+      ],
+      "Translation": [
+        "Vessels' Ally",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Proof of your bond with the",
+        "wise natives of the forest.",
+        ""
+      ],
+      "Translation": [
+        "Proof of your bond with the",
+        "wise natives of the forest.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Sentinels' Ally",
+        ""
+      ],
+      "Translation": [
+        "Sentinels' Ally",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Proof of your ties with the",
+        "proud warriors of the caves.",
+        ""
+      ],
+      "Translation": [
+        "Proof of your ties with the",
+        "proud warriors of the caves.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Knight's Ally",
+        ""
+      ],
+      "Translation": [
+        "Knight's Ally",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Proof of the trust you gained from",
+        "the Imperial Prince's right hand.",
+        ""
+      ],
+      "Translation": [
+        "Proof of the trust you gained from",
+        "the Imperial Prince's right hand.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil's Hope",
+        ""
+      ],
+      "Translation": [
+        "Yggdrasil's Hope",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Awarded for defeating the immense",
+        "threat and protecting Yggdrasil.",
+        ""
+      ],
+      "Translation": [
+        "Awarded for defeating the immense",
+        "threat and protecting Yggdrasil.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Insect Slayer",
+        ""
+      ],
+      "Translation": [
+        "Insect Slayer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Won by defeating the giant insect",
+        "that has lurked below since ages past.",
+        ""
+      ],
+      "Translation": [
+        "Won by defeating the giant insect",
+        "that has lurked below since ages past.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Explorers' Pride",
+        ""
+      ],
+      "Translation": [
+        "Explorers' Pride",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Proof of your exploits in defeating",
+        "all bosses on Normal difficulty.",
+        ""
+      ],
+      "Translation": [
+        "Proof of your exploits in defeating",
+        "all bosses on Normal difficulty.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Burst Dilettante",
+        ""
+      ],
+      "Translation": [
+        "Burst Dilettante",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "You have found a few of the Burst",
+        "Skills scattered about the world.",
+        ""
+      ],
+      "Translation": [
+        "You have found a few of the Burst",
+        "Skills scattered about the world.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Burst User",
+        ""
+      ],
+      "Translation": [
+        "Burst User",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You have found over half of the Burst",
+        "Skills scattered about the world.",
+        ""
+      ],
+      "Translation": [
+        "You have found over half of the Burst",
+        "Skills scattered about the world.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Burst Master",
+        ""
+      ],
+      "Translation": [
+        "Burst Master",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "You have found all of the Burst",
+        "Skills scattered about the world.",
+        ""
+      ],
+      "Translation": [
+        "You have found all of the Burst",
+        "Skills scattered about the world.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Cache Hobbyist",
+        ""
+      ],
+      "Translation": [
+        "Cache Hobbyist",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Retrieved items from several treasure",
+        "boxes within a labyrinth.",
+        ""
+      ],
+      "Translation": [
+        "Retrieved items from several treasure",
+        "boxes within a labyrinth.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Cache Seeker",
+        ""
+      ],
+      "Translation": [
+        "Cache Seeker",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Retrieved over half of the items",
+        "stored in treasure boxes in labyrinths.",
+        ""
+      ],
+      "Translation": [
+        "Retrieved over half of the items",
+        "stored in treasure boxes in labyrinths.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Cache Hoarder",
+        ""
+      ],
+      "Translation": [
+        "Cache Hoarder",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Proof you have looted every treasure",
+        "box in the Yggdrasil labyrinth.",
+        ""
+      ],
+      "Translation": [
+        "Proof you have looted every treasure",
+        "box in the Yggdrasil labyrinth.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Tharsis Gofer",
+        ""
+      ],
+      "Translation": [
+        "Tharsis Gofer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Given to you for accomplishing several",
+        "quests from the bar.",
+        ""
+      ],
+      "Translation": [
+        "Given to you for accomplishing several",
+        "quests from the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Tharsis Fixer",
+        ""
+      ],
+      "Translation": [
+        "Tharsis Fixer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Given to you for accomplishing over",
+        "half of the quests from the bar.",
+        ""
+      ],
+      "Translation": [
+        "Given to you for accomplishing over",
+        "half of the quests from the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Quest Complete",
+        ""
+      ],
+      "Translation": [
+        "Quest Complete",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Given to you for accomplishing all",
+        "of the quests from the bar.",
+        ""
+      ],
+      "Translation": [
+        "Given to you for accomplishing all",
+        "of the quests from the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Rare Breed Killer",
+        ""
+      ],
+      "Translation": [
+        "Rare Breed Killer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Proof that you have slain a rare",
+        "breed in the labyrinth.",
+        ""
+      ],
+      "Translation": [
+        "Proof that you have slain a rare",
+        "breed in the labyrinth.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Dogged Killer",
+        ""
+      ],
+      "Translation": [
+        "Dogged Killer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Proof that you have slain many",
+        "rare breeds of monsters.",
+        ""
+      ],
+      "Translation": [
+        "Proof that you have slain many",
+        "rare breeds of monsters.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Lustre Chaser",
+        ""
+      ],
+      "Translation": [
+        "Lustre Chaser",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Proof of slaying one hundred",
+        "rare breeds of monsters.",
+        ""
+      ],
+      "Translation": [
+        "Proof of slaying one hundred",
+        "rare breeds of monsters.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Food Scavenger",
+        ""
+      ],
+      "Translation": [
+        "Food Scavenger",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Given to you for logging some of the",
+        "food found in the wild.",
+        ""
+      ],
+      "Translation": [
+        "Given to you for logging some of the",
+        "food found in the wild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Food Collector",
+        ""
+      ],
+      "Translation": [
+        "Food Collector",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Given to you for logging over half of",
+        "the food found in the wild.",
+        ""
+      ],
+      "Translation": [
+        "Given to you for logging over half of",
+        "the food found in the wild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Flying Epicure",
+        ""
+      ],
+      "Translation": [
+        "Flying Epicure",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "Given to you for logging all of the",
+        "food that can be found in the wild.",
+        ""
+      ],
+      "Translation": [
+        "Given to you for logging all of the",
+        "food that can be found in the wild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Beginning Hunter",
+        ""
+      ],
+      "Translation": [
+        "Beginning Hunter",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "Logged some of the monsters that dwell",
+        "in the labyrinths.",
+        ""
+      ],
+      "Translation": [
+        "Logged some of the monsters that dwell",
+        "in the labyrinths.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "Veteran Hunter",
+        ""
+      ],
+      "Translation": [
+        "Veteran Hunter",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "Logged over half of the monsters that",
+        "dwell in the labyrinths.",
+        ""
+      ],
+      "Translation": [
+        "Logged over half of the monsters that",
+        "dwell in the labyrinths.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil's Hunter",
+        ""
+      ],
+      "Translation": [
+        "Yggdrasil's Hunter",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "Logged all of the monsters that dwell",
+        "in the labyrinths.",
+        ""
+      ],
+      "Translation": [
+        "Logged all of the monsters that dwell",
+        "in the labyrinths.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "Novice Scavenger",
+        ""
+      ],
+      "Translation": [
+        "Novice Scavenger",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "Awarded for logging some of the",
+        "materials found in labyrinths.",
+        ""
+      ],
+      "Translation": [
+        "Awarded for logging some of the",
+        "materials found in labyrinths.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Devoted Scavenger",
+        ""
+      ],
+      "Translation": [
+        "Devoted Scavenger",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Awarded for logging over half of the",
+        "materials found in labyrinths.",
+        ""
+      ],
+      "Translation": [
+        "Awarded for logging over half of the",
+        "materials found in labyrinths.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil's Bounty",
+        ""
+      ],
+      "Translation": [
+        "Yggdrasil's Bounty",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Awarded for logging all of the",
+        "materials found in labyrinths.",
+        ""
+      ],
+      "Translation": [
+        "Awarded for logging all of the",
+        "materials found in labyrinths.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Treasure Dabbler",
+        ""
+      ],
+      "Translation": [
+        "Treasure Dabbler",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Proof that you have found a number of",
+        "hidden treasures in the world.",
+        ""
+      ],
+      "Translation": [
+        "Proof that you have found a number of",
+        "hidden treasures in the world.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "Treasure Collector",
+        ""
+      ],
+      "Translation": [
+        "Treasure Collector",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "Proof that you have found over half",
+        "of the hidden treasures in the world.",
+        ""
+      ],
+      "Translation": [
+        "Proof that you have found over half",
+        "of the hidden treasures in the world.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "Mine All Mine",
+        ""
+      ],
+      "Translation": [
+        "Mine All Mine",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "Proof that you have found all of the",
+        "hidden treasures in the world.",
+        ""
+      ],
+      "Translation": [
+        "Proof that you have found all of the",
+        "hidden treasures in the world.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": true,
+      "Original": [
+        "??????",
+        ""
+      ],
+      "Translation": [
+        "??????",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": true,
+      "Original": [
+        "????????????????",
+        ""
+      ],
+      "Translation": [
+        "????????????????",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": true,
+      "Original": [
+        "??????",
+        ""
+      ],
+      "Translation": [
+        "??????",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": true,
+      "Original": [
+        "????????????????",
+        ""
+      ],
+      "Translation": [
+        "????????????????",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": true,
+      "Original": [
+        "??????",
+        ""
+      ],
+      "Translation": [
+        "??????",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": true,
+      "Original": [
+        "????????????????",
+        ""
+      ],
+      "Translation": [
+        "????????????????",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": true,
+      "Original": [
+        "??????",
+        ""
+      ],
+      "Translation": [
+        "??????",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": true,
+      "Original": [
+        "????????????????",
+        ""
+      ],
+      "Translation": [
+        "????????????????",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 108,
+      "IsIgnored": true,
+      "Original": [
+        "??????",
+        ""
+      ],
+      "Translation": [
+        "??????",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 109,
+      "IsIgnored": true,
+      "Original": [
+        "????????????????",
+        ""
+      ],
+      "Translation": [
+        "????????????????",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "Normal Clear Medal",
+        ""
+      ],
+      "Translation": [
+        "Normal Clear Medal",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "Defeat all bosses on Normal",
+        "difficulty.",
+        ""
+      ],
+      "Translation": [
+        "Defeat all bosses on Normal",
+        "difficulty.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "Burst Skill Medal",
+        ""
+      ],
+      "Translation": [
+        "Burst Skill Medal",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "Discover a certain number of",
+        "Burst Skills.",
+        ""
+      ],
+      "Translation": [
+        "Discover a certain number of",
+        "Burst Skills.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": false,
+      "Original": [
+        "Cache Medal",
+        ""
+      ],
+      "Translation": [
+        "Cache Medal",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": false,
+      "Original": [
+        "Open a certain number of",
+        "treasure boxes.",
+        ""
+      ],
+      "Translation": [
+        "Open a certain number of",
+        "treasure boxes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": false,
+      "Original": [
+        "Quest Medal",
+        ""
+      ],
+      "Translation": [
+        "Quest Medal",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 117,
+      "IsIgnored": false,
+      "Original": [
+        "Fulfill a certain number of quests.",
+        ""
+      ],
+      "Translation": [
+        "Fulfill a certain number of quests.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 118,
+      "IsIgnored": false,
+      "Original": [
+        "Rare Breed Medal",
+        ""
+      ],
+      "Translation": [
+        "Rare Breed Medal",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 119,
+      "IsIgnored": false,
+      "Original": [
+        "Slay a rare breed of monster.",
+        ""
+      ],
+      "Translation": [
+        "Slay a rare breed of monster.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": false,
+      "Original": [
+        "Food Medal",
+        ""
+      ],
+      "Translation": [
+        "Food Medal",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "Log 10% of the food in the",
+        "Item Compendium.",
+        ""
+      ],
+      "Translation": [
+        "Log 10% of the food in the",
+        "Item Compendium.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "Codex Medal",
+        ""
+      ],
+      "Translation": [
+        "Codex Medal",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "Log 10% of the creatures in the",
+        "Monstrous Codex.",
+        ""
+      ],
+      "Translation": [
+        "Log 10% of the creatures in the",
+        "Monstrous Codex.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "Compendium Medal",
+        ""
+      ],
+      "Translation": [
+        "Compendium Medal",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "Log 10% of the materials in the",
+        "Item Compendium.",
+        ""
+      ],
+      "Translation": [
+        "Log 10% of the materials in the",
+        "Item Compendium.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "Treasure Medal",
+        ""
+      ],
+      "Translation": [
+        "Treasure Medal",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "Log 10% of the treasures in the",
+        "Treasure Book.",
+        ""
+      ],
+      "Translation": [
+        "Log 10% of the treasures in the",
+        "Treasure Book.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

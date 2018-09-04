@@ -1,0 +1,116 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_77",
+  "RelativePath": "Event\\Bar\\BAR_77.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "It seems you've taken up the challenge",
+        "of the legendary gourmet food.",
+        "[Page]",
+        "",
+        "Old literature we discovered says that",
+        "there is at least [Color:5]one[Color:0] ingredient in",
+        "[Color:5]unexplored territory[Color:0] in each land.",
+        "[Page]",
+        "",
+        "We're not completely certain it truly",
+        "exists, but there's nothing lost by",
+        "looking.",
+        "[Page]",
+        "",
+        "I, for one, eagerly await the day",
+        "when the Saehrimnir Inn serves the",
+        "legendary ingredients you harvest.",
+        ""
+      ],
+      "Translation": [
+        "It seems you've taken up the challenge",
+        "of the legendary gourmet food.",
+        "[Page]",
+        "",
+        "Old literature we discovered says that",
+        "there is at least [Color:5]one[Color:0] ingredient in",
+        "[Color:5]unexplored territory[Color:0] in each land.",
+        "[Page]",
+        "",
+        "We're not completely certain it truly",
+        "exists, but there's nothing lost by",
+        "looking.",
+        "[Page]",
+        "",
+        "I, for one, eagerly await the day",
+        "when the Saehrimnir Inn serves the",
+        "legendary ingredients you harvest.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... It seems that you've found the",
+        "ingredients in the Windy Plains,",
+        "Scarlet Pillars, and Sacred Mountains.",
+        "[Page]",
+        "",
+        "And the fourth ingredient cannot be",
+        "found, you say? Then it must be",
+        "located in the [Color:5]Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "Have you heard of a wretched land that",
+        "no man can enter, to be found in the",
+        "[Color:5]northwestern[Color:0] region there?",
+        "[Page]",
+        "",
+        "It may be the hiding place of the",
+        "final ingredient... If you go, take",
+        "all due precautions.",
+        ""
+      ],
+      "Translation": [
+        "Hmm... It seems that you've found the",
+        "ingredients in the Windy Plains,",
+        "Scarlet Pillars, and Sacred Mountains.",
+        "[Page]",
+        "",
+        "And the fourth ingredient cannot be",
+        "found, you say? Then it must be",
+        "located in the [Color:5]Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "Have you heard of a wretched land that",
+        "no man can enter, to be found in the",
+        "[Color:5]northwestern[Color:0] region there?",
+        "[Page]",
+        "",
+        "It may be the hiding place of the",
+        "final ingredient... If you go, take",
+        "all due precautions.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

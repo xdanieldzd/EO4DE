@@ -1,0 +1,52 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_41",
+  "RelativePath": "Event\\Bar\\BAR_41.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Hey, did you hear? That [Guild]",
+        "Guild discovered a new labyrinth.",
+        "[Page]",
+        "",
+        "You guys should thank them. It's",
+        "because of them that grunts like us",
+        "make any progress.",
+        "[Page]",
+        "",
+        "Though from what I hear, this one's",
+        "a real challenge, even for the",
+        "[Guild] Guild.",
+        "[Page]",
+        "",
+        "In there, it seems like common sense",
+        "doesn't even apply. Scary stuff...",
+        ""
+      ],
+      "Translation": [
+        "Hey, did you hear? That [Guild]",
+        "Guild discovered a new labyrinth.",
+        "[Page]",
+        "",
+        "You guys should thank them. It's",
+        "because of them that grunts like us",
+        "make any progress.",
+        "[Page]",
+        "",
+        "Though from what I hear, this one's",
+        "a real challenge, even for the",
+        "[Guild] Guild.",
+        "[Page]",
+        "",
+        "In there, it seems like common sense",
+        "doesn't even apply. Scary stuff...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_002",
+  "RelativePath": "Event\\QR\\QR_002.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Are you going to accept that request?",
+        "It seems that the client would like",
+        "for you to slay some monsters.",
+        ""
+      ],
+      "Translation": [
+        "Are you going to accept that request?",
+        "It seems that the client would like",
+        "for you to slay some monsters.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You must slay [Color:5][Enemy2:0][Color:0] x[Color:5][Count:2][Color:0]",
+        "and [Color:5][Enemy2:1][Color:0] x[Color:5][Count:3][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You must slay [Color:5][Enemy2:0][Color:0] x[Color:5][Count:2][Color:0]",
+        "and [Color:5][Enemy2:1][Color:0] x[Color:5][Count:3][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "You must slay [Color:5][Enemy2:0][Color:0] x[Color:5][Count:2][Color:0]",
+        "found in the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You must slay [Color:5][Enemy2:0][Color:0] x[Color:5][Count:2][Color:0]",
+        "found in the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You must slay [Color:5][Enemy2:0][Color:0] x[Color:5][Count:2][Color:0]",
+        "found on [Color:5]B[Number:4]F[Color:0] of the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You must slay [Color:5][Enemy2:0][Color:0] x[Color:5][Count:2][Color:0]",
+        "found on [Color:5]B[Number:4]F[Color:0] of the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You must slay [Color:5][Enemy2:0][Color:0] x[Color:5][Count:2][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You must slay [Color:5][Enemy2:0][Color:0] x[Color:5][Count:2][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Both of the monsters are said to",
+        "appear in the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Both of the monsters are said to",
+        "appear in the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Both monsters are said to appear",
+        "on [Color:5]B[Number:4]F[Color:0] of the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Both monsters are said to appear",
+        "on [Color:5]B[Number:4]F[Color:0] of the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "This should be a simple enough task",
+        "to carry out. I leave it to you.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "This should be a simple enough task",
+        "to carry out. I leave it to you.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "It is a difficult request, but I have",
+        "faith in you. I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Translation": [
+        "It is a difficult request, but I have",
+        "faith in you. I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Congratulations on your",
+        "successful completion of the request.",
+        "Here is the promised reward.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Congratulations on your",
+        "successful completion of the request.",
+        "Here is the promised reward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Congratulations on your",
+        "successful completion of the request.",
+        "[Page]",
+        "",
+        "Ah yes, and I have a message from your",
+        "satisfied client...",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Congratulations on your",
+        "successful completion of the request.",
+        "[Page]",
+        "",
+        "Ah yes, and I have a message from your",
+        "satisfied client...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Here is your promised reward.",
+        "Well done, as usual. I hope you will",
+        "continue accepting our requests.",
+        ""
+      ],
+      "Translation": [
+        "Here is your promised reward.",
+        "Well done, as usual. I hope you will",
+        "continue accepting our requests.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You have successfully slain the",
+        "requested monster!",
+        ""
+      ],
+      "Translation": [
+        "You have successfully slain the",
+        "requested monster!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "You have successfully slain all of",
+        "the requested monsters!",
+        ""
+      ],
+      "Translation": [
+        "You have successfully slain all of",
+        "the requested monsters!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "The request has been fulfilled.",
+        "All that remains is to report back",
+        "to the Dancing Peacock.",
+        ""
+      ],
+      "Translation": [
+        "The request has been fulfilled.",
+        "All that remains is to report back",
+        "to the Dancing Peacock.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

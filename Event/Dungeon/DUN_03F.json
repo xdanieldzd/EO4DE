@@ -1,0 +1,2627 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_03F",
+  "RelativePath": "Event\\Dungeon\\DUN_03F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "As you touch the plain door, you hear",
+        "the echo of something enormous moving",
+        "from beyond it.",
+        "[Page]",
+        "",
+        "Eventually, the sound stops. It seems",
+        "that the door can now be opened and",
+        "closed.",
+        ""
+      ],
+      "Translation": [
+        "As you touch the plain door, you hear",
+        "the echo of something enormous moving",
+        "from beyond it.",
+        "[Page]",
+        "",
+        "Eventually, the sound stops. It seems",
+        "that the door can now be opened and",
+        "closed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "At the end of the path, you find",
+        "a worn hardcover book.",
+        "[Page]",
+        "",
+        "Most of the pages are now unreadable,",
+        "but you can make out the following...",
+        "[Page]",
+        "",
+        "\"Yggdrasil Sealing Project, Summary 4",
+        "If Yggdrasil goes berserk... will be",
+        "activated... fight fire with fire.",
+        "[Page]",
+        "",
+        "\"...is the only thing not affected by",
+        "Yggdrasil's powers. But there are",
+        "many problems, such as control...\"",
+        "[Page]",
+        "",
+        "More than that is impossible to read.",
+        "You leave the book behind and hurry",
+        "on ahead.",
+        ""
+      ],
+      "Translation": [
+        "At the end of the path, you find",
+        "a worn hardcover book.",
+        "[Page]",
+        "",
+        "Most of the pages are now unreadable,",
+        "but you can make out the following...",
+        "[Page]",
+        "",
+        "\"Yggdrasil Sealing Project, Summary 4",
+        "If Yggdrasil goes berserk... will be",
+        "activated... fight fire with fire.",
+        "[Page]",
+        "",
+        "\"...is the only thing not affected by",
+        "Yggdrasil's powers. But there are",
+        "many problems, such as control...\"",
+        "[Page]",
+        "",
+        "More than that is impossible to read.",
+        "You leave the book behind and hurry",
+        "on ahead.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You find a small monument in this",
+        "dead end and stop. Close inspection",
+        "reveals a message engraved on it...",
+        "[Page]",
+        "",
+        "\"The singer of the origin...",
+        "Thy name is wind.\"",
+        "[Page]",
+        "",
+        "What could this mean...? You are",
+        "unsure whether to commit this to",
+        "memory or ignore it altogether.",
+        ""
+      ],
+      "Translation": [
+        "You find a small monument in this",
+        "dead end and stop. Close inspection",
+        "reveals a message engraved on it...",
+        "[Page]",
+        "",
+        "\"The singer of the origin...",
+        "Thy name is wind.\"",
+        "[Page]",
+        "",
+        "What could this mean...? You are",
+        "unsure whether to commit this to",
+        "memory or ignore it altogether.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "The wall before you is formed of",
+        "fragile twigs and branches. A sweet",
+        "smell from it crosses your nose...",
+        ""
+      ],
+      "Translation": [
+        "The wall before you is formed of",
+        "fragile twigs and branches. A sweet",
+        "smell from it crosses your nose...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "You hear cracking sounds from the",
+        "other side of the wall, mixed with",
+        "the violent growl of a beast!",
+        ""
+      ],
+      "Translation": [
+        "You hear cracking sounds from the",
+        "other side of the wall, mixed with",
+        "the violent growl of a beast!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "The roar of splintering wood",
+        "echoes through the forest!",
+        ""
+      ],
+      "Translation": [
+        "The roar of splintering wood",
+        "echoes through the forest!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "No sooner do you take a step forward",
+        "than the red-furred king of the",
+        "beasts lets out a ferocious roar!",
+        ""
+      ],
+      "Translation": [
+        "No sooner do you take a step forward",
+        "than the red-furred king of the",
+        "beasts lets out a ferocious roar!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "In response to its cry, the beasts",
+        "nearby turn their gaze upon you!",
+        ""
+      ],
+      "Translation": [
+        "In response to its cry, the beasts",
+        "nearby turn their gaze upon you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "It is a treasure box with a tree",
+        "symbol on it. However, it is locked,",
+        "and you have no key that fits.",
+        ""
+      ],
+      "Translation": [
+        "It is a treasure box with a tree",
+        "symbol on it. However, it is locked,",
+        "and you have no key that fits.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "You reach a dead end and are about to",
+        "retrace your steps when you notice the",
+        "sound of running water.",
+        "[Page]",
+        "",
+        "It seems that water is streaming from",
+        "a crack in the rock before you.",
+        "[Page]",
+        "",
+        "Nothing is preventing you from taking",
+        "a short rest to quench your thirst,",
+        "though you do have things to do...",
+        ""
+      ],
+      "Translation": [
+        "You reach a dead end and are about to",
+        "retrace your steps when you notice the",
+        "sound of running water.",
+        "[Page]",
+        "",
+        "It seems that water is streaming from",
+        "a crack in the rock before you.",
+        "[Page]",
+        "",
+        "Nothing is preventing you from taking",
+        "a short rest to quench your thirst,",
+        "though you do have things to do...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Rest here?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Rest here?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "The party sets down its burden and",
+        "gathers around the spring to cup",
+        "their hands in the water and drink.",
+        ""
+      ],
+      "Translation": [
+        "The party sets down its burden and",
+        "gathers around the spring to cup",
+        "their hands in the water and drink.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 25 TP.[Color:0]",
+        "[Page]",
+        "",
+        "The refreshing water invigorates your",
+        "weary bodies as if a spell had been",
+        "cast. Could it have unknown powers?",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 25 TP.[Color:0]",
+        "[Page]",
+        "",
+        "The refreshing water invigorates your",
+        "weary bodies as if a spell had been",
+        "cast. Could it have unknown powers?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": false,
+      "Original": [
+        "Fully reenergized, you note this",
+        "place's location and prepare to resume",
+        "your exploration in high spirits.",
+        "[Page]",
+        "",
+        "However, as you make ready to leave,",
+        "[Character:0] points out several sets of",
+        "animal footprints nearby.",
+        "[Page]",
+        "",
+        "It seems you were lucky this time,",
+        "and there is no assurance that you",
+        "will be safe should you return.",
+        ""
+      ],
+      "Translation": [
+        "Fully reenergized, you note this",
+        "place's location and prepare to resume",
+        "your exploration in high spirits.",
+        "[Page]",
+        "",
+        "However, as you make ready to leave,",
+        "[Character:0] points out several sets of",
+        "animal footprints nearby.",
+        "[Page]",
+        "",
+        "It seems you were lucky this time,",
+        "and there is no assurance that you",
+        "will be safe should you return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "You return to the dead end where you",
+        "found the spring of clean water...",
+        "[Page]",
+        "",
+        "You are free to take a short rest",
+        "here as you did before, though you",
+        "are wary of encroaching monsters...",
+        ""
+      ],
+      "Translation": [
+        "You return to the dead end where you",
+        "found the spring of clean water...",
+        "[Page]",
+        "",
+        "You are free to take a short rest",
+        "here as you did before, though you",
+        "are wary of encroaching monsters...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Rest here?[Color:0]",
+        "Take a rest",
+        "Just take a few sips",
+        "Resume your journey",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Rest here?[Color:0]",
+        "Take a rest",
+        "Just take a few sips",
+        "Resume your journey",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "The party sets down its burden and",
+        "gathers around the spring to cup",
+        "their hands in the water and drink.",
+        "[Page]",
+        "",
+        "The spring water is wonderful, as",
+        "always, and you feel the exhaustion",
+        "from your journey melt away.",
+        "[Page]",
+        "",
+        "But it seems nearby monsters were",
+        "waiting for your guard to be lowered",
+        "and take this opportunity to strike!",
+        ""
+      ],
+      "Translation": [
+        "The party sets down its burden and",
+        "gathers around the spring to cup",
+        "their hands in the water and drink.",
+        "[Page]",
+        "",
+        "The spring water is wonderful, as",
+        "always, and you feel the exhaustion",
+        "from your journey melt away.",
+        "[Page]",
+        "",
+        "But it seems nearby monsters were",
+        "waiting for your guard to be lowered",
+        "and take this opportunity to strike!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": false,
+      "Original": [
+        "You hastily take up arms, but it is",
+        "too late! The monsters are already",
+        "upon you!",
+        ""
+      ],
+      "Translation": [
+        "You hastily take up arms, but it is",
+        "too late! The monsters are already",
+        "upon you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": false,
+      "Original": [
+        "You take a short rest at the spring,",
+        "taking turns on guard.",
+        ""
+      ],
+      "Translation": [
+        "You take a short rest at the spring,",
+        "taking turns on guard.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 5 TP.[Color:0]",
+        "[Page]",
+        "",
+        "The break was hardly calming, but you",
+        "feel slightly better-rested... You",
+        "pull yourselves together and go on.",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 5 TP.[Color:0]",
+        "[Page]",
+        "",
+        "The break was hardly calming, but you",
+        "feel slightly better-rested... You",
+        "pull yourselves together and go on.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk down a dead end, you hear",
+        "rustling from a nearby thicket.",
+        "[Page]",
+        "",
+        "You carefully have a look, only to see",
+        "giant, plantlike monsters attacking",
+        "a small hare!",
+        "[Page]",
+        "",
+        "The monsters are too focused on their",
+        "prey to notice you. The hare's",
+        "situation looks dire.",
+        "[Page]",
+        "",
+        "If you wish to save it, you must",
+        "challenge the monsters to a fight.",
+        "Otherwise, it would be best to leave.",
+        ""
+      ],
+      "Translation": [
+        "As you walk down a dead end, you hear",
+        "rustling from a nearby thicket.",
+        "[Page]",
+        "",
+        "You carefully have a look, only to see",
+        "giant, plantlike monsters attacking",
+        "a small hare!",
+        "[Page]",
+        "",
+        "The monsters are too focused on their",
+        "prey to notice you. The hare's",
+        "situation looks dire.",
+        "[Page]",
+        "",
+        "If you wish to save it, you must",
+        "challenge the monsters to a fight.",
+        "Otherwise, it would be best to leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Save the hare?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Save the hare?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "You sound your weapons to draw the",
+        "monsters' attention and prepare",
+        "for battle!",
+        ""
+      ],
+      "Translation": [
+        "You sound your weapons to draw the",
+        "monsters' attention and prepare",
+        "for battle!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "After the last monster gives its death",
+        "rattle and collapses, you sheathe your",
+        "weapons and look toward the hare.",
+        "[Page]",
+        "",
+        "It appears that it sustained only",
+        "minor wounds. The hare bounds deeper",
+        "into the forest.",
+        "[Page]",
+        "",
+        "After it departs, you notice something",
+        "on the ground. It is a piece of new-",
+        "seeming equipment...",
+        ""
+      ],
+      "Translation": [
+        "After the last monster gives its death",
+        "rattle and collapses, you sheathe your",
+        "weapons and look toward the hare.",
+        "[Page]",
+        "",
+        "It appears that it sustained only",
+        "minor wounds. The hare bounds deeper",
+        "into the forest.",
+        "[Page]",
+        "",
+        "After it departs, you notice something",
+        "on the ground. It is a piece of new-",
+        "seeming equipment...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "You count your blessings in finding",
+        "this unexpected spoil and resume",
+        "your exploration of the maze.",
+        ""
+      ],
+      "Translation": [
+        "You count your blessings in finding",
+        "this unexpected spoil and resume",
+        "your exploration of the maze.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "As you go deep into the forest, you",
+        "see a young soldier to the side and",
+        "and raise your hand in greeting.",
+        "[Page]",
+        "",
+        "He returns the gesture and approaches.",
+        ""
+      ],
+      "Translation": [
+        "As you go deep into the forest, you",
+        "see a young soldier to the side and",
+        "and raise your hand in greeting.",
+        "[Page]",
+        "",
+        "He returns the gesture and approaches.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're Guild [Guild], who defeated",
+        "[Enemy1:170] and opened the way",
+        "to this level of the maze, right?",
+        "[Page]",
+        "",
+        "\"It's an honor. I came on behalf of",
+        "the Outland Count to slay the bear,",
+        "but your skill far surpasses mine.",
+        "[Page]",
+        "",
+        "\"Tell me, though, do you have enough",
+        "medicine on hand? If not, will you",
+        "let me do you that favor?\"",
+        "[Page]",
+        "",
+        "The soldier takes something from the",
+        "pouch on his waist and presents it",
+        "to you.",
+        ""
+      ],
+      "Translation": [
+        "\"You're Guild [Guild], who defeated",
+        "[Enemy1:170] and opened the way",
+        "to this level of the maze, right?",
+        "[Page]",
+        "",
+        "\"It's an honor. I came on behalf of",
+        "the Outland Count to slay the bear,",
+        "but your skill far surpasses mine.",
+        "[Page]",
+        "",
+        "\"Tell me, though, do you have enough",
+        "medicine on hand? If not, will you",
+        "let me do you that favor?\"",
+        "[Page]",
+        "",
+        "The soldier takes something from the",
+        "pouch on his waist and presents it",
+        "to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": false,
+      "Original": [
+        "You again visit the young soldier who",
+        "once gave you a gift.",
+        ""
+      ],
+      "Translation": [
+        "You again visit the young soldier who",
+        "once gave you a gift.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, hello. How goes the work? Nothing",
+        "new on my end, I'm afraid. Oh, but I",
+        "have a present for you today too.\"",
+        "[Page]",
+        "",
+        "The soldier takes something from the",
+        "pouch on his waist and presents it",
+        "to you.",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, hello. How goes the work? Nothing",
+        "new on my end, I'm afraid. Oh, but I",
+        "have a present for you today too.\"",
+        "[Page]",
+        "",
+        "The soldier takes something from the",
+        "pouch on his waist and presents it",
+        "to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": false,
+      "Original": [
+        "You thank the kind soldier and take",
+        "your leave in order to continue your",
+        "exploration.",
+        ""
+      ],
+      "Translation": [
+        "You thank the kind soldier and take",
+        "your leave in order to continue your",
+        "exploration.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 140,
+      "IsIgnored": false,
+      "Original": [
+        "You reach a cul-de-sac and find",
+        "plants growing at your feet. They",
+        "may be useful to someone in Tharsis.",
+        "[Page]",
+        "",
+        "You are free to pick a few if you",
+        "wish to.",
+        ""
+      ],
+      "Translation": [
+        "You reach a cul-de-sac and find",
+        "plants growing at your feet. They",
+        "may be useful to someone in Tharsis.",
+        "[Page]",
+        "",
+        "You are free to pick a few if you",
+        "wish to.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Pick some plants?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Pick some plants?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": false,
+      "Original": [
+        "As you busy yourself picking the",
+        "plants, you hear sudden footsteps",
+        "behind you!",
+        ""
+      ],
+      "Translation": [
+        "As you busy yourself picking the",
+        "plants, you hear sudden footsteps",
+        "behind you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": false,
+      "Original": [
+        "You turn to find a red baboon, which",
+        "seems as surprised to see you as you",
+        "are to see it!",
+        "[Page]",
+        "",
+        "There isn't much time to think...",
+        "You must act swiftly to resolve the",
+        "situation!",
+        ""
+      ],
+      "Translation": [
+        "You turn to find a red baboon, which",
+        "seems as surprised to see you as you",
+        "are to see it!",
+        "[Page]",
+        "",
+        "There isn't much time to think...",
+        "You must act swiftly to resolve the",
+        "situation!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What will you do?[Color:0]",
+        "Attack while it's off guard",
+        "See what the baboon does",
+        "Beat your chest with your fists",
+        "Try mimicking its voice",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What will you do?[Color:0]",
+        "Attack while it's off guard",
+        "See what the baboon does",
+        "Beat your chest with your fists",
+        "Try mimicking its voice",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": false,
+      "Original": [
+        "You immediately stand and draw your",
+        "weapons--and before the baboon can",
+        "get its bearings, you attack!",
+        ""
+      ],
+      "Translation": [
+        "You immediately stand and draw your",
+        "weapons--and before the baboon can",
+        "get its bearings, you attack!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": false,
+      "Original": [
+        "After slaying the baboon, you put the",
+        "gathered plants into your knapsack",
+        "and resume your travels.",
+        ""
+      ],
+      "Translation": [
+        "After slaying the baboon, you put the",
+        "gathered plants into your knapsack",
+        "and resume your travels.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": false,
+      "Original": [
+        "You breathe as quietly as you can,",
+        "waiting to see what it will do.",
+        "[Page]",
+        "",
+        "The seconds tick by...",
+        "[Page]",
+        "",
+        "After a long, heavy silence, the",
+        "baboon leaves, apparently deciding",
+        "that you are not a threat.",
+        "[Page]",
+        "",
+        "You exhale with relief and gather up",
+        "the plants you had picked before",
+        "resuming your travels.",
+        ""
+      ],
+      "Translation": [
+        "You breathe as quietly as you can,",
+        "waiting to see what it will do.",
+        "[Page]",
+        "",
+        "The seconds tick by...",
+        "[Page]",
+        "",
+        "After a long, heavy silence, the",
+        "baboon leaves, apparently deciding",
+        "that you are not a threat.",
+        "[Page]",
+        "",
+        "You exhale with relief and gather up",
+        "the plants you had picked before",
+        "resuming your travels.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": false,
+      "Original": [
+        "You take a step forward and puff out",
+        "your chests before beating them with",
+        "your fists!",
+        "[Page]",
+        "",
+        "The baboon becomes enraged at this",
+        "and charges straight for you!",
+        "[Page]",
+        "",
+        "Alarmed, you try to draw your weapons,",
+        "but you had already let go of them",
+        "to strike your chests!",
+        "[Page]",
+        "",
+        "This is turning into a debacle...",
+        "You must endure this monster's first",
+        "strike before you can react!",
+        ""
+      ],
+      "Translation": [
+        "You take a step forward and puff out",
+        "your chests before beating them with",
+        "your fists!",
+        "[Page]",
+        "",
+        "The baboon becomes enraged at this",
+        "and charges straight for you!",
+        "[Page]",
+        "",
+        "Alarmed, you try to draw your weapons,",
+        "but you had already let go of them",
+        "to strike your chests!",
+        "[Page]",
+        "",
+        "This is turning into a debacle...",
+        "You must endure this monster's first",
+        "strike before you can react!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 151,
+      "IsIgnored": false,
+      "Original": [
+        "Though you did only have a split",
+        "second to make your decision, it",
+        "cannot be said that you chose wisely.",
+        "[Page]",
+        "",
+        "With the baboon slain, you put the",
+        "gathered plants into your knapsack",
+        "and resume your exploration.",
+        ""
+      ],
+      "Translation": [
+        "Though you did only have a split",
+        "second to make your decision, it",
+        "cannot be said that you chose wisely.",
+        "[Page]",
+        "",
+        "With the baboon slain, you put the",
+        "gathered plants into your knapsack",
+        "and resume your exploration.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 154,
+      "IsIgnored": false,
+      "Original": [
+        "You take a step forward and do your",
+        "best to mimic the baboon's cry as",
+        "loudly as possible.",
+        "[Page]",
+        "",
+        "Lo and behold... the baboon returns",
+        "the cry and approaches you!",
+        "[Page]",
+        "",
+        "It then carefully takes hold of the",
+        "plants you had been inspecting, pulls",
+        "them up, and hands them to you!",
+        ""
+      ],
+      "Translation": [
+        "You take a step forward and do your",
+        "best to mimic the baboon's cry as",
+        "loudly as possible.",
+        "[Page]",
+        "",
+        "Lo and behold... the baboon returns",
+        "the cry and approaches you!",
+        "[Page]",
+        "",
+        "It then carefully takes hold of the",
+        "plants you had been inspecting, pulls",
+        "them up, and hands them to you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": false,
+      "Original": [
+        "The baboon accepts your baffled",
+        "thanks before wandering off into",
+        "the depths of the maze.",
+        "[Page]",
+        "",
+        "In that moment of rapport with the",
+        "baboon, you realize that appearances",
+        "do not separate man from monster.",
+        "[Page]",
+        "",
+        "You silently thank the kind baboon",
+        "once more and swear in your heart to",
+        "try and slay fewer of his kind.",
+        ""
+      ],
+      "Translation": [
+        "The baboon accepts your baffled",
+        "thanks before wandering off into",
+        "the depths of the maze.",
+        "[Page]",
+        "",
+        "In that moment of rapport with the",
+        "baboon, you realize that appearances",
+        "do not separate man from monster.",
+        "[Page]",
+        "",
+        "You silently thank the kind baboon",
+        "once more and swear in your heart to",
+        "try and slay fewer of his kind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

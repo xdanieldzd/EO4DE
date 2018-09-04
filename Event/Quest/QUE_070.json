@@ -1,0 +1,876 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_070",
+  "RelativePath": "Event\\Quest\\QUE_070.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah... that is from the Outland Count.",
+        "He has apparently found another old",
+        "document.",
+        "[Page]",
+        "",
+        "He wants your help in deciphering it.",
+        "You must visit him for the details...",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Ah... that is from the Outland Count.",
+        "He has apparently found another old",
+        "document.",
+        "[Page]",
+        "",
+        "He wants your help in deciphering it.",
+        "You must visit him for the details...",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. The Outland Count made",
+        "mention of a \"water mark\"...?",
+        "[Page]",
+        "",
+        "The Cloudy Stronghold is the ruin of",
+        "an ancient civilization. One never",
+        "knows what one may find there.",
+        "[Page]",
+        "",
+        "Whether mystery is piled upon mystery",
+        "or the truth is revealed for all to",
+        "see depends on you...",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. The Outland Count made",
+        "mention of a \"water mark\"...?",
+        "[Page]",
+        "",
+        "The Cloudy Stronghold is the ruin of",
+        "an ancient civilization. One never",
+        "knows what one may find there.",
+        "[Page]",
+        "",
+        "Whether mystery is piled upon mystery",
+        "or the truth is revealed for all to",
+        "see depends on you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You accepted my request? Ah, that is",
+        "a relief. Even Margherita is pleased",
+        "to see you again.",
+        "[Page]",
+        "",
+        "Do you recall the document from which",
+        "we derived the coordinates of Area 1?",
+        "[Page]",
+        "",
+        "Well, we have just unearthed a new",
+        "document with similar notation.",
+        "Allow me to read it to you...",
+        ""
+      ],
+      "Translation": [
+        "You accepted my request? Ah, that is",
+        "a relief. Even Margherita is pleased",
+        "to see you again.",
+        "[Page]",
+        "",
+        "Do you recall the document from which",
+        "we derived the coordinates of Area 1?",
+        "[Page]",
+        "",
+        "Well, we have just unearthed a new",
+        "document with similar notation.",
+        "Allow me to read it to you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "\"Starting from [Color:5]Area 1[Color:0], if you follow",
+        "a specific route to the endpoint, the",
+        "[Color:5]water mark[Color:0] will very likely react.",
+        "[Page]",
+        "",
+        "\"The current waypoints for the route",
+        "are [Color:5](C-4/5-4)[Color:0] and [Color:5](B-5/3-2)[Color:0].",
+        "[Page]",
+        "",
+        "\"The endpoint is estimated to be",
+        "somewhere in [Color:5]A-4[Color:0]... We estimate our",
+        "progress to be at 25%.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Starting from [Color:5]Area 1[Color:0], if you follow",
+        "a specific route to the endpoint, the",
+        "[Color:5]water mark[Color:0] will very likely react.",
+        "[Page]",
+        "",
+        "\"The current waypoints for the route",
+        "are [Color:5](C-4/5-4)[Color:0] and [Color:5](B-5/3-2)[Color:0].",
+        "[Page]",
+        "",
+        "\"The endpoint is estimated to be",
+        "somewhere in [Color:5]A-4[Color:0]... We estimate our",
+        "progress to be at 25%.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "It ends there. The documents before",
+        "and after this, which might have given",
+        "some context, are missing.",
+        "[Page]",
+        "",
+        "Your task will be to [Color:5]cause whatever",
+        "reaction[Color:0] the document speaks of and",
+        "[Color:5]pinpoint the site[Color:0] of this water mark.",
+        "[Page]",
+        "",
+        "Once the reaction begins, try to find",
+        "the mark. If you can do that much, I",
+        "shall be satisfied. Oh, take this...",
+        "[Page]",
+        "",
+        "It is an unknown device found in the",
+        "husk of an Imperial skyship along with",
+        "the document. It may prove useful.",
+        "[Page]",
+        "",
+        "I am counting on you, my friends. See?",
+        "Even Margherita has high hopes.",
+        ""
+      ],
+      "Translation": [
+        "It ends there. The documents before",
+        "and after this, which might have given",
+        "some context, are missing.",
+        "[Page]",
+        "",
+        "Your task will be to [Color:5]cause whatever",
+        "reaction[Color:0] the document speaks of and",
+        "[Color:5]pinpoint the site[Color:0] of this water mark.",
+        "[Page]",
+        "",
+        "Once the reaction begins, try to find",
+        "the mark. If you can do that much, I",
+        "shall be satisfied. Oh, take this...",
+        "[Page]",
+        "",
+        "It is an unknown device found in the",
+        "husk of an Imperial skyship along with",
+        "the document. It may prove useful.",
+        "[Page]",
+        "",
+        "I am counting on you, my friends. See?",
+        "Even Margherita has high hopes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "How are you faring? Did you cause a",
+        "reaction, like the document said?",
+        ""
+      ],
+      "Translation": [
+        "How are you faring? Did you cause a",
+        "reaction, like the document said?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Did you make it react?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Did you make it react?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Hrm...",
+        ""
+      ],
+      "Translation": [
+        "Hrm...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Again, then...",
+        ""
+      ],
+      "Translation": [
+        "Again, then...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Come now... Are you deliberately",
+        "attempting to get a rise out of me?",
+        "[Page]",
+        "",
+        "Where is your explorer's spirit? Do",
+        "you intend to leave me consistently",
+        "disappointed?",
+        "[Page]",
+        "",
+        "If that is the case, then I shall",
+        "disappoint you as well. Go try again.",
+        ""
+      ],
+      "Translation": [
+        "Come now... Are you deliberately",
+        "attempting to get a rise out of me?",
+        "[Page]",
+        "",
+        "Where is your explorer's spirit? Do",
+        "you intend to leave me consistently",
+        "disappointed?",
+        "[Page]",
+        "",
+        "If that is the case, then I shall",
+        "disappoint you as well. Go try again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Of course. I'll read the document one",
+        "more time.",
+        ""
+      ],
+      "Translation": [
+        "Of course. I'll read the document one",
+        "more time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "It sounds as if it is directing you",
+        "to [Color:5]fly a set route[Color:0], after which you",
+        "will most likely see a reaction...",
+        "[Page]",
+        "",
+        "The starting point is Area 1, at",
+        "(D-2/4-5). From there, you must fly",
+        "over (C-4/5-4) and (B-5/3-2).",
+        "[Page]",
+        "",
+        "Once you travel over those three",
+        "points, your destination is somewhere",
+        "in A-4... That's as much as we know.",
+        ""
+      ],
+      "Translation": [
+        "It sounds as if it is directing you",
+        "to [Color:5]fly a set route[Color:0], after which you",
+        "will most likely see a reaction...",
+        "[Page]",
+        "",
+        "The starting point is Area 1, at",
+        "(D-2/4-5). From there, you must fly",
+        "over (C-4/5-4) and (B-5/3-2).",
+        "[Page]",
+        "",
+        "Once you travel over those three",
+        "points, your destination is somewhere",
+        "in A-4... That's as much as we know.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Truly!? Then tell me the spot where",
+        "you saw the reaction!",
+        ""
+      ],
+      "Translation": [
+        "Truly!? Then tell me the spot where",
+        "you saw the reaction!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Understood. I will send my swiftest",
+        "scouts...!",
+        ""
+      ],
+      "Translation": [
+        "Understood. I will send my swiftest",
+        "scouts...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "We did it, my friends! The spot you",
+        "told us to look for was emanating",
+        "a faint light.",
+        "[Page]",
+        "",
+        "It has already faded, but on the stone",
+        "floor at its base, there is a water",
+        "mark engraved.",
+        "[Page]",
+        "",
+        "I wonder what it means... This mystery",
+        "is not yet fully solved. But with your",
+        "help, perhaps it will be.",
+        "[Page]",
+        "",
+        "You are free to go to the Dancing",
+        "Peacock now to claim your well-earned",
+        "reward. Thank you, my friends!",
+        ""
+      ],
+      "Translation": [
+        "We did it, my friends! The spot you",
+        "told us to look for was emanating",
+        "a faint light.",
+        "[Page]",
+        "",
+        "It has already faded, but on the stone",
+        "floor at its base, there is a water",
+        "mark engraved.",
+        "[Page]",
+        "",
+        "I wonder what it means... This mystery",
+        "is not yet fully solved. But with your",
+        "help, perhaps it will be.",
+        "[Page]",
+        "",
+        "You are free to go to the Dancing",
+        "Peacock now to claim your well-earned",
+        "reward. Thank you, my friends!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "As I thought, this land still holds",
+        "many secrets... I may have another",
+        "request for you quite soon.",
+        ""
+      ],
+      "Translation": [
+        "As I thought, this land still holds",
+        "many secrets... I may have another",
+        "request for you quite soon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "My scouts flew to the point you told",
+        "us to try, but there was no reaction",
+        "visible there.",
+        "[Page]",
+        "",
+        "Was that the right spot? You... did",
+        "confirm the reaction according to the",
+        "document, yes?",
+        "[Page]",
+        "",
+        "Try it once more and report back",
+        "to me. Hurry, before Margherita",
+        "grows cross!",
+        ""
+      ],
+      "Translation": [
+        "My scouts flew to the point you told",
+        "us to try, but there was no reaction",
+        "visible there.",
+        "[Page]",
+        "",
+        "Was that the right spot? You... did",
+        "confirm the reaction according to the",
+        "document, yes?",
+        "[Page]",
+        "",
+        "Try it once more and report back",
+        "to me. Hurry, before Margherita",
+        "grows cross!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 1.",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 1.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 2.",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 2.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "find the needle has returned to 0...",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "find the needle has returned to 0...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 3.",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 3.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "find the needle has returned to 0...",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "find the needle has returned to 0...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 4.",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 4.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "find the needle has returned to 0...",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "find the needle has returned to 0...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 5.",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 5.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "find the needle has returned to 0...",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "find the needle has returned to 0...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 6.",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 6.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "find the needle has returned to 0...",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "find the needle has returned to 0...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 7.",
+        "[Page]",
+        "",
+        "The next instant, you hear a strange",
+        "sound from the southwest! It seems to",
+        "be reacting to something.",
+        "[Page]",
+        "",
+        "The sound came from nearby. You move",
+        "to explore the surrounding area...",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, the device you received from",
+        "the Outland Count pings. You look and",
+        "see that the needle is pointing to 7.",
+        "[Page]",
+        "",
+        "The next instant, you hear a strange",
+        "sound from the southwest! It seems to",
+        "be reacting to something.",
+        "[Page]",
+        "",
+        "The sound came from nearby. You move",
+        "to explore the surrounding area...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "As you go in search of the sound,",
+        "you notice a dim glow from the stone",
+        "pavement below.",
+        ""
+      ],
+      "Translation": [
+        "As you go in search of the sound,",
+        "you notice a dim glow from the stone",
+        "pavement below.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "You see a water-like symbol engraved,",
+        "from which the light emanates.",
+        "[Page]",
+        "",
+        "This must be the [Color:5]water mark[Color:0] mentioned",
+        "in the document! You have succeeded",
+        "in causing it to react!",
+        "[Page]",
+        "",
+        "You should go straight away to the",
+        "Outland Count and inform him where",
+        "the mark can be found!",
+        ""
+      ],
+      "Translation": [
+        "You see a water-like symbol engraved,",
+        "from which the light emanates.",
+        "[Page]",
+        "",
+        "This must be the [Color:5]water mark[Color:0] mentioned",
+        "in the document! You have succeeded",
+        "in causing it to react!",
+        "[Page]",
+        "",
+        "You should go straight away to the",
+        "Outland Count and inform him where",
+        "the mark can be found!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "You hear a strange sound coming from",
+        "the [Color:5]southwest[Color:0].",
+        "[Page]",
+        "",
+        "Perhaps the water mark has reacted",
+        "from someplace not far off. You move",
+        "to explore the surrounding area...",
+        ""
+      ],
+      "Translation": [
+        "You hear a strange sound coming from",
+        "the [Color:5]southwest[Color:0].",
+        "[Page]",
+        "",
+        "Perhaps the water mark has reacted",
+        "from someplace not far off. You move",
+        "to explore the surrounding area...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "A dim glow is emanating from the water",
+        "mark engraved into the stone...",
+        ""
+      ],
+      "Translation": [
+        "A dim glow is emanating from the water",
+        "mark engraved into the stone...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_37",
+  "RelativePath": "Event\\Bar\\BAR_37.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "What the hell!? I thought I'd go and",
+        "see Yggdrasil, and after a solid year",
+        "on the road, I finally get here...",
+        "[Page]",
+        "",
+        "Only to find that it's withered away!",
+        "Just when I was about to go register",
+        "at the Explorers Guild, too!",
+        "[Page]",
+        "",
+        "What am I supposed to do now...?",
+        ""
+      ],
+      "Translation": [
+        "What the hell!? I thought I'd go and",
+        "see Yggdrasil, and after a solid year",
+        "on the road, I finally get here...",
+        "[Page]",
+        "",
+        "Only to find that it's withered away!",
+        "Just when I was about to go register",
+        "at the Explorers Guild, too!",
+        "[Page]",
+        "",
+        "What am I supposed to do now...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "What the hell!? With Yggdrasil all",
+        "withered away, I had my things packed",
+        "and ready to go back home...",
+        "[Page]",
+        "",
+        "Only for it to grow right back! I'd",
+        "already written my fiancee to tell",
+        "her I'd be coming home...",
+        "[Page]",
+        "",
+        "Hmph. Guess it's just the way things",
+        "go. At least now, I'll be one of the",
+        "first to get there...",
+        "[Page]",
+        "",
+        "Sorry, Ellie. The ceremony will be",
+        "on hold a little longer... I've found",
+        "my calling.",
+        ""
+      ],
+      "Translation": [
+        "What the hell!? With Yggdrasil all",
+        "withered away, I had my things packed",
+        "and ready to go back home...",
+        "[Page]",
+        "",
+        "Only for it to grow right back! I'd",
+        "already written my fiancee to tell",
+        "her I'd be coming home...",
+        "[Page]",
+        "",
+        "Hmph. Guess it's just the way things",
+        "go. At least now, I'll be one of the",
+        "first to get there...",
+        "[Page]",
+        "",
+        "Sorry, Ellie. The ceremony will be",
+        "on hold a little longer... I've found",
+        "my calling.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

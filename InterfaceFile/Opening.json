@@ -1,0 +1,1005 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Opening text (unused)",
+  "RelativePath": "InterfaceFile\\Opening.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "As divine verdure fertilizes;",
+        ""
+      ],
+      "Translation": [
+        "As divine verdure fertilizes;",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "The malign verdure corrupts.",
+        ""
+      ],
+      "Translation": [
+        "The malign verdure corrupts.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "What is left is a holy husk.",
+        ""
+      ],
+      "Translation": [
+        "What is left is a holy husk.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Hollow ones cling to faith;",
+        ""
+      ],
+      "Translation": [
+        "Hollow ones cling to faith;",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Fanged ones honor power;",
+        ""
+      ],
+      "Translation": [
+        "Fanged ones honor power;",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Foolish sages protect a lie.",
+        ""
+      ],
+      "Translation": [
+        "Foolish sages protect a lie.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "But the Medium's song remains,",
+        ""
+      ],
+      "Translation": [
+        "But the Medium's song remains,",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Guiding you to Yggdrasil.",
+        ""
+      ],
+      "Translation": [
+        "Guiding you to Yggdrasil.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "You hold the wings to soar",
+        ""
+      ],
+      "Translation": [
+        "You hold the wings to soar",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "In this tempestuous saga.",
+        ""
+      ],
+      "Translation": [
+        "In this tempestuous saga.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Winds of beginning, blow now...",
+        ""
+      ],
+      "Translation": [
+        "Winds of beginning, blow now...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Now that you have cleared the game",
+        "once, any new game you begin will",
+        "carry over the following:",
+        "[Page]",
+        "",
+        "[Color:3]・All characters",
+        "・All equipped gear and money",
+        "・Guild name and guild card[Color:0]",
+        "[Page]",
+        "",
+        "Be aware that key items, unequipped",
+        "items, and items stored at the inn",
+        "will [Color:5]all be lost[Color:0].",
+        "[Page]",
+        "",
+        "Maps and logbook entries can also",
+        "be carried over at the player's",
+        "discretion.",
+        "[Page]",
+        "",
+        "Would you like to carry over your",
+        "maps from the previous save file",
+        "into a new game?",
+        ""
+      ],
+      "Translation": [
+        "Now that you have cleared the game",
+        "once, any new game you begin will",
+        "carry over the following:",
+        "[Page]",
+        "",
+        "[Color:3]・All characters",
+        "・All equipped gear and money",
+        "・Guild name and guild card[Color:0]",
+        "[Page]",
+        "",
+        "Be aware that key items, unequipped",
+        "items, and items stored at the inn",
+        "will [Color:5]all be lost[Color:0].",
+        "[Page]",
+        "",
+        "Maps and logbook entries can also",
+        "be carried over at the player's",
+        "discretion.",
+        "[Page]",
+        "",
+        "Would you like to carry over your",
+        "maps from the previous save file",
+        "into a new game?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Carry over map data?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Carry over map data?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Once the map data has been erased,",
+        "it cannot be recovered. Are you sure",
+        "you want to delete all map data?",
+        ""
+      ],
+      "Translation": [
+        "Once the map data has been erased,",
+        "it cannot be recovered. Are you sure",
+        "you want to delete all map data?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Delete all previous maps?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Delete all previous maps?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Deleting all map data for the new",
+        "game file.",
+        ""
+      ],
+      "Translation": [
+        "Deleting all map data for the new",
+        "game file.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Transferring map data from the",
+        "previous save file into the new game.",
+        ""
+      ],
+      "Translation": [
+        "Transferring map data from the",
+        "previous save file into the new game.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Would you like to carry over your",
+        "logbook entries from the previous",
+        "save file into a new game?",
+        ""
+      ],
+      "Translation": [
+        "Would you like to carry over your",
+        "logbook entries from the previous",
+        "save file into a new game?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Carry over logbook entries?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Carry over logbook entries?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Transferring logbook entries from the",
+        "previous save file into the new game.",
+        "[Page]",
+        "",
+        "[Color:3](Note: Though the logbook entries will",
+        "be preserved, the items they refer to",
+        "will not remain in your inventory.)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Transferring logbook entries from the",
+        "previous save file into the new game.",
+        "[Page]",
+        "",
+        "[Color:3](Note: Though the logbook entries will",
+        "be preserved, the items they refer to",
+        "will not remain in your inventory.)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Deleting all treasure, monster, and",
+        "item entries for the new game file.",
+        "[Page]",
+        "",
+        "Once the logbook entries are erased,",
+        "they cannot be recovered. Are you sure",
+        "you want to delete them?",
+        ""
+      ],
+      "Translation": [
+        "Deleting all treasure, monster, and",
+        "item entries for the new game file.",
+        "[Page]",
+        "",
+        "Once the logbook entries are erased,",
+        "they cannot be recovered. Are you sure",
+        "you want to delete them?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Delete all logbook entries?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Delete all logbook entries?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Deleting all treasure, monster, and",
+        "item entries for the new game file.",
+        ""
+      ],
+      "Translation": [
+        "Deleting all treasure, monster, and",
+        "item entries for the new game file.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You can set your own difficulty in",
+        "Etrian Odyssey IV: Legends of",
+        "the Titan.",
+        ""
+      ],
+      "Translation": [
+        "You can set your own difficulty in",
+        "Etrian Odyssey IV: Legends of",
+        "the Titan.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Select a difficulty:[Color:0]",
+        " Normal",
+        " Casual",
+        " Read explanation",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Select a difficulty:[Color:0]",
+        " Normal",
+        " Casual",
+        " Read explanation",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "There are two difficulty settings,",
+        "Normal and Casual.",
+        "[Page]",
+        "",
+        "Normal presents the standard challenge",
+        "of the Etrian Odyssey series. Casual",
+        "difficulty is somewhat easier.",
+        "[Page]",
+        "",
+        "In Casual mode, battles are less",
+        "difficult. If your party is wiped out,",
+        "you will be taken back to Tharsis.",
+        "[Page]",
+        "",
+        "You can also set certain items not to",
+        "be expended upon use, allowing for",
+        "more casual play.",
+        "[Page]",
+        "",
+        "Your difficulty setting will not",
+        "affect the story, but some medals",
+        "cannot be earned in Casual mode.",
+        ""
+      ],
+      "Translation": [
+        "There are two difficulty settings,",
+        "Normal and Casual.",
+        "[Page]",
+        "",
+        "Normal presents the standard challenge",
+        "of the Etrian Odyssey series. Casual",
+        "difficulty is somewhat easier.",
+        "[Page]",
+        "",
+        "In Casual mode, battles are less",
+        "difficult. If your party is wiped out,",
+        "you will be taken back to Tharsis.",
+        "[Page]",
+        "",
+        "You can also set certain items not to",
+        "be expended upon use, allowing for",
+        "more casual play.",
+        "[Page]",
+        "",
+        "Your difficulty setting will not",
+        "affect the story, but some medals",
+        "cannot be earned in Casual mode.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "This is the Etrian Odyssey series'",
+        "usual difficulty setting.",
+        "[Page]",
+        "",
+        "It is recommended for players who have",
+        "experience with the series and enjoy",
+        "challenging RPGs.",
+        "[Page]",
+        "",
+        "The difficulty can be adjusted after",
+        "the game has begun from the Options",
+        "screen while in the city.",
+        "[Page]",
+        "",
+        "Would you like to begin the game at",
+        "Normal difficulty?",
+        ""
+      ],
+      "Translation": [
+        "This is the Etrian Odyssey series'",
+        "usual difficulty setting.",
+        "[Page]",
+        "",
+        "It is recommended for players who have",
+        "experience with the series and enjoy",
+        "challenging RPGs.",
+        "[Page]",
+        "",
+        "The difficulty can be adjusted after",
+        "the game has begun from the Options",
+        "screen while in the city.",
+        "[Page]",
+        "",
+        "Would you like to begin the game at",
+        "Normal difficulty?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Begin with Normal difficulty?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Begin with Normal difficulty?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Beginning the game on Normal mode.",
+        "May you enjoy a pressure-filled,",
+        "intense adventure...",
+        ""
+      ],
+      "Translation": [
+        "Beginning the game on Normal mode.",
+        "May you enjoy a pressure-filled,",
+        "intense adventure...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "This difficulty setting is lower than",
+        "Normal, especially in battle, allowing",
+        "you to play the game more casually.",
+        "[Page]",
+        "",
+        "It is recommended for players who",
+        "have never played an Etrian Odyssey",
+        "game or do not have much time to play.",
+        "[Page]",
+        "",
+        "Your difficulty setting will not",
+        "affect the story, but some medals",
+        "cannot be earned in Casual mode.",
+        "[Page]",
+        "",
+        "The difficulty can be adjusted after",
+        "the game has begun from the Options",
+        "screen while in the city.",
+        "[Page]",
+        "",
+        "Would you like to begin the game at",
+        "Casual difficulty?",
+        ""
+      ],
+      "Translation": [
+        "This difficulty setting is lower than",
+        "Normal, especially in battle, allowing",
+        "you to play the game more casually.",
+        "[Page]",
+        "",
+        "It is recommended for players who",
+        "have never played an Etrian Odyssey",
+        "game or do not have much time to play.",
+        "[Page]",
+        "",
+        "Your difficulty setting will not",
+        "affect the story, but some medals",
+        "cannot be earned in Casual mode.",
+        "[Page]",
+        "",
+        "The difficulty can be adjusted after",
+        "the game has begun from the Options",
+        "screen while in the city.",
+        "[Page]",
+        "",
+        "Would you like to begin the game at",
+        "Casual difficulty?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Begin with Casual difficulty?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Begin with Casual difficulty?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Beginning the game on Casual mode.",
+        "If it feels too easy, consider",
+        "trying out Normal mode instead.",
+        ""
+      ],
+      "Translation": [
+        "Beginning the game on Casual mode.",
+        "If it feels too easy, consider",
+        "trying out Normal mode instead.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Transfer your data from the demo?",
+        ""
+      ],
+      "Translation": [
+        "Transfer your data from the demo?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Creation of the demo save failed.",
+        "You will be unable to save during",
+        "this demo. Begin the game anyway?",
+        ""
+      ],
+      "Translation": [
+        "Creation of the demo save failed.",
+        "You will be unable to save during",
+        "this demo. Begin the game anyway?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Begin the game anyway?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Begin the game anyway?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Please be aware that without saving,",
+        "your playthrough of the demo cannot",
+        "be transferred into the full game.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Please be aware that without saving,",
+        "your playthrough of the demo cannot",
+        "be transferred into the full game.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

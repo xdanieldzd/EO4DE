@@ -1,0 +1,73 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_28",
+  "RelativePath": "Event\\Bar\\BAR_28.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "My husband Al left for work without",
+        "his lunch. It's terrible! He must",
+        "be starving by now...",
+        "[Page]",
+        "",
+        "He went to explore a new labyrinth",
+        "to the [Color:5]west of the Sacred Mountains[Color:0].",
+        "Can you deliver his lunch to him?",
+        "[Page]",
+        "",
+        "The request is already posted--you",
+        "just need to talk to the bartender if",
+        "you want to accept it.",
+        ""
+      ],
+      "Translation": [
+        "My husband Al left for work without",
+        "his lunch. It's terrible! He must",
+        "be starving by now...",
+        "[Page]",
+        "",
+        "He went to explore a new labyrinth",
+        "to the [Color:5]west of the Sacred Mountains[Color:0].",
+        "Can you deliver his lunch to him?",
+        "[Page]",
+        "",
+        "The request is already posted--you",
+        "just need to talk to the bartender if",
+        "you want to accept it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, you all took my request!",
+        "How wonderful!",
+        "[Page]",
+        "",
+        "My husband Al is exploring a new",
+        "labyrinth in [Color:5]the western Sacred",
+        "Mountains[Color:0]. I really need your help...",
+        ""
+      ],
+      "Translation": [
+        "Oh, you all took my request!",
+        "How wonderful!",
+        "[Page]",
+        "",
+        "My husband Al is exploring a new",
+        "labyrinth in [Color:5]the western Sacred",
+        "Mountains[Color:0]. I really need your help...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

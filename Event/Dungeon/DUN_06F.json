@@ -1,0 +1,1569 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_06F",
+  "RelativePath": "Event\\Dungeon\\DUN_06F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk the misty paths, your task",
+        "of saving the Medium in mind, you see",
+        "a Vessel standing before a pillar.",
+        ""
+      ],
+      "Translation": [
+        "As you walk the misty paths, your task",
+        "of saving the Medium in mind, you see",
+        "a Vessel standing before a pillar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "The Vessel turns his head toward you.",
+        "[Page]",
+        "",
+        "He stares at you without a word, his",
+        "eyes cloudy... Could he have some",
+        "business with you?",
+        ""
+      ],
+      "Translation": [
+        "The Vessel turns his head toward you.",
+        "[Page]",
+        "",
+        "He stares at you without a word, his",
+        "eyes cloudy... Could he have some",
+        "business with you?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Talk to the Vessel?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Talk to the Vessel?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You walk toward the Vessel, intending",
+        "to speak with him, but you shudder as",
+        "you look into his eyes!",
+        "[Page]",
+        "",
+        "His cloudy eyes have no life in them...",
+        "He is already dead!",
+        "[Page]",
+        "",
+        "Before you recover from your shock,",
+        "the poor corpse falls over and",
+        "monsters attack from behind it!",
+        ""
+      ],
+      "Translation": [
+        "You walk toward the Vessel, intending",
+        "to speak with him, but you shudder as",
+        "you look into his eyes!",
+        "[Page]",
+        "",
+        "His cloudy eyes have no life in them...",
+        "He is already dead!",
+        "[Page]",
+        "",
+        "Before you recover from your shock,",
+        "the poor corpse falls over and",
+        "monsters attack from behind it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You sense something suspicious about",
+        "this Vessel and quickly pass by,",
+        "careful not to turn your back.",
+        ""
+      ],
+      "Translation": [
+        "You sense something suspicious about",
+        "this Vessel and quickly pass by,",
+        "careful not to turn your back.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "You manage to endure the Hollows'",
+        "ambush and emerge victorious!",
+        "[Page]",
+        "",
+        "It seems the monsters had been",
+        "animating the Vessel's corpse to",
+        "use as bait for unwary explorers.",
+        "[Page]",
+        "",
+        "You silently pray for the unlucky",
+        "Vessel's soul and vow to avenge his",
+        "death as you walk away...",
+        ""
+      ],
+      "Translation": [
+        "You manage to endure the Hollows'",
+        "ambush and emerge victorious!",
+        "[Page]",
+        "",
+        "It seems the monsters had been",
+        "animating the Vessel's corpse to",
+        "use as bait for unwary explorers.",
+        "[Page]",
+        "",
+        "You silently pray for the unlucky",
+        "Vessel's soul and vow to avenge his",
+        "death as you walk away...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk the misty forest, the",
+        "thick scent of plants in your nose,",
+        "you see a Vessel at a dead end.",
+        ""
+      ],
+      "Translation": [
+        "As you walk the misty forest, the",
+        "thick scent of plants in your nose,",
+        "you see a Vessel at a dead end.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "The Vessel turns his head toward you.",
+        "[Page]",
+        "",
+        "It is hard to believe that a Vessel",
+        "would have business in this place...",
+        "You are free to ask why he is here.",
+        ""
+      ],
+      "Translation": [
+        "The Vessel turns his head toward you.",
+        "[Page]",
+        "",
+        "It is hard to believe that a Vessel",
+        "would have business in this place...",
+        "You are free to ask why he is here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Talk to the Vessel?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Talk to the Vessel?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "You walk toward the Vessel, intending",
+        "to speak with him, but you shudder as",
+        "you look into his eyes!",
+        "[Page]",
+        "",
+        "His cloudy eyes have no life in them...",
+        "He is already dead!",
+        "[Page]",
+        "",
+        "Before you recover from your shock,",
+        "the poor corpse falls over and",
+        "monsters attack from behind it!",
+        ""
+      ],
+      "Translation": [
+        "You walk toward the Vessel, intending",
+        "to speak with him, but you shudder as",
+        "you look into his eyes!",
+        "[Page]",
+        "",
+        "His cloudy eyes have no life in them...",
+        "He is already dead!",
+        "[Page]",
+        "",
+        "Before you recover from your shock,",
+        "the poor corpse falls over and",
+        "monsters attack from behind it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You sense something suspicious about",
+        "this Vessel and quickly pass by,",
+        "careful not to turn your back.",
+        ""
+      ],
+      "Translation": [
+        "You sense something suspicious about",
+        "this Vessel and quickly pass by,",
+        "careful not to turn your back.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You manage to endure the Hollows'",
+        "ambush and emerge victorious!",
+        "[Page]",
+        "",
+        "It seems the monsters had been",
+        "animating the Vessel's corpse to",
+        "use as bait for unwary explorers.",
+        "[Page]",
+        "",
+        "You silently pray for the unlucky",
+        "Vessel's soul and vow to avenge his",
+        "death as you walk away...",
+        ""
+      ],
+      "Translation": [
+        "You manage to endure the Hollows'",
+        "ambush and emerge victorious!",
+        "[Page]",
+        "",
+        "It seems the monsters had been",
+        "animating the Vessel's corpse to",
+        "use as bait for unwary explorers.",
+        "[Page]",
+        "",
+        "You silently pray for the unlucky",
+        "Vessel's soul and vow to avenge his",
+        "death as you walk away...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "As you touch the plain door, you hear",
+        "the echo of something enormous moving",
+        "from beyond it.",
+        "[Page]",
+        "",
+        "Eventually, the sound stops. It seems",
+        "that the door can now be opened and",
+        "closed.",
+        ""
+      ],
+      "Translation": [
+        "As you touch the plain door, you hear",
+        "the echo of something enormous moving",
+        "from beyond it.",
+        "[Page]",
+        "",
+        "Eventually, the sound stops. It seems",
+        "that the door can now be opened and",
+        "closed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "At the end of the path, you find",
+        "a worn hardcover book.",
+        "[Page]",
+        "",
+        "Most of the pages are now unreadable,",
+        "but you can make out the following...",
+        "[Page]",
+        "",
+        "\"Yggdrasil Sealing Project, Summary 3",
+        "The way to Yggdrasil's core is sealed.",
+        "The foreman must approve any release.",
+        "[Page]",
+        "",
+        "\"The facility entrance is connected",
+        "to the tablets. Once the tablets' seal",
+        "is off, consult... for approval...\"",
+        "[Page]",
+        "",
+        "More than that is impossible to read.",
+        "You leave the book behind and hurry",
+        "on ahead.",
+        ""
+      ],
+      "Translation": [
+        "At the end of the path, you find",
+        "a worn hardcover book.",
+        "[Page]",
+        "",
+        "Most of the pages are now unreadable,",
+        "but you can make out the following...",
+        "[Page]",
+        "",
+        "\"Yggdrasil Sealing Project, Summary 3",
+        "The way to Yggdrasil's core is sealed.",
+        "The foreman must approve any release.",
+        "[Page]",
+        "",
+        "\"The facility entrance is connected",
+        "to the tablets. Once the tablets' seal",
+        "is off, consult... for approval...\"",
+        "[Page]",
+        "",
+        "More than that is impossible to read.",
+        "You leave the book behind and hurry",
+        "on ahead.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "You notice something odd about your",
+        "belongings. The inside of your",
+        "knapsack is drenched with water...!",
+        "[Page]",
+        "",
+        "When checking to discover the cause,",
+        "you find that the [Color:6][Item:1215][Color:0]",
+        "in your possession had melted.",
+        "[Page]",
+        "",
+        "It seems it was unable to withstand",
+        "the change in environments.",
+        ""
+      ],
+      "Translation": [
+        "You notice something odd about your",
+        "belongings. The inside of your",
+        "knapsack is drenched with water...!",
+        "[Page]",
+        "",
+        "When checking to discover the cause,",
+        "you find that the [Color:6][Item:1215][Color:0]",
+        "in your possession had melted.",
+        "[Page]",
+        "",
+        "It seems it was unable to withstand",
+        "the change in environments.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]All [Color:6][Item:1215][Color:3]s have been lost.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]All [Color:6][Item:1215][Color:3]s have been lost.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "You find a small monument in this",
+        "dead end and stop. Close inspection",
+        "reveals a message engraved on it...",
+        "[Page]",
+        "",
+        "\"The deceiver of travellers...",
+        "Thy name is water.\"",
+        "[Page]",
+        "",
+        "What could this mean...? You are",
+        "unsure whether to commit this to",
+        "memory or ignore it altogether.",
+        ""
+      ],
+      "Translation": [
+        "You find a small monument in this",
+        "dead end and stop. Close inspection",
+        "reveals a message engraved on it...",
+        "[Page]",
+        "",
+        "\"The deceiver of travellers...",
+        "Thy name is water.\"",
+        "[Page]",
+        "",
+        "What could this mean...? You are",
+        "unsure whether to commit this to",
+        "memory or ignore it altogether.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "It is a treasure box with a tree",
+        "symbol on it. However, it is locked,",
+        "and you have no key that fits.",
+        ""
+      ],
+      "Translation": [
+        "It is a treasure box with a tree",
+        "symbol on it. However, it is locked,",
+        "and you have no key that fits.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

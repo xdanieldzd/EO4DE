@@ -1,0 +1,83 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_21",
+  "RelativePath": "Event\\Bar\\BAR_21.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "It sounds like you're short on cash.",
+        "I recommend spending some time",
+        "[Color:5]gathering[Color:0], [Color:5]cutting[Color:0], and [Color:5]mining[Color:0].",
+        "[Page]",
+        "",
+        "If you take the materials you get that",
+        "way to the Berund Atelier, they'll pay",
+        "more for those than monster parts.",
+        "[Page]",
+        "",
+        "You could also collect [Color:5]food[Color:0] from your",
+        "skyship. Merchants in Tharsis pay",
+        "good money for that stuff.",
+        ""
+      ],
+      "Translation": [
+        "It sounds like you're short on cash.",
+        "I recommend spending some time",
+        "[Color:5]gathering[Color:0], [Color:5]cutting[Color:0], and [Color:5]mining[Color:0].",
+        "[Page]",
+        "",
+        "If you take the materials you get that",
+        "way to the Berund Atelier, they'll pay",
+        "more for those than monster parts.",
+        "[Page]",
+        "",
+        "You could also collect [Color:5]food[Color:0] from your",
+        "skyship. Merchants in Tharsis pay",
+        "good money for that stuff.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You know the large [Color:5]lake[Color:0] to the [Color:5]west[Color:0] of",
+        "the [Color:5]Scarlet Pillars[Color:0]? There's supposed",
+        "to be a wrecked skyship out there.",
+        "[Page]",
+        "",
+        "They haven't found the crew yet.",
+        "If you want to help look, there's a",
+        "search request posted to the board.",
+        "[Page]",
+        "",
+        "Me? No thanks... I don't want to see",
+        "a drowned body.",
+        ""
+      ],
+      "Translation": [
+        "You know the large [Color:5]lake[Color:0] to the [Color:5]west[Color:0] of",
+        "the [Color:5]Scarlet Pillars[Color:0]? There's supposed",
+        "to be a wrecked skyship out there.",
+        "[Page]",
+        "",
+        "They haven't found the crew yet.",
+        "If you want to help look, there's a",
+        "search request posted to the board.",
+        "[Page]",
+        "",
+        "Me? No thanks... I don't want to see",
+        "a drowned body.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

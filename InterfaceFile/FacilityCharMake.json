@@ -1,0 +1,131 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Explorers Guild/character creation text",
+  "RelativePath": "InterfaceFile\\FacilityCharMake.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Select the adventurer's class.",
+        ""
+      ],
+      "Translation": [
+        "Wählt die Klasse des Abenteurers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Select the adventurer's portrait.",
+        ""
+      ],
+      "Translation": [
+        "Wählt das Portrait des Abenteurers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Is this adventurer",
+        "ready to register?",
+        ""
+      ],
+      "Translation": [
+        "Ist dieser Abenteurer bereit zur",
+        "Registrierung?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Registration complete.",
+        ""
+      ],
+      "Translation": [
+        "Registrierung abgeschlossen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Register another adventurer?",
+        "There are [Variable1:1] slots left.",
+        ""
+      ],
+      "Translation": [
+        "Einen weiteren Abenteurer registrieren?",
+        "Es sind noch [Variable1:1] Plätze frei.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Please choose a subclass.",
+        ""
+      ],
+      "Translation": [
+        "Bitte wählt eine Unterklasse.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "This class will be set as the",
+        "character's subclass. Is this OK?",
+        ""
+      ],
+      "Translation": [
+        "Diese Klasse wird als Unterklasse",
+        "des Charakters gesetzt. In Ordnung?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

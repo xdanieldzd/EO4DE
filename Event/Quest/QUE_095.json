@@ -1,0 +1,1067 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_095",
+  "RelativePath": "Event\\Quest\\QUE_095.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "A famous doctor has come to Tharsis.",
+        "He will be your client for this",
+        "request.",
+        "[Page]",
+        "",
+        "It says here that he wants to acquire",
+        "[Color:6][Item:2147][Color:0]s... A dangerous request,",
+        "to say the least.",
+        "[Page]",
+        "",
+        "Properly treated, [Color:6][Item:2147][Color:0]s exhibit",
+        "very useful medicinal properties...",
+        "[Page]",
+        "",
+        "The [Color:5][Enemy1:200][Color:0] drops them only",
+        "rarely, so you will need to travel",
+        "to the [Color:5]Sacred Mountains[Color:0] to find any.",
+        "[Page]",
+        "",
+        "The client has already left for that",
+        "land, escorted by Kirjonen. You are",
+        "to rendezvous with them there.",
+        ""
+      ],
+      "Translation": [
+        "A famous doctor has come to Tharsis.",
+        "He will be your client for this",
+        "request.",
+        "[Page]",
+        "",
+        "It says here that he wants to acquire",
+        "[Color:6][Item:2147][Color:0]s... A dangerous request,",
+        "to say the least.",
+        "[Page]",
+        "",
+        "Properly treated, [Color:6][Item:2147][Color:0]s exhibit",
+        "very useful medicinal properties...",
+        "[Page]",
+        "",
+        "The [Color:5][Enemy1:200][Color:0] drops them only",
+        "rarely, so you will need to travel",
+        "to the [Color:5]Sacred Mountains[Color:0] to find any.",
+        "[Page]",
+        "",
+        "The client has already left for that",
+        "land, escorted by Kirjonen. You are",
+        "to rendezvous with them there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Well done. I take it you found the",
+        "crystals he was looking for?",
+        "[Page]",
+        "",
+        "Oh, indeed...? Well, then I hope the",
+        "patients recover swiftly.",
+        "[Page]",
+        "",
+        "But... how did they make a medicine",
+        "with a scent displeasing to dragons?",
+        "[Page]",
+        "",
+        "For reasons known only to him,",
+        "Kirjonen took a sample of that",
+        "medicine as his reward.",
+        "[Page]",
+        "",
+        "I wonder what he intends to use it",
+        "for. Dragon slaying, perhaps...?",
+        "[Page]",
+        "",
+        "Oh, but I am sorry. Here is the",
+        "reward you were promised.",
+        ""
+      ],
+      "Translation": [
+        "Well done. I take it you found the",
+        "crystals he was looking for?",
+        "[Page]",
+        "",
+        "Oh, indeed...? Well, then I hope the",
+        "patients recover swiftly.",
+        "[Page]",
+        "",
+        "But... how did they make a medicine",
+        "with a scent displeasing to dragons?",
+        "[Page]",
+        "",
+        "For reasons known only to him,",
+        "Kirjonen took a sample of that",
+        "medicine as his reward.",
+        "[Page]",
+        "",
+        "I wonder what he intends to use it",
+        "for. Dragon slaying, perhaps...?",
+        "[Page]",
+        "",
+        "Oh, but I am sorry. Here is the",
+        "reward you were promised.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the Sacred Mountains",
+        "and are met by a blue-sailed skyship",
+        "quietly approaching.",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the Sacred Mountains",
+        "and are met by a blue-sailed skyship",
+        "quietly approaching.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "\"I have been waiting for you. I am",
+        "grateful for your help.\"",
+        "[Page]",
+        "",
+        "Behind the smiling Kirjonen is an",
+        "expressionless man in a white coat.",
+        "[Page]",
+        "",
+        "\"The client's medicine has a scent",
+        "distasteful to dragons. He and I are",
+        "about to enter the dragon's lair.",
+        "[Page]",
+        "",
+        "\"We will drive out the dragon. When",
+        "it flies toward the Sacred Mountains,",
+        "it will be your time to act.",
+        "[Page]",
+        "",
+        "\"The lair is in the southeastern",
+        "mountain range. Meet us again when",
+        "you have the [Color:6][Item:2147][Color:0]s.\"",
+        "[Page]",
+        "",
+        "\"For my client's purposes, he will",
+        "need [Color:0]five[Color:0] [Color:6][Item:2147]s[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"I have been waiting for you. I am",
+        "grateful for your help.\"",
+        "[Page]",
+        "",
+        "Behind the smiling Kirjonen is an",
+        "expressionless man in a white coat.",
+        "[Page]",
+        "",
+        "\"The client's medicine has a scent",
+        "distasteful to dragons. He and I are",
+        "about to enter the dragon's lair.",
+        "[Page]",
+        "",
+        "\"We will drive out the dragon. When",
+        "it flies toward the Sacred Mountains,",
+        "it will be your time to act.",
+        "[Page]",
+        "",
+        "\"The lair is in the southeastern",
+        "mountain range. Meet us again when",
+        "you have the [Color:6][Item:2147][Color:0]s.\"",
+        "[Page]",
+        "",
+        "\"For my client's purposes, he will",
+        "need [Color:0]five[Color:0] [Color:6][Item:2147]s[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Kirjonen marks your map and hands it",
+        "back to you. The meeting point has",
+        "been indicated by a flag.",
+        ""
+      ],
+      "Translation": [
+        "Kirjonen marks your map and hands it",
+        "back to you. The meeting point has",
+        "been indicated by a flag.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You return to the Sacred Mountains in",
+        "pursuit of five [Color:6][Item:2147]s[Color:0].",
+        "[Page]",
+        "",
+        "The [Enemy1:200] will drop these",
+        "[Color:6][Item:2147][Color:0]s, but if you approach too",
+        "closely, your ship will be attacked.",
+        "[Page]",
+        "",
+        "Pay careful attention as you navigate",
+        "the skies. The point marked on your map",
+        "is where you will meet with Kirjonen.",
+        ""
+      ],
+      "Translation": [
+        "You return to the Sacred Mountains in",
+        "pursuit of five [Color:6][Item:2147]s[Color:0].",
+        "[Page]",
+        "",
+        "The [Enemy1:200] will drop these",
+        "[Color:6][Item:2147][Color:0]s, but if you approach too",
+        "closely, your ship will be attacked.",
+        "[Page]",
+        "",
+        "Pay careful attention as you navigate",
+        "the skies. The point marked on your map",
+        "is where you will meet with Kirjonen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "You have the desired [Color:6][Item:2147][Color:0]!",
+        "[Page]",
+        "",
+        "But this is only the first. You must",
+        "still collect four more.",
+        "[Page]",
+        "",
+        "You must continue to navigate the",
+        "skies as you take care not to come",
+        "under attack.",
+        "[Page]",
+        "",
+        "As they are considered food, you must",
+        "also not return to Tharsis with the",
+        "[Color:6][Item:2147][Color:0]s lest they be sold.",
+        ""
+      ],
+      "Translation": [
+        "You have the desired [Color:6][Item:2147][Color:0]!",
+        "[Page]",
+        "",
+        "But this is only the first. You must",
+        "still collect four more.",
+        "[Page]",
+        "",
+        "You must continue to navigate the",
+        "skies as you take care not to come",
+        "under attack.",
+        "[Page]",
+        "",
+        "As they are considered food, you must",
+        "also not return to Tharsis with the",
+        "[Color:6][Item:2147][Color:0]s lest they be sold.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You finally collect five [Color:6][Item:2147][Color:0]s!",
+        "[Page]",
+        "",
+        "The request is one short step away",
+        "from completion. You need only proceed",
+        "to the prearranged meeting point.",
+        ""
+      ],
+      "Translation": [
+        "You finally collect five [Color:6][Item:2147][Color:0]s!",
+        "[Page]",
+        "",
+        "The request is one short step away",
+        "from completion. You need only proceed",
+        "to the prearranged meeting point.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"The client and I are making ready",
+        "to drive the dragon from its lair.",
+        "[Page]",
+        "",
+        "\"You should leave here for a while.",
+        "When you have the crystals we seek,",
+        "return here to meet us.\"",
+        ""
+      ],
+      "Translation": [
+        "\"The client and I are making ready",
+        "to drive the dragon from its lair.",
+        "[Page]",
+        "",
+        "\"You should leave here for a while.",
+        "When you have the crystals we seek,",
+        "return here to meet us.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "\"How are you faring? I am occupied",
+        "with escorting the client now.",
+        "[Page]",
+        "",
+        "\"I know your task is difficult, but",
+        "with all the trials you have overcome,",
+        "I have confidence in you.",
+        "[Page]",
+        "",
+        "\"May luck be with you,",
+        "Guild [Guild].\"",
+        ""
+      ],
+      "Translation": [
+        "\"How are you faring? I am occupied",
+        "with escorting the client now.",
+        "[Page]",
+        "",
+        "\"I know your task is difficult, but",
+        "with all the trials you have overcome,",
+        "I have confidence in you.",
+        "[Page]",
+        "",
+        "\"May luck be with you,",
+        "Guild [Guild].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Knowing that Kirjonen is there, you",
+        "arrive at the southeastern mountain",
+        "range.",
+        "[Page]",
+        "",
+        "You see the blue-sailed skyship here,",
+        "but something is wrong... It is under",
+        "attack by beasts!",
+        ""
+      ],
+      "Translation": [
+        "Knowing that Kirjonen is there, you",
+        "arrive at the southeastern mountain",
+        "range.",
+        "[Page]",
+        "",
+        "You see the blue-sailed skyship here,",
+        "but something is wrong... It is under",
+        "attack by beasts!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "\"Guild [Guild]! Do not concern",
+        "yourselves on my behalf. Find the",
+        "client!",
+        "[Page]",
+        "",
+        "\"He left to set more chemical traps",
+        "to drive out the dragon, but he has",
+        "yet to return!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Guild [Guild]! Do not concern",
+        "yourselves on my behalf. Find the",
+        "client!",
+        "[Page]",
+        "",
+        "\"He left to set more chemical traps",
+        "to drive out the dragon, but he has",
+        "yet to return!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "You know that a knight of Kirjonen's",
+        "caliber can handle these monsters...",
+        "but there are two of them.",
+        "[Page]",
+        "",
+        "You are left with the difficult",
+        "decision of whether to come to his",
+        "aid or to search for the client.",
+        ""
+      ],
+      "Translation": [
+        "You know that a knight of Kirjonen's",
+        "caliber can handle these monsters...",
+        "but there are two of them.",
+        "[Page]",
+        "",
+        "You are left with the difficult",
+        "decision of whether to come to his",
+        "aid or to search for the client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Go search for the client?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Go search for the client?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to trust in Kirjonen's",
+        "skill and comb the area for the doctor.",
+        "[Page]",
+        "",
+        "Though it takes some time, given the",
+        "way the client's white lab coat blends",
+        "in with the snow, you do find him.",
+        "[Page]",
+        "",
+        "It does not take long afterward to",
+        "meet up again with Kirjonen, who has",
+        "now dispatched the beasts.",
+        ""
+      ],
+      "Translation": [
+        "You decide to trust in Kirjonen's",
+        "skill and comb the area for the doctor.",
+        "[Page]",
+        "",
+        "Though it takes some time, given the",
+        "way the client's white lab coat blends",
+        "in with the snow, you do find him.",
+        "[Page]",
+        "",
+        "It does not take long afterward to",
+        "meet up again with Kirjonen, who has",
+        "now dispatched the beasts.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "\"Whatever my reasons for leaving your",
+        "side, I was wrong to do so, and I",
+        "sincerely apologize.",
+        "[Page]",
+        "",
+        "\"And you, Guild [Guild]... I thank",
+        "you as well. It seems I owe you",
+        "yet again.\"",
+        "[Page]",
+        "",
+        "You hand the [Color:6][Item:2147]s[Color:0] over to the",
+        "client.",
+        "[Page]",
+        "",
+        "The man in the lab coat bows to you",
+        "and says that he can now save his",
+        "patients.",
+        "[Page]",
+        "",
+        "This quest has been completed! You",
+        "should return to Tharsis to give",
+        "a full accounting of events.",
+        ""
+      ],
+      "Translation": [
+        "\"Whatever my reasons for leaving your",
+        "side, I was wrong to do so, and I",
+        "sincerely apologize.",
+        "[Page]",
+        "",
+        "\"And you, Guild [Guild]... I thank",
+        "you as well. It seems I owe you",
+        "yet again.\"",
+        "[Page]",
+        "",
+        "You hand the [Color:6][Item:2147]s[Color:0] over to the",
+        "client.",
+        "[Page]",
+        "",
+        "The man in the lab coat bows to you",
+        "and says that he can now save his",
+        "patients.",
+        "[Page]",
+        "",
+        "This quest has been completed! You",
+        "should return to Tharsis to give",
+        "a full accounting of events.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "You help Kirjonen dispatch the beasts,",
+        "after which he looks anxiously around",
+        "the area.",
+        ""
+      ],
+      "Translation": [
+        "You help Kirjonen dispatch the beasts,",
+        "after which he looks anxiously around",
+        "the area.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "\"I am sorry for the trouble, Guild",
+        "[Guild]. My actions were...\"",
+        "[Page]",
+        "",
+        "He shakes his head. \"Entirely",
+        "unconscionable. To let the client I",
+        "swore to protect out of my sight...!\"",
+        ""
+      ],
+      "Translation": [
+        "\"I am sorry for the trouble, Guild",
+        "[Guild]. My actions were...\"",
+        "[Page]",
+        "",
+        "He shakes his head. \"Entirely",
+        "unconscionable. To let the client I",
+        "swore to protect out of my sight...!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "You split up and search for the",
+        "client.",
+        "[Page]",
+        "",
+        "Luckily, he is quickly found. Though",
+        "he met with a beast himself, he was",
+        "able to hide in the shadows.",
+        ""
+      ],
+      "Translation": [
+        "You split up and search for the",
+        "client.",
+        "[Page]",
+        "",
+        "Luckily, he is quickly found. Though",
+        "he met with a beast himself, he was",
+        "able to hide in the shadows.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "\"Whatever my reasons for leaving your",
+        "side, I was wrong to do so, and I",
+        "sincerely apologize.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Whatever my reasons for leaving your",
+        "side, I was wrong to do so, and I",
+        "sincerely apologize.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "You hand over the [Color:6][Item:2147][Color:0]s to",
+        "the client.",
+        "[Page]",
+        "",
+        "The man in the lab coat bows to you",
+        "and says that he can now save his",
+        "patients.",
+        "[Page]",
+        "",
+        "This quest has been completed! You",
+        "should return to Tharsis to give",
+        "a full accounting of events.",
+        ""
+      ],
+      "Translation": [
+        "You hand over the [Color:6][Item:2147][Color:0]s to",
+        "the client.",
+        "[Page]",
+        "",
+        "The man in the lab coat bows to you",
+        "and says that he can now save his",
+        "patients.",
+        "[Page]",
+        "",
+        "This quest has been completed! You",
+        "should return to Tharsis to give",
+        "a full accounting of events.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

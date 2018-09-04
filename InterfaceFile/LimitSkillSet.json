@@ -1,0 +1,106 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Burst Skill text",
+  "RelativePath": "InterfaceFile\\LimitSkillSet.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You can assign Burst Skills to your",
+        "party members in the [Color:3]Burst[Color:0] option",
+        "on the [Color:3]Custom[Color:0] menu.",
+        "[Page]",
+        "",
+        "The amount of Burst Gauge a skill",
+        "takes to activate varies according",
+        "to the skill.",
+        "[Page]",
+        "",
+        "Use the Burst Skills you learn to",
+        "make the battles you face in the",
+        "labyrinth easier.",
+        ""
+      ],
+      "Translation": [
+        "You can assign Burst Skills to your",
+        "party members in the [Color:3]Burst[Color:0] option",
+        "on the [Color:3]Custom[Color:0] menu.",
+        "[Page]",
+        "",
+        "The amount of Burst Gauge a skill",
+        "takes to activate varies according",
+        "to the skill.",
+        "[Page]",
+        "",
+        "Use the Burst Skills you learn to",
+        "make the battles you face in the",
+        "labyrinth easier.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Reflect the Burst Skills on the party.",
+        ""
+      ],
+      "Translation": [
+        "Reflect the Burst Skills on the party.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Are these settings correct?",
+        ""
+      ],
+      "Translation": [
+        "Are these settings correct?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Return to party formation?",
+        ""
+      ],
+      "Translation": [
+        "Return to party formation?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_04",
+  "RelativePath": "Event\\Bar\\BAR_04.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Are you the ones who took my request?",
+        "I beg you, please save my brother",
+        "Raht!",
+        "[Page]",
+        "",
+        "He suddenly decided to be an explorer",
+        "and left Tharsis on a skyship. He said",
+        "he wanted to see Yggdrasil...",
+        "[Page]",
+        "",
+        "But the next day... a carrier pigeon",
+        "returned with this letter, and...",
+        "*sob*",
+        ""
+      ],
+      "Translation": [
+        "Are you the ones who took my request?",
+        "I beg you, please save my brother",
+        "Raht!",
+        "[Page]",
+        "",
+        "He suddenly decided to be an explorer",
+        "and left Tharsis on a skyship. He said",
+        "he wanted to see Yggdrasil...",
+        "[Page]",
+        "",
+        "But the next day... a carrier pigeon",
+        "returned with this letter, and...",
+        "*sob*",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "\"Dear sister,",
+        "How are you? It's me, your brother",
+        "Raht. This may be the end for me...",
+        "[Page]",
+        "",
+        "\"On my first day here, I saw a curious",
+        "sight. Near a cave, two beasts were",
+        "dancing around, as if beckoning me.",
+        "[Page]",
+        "",
+        "\"It was just like the Outland Count",
+        "Polka you loved when Father took us.",
+        "But when I got close, my luck ran out.",
+        "[Page]",
+        "",
+        "\"It was all a trap laid by the",
+        "monster! With nimble steps, the",
+        "beast quickly charged at me!",
+        "[Page]",
+        "",
+        "\"I hastily veered to the left, but it",
+        "was too late. I was caught. My ship,",
+        "like my spirit, was broken...",
+        "[Page]",
+        "",
+        "\"I'll probably die here. Don't look",
+        "for me... there's no need. Forget",
+        "your brother and live a full life.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Dear sister,",
+        "How are you? It's me, your brother",
+        "Raht. This may be the end for me...",
+        "[Page]",
+        "",
+        "\"On my first day here, I saw a curious",
+        "sight. Near a cave, two beasts were",
+        "dancing around, as if beckoning me.",
+        "[Page]",
+        "",
+        "\"It was just like the Outland Count",
+        "Polka you loved when Father took us.",
+        "But when I got close, my luck ran out.",
+        "[Page]",
+        "",
+        "\"It was all a trap laid by the",
+        "monster! With nimble steps, the",
+        "beast quickly charged at me!",
+        "[Page]",
+        "",
+        "\"I hastily veered to the left, but it",
+        "was too late. I was caught. My ship,",
+        "like my spirit, was broken...",
+        "[Page]",
+        "",
+        "\"I'll probably die here. Don't look",
+        "for me... there's no need. Forget",
+        "your brother and live a full life.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "What does he mean, there's \"no need\"",
+        "to find him!? How can I ignore this!?",
+        "My brother has crash landed somewhere!",
+        "[Page]",
+        "",
+        "Please find him and tell me where he",
+        "is! Once you know, I can send in a",
+        "dedicated rescue team.",
+        ""
+      ],
+      "Translation": [
+        "What does he mean, there's \"no need\"",
+        "to find him!? How can I ignore this!?",
+        "My brother has crash landed somewhere!",
+        "[Page]",
+        "",
+        "Please find him and tell me where he",
+        "is! Once you know, I can send in a",
+        "dedicated rescue team.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, did you find my brother Raht?",
+        ""
+      ],
+      "Translation": [
+        "Oh, did you find my brother Raht?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Have you found him?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Have you found him?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Oh... My brother's situation is",
+        "becoming more perilous by the second.",
+        "Please... you must hurry!",
+        ""
+      ],
+      "Translation": [
+        "Oh... My brother's situation is",
+        "becoming more perilous by the second.",
+        "Please... you must hurry!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "I believe my brother's letter holds",
+        "a clue to his location. I'll read it",
+        "to you again.",
+        ""
+      ],
+      "Translation": [
+        "I believe my brother's letter holds",
+        "a clue to his location. I'll read it",
+        "to you again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, my brother...! Where did he see",
+        "the Outland Count Polka?",
+        ""
+      ],
+      "Translation": [
+        "Oh, my brother...! Where did he see",
+        "the Outland Count Polka?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Really!? Then please... tell me where!",
+        ""
+      ],
+      "Translation": [
+        "Really!? Then please... tell me where!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "I understand! I'll send for help",
+        "at once!",
+        ""
+      ],
+      "Translation": [
+        "I understand! I'll send for help",
+        "at once!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "I just heard from the rescue team...",
+        "My brother wasn't where you told me",
+        "you'd found him...",
+        "[Page]",
+        "",
+        "Did you really find my brother?",
+        "If you did, please tell me exactly",
+        "where that was!",
+        ""
+      ],
+      "Translation": [
+        "I just heard from the rescue team...",
+        "My brother wasn't where you told me",
+        "you'd found him...",
+        "[Page]",
+        "",
+        "Did you really find my brother?",
+        "If you did, please tell me exactly",
+        "where that was!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Everyone... My brother has been found!",
+        "He was just taken to the clinic!",
+        "[Page]",
+        "",
+        "Thank you... thank you so much!",
+        "I don't even know what to say...",
+        "[Page]",
+        "",
+        "I already told the lady at the bar,",
+        "so you can take the reward anytime.",
+        "[Page]",
+        "",
+        "I'm worried about my brother, though.",
+        "I don't think he learned anything",
+        "from this at all...",
+        ""
+      ],
+      "Translation": [
+        "Everyone... My brother has been found!",
+        "He was just taken to the clinic!",
+        "[Page]",
+        "",
+        "Thank you... thank you so much!",
+        "I don't even know what to say...",
+        "[Page]",
+        "",
+        "I already told the lady at the bar,",
+        "so you can take the reward anytime.",
+        "[Page]",
+        "",
+        "I'm worried about my brother, though.",
+        "I don't think he learned anything",
+        "from this at all...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "My brother doesn't usually have that",
+        "much energy... I'm amazed he ever",
+        "worked up the nerve to go exploring.",
+        ""
+      ],
+      "Translation": [
+        "My brother doesn't usually have that",
+        "much energy... I'm amazed he ever",
+        "worked up the nerve to go exploring.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

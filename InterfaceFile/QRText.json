@@ -1,0 +1,567 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR Code scanning text",
+  "RelativePath": "InterfaceFile\\QRText.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "This is not an Etrian Odyssey IV",
+        "QR Code.",
+        ""
+      ],
+      "Translation": [
+        "This is not an Etrian Odyssey IV",
+        "QR Code.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "You have too many guild cards already.",
+        "This guild card could not be",
+        "registered.",
+        "[Page]",
+        "",
+        "Delete some guild cards from the",
+        "guild card management menu.",
+        ""
+      ],
+      "Translation": [
+        "You have too many guild cards already.",
+        "This guild card could not be",
+        "registered.",
+        "[Page]",
+        "",
+        "Delete some guild cards from the",
+        "guild card management menu.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Register this guild card?",
+        ""
+      ],
+      "Translation": [
+        "Register this guild card?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "The gift contained...",
+        "[Page]",
+        "",
+        "[Variable2:0][Color:5][Variable1:0][Color:0] x[Variable1:1].",
+        ""
+      ],
+      "Translation": [
+        "The gift contained...",
+        "[Page]",
+        "",
+        "[Variable2:0][Color:5][Variable1:0][Color:0] x[Variable1:1].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Your inventory is too full to accept",
+        "it. Clear some space and then try",
+        "accepting the gift again.",
+        ""
+      ],
+      "Translation": [
+        "Your inventory is too full to accept",
+        "it. Clear some space and then try",
+        "accepting the gift again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Received [Variable2:0][Color:5][Variable1:0][Color:0] x[Variable1:1].",
+        ""
+      ],
+      "Translation": [
+        "Received [Variable2:0][Color:5][Variable1:0][Color:0] x[Variable1:1].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You have already received this",
+        "QR Gift.",
+        ""
+      ],
+      "Translation": [
+        "You have already received this",
+        "QR Gift.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Received the QR Gift:",
+        "[Color:5][Variable1:0][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Received the QR Gift:",
+        "[Color:5][Variable1:0][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Received the QR Quest:",
+        "[Color:5][Variable1:0][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Received the QR Quest:",
+        "[Color:5][Variable1:0][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Your previous QR Quest, ",
+        "[Color:5][Quest][Color:0],",
+        "has not yet been completed.",
+        ""
+      ],
+      "Translation": [
+        "Your previous QR Quest, ",
+        "[Color:5][Quest][Color:0],",
+        "has not yet been completed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Abandon this quest?",
+        ""
+      ],
+      "Translation": [
+        "Abandon this quest?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "You abandoned the QR Quest.",
+        "[Page]",
+        "",
+        "In its place, the QR Quest",
+        "[Color:5][Variable1:0][Color:0] has been",
+        "added to the list at the bar.",
+        ""
+      ],
+      "Translation": [
+        "You abandoned the QR Quest.",
+        "[Page]",
+        "",
+        "In its place, the QR Quest",
+        "[Color:5][Variable1:0][Color:0] has been",
+        "added to the list at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "The QR Quest [Color:5][Variable1:0][Color:0]",
+        "has been abandoned.",
+        ""
+      ],
+      "Translation": [
+        "The QR Quest [Color:5][Variable1:0][Color:0]",
+        "has been abandoned.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "However, since you are not at a point",
+        "in the game where you can do this",
+        "quest, you are unable to receive it.",
+        ""
+      ],
+      "Translation": [
+        "However, since you are not at a point",
+        "in the game where you can do this",
+        "quest, you are unable to receive it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "The QR Quest [Color:5][Variable1:0][Color:0]",
+        "has been added to the list at the bar.",
+        ""
+      ],
+      "Translation": [
+        "The QR Quest [Color:5][Variable1:0][Color:0]",
+        "has been added to the list at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": true,
+      "Original": [
+        "パスワードが正しくありません。",
+        ""
+      ],
+      "Translation": [
+        "パスワードが正しくありません。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Use the outer camera to scan",
+        "an Etrian Odyssey IV QR Code.",
+        ""
+      ],
+      "Translation": [
+        "Use the outer camera to scan",
+        "an Etrian Odyssey IV QR Code.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "This quest has already been completed",
+        "and cannot be received again.",
+        ""
+      ],
+      "Translation": [
+        "This quest has already been completed",
+        "and cannot be received again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You cannot use a guild card",
+        "QR Code in the demo.",
+        ""
+      ],
+      "Translation": [
+        "You cannot use a guild card",
+        "QR Code in the demo.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "You cannot use a quest QR Code",
+        "in the demo.",
+        ""
+      ],
+      "Translation": [
+        "You cannot use a quest QR Code",
+        "in the demo.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "This gift QR Code cannot be redeemed",
+        "in the demo. For a list of gifts",
+        "that can be redeemed...",
+        "[Page]",
+        "",
+        "Please visit",
+        "http://www.atlus.com/etrian4/qrcodes/",
+        ""
+      ],
+      "Translation": [
+        "This gift QR Code cannot be redeemed",
+        "in the demo. For a list of gifts",
+        "that can be redeemed...",
+        "[Page]",
+        "",
+        "Please visit",
+        "http://www.atlus.com/etrian4/qrcodes/",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "For QR Codes, please refer to",
+        "http://www.atlus.com/etrian4/qrcodes/",
+        ""
+      ],
+      "Translation": [
+        "For QR Codes, please refer to",
+        "http://www.atlus.com/etrian4/qrcodes/",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

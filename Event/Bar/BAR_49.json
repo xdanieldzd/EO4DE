@@ -1,0 +1,46 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_49",
+  "RelativePath": "Event\\Bar\\BAR_49.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You're having trouble hitting [Color:5]Hollows[Color:0]?",
+        "In that case, get yourself a [Color:5]sniper[Color:0]!",
+        "Did I say that already? Hmmm.",
+        "[Page]",
+        "",
+        "Maybe that wasn't me. Well... let's",
+        "see... If the enemy's too quick for",
+        "you, you can bind its legs! Eh? Eh?",
+        "[Page]",
+        "",
+        "And if that doesn't work, beat it",
+        "with a burst skill! That'll hit it",
+        "for sure! How does that sound?",
+        ""
+      ],
+      "Translation": [
+        "You're having trouble hitting [Color:5]Hollows[Color:0]?",
+        "In that case, get yourself a [Color:5]sniper[Color:0]!",
+        "Did I say that already? Hmmm.",
+        "[Page]",
+        "",
+        "Maybe that wasn't me. Well... let's",
+        "see... If the enemy's too quick for",
+        "you, you can bind its legs! Eh? Eh?",
+        "[Page]",
+        "",
+        "And if that doesn't work, beat it",
+        "with a burst skill! That'll hit it",
+        "for sure! How does that sound?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

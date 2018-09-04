@@ -1,0 +1,783 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_010",
+  "RelativePath": "Event\\Quest\\QUE_010.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ah... This one is from a travelling",
+        "sorcerer. It seems he wants you to",
+        "find him a [Color:5][Item:1443][Color:0].",
+        "[Page]",
+        "",
+        "That volume seems to be out of print,",
+        "but apparently there are a few copies",
+        "floating around this town.",
+        "[Page]",
+        "",
+        "If that's so, you might check with",
+        "Wynne at the Berund Atelier. They seem",
+        "to stock all sorts of things.",
+        "[Page]",
+        "",
+        "Kismet be with you, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Ah... This one is from a travelling",
+        "sorcerer. It seems he wants you to",
+        "find him a [Color:5][Item:1443][Color:0].",
+        "[Page]",
+        "",
+        "That volume seems to be out of print,",
+        "but apparently there are a few copies",
+        "floating around this town.",
+        "[Page]",
+        "",
+        "If that's so, you might check with",
+        "Wynne at the Berund Atelier. They seem",
+        "to stock all sorts of things.",
+        "[Page]",
+        "",
+        "Kismet be with you, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Were you able to get",
+        "the [Item:1443]? Oh... you bought",
+        "one from Berund Atelier?",
+        "[Page]",
+        "",
+        "So you purchased your way toward the",
+        "conclusion of this request. Hmm...",
+        "you did give me a [Item:1443].",
+        "[Page]",
+        "",
+        "And as promised, your reward. But was",
+        "it worth the money you spent on the",
+        "volume?",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Were you able to get",
+        "the [Item:1443]? Oh... you bought",
+        "one from Berund Atelier?",
+        "[Page]",
+        "",
+        "So you purchased your way toward the",
+        "conclusion of this request. Hmm...",
+        "you did give me a [Item:1443].",
+        "[Page]",
+        "",
+        "And as promised, your reward. But was",
+        "it worth the money you spent on the",
+        "volume?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Were you able to get",
+        "the [Item:1443]? Oh... you won",
+        "it from a monster?",
+        "[Page]",
+        "",
+        "It sounds like you went through much",
+        "for this one volume. But such is the",
+        "nature of requests.",
+        "[Page]",
+        "",
+        "It is not simple errand-running, like",
+        "sending a boy to the store. Money",
+        "cannot buy the experience you had.",
+        "[Page]",
+        "",
+        "But I think you know well the feeling",
+        "I refer to. I will have more work for",
+        "you in the future, I believe.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Were you able to get",
+        "the [Item:1443]? Oh... you won",
+        "it from a monster?",
+        "[Page]",
+        "",
+        "It sounds like you went through much",
+        "for this one volume. But such is the",
+        "nature of requests.",
+        "[Page]",
+        "",
+        "It is not simple errand-running, like",
+        "sending a boy to the store. Money",
+        "cannot buy the experience you had.",
+        "[Page]",
+        "",
+        "But I think you know well the feeling",
+        "I refer to. I will have more work for",
+        "you in the future, I believe.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, dat [Color:5][Item:1443][Color:0]? Ya took a",
+        "request at da bar for it? Yeah, we",
+        "gots one. Just came in da other day.",
+        "[Page]",
+        "",
+        "But being as it's outta print an all,",
+        "it'll set ya back. Dat'll be 1,000en.",
+        "Ya still want it?",
+        "[Page]",
+        "",
+        "Hey, ya know, dis soldier was bragging",
+        "about how he got one of dem books offa",
+        "red bear in B3F of da Woodlands.",
+        "[Page]",
+        "",
+        "Maybe ya should ask him more about",
+        "it? 'Course, if ya don't wanna go ta",
+        "da trouble, ya can still buy ours.",
+        ""
+      ],
+      "Translation": [
+        "Oh, dat [Color:5][Item:1443][Color:0]? Ya took a",
+        "request at da bar for it? Yeah, we",
+        "gots one. Just came in da other day.",
+        "[Page]",
+        "",
+        "But being as it's outta print an all,",
+        "it'll set ya back. Dat'll be 1,000en.",
+        "Ya still want it?",
+        "[Page]",
+        "",
+        "Hey, ya know, dis soldier was bragging",
+        "about how he got one of dem books offa",
+        "red bear in B3F of da Woodlands.",
+        "[Page]",
+        "",
+        "Maybe ya should ask him more about",
+        "it? 'Course, if ya don't wanna go ta",
+        "da trouble, ya can still buy ours.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "What's it gonna be? Ya still want dat",
+        "[Item:1443] for 1,000en?",
+        ""
+      ],
+      "Translation": [
+        "What's it gonna be? Ya still want dat",
+        "[Item:1443] for 1,000en?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Buy the [Item:1443]?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Buy the [Item:1443]?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Sorry. I'da sold it ta yas cheaper,",
+        "but den I wouldn'ta made any profit.",
+        "[Page]",
+        "",
+        "Here ya go! One [Item:1443].",
+        "Tanks for shopping!",
+        ""
+      ],
+      "Translation": [
+        "Sorry. I'da sold it ta yas cheaper,",
+        "but den I wouldn'ta made any profit.",
+        "[Page]",
+        "",
+        "Here ya go! One [Item:1443].",
+        "Tanks for shopping!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Doesn't seem like ya got enough money",
+        "ta cover it. Maybe ya should just go",
+        "search for one.",
+        ""
+      ],
+      "Translation": [
+        "Doesn't seem like ya got enough money",
+        "ta cover it. Maybe ya should just go",
+        "search for one.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Finding your own stuff is more like",
+        "how explorers do it anyway. Dat's how",
+        "ya're supposed to solve a quest!",
+        "[Page]",
+        "",
+        "Da soldier's out on a mission about da",
+        "red bear den in B3F of da Woodlands.",
+        "Good luck, [Guild] crew!",
+        ""
+      ],
+      "Translation": [
+        "Finding your own stuff is more like",
+        "how explorers do it anyway. Dat's how",
+        "ya're supposed to solve a quest!",
+        "[Page]",
+        "",
+        "Da soldier's out on a mission about da",
+        "red bear den in B3F of da Woodlands.",
+        "Good luck, [Guild] crew!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Huh? Dat book? We just sold out...",
+        "ya really wanted one?",
+        "[Page]",
+        "",
+        "Oh, wait, ya got it already! Heh, I",
+        "knew it. Way ta keep on top of things!",
+        ""
+      ],
+      "Translation": [
+        "Huh? Dat book? We just sold out...",
+        "ya really wanted one?",
+        "[Page]",
+        "",
+        "Oh, wait, ya got it already! Heh, I",
+        "knew it. Way ta keep on top of things!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "In search of the [Color:5][Item:1443][Color:0],",
+        "you see a soldier out of breath and",
+        "wary of his surroundings.",
+        "[Page]",
+        "",
+        "Could this be the soldier you heard",
+        "of at the Berund Atelier who found",
+        "the [Item:1443]?",
+        ""
+      ],
+      "Translation": [
+        "In search of the [Color:5][Item:1443][Color:0],",
+        "you see a soldier out of breath and",
+        "wary of his surroundings.",
+        "[Page]",
+        "",
+        "Could this be the soldier you heard",
+        "of at the Berund Atelier who found",
+        "the [Item:1443]?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "\"I got attacked by a monster... It was",
+        "a close call. I only escaped because",
+        "I threw away my pack to distract it.\"",
+        "[Page]",
+        "",
+        "You ask about the [Item:1443],",
+        "though you suspect you know where",
+        "this story is headed...",
+        "[Page]",
+        "",
+        "\"Oh, the book? It might've been in",
+        "the pack. I wanted it, but I'd rather",
+        "have my life than that.",
+        "[Page]",
+        "",
+        "\"If you want the book, you'll have",
+        "to get it back from the monster.",
+        "[Page]",
+        "",
+        "\"Go south and you'll find [Color:5]water that",
+        "flows from some rocks[Color:0]. Lots of people",
+        "use it. The monster should be there.",
+        "[Page]",
+        "",
+        "\"Whatever you pick up in the labyrinth",
+        "belongs to you. I don't want to risk",
+        "it, so if you find it, it's yours.\"",
+        "[Page]",
+        "",
+        "Having said that, the soldier clasps",
+        "you on the shoulder before walking",
+        "off, most likely back to town.",
+        ""
+      ],
+      "Translation": [
+        "\"I got attacked by a monster... It was",
+        "a close call. I only escaped because",
+        "I threw away my pack to distract it.\"",
+        "[Page]",
+        "",
+        "You ask about the [Item:1443],",
+        "though you suspect you know where",
+        "this story is headed...",
+        "[Page]",
+        "",
+        "\"Oh, the book? It might've been in",
+        "the pack. I wanted it, but I'd rather",
+        "have my life than that.",
+        "[Page]",
+        "",
+        "\"If you want the book, you'll have",
+        "to get it back from the monster.",
+        "[Page]",
+        "",
+        "\"Go south and you'll find [Color:5]water that",
+        "flows from some rocks[Color:0]. Lots of people",
+        "use it. The monster should be there.",
+        "[Page]",
+        "",
+        "\"Whatever you pick up in the labyrinth",
+        "belongs to you. I don't want to risk",
+        "it, so if you find it, it's yours.\"",
+        "[Page]",
+        "",
+        "Having said that, the soldier clasps",
+        "you on the shoulder before walking",
+        "off, most likely back to town.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "If you trust the soldier, you can try",
+        "to win back the book, though buying it",
+        "is now sounding more appealing...",
+        ""
+      ],
+      "Translation": [
+        "If you trust the soldier, you can try",
+        "to win back the book, though buying it",
+        "is now sounding more appealing...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You see a monster at rest at the end",
+        "of the path. The sight immediately",
+        "sets the party on edge...",
+        "[Page]",
+        "",
+        "As you squint, you can see a torn",
+        "pack hanging from the monster's",
+        "deadly claws.",
+        "[Page]",
+        "",
+        "If you wish to take back the book,",
+        "you have no alternative but to",
+        "challenge the monster.",
+        ""
+      ],
+      "Translation": [
+        "You see a monster at rest at the end",
+        "of the path. The sight immediately",
+        "sets the party on edge...",
+        "[Page]",
+        "",
+        "As you squint, you can see a torn",
+        "pack hanging from the monster's",
+        "deadly claws.",
+        "[Page]",
+        "",
+        "If you wish to take back the book,",
+        "you have no alternative but to",
+        "challenge the monster.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "After defeating the monster, you at",
+        "last claim the pack stuck on its",
+        "claws.",
+        "[Page]",
+        "",
+        "You rummage around inside and find a",
+        "luxuriously bound [Color:5][Item:1443][Color:0]!",
+        "Exactly what the client wanted!",
+        ""
+      ],
+      "Translation": [
+        "After defeating the monster, you at",
+        "last claim the pack stuck on its",
+        "claws.",
+        "[Page]",
+        "",
+        "You rummage around inside and find a",
+        "luxuriously bound [Color:5][Item:1443][Color:0]!",
+        "Exactly what the client wanted!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "But that is not all the pack contains.",
+        "You also find a number of medicines",
+        "and a large knife for exploration!",
+        "[Page]",
+        "",
+        "What a stroke of luck! You are able",
+        "to claim them as your own without any",
+        "further effort on your part!",
+        ""
+      ],
+      "Translation": [
+        "But that is not all the pack contains.",
+        "You also find a number of medicines",
+        "and a large knife for exploration!",
+        "[Page]",
+        "",
+        "What a stroke of luck! You are able",
+        "to claim them as your own without any",
+        "further effort on your part!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "The request is now complete! You",
+        "quickly leave the area, eager to",
+        "report back.",
+        ""
+      ],
+      "Translation": [
+        "The request is now complete! You",
+        "quickly leave the area, eager to",
+        "report back.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

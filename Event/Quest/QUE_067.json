@@ -1,0 +1,830 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_067",
+  "RelativePath": "Event\\Quest\\QUE_067.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Did that request pique your interest?",
+        "It sounds somewhat nerve-wracking...",
+        "It comes from the Outland Count.",
+        "[Page]",
+        "",
+        "\"The demonic voice\"... Well, explorers",
+        "like you should have less to fear from",
+        "this kind of thing.",
+        "[Page]",
+        "",
+        "To hear more of the details, go to the",
+        "Grand Court. But be careful... I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Did that request pique your interest?",
+        "It sounds somewhat nerve-wracking...",
+        "It comes from the Outland Count.",
+        "[Page]",
+        "",
+        "\"The demonic voice\"... Well, explorers",
+        "like you should have less to fear from",
+        "this kind of thing.",
+        "[Page]",
+        "",
+        "To hear more of the details, go to the",
+        "Grand Court. But be careful... I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Good work... It seems the demonic",
+        "voice was nothing more than the wind",
+        "blowing through a chasm?",
+        "[Page]",
+        "",
+        "I suspected as much. This sort of",
+        "request is quite common. Explorers can",
+        "be strange...",
+        "[Page]",
+        "",
+        "They think nothing of fighting beastly",
+        "monsters to the death, but if a ghost",
+        "is involved, they cower in fear.",
+        "[Page]",
+        "",
+        "What about your guild? Are you",
+        "particularly superstitious?",
+        ""
+      ],
+      "Translation": [
+        "Good work... It seems the demonic",
+        "voice was nothing more than the wind",
+        "blowing through a chasm?",
+        "[Page]",
+        "",
+        "I suspected as much. This sort of",
+        "request is quite common. Explorers can",
+        "be strange...",
+        "[Page]",
+        "",
+        "They think nothing of fighting beastly",
+        "monsters to the death, but if a ghost",
+        "is involved, they cower in fear.",
+        "[Page]",
+        "",
+        "What about your guild? Are you",
+        "particularly superstitious?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, so you were the ones to take up",
+        "the request. The other explorers are",
+        "so scared that none would touch it.",
+        "[Page]",
+        "",
+        "Tell me, my friends, have you heard",
+        "about the [Color:5]demonic voice[Color:0] at the [Color:5]Sacred",
+        "Mountains[Color:0]? Many explorers claim to.",
+        "[Page]",
+        "",
+        "It is probably merely a beast's howl.",
+        "You cannot be ruled by fear! Explorers",
+        "must be courageous and inquisitive!",
+        "[Page]",
+        "",
+        "That is why I want you to seek out",
+        "points where the voice can be heard",
+        "and identify where it comes from.",
+        "[Page]",
+        "",
+        "Reports say the voice is often heard",
+        "in the [Color:5]northeast[Color:0] of the Sacred",
+        "Mountains. Be careful, my friends!",
+        ""
+      ],
+      "Translation": [
+        "Ah, so you were the ones to take up",
+        "the request. The other explorers are",
+        "so scared that none would touch it.",
+        "[Page]",
+        "",
+        "Tell me, my friends, have you heard",
+        "about the [Color:5]demonic voice[Color:0] at the [Color:5]Sacred",
+        "Mountains[Color:0]? Many explorers claim to.",
+        "[Page]",
+        "",
+        "It is probably merely a beast's howl.",
+        "You cannot be ruled by fear! Explorers",
+        "must be courageous and inquisitive!",
+        "[Page]",
+        "",
+        "That is why I want you to seek out",
+        "points where the voice can be heard",
+        "and identify where it comes from.",
+        "[Page]",
+        "",
+        "Reports say the voice is often heard",
+        "in the [Color:5]northeast[Color:0] of the Sacred",
+        "Mountains. Be careful, my friends!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello, my friends! Did you find",
+        "out the true identity of the demonic",
+        "voice?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello, my friends! Did you find",
+        "out the true identity of the demonic",
+        "voice?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Did you find its identity?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Did you find its identity?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, not yet, I see... No, there's no",
+        "need to worry. I can be a patient man.",
+        "[Page]",
+        "",
+        "Though... I do not like to be one.",
+        "Oh yes, I told you this earlier...",
+        "I wasn't trying to remind you.",
+        ""
+      ],
+      "Translation": [
+        "Ah, not yet, I see... No, there's no",
+        "need to worry. I can be a patient man.",
+        "[Page]",
+        "",
+        "Though... I do not like to be one.",
+        "Oh yes, I told you this earlier...",
+        "I wasn't trying to remind you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "I want you to find the [Color:5]places where",
+        "the voice can be heard[Color:0] as well as the",
+        "[Color:5]origin of the voice[Color:0].",
+        "[Page]",
+        "",
+        "Many explorers who have visited the",
+        "[Color:5]northeast[Color:0] of the [Color:5]Sacred Mountains[Color:0] have",
+        "heard it. The rest is up to you.",
+        "[Page]",
+        "",
+        "Wherever the sound can be heard,",
+        "I assume the origin is not far off.",
+        "[Page]",
+        "",
+        "Though hearing it from the sky makes",
+        "it trickier... You need to consider",
+        "not just directions, but [Color:5]altitudes[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "I want you to find the [Color:5]places where",
+        "the voice can be heard[Color:0] as well as the",
+        "[Color:5]origin of the voice[Color:0].",
+        "[Page]",
+        "",
+        "Many explorers who have visited the",
+        "[Color:5]northeast[Color:0] of the [Color:5]Sacred Mountains[Color:0] have",
+        "heard it. The rest is up to you.",
+        "[Page]",
+        "",
+        "Wherever the sound can be heard,",
+        "I assume the origin is not far off.",
+        "[Page]",
+        "",
+        "Though hearing it from the sky makes",
+        "it trickier... You need to consider",
+        "not just directions, but [Color:5]altitudes[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "I expected nothing less from my most",
+        "reliable explorers. Now, tell me where",
+        "you heard this demonic voice.",
+        ""
+      ],
+      "Translation": [
+        "I expected nothing less from my most",
+        "reliable explorers. Now, tell me where",
+        "you heard this demonic voice.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... I see... And from where did it",
+        "seem to originate?",
+        ""
+      ],
+      "Translation": [
+        "Hmm... I see... And from where did it",
+        "seem to originate?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Understood. I shall send my finest",
+        "scouts at once.",
+        ""
+      ],
+      "Translation": [
+        "Understood. I shall send my finest",
+        "scouts at once.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "My friends... do you know the meaning",
+        "of regret? That is how I am feeling",
+        "right now.",
+        "[Page]",
+        "",
+        "There was no demonic voice at the",
+        "location you pointed out, let alone",
+        "a bear's!",
+        "[Page]",
+        "",
+        "It is important for the information",
+        "you give us to be accurate. Try again,",
+        "and pay closer attention this time.",
+        ""
+      ],
+      "Translation": [
+        "My friends... do you know the meaning",
+        "of regret? That is how I am feeling",
+        "right now.",
+        "[Page]",
+        "",
+        "There was no demonic voice at the",
+        "location you pointed out, let alone",
+        "a bear's!",
+        "[Page]",
+        "",
+        "It is important for the information",
+        "you give us to be accurate. Try again,",
+        "and pay closer attention this time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "I am sorry to say, but though your",
+        "report was accurate, it was not quite",
+        "enough.",
+        "[Page]",
+        "",
+        "To be sure, my scouts heard the",
+        "allegedly demonic voice at the site",
+        "you specified.",
+        "[Page]",
+        "",
+        "But as for its origin, they could not",
+        "find a single trace.",
+        "[Page]",
+        "",
+        "You were half correct... but halfway",
+        "between success and failure is still",
+        "failure. I expect better next time.",
+        ""
+      ],
+      "Translation": [
+        "I am sorry to say, but though your",
+        "report was accurate, it was not quite",
+        "enough.",
+        "[Page]",
+        "",
+        "To be sure, my scouts heard the",
+        "allegedly demonic voice at the site",
+        "you specified.",
+        "[Page]",
+        "",
+        "But as for its origin, they could not",
+        "find a single trace.",
+        "[Page]",
+        "",
+        "You were half correct... but halfway",
+        "between success and failure is still",
+        "failure. I expect better next time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Splendid! That is the only word for",
+        "what you have accomplished! You've",
+        "done a fine job, my friends!",
+        "[Page]",
+        "",
+        "My scouts have confirmed the locations",
+        "you gave us for the demonic voice and",
+        "its origin.",
+        "[Page]",
+        "",
+        "It seems the \"voice\" was merely wind",
+        "blowing through the chasm... A gentle",
+        "prank from Mother Nature.",
+        "[Page]",
+        "",
+        "But now that we know, the explorers",
+        "can proceed with untroubled minds.",
+        "Very fine work.",
+        "[Page]",
+        "",
+        "I've already notified the bar that",
+        "my request has been fulfilled. Go and",
+        "claim your reward!",
+        ""
+      ],
+      "Translation": [
+        "Splendid! That is the only word for",
+        "what you have accomplished! You've",
+        "done a fine job, my friends!",
+        "[Page]",
+        "",
+        "My scouts have confirmed the locations",
+        "you gave us for the demonic voice and",
+        "its origin.",
+        "[Page]",
+        "",
+        "It seems the \"voice\" was merely wind",
+        "blowing through the chasm... A gentle",
+        "prank from Mother Nature.",
+        "[Page]",
+        "",
+        "But now that we know, the explorers",
+        "can proceed with untroubled minds.",
+        "Very fine work.",
+        "[Page]",
+        "",
+        "I've already notified the bar that",
+        "my request has been fulfilled. Go and",
+        "claim your reward!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Man is very fearful of the unknown...",
+        "They'd risk their lives for answers,",
+        "purely to bring peace of mind.",
+        "[Page]",
+        "",
+        "That may seem like a contradiction,",
+        "but it is at the heart of the spirit",
+        "of exploration.",
+        ""
+      ],
+      "Translation": [
+        "Man is very fearful of the unknown...",
+        "They'd risk their lives for answers,",
+        "purely to bring peace of mind.",
+        "[Page]",
+        "",
+        "That may seem like a contradiction,",
+        "but it is at the heart of the spirit",
+        "of exploration.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "After carefully piloting your skyship",
+        "through the mountains, you cover your",
+        "ears as a frightening moan echoes!",
+        "[Page]",
+        "",
+        "The roar shakes your very skyship!",
+        "You begin to fear that a large beast",
+        "is closing in on you...",
+        "[Page]",
+        "",
+        "If so, you will not be able to avoid",
+        "a battle should you stay here. It may",
+        "be prudent to run away...!",
+        ""
+      ],
+      "Translation": [
+        "After carefully piloting your skyship",
+        "through the mountains, you cover your",
+        "ears as a frightening moan echoes!",
+        "[Page]",
+        "",
+        "The roar shakes your very skyship!",
+        "You begin to fear that a large beast",
+        "is closing in on you...",
+        "[Page]",
+        "",
+        "If so, you will not be able to avoid",
+        "a battle should you stay here. It may",
+        "be prudent to run away...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will you run away?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will you run away?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "The scale of that voice makes whatever",
+        "it belongs to sound enormous... You",
+        "are by no means sure you can win!",
+        "[Page]",
+        "",
+        "You quickly flee from this spot!",
+        ""
+      ],
+      "Translation": [
+        "The scale of that voice makes whatever",
+        "it belongs to sound enormous... You",
+        "are by no means sure you can win!",
+        "[Page]",
+        "",
+        "You quickly flee from this spot!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "You find the courage to discover the",
+        "owner of that moan and decide to hold",
+        "your position!",
+        "[Page]",
+        "",
+        "As the moan grows louder, you begin",
+        "to fear this terrifying beast may be",
+        "fully larger than your skyship...!",
+        "[Page]",
+        "",
+        "There is still time to flee, but if",
+        "you do not do so now, you must be",
+        "prepared to face whatever comes!",
+        ""
+      ],
+      "Translation": [
+        "You find the courage to discover the",
+        "owner of that moan and decide to hold",
+        "your position!",
+        "[Page]",
+        "",
+        "As the moan grows louder, you begin",
+        "to fear this terrifying beast may be",
+        "fully larger than your skyship...!",
+        "[Page]",
+        "",
+        "There is still time to flee, but if",
+        "you do not do so now, you must be",
+        "prepared to face whatever comes!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will you run away?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will you run away?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Are you certain?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Are you certain?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "You draw your weapons and prepare",
+        "yourselves for a fight to the death!",
+        ""
+      ],
+      "Translation": [
+        "You draw your weapons and prepare",
+        "yourselves for a fight to the death!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "The party waits anxiously...",
+        "[Page]",
+        "",
+        "But no matter how long you wait,",
+        "nothing appears to face you...",
+        "[Page]",
+        "",
+        "Yet the overwhelming moan does not",
+        "die down...",
+        ""
+      ],
+      "Translation": [
+        "The party waits anxiously...",
+        "[Page]",
+        "",
+        "But no matter how long you wait,",
+        "nothing appears to face you...",
+        "[Page]",
+        "",
+        "Yet the overwhelming moan does not",
+        "die down...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "There can be no doubt this is the",
+        "voice the explorers feared so and",
+        "the Count would like investigated!",
+        "[Page]",
+        "",
+        "The other explorers were too afraid",
+        "of the moans heard here and fled.",
+        "[Page]",
+        "",
+        "The voice's origin is most likely",
+        "somewhere else. You continue the",
+        "search without lowering your guard...",
+        ""
+      ],
+      "Translation": [
+        "There can be no doubt this is the",
+        "voice the explorers feared so and",
+        "the Count would like investigated!",
+        "[Page]",
+        "",
+        "The other explorers were too afraid",
+        "of the moans heard here and fled.",
+        "[Page]",
+        "",
+        "The voice's origin is most likely",
+        "somewhere else. You continue the",
+        "search without lowering your guard...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Just as before, the moan continues to",
+        "echo from below...",
+        ""
+      ],
+      "Translation": [
+        "Just as before, the moan continues to",
+        "echo from below...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "As you search for the origin of the",
+        "demonic voice, you suddenly hear a",
+        "high-pitched whistling sound.",
+        "[Page]",
+        "",
+        "It is the sound one would expect from",
+        "a current of wind being forced between",
+        "the cliff face and a pillar below.",
+        "[Page]",
+        "",
+        "You recall the terrifying, demonic",
+        "voice you heard earlier...",
+        "[Page]",
+        "",
+        "That moaning must have originated",
+        "here before blending with other",
+        "sounds and echoing far and wide!",
+        "[Page]",
+        "",
+        "You have at last discovered the origin",
+        "of the demonic voice! You note it down",
+        "in order to report it to the Count...",
+        ""
+      ],
+      "Translation": [
+        "As you search for the origin of the",
+        "demonic voice, you suddenly hear a",
+        "high-pitched whistling sound.",
+        "[Page]",
+        "",
+        "It is the sound one would expect from",
+        "a current of wind being forced between",
+        "the cliff face and a pillar below.",
+        "[Page]",
+        "",
+        "You recall the terrifying, demonic",
+        "voice you heard earlier...",
+        "[Page]",
+        "",
+        "That moaning must have originated",
+        "here before blending with other",
+        "sounds and echoing far and wide!",
+        "[Page]",
+        "",
+        "You have at last discovered the origin",
+        "of the demonic voice! You note it down",
+        "in order to report it to the Count...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "As the wind passes through, a high-",
+        "pitched whistling sound echoes...",
+        ""
+      ],
+      "Translation": [
+        "As the wind passes through, a high-",
+        "pitched whistling sound echoes...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

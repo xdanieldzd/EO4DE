@@ -1,0 +1,3757 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_16F",
+  "RelativePath": "Event\\Dungeon\\DUN_16F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You enter a deeper level of the Hall",
+        "of Darkness.",
+        "[Page]",
+        "",
+        "You notice first its distinct smell.",
+        "Though you are in a man-made ruin,",
+        "this floor has the aroma of a forest.",
+        "[Page]",
+        "",
+        "The unnatural smell of plants reminds",
+        "you of the Titan of Yggdrasil you had",
+        "a pitched battle with not long ago.",
+        "[Page]",
+        "",
+        "For a fleeting moment, the dreadful",
+        "thought that the Titan still slumbers",
+        "here enters your mind.",
+        "[Page]",
+        "",
+        "But you cannot seriously believe that",
+        "anything on par with Yggdrasil's power",
+        "is down here. You continue walking...",
+        ""
+      ],
+      "Translation": [
+        "You enter a deeper level of the Hall",
+        "of Darkness.",
+        "[Page]",
+        "",
+        "You notice first its distinct smell.",
+        "Though you are in a man-made ruin,",
+        "this floor has the aroma of a forest.",
+        "[Page]",
+        "",
+        "The unnatural smell of plants reminds",
+        "you of the Titan of Yggdrasil you had",
+        "a pitched battle with not long ago.",
+        "[Page]",
+        "",
+        "For a fleeting moment, the dreadful",
+        "thought that the Titan still slumbers",
+        "here enters your mind.",
+        "[Page]",
+        "",
+        "But you cannot seriously believe that",
+        "anything on par with Yggdrasil's power",
+        "is down here. You continue walking...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "The pungent smell of plants permeating",
+        "the entire floor seems to originate",
+        "beyond the steel doors before you...",
+        "[Page]",
+        "",
+        "And you can hear crunching sounds,",
+        "as well as something viscous being",
+        "slurped up, from within.",
+        "[Page]",
+        "",
+        "You are absolutely certain some sort",
+        "of creature is on the other side of",
+        "these doors. Do not open them lightly!",
+        ""
+      ],
+      "Translation": [
+        "The pungent smell of plants permeating",
+        "the entire floor seems to originate",
+        "beyond the steel doors before you...",
+        "[Page]",
+        "",
+        "And you can hear crunching sounds,",
+        "as well as something viscous being",
+        "slurped up, from within.",
+        "[Page]",
+        "",
+        "You are absolutely certain some sort",
+        "of creature is on the other side of",
+        "these doors. Do not open them lightly!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "When you steel yourself and open the",
+        "doors, the sight within shocks you",
+        "to your core!",
+        "[Page]",
+        "",
+        "Some giant mass is squatting in the",
+        "center of the hall, emitting a",
+        "powerful stench!",
+        ""
+      ],
+      "Translation": [
+        "When you steel yourself and open the",
+        "doors, the sight within shocks you",
+        "to your core!",
+        "[Page]",
+        "",
+        "Some giant mass is squatting in the",
+        "center of the hall, emitting a",
+        "powerful stench!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Squinting, you realize that the green",
+        "thing is a hideous, insectile monster",
+        "covered in thick chitin...",
+        "[Page]",
+        "",
+        "The unbearable sense of threat you feel",
+        "easily surpasses what you experienced",
+        "while fighting the Titan!",
+        "[Page]",
+        "",
+        "Be on your guard! The abomination in",
+        "this room is a danger beyond the",
+        "capacity of human understanding!",
+        ""
+      ],
+      "Translation": [
+        "Squinting, you realize that the green",
+        "thing is a hideous, insectile monster",
+        "covered in thick chitin...",
+        "[Page]",
+        "",
+        "The unbearable sense of threat you feel",
+        "easily surpasses what you experienced",
+        "while fighting the Titan!",
+        "[Page]",
+        "",
+        "Be on your guard! The abomination in",
+        "this room is a danger beyond the",
+        "capacity of human understanding!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You destroy the central core of the",
+        "abomination of vines and leaves, and",
+        "the thing eventually stops moving.",
+        "[Page]",
+        "",
+        "Your unbending will has overcome the",
+        "malevolent incarnation of plant life",
+        "that surpassed human understanding!",
+        "[Page]",
+        "",
+        "No other registered guild could",
+        "possibly have accomplished such",
+        "a feat.",
+        "[Page]",
+        "",
+        "The thing to do now is to return to",
+        "Tharsis and deliver an account of the",
+        "unknown battle to the Outland Count!",
+        ""
+      ],
+      "Translation": [
+        "You destroy the central core of the",
+        "abomination of vines and leaves, and",
+        "the thing eventually stops moving.",
+        "[Page]",
+        "",
+        "Your unbending will has overcome the",
+        "malevolent incarnation of plant life",
+        "that surpassed human understanding!",
+        "[Page]",
+        "",
+        "No other registered guild could",
+        "possibly have accomplished such",
+        "a feat.",
+        "[Page]",
+        "",
+        "The thing to do now is to return to",
+        "Tharsis and deliver an account of the",
+        "unknown battle to the Outland Count!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"Our third servants are the sleepless",
+        "ones. We are very proud of these ones,",
+        "modeled after the second servants.",
+        "[Page]",
+        "",
+        "\"The 'Queen' increases their numbers,",
+        "they grow quickly, and are tireless",
+        "workers, making up for their weakness.",
+        "[Page]",
+        "",
+        "\"Of special note is that they do not",
+        "communicate through speech. Their race",
+        "shares a single consciousness!",
+        "[Page]",
+        "",
+        "\"Some disliked using them due to their",
+        "instability, but they will oversee",
+        "our most important experiment...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Translation": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"Our third servants are the sleepless",
+        "ones. We are very proud of these ones,",
+        "modeled after the second servants.",
+        "[Page]",
+        "",
+        "\"The 'Queen' increases their numbers,",
+        "they grow quickly, and are tireless",
+        "workers, making up for their weakness.",
+        "[Page]",
+        "",
+        "\"Of special note is that they do not",
+        "communicate through speech. Their race",
+        "shares a single consciousness!",
+        "[Page]",
+        "",
+        "\"Some disliked using them due to their",
+        "instability, but they will oversee",
+        "our most important experiment...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"The project was going smoothly, save",
+        "for concerns about what would happen",
+        "if we couldn't control Yggdrasil.",
+        "[Page]",
+        "",
+        "\"Our detractors say that if its vast",
+        "power were to go unchecked, it would",
+        "be unstoppable... How naive of them.",
+        "[Page]",
+        "",
+        "\"As I explained, this hypothetical is",
+        "an impossibility, but the committee",
+        "wants a failsafe measure nonetheless.",
+        "[Page]",
+        "",
+        "\"Which is why they're looking into",
+        "that repulsive thing which feeds off",
+        "Yggdrasil's power to devour it...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Translation": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"The project was going smoothly, save",
+        "for concerns about what would happen",
+        "if we couldn't control Yggdrasil.",
+        "[Page]",
+        "",
+        "\"Our detractors say that if its vast",
+        "power were to go unchecked, it would",
+        "be unstoppable... How naive of them.",
+        "[Page]",
+        "",
+        "\"As I explained, this hypothetical is",
+        "an impossibility, but the committee",
+        "wants a failsafe measure nonetheless.",
+        "[Page]",
+        "",
+        "\"Which is why they're looking into",
+        "that repulsive thing which feeds off",
+        "Yggdrasil's power to devour it...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"...I was so wrong. I was so caught up",
+        "in the heady idea of saving the world",
+        "that I was blind to everything else.",
+        "[Page]",
+        "",
+        "\"The committee is forcing Yggdrasil's",
+        "activation, but it's too soon! Now I",
+        "know why the failsafe was made...",
+        "[Page]",
+        "",
+        "\"If they can't control Yggdrasil, they",
+        "will employ the insect. Pfah! This",
+        "cure is worse than the disease!",
+        "[Page]",
+        "",
+        "\"I've said my goodbyes to my wife and",
+        "daughter. I may die in the attempt,",
+        "but we cannot repeat this mistake!\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Translation": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"...I was so wrong. I was so caught up",
+        "in the heady idea of saving the world",
+        "that I was blind to everything else.",
+        "[Page]",
+        "",
+        "\"The committee is forcing Yggdrasil's",
+        "activation, but it's too soon! Now I",
+        "know why the failsafe was made...",
+        "[Page]",
+        "",
+        "\"If they can't control Yggdrasil, they",
+        "will employ the insect. Pfah! This",
+        "cure is worse than the disease!",
+        "[Page]",
+        "",
+        "\"I've said my goodbyes to my wife and",
+        "daughter. I may die in the attempt,",
+        "but we cannot repeat this mistake!\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "You find a peculiar device and decide",
+        "to peer into it.",
+        "[Page]",
+        "",
+        "It seems this device can be lit, which",
+        "affects the surrounding temperature.",
+        ""
+      ],
+      "Translation": [
+        "You find a peculiar device and decide",
+        "to peer into it.",
+        "[Page]",
+        "",
+        "It seems this device can be lit, which",
+        "affects the surrounding temperature.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Light the device?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Light the device?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Extinguish the flame?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Extinguish the flame?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "You are suddenly overwhelmed with an",
+        "uncanny sensation!",
+        ""
+      ],
+      "Translation": [
+        "You are suddenly overwhelmed with an",
+        "uncanny sensation!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "When you open your eyes, you see a",
+        "door before you which you know you",
+        "have passed through before...",
+        "[Page]",
+        "",
+        "There is no knowing the principle at",
+        "work, but it seems some mechanism has",
+        "transported you here.",
+        "[Page]",
+        "",
+        "If you intend to continue your search,",
+        "you will have to be even more careful",
+        "with the map you draw.",
+        ""
+      ],
+      "Translation": [
+        "When you open your eyes, you see a",
+        "door before you which you know you",
+        "have passed through before...",
+        "[Page]",
+        "",
+        "There is no knowing the principle at",
+        "work, but it seems some mechanism has",
+        "transported you here.",
+        "[Page]",
+        "",
+        "If you intend to continue your search,",
+        "you will have to be even more careful",
+        "with the map you draw.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "No sooner is the door open than an",
+        "overpowering stench causes you to gag.",
+        "[Page]",
+        "",
+        "You vividly recall having experienced",
+        "this reek elsewhere...",
+        "[Page]",
+        "",
+        "At most, a held breath will get your",
+        "party through [Color:5]about ten steps[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "No sooner is the door open than an",
+        "overpowering stench causes you to gag.",
+        "[Page]",
+        "",
+        "You vividly recall having experienced",
+        "this reek elsewhere...",
+        "[Page]",
+        "",
+        "At most, a held breath will get your",
+        "party through [Color:5]about ten steps[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "As you force your way through the",
+        "thick miasma, you stop, feeling",
+        "faint... You have been here too long.",
+        "[Page]",
+        "",
+        "If you remain any longer, your life",
+        "will be at risk. You quickly make for",
+        "the exit with all possible speed.",
+        ""
+      ],
+      "Translation": [
+        "As you force your way through the",
+        "thick miasma, you stop, feeling",
+        "faint... You have been here too long.",
+        "[Page]",
+        "",
+        "If you remain any longer, your life",
+        "will be at risk. You quickly make for",
+        "the exit with all possible speed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "As you traipse down the mad corridors",
+        "filled with miasma, you spy something",
+        "on the ground ahead.",
+        "[Page]",
+        "",
+        "They seem to be lightweight metallic",
+        "cylinders. The top opens, and you",
+        "realize they are containers.",
+        "[Page]",
+        "",
+        "A frayed piece of paper is attached",
+        "to the device next to it. You lean in",
+        "closely to read...",
+        "[Page]",
+        "",
+        "\"I'm leaving a trace of our results",
+        "here. May whoever finds this do what",
+        "we couldn't and stop the insect.\"",
+        "[Page]",
+        "",
+        "Thinking that the canisters may have",
+        "a use later, you take one of them",
+        "with you.",
+        ""
+      ],
+      "Translation": [
+        "As you traipse down the mad corridors",
+        "filled with miasma, you spy something",
+        "on the ground ahead.",
+        "[Page]",
+        "",
+        "They seem to be lightweight metallic",
+        "cylinders. The top opens, and you",
+        "realize they are containers.",
+        "[Page]",
+        "",
+        "A frayed piece of paper is attached",
+        "to the device next to it. You lean in",
+        "closely to read...",
+        "[Page]",
+        "",
+        "\"I'm leaving a trace of our results",
+        "here. May whoever finds this do what",
+        "we couldn't and stop the insect.\"",
+        "[Page]",
+        "",
+        "Thinking that the canisters may have",
+        "a use later, you take one of them",
+        "with you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Now that you have a canister, you look",
+        "again at the device and see directions",
+        "on using it with the device.",
+        ""
+      ],
+      "Translation": [
+        "Now that you have a canister, you look",
+        "again at the device and see directions",
+        "on using it with the device.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Read the directions?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Read the directions?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "\"-One canister will hold up to five",
+        "doses of chemical.",
+        "[Page]",
+        "",
+        "\"-The mixed compound can be preserved",
+        "indefinitely so long as the canister",
+        "is sealed.",
+        "[Page]",
+        "",
+        "\"-To check which chemicals a canister",
+        "contains, attach it to the device.",
+        "[Page]",
+        "",
+        "\"-You can also flush the canister by",
+        "attaching it to the device.",
+        "[Page]",
+        "",
+        "\"-DO NOT use the compound outside of",
+        "this device or the administration",
+        "panel in the control building!\"",
+        ""
+      ],
+      "Translation": [
+        "\"-One canister will hold up to five",
+        "doses of chemical.",
+        "[Page]",
+        "",
+        "\"-The mixed compound can be preserved",
+        "indefinitely so long as the canister",
+        "is sealed.",
+        "[Page]",
+        "",
+        "\"-To check which chemicals a canister",
+        "contains, attach it to the device.",
+        "[Page]",
+        "",
+        "\"-You can also flush the canister by",
+        "attaching it to the device.",
+        "[Page]",
+        "",
+        "\"-DO NOT use the compound outside of",
+        "this device or the administration",
+        "panel in the control building!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What will you do?[Color:0]",
+        "Check the canister's contents",
+        "Flush the canister",
+        "Read the directions",
+        "Nothing",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What will you do?[Color:0]",
+        "Check the canister's contents",
+        "Flush the canister",
+        "Read the directions",
+        "Nothing",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Are you sure?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Are you sure?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "You fit the metallic canister into",
+        "a depression on the device.",
+        "[Page]",
+        "",
+        "You wait, unsure if you are meant to",
+        "take further action.",
+        "[Page]",
+        "",
+        "After a second, you hear the sound of",
+        "something being released. It seems",
+        "canister has been emptied.",
+        ""
+      ],
+      "Translation": [
+        "You fit the metallic canister into",
+        "a depression on the device.",
+        "[Page]",
+        "",
+        "You wait, unsure if you are meant to",
+        "take further action.",
+        "[Page]",
+        "",
+        "After a second, you hear the sound of",
+        "something being released. It seems",
+        "canister has been emptied.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "As you move through the dismal ruins,",
+        "you find something at the edge of",
+        "a hall.",
+        "[Page]",
+        "",
+        "It is a strange device with various",
+        "meters on it. Tubes lead from the",
+        "device into the next room.",
+        "[Page]",
+        "",
+        "You fiddle with the device a bit,",
+        "but nothing seems to happen.",
+        "[Page]",
+        "",
+        "You shrug and decide to ignore the",
+        "device for now in favor of continuing",
+        "your explorations.",
+        ""
+      ],
+      "Translation": [
+        "As you move through the dismal ruins,",
+        "you find something at the edge of",
+        "a hall.",
+        "[Page]",
+        "",
+        "It is a strange device with various",
+        "meters on it. Tubes lead from the",
+        "device into the next room.",
+        "[Page]",
+        "",
+        "You fiddle with the device a bit,",
+        "but nothing seems to happen.",
+        "[Page]",
+        "",
+        "You shrug and decide to ignore the",
+        "device for now in favor of continuing",
+        "your explorations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "You touch the device before you,",
+        "but it does not seem to accomplish",
+        "anything...",
+        ""
+      ],
+      "Translation": [
+        "You touch the device before you,",
+        "but it does not seem to accomplish",
+        "anything...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": false,
+      "Original": [
+        "As you move through the dismal ruins,",
+        "you find something at the edge of",
+        "a hall.",
+        "[Page]",
+        "",
+        "It is a strange device with various",
+        "meters on it. Tubes lead from the",
+        "device into the next room.",
+        "[Page]",
+        "",
+        "On top of the device is a cavity that",
+        "looks as though it would accept the",
+        "canister you hold.",
+        "[Page]",
+        "",
+        "It seems this device is meant to spray",
+        "the contents of the canister into the",
+        "next room...",
+        ""
+      ],
+      "Translation": [
+        "As you move through the dismal ruins,",
+        "you find something at the edge of",
+        "a hall.",
+        "[Page]",
+        "",
+        "It is a strange device with various",
+        "meters on it. Tubes lead from the",
+        "device into the next room.",
+        "[Page]",
+        "",
+        "On top of the device is a cavity that",
+        "looks as though it would accept the",
+        "canister you hold.",
+        "[Page]",
+        "",
+        "It seems this device is meant to spray",
+        "the contents of the canister into the",
+        "next room...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "With the canister you found in hand,",
+        "you revisit the device at the edge",
+        "of the hall.",
+        "[Page]",
+        "",
+        "To your satisfaction, you confirm a",
+        "connection between the canister and",
+        "the device.",
+        "[Page]",
+        "",
+        "Just above the device is a cavity the",
+        "same size and shape as the canister.",
+        "[Page]",
+        "",
+        "It seems this device is meant to spray",
+        "the contents of the canister into the",
+        "next room...",
+        ""
+      ],
+      "Translation": [
+        "With the canister you found in hand,",
+        "you revisit the device at the edge",
+        "of the hall.",
+        "[Page]",
+        "",
+        "To your satisfaction, you confirm a",
+        "connection between the canister and",
+        "the device.",
+        "[Page]",
+        "",
+        "Just above the device is a cavity the",
+        "same size and shape as the canister.",
+        "[Page]",
+        "",
+        "It seems this device is meant to spray",
+        "the contents of the canister into the",
+        "next room...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What will you do?[Color:0]",
+        "Spray the compound into the room",
+        "Check its contents",
+        "Nothing",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What will you do?[Color:0]",
+        "Spray the compound into the room",
+        "Check its contents",
+        "Nothing",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": false,
+      "Original": [
+        "The compound is volatile. Its effects",
+        "will only last [Color:5]while you are on this",
+        "floor[Color:0]... Do you still wish to use it?",
+        ""
+      ],
+      "Translation": [
+        "The compound is volatile. Its effects",
+        "will only last [Color:5]while you are on this",
+        "floor[Color:0]... Do you still wish to use it?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]If you do this, the canister will be",
+        "emptied of its contents. Are you sure?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]If you do this, the canister will be",
+        "emptied of its contents. Are you sure?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": false,
+      "Original": [
+        "You attach the canister to the device",
+        "and pull at the lever.",
+        "[Page]",
+        "",
+        "You wait with bated breath...",
+        "[Page]",
+        "",
+        "Suddenly, a bloodcurdling scream of",
+        "agony sounds from the next room!",
+        "[Page]",
+        "",
+        "It seems that the compound you",
+        "released into the room had quite",
+        "an effect on its inhabitant!",
+        "[Page]",
+        "",
+        "You are free to muster your courage",
+        "and venture into the room.",
+        ""
+      ],
+      "Translation": [
+        "You attach the canister to the device",
+        "and pull at the lever.",
+        "[Page]",
+        "",
+        "You wait with bated breath...",
+        "[Page]",
+        "",
+        "Suddenly, a bloodcurdling scream of",
+        "agony sounds from the next room!",
+        "[Page]",
+        "",
+        "It seems that the compound you",
+        "released into the room had quite",
+        "an effect on its inhabitant!",
+        "[Page]",
+        "",
+        "You are free to muster your courage",
+        "and venture into the room.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 108,
+      "IsIgnored": false,
+      "Original": [
+        "You attach the canister to the device",
+        "and pull at the lever.",
+        "[Page]",
+        "",
+        "You wait with bated breath...",
+        "[Page]",
+        "",
+        "But if there was any reaction from",
+        "the room's inhabitant, you cannot",
+        "detect it.",
+        "[Page]",
+        "",
+        "You are left with an empty canister",
+        "and the unfortunate need to roam",
+        "these halls again...",
+        ""
+      ],
+      "Translation": [
+        "You attach the canister to the device",
+        "and pull at the lever.",
+        "[Page]",
+        "",
+        "You wait with bated breath...",
+        "[Page]",
+        "",
+        "But if there was any reaction from",
+        "the room's inhabitant, you cannot",
+        "detect it.",
+        "[Page]",
+        "",
+        "You are left with an empty canister",
+        "and the unfortunate need to roam",
+        "these halls again...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 109,
+      "IsIgnored": false,
+      "Original": [
+        "The dreadful abomination is gone.",
+        "There is no use in releasing compound",
+        "into the room now.",
+        ""
+      ],
+      "Translation": [
+        "The dreadful abomination is gone.",
+        "There is no use in releasing compound",
+        "into the room now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "When you steel yourself and open the",
+        "doors, the sight within shocks you",
+        "to your core!",
+        "[Page]",
+        "",
+        "Some giant mass is squatting in",
+        "the center of the hall, emitting a",
+        "powerful stench and a palpable threat!",
+        ""
+      ],
+      "Translation": [
+        "When you steel yourself and open the",
+        "doors, the sight within shocks you",
+        "to your core!",
+        "[Page]",
+        "",
+        "Some giant mass is squatting in",
+        "the center of the hall, emitting a",
+        "powerful stench and a palpable threat!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "Squinting, you realize that the green",
+        "thing is a hideous, insectile monster",
+        "covered in thick chitin...",
+        "[Page]",
+        "",
+        "But the thing does not move and looks",
+        "to be in pain... The compound you",
+        "released must have [Color:5]weakened[Color:0] it.",
+        "[Page]",
+        "",
+        "There will never be a better time to",
+        "challenge it in combat!",
+        "[Page]",
+        "",
+        "But beware... Even in its weakened",
+        "state, it is a threat beyond the",
+        "capacity of human understanding!",
+        ""
+      ],
+      "Translation": [
+        "Squinting, you realize that the green",
+        "thing is a hideous, insectile monster",
+        "covered in thick chitin...",
+        "[Page]",
+        "",
+        "But the thing does not move and looks",
+        "to be in pain... The compound you",
+        "released must have [Color:5]weakened[Color:0] it.",
+        "[Page]",
+        "",
+        "There will never be a better time to",
+        "challenge it in combat!",
+        "[Page]",
+        "",
+        "But beware... Even in its weakened",
+        "state, it is a threat beyond the",
+        "capacity of human understanding!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "When you steel yourself and open the",
+        "doors, the sight within shocks you",
+        "to your core!",
+        "[Page]",
+        "",
+        "Some giant mass is squatting in",
+        "the center of the hall, emitting a",
+        "powerful stench and a palpable threat!",
+        ""
+      ],
+      "Translation": [
+        "When you steel yourself and open the",
+        "doors, the sight within shocks you",
+        "to your core!",
+        "[Page]",
+        "",
+        "Some giant mass is squatting in",
+        "the center of the hall, emitting a",
+        "powerful stench and a palpable threat!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "Squinting, you realize that the green",
+        "thing is a hideous, insectile monster",
+        "covered in thick chitin...",
+        "[Page]",
+        "",
+        "But it doesn't seem as though the",
+        "compound you released had [Color:5]any effect",
+        "whatsoever[Color:0] on the thing.",
+        "[Page]",
+        "",
+        "The unbearable sense of threat you feel",
+        "easily surpasses what you experienced",
+        "while fighting the Titan!",
+        "[Page]",
+        "",
+        "Be on your guard! The abomination in",
+        "this room is a danger beyond the",
+        "capacity of human understanding!",
+        ""
+      ],
+      "Translation": [
+        "Squinting, you realize that the green",
+        "thing is a hideous, insectile monster",
+        "covered in thick chitin...",
+        "[Page]",
+        "",
+        "But it doesn't seem as though the",
+        "compound you released had [Color:5]any effect",
+        "whatsoever[Color:0] on the thing.",
+        "[Page]",
+        "",
+        "The unbearable sense of threat you feel",
+        "easily surpasses what you experienced",
+        "while fighting the Titan!",
+        "[Page]",
+        "",
+        "Be on your guard! The abomination in",
+        "this room is a danger beyond the",
+        "capacity of human understanding!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": false,
+      "Original": [
+        "The compound you released a moment",
+        "ago drifts into the hall as a fine",
+        "mist...",
+        "[Page]",
+        "",
+        "The insectile thing seems to be in too",
+        "much pain to move! You have succeeded",
+        "in [Color:5]weakening[Color:0] it!",
+        "[Page]",
+        "",
+        "There will never be a better time to",
+        "challenge it in combat!",
+        "[Page]",
+        "",
+        "But beware... Even in its weakened",
+        "state, it is a threat beyond the",
+        "capacity of human understanding!",
+        ""
+      ],
+      "Translation": [
+        "The compound you released a moment",
+        "ago drifts into the hall as a fine",
+        "mist...",
+        "[Page]",
+        "",
+        "The insectile thing seems to be in too",
+        "much pain to move! You have succeeded",
+        "in [Color:5]weakening[Color:0] it!",
+        "[Page]",
+        "",
+        "There will never be a better time to",
+        "challenge it in combat!",
+        "[Page]",
+        "",
+        "But beware... Even in its weakened",
+        "state, it is a threat beyond the",
+        "capacity of human understanding!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": false,
+      "Original": [
+        "The compound you released a moment",
+        "ago drifts into the hall as a fine",
+        "mist...",
+        "[Page]",
+        "",
+        "But the insectile horror takes no",
+        "notice of the mist and continues",
+        "eating the plants at its feet.",
+        "[Page]",
+        "",
+        "It seems the procedure for concocting",
+        "the compound was carried out in the",
+        "wrong order...",
+        ""
+      ],
+      "Translation": [
+        "The compound you released a moment",
+        "ago drifts into the hall as a fine",
+        "mist...",
+        "[Page]",
+        "",
+        "But the insectile horror takes no",
+        "notice of the mist and continues",
+        "eating the plants at its feet.",
+        "[Page]",
+        "",
+        "It seems the procedure for concocting",
+        "the compound was carried out in the",
+        "wrong order...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": false,
+      "Original": [
+        "The contraption before you is labeled:",
+        "\"Injection Device (White)\"",
+        ""
+      ],
+      "Translation": [
+        "The contraption before you is labeled:",
+        "\"Injection Device (White)\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "The contraption before you is labeled:",
+        "\"Injection Device (Red)\"",
+        ""
+      ],
+      "Translation": [
+        "The contraption before you is labeled:",
+        "\"Injection Device (Red)\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "The contraption before you is labeled:",
+        "\"Injection Device (Blue)\"",
+        ""
+      ],
+      "Translation": [
+        "The contraption before you is labeled:",
+        "\"Injection Device (Blue)\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "The contraption before you is labeled:",
+        "\"Injection Device (Green)\"",
+        ""
+      ],
+      "Translation": [
+        "The contraption before you is labeled:",
+        "\"Injection Device (Green)\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "The contraption before you is labeled:",
+        "\"Injection Device (Yellow)\"",
+        ""
+      ],
+      "Translation": [
+        "The contraption before you is labeled:",
+        "\"Injection Device (Yellow)\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What will you do with your canister?[Color:0]",
+        "Inject this chemical into it",
+        "Check its contents",
+        "Nothing",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What will you do with your canister?[Color:0]",
+        "Inject this chemical into it",
+        "Check its contents",
+        "Nothing",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "You attach the tube extending from the",
+        "device to the mouth of the canister.",
+        "The device activates automatically.",
+        "[Page]",
+        "",
+        "You take a few deep breaths while",
+        "you wait.",
+        "[Page]",
+        "",
+        "A quiet chime dings. It seems the",
+        "[Color:5]white[Color:0] chemical has been injected",
+        "into your canister.",
+        ""
+      ],
+      "Translation": [
+        "You attach the tube extending from the",
+        "device to the mouth of the canister.",
+        "The device activates automatically.",
+        "[Page]",
+        "",
+        "You take a few deep breaths while",
+        "you wait.",
+        "[Page]",
+        "",
+        "A quiet chime dings. It seems the",
+        "[Color:5]white[Color:0] chemical has been injected",
+        "into your canister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "You attach the tube extending from the",
+        "device to the mouth of the canister.",
+        "The device activates automatically.",
+        "[Page]",
+        "",
+        "You take a few deep breaths while",
+        "you wait.",
+        "[Page]",
+        "",
+        "A quiet chime dings. It seems the",
+        "[Color:5]red[Color:0] chemical has been injected",
+        "into your canister.",
+        ""
+      ],
+      "Translation": [
+        "You attach the tube extending from the",
+        "device to the mouth of the canister.",
+        "The device activates automatically.",
+        "[Page]",
+        "",
+        "You take a few deep breaths while",
+        "you wait.",
+        "[Page]",
+        "",
+        "A quiet chime dings. It seems the",
+        "[Color:5]red[Color:0] chemical has been injected",
+        "into your canister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 128,
+      "IsIgnored": false,
+      "Original": [
+        "You attach the tube extending from the",
+        "device to the mouth of the canister.",
+        "The device activates automatically.",
+        "[Page]",
+        "",
+        "You take a few deep breaths while",
+        "you wait.",
+        "[Page]",
+        "",
+        "A quiet chime dings. It seems the",
+        "[Color:5]blue[Color:0] chemical has been injected",
+        "into your canister.",
+        ""
+      ],
+      "Translation": [
+        "You attach the tube extending from the",
+        "device to the mouth of the canister.",
+        "The device activates automatically.",
+        "[Page]",
+        "",
+        "You take a few deep breaths while",
+        "you wait.",
+        "[Page]",
+        "",
+        "A quiet chime dings. It seems the",
+        "[Color:5]blue[Color:0] chemical has been injected",
+        "into your canister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 129,
+      "IsIgnored": false,
+      "Original": [
+        "You attach the tube extending from the",
+        "device to the mouth of the canister.",
+        "The device activates automatically.",
+        "[Page]",
+        "",
+        "You take a few deep breaths while",
+        "you wait.",
+        "[Page]",
+        "",
+        "A quiet chime dings. It seems the",
+        "[Color:5]green[Color:0] chemical has been injected",
+        "into your canister.",
+        ""
+      ],
+      "Translation": [
+        "You attach the tube extending from the",
+        "device to the mouth of the canister.",
+        "The device activates automatically.",
+        "[Page]",
+        "",
+        "You take a few deep breaths while",
+        "you wait.",
+        "[Page]",
+        "",
+        "A quiet chime dings. It seems the",
+        "[Color:5]green[Color:0] chemical has been injected",
+        "into your canister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": false,
+      "Original": [
+        "You attach the tube extending from the",
+        "device to the mouth of the canister.",
+        "The device activates automatically.",
+        "[Page]",
+        "",
+        "You take a few deep breaths while",
+        "you wait.",
+        "[Page]",
+        "",
+        "A quiet chime dings. It seems the",
+        "[Color:5]yellow[Color:0] chemical has been injected",
+        "into your canister.",
+        ""
+      ],
+      "Translation": [
+        "You attach the tube extending from the",
+        "device to the mouth of the canister.",
+        "The device activates automatically.",
+        "[Page]",
+        "",
+        "You take a few deep breaths while",
+        "you wait.",
+        "[Page]",
+        "",
+        "A quiet chime dings. It seems the",
+        "[Color:5]yellow[Color:0] chemical has been injected",
+        "into your canister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "You have already injected the canister",
+        "with the chemical from this device.",
+        ""
+      ],
+      "Translation": [
+        "You have already injected the canister",
+        "with the chemical from this device.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": false,
+      "Original": [
+        "A tube shaped to fit the mouth of the",
+        "canister you hold extends from the",
+        "device here.",
+        "[Page]",
+        "",
+        "With this device, you suspect you can",
+        "inject a chemical into your canister.",
+        ""
+      ],
+      "Translation": [
+        "A tube shaped to fit the mouth of the",
+        "canister you hold extends from the",
+        "device here.",
+        "[Page]",
+        "",
+        "With this device, you suspect you can",
+        "inject a chemical into your canister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 140,
+      "IsIgnored": false,
+      "Original": [
+        "You find a scrap of paper, thought to",
+        "be part of a report on the \"insect,\"",
+        "amongst documents scattered here.",
+        ""
+      ],
+      "Translation": [
+        "You find a scrap of paper, thought to",
+        "be part of a report on the \"insect,\"",
+        "amongst documents scattered here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": false,
+      "Original": [
+        "\"Test 1: Results negative. Subject",
+        "not pacified. No observed effect",
+        "from the white chemical.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Bad injection timing.",
+        "Seems to have no effect when injected",
+        "before or after yellow.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Test 1: Results negative. Subject",
+        "not pacified. No observed effect",
+        "from the white chemical.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Bad injection timing.",
+        "Seems to have no effect when injected",
+        "before or after yellow.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": false,
+      "Original": [
+        "\"Test 2: Results negative. Subject",
+        "not pacified. No observed effect",
+        "from the red chemical.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Bad injection timing.",
+        "Seems to have no effect when injected",
+        "directly before green.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Test 2: Results negative. Subject",
+        "not pacified. No observed effect",
+        "from the red chemical.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Bad injection timing.",
+        "Seems to have no effect when injected",
+        "directly before green.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": false,
+      "Original": [
+        "\"Test 3: Results negative. Target's",
+        "reaction undiminished. No observed",
+        "effect from the blue chemical.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Bad injection timing.",
+        "Seems to have no effect when injected",
+        "before or after green.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Test 3: Results negative. Target's",
+        "reaction undiminished. No observed",
+        "effect from the blue chemical.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Bad injection timing.",
+        "Seems to have no effect when injected",
+        "before or after green.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": false,
+      "Original": [
+        "\"Test 4: Results negative. Subject",
+        "not pacified. No observed effect",
+        "from the green chemical.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Bad injection timing.",
+        "Failure seems to have stemmed from",
+        "injection directly before red.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Test 4: Results negative. Subject",
+        "not pacified. No observed effect",
+        "from the green chemical.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Bad injection timing.",
+        "Failure seems to have stemmed from",
+        "injection directly before red.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": false,
+      "Original": [
+        "\"Test 5: Results positive. Target's",
+        "reaction diminished. Yellow chemical",
+        "confirmed to have an effect.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Not injecting yellow",
+        "directly before green seems crucial.",
+        "At last, a breakthrough.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Test 5: Results positive. Target's",
+        "reaction diminished. Yellow chemical",
+        "confirmed to have an effect.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Not injecting yellow",
+        "directly before green seems crucial.",
+        "At last, a breakthrough.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": false,
+      "Original": [
+        "\"Test 6: Results positive. Target's",
+        "resistance diminished. Green chemical",
+        "confirmed to have an effect.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Not injecting green",
+        "directly before yellow seems crucial.",
+        "We're finally getting somewhere...\"",
+        ""
+      ],
+      "Translation": [
+        "\"Test 6: Results positive. Target's",
+        "resistance diminished. Green chemical",
+        "confirmed to have an effect.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Not injecting green",
+        "directly before yellow seems crucial.",
+        "We're finally getting somewhere...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 147,
+      "IsIgnored": false,
+      "Original": [
+        "\"Test 7: Results negative. Target's",
+        "chitin plating hardened. No useful",
+        "effect from the yellow chemical.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Bad injection timing.",
+        "Seems to be neutered when injected",
+        "before or after blue.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Test 7: Results negative. Target's",
+        "chitin plating hardened. No useful",
+        "effect from the yellow chemical.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Bad injection timing.",
+        "Seems to be neutered when injected",
+        "before or after blue.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": false,
+      "Original": [
+        "\"Test 8: Results positive. Target's",
+        "resistance diminished. White and",
+        "green compound confirmed effective.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Injecting green early",
+        "yielded good results. It seems to",
+        "have made white work as well...\"",
+        ""
+      ],
+      "Translation": [
+        "\"Test 8: Results positive. Target's",
+        "resistance diminished. White and",
+        "green compound confirmed effective.",
+        "[Page]",
+        "",
+        "\"Hypothesis: Injecting green early",
+        "yielded good results. It seems to",
+        "have made white work as well...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 149,
+      "IsIgnored": false,
+      "Original": [
+        "As you wander the gloomy labyrinth,",
+        "you find documents scattered at a",
+        "dead end.",
+        "[Page]",
+        "",
+        "It seems research on harnessing the",
+        "power of something called the \"insect\"",
+        "via chemicals was performed here.",
+        "[Page]",
+        "",
+        "As you page through the documents,",
+        "one stands out as being especially",
+        "important.",
+        ""
+      ],
+      "Translation": [
+        "As you wander the gloomy labyrinth,",
+        "you find documents scattered at a",
+        "dead end.",
+        "[Page]",
+        "",
+        "It seems research on harnessing the",
+        "power of something called the \"insect\"",
+        "via chemicals was performed here.",
+        "[Page]",
+        "",
+        "As you page through the documents,",
+        "one stands out as being especially",
+        "important.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": false,
+      "Original": [
+        "It is a summary of tests performed",
+        "on mixing chemical compounds in",
+        "various orders.",
+        "[Page]",
+        "",
+        "You suspect it may behoove you to",
+        "copy down some of these details in",
+        "order not to forget them.",
+        ""
+      ],
+      "Translation": [
+        "It is a summary of tests performed",
+        "on mixing chemical compounds in",
+        "various orders.",
+        "[Page]",
+        "",
+        "You suspect it may behoove you to",
+        "copy down some of these details in",
+        "order not to forget them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": false,
+      "Original": [
+        "There is currently [Color:5]one[Color:0] type of",
+        "chemical injected into your canister.",
+        ""
+      ],
+      "Translation": [
+        "There is currently [Color:5]one[Color:0] type of",
+        "chemical injected into your canister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 156,
+      "IsIgnored": false,
+      "Original": [
+        "There are currently [Color:5]two[Color:0] types of",
+        "chemical injected into your canister.",
+        ""
+      ],
+      "Translation": [
+        "There are currently [Color:5]two[Color:0] types of",
+        "chemical injected into your canister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 157,
+      "IsIgnored": false,
+      "Original": [
+        "There are currently [Color:5]three[Color:0] types of",
+        "chemical injected into your canister.",
+        ""
+      ],
+      "Translation": [
+        "There are currently [Color:5]three[Color:0] types of",
+        "chemical injected into your canister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 158,
+      "IsIgnored": false,
+      "Original": [
+        "There are currently [Color:5]four[Color:0] types of",
+        "chemical injected into your canister.",
+        ""
+      ],
+      "Translation": [
+        "There are currently [Color:5]four[Color:0] types of",
+        "chemical injected into your canister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 159,
+      "IsIgnored": false,
+      "Original": [
+        "Including this most recent injection,",
+        "your canister is now filled with",
+        "[Color:5]five[Color:0] types of chemical.",
+        ""
+      ],
+      "Translation": [
+        "Including this most recent injection,",
+        "your canister is now filled with",
+        "[Color:5]five[Color:0] types of chemical.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 160,
+      "IsIgnored": false,
+      "Original": [
+        "You fit the metallic canister into the",
+        "cavity and the details of its contents",
+        "are displayed on the device.",
+        ""
+      ],
+      "Translation": [
+        "You fit the metallic canister into the",
+        "cavity and the details of its contents",
+        "are displayed on the device.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": false,
+      "Original": [
+        "\"1st injection: White\"",
+        ""
+      ],
+      "Translation": [
+        "\"1st injection: White\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": false,
+      "Original": [
+        "\"1st injection: Red\"",
+        ""
+      ],
+      "Translation": [
+        "\"1st injection: Red\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": false,
+      "Original": [
+        "\"1st injection: Blue\"",
+        ""
+      ],
+      "Translation": [
+        "\"1st injection: Blue\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": false,
+      "Original": [
+        "\"1st injection: Green\"",
+        ""
+      ],
+      "Translation": [
+        "\"1st injection: Green\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": false,
+      "Original": [
+        "\"1st injection: Yellow\"",
+        ""
+      ],
+      "Translation": [
+        "\"1st injection: Yellow\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 166,
+      "IsIgnored": false,
+      "Original": [
+        "\"2nd injection: White\"",
+        ""
+      ],
+      "Translation": [
+        "\"2nd injection: White\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 167,
+      "IsIgnored": false,
+      "Original": [
+        "\"2nd injection: Red\"",
+        ""
+      ],
+      "Translation": [
+        "\"2nd injection: Red\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 168,
+      "IsIgnored": false,
+      "Original": [
+        "\"2nd injection: Blue\"",
+        ""
+      ],
+      "Translation": [
+        "\"2nd injection: Blue\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 169,
+      "IsIgnored": false,
+      "Original": [
+        "\"2nd injection: Green\"",
+        ""
+      ],
+      "Translation": [
+        "\"2nd injection: Green\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 170,
+      "IsIgnored": false,
+      "Original": [
+        "\"2nd injection: Yellow\"",
+        ""
+      ],
+      "Translation": [
+        "\"2nd injection: Yellow\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": false,
+      "Original": [
+        "\"3rd injection: White\"",
+        ""
+      ],
+      "Translation": [
+        "\"3rd injection: White\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": false,
+      "Original": [
+        "\"3rd injection: Red\"",
+        ""
+      ],
+      "Translation": [
+        "\"3rd injection: Red\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": false,
+      "Original": [
+        "\"3rd injection: Blue\"",
+        ""
+      ],
+      "Translation": [
+        "\"3rd injection: Blue\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": false,
+      "Original": [
+        "\"3rd injection: Green\"",
+        ""
+      ],
+      "Translation": [
+        "\"3rd injection: Green\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": false,
+      "Original": [
+        "\"3rd injection: Yellow\"",
+        ""
+      ],
+      "Translation": [
+        "\"3rd injection: Yellow\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": false,
+      "Original": [
+        "\"4th injection: White\"",
+        ""
+      ],
+      "Translation": [
+        "\"4th injection: White\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 177,
+      "IsIgnored": false,
+      "Original": [
+        "\"4th injection: Red\"",
+        ""
+      ],
+      "Translation": [
+        "\"4th injection: Red\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 178,
+      "IsIgnored": false,
+      "Original": [
+        "\"4th injection: Blue\"",
+        ""
+      ],
+      "Translation": [
+        "\"4th injection: Blue\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 179,
+      "IsIgnored": false,
+      "Original": [
+        "\"4th injection: Green\"",
+        ""
+      ],
+      "Translation": [
+        "\"4th injection: Green\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 180,
+      "IsIgnored": false,
+      "Original": [
+        "\"4th injection: Yellow\"",
+        ""
+      ],
+      "Translation": [
+        "\"4th injection: Yellow\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": false,
+      "Original": [
+        "\"5th injection: White\"",
+        ""
+      ],
+      "Translation": [
+        "\"5th injection: White\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "IsIgnored": false,
+      "Original": [
+        "\"5th injection: Red\"",
+        ""
+      ],
+      "Translation": [
+        "\"5th injection: Red\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 183,
+      "IsIgnored": false,
+      "Original": [
+        "\"5th injection: Blue\"",
+        ""
+      ],
+      "Translation": [
+        "\"5th injection: Blue\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 184,
+      "IsIgnored": false,
+      "Original": [
+        "\"5th injection: Green\"",
+        ""
+      ],
+      "Translation": [
+        "\"5th injection: Green\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 185,
+      "IsIgnored": false,
+      "Original": [
+        "\"5th injection: Yellow\"",
+        ""
+      ],
+      "Translation": [
+        "\"5th injection: Yellow\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 186,
+      "IsIgnored": false,
+      "Original": [
+        "The canister is ejected from the",
+        "device. It seems its task has been",
+        "carried out.",
+        ""
+      ],
+      "Translation": [
+        "The canister is ejected from the",
+        "device. It seems its task has been",
+        "carried out.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 187,
+      "IsIgnored": false,
+      "Original": [
+        "There are currently no chemicals in",
+        "the canister you hold.",
+        ""
+      ],
+      "Translation": [
+        "There are currently no chemicals in",
+        "the canister you hold.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

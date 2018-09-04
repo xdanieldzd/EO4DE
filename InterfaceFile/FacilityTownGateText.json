@@ -1,0 +1,904 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "City Gates text",
+  "RelativePath": "InterfaceFile\\FacilityTownGateText.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You can begin in the selected maze.",
+        "Go to the Geomagnetic Pole?",
+        ""
+      ],
+      "Translation": [
+        "Zum geomagnetischen Mast des",
+        "gewählten Labyrinth springen?",
+        ""
+      ],
+      "Notes": [
+        "2 Zeilen max"
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Launch your skyship.",
+        ""
+      ],
+      "Translation": [
+        "Startet euer Luftschiff.",
+        ""
+      ],
+      "Notes": [
+        "1 Zeile max"
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Go to the selected maze.",
+        ""
+      ],
+      "Translation": [
+        "Springt zum gewählten Labyrinth.",
+        ""
+      ],
+      "Notes": [
+        "1 Zeile max"
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Return to the square.",
+        ""
+      ],
+      "Translation": [
+        "Kehrt zum Hauptplatz zurück.",
+        ""
+      ],
+      "Notes": [
+        "1 Zeile max"
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "第1階層に移動します",
+        ""
+      ],
+      "Translation": [
+        "第1階層に移動します",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": true,
+      "Original": [
+        "第2階層に移動します",
+        ""
+      ],
+      "Translation": [
+        "第2階層に移動します",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": true,
+      "Original": [
+        "第3階層に移動します",
+        ""
+      ],
+      "Translation": [
+        "第3階層に移動します",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": true,
+      "Original": [
+        "第4階層に移動します",
+        ""
+      ],
+      "Translation": [
+        "第4階層に移動します",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": true,
+      "Original": [
+        "第5階層に移動します",
+        ""
+      ],
+      "Translation": [
+        "第5階層に移動します",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": true,
+      "Original": [
+        "第6階層に移動します",
+        ""
+      ],
+      "Translation": [
+        "第6階層に移動します",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": true,
+      "Original": [
+        "第2階層最後に移動します",
+        ""
+      ],
+      "Translation": [
+        "第2階層最後に移動します",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "1st Maze: Lush Woodlands",
+        ""
+      ],
+      "Translation": [
+        "1. Labyrinth: Üppige Wälder",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "2nd Maze: Misty Ravine",
+        ""
+      ],
+      "Translation": [
+        "2. Labyrinth: Neblige Schlucht",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "3rd Maze: Golden Lair",
+        ""
+      ],
+      "Translation": [
+        "3. Labyrinth: Goldenes Nest",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "4th Maze: Echoing Library",
+        ""
+      ],
+      "Translation": [
+        "4. Labyrinth: Hallende Bibliothek",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "5th Maze: Forgotten Capital",
+        ""
+      ],
+      "Translation": [
+        "5. Labyrinth: Vergessene Hauptstadt",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "6th Maze: Hall of Darkness",
+        ""
+      ],
+      "Translation": [
+        "6. Labyrinth: Hallen der Dunkelheit",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": true,
+      "Original": [
+        "第2階層最後",
+        ""
+      ],
+      "Translation": [
+        "第2階層最後",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Travel to the selected land.",
+        ""
+      ],
+      "Translation": [
+        "In das gewählte Land reisen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Travel to the selected cave.",
+        ""
+      ],
+      "Translation": [
+        "Zur gewählten Höhle reisen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Change the skyship's equipment.",
+        ""
+      ],
+      "Translation": [
+        "Ausrüstung des Luftschiffs ändern.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "1st Land: Windy Plains",
+        ""
+      ],
+      "Translation": [
+        "1. Land: Windige Ebenen",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "2nd Land: Scarlet Pillars",
+        ""
+      ],
+      "Translation": [
+        "2. Land: Scharlachrote Säulen",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "3rd Land: Sacred Mountains",
+        ""
+      ],
+      "Translation": [
+        "3. Land: Heilige Berge",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "4th Land: Cloudy Stronghold",
+        ""
+      ],
+      "Translation": [
+        "4. Land: Wolkige Festung",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": true,
+      "Original": [
+        "第5大地 虚ノ空域",
+        ""
+      ],
+      "Translation": [
+        "第5大地 虚ノ空域",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Use the Emergency Pole.",
+        ""
+      ],
+      "Translation": [
+        "Benutzt den Notfallmast.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "1st Land: Old Forest Mine",
+        ""
+      ],
+      "Translation": [
+        "1. Land: Alte Mine im Wald",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "1st Land: Small Orchard",
+        ""
+      ],
+      "Translation": [
+        "1. Land: Kleiner Obsthain",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "1st Land: Valley Spring",
+        ""
+      ],
+      "Translation": [
+        "1. Land: Talquelle",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "1st Land: Dense Bushland",
+        ""
+      ],
+      "Translation": [
+        "1. Land: Dichtes Buschland",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "2nd Land: Moth's Garden",
+        ""
+      ],
+      "Translation": [
+        "2. Land: Garten der Falter",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "2nd Land: Miasma Forest",
+        ""
+      ],
+      "Translation": [
+        "2. Land: Giftiger Wald",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "2nd Land: Noisy Marsh",
+        ""
+      ],
+      "Translation": [
+        "2. Land: Lautes Dickicht",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "3rd Land: Cramped Nest",
+        ""
+      ],
+      "Translation": [
+        "3. Land: Beengtes Nest",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "3rd Land: Toxic Cave",
+        ""
+      ],
+      "Translation": [
+        "3. Land: Toxische Höhle",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "3rd Land: Underground Lake",
+        ""
+      ],
+      "Translation": [
+        "3. Land: See im Untergrund",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "4th Land: South Sanctuary",
+        ""
+      ],
+      "Translation": [
+        "4. Land: Südliches Heiligtum",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "4th Land: Windy Archive",
+        ""
+      ],
+      "Translation": [
+        "4. Land: Windiges Archiv",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "4th Land: Golden Deer Keep",
+        ""
+      ],
+      "Translation": [
+        "4. Land: Unterkunft des Goldhirsch",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "You can begin your outing in the",
+        "selected land. Travel there?",
+        ""
+      ],
+      "Translation": [
+        "In das ausgewählte Land reisen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "You can begin your outing in front",
+        "of the selected cave. Travel there?",
+        ""
+      ],
+      "Translation": [
+        "Zum Eingang der ausgewählten",
+        "Höhle reisen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

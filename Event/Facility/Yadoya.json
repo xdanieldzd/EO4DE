@@ -1,0 +1,2879 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Yadoya",
+  "RelativePath": "Event\\Facility\\Yadoya.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome bac--oh, my! I think this is",
+        "our first meeting, actually. Are you",
+        "new explorers?",
+        "[Page]",
+        "",
+        "Welcome to the Saehrimnir Inn. Lots",
+        "of our explorers use this place as",
+        "a base between excursions.",
+        "[Page]",
+        "",
+        "If you get hurt or tired, come back",
+        "here and get a good rest.",
+        "[Page]",
+        "",
+        "We have a clinic in the back, too!",
+        "You're welcome to use it if you have",
+        "any ailments or wounds to treat.",
+        ""
+      ],
+      "Translation": [
+        "Welcome bac--oh, my! I think this is",
+        "our first meeting, actually. Are you",
+        "new explorers?",
+        "[Page]",
+        "",
+        "Welcome to the Saehrimnir Inn. Lots",
+        "of our explorers use this place as",
+        "a base between excursions.",
+        "[Page]",
+        "",
+        "If you get hurt or tired, come back",
+        "here and get a good rest.",
+        "[Page]",
+        "",
+        "We have a clinic in the back, too!",
+        "You're welcome to use it if you have",
+        "any ailments or wounds to treat.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Oh! Welcome back, dearies. And thank",
+        "you so much for taking care of my",
+        "little grocery list.",
+        "[Page]",
+        "",
+        "I promised you I'd set aside extra",
+        "storage space for the [Guild] Guild,",
+        "and that's just what I've done!",
+        ""
+      ],
+      "Translation": [
+        "Oh! Welcome back, dearies. And thank",
+        "you so much for taking care of my",
+        "little grocery list.",
+        "[Page]",
+        "",
+        "I promised you I'd set aside extra",
+        "storage space for the [Guild] Guild,",
+        "and that's just what I've done!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your storage space has been expanded.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your storage space has been expanded.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your storage space has been expanded.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your storage space has been expanded.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your storage space has been expanded.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your storage space has been expanded.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your storage space has been expanded.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your storage space has been expanded.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "And don't worry, dearies, it'll still",
+        "be free to use whenever you want!",
+        ""
+      ],
+      "Translation": [
+        "And don't worry, dearies, it'll still",
+        "be free to use whenever you want!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Goodness, I just realized how much",
+        "space you have. That skinny little",
+        "girl at the atelier could live in it.",
+        "[Page]",
+        "",
+        "I don't think I can give you anymore,",
+        "but if I ever have any more requests,",
+        "I hope you'll take them anyway!",
+        ""
+      ],
+      "Translation": [
+        "Goodness, I just realized how much",
+        "space you have. That skinny little",
+        "girl at the atelier could live in it.",
+        "[Page]",
+        "",
+        "I don't think I can give you anymore,",
+        "but if I ever have any more requests,",
+        "I hope you'll take them anyway!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "You're the [Guild] Guild, right?",
+        "Oh, explorers have such lovely names",
+        "for their guilds.",
+        "[Page]",
+        "",
+        "I think your guild name has a very",
+        "nice ring to it, dearies.",
+        "[Page]",
+        "",
+        "What inspired the name [Guild],",
+        "if that's all right to ask?",
+        ""
+      ],
+      "Translation": [
+        "You're the [Guild] Guild, right?",
+        "Oh, explorers have such lovely names",
+        "for their guilds.",
+        "[Page]",
+        "",
+        "I think your guild name has a very",
+        "nice ring to it, dearies.",
+        "[Page]",
+        "",
+        "What inspired the name [Guild],",
+        "if that's all right to ask?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back, dearies. I see you've",
+        "finished that mission you got at the",
+        "Grand Court.",
+        "[Page]",
+        "",
+        "Good for you! Now you can go out on",
+        "your skyship to gather food.",
+        "[Page]",
+        "",
+        "Oh, but silly me. I should be cooking",
+        "you dinner to celebrate!",
+        ""
+      ],
+      "Translation": [
+        "Welcome back, dearies. I see you've",
+        "finished that mission you got at the",
+        "Grand Court.",
+        "[Page]",
+        "",
+        "Good for you! Now you can go out on",
+        "your skyship to gather food.",
+        "[Page]",
+        "",
+        "Oh, but silly me. I should be cooking",
+        "you dinner to celebrate!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, welcome back. Are you having fun,",
+        "sailing all across the skies?",
+        "[Page]",
+        "",
+        "The Windy Plains are famous for the",
+        "delicious veggies that grow there.",
+        "The [Item:2067]s and [Item:2068]s...",
+        "[Page]",
+        "",
+        "Oh, but don't eat the [Item:2069]!",
+        "You'll get a stomachache!",
+        ""
+      ],
+      "Translation": [
+        "Oh, welcome back. Are you having fun,",
+        "sailing all across the skies?",
+        "[Page]",
+        "",
+        "The Windy Plains are famous for the",
+        "delicious veggies that grow there.",
+        "The [Item:2067]s and [Item:2068]s...",
+        "[Page]",
+        "",
+        "Oh, but don't eat the [Item:2069]!",
+        "You'll get a stomachache!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Most of the ingredients for the food",
+        "we serve are from the market near the",
+        "outskirts of the city.",
+        "[Page]",
+        "",
+        "A good amount of what they sell there",
+        "was brought back by explorers!",
+        "[Page]",
+        "",
+        "The food in tonight's dinner might",
+        "very well have been made with the",
+        "ingredients you gathered yesterday.",
+        ""
+      ],
+      "Translation": [
+        "Most of the ingredients for the food",
+        "we serve are from the market near the",
+        "outskirts of the city.",
+        "[Page]",
+        "",
+        "A good amount of what they sell there",
+        "was brought back by explorers!",
+        "[Page]",
+        "",
+        "The food in tonight's dinner might",
+        "very well have been made with the",
+        "ingredients you gathered yesterday.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "There have been so many attacks by",
+        "that red bear! All those poor soldiers",
+        "and explorers coming to the clinic...",
+        "[Page]",
+        "",
+        "You dearies be careful out there. If",
+        "something looks like trouble, don't",
+        "chase after it without thinking!",
+        ""
+      ],
+      "Translation": [
+        "There have been so many attacks by",
+        "that red bear! All those poor soldiers",
+        "and explorers coming to the clinic...",
+        "[Page]",
+        "",
+        "You dearies be careful out there. If",
+        "something looks like trouble, don't",
+        "chase after it without thinking!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "Let's hear it for my dear [Guild]",
+        "Guild! I heard you broke through",
+        "the northern barrier... Amazing!",
+        "[Page]",
+        "",
+        "I think a celebration is in order.",
+        "We just got a fine ostrich, so I'll go",
+        "out back and wring its neck for you.",
+        ""
+      ],
+      "Translation": [
+        "Let's hear it for my dear [Guild]",
+        "Guild! I heard you broke through",
+        "the northern barrier... Amazing!",
+        "[Page]",
+        "",
+        "I think a celebration is in order.",
+        "We just got a fine ostrich, so I'll go",
+        "out back and wring its neck for you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, welcome back. Say, have you",
+        "ever eaten something called a",
+        "Dragon Crystal?",
+        "[Page]",
+        "",
+        "It's supposed to be picked off a",
+        "terrible dragon's body... That's why",
+        "it's so rarely found on the market.",
+        "[Page]",
+        "",
+        "But if it was me... I'd rather cook",
+        "the actual dragon meat than whatever",
+        "these crystals it leaves behind are.",
+        "[Page]",
+        "",
+        "See here, this butcher's knife? I had",
+        "the master of the atelier make it for",
+        "me! It's so nice and sharp.",
+        ""
+      ],
+      "Translation": [
+        "Oh, welcome back. Say, have you",
+        "ever eaten something called a",
+        "Dragon Crystal?",
+        "[Page]",
+        "",
+        "It's supposed to be picked off a",
+        "terrible dragon's body... That's why",
+        "it's so rarely found on the market.",
+        "[Page]",
+        "",
+        "But if it was me... I'd rather cook",
+        "the actual dragon meat than whatever",
+        "these crystals it leaves behind are.",
+        "[Page]",
+        "",
+        "See here, this butcher's knife? I had",
+        "the master of the atelier make it for",
+        "me! It's so nice and sharp.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, welcome back! And did you finally",
+        "find a new labyrinth to explore,",
+        "hmmm?",
+        "[Page]",
+        "",
+        "In that case, I'll cook a special",
+        "feast tonight! All that good food",
+        "will go to your success.",
+        "[Page]",
+        "",
+        "Oh, did I ever tell you that the",
+        "Outland Count sometimes comes in",
+        "for a bite in our dining hall?",
+        "[Page]",
+        "",
+        "The way he oohs and aaahs over his",
+        "food makes me so happy to have him",
+        "sample my cooking.",
+        ""
+      ],
+      "Translation": [
+        "Oh, welcome back! And did you finally",
+        "find a new labyrinth to explore,",
+        "hmmm?",
+        "[Page]",
+        "",
+        "In that case, I'll cook a special",
+        "feast tonight! All that good food",
+        "will go to your success.",
+        "[Page]",
+        "",
+        "Oh, did I ever tell you that the",
+        "Outland Count sometimes comes in",
+        "for a bite in our dining hall?",
+        "[Page]",
+        "",
+        "The way he oohs and aaahs over his",
+        "food makes me so happy to have him",
+        "sample my cooking.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "So they tell me you've met some funny-",
+        "looking people called Vessels.",
+        "[Page]",
+        "",
+        "Some of the other explorers said they",
+        "have six arms and eight legs! They",
+        "sound horrible...",
+        "[Page]",
+        "",
+        "Although... hmm...",
+        "[Page]",
+        "",
+        "I wonder what kind of food they like.",
+        ""
+      ],
+      "Translation": [
+        "So they tell me you've met some funny-",
+        "looking people called Vessels.",
+        "[Page]",
+        "",
+        "Some of the other explorers said they",
+        "have six arms and eight legs! They",
+        "sound horrible...",
+        "[Page]",
+        "",
+        "Although... hmm...",
+        "[Page]",
+        "",
+        "I wonder what kind of food they like.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, my! Welcome back, dearies. They",
+        "tell me the new land you found is",
+        "awfully cold.",
+        "[Page]",
+        "",
+        "Something told me you'd be freezing,",
+        "so I prepared some hot soup.",
+        "[Page]",
+        "",
+        "Come by the dining hall as soon as",
+        "you're ready!",
+        ""
+      ],
+      "Translation": [
+        "Oh, my! Welcome back, dearies. They",
+        "tell me the new land you found is",
+        "awfully cold.",
+        "[Page]",
+        "",
+        "Something told me you'd be freezing,",
+        "so I prepared some hot soup.",
+        "[Page]",
+        "",
+        "Come by the dining hall as soon as",
+        "you're ready!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "We've had a lot of Vessels as guests",
+        "here lately! The more, the merrier,",
+        "that's what I say.",
+        "[Page]",
+        "",
+        "Tonight's dinner is a special dish I",
+        "came up with to suit the Vessels'",
+        "taste.",
+        "[Page]",
+        "",
+        "It's health food made with fruits and",
+        "herbs from the Misty Ravine. I hope",
+        "you like it!",
+        ""
+      ],
+      "Translation": [
+        "We've had a lot of Vessels as guests",
+        "here lately! The more, the merrier,",
+        "that's what I say.",
+        "[Page]",
+        "",
+        "Tonight's dinner is a special dish I",
+        "came up with to suit the Vessels'",
+        "taste.",
+        "[Page]",
+        "",
+        "It's health food made with fruits and",
+        "herbs from the Misty Ravine. I hope",
+        "you like it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, hello, dearies. Maybe you can",
+        "explain something about the explorers",
+        "making trips to the Golden Lair...",
+        "[Page]",
+        "",
+        "When I see them off, they're bundled",
+        "up warm, but when they come back again",
+        "they're wearing next to nothing!",
+        "[Page]",
+        "",
+        "Wh-What kind of place have you dearies",
+        "been going to!?",
+        ""
+      ],
+      "Translation": [
+        "Oh, hello, dearies. Maybe you can",
+        "explain something about the explorers",
+        "making trips to the Golden Lair...",
+        "[Page]",
+        "",
+        "When I see them off, they're bundled",
+        "up warm, but when they come back again",
+        "they're wearing next to nothing!",
+        "[Page]",
+        "",
+        "Wh-What kind of place have you dearies",
+        "been going to!?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "So I heard this time, you met some",
+        "folks called the Sentinels?",
+        "[Page]",
+        "",
+        "Everyone's been buzzing over how",
+        "they're big enough to crush a skyship",
+        "in one hand! They must eat a lot.",
+        "[Page]",
+        "",
+        "Hmm...",
+        "[Page]",
+        "",
+        "I wonder if it's time to break out",
+        "that one dish...",
+        ""
+      ],
+      "Translation": [
+        "So I heard this time, you met some",
+        "folks called the Sentinels?",
+        "[Page]",
+        "",
+        "Everyone's been buzzing over how",
+        "they're big enough to crush a skyship",
+        "in one hand! They must eat a lot.",
+        "[Page]",
+        "",
+        "Hmm...",
+        "[Page]",
+        "",
+        "I wonder if it's time to break out",
+        "that one dish...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "Congratulations, dearies! It sounds",
+        "like you've broken new ground again.",
+        "[Page]",
+        "",
+        "Lately, we've had humans, Vessels, and",
+        "Sentinels here at the Saehrimnir Inn.",
+        "It's like a big pot of stew...",
+        "[Page]",
+        "",
+        "Stew! That would be just the thing",
+        "for dinner tonight. I hope you'll",
+        "be there!",
+        ""
+      ],
+      "Translation": [
+        "Congratulations, dearies! It sounds",
+        "like you've broken new ground again.",
+        "[Page]",
+        "",
+        "Lately, we've had humans, Vessels, and",
+        "Sentinels here at the Saehrimnir Inn.",
+        "It's like a big pot of stew...",
+        "[Page]",
+        "",
+        "Stew! That would be just the thing",
+        "for dinner tonight. I hope you'll",
+        "be there!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, do you know, I haven't seen Whirl",
+        "or Wind lately. Do you know where they",
+        "might have gone?",
+        "[Page]",
+        "",
+        "Huh...?",
+        "[Page]",
+        "",
+        "W-Was he just one person? Goodness...",
+        "Who was I thinking of...?",
+        ""
+      ],
+      "Translation": [
+        "Oh, do you know, I haven't seen Whirl",
+        "or Wind lately. Do you know where they",
+        "might have gone?",
+        "[Page]",
+        "",
+        "Huh...?",
+        "[Page]",
+        "",
+        "W-Was he just one person? Goodness...",
+        "Who was I thinking of...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, my! Welcome back, dearies. What's",
+        "that now? You want to see my pot?",
+        "[Page]",
+        "",
+        "I'm sorry, but maybe you should come",
+        "back some other time. She's not in",
+        "a very good mood right now...",
+        "[Page]",
+        "",
+        "Hm? Me? Oh, no, I'm fine! The pot's",
+        "the one in the bad mood.",
+        ""
+      ],
+      "Translation": [
+        "Oh, my! Welcome back, dearies. What's",
+        "that now? You want to see my pot?",
+        "[Page]",
+        "",
+        "I'm sorry, but maybe you should come",
+        "back some other time. She's not in",
+        "a very good mood right now...",
+        "[Page]",
+        "",
+        "Hm? Me? Oh, no, I'm fine! The pot's",
+        "the one in the bad mood.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "First the Vessels, then the Sentinels,",
+        "now these Imperials... I've been told",
+        "they look just like us.",
+        "[Page]",
+        "",
+        "I wonder...",
+        "[Page]",
+        "",
+        "I hope they don't throw their goblets",
+        "on the floor once they've finished",
+        "their drinks...",
+        ""
+      ],
+      "Translation": [
+        "First the Vessels, then the Sentinels,",
+        "now these Imperials... I've been told",
+        "they look just like us.",
+        "[Page]",
+        "",
+        "I wonder...",
+        "[Page]",
+        "",
+        "I hope they don't throw their goblets",
+        "on the floor once they've finished",
+        "their drinks...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "Oh! Welcome back. Things have been so",
+        "busy ever since the Imperials started",
+        "showing up here.",
+        "[Page]",
+        "",
+        "I've been so tired out that my",
+        "eyesight must be getting blurry.",
+        "It's hard to see Yggdrasil...",
+        "[Page]",
+        "",
+        "It withered...? What are you talking",
+        "about, dearies?",
+        ""
+      ],
+      "Translation": [
+        "Oh! Welcome back. Things have been so",
+        "busy ever since the Imperials started",
+        "showing up here.",
+        "[Page]",
+        "",
+        "I've been so tired out that my",
+        "eyesight must be getting blurry.",
+        "It's hard to see Yggdrasil...",
+        "[Page]",
+        "",
+        "It withered...? What are you talking",
+        "about, dearies?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "Did Yggdrasil really wither away?",
+        "I only believe what I can see with",
+        "my own eyes.",
+        "[Page]",
+        "",
+        "Then again... if Yggdrasil was really",
+        "gone, I couldn't see it, could I...?",
+        "[Page]",
+        "",
+        "I'm starting to confuse myself.",
+        "Do you believe that the hole in the",
+        "middle of a donut exists?",
+        ""
+      ],
+      "Translation": [
+        "Did Yggdrasil really wither away?",
+        "I only believe what I can see with",
+        "my own eyes.",
+        "[Page]",
+        "",
+        "Then again... if Yggdrasil was really",
+        "gone, I couldn't see it, could I...?",
+        "[Page]",
+        "",
+        "I'm starting to confuse myself.",
+        "Do you believe that the hole in the",
+        "middle of a donut exists?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back, dearies. Are any of",
+        "you hurt?",
+        "[Page]",
+        "",
+        "The explorers who get carried in",
+        "here lately are in worse and worse",
+        "condition.",
+        "[Page]",
+        "",
+        "I don't worry about you so much since",
+        "you're all so strong, but please be",
+        "careful anyway.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back, dearies. Are any of",
+        "you hurt?",
+        "[Page]",
+        "",
+        "The explorers who get carried in",
+        "here lately are in worse and worse",
+        "condition.",
+        "[Page]",
+        "",
+        "I don't worry about you so much since",
+        "you're all so strong, but please be",
+        "careful anyway.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Oh! Welcome back, dearies. I'd say",
+        "your journey is nearing the end--does",
+        "that sound right?",
+        "[Page]",
+        "",
+        "It's easy to tell by how hard you've",
+        "all been working.",
+        "[Page]",
+        "",
+        "We have some delicious goat meat in,",
+        "so I'll cook something that'll raise",
+        "your spirits for the next outing!",
+        ""
+      ],
+      "Translation": [
+        "Oh! Welcome back, dearies. I'd say",
+        "your journey is nearing the end--does",
+        "that sound right?",
+        "[Page]",
+        "",
+        "It's easy to tell by how hard you've",
+        "all been working.",
+        "[Page]",
+        "",
+        "We have some delicious goat meat in,",
+        "so I'll cook something that'll raise",
+        "your spirits for the next outing!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "All the explorers who come through",
+        "here are busy lately... Is something",
+        "going on?",
+        "[Page]",
+        "",
+        "I haven't been sleeping much either.",
+        "It looks like Yggdrasil is swaying",
+        "back and forth, like it's walking...",
+        "[Page]",
+        "",
+        "A Titan? What's this about?",
+        ""
+      ],
+      "Translation": [
+        "All the explorers who come through",
+        "here are busy lately... Is something",
+        "going on?",
+        "[Page]",
+        "",
+        "I haven't been sleeping much either.",
+        "It looks like Yggdrasil is swaying",
+        "back and forth, like it's walking...",
+        "[Page]",
+        "",
+        "A Titan? What's this about?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Well! It sounds like you all got",
+        "yourselves into a fine mess without",
+        "me ever realizing.",
+        "[Page]",
+        "",
+        "But... your job is to have adventures,",
+        "and mine is to keep you fed with",
+        "delicious meals.",
+        "[Page]",
+        "",
+        "I don't really need to know what",
+        "you're up to to do my part, do I? We",
+        "can go about our business as usual.",
+        ""
+      ],
+      "Translation": [
+        "Well! It sounds like you all got",
+        "yourselves into a fine mess without",
+        "me ever realizing.",
+        "[Page]",
+        "",
+        "But... your job is to have adventures,",
+        "and mine is to keep you fed with",
+        "delicious meals.",
+        "[Page]",
+        "",
+        "I don't really need to know what",
+        "you're up to to do my part, do I? We",
+        "can go about our business as usual.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "You and I are the same as always,",
+        "but...",
+        "[Page]",
+        "",
+        "Is it just me, or is Yggdrasil more",
+        "beautiful than usual today?",
+        ""
+      ],
+      "Translation": [
+        "You and I are the same as always,",
+        "but...",
+        "[Page]",
+        "",
+        "Is it just me, or is Yggdrasil more",
+        "beautiful than usual today?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "Hm? Those clothes... Are you going",
+        "back out to explore some more?",
+        "[Page]",
+        "",
+        "But come on, what's left to do?",
+        "You already defeated the Titan and",
+        "conquered Yggdrasil.",
+        "[Page]",
+        "",
+        "Where else would you go... Oh? You",
+        "found a new labyrinth?",
+        "[Page]",
+        "",
+        "Goodness! Then I guess your days of",
+        "adventure really aren't over. I'll be",
+        "adventurous with tonight's meal, too!",
+        ""
+      ],
+      "Translation": [
+        "Hm? Those clothes... Are you going",
+        "back out to explore some more?",
+        "[Page]",
+        "",
+        "But come on, what's left to do?",
+        "You already defeated the Titan and",
+        "conquered Yggdrasil.",
+        "[Page]",
+        "",
+        "Where else would you go... Oh? You",
+        "found a new labyrinth?",
+        "[Page]",
+        "",
+        "Goodness! Then I guess your days of",
+        "adventure really aren't over. I'll be",
+        "adventurous with tonight's meal, too!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome to the Saehrimnir Inn! Tonight",
+        "we'll be serving Imperial-Style",
+        "Vegetable Stew, and... Hm?",
+        "[Page]",
+        "",
+        "Oh! Welcome back, dearies. I'm sorry",
+        "I've been so busy...",
+        "[Page]",
+        "",
+        "Since the Outland Count invited the",
+        "Imperials here, we've opened the inn",
+        "to them while their paperwork's done.",
+        "[Page]",
+        "",
+        "I'm practicing cooking dishes that",
+        "those Imperial people will like.",
+        "[Page]",
+        "",
+        "They seem nervous right now, poor",
+        "dears, but I think it won't be long",
+        "before they break out into smiles.",
+        ""
+      ],
+      "Translation": [
+        "Welcome to the Saehrimnir Inn! Tonight",
+        "we'll be serving Imperial-Style",
+        "Vegetable Stew, and... Hm?",
+        "[Page]",
+        "",
+        "Oh! Welcome back, dearies. I'm sorry",
+        "I've been so busy...",
+        "[Page]",
+        "",
+        "Since the Outland Count invited the",
+        "Imperials here, we've opened the inn",
+        "to them while their paperwork's done.",
+        "[Page]",
+        "",
+        "I'm practicing cooking dishes that",
+        "those Imperial people will like.",
+        "[Page]",
+        "",
+        "They seem nervous right now, poor",
+        "dears, but I think it won't be long",
+        "before they break out into smiles.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "G-Goodness! Did I hear right that",
+        "you'll be leaving Tharsis once you've",
+        "explored this newest labyrinth?",
+        "[Page]",
+        "",
+        "Oh my... I just thought that you'd",
+        "stay here in our city forever.",
+        "[Page]",
+        "",
+        "What should I do? I haven't thought",
+        "yet what I might give you as a",
+        "farewell gift.",
+        "[Page]",
+        "",
+        "Oh! I know! My pot!",
+        "[Page]",
+        "",
+        "It might not seem like much, but",
+        "please take this pot with you as a",
+        "souvenir of your time in Tharsis.",
+        "[Page]",
+        "",
+        "Ahahaha...",
+        ""
+      ],
+      "Translation": [
+        "G-Goodness! Did I hear right that",
+        "you'll be leaving Tharsis once you've",
+        "explored this newest labyrinth?",
+        "[Page]",
+        "",
+        "Oh my... I just thought that you'd",
+        "stay here in our city forever.",
+        "[Page]",
+        "",
+        "What should I do? I haven't thought",
+        "yet what I might give you as a",
+        "farewell gift.",
+        "[Page]",
+        "",
+        "Oh! I know! My pot!",
+        "[Page]",
+        "",
+        "It might not seem like much, but",
+        "please take this pot with you as a",
+        "souvenir of your time in Tharsis.",
+        "[Page]",
+        "",
+        "Ahahaha...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "As you enter the inn, you see the",
+        "innkeeper in the hall, chatting with",
+        "an unfamiliar face.",
+        ""
+      ],
+      "Translation": [
+        "As you enter the inn, you see the",
+        "innkeeper in the hall, chatting with",
+        "an unfamiliar face.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "\"You must be the [Guild] Guild.",
+        "We were speaking of your hard work",
+        "in exploring the small caves.",
+        "[Page]",
+        "",
+        "\"All of us in this city are grateful",
+        "for your contributions. The caves have",
+        "many rare and desirable materials.",
+        "[Page]",
+        "",
+        "\"The more of them you find, the more",
+        "we shall flourish. I hope that you",
+        "continue your efforts on our behalf.",
+        "[Page]",
+        "",
+        "\"Ah, have I not introduced myself?",
+        "I am Kirtida, owner of the Dancing",
+        "Peacock. I'd like it if you visited.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You must be the [Guild] Guild.",
+        "We were speaking of your hard work",
+        "in exploring the small caves.",
+        "[Page]",
+        "",
+        "\"All of us in this city are grateful",
+        "for your contributions. The caves have",
+        "many rare and desirable materials.",
+        "[Page]",
+        "",
+        "\"The more of them you find, the more",
+        "we shall flourish. I hope that you",
+        "continue your efforts on our behalf.",
+        "[Page]",
+        "",
+        "\"Ah, have I not introduced myself?",
+        "I am Kirtida, owner of the Dancing",
+        "Peacock. I'd like it if you visited.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "As you enter the inn, you see the",
+        "innkeeper in the hall, chatting with",
+        "a familiar face.",
+        ""
+      ],
+      "Translation": [
+        "As you enter the inn, you see the",
+        "innkeeper in the hall, chatting with",
+        "a familiar face.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, it is you. Welcome... I was",
+        "speaking with Dalla about your",
+        "[Guild] Guild.",
+        "[Page]",
+        "",
+        "\"It was nothing to be ashamed of...",
+        "You seem to be doing your all to search",
+        "the small caves that dot these lands.",
+        "[Page]",
+        "",
+        "\"All of us in this city are grateful",
+        "for your contributions. The caves have",
+        "many rare and desirable materials.",
+        "[Page]",
+        "",
+        "\"The more of them you find, the more",
+        "we shall flourish. I hope that you",
+        "continue your efforts on our behalf.",
+        "[Page]",
+        "",
+        "\"But now that Dalla has hungry mouths",
+        "to feed, I should return to my place",
+        "of work. Perhaps later, [Guild]...\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, it is you. Welcome... I was",
+        "speaking with Dalla about your",
+        "[Guild] Guild.",
+        "[Page]",
+        "",
+        "\"It was nothing to be ashamed of...",
+        "You seem to be doing your all to search",
+        "the small caves that dot these lands.",
+        "[Page]",
+        "",
+        "\"All of us in this city are grateful",
+        "for your contributions. The caves have",
+        "many rare and desirable materials.",
+        "[Page]",
+        "",
+        "\"The more of them you find, the more",
+        "we shall flourish. I hope that you",
+        "continue your efforts on our behalf.",
+        "[Page]",
+        "",
+        "\"But now that Dalla has hungry mouths",
+        "to feed, I should return to my place",
+        "of work. Perhaps later, [Guild]...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "Upon returning to the inn after a",
+        "venture out, you find the guildmaster",
+        "munching on a large piece of meat.",
+        ""
+      ],
+      "Translation": [
+        "Upon returning to the inn after a",
+        "venture out, you find the guildmaster",
+        "munching on a large piece of meat.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "\"Strange running into you here. Why",
+        "not try some of that one? No one cooks",
+        "finer water buffalo than Dalla.",
+        "[Page]",
+        "",
+        "\"That reminds me... I heard tell that",
+        "you've found quite a few caves",
+        "scattered across the Windy Plains.",
+        "[Page]",
+        "",
+        "\"It's hardly an exaggeration to call",
+        "that land the [Guild] Guild's",
+        "backyard...",
+        "[Page]",
+        "",
+        "\"When one chases a single objective,",
+        "it can be easy to lose sight of what's",
+        "important. Follow your curiosity.",
+        "[Page]",
+        "",
+        "\"That's the way of a real explorer.",
+        "Just keep doing what you're doing,",
+        "and things will work out.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Strange running into you here. Why",
+        "not try some of that one? No one cooks",
+        "finer water buffalo than Dalla.",
+        "[Page]",
+        "",
+        "\"That reminds me... I heard tell that",
+        "you've found quite a few caves",
+        "scattered across the Windy Plains.",
+        "[Page]",
+        "",
+        "\"It's hardly an exaggeration to call",
+        "that land the [Guild] Guild's",
+        "backyard...",
+        "[Page]",
+        "",
+        "\"When one chases a single objective,",
+        "it can be easy to lose sight of what's",
+        "important. Follow your curiosity.",
+        "[Page]",
+        "",
+        "\"That's the way of a real explorer.",
+        "Just keep doing what you're doing,",
+        "and things will work out.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "As you enter the inn to rest your",
+        "weary bodies, a knight in armor",
+        "passes before you.",
+        "[Page]",
+        "",
+        "When your eyes meet, the knight smiles",
+        "elegantly and turns to face you.",
+        ""
+      ],
+      "Translation": [
+        "As you enter the inn to rest your",
+        "weary bodies, a knight in armor",
+        "passes before you.",
+        "[Page]",
+        "",
+        "When your eyes meet, the knight smiles",
+        "elegantly and turns to face you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "\"You are Guild [Guild], I assume.",
+        "I have heard that you discovered many",
+        "dungeons in the Scarlet Pillars.",
+        "[Page]",
+        "",
+        "\"But excuse my manners. I am Kirjonen,",
+        "lowest of the Holy Rune Knights who",
+        "serve King Bjornstad.",
+        "[Page]",
+        "",
+        "\"It is my good fortune to meet such",
+        "renowned explorers. I was hoping that",
+        "our paths might cross.",
+        "[Page]",
+        "",
+        "\"If you see a blue-sailed skyship,",
+        "that will be mine. Feel free to hail",
+        "me in that event. Until then...\"",
+        ""
+      ],
+      "Translation": [
+        "\"You are Guild [Guild], I assume.",
+        "I have heard that you discovered many",
+        "dungeons in the Scarlet Pillars.",
+        "[Page]",
+        "",
+        "\"But excuse my manners. I am Kirjonen,",
+        "lowest of the Holy Rune Knights who",
+        "serve King Bjornstad.",
+        "[Page]",
+        "",
+        "\"It is my good fortune to meet such",
+        "renowned explorers. I was hoping that",
+        "our paths might cross.",
+        "[Page]",
+        "",
+        "\"If you see a blue-sailed skyship,",
+        "that will be mine. Feel free to hail",
+        "me in that event. Until then...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "As you enter the inn to rest your",
+        "weary bodies, a knight in armor",
+        "passes before you.",
+        "[Page]",
+        "",
+        "When your eyes meet, the knight smiles",
+        "elegantly and turns to face you. It is",
+        "Kirjonen of the Holy Rune Knights.",
+        ""
+      ],
+      "Translation": [
+        "As you enter the inn to rest your",
+        "weary bodies, a knight in armor",
+        "passes before you.",
+        "[Page]",
+        "",
+        "When your eyes meet, the knight smiles",
+        "elegantly and turns to face you. It is",
+        "Kirjonen of the Holy Rune Knights.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "\"How do you do, Guild [Guild]?",
+        "I've heard of the many labyrinths you",
+        "discovered in the Scarlet Pillars.",
+        "[Page]",
+        "",
+        "\"Each time, it helps me to focus; to",
+        "remind me that I still have much to",
+        "learn as an explorer.",
+        "[Page]",
+        "",
+        "\"I hope to someday follow your example",
+        "in terms of boldness and vitality.",
+        "Perhaps even lend you my strength.",
+        "[Page]",
+        "",
+        "\"I am glad we could speak in this way.",
+        "I have enjoyed this, Guild [Guild].",
+        "May we meet next time in the skies.\"",
+        ""
+      ],
+      "Translation": [
+        "\"How do you do, Guild [Guild]?",
+        "I've heard of the many labyrinths you",
+        "discovered in the Scarlet Pillars.",
+        "[Page]",
+        "",
+        "\"Each time, it helps me to focus; to",
+        "remind me that I still have much to",
+        "learn as an explorer.",
+        "[Page]",
+        "",
+        "\"I hope to someday follow your example",
+        "in terms of boldness and vitality.",
+        "Perhaps even lend you my strength.",
+        "[Page]",
+        "",
+        "\"I am glad we could speak in this way.",
+        "I have enjoyed this, Guild [Guild].",
+        "May we meet next time in the skies.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": false,
+      "Original": [
+        "A woman leaving the Saehrimnir Inn",
+        "calls out to you.",
+        "[Page]",
+        "",
+        "She wears a friendly smile, but you",
+        "do not recognize her. Her voice as",
+        "she speaks is strong and clear.",
+        ""
+      ],
+      "Translation": [
+        "A woman leaving the Saehrimnir Inn",
+        "calls out to you.",
+        "[Page]",
+        "",
+        "She wears a friendly smile, but you",
+        "do not recognize her. Her voice as",
+        "she speaks is strong and clear.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're... the [Guild] Guild, right?",
+        "Are you all done for today?",
+        "[Page]",
+        "",
+        "\"It's nice to meet you! I'm Wiglaf.",
+        "As you can tell, I'm an explorer too.",
+        "I've heard so many rumors about you...",
+        "[Page]",
+        "",
+        "\"Like all the dungeons you found in",
+        "the Sacred Mountains. You're really",
+        "hard workers, huh?",
+        "[Page]",
+        "",
+        "\"I gotta get going for today, but I'd",
+        "love to hear your stories some other",
+        "time! See you around!\"",
+        ""
+      ],
+      "Translation": [
+        "\"You're... the [Guild] Guild, right?",
+        "Are you all done for today?",
+        "[Page]",
+        "",
+        "\"It's nice to meet you! I'm Wiglaf.",
+        "As you can tell, I'm an explorer too.",
+        "I've heard so many rumors about you...",
+        "[Page]",
+        "",
+        "\"Like all the dungeons you found in",
+        "the Sacred Mountains. You're really",
+        "hard workers, huh?",
+        "[Page]",
+        "",
+        "\"I gotta get going for today, but I'd",
+        "love to hear your stories some other",
+        "time! See you around!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "A woman leaving the Saehrimnir Inn",
+        "calls out to you.",
+        "[Page]",
+        "",
+        "You recognize her friendly smile as",
+        "belonging to Wiglaf, the explorer",
+        "who flies a red-sailed skyship.",
+        ""
+      ],
+      "Translation": [
+        "A woman leaving the Saehrimnir Inn",
+        "calls out to you.",
+        "[Page]",
+        "",
+        "You recognize her friendly smile as",
+        "belonging to Wiglaf, the explorer",
+        "who flies a red-sailed skyship.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "\"Well, if it isn't the [Guild]",
+        "Guild! Are you all done for today?",
+        "[Page]",
+        "",
+        "\"If you've found half the dungeons in",
+        "the Sacred Mountains that I heard you",
+        "did, you're some pretty hard workers.",
+        "[Page]",
+        "",
+        "\"Think I'll check out that Underground",
+        "Lake for myself next time. It's always",
+        "exciting to go into a new labyrinth.",
+        "[Page]",
+        "",
+        "\"Oh, but I should get going. Sorry to",
+        "bother you when you're tired! Let's",
+        "share a bite to eat next time!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Well, if it isn't the [Guild]",
+        "Guild! Are you all done for today?",
+        "[Page]",
+        "",
+        "\"If you've found half the dungeons in",
+        "the Sacred Mountains that I heard you",
+        "did, you're some pretty hard workers.",
+        "[Page]",
+        "",
+        "\"Think I'll check out that Underground",
+        "Lake for myself next time. It's always",
+        "exciting to go into a new labyrinth.",
+        "[Page]",
+        "",
+        "\"Oh, but I should get going. Sorry to",
+        "bother you when you're tired! Let's",
+        "share a bite to eat next time!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": false,
+      "Original": [
+        "You enter the Saehrimnir Inn to rest",
+        "from exhaustion and find a familiar",
+        "girl stuffing herself with fruit.",
+        ""
+      ],
+      "Translation": [
+        "You enter the Saehrimnir Inn to rest",
+        "from exhaustion and find a familiar",
+        "girl stuffing herself with fruit.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "\"*omf* *hormf* Oh! It's da [Guild]",
+        "crew! I heard yas found lotsa new",
+        "places in da Cloudy Stronghold.",
+        "[Page]",
+        "",
+        "\"Just getting dere is hard enough,",
+        "but dat ain't enough for you guys!",
+        "Pretty sweet.",
+        "[Page]",
+        "",
+        "\"Tanks ta dat, we gotta ton of new",
+        "junk ta play with here in Tharsis!",
+        "We owe ya one!",
+        "[Page]",
+        "",
+        "\"I'ma do my best ta help out da boss",
+        "so I don't fall behind. Come an check",
+        "out our new stuff at da atelier!",
+        "[Page]",
+        "",
+        "\"Whups! Snacktime's over already!",
+        "Seeyas, [Guild]!\"",
+        ""
+      ],
+      "Translation": [
+        "\"*omf* *hormf* Oh! It's da [Guild]",
+        "crew! I heard yas found lotsa new",
+        "places in da Cloudy Stronghold.",
+        "[Page]",
+        "",
+        "\"Just getting dere is hard enough,",
+        "but dat ain't enough for you guys!",
+        "Pretty sweet.",
+        "[Page]",
+        "",
+        "\"Tanks ta dat, we gotta ton of new",
+        "junk ta play with here in Tharsis!",
+        "We owe ya one!",
+        "[Page]",
+        "",
+        "\"I'ma do my best ta help out da boss",
+        "so I don't fall behind. Come an check",
+        "out our new stuff at da atelier!",
+        "[Page]",
+        "",
+        "\"Whups! Snacktime's over already!",
+        "Seeyas, [Guild]!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2453 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_41F",
+  "RelativePath": "Event\\Dungeon\\DUN_41F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "As you steadily put one foot in front",
+        "of the other, you gradually become",
+        "aware of a dread presence.",
+        ""
+      ],
+      "Translation": [
+        "As you steadily put one foot in front",
+        "of the other, you gradually become",
+        "aware of a dread presence.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "A monstrous baboon slowly approaches",
+        "from the other end of the path with",
+        "cruelty on its face!",
+        "[Page]",
+        "",
+        "You know that there is no shame in",
+        "avoiding unnecessary combat... A wise",
+        "explorer picks his battles.",
+        "[Page]",
+        "",
+        "If you wish to avoid an encounter,",
+        "[Color:5]study the monster's movements[Color:0] and",
+        "slip past it!",
+        ""
+      ],
+      "Translation": [
+        "A monstrous baboon slowly approaches",
+        "from the other end of the path with",
+        "cruelty on its face!",
+        "[Page]",
+        "",
+        "You know that there is no shame in",
+        "avoiding unnecessary combat... A wise",
+        "explorer picks his battles.",
+        "[Page]",
+        "",
+        "If you wish to avoid an encounter,",
+        "[Color:5]study the monster's movements[Color:0] and",
+        "slip past it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]End the explanation?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]End the explanation?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]FOEs will also [Color:5]move once for every",
+        "turn that passes in battle[Color:3]. Be aware",
+        "of their position during combat.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]FOEs will also [Color:5]move once for every",
+        "turn that passes in battle[Color:3]. Be aware",
+        "of their position during combat.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "When you open the door, you see an",
+        "open clearing past it.",
+        ""
+      ],
+      "Translation": [
+        "When you open the door, you see an",
+        "open clearing past it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "If your map is accurate, then the",
+        "[Color:6][Item:1173][Color:0] can be mined at the",
+        "shining spot ahead.",
+        "[Page]",
+        "",
+        "But have a care! The wandering beasts",
+        "will hunt you mercilessly even while",
+        "you mine for minerals!",
+        ""
+      ],
+      "Translation": [
+        "If your map is accurate, then the",
+        "[Color:6][Item:1173][Color:0] can be mined at the",
+        "shining spot ahead.",
+        "[Page]",
+        "",
+        "But have a care! The wandering beasts",
+        "will hunt you mercilessly even while",
+        "you mine for minerals!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Press the [Color:5]A Button[Color:3] where the ground",
+        "sparkles to [Color:5]Take, Chop, or Mine[Color:3]",
+        "valuable raw materials.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]There is a limit to how many times you can",
+        "Take, Chop, or Mine a point per day, but",
+        "the limit resets the next day.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Make good use of these skills during",
+        "your adventures.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Press the [Color:5]A Button[Color:3] where the ground",
+        "sparkles to [Color:5]Take, Chop, or Mine[Color:3]",
+        "valuable raw materials.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]There is a limit to how many times you can",
+        "Take, Chop, or Mine a point per day, but",
+        "the limit resets the next day.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Make good use of these skills during",
+        "your adventures.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "As you explore the forest in search",
+        "of [Color:6][Item:1173][Color:0], you notice that you",
+        "have stepped on something.",
+        "[Page]",
+        "",
+        "You pick it up and see that it is a",
+        "shining, golden locket, with space",
+        "for a small picture inside.",
+        "[Page]",
+        "",
+        "Could another explorer have dropped",
+        "this...? If you are curious, you can",
+        "try opening the locket.",
+        ""
+      ],
+      "Translation": [
+        "As you explore the forest in search",
+        "of [Color:6][Item:1173][Color:0], you notice that you",
+        "have stepped on something.",
+        "[Page]",
+        "",
+        "You pick it up and see that it is a",
+        "shining, golden locket, with space",
+        "for a small picture inside.",
+        "[Page]",
+        "",
+        "Could another explorer have dropped",
+        "this...? If you are curious, you can",
+        "try opening the locket.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Open the locket?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Open the locket?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Just as you are about to open the",
+        "locket's clasp, someone speaks to you",
+        "from behind.",
+        "[Page]",
+        "",
+        "\"Sorry, but you mind leaving that",
+        "alone? I'm a little embarrassed to",
+        "let anyone else see it.\"",
+        ""
+      ],
+      "Translation": [
+        "Just as you are about to open the",
+        "locket's clasp, someone speaks to you",
+        "from behind.",
+        "[Page]",
+        "",
+        "\"Sorry, but you mind leaving that",
+        "alone? I'm a little embarrassed to",
+        "let anyone else see it.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Just as you are wondering what to do",
+        "with the locket, someone speaks to you",
+        "from behind.",
+        "[Page]",
+        "",
+        "\"Found that for me, did you? Thanks,",
+        "I've been looking all over for it.\"",
+        ""
+      ],
+      "Translation": [
+        "Just as you are wondering what to do",
+        "with the locket, someone speaks to you",
+        "from behind.",
+        "[Page]",
+        "",
+        "\"Found that for me, did you? Thanks,",
+        "I've been looking all over for it.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "You turn to see a sleepy-looking man",
+        "with a sack over his shoulder. His",
+        "attire marks him as a fellow explorer.",
+        "[Page]",
+        "",
+        "You hand the locket to the man, who",
+        "seems to be a friendly sort. He asks",
+        "the name of your guild.",
+        "[Page]",
+        "",
+        "\"Me, I'm Whirlwind,\" he says. \"Though",
+        "that's really just a nickname...",
+        "Nice meeting you, [Guild] Guild.",
+        "[Page]",
+        "",
+        "\"You're here for some [Color:6][Item:1173][Color:0]?",
+        "Yeah, I think there's still some to",
+        "be had in this Old Forest Mine.",
+        "[Page]",
+        "",
+        "\"How do I know? Because I'm the one",
+        "who found it in the first place.",
+        "[Page]",
+        "",
+        "\"Here, maybe this'll help.\" The man",
+        "takes a parchment from his belongings",
+        "and hands it to you.",
+        "[Page]",
+        "",
+        "\"I sketched in where you can find the",
+        "[Color:6][Item:1173][Color:0]. I hope that helps",
+        "point you in the right direction.",
+        "[Page]",
+        "",
+        "\"Hm? The map's only half done? Well,",
+        "that makes this a great chance to",
+        "learn to draw your own!\"",
+        "[Page]",
+        "",
+        "With that, the man points to the blank",
+        "map you've opened and explains how to",
+        "draw in it...",
+        ""
+      ],
+      "Translation": [
+        "You turn to see a sleepy-looking man",
+        "with a sack over his shoulder. His",
+        "attire marks him as a fellow explorer.",
+        "[Page]",
+        "",
+        "You hand the locket to the man, who",
+        "seems to be a friendly sort. He asks",
+        "the name of your guild.",
+        "[Page]",
+        "",
+        "\"Me, I'm Whirlwind,\" he says. \"Though",
+        "that's really just a nickname...",
+        "Nice meeting you, [Guild] Guild.",
+        "[Page]",
+        "",
+        "\"You're here for some [Color:6][Item:1173][Color:0]?",
+        "Yeah, I think there's still some to",
+        "be had in this Old Forest Mine.",
+        "[Page]",
+        "",
+        "\"How do I know? Because I'm the one",
+        "who found it in the first place.",
+        "[Page]",
+        "",
+        "\"Here, maybe this'll help.\" The man",
+        "takes a parchment from his belongings",
+        "and hands it to you.",
+        "[Page]",
+        "",
+        "\"I sketched in where you can find the",
+        "[Color:6][Item:1173][Color:0]. I hope that helps",
+        "point you in the right direction.",
+        "[Page]",
+        "",
+        "\"Hm? The map's only half done? Well,",
+        "that makes this a great chance to",
+        "learn to draw your own!\"",
+        "[Page]",
+        "",
+        "With that, the man points to the blank",
+        "map you've opened and explains how to",
+        "draw in it...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The dungeons in this game have complex",
+        "and winding layouts. Fortunately, you",
+        "can map them on the bottom screen.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Try and reproduce the walls and floors",
+        "as you walk through the dungeon. Your",
+        "map is an invaluable survival tool.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The dungeons in this game have complex",
+        "and winding layouts. Fortunately, you",
+        "can map them on the bottom screen.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Try and reproduce the walls and floors",
+        "as you walk through the dungeon. Your",
+        "map is an invaluable survival tool.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]End the explanation?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]End the explanation?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "\"How 'bout it? Think you can draw",
+        "your own? Don't worry, if I can do",
+        "it, anyone can!\"",
+        "[Page]",
+        "",
+        "The man laughs, though you are not",
+        "sure this is a joking matter.",
+        "[Page]",
+        "",
+        "\"But seriously, you need to learn to",
+        "draw a map if you're going to chase",
+        "Yggdrasil. That map's your lifeline.",
+        "[Page]",
+        "",
+        "\"When you think you're done with your",
+        "map of this [Color:5]Old Forest Mine[Color:0], bring it",
+        "here and I'll look it over for you.",
+        ""
+      ],
+      "Translation": [
+        "\"How 'bout it? Think you can draw",
+        "your own? Don't worry, if I can do",
+        "it, anyone can!\"",
+        "[Page]",
+        "",
+        "The man laughs, though you are not",
+        "sure this is a joking matter.",
+        "[Page]",
+        "",
+        "\"But seriously, you need to learn to",
+        "draw a map if you're going to chase",
+        "Yggdrasil. That map's your lifeline.",
+        "[Page]",
+        "",
+        "\"When you think you're done with your",
+        "map of this [Color:5]Old Forest Mine[Color:0], bring it",
+        "here and I'll look it over for you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "\"I'll be at the entrance.\" The man",
+        "then parts with you and walks back the",
+        "way he came...",
+        "[Page]",
+        "",
+        "You glance at the map he gave you and",
+        "decide to begin your search anew.",
+        ""
+      ],
+      "Translation": [
+        "\"I'll be at the entrance.\" The man",
+        "then parts with you and walks back the",
+        "way he came...",
+        "[Page]",
+        "",
+        "You glance at the map he gave you and",
+        "decide to begin your search anew.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You find the explorer Whirlwind, who",
+        "gave you your map, standing at the",
+        "edge of an open clearing.",
+        "[Page]",
+        "",
+        "If you wish, you can have him review",
+        "the completed map you've drawn.",
+        ""
+      ],
+      "Translation": [
+        "You find the explorer Whirlwind, who",
+        "gave you your map, standing at the",
+        "edge of an open clearing.",
+        "[Page]",
+        "",
+        "If you wish, you can have him review",
+        "the completed map you've drawn.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Show him your completed map?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Show him your completed map?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Whirlwind studies your map intently",
+        "for some time, but eventually his",
+        "face brightens and he addresses you.",
+        "[Page]",
+        "",
+        "\"This is nicely done, considering the",
+        "time it took. I'm surprised how well",
+        "drawn it is! Looks complete to me.",
+        "[Page]",
+        "",
+        "\"This is your map and yours alone.",
+        "You never know when you might need it",
+        "again, so take good care of it.\"",
+        ""
+      ],
+      "Translation": [
+        "Whirlwind studies your map intently",
+        "for some time, but eventually his",
+        "face brightens and he addresses you.",
+        "[Page]",
+        "",
+        "\"This is nicely done, considering the",
+        "time it took. I'm surprised how well",
+        "drawn it is! Looks complete to me.",
+        "[Page]",
+        "",
+        "\"This is your map and yours alone.",
+        "You never know when you might need it",
+        "again, so take good care of it.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "\"You get yourself some [Color:6][Item:1173][Color:0]?",
+        "I thought so, since you seemed so",
+        "pleased.",
+        "[Page]",
+        "",
+        "\"Anyway, that wraps it up for your",
+        "mission.\" The man congratulates you",
+        "and you thank him before parting ways.",
+        ""
+      ],
+      "Translation": [
+        "\"You get yourself some [Color:6][Item:1173][Color:0]?",
+        "I thought so, since you seemed so",
+        "pleased.",
+        "[Page]",
+        "",
+        "\"Anyway, that wraps it up for your",
+        "mission.\" The man congratulates you",
+        "and you thank him before parting ways.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "\"All you need to do now is get you",
+        "some [Color:6][Item:1173][Color:0]. Don't worry,",
+        "just follow your map right to it.",
+        "[Page]",
+        "",
+        "The sleepy-looking man gives you an",
+        "encouraging smile. You must resume",
+        "your search for [Color:6][Item:1173][Color:0]...",
+        ""
+      ],
+      "Translation": [
+        "\"All you need to do now is get you",
+        "some [Color:6][Item:1173][Color:0]. Don't worry,",
+        "just follow your map right to it.",
+        "[Page]",
+        "",
+        "The sleepy-looking man gives you an",
+        "encouraging smile. You must resume",
+        "your search for [Color:6][Item:1173][Color:0]...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "The man eventually looks up from the",
+        "map and shakes his head.",
+        "[Page]",
+        "",
+        "\"Sorry to say, but you're not done",
+        "yet. No need to be hasty, though. Take",
+        "your time and be thorough.",
+        "[Page]",
+        "",
+        "\"Be sure you check for secret paths",
+        "and dead ends. If you draw in the",
+        "walls, that'll make it easier later.\"",
+        "[Page]",
+        "",
+        "With that, the man hands the map back",
+        "to you. You should add to it before",
+        "having him review it again...",
+        ""
+      ],
+      "Translation": [
+        "The man eventually looks up from the",
+        "map and shakes his head.",
+        "[Page]",
+        "",
+        "\"Sorry to say, but you're not done",
+        "yet. No need to be hasty, though. Take",
+        "your time and be thorough.",
+        "[Page]",
+        "",
+        "\"Be sure you check for secret paths",
+        "and dead ends. If you draw in the",
+        "walls, that'll make it easier later.\"",
+        "[Page]",
+        "",
+        "With that, the man hands the map back",
+        "to you. You should add to it before",
+        "having him review it again...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "You feel that there is no need yet",
+        "and pass by the man in order to",
+        "continue your explorations.",
+        ""
+      ],
+      "Translation": [
+        "You feel that there is no need yet",
+        "and pass by the man in order to",
+        "continue your explorations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Whirlwind has already verified that",
+        "your map is complete... You have no",
+        "further business with him.",
+        ""
+      ],
+      "Translation": [
+        "Whirlwind has already verified that",
+        "your map is complete... You have no",
+        "further business with him.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, hey guys. Want me to take a",
+        "look at that map? Alright, let's",
+        "see here...\"",
+        "[Page]",
+        "",
+        "You hand him your map and he pores",
+        "over it to verify its accuracy...",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, hey guys. Want me to take a",
+        "look at that map? Alright, let's",
+        "see here...\"",
+        "[Page]",
+        "",
+        "You hand him your map and he pores",
+        "over it to verify its accuracy...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "As you explore the mine, you find a",
+        "fan-shaped plant at a dead end.",
+        "[Page]",
+        "",
+        "This is a plant called a Traveller's",
+        "Friend, prized by explorers for the",
+        "way it stores water in its stalks.",
+        "[Page]",
+        "",
+        "If you are thirsty, you can nibble at",
+        "the stalk, though if you are wary of",
+        "monsters, you may wish to leave.",
+        ""
+      ],
+      "Translation": [
+        "As you explore the mine, you find a",
+        "fan-shaped plant at a dead end.",
+        "[Page]",
+        "",
+        "This is a plant called a Traveller's",
+        "Friend, prized by explorers for the",
+        "way it stores water in its stalks.",
+        "[Page]",
+        "",
+        "If you are thirsty, you can nibble at",
+        "the stalk, though if you are wary of",
+        "monsters, you may wish to leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Try nibbling the stalk?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Try nibbling the stalk?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "More out of curiosity than actual",
+        "thirst, you decide to nibble the stalk",
+        "of the Traveller's Friend.",
+        "[Page]",
+        "",
+        "The water stored within has a raw",
+        "smell to it, but it still helps to",
+        "alleviate some of your exhaustion.",
+        ""
+      ],
+      "Translation": [
+        "More out of curiosity than actual",
+        "thirst, you decide to nibble the stalk",
+        "of the Traveller's Friend.",
+        "[Page]",
+        "",
+        "The water stored within has a raw",
+        "smell to it, but it still helps to",
+        "alleviate some of your exhaustion.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 15 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 15 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Satisfied with the forest's modest",
+        "gift, you turn back to resume your",
+        "explorations.",
+        ""
+      ],
+      "Translation": [
+        "Satisfied with the forest's modest",
+        "gift, you turn back to resume your",
+        "explorations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Only then do you realize that terrible",
+        "insects have gathered, clicking their",
+        "jaws menacingly at you.",
+        "[Page]",
+        "",
+        "The brief succour was well-timed!",
+        "You take your weapons to hand and",
+        "prepare for battle!",
+        ""
+      ],
+      "Translation": [
+        "Only then do you realize that terrible",
+        "insects have gathered, clicking their",
+        "jaws menacingly at you.",
+        "[Page]",
+        "",
+        "The brief succour was well-timed!",
+        "You take your weapons to hand and",
+        "prepare for battle!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "There are many appealing things to",
+        "draw your attention in the forest,",
+        "but do not be blind to the danger.",
+        "[Page]",
+        "",
+        "You take that thought to heart and",
+        "resume your search with even more",
+        "care than before.",
+        ""
+      ],
+      "Translation": [
+        "There are many appealing things to",
+        "draw your attention in the forest,",
+        "but do not be blind to the danger.",
+        "[Page]",
+        "",
+        "You take that thought to heart and",
+        "resume your search with even more",
+        "care than before.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "If this plant is attractive to humans,",
+        "it would be equally so for monsters...",
+        "Thinking this, you turn away.",
+        ""
+      ],
+      "Translation": [
+        "If this plant is attractive to humans,",
+        "it would be equally so for monsters...",
+        "Thinking this, you turn away.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "Unfortunately, you turn directly into",
+        "a horde of terrible insects!",
+        "[Page]",
+        "",
+        "However, your caution has enabled you",
+        "to catch the monsters unawares! You",
+        "take up arms and prepare for battle!",
+        ""
+      ],
+      "Translation": [
+        "Unfortunately, you turn directly into",
+        "a horde of terrible insects!",
+        "[Page]",
+        "",
+        "However, your caution has enabled you",
+        "to catch the monsters unawares! You",
+        "take up arms and prepare for battle!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "After successfully vanquishing the",
+        "terrible insects, you decide to leave",
+        "at once before more can arrive.",
+        ""
+      ],
+      "Translation": [
+        "After successfully vanquishing the",
+        "terrible insects, you decide to leave",
+        "at once before more can arrive.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk cautiously through the",
+        "forest mine, you notice an old, wooden",
+        "sign at the side of the path.",
+        "[Page]",
+        "",
+        "Did another explorer leave this...?",
+        "The sign begins, \"Caution!\" in large,",
+        "bold letters. You read further...",
+        "[Page]",
+        "",
+        "\"From here on lurk monsters of the old",
+        "mine! Those who mistake recklessness",
+        "for courage will meet Death!\"",
+        ""
+      ],
+      "Translation": [
+        "As you walk cautiously through the",
+        "forest mine, you notice an old, wooden",
+        "sign at the side of the path.",
+        "[Page]",
+        "",
+        "Did another explorer leave this...?",
+        "The sign begins, \"Caution!\" in large,",
+        "bold letters. You read further...",
+        "[Page]",
+        "",
+        "\"From here on lurk monsters of the old",
+        "mine! Those who mistake recklessness",
+        "for courage will meet Death!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "You step into an open clearing in",
+        "the forest and encounter a soldier",
+        "standing to one side.",
+        ""
+      ],
+      "Translation": [
+        "You step into an open clearing in",
+        "the forest and encounter a soldier",
+        "standing to one side.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier, upon noticing you, hails",
+        "you with a friendly wave. \"Hi there.",
+        "Here on a mission?\"",
+        "[Page]",
+        "",
+        "\"I came to investigate this place,",
+        "but honestly, all these baboons are",
+        "wearing me out. Aren't you tired too?\"",
+        ""
+      ],
+      "Translation": [
+        "The soldier, upon noticing you, hails",
+        "you with a friendly wave. \"Hi there.",
+        "Here on a mission?\"",
+        "[Page]",
+        "",
+        "\"I came to investigate this place,",
+        "but honestly, all these baboons are",
+        "wearing me out. Aren't you tired too?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Tell him that you're tired?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Tell him that you're tired?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": false,
+      "Original": [
+        "When you reply honestly that you are",
+        "feeling some fatigue, the soldier",
+        "smiles and hands you a tonic.",
+        "[Page]",
+        "",
+        "\"Here, a gift. Drink that and you'll",
+        "feel better. But if things turn sour,",
+        "don't hesitate go back to Tharsis.",
+        "[Page]",
+        "",
+        "You thank the soldier, but he holds up",
+        "a hand to ward off any praise. \"Good",
+        "luck out there,\" he says, and leaves.",
+        ""
+      ],
+      "Translation": [
+        "When you reply honestly that you are",
+        "feeling some fatigue, the soldier",
+        "smiles and hands you a tonic.",
+        "[Page]",
+        "",
+        "\"Here, a gift. Drink that and you'll",
+        "feel better. But if things turn sour,",
+        "don't hesitate go back to Tharsis.",
+        "[Page]",
+        "",
+        "You thank the soldier, but he holds up",
+        "a hand to ward off any praise. \"Good",
+        "luck out there,\" he says, and leaves.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": false,
+      "Original": [
+        "When you shake your head, the soldier",
+        "only laughs and hands you a tonic.",
+        "[Page]",
+        "",
+        "\"Trust me, it'll only get worse from",
+        "here out. You'll be wanting this.",
+        "[Page]",
+        "",
+        "\"I honestly hope that I'm worrying",
+        "over nothing,\" he laughs, and then",
+        "waves to you before walking off.",
+        ""
+      ],
+      "Translation": [
+        "When you shake your head, the soldier",
+        "only laughs and hands you a tonic.",
+        "[Page]",
+        "",
+        "\"Trust me, it'll only get worse from",
+        "here out. You'll be wanting this.",
+        "[Page]",
+        "",
+        "\"I honestly hope that I'm worrying",
+        "over nothing,\" he laughs, and then",
+        "waves to you before walking off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": false,
+      "Original": [
+        "You stow the tonic in your knapsack",
+        "and pick up your explorations where",
+        "you had left off.",
+        ""
+      ],
+      "Translation": [
+        "You stow the tonic in your knapsack",
+        "and pick up your explorations where",
+        "you had left off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "When you reach the entrance of the",
+        "Old Forest Mine, you spot a man",
+        "resting on a fallen tree.",
+        ""
+      ],
+      "Translation": [
+        "When you reach the entrance of the",
+        "Old Forest Mine, you spot a man",
+        "resting on a fallen tree.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, you again. Making any headway?\"",
+        "he asks. It is the explorer who calls",
+        "himself Whirlwind.",
+        "[Page]",
+        "",
+        "\"Heads up... I think there's a",
+        "[Color:5][Enemy1:123][Color:0] up ahead. How about it?",
+        "Think you can get past him?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, you again. Making any headway?\"",
+        "he asks. It is the explorer who calls",
+        "himself Whirlwind.",
+        "[Page]",
+        "",
+        "\"Heads up... I think there's a",
+        "[Color:5][Enemy1:123][Color:0] up ahead. How about it?",
+        "Think you can get past him?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]How will you respond?[Color:0]",
+        "Tell him you'll be fine",
+        "Seek his counsel",
+        "Stay silent",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]How will you respond?[Color:0]",
+        "Tell him you'll be fine",
+        "Seek his counsel",
+        "Stay silent",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "The man smiles to hear your answer.",
+        "\"Good! Glad to hear it.",
+        "[Page]",
+        "",
+        "\"But overconfidence can be a killer.",
+        "The [Enemy1:123] isn't like other",
+        "monsters. It's very, very dangerous.",
+        "[Page]",
+        "",
+        "\"Still, it's not the most aggressive",
+        "critter. So long as you [Color:5]don't stand",
+        "in front of it[Color:0], it won't bother you.",
+        "[Page]",
+        "",
+        "\"But yeah... I wouldn't recommend",
+        "picking a fight with it for now.\"",
+        ""
+      ],
+      "Translation": [
+        "The man smiles to hear your answer.",
+        "\"Good! Glad to hear it.",
+        "[Page]",
+        "",
+        "\"But overconfidence can be a killer.",
+        "The [Enemy1:123] isn't like other",
+        "monsters. It's very, very dangerous.",
+        "[Page]",
+        "",
+        "\"Still, it's not the most aggressive",
+        "critter. So long as you [Color:5]don't stand",
+        "in front of it[Color:0], it won't bother you.",
+        "[Page]",
+        "",
+        "\"But yeah... I wouldn't recommend",
+        "picking a fight with it for now.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "The man smiles to hear your answer.",
+        "\"You came to the right guy.\"",
+        "[Page]",
+        "",
+        "\"That critter might look like it's",
+        "spoiling for a fight... but actually,",
+        "it's not especially hostile.",
+        "[Page]",
+        "",
+        "\"It just wants to do what it's doing.",
+        "You can make all the ruckus you want",
+        "near it, and it won't give a damn.",
+        "[Page]",
+        "",
+        "\"So what you wanna do is [Color:5]follow it",
+        "from behind[Color:0] when its back is turned.",
+        "Then scoot into an alley and presto.\"",
+        ""
+      ],
+      "Translation": [
+        "The man smiles to hear your answer.",
+        "\"You came to the right guy.\"",
+        "[Page]",
+        "",
+        "\"That critter might look like it's",
+        "spoiling for a fight... but actually,",
+        "it's not especially hostile.",
+        "[Page]",
+        "",
+        "\"It just wants to do what it's doing.",
+        "You can make all the ruckus you want",
+        "near it, and it won't give a damn.",
+        "[Page]",
+        "",
+        "\"So what you wanna do is [Color:5]follow it",
+        "from behind[Color:0] when its back is turned.",
+        "Then scoot into an alley and presto.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hm? I didn't offend you somehow,",
+        "did I?\" The man smiles wryly at your",
+        "standoffishness.",
+        "[Page]",
+        "",
+        "\"The [Enemy1:123]'s one mean cuss.",
+        "It can be a major threat for explorers",
+        "who are just learning the ropes.",
+        "[Page]",
+        "",
+        "\"Still, it's not the most aggressive",
+        "critter. So long as you [Color:5]don't stand",
+        "in front of it[Color:0], it won't bother you.",
+        "[Page]",
+        "",
+        "\"But yeah... I wouldn't recommend",
+        "picking a fight with it for now.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hm? I didn't offend you somehow,",
+        "did I?\" The man smiles wryly at your",
+        "standoffishness.",
+        "[Page]",
+        "",
+        "\"The [Enemy1:123]'s one mean cuss.",
+        "It can be a major threat for explorers",
+        "who are just learning the ropes.",
+        "[Page]",
+        "",
+        "\"Still, it's not the most aggressive",
+        "critter. So long as you [Color:5]don't stand",
+        "in front of it[Color:0], it won't bother you.",
+        "[Page]",
+        "",
+        "\"But yeah... I wouldn't recommend",
+        "picking a fight with it for now.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "You say your farewells to each other.",
+        "Now... how to proceed from here?",
+        "[Page]",
+        "",
+        "You could always [Color:5]return to Tharsis",
+        "for now[Color:0], though the far reaches of",
+        "the labyrinth beckon...",
+        ""
+      ],
+      "Translation": [
+        "You say your farewells to each other.",
+        "Now... how to proceed from here?",
+        "[Page]",
+        "",
+        "You could always [Color:5]return to Tharsis",
+        "for now[Color:0], though the far reaches of",
+        "the labyrinth beckon...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

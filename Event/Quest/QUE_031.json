@@ -1,0 +1,1183 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_031",
+  "RelativePath": "Event\\Quest\\QUE_031.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "This request is from Wynne at the",
+        "Berund Atelier. Have you heard the",
+        "rumor flying around about fairies?",
+        "[Page]",
+        "",
+        "They allegedly have been seen on the",
+        "[Color:5]second floor[Color:0] of the [Color:5]Echoing Library[Color:0]",
+        "at [Color:5]night[Color:0].",
+        "[Page]",
+        "",
+        "She wants you to find the truth of",
+        "these rumors. Perhaps you could bring",
+        "back a bellflower?",
+        "[Page]",
+        "",
+        "Oh, yes... When she posted it, she",
+        "seemed to want to hand something to",
+        "me. However...",
+        "[Page]",
+        "",
+        "Before I could accept it, she ran off.",
+        "If you are curious, I suggest visiting",
+        "the Berund Atelier to make inquiries.",
+        ""
+      ],
+      "Translation": [
+        "This request is from Wynne at the",
+        "Berund Atelier. Have you heard the",
+        "rumor flying around about fairies?",
+        "[Page]",
+        "",
+        "They allegedly have been seen on the",
+        "[Color:5]second floor[Color:0] of the [Color:5]Echoing Library[Color:0]",
+        "at [Color:5]night[Color:0].",
+        "[Page]",
+        "",
+        "She wants you to find the truth of",
+        "these rumors. Perhaps you could bring",
+        "back a bellflower?",
+        "[Page]",
+        "",
+        "Oh, yes... When she posted it, she",
+        "seemed to want to hand something to",
+        "me. However...",
+        "[Page]",
+        "",
+        "Before I could accept it, she ran off.",
+        "If you are curious, I suggest visiting",
+        "the Berund Atelier to make inquiries.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. So? Were there indeed",
+        "fairies in the Library?",
+        "[Page]",
+        "",
+        "Oh, what a precious flower. So it was",
+        "a mistake? To me, this flower's radiant",
+        "pollen is impressive enough.",
+        "[Page]",
+        "",
+        "I admit to being curious, so I did",
+        "some research of my own after you",
+        "left this establishment.",
+        "[Page]",
+        "",
+        "In some folklore, fairies hide in the",
+        "bellflowers. What a captivating story.",
+        "[Page]",
+        "",
+        "It's a little sad, but I am sure she",
+        "will understand if you take that",
+        "flower to her.",
+        "[Page]",
+        "",
+        "Now then, I again thank you for your",
+        "hard work. Here is the reward, and I",
+        "hope to have your help next time.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. So? Were there indeed",
+        "fairies in the Library?",
+        "[Page]",
+        "",
+        "Oh, what a precious flower. So it was",
+        "a mistake? To me, this flower's radiant",
+        "pollen is impressive enough.",
+        "[Page]",
+        "",
+        "I admit to being curious, so I did",
+        "some research of my own after you",
+        "left this establishment.",
+        "[Page]",
+        "",
+        "In some folklore, fairies hide in the",
+        "bellflowers. What a captivating story.",
+        "[Page]",
+        "",
+        "It's a little sad, but I am sure she",
+        "will understand if you take that",
+        "flower to her.",
+        "[Page]",
+        "",
+        "Now then, I again thank you for your",
+        "hard work. Here is the reward, and I",
+        "hope to have your help next time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. You look proud of",
+        "yourselves... Was there a fairy?",
+        "[Page]",
+        "",
+        "Hm? This was left behind? Is it a",
+        "ring? No... Oh!",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. You look proud of",
+        "yourselves... Was there a fairy?",
+        "[Page]",
+        "",
+        "Hm? This was left behind? Is it a",
+        "ring? No... Oh!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Gracious... so that's what happened.",
+        "I definitely do not think this was",
+        "made by human hands.",
+        "[Page]",
+        "",
+        "But you never know what might dwell",
+        "in an unknown labyrinth.",
+        "[Page]",
+        "",
+        "There were Vessels in this world, and",
+        "Sentinels as well. Why not a fairy",
+        "or two?",
+        "[Page]",
+        "",
+        "I am glad, though. I didn't want to",
+        "disappoint her by giving her nothing",
+        "but a bellflower.",
+        "[Page]",
+        "",
+        "She had a keen eye to choose the",
+        "[Guild] Guild. Just what I'd expect",
+        "from our beloved Atelier girl.",
+        "[Page]",
+        "",
+        "Now then, I again thank you for your",
+        "hard work. Here is the reward, and I",
+        "hope to have your help next time.",
+        ""
+      ],
+      "Translation": [
+        "Gracious... so that's what happened.",
+        "I definitely do not think this was",
+        "made by human hands.",
+        "[Page]",
+        "",
+        "But you never know what might dwell",
+        "in an unknown labyrinth.",
+        "[Page]",
+        "",
+        "There were Vessels in this world, and",
+        "Sentinels as well. Why not a fairy",
+        "or two?",
+        "[Page]",
+        "",
+        "I am glad, though. I didn't want to",
+        "disappoint her by giving her nothing",
+        "but a bellflower.",
+        "[Page]",
+        "",
+        "She had a keen eye to choose the",
+        "[Guild] Guild. Just what I'd expect",
+        "from our beloved Atelier girl.",
+        "[Page]",
+        "",
+        "Now then, I again thank you for your",
+        "hard work. Here is the reward, and I",
+        "hope to have your help next time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, ya took my request! Huh? Da thing",
+        "I tried ta give da bar lady?",
+        "[Page]",
+        "",
+        "Huh!? H...How didja know about dat!?",
+        "I told her ta keep quiet!",
+        "[Page]",
+        "",
+        "Y...Ya don't need to worry about dat!",
+        "Now get out dere and find dat fairy!",
+        ""
+      ],
+      "Translation": [
+        "Oh, ya took my request! Huh? Da thing",
+        "I tried ta give da bar lady?",
+        "[Page]",
+        "",
+        "Huh!? H...How didja know about dat!?",
+        "I told her ta keep quiet!",
+        "[Page]",
+        "",
+        "Y...Ya don't need to worry about dat!",
+        "Now get out dere and find dat fairy!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Arrrgh! Ya're just not gonna let it",
+        "go, are ya!? Alright, alright...",
+        "[Page]",
+        "",
+        "Well, uh... see... dis is a milk",
+        "pitcher like da kind ya pour inta tea.",
+        "[Page]",
+        "",
+        "I was wondering if ya could put it by",
+        "a bellflower.",
+        "[Page]",
+        "",
+        "Dat way, ya might meet a fairy! Dat's",
+        "what I read in a picture book a long",
+        "time ago, anyways.",
+        "[Page]",
+        "",
+        "B-But it's just for fun, alright!?",
+        "If a fairy don't come, dat's A-OK",
+        "with me!",
+        "[Page]",
+        "",
+        "Yup! I ain't care one little bit!",
+        "Dat's why I don't mind if ya go do",
+        "it instead! Yup!",
+        ""
+      ],
+      "Translation": [
+        "Arrrgh! Ya're just not gonna let it",
+        "go, are ya!? Alright, alright...",
+        "[Page]",
+        "",
+        "Well, uh... see... dis is a milk",
+        "pitcher like da kind ya pour inta tea.",
+        "[Page]",
+        "",
+        "I was wondering if ya could put it by",
+        "a bellflower.",
+        "[Page]",
+        "",
+        "Dat way, ya might meet a fairy! Dat's",
+        "what I read in a picture book a long",
+        "time ago, anyways.",
+        "[Page]",
+        "",
+        "B-But it's just for fun, alright!?",
+        "If a fairy don't come, dat's A-OK",
+        "with me!",
+        "[Page]",
+        "",
+        "Yup! I ain't care one little bit!",
+        "Dat's why I don't mind if ya go do",
+        "it instead! Yup!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "At the end of a small path, you find",
+        "an adorable, bell-shaped flower.",
+        "[Page]",
+        "",
+        "Is this the bellflower rumored to have",
+        "some connection to fairies?",
+        "[Page]",
+        "",
+        "In order to find the truth, you must",
+        "return here at night.",
+        ""
+      ],
+      "Translation": [
+        "At the end of a small path, you find",
+        "an adorable, bell-shaped flower.",
+        "[Page]",
+        "",
+        "Is this the bellflower rumored to have",
+        "some connection to fairies?",
+        "[Page]",
+        "",
+        "In order to find the truth, you must",
+        "return here at night.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk the labyrinth under the",
+        "light of the moon, you stop and find",
+        "a bell-shaped flower at your feet.",
+        "[Page]",
+        "",
+        "Is this the bellflower rumored to be",
+        "a fairy's hiding place? As you are",
+        "pondering that...",
+        "[Page]",
+        "",
+        "You are witness to an astonishing",
+        "development! From within the flower,",
+        "a pale glow flies out!",
+        "[Page]",
+        "",
+        "You try to tamp down your excitement",
+        "as you catch the floating object...",
+        "But it is no fairy; merely pollen.",
+        "[Page]",
+        "",
+        "It is little wonder that some mistake",
+        "this luminous pollen for fairies.",
+        "[Page]",
+        "",
+        "You may pluck the flower and take it",
+        "with you if you wish to disprove the",
+        "existence of the fairies.",
+        ""
+      ],
+      "Translation": [
+        "As you walk the labyrinth under the",
+        "light of the moon, you stop and find",
+        "a bell-shaped flower at your feet.",
+        "[Page]",
+        "",
+        "Is this the bellflower rumored to be",
+        "a fairy's hiding place? As you are",
+        "pondering that...",
+        "[Page]",
+        "",
+        "You are witness to an astonishing",
+        "development! From within the flower,",
+        "a pale glow flies out!",
+        "[Page]",
+        "",
+        "You try to tamp down your excitement",
+        "as you catch the floating object...",
+        "But it is no fairy; merely pollen.",
+        "[Page]",
+        "",
+        "It is little wonder that some mistake",
+        "this luminous pollen for fairies.",
+        "[Page]",
+        "",
+        "You may pluck the flower and take it",
+        "with you if you wish to disprove the",
+        "existence of the fairies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "An adorable, bell-shaped flower",
+        "blooms at your feet...",
+        "[Page]",
+        "",
+        "You may pluck the flower and take it",
+        "with you if you wish to disprove the",
+        "existence of the fairies.",
+        ""
+      ],
+      "Translation": [
+        "An adorable, bell-shaped flower",
+        "blooms at your feet...",
+        "[Page]",
+        "",
+        "You may pluck the flower and take it",
+        "with you if you wish to disprove the",
+        "existence of the fairies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Pluck the bellflower?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Pluck the bellflower?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "With that, the request is complete.",
+        "All that remains is to report back",
+        "and deliver the flower.",
+        ""
+      ],
+      "Translation": [
+        "With that, the request is complete.",
+        "All that remains is to report back",
+        "and deliver the flower.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "You leave the bellflower untouched",
+        "before withdrawing from the area.",
+        ""
+      ],
+      "Translation": [
+        "You leave the bellflower untouched",
+        "before withdrawing from the area.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk the labyrinth under the",
+        "light of the moon, you stop and find",
+        "a bell-shaped flower at your feet.",
+        "[Page]",
+        "",
+        "Is this the bellflower rumored to be",
+        "a fairy's hiding place? As you are",
+        "pondering that...",
+        "[Page]",
+        "",
+        "You are witness to an astonishing",
+        "development! From within the flower,",
+        "a pale glow flies out!",
+        "[Page]",
+        "",
+        "You try to tamp down your excitement",
+        "as you catch the floating object...",
+        "But it is no fairy; merely pollen.",
+        "[Page]",
+        "",
+        "It is little wonder that some mistake",
+        "this luminous pollen for fairies.",
+        "[Page]",
+        "",
+        "You may pluck the flower to complete",
+        "the request, or try the method you",
+        "were shown at the Berund Atelier.",
+        ""
+      ],
+      "Translation": [
+        "As you walk the labyrinth under the",
+        "light of the moon, you stop and find",
+        "a bell-shaped flower at your feet.",
+        "[Page]",
+        "",
+        "Is this the bellflower rumored to be",
+        "a fairy's hiding place? As you are",
+        "pondering that...",
+        "[Page]",
+        "",
+        "You are witness to an astonishing",
+        "development! From within the flower,",
+        "a pale glow flies out!",
+        "[Page]",
+        "",
+        "You try to tamp down your excitement",
+        "as you catch the floating object...",
+        "But it is no fairy; merely pollen.",
+        "[Page]",
+        "",
+        "It is little wonder that some mistake",
+        "this luminous pollen for fairies.",
+        "[Page]",
+        "",
+        "You may pluck the flower to complete",
+        "the request, or try the method you",
+        "were shown at the Berund Atelier.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "An adorable, bell-shaped flower",
+        "blooms at your feet...",
+        "[Page]",
+        "",
+        "You may pluck the flower to complete",
+        "the request, or try the method you",
+        "were shown at the Berund Atelier.",
+        ""
+      ],
+      "Translation": [
+        "An adorable, bell-shaped flower",
+        "blooms at your feet...",
+        "[Page]",
+        "",
+        "You may pluck the flower to complete",
+        "the request, or try the method you",
+        "were shown at the Berund Atelier.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Place the milk pitcher here?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Place the milk pitcher here?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "You fill the small pitcher, about the",
+        "size of your thumb, with milk before",
+        "placing it next to the bellflower.",
+        "[Page]",
+        "",
+        "The preparations are thus complete.",
+        "If any fairies dwell here, you should",
+        "see some change in the milk pitcher.",
+        "[Page]",
+        "",
+        "You resolve to move away from this",
+        "spot and return in [Color:5]one hour[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You fill the small pitcher, about the",
+        "size of your thumb, with milk before",
+        "placing it next to the bellflower.",
+        "[Page]",
+        "",
+        "The preparations are thus complete.",
+        "If any fairies dwell here, you should",
+        "see some change in the milk pitcher.",
+        "[Page]",
+        "",
+        "You resolve to move away from this",
+        "spot and return in [Color:5]one hour[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "The milk pitcher is still sitting next",
+        "to the bellflower, but you cannot see",
+        "anything that has changed.",
+        "[Page]",
+        "",
+        "You suppose you ought to allot [Color:5]one",
+        "hour[Color:0] to stay clear of this area to",
+        "let the fairies feel safe.",
+        ""
+      ],
+      "Translation": [
+        "The milk pitcher is still sitting next",
+        "to the bellflower, but you cannot see",
+        "anything that has changed.",
+        "[Page]",
+        "",
+        "You suppose you ought to allot [Color:5]one",
+        "hour[Color:0] to stay clear of this area to",
+        "let the fairies feel safe.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "It has been one hour since you left",
+        "the milk pitcher alone. Perhaps the",
+        "time has come to check on it...",
+        ""
+      ],
+      "Translation": [
+        "It has been one hour since you left",
+        "the milk pitcher alone. Perhaps the",
+        "time has come to check on it...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "You revisit the milk pitcher you set",
+        "down earlier... and swallow as you",
+        "find something changed.",
+        "[Page]",
+        "",
+        "To your astonishment, the pitcher is",
+        "empty, and a tiny silver necklace no",
+        "larger than a ring was left behind!",
+        "[Page]",
+        "",
+        "The fine details are exquisite... this",
+        "could not possibly have been crafted",
+        "at this size by a human.",
+        "[Page]",
+        "",
+        "You are careful not to attach meaning",
+        "to the necklace, but take it back to",
+        "Tharsis as the result of your journey.",
+        ""
+      ],
+      "Translation": [
+        "You revisit the milk pitcher you set",
+        "down earlier... and swallow as you",
+        "find something changed.",
+        "[Page]",
+        "",
+        "To your astonishment, the pitcher is",
+        "empty, and a tiny silver necklace no",
+        "larger than a ring was left behind!",
+        "[Page]",
+        "",
+        "The fine details are exquisite... this",
+        "could not possibly have been crafted",
+        "at this size by a human.",
+        "[Page]",
+        "",
+        "You are careful not to attach meaning",
+        "to the necklace, but take it back to",
+        "Tharsis as the result of your journey.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "With this, the request is complete!",
+        "You think your client will be quite",
+        "satisfied once your report is in.",
+        ""
+      ],
+      "Translation": [
+        "With this, the request is complete!",
+        "You think your client will be quite",
+        "satisfied once your report is in.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "Debug text. Got ice on",
+        "day [Number:0], hour [Number:1], minute [Number:2].",
+        ""
+      ],
+      "Translation": [
+        "Debug text. Got ice on",
+        "day [Number:0], hour [Number:1], minute [Number:2].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": true,
+      "Original": [
+        "Debug text. [Number:0] day(s), [Number:1] hour(s),",
+        "[Number:2] minute(s) elapsed.",
+        ""
+      ],
+      "Translation": [
+        "Debug text. [Number:0] day(s), [Number:1] hour(s),",
+        "[Number:2] minute(s) elapsed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

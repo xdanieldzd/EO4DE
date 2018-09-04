@@ -1,0 +1,1129 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_016",
+  "RelativePath": "Event\\Quest\\QUE_016.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You'll accept this request? It comes",
+        "from a civilian... a missing persons",
+        "search, it seems.",
+        "[Page]",
+        "",
+        "A few days past, a soldier exploring",
+        "the [Color:5]lake at the Scarlet Pillars[Color:0] failed",
+        "to come home.",
+        "[Page]",
+        "",
+        "That is why the client needs an",
+        "explorer with a skyship to help.",
+        "Well... I await your swift return.",
+        "[Page]",
+        "",
+        "...Forgive me, but you do know what it",
+        "means to go missing outside the walls",
+        "of Tharsis, yes?",
+        "[Page]",
+        "",
+        "Tharsis soldiers can be identified by",
+        "the badges around their collars. At",
+        "least... at least bring that back.",
+        ""
+      ],
+      "Translation": [
+        "You'll accept this request? It comes",
+        "from a civilian... a missing persons",
+        "search, it seems.",
+        "[Page]",
+        "",
+        "A few days past, a soldier exploring",
+        "the [Color:5]lake at the Scarlet Pillars[Color:0] failed",
+        "to come home.",
+        "[Page]",
+        "",
+        "That is why the client needs an",
+        "explorer with a skyship to help.",
+        "Well... I await your swift return.",
+        "[Page]",
+        "",
+        "...Forgive me, but you do know what it",
+        "means to go missing outside the walls",
+        "of Tharsis, yes?",
+        "[Page]",
+        "",
+        "Tharsis soldiers can be identified by",
+        "the badges around their collars. At",
+        "least... at least bring that back.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back! I have heard the joyous",
+        "tidings! They say the soldier was",
+        "successfully rescued.",
+        "[Page]",
+        "",
+        "We do not get many requests of this",
+        "kind, but when we do, it is rarely a",
+        "living person who is brought back.",
+        "[Page]",
+        "",
+        "When I saw the nature of the request,",
+        "I said to myself, \"Another one,\" and",
+        "had given up on the spot...",
+        "[Page]",
+        "",
+        "It seems that when one does this sort",
+        "of work for long enough, one becomes",
+        "deadened to its effects.",
+        "[Page]",
+        "",
+        "But thanks to you, I was reminded of",
+        "the work's importance. I am in your",
+        "debt, [Guild] Guild.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back! I have heard the joyous",
+        "tidings! They say the soldier was",
+        "successfully rescued.",
+        "[Page]",
+        "",
+        "We do not get many requests of this",
+        "kind, but when we do, it is rarely a",
+        "living person who is brought back.",
+        "[Page]",
+        "",
+        "When I saw the nature of the request,",
+        "I said to myself, \"Another one,\" and",
+        "had given up on the spot...",
+        "[Page]",
+        "",
+        "It seems that when one does this sort",
+        "of work for long enough, one becomes",
+        "deadened to its effects.",
+        "[Page]",
+        "",
+        "But thanks to you, I was reminded of",
+        "the work's importance. I am in your",
+        "debt, [Guild] Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I was sorry to hear",
+        "what happened to the soldier, but I",
+        "am more glad that you are safe.",
+        "[Page]",
+        "",
+        "Yes, this is the soldier's badge...",
+        "He could not have known of the hidden",
+        "labyrinth in the middle of the lake.",
+        "[Page]",
+        "",
+        "You must promise me to be very careful",
+        "when you set foot in an unexplored",
+        "labyrinth.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I was sorry to hear",
+        "what happened to the soldier, but I",
+        "am more glad that you are safe.",
+        "[Page]",
+        "",
+        "Yes, this is the soldier's badge...",
+        "He could not have known of the hidden",
+        "labyrinth in the middle of the lake.",
+        "[Page]",
+        "",
+        "You must promise me to be very careful",
+        "when you set foot in an unexplored",
+        "labyrinth.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "As you soar through the sky, you see",
+        "something floating in the lake beneath",
+        "you and stop to have a look.",
+        "[Page]",
+        "",
+        "Closer inspection shows that it is the",
+        "wreckage of a Tharsis military ship.",
+        "It may be the missing soldier's...",
+        "[Page]",
+        "",
+        "If you hope to find the missing",
+        "person from the request, you should",
+        "search the surrounding area.",
+        ""
+      ],
+      "Translation": [
+        "As you soar through the sky, you see",
+        "something floating in the lake beneath",
+        "you and stop to have a look.",
+        "[Page]",
+        "",
+        "Closer inspection shows that it is the",
+        "wreckage of a Tharsis military ship.",
+        "It may be the missing soldier's...",
+        "[Page]",
+        "",
+        "If you hope to find the missing",
+        "person from the request, you should",
+        "search the surrounding area.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "As you step into the cave, you notice",
+        "that the interior is a labyrinth!",
+        "[Page]",
+        "",
+        "This is the only place left a missing",
+        "person could have gone... You take a",
+        "few cautious steps inside.",
+        ""
+      ],
+      "Translation": [
+        "As you step into the cave, you notice",
+        "that the interior is a labyrinth!",
+        "[Page]",
+        "",
+        "This is the only place left a missing",
+        "person could have gone... You take a",
+        "few cautious steps inside.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You set foot into the hidden cave you",
+        "visited earlier.",
+        "[Page]",
+        "",
+        "This is the only place left a missing",
+        "person could have gone... You take a",
+        "few cautious steps inside.",
+        ""
+      ],
+      "Translation": [
+        "You set foot into the hidden cave you",
+        "visited earlier.",
+        "[Page]",
+        "",
+        "This is the only place left a missing",
+        "person could have gone... You take a",
+        "few cautious steps inside.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "During your search for the missing",
+        "soldier, you hear a faint scream",
+        "amidst the loud croaking.",
+        "[Page]",
+        "",
+        "There is someone on the other side!",
+        "If that voice was the missing soldier,",
+        "you haven't a moment to lose.",
+        ""
+      ],
+      "Translation": [
+        "During your search for the missing",
+        "soldier, you hear a faint scream",
+        "amidst the loud croaking.",
+        "[Page]",
+        "",
+        "There is someone on the other side!",
+        "If that voice was the missing soldier,",
+        "you haven't a moment to lose.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You see a fallen soldier and quickly",
+        "rush to his aid.",
+        ""
+      ],
+      "Translation": [
+        "You see a fallen soldier and quickly",
+        "rush to his aid.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ungh... are you explorers? Thank",
+        "goodness... I'm saved.",
+        "[Page]",
+        "",
+        "\"I messed up while piloting my skyship",
+        "and fell out of the gondola straight",
+        "into this labyrinth... haha...",
+        "[Page]",
+        "",
+        "\"I wandered around, not knowing left",
+        "from right, and found myself here.",
+        "I was scared no one would come...\"",
+        "[Page]",
+        "",
+        "After hearing his harrowing tale,",
+        "you cheer up the soldier and treat",
+        "his wounds before taking him back.",
+        ""
+      ],
+      "Translation": [
+        "\"Ungh... are you explorers? Thank",
+        "goodness... I'm saved.",
+        "[Page]",
+        "",
+        "\"I messed up while piloting my skyship",
+        "and fell out of the gondola straight",
+        "into this labyrinth... haha...",
+        "[Page]",
+        "",
+        "\"I wandered around, not knowing left",
+        "from right, and found myself here.",
+        "I was scared no one would come...\"",
+        "[Page]",
+        "",
+        "After hearing his harrowing tale,",
+        "you cheer up the soldier and treat",
+        "his wounds before taking him back.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "You see a fallen soldier and quickly",
+        "rush to his aid.",
+        "[Page]",
+        "",
+        "You try to bring him around, but his",
+        "spirit has already left him. It is",
+        "too late...",
+        "[Page]",
+        "",
+        "Being sure to take the identifying",
+        "badge from his armor, you bury the",
+        "poor soldier where he lies...",
+        ""
+      ],
+      "Translation": [
+        "You see a fallen soldier and quickly",
+        "rush to his aid.",
+        "[Page]",
+        "",
+        "You try to bring him around, but his",
+        "spirit has already left him. It is",
+        "too late...",
+        "[Page]",
+        "",
+        "Being sure to take the identifying",
+        "badge from his armor, you bury the",
+        "poor soldier where he lies...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Though its conclusion was tragic,",
+        "the request has been fulfilled.",
+        "[Page]",
+        "",
+        "You pray for the soldier's soul and",
+        "leave the area, your steps heavy as",
+        "you head to the bar to report in.",
+        ""
+      ],
+      "Translation": [
+        "Though its conclusion was tragic,",
+        "the request has been fulfilled.",
+        "[Page]",
+        "",
+        "You pray for the soldier's soul and",
+        "leave the area, your steps heavy as",
+        "you head to the bar to report in.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You return to the city, carrying the",
+        "injured soldier on a litter, when a",
+        "familiar face approaches.",
+        ""
+      ],
+      "Translation": [
+        "You return to the city, carrying the",
+        "injured soldier on a litter, when a",
+        "familiar face approaches.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh dearie me, those awful wounds!",
+        "This is the missing soldier everyone's",
+        "been buzzing about at the bar, hm?",
+        "[Page]",
+        "",
+        "\"Thank heavens! His condition doesn't",
+        "look critical, thanks to your aid.",
+        "Let's get him to the clinic.",
+        "[Page]",
+        "",
+        "\"Why don't you go tell the client",
+        "that he's back safe while I go do",
+        "that, hmm?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh dearie me, those awful wounds!",
+        "This is the missing soldier everyone's",
+        "been buzzing about at the bar, hm?",
+        "[Page]",
+        "",
+        "\"Thank heavens! His condition doesn't",
+        "look critical, thanks to your aid.",
+        "Let's get him to the clinic.",
+        "[Page]",
+        "",
+        "\"Why don't you go tell the client",
+        "that he's back safe while I go do",
+        "that, hmm?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "You hear shouts from a group of",
+        "soldiers, who help Dalla carry the",
+        "wounded man away.",
+        "[Page]",
+        "",
+        "He seems to be in good hands with",
+        "her... Your quick action has saved",
+        "his life. The request is complete!",
+        ""
+      ],
+      "Translation": [
+        "You hear shouts from a group of",
+        "soldiers, who help Dalla carry the",
+        "wounded man away.",
+        "[Page]",
+        "",
+        "He seems to be in good hands with",
+        "her... Your quick action has saved",
+        "his life. The request is complete!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Noisy Marsh[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Noisy Marsh[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

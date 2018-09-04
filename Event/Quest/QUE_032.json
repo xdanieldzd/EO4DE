@@ -1,0 +1,431 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_032",
+  "RelativePath": "Event\\Quest\\QUE_032.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request is from a member of the",
+        "Carpenters Guild. He wants a [Color:5]tree root[Color:0]",
+        "to be used in a construction project.",
+        "[Page]",
+        "",
+        "He specified that he wants the root",
+        "to come from a tree that grows in a",
+        "[Color:5]very windy area[Color:0].",
+        "[Page]",
+        "",
+        "Tharsis has strong winds, but if he is",
+        "posting a request to explorers, I must",
+        "assume they are not strong enough.",
+        "[Page]",
+        "",
+        "Have you come across any such place",
+        "in your travels? Well, I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That request is from a member of the",
+        "Carpenters Guild. He wants a [Color:5]tree root[Color:0]",
+        "to be used in a construction project.",
+        "[Page]",
+        "",
+        "He specified that he wants the root",
+        "to come from a tree that grows in a",
+        "[Color:5]very windy area[Color:0].",
+        "[Page]",
+        "",
+        "Tharsis has strong winds, but if he is",
+        "posting a request to explorers, I must",
+        "assume they are not strong enough.",
+        "[Page]",
+        "",
+        "Have you come across any such place",
+        "in your travels? Well, I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "After accepting the request, it occurs",
+        "to you that the [Color:6][Number:0][Color:0] you",
+        "acquired in the Windy Archive will do.",
+        "[Page]",
+        "",
+        "If you wish to complete the request",
+        "now, you can report in and deliver",
+        "the [Number:0].",
+        ""
+      ],
+      "Translation": [
+        "After accepting the request, it occurs",
+        "to you that the [Color:6][Number:0][Color:0] you",
+        "acquired in the Windy Archive will do.",
+        "[Page]",
+        "",
+        "If you wish to complete the request",
+        "now, you can report in and deliver",
+        "the [Number:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Is this the tree root",
+        "the carpenter wanted? Very well.",
+        "I will keep it safe as I deliver it.",
+        "[Page]",
+        "",
+        "I assume, since it comes from a place",
+        "called the Windy Archive, that the",
+        "winds were quite strong there...",
+        "[Page]",
+        "",
+        "I pity any female explorers in skirts",
+        "who venture in. But regardless, I",
+        "again thank you for your hard work.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Is this the tree root",
+        "the carpenter wanted? Very well.",
+        "I will keep it safe as I deliver it.",
+        "[Page]",
+        "",
+        "I assume, since it comes from a place",
+        "called the Windy Archive, that the",
+        "winds were quite strong there...",
+        "[Page]",
+        "",
+        "I pity any female explorers in skirts",
+        "who venture in. But regardless, I",
+        "again thank you for your hard work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You recall accepting a quest at the",
+        "bar to acquire a tree root to be used",
+        "in construction...",
+        "[Page]",
+        "",
+        "This tree root is withstanding the",
+        "fierce winds that blow against it.",
+        "You suspect the client would like it.",
+        "[Page]",
+        "",
+        "If you wish to complete the request,",
+        "you can gather a sample now.",
+        ""
+      ],
+      "Translation": [
+        "You recall accepting a quest at the",
+        "bar to acquire a tree root to be used",
+        "in construction...",
+        "[Page]",
+        "",
+        "This tree root is withstanding the",
+        "fierce winds that blow against it.",
+        "You suspect the client would like it.",
+        "[Page]",
+        "",
+        "If you wish to complete the request,",
+        "you can gather a sample now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "You have obtained a [Color:6][Item:1218][Color:0].",
+        "It is quite sturdy, and should be just",
+        "what the client asked for.",
+        "[Page]",
+        "",
+        "All that remains now is to bring it",
+        "back to the Dancing Peacock in order",
+        "to complete the quest!",
+        ""
+      ],
+      "Translation": [
+        "You have obtained a [Color:6][Item:1218][Color:0].",
+        "It is quite sturdy, and should be just",
+        "what the client asked for.",
+        "[Page]",
+        "",
+        "All that remains now is to bring it",
+        "back to the Dancing Peacock in order",
+        "to complete the quest!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You recall taking a request involving",
+        "the retrieval of plant roots that",
+        "grew in a windswept area...",
+        "[Page]",
+        "",
+        "The [Color:6][Item:1218][Color:0] you took is",
+        "currently among your possessions...",
+        "You must be careful not to sell it.",
+        ""
+      ],
+      "Translation": [
+        "You recall taking a request involving",
+        "the retrieval of plant roots that",
+        "grew in a windswept area...",
+        "[Page]",
+        "",
+        "The [Color:6][Item:1218][Color:0] you took is",
+        "currently among your possessions...",
+        "You must be careful not to sell it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Windy Archive[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Windy Archive[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

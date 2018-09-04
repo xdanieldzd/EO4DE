@@ -1,0 +1,890 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_14F",
+  "RelativePath": "Event\\Dungeon\\DUN_14F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You land the [Skyship] next to the",
+        "structure formed of black stone",
+        "and step inside.",
+        "[Page]",
+        "",
+        "This [Color:5]Hall of Darkness[Color:0] is similar to",
+        "the Echoing Library... Perhaps it was",
+        "built contemporaneously.",
+        "[Page]",
+        "",
+        "The dark, shadowy halls instill dread",
+        "in you. This place has none of the",
+        "Echoing Library's sanctity.",
+        "[Page]",
+        "",
+        "Worse yet, you cannot shake off the",
+        "feeling of being watched. You begin",
+        "your search, ill at ease...",
+        ""
+      ],
+      "Translation": [
+        "You land the [Skyship] next to the",
+        "structure formed of black stone",
+        "and step inside.",
+        "[Page]",
+        "",
+        "This [Color:5]Hall of Darkness[Color:0] is similar to",
+        "the Echoing Library... Perhaps it was",
+        "built contemporaneously.",
+        "[Page]",
+        "",
+        "The dark, shadowy halls instill dread",
+        "in you. This place has none of the",
+        "Echoing Library's sanctity.",
+        "[Page]",
+        "",
+        "Worse yet, you cannot shake off the",
+        "feeling of being watched. You begin",
+        "your search, ill at ease...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"What an unprecedented disaster! Will",
+        "it happen again? Finding out will be",
+        "a critical subject of research now.",
+        "[Page]",
+        "",
+        "\"At least we survived. Though were",
+        "we the only ones...?",
+        "[Page]",
+        "",
+        "\"Ever since the event, all means of",
+        "contact with the outside world have",
+        "been cut off.",
+        "[Page]",
+        "",
+        "\"Only a couple hundred of our people",
+        "have survived. Of all the shelters,",
+        "the one I was in happened to hold...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Translation": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"What an unprecedented disaster! Will",
+        "it happen again? Finding out will be",
+        "a critical subject of research now.",
+        "[Page]",
+        "",
+        "\"At least we survived. Though were",
+        "we the only ones...?",
+        "[Page]",
+        "",
+        "\"Ever since the event, all means of",
+        "contact with the outside world have",
+        "been cut off.",
+        "[Page]",
+        "",
+        "\"Only a couple hundred of our people",
+        "have survived. Of all the shelters,",
+        "the one I was in happened to hold...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"A few days after leaving the shelter,",
+        "we ran into problems. There's been",
+        "severe damage to the food generator.",
+        "[Page]",
+        "",
+        "\"Worse, the research team found that",
+        "the plants outside, and the animals",
+        "that feed on them, are poisonous.",
+        "[Page]",
+        "",
+        "\"We can neither sustain ourselves on",
+        "food from the generator, nor can we",
+        "farm, breed, or hunt our own food.",
+        "[Page]",
+        "",
+        "\"The world became a completely",
+        "different place while we were here",
+        "in the shelter...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Translation": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"A few days after leaving the shelter,",
+        "we ran into problems. There's been",
+        "severe damage to the food generator.",
+        "[Page]",
+        "",
+        "\"Worse, the research team found that",
+        "the plants outside, and the animals",
+        "that feed on them, are poisonous.",
+        "[Page]",
+        "",
+        "\"We can neither sustain ourselves on",
+        "food from the generator, nor can we",
+        "farm, breed, or hunt our own food.",
+        "[Page]",
+        "",
+        "\"The world became a completely",
+        "different place while we were here",
+        "in the shelter...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"The committee has finally decided to",
+        "put the plan in motion. I'm proud to",
+        "have the most crucial role in it.",
+        "[Page]",
+        "",
+        "\"We've been living on the few plants",
+        "that are safe to eat, but the food",
+        "shortages get worse by the day.",
+        "[Page]",
+        "",
+        "\"There were two survival plans put",
+        "forward. Either we adapt ourselves to",
+        "the environment, or adapt it to us.",
+        "[Page]",
+        "",
+        "\"After much debate, the committee",
+        "has gone for the latter option. We",
+        "call it the Yggdrasil Project...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Translation": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"The committee has finally decided to",
+        "put the plan in motion. I'm proud to",
+        "have the most crucial role in it.",
+        "[Page]",
+        "",
+        "\"We've been living on the few plants",
+        "that are safe to eat, but the food",
+        "shortages get worse by the day.",
+        "[Page]",
+        "",
+        "\"There were two survival plans put",
+        "forward. Either we adapt ourselves to",
+        "the environment, or adapt it to us.",
+        "[Page]",
+        "",
+        "\"After much debate, the committee",
+        "has gone for the latter option. We",
+        "call it the Yggdrasil Project...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "As you tread the quiet halls, you see",
+        "something like a large piece of cloth",
+        "on the ground ahead.",
+        "[Page]",
+        "",
+        "You cautiously approach to get a",
+        "better sense of what it is...",
+        "[Page]",
+        "",
+        "You realize with sudden shock that it",
+        "is a skeleton! The decayed corpse is",
+        "lying on the ground in a robe.",
+        "[Page]",
+        "",
+        "Too much time has passed since the",
+        "poor soul's death to determine the",
+        "cause of death or even their sex.",
+        "[Page]",
+        "",
+        "There is writing in black ink near",
+        "the corpse. Whoever it was had a",
+        "parting message to pass along...",
+        "[Page]",
+        "",
+        "\"INSECT",
+        "FAILURE",
+        "KEEP CLOSED\"",
+        "[Page]",
+        "",
+        "The words do not even form a sentence.",
+        "You grow anxious at what might lie",
+        "ahead as you resume your journey...",
+        ""
+      ],
+      "Translation": [
+        "As you tread the quiet halls, you see",
+        "something like a large piece of cloth",
+        "on the ground ahead.",
+        "[Page]",
+        "",
+        "You cautiously approach to get a",
+        "better sense of what it is...",
+        "[Page]",
+        "",
+        "You realize with sudden shock that it",
+        "is a skeleton! The decayed corpse is",
+        "lying on the ground in a robe.",
+        "[Page]",
+        "",
+        "Too much time has passed since the",
+        "poor soul's death to determine the",
+        "cause of death or even their sex.",
+        "[Page]",
+        "",
+        "There is writing in black ink near",
+        "the corpse. Whoever it was had a",
+        "parting message to pass along...",
+        "[Page]",
+        "",
+        "\"INSECT",
+        "FAILURE",
+        "KEEP CLOSED\"",
+        "[Page]",
+        "",
+        "The words do not even form a sentence.",
+        "You grow anxious at what might lie",
+        "ahead as you resume your journey...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk through the maze, you are",
+        "surprised to come upon a wooden table",
+        "and chairs at a dead end.",
+        "[Page]",
+        "",
+        "Even stranger, the table is set with",
+        "a bowl of piping hot soup and a basket",
+        "of soft, delicious-looking bread.",
+        "[Page]",
+        "",
+        "Under any other circumstances, the",
+        "meal would be too inviting to pass",
+        "up, but here...",
+        ""
+      ],
+      "Translation": [
+        "As you walk through the maze, you are",
+        "surprised to come upon a wooden table",
+        "and chairs at a dead end.",
+        "[Page]",
+        "",
+        "Even stranger, the table is set with",
+        "a bowl of piping hot soup and a basket",
+        "of soft, delicious-looking bread.",
+        "[Page]",
+        "",
+        "Under any other circumstances, the",
+        "meal would be too inviting to pass",
+        "up, but here...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Eat the food?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Eat the food?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "The warm soup and bread turns out to",
+        "be as delicious as it looked. You",
+        "leave the table completely refreshed.",
+        ""
+      ],
+      "Translation": [
+        "The warm soup and bread turns out to",
+        "be as delicious as it looked. You",
+        "leave the table completely refreshed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 300 HP",
+        "and 200 TP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 300 HP",
+        "and 200 TP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "You choose to ignore the table and",
+        "the inexplicable meal spread out",
+        "on it.",
+        ""
+      ],
+      "Translation": [
+        "You choose to ignore the table and",
+        "the inexplicable meal spread out",
+        "on it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "As you cautiously make your way",
+        "through the maze, you reach a dead",
+        "end and cannot help but gasp.",
+        "[Page]",
+        "",
+        "Dozens of stone statues have been",
+        "left here with pain and fear chiseled",
+        "on their faces.",
+        "[Page]",
+        "",
+        "Were the ancient people models for",
+        "these...? They look as real as if",
+        "[Color:5]human flesh had been turned to stone[Color:0].",
+        "[Page]",
+        "",
+        "You are tempted to inspect the vulgar",
+        "statues more closely, despite the",
+        "strong threat you sense here.",
+        ""
+      ],
+      "Translation": [
+        "As you cautiously make your way",
+        "through the maze, you reach a dead",
+        "end and cannot help but gasp.",
+        "[Page]",
+        "",
+        "Dozens of stone statues have been",
+        "left here with pain and fear chiseled",
+        "on their faces.",
+        "[Page]",
+        "",
+        "Were the ancient people models for",
+        "these...? They look as real as if",
+        "[Color:5]human flesh had been turned to stone[Color:0].",
+        "[Page]",
+        "",
+        "You are tempted to inspect the vulgar",
+        "statues more closely, despite the",
+        "strong threat you sense here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Dozens of stone statues stand here,",
+        "creating an eerie atmosphere...",
+        "[Page]",
+        "",
+        "Were the ancient people models for",
+        "these...? They look as real as if",
+        "[Color:5]human flesh had been turned to stone[Color:0].",
+        "[Page]",
+        "",
+        "You may inspect the statues more",
+        "closely, or heed your sense of danger",
+        "and leave at once.",
+        ""
+      ],
+      "Translation": [
+        "Dozens of stone statues stand here,",
+        "creating an eerie atmosphere...",
+        "[Page]",
+        "",
+        "Were the ancient people models for",
+        "these...? They look as real as if",
+        "[Color:5]human flesh had been turned to stone[Color:0].",
+        "[Page]",
+        "",
+        "You may inspect the statues more",
+        "closely, or heed your sense of danger",
+        "and leave at once.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Inspect the statues?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Inspect the statues?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "You approach one of the nearby statues",
+        "and reach out to touch it...",
+        "[Page]",
+        "",
+        "Suddenly, monstrous flowers appear",
+        "from the shadows and ambush you with",
+        "lightning speed!",
+        ""
+      ],
+      "Translation": [
+        "You approach one of the nearby statues",
+        "and reach out to touch it...",
+        "[Page]",
+        "",
+        "Suddenly, monstrous flowers appear",
+        "from the shadows and ambush you with",
+        "lightning speed!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Carelessness is often paid for with",
+        "one's life... Knowing this, you elect",
+        "to leave this place.",
+        ""
+      ],
+      "Translation": [
+        "Carelessness is often paid for with",
+        "one's life... Knowing this, you elect",
+        "to leave this place.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "After a desperate struggle, you manage",
+        "to slay the monstrous flowers.",
+        "[Page]",
+        "",
+        "It seems the \"statues\" were created by",
+        "the monsters you have just vanquished.",
+        "[Page]",
+        "",
+        "Having narrowly escaped joining their",
+        "number, you continue your trek through",
+        "the maze with even greater caution...",
+        ""
+      ],
+      "Translation": [
+        "After a desperate struggle, you manage",
+        "to slay the monstrous flowers.",
+        "[Page]",
+        "",
+        "It seems the \"statues\" were created by",
+        "the monsters you have just vanquished.",
+        "[Page]",
+        "",
+        "Having narrowly escaped joining their",
+        "number, you continue your trek through",
+        "the maze with even greater caution...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

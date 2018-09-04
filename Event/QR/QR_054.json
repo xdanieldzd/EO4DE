@@ -1,0 +1,202 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_054",
+  "RelativePath": "Event\\QR\\QR_054.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Your client this time is the lady",
+        "sitting over there, filled with",
+        "a terrible anxiety.",
+        "[Page]",
+        "",
+        "You must get the details of the",
+        "request from her. I shall await",
+        "your swift return...",
+        ""
+      ],
+      "Translation": [
+        "Your client this time is the lady",
+        "sitting over there, filled with",
+        "a terrible anxiety.",
+        "[Page]",
+        "",
+        "You must get the details of the",
+        "request from her. I shall await",
+        "your swift return...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "I am very glad to hear that you found",
+        "the woman's brother. Your guild is",
+        "truly a savior to those in need.",
+        "[Page]",
+        "",
+        "Though this request has reminded me",
+        "again of the danger you face... Make",
+        "sure you take every precaution.",
+        "[Page]",
+        "",
+        "Here is the reward the boy's sister",
+        "left for you. Well done...",
+        ""
+      ],
+      "Translation": [
+        "I am very glad to hear that you found",
+        "the woman's brother. Your guild is",
+        "truly a savior to those in need.",
+        "[Page]",
+        "",
+        "Though this request has reminded me",
+        "again of the danger you face... Make",
+        "sure you take every precaution.",
+        "[Page]",
+        "",
+        "Here is the reward the boy's sister",
+        "left for you. Well done...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "As you search for the missing",
+        "explorer, you hear a man's cry",
+        "through the roaring of the winds.",
+        "[Page]",
+        "",
+        "\"Heyyyy! You up there! Pretty weird",
+        "that we'd find each other like this,",
+        "isn't it!?\"",
+        "[Page]",
+        "",
+        "When you look over the edge of your",
+        "gondola, you see a wrecked skyship",
+        "and a young man waving to you.",
+        ""
+      ],
+      "Translation": [
+        "As you search for the missing",
+        "explorer, you hear a man's cry",
+        "through the roaring of the winds.",
+        "[Page]",
+        "",
+        "\"Heyyyy! You up there! Pretty weird",
+        "that we'd find each other like this,",
+        "isn't it!?\"",
+        "[Page]",
+        "",
+        "When you look over the edge of your",
+        "gondola, you see a wrecked skyship",
+        "and a young man waving to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "\"My name's [Color:5]Raht[Color:0]! I was attacked by",
+        "monsters, and, well, you can guess",
+        "the rest! Pretty sorry, huh?\"",
+        ""
+      ],
+      "Translation": [
+        "\"My name's [Color:5]Raht[Color:0]! I was attacked by",
+        "monsters, and, well, you can guess",
+        "the rest! Pretty sorry, huh?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "You recognize that name \"Raht\" as",
+        "the client's brother... he is the",
+        "explorer you seek!",
+        "[Page]",
+        "",
+        "However, he seems to be injured and",
+        "cannot walk. To attempt to move him",
+        "would be very dangerous.",
+        "[Page]",
+        "",
+        "All you can do for the boy is to",
+        "hurry back and report his location",
+        "to your client.",
+        ""
+      ],
+      "Translation": [
+        "You recognize that name \"Raht\" as",
+        "the client's brother... he is the",
+        "explorer you seek!",
+        "[Page]",
+        "",
+        "However, he seems to be injured and",
+        "cannot walk. To attempt to move him",
+        "would be very dangerous.",
+        "[Page]",
+        "",
+        "All you can do for the boy is to",
+        "hurry back and report his location",
+        "to your client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "You can see Raht desperately waving",
+        "to you! Hurry back and report in to",
+        "your client!",
+        ""
+      ],
+      "Translation": [
+        "You can see Raht desperately waving",
+        "to you! Hurry back and report in to",
+        "your client!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

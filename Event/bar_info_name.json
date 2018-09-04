@@ -1,0 +1,1245 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Bar patrons names",
+  "RelativePath": "Event\\bar_info_name.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Drunken landsknecht",
+        ""
+      ],
+      "Translation": [
+        "Betrunkener Landsknecht",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Aged baboon hunter",
+        ""
+      ],
+      "Translation": [
+        "Betagter Pavianjäger",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Newly returned fortress",
+        ""
+      ],
+      "Translation": [
+        "Newly returned fortress",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "The merchant Sabert",
+        ""
+      ],
+      "Translation": [
+        "Sabert, der Kaufmann",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Worried-looking girl",
+        ""
+      ],
+      "Translation": [
+        "Besorgt aussehendes Mädchen",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Lonely hunter Dean",
+        ""
+      ],
+      "Translation": [
+        "Dean, der einsame Jäger",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Injured explorer",
+        ""
+      ],
+      "Translation": [
+        "Verletzter Entdecker",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Raht's mother",
+        ""
+      ],
+      "Translation": [
+        "Raht's Mutter",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Cheerful nightseeker",
+        ""
+      ],
+      "Translation": [
+        "Cheerful nightseeker",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Itinerant artist Qulart",
+        ""
+      ],
+      "Translation": [
+        "Itinerant artist Qulart",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Raht's father",
+        ""
+      ],
+      "Translation": [
+        "Raht's Vater",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Gloomy nightseeker",
+        ""
+      ],
+      "Translation": [
+        "Gloomy nightseeker",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Stern fortress",
+        ""
+      ],
+      "Translation": [
+        "Stern fortress",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "\"Elegant dancer\"",
+        ""
+      ],
+      "Translation": [
+        "\"Eleganter Tänzer\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Raht's fiancee",
+        ""
+      ],
+      "Translation": [
+        "Raht's Verlobte",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Grizzled, one-eyed man",
+        ""
+      ],
+      "Translation": [
+        "Ergrauter Einäugiger",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Grizzled, one-eyed man",
+        ""
+      ],
+      "Translation": [
+        "Ergrauter Einäugiger",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Lazy maintenance worker",
+        ""
+      ],
+      "Translation": [
+        "Lazy maintenance worker",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Cooking guild member",
+        ""
+      ],
+      "Translation": [
+        "Cooking guild member",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Apple-cheeked explorer",
+        ""
+      ],
+      "Translation": [
+        "Apple-cheeked explorer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Map-focused explorer",
+        ""
+      ],
+      "Translation": [
+        "Map-focused explorer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Perky dancer",
+        ""
+      ],
+      "Translation": [
+        "Perky dancer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Bow-maintaining explorer",
+        ""
+      ],
+      "Translation": [
+        "Bow-maintaining explorer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Graceful landsknecht",
+        ""
+      ],
+      "Translation": [
+        "Graceful landsknecht",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Yarakahna's fortress",
+        ""
+      ],
+      "Translation": [
+        "Yarakahna's fortress",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Man staring at a map",
+        ""
+      ],
+      "Translation": [
+        "Man staring at a map",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Monster researcher",
+        ""
+      ],
+      "Translation": [
+        "Monster researcher",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Man writing on parchment",
+        ""
+      ],
+      "Translation": [
+        "Man writing on parchment",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "The virtuous Claudia",
+        ""
+      ],
+      "Translation": [
+        "The virtuous Claudia",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Nervous Vessel",
+        ""
+      ],
+      "Translation": [
+        "Nervous Vessel",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Heavily bandaged explorer",
+        ""
+      ],
+      "Translation": [
+        "Heavily bandaged explorer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Passionate Vessel",
+        ""
+      ],
+      "Translation": [
+        "Passionate Vessel",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Pained nightseeker",
+        ""
+      ],
+      "Translation": [
+        "Pained nightseeker",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Guffawing Sentinel",
+        ""
+      ],
+      "Translation": [
+        "Guffawing Sentinel",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Skinny, scholarly man",
+        ""
+      ],
+      "Translation": [
+        "Skinny, scholarly man",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Timid young explorer",
+        ""
+      ],
+      "Translation": [
+        "Timid young explorer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Lady's bodyguard",
+        ""
+      ],
+      "Translation": [
+        "Golden Lady's bodyguard",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Man clad in explorer garb",
+        ""
+      ],
+      "Translation": [
+        "Man clad in explorer garb",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Resolute Imperial knight",
+        ""
+      ],
+      "Translation": [
+        "Resolute Imperial knight",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Sticky runemaster",
+        ""
+      ],
+      "Translation": [
+        "Sticky runemaster",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Frustrated older explorer",
+        ""
+      ],
+      "Translation": [
+        "Frustrated older explorer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "Man cleaning his sword",
+        ""
+      ],
+      "Translation": [
+        "Man cleaning his sword",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Runemaster lost in a book",
+        ""
+      ],
+      "Translation": [
+        "Runemaster lost in a book",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "Energetic explorer boy",
+        ""
+      ],
+      "Translation": [
+        "Energetic explorer boy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "Dancer-like woman",
+        ""
+      ],
+      "Translation": [
+        "Dancer-like woman",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "Old soldier raising a mug",
+        ""
+      ],
+      "Translation": [
+        "Old soldier raising a mug",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "Haunted runemaster Menou",
+        ""
+      ],
+      "Translation": [
+        "Haunted runemaster Menou",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "Womanizing sniper",
+        ""
+      ],
+      "Translation": [
+        "Womanizing sniper",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "Heavily built fortress",
+        ""
+      ],
+      "Translation": [
+        "Heavily built fortress",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "Dull-witted sniper",
+        ""
+      ],
+      "Translation": [
+        "Dull-witted sniper",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Dice-tossing Vessel",
+        ""
+      ],
+      "Translation": [
+        "Dice-tossing Vessel",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Man in only accessories",
+        ""
+      ],
+      "Translation": [
+        "Man in only accessories",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Runemaster of Vulcanus",
+        ""
+      ],
+      "Translation": [
+        "Runemaster of Vulcanus",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Jealous Vessel",
+        ""
+      ],
+      "Translation": [
+        "Jealous Vessel",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Knight clanging his shield",
+        ""
+      ],
+      "Translation": [
+        "Knight clanging his shield",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Imperial with drive blade",
+        ""
+      ],
+      "Translation": [
+        "Imperial with drive blade",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "Rumormongering biddy",
+        ""
+      ],
+      "Translation": [
+        "Rumormongering biddy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "Canny medic Sophie",
+        ""
+      ],
+      "Translation": [
+        "Canny medic Sophie",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "Wandering dragon chaser",
+        ""
+      ],
+      "Translation": [
+        "Wandering dragon chaser",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Yggdrasil scholar Kohst",
+        ""
+      ],
+      "Translation": [
+        "Yggdrasil scholar Kohst",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Legendary angler Big-Bait",
+        ""
+      ],
+      "Translation": [
+        "Legendary angler Big-Bait",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "Itinerant animal tamer Chad",
+        ""
+      ],
+      "Translation": [
+        "Itinerant animal tamer Chad",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Imperial linguist Muse",
+        ""
+      ],
+      "Translation": [
+        "Imperial linguist Muse",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "Travelling farmer Havasta",
+        ""
+      ],
+      "Translation": [
+        "Travelling farmer Havasta",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "Farmer girl Bonnie",
+        ""
+      ],
+      "Translation": [
+        "Farmer girl Bonnie",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "Lonely hunter Dino",
+        ""
+      ],
+      "Translation": [
+        "Lonely hunter Dino",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "The epicure Gemuse",
+        ""
+      ],
+      "Translation": [
+        "The epicure Gemuse",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "Monster scholar Barbule",
+        ""
+      ],
+      "Translation": [
+        "Monster scholar Barbule",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "Lonely hunter Dylan",
+        ""
+      ],
+      "Translation": [
+        "Lonely hunter Dylan",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Vessel instructor",
+        ""
+      ],
+      "Translation": [
+        "Vessel instructor",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Sentinel instructor",
+        ""
+      ],
+      "Translation": [
+        "Sentinel instructor",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "Imperial instructor",
+        ""
+      ],
+      "Translation": [
+        "Imperial instructor",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "Flustered explorer",
+        ""
+      ],
+      "Translation": [
+        "Flustered explorer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

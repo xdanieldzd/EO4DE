@@ -1,0 +1,640 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_076",
+  "RelativePath": "Event\\QR\\QR_076.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You are taking that request? It comes",
+        "from Ciaran at the Cargo Wharf. It is",
+        "rare for him to submit a request...",
+        "[Page]",
+        "",
+        "You should inquire into the details",
+        "at the Cargo Wharf. I shall await",
+        "your swift return...",
+        ""
+      ],
+      "Translation": [
+        "You are taking that request? It comes",
+        "from Ciaran at the Cargo Wharf. It is",
+        "rare for him to submit a request...",
+        "[Page]",
+        "",
+        "You should inquire into the details",
+        "at the Cargo Wharf. I shall await",
+        "your swift return...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Everyone in Tharsis was",
+        "surprised to hear that Raht was alive!",
+        "[Page]",
+        "",
+        "That boy really has the devil's own",
+        "luck... It is a useful trait in an",
+        "explorer.",
+        "[Page]",
+        "",
+        "I hope the same is true for you.",
+        "That you have the devil's own luck",
+        "and survive, come what may...",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Everyone in Tharsis was",
+        "surprised to hear that Raht was alive!",
+        "[Page]",
+        "",
+        "That boy really has the devil's own",
+        "luck... It is a useful trait in an",
+        "explorer.",
+        "[Page]",
+        "",
+        "I hope the same is true for you.",
+        "That you have the devil's own luck",
+        "and survive, come what may...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, yeh're here about the request?",
+        "Seems a regular here saw a downed",
+        "skyship in the [Color:5]Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "There was a man with it. Must've been",
+        "attacked by a monster... After I",
+        "heard, I felt I had to do something.",
+        "[Page]",
+        "",
+        "So I put in a request. I want yeh to",
+        "find where that ship went down and",
+        "tell me where it is.",
+        "[Page]",
+        "",
+        "Once I know, I can send a man out with",
+        "supplies and repair tools, right?",
+        "So I'm counting on yeh!",
+        ""
+      ],
+      "Translation": [
+        "Oh, yeh're here about the request?",
+        "Seems a regular here saw a downed",
+        "skyship in the [Color:5]Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "There was a man with it. Must've been",
+        "attacked by a monster... After I",
+        "heard, I felt I had to do something.",
+        "[Page]",
+        "",
+        "So I put in a request. I want yeh to",
+        "find where that ship went down and",
+        "tell me where it is.",
+        "[Page]",
+        "",
+        "Once I know, I can send a man out with",
+        "supplies and repair tools, right?",
+        "So I'm counting on yeh!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, did yeh find that crashed",
+        "explorer?",
+        ""
+      ],
+      "Translation": [
+        "Ah, did yeh find that crashed",
+        "explorer?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Have you found him?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Have you found him?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Yeah, didn't think it would be easy.",
+        "The Cloudy Stronghold's a big place.",
+        "All I can say is, good luck to yeh.",
+        ""
+      ],
+      "Translation": [
+        "Yeah, didn't think it would be easy.",
+        "The Cloudy Stronghold's a big place.",
+        "All I can say is, good luck to yeh.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "I wish I had any to give yeh! Do yeh",
+        "have any idea who this guy might be?",
+        ""
+      ],
+      "Translation": [
+        "I wish I had any to give yeh! Do yeh",
+        "have any idea who this guy might be?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Now that's the [Guild] Guild I",
+        "know! Then let's get to it. Can yeh",
+        "show me on the map where he was?",
+        ""
+      ],
+      "Translation": [
+        "Now that's the [Guild] Guild I",
+        "know! Then let's get to it. Can yeh",
+        "show me on the map where he was?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Hmmm, there, eh? All right. I'll go",
+        "ferry him supplies myself!",
+        ""
+      ],
+      "Translation": [
+        "Hmmm, there, eh? All right. I'll go",
+        "ferry him supplies myself!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "I sure didn't see any crashed",
+        "explorers where yeh sent me.",
+        "[Page]",
+        "",
+        "Yeh can't fool around with this!",
+        "A man's life is at stake here!",
+        "Give me the real coordinates.",
+        ""
+      ],
+      "Translation": [
+        "I sure didn't see any crashed",
+        "explorers where yeh sent me.",
+        "[Page]",
+        "",
+        "Yeh can't fool around with this!",
+        "A man's life is at stake here!",
+        "Give me the real coordinates.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Hey, yeh did it! There really was a",
+        "crashed explorer, just where yeh",
+        "sent me!",
+        "[Page]",
+        "",
+        "He talked my ear off, but for some",
+        "reason, I couldn't bring myself to",
+        "hate the guy.",
+        "[Page]",
+        "",
+        "I fixed up his skyship and left him",
+        "some supplies. Seemed like he was",
+        "zooming off toward Tharsis.",
+        "[Page]",
+        "",
+        "That was a good thing yeh did. I left",
+        "your reward with the gal at the bar",
+        "already, so make sure yeh get it!",
+        ""
+      ],
+      "Translation": [
+        "Hey, yeh did it! There really was a",
+        "crashed explorer, just where yeh",
+        "sent me!",
+        "[Page]",
+        "",
+        "He talked my ear off, but for some",
+        "reason, I couldn't bring myself to",
+        "hate the guy.",
+        "[Page]",
+        "",
+        "I fixed up his skyship and left him",
+        "some supplies. Seemed like he was",
+        "zooming off toward Tharsis.",
+        "[Page]",
+        "",
+        "That was a good thing yeh did. I left",
+        "your reward with the gal at the bar",
+        "already, so make sure yeh get it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, damn! I forgot to invoice him for",
+        "the repair fees! Guess I'll have to",
+        "collect the money later...",
+        ""
+      ],
+      "Translation": [
+        "Ah, damn! I forgot to invoice him for",
+        "the repair fees! Guess I'll have to",
+        "collect the money later...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "As you cautiously search for the",
+        "downed skyship, you hear someone",
+        "calling to you from directly below.",
+        "[Page]",
+        "",
+        "\"Heeeey! Funny meeting you here!",
+        "What do you think, seeing me here",
+        "like this!?\"",
+        "[Page]",
+        "",
+        "You lean over the side of the gondola",
+        "to see a wrecked skyship and a man",
+        "standing beside it.",
+        ""
+      ],
+      "Translation": [
+        "As you cautiously search for the",
+        "downed skyship, you hear someone",
+        "calling to you from directly below.",
+        "[Page]",
+        "",
+        "\"Heeeey! Funny meeting you here!",
+        "What do you think, seeing me here",
+        "like this!?\"",
+        "[Page]",
+        "",
+        "You lean over the side of the gondola",
+        "to see a wrecked skyship and a man",
+        "standing beside it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You gasp with surprise... This is the",
+        "explorer Raht who disappeared without",
+        "a trace!",
+        "[Page]",
+        "",
+        "\"Hey, long time no see,\" he says.",
+        "\"My disease got worse during my last",
+        "trip and I collapsed in these lands.",
+        "[Page]",
+        "",
+        "\"From what I heard later, a passing",
+        "explorer carried me to a clinic.",
+        "[Page]",
+        "",
+        "\"The medic there was really nice. He",
+        "asked some explorers to find materials",
+        "for a medicine that could cure me.",
+        "[Page]",
+        "",
+        "\"As you can see, thanks to the stuff",
+        "they brought back, my life was saved.",
+        "[Page]",
+        "",
+        "\"I owe my life to a lot of different",
+        "people now. I'm thinking of giving",
+        "up this explorer nonsense.",
+        "[Page]",
+        "",
+        "\"But I wanted to go on one last",
+        "journey, just to finish it off.",
+        "And I ended up crashing again...",
+        "[Page]",
+        "",
+        "\"Yeesh! All my stuff burned up and",
+        "I can't repair the ship... I just",
+        "want to go home on my own skyship!\"",
+        ""
+      ],
+      "Translation": [
+        "You gasp with surprise... This is the",
+        "explorer Raht who disappeared without",
+        "a trace!",
+        "[Page]",
+        "",
+        "\"Hey, long time no see,\" he says.",
+        "\"My disease got worse during my last",
+        "trip and I collapsed in these lands.",
+        "[Page]",
+        "",
+        "\"From what I heard later, a passing",
+        "explorer carried me to a clinic.",
+        "[Page]",
+        "",
+        "\"The medic there was really nice. He",
+        "asked some explorers to find materials",
+        "for a medicine that could cure me.",
+        "[Page]",
+        "",
+        "\"As you can see, thanks to the stuff",
+        "they brought back, my life was saved.",
+        "[Page]",
+        "",
+        "\"I owe my life to a lot of different",
+        "people now. I'm thinking of giving",
+        "up this explorer nonsense.",
+        "[Page]",
+        "",
+        "\"But I wanted to go on one last",
+        "journey, just to finish it off.",
+        "And I ended up crashing again...",
+        "[Page]",
+        "",
+        "\"Yeesh! All my stuff burned up and",
+        "I can't repair the ship... I just",
+        "want to go home on my own skyship!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "You are unsure how to feel about this",
+        "development. A range of conflicting",
+        "emotions storms through you...",
+        ""
+      ],
+      "Translation": [
+        "You are unsure how to feel about this",
+        "development. A range of conflicting",
+        "emotions storms through you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What will you do?[Color:0]",
+        "Punch him",
+        "Leave silently",
+        "Smile back",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What will you do?[Color:0]",
+        "Punch him",
+        "Leave silently",
+        "Smile back",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "What the!? Wh-What was that for!?",
+        "That hurt!",
+        ""
+      ],
+      "Translation": [
+        "What the!? Wh-What was that for!?",
+        "That hurt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Hm? Huh? Are you... leaving?",
+        "Hey... Hey!",
+        ""
+      ],
+      "Translation": [
+        "Hm? Huh? Are you... leaving?",
+        "Hey... Hey!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You've saved me so many times,",
+        "hahaha...",
+        "[Page]",
+        "",
+        "But I really need your help this one",
+        "last time.",
+        ""
+      ],
+      "Translation": [
+        "You've saved me so many times,",
+        "hahaha...",
+        "[Page]",
+        "",
+        "But I really need your help this one",
+        "last time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "You have found the crashed explorer.",
+        "You need only remember this location",
+        "and report it to the wharf master.",
+        ""
+      ],
+      "Translation": [
+        "You have found the crashed explorer.",
+        "You need only remember this location",
+        "and report it to the wharf master.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "You see a man waving to you... If you",
+        "tell the wharf master, he will deliver",
+        "repair tools for Raht's skyship.",
+        ""
+      ],
+      "Translation": [
+        "You see a man waving to you... If you",
+        "tell the wharf master, he will deliver",
+        "repair tools for Raht's skyship.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

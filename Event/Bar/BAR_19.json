@@ -1,0 +1,70 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_19",
+  "RelativePath": "Event\\Bar\\BAR_19.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Since you guys just started your",
+        "journey through the skies, let me",
+        "warn you about two things.",
+        "[Page]",
+        "",
+        "First... the [Color:5]dragon[Color:0]! If you see it",
+        "in the sky, don't do anything crazy.",
+        "[Page]",
+        "",
+        "Just coming near that enormous, bright",
+        "red fire dragon will provoke it into",
+        "tearing you to tiny pieces!",
+        "[Page]",
+        "",
+        "Second... the [Color:5][Enemy1:125][Color:0]! It's so cute that",
+        "no amount of skill will result in",
+        "anything but disaster!",
+        "[Page]",
+        "",
+        "It's said that whoever catches one is",
+        "guaranteed good luck... But even if",
+        "you find one, it fluffily runs away!",
+        "[Page]",
+        "",
+        "Do they hate me that much!?",
+        ""
+      ],
+      "Translation": [
+        "Since you guys just started your",
+        "journey through the skies, let me",
+        "warn you about two things.",
+        "[Page]",
+        "",
+        "First... the [Color:5]dragon[Color:0]! If you see it",
+        "in the sky, don't do anything crazy.",
+        "[Page]",
+        "",
+        "Just coming near that enormous, bright",
+        "red fire dragon will provoke it into",
+        "tearing you to tiny pieces!",
+        "[Page]",
+        "",
+        "Second... the [Color:5][Enemy1:125][Color:0]! It's so cute that",
+        "no amount of skill will result in",
+        "anything but disaster!",
+        "[Page]",
+        "",
+        "It's said that whoever catches one is",
+        "guaranteed good luck... But even if",
+        "you find one, it fluffily runs away!",
+        "[Page]",
+        "",
+        "Do they hate me that much!?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

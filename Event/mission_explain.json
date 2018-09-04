@@ -1,0 +1,244 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Mission descriptions",
+  "RelativePath": "Event\\mission_explain.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Head to the Old Forest Mine to the",
+        "west and find an Iridescent Ore.",
+        "Bring it to me, and I'll officially",
+        "make you Tharsis explorers.",
+        ""
+      ],
+      "Translation": [
+        "Head to the Old Forest Mine to the",
+        "west and find an Iridescent Ore.",
+        "Bring it to me, and I'll officially",
+        "make you Tharsis explorers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "We now know that the lower level",
+        "of the Lush Woodlands is held by",
+        "a beast with red fur. You must",
+        "eliminate this grave threat.",
+        ""
+      ],
+      "Translation": [
+        "We now know that the lower level",
+        "of the Lush Woodlands is held by",
+        "a beast with red fur. You must",
+        "eliminate this grave threat.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "A cordial relationship with the",
+        "Vessels of the Misty Ravine would",
+        "be most desirable. See that their",
+        "Medium gets my letter, won't you?",
+        ""
+      ],
+      "Translation": [
+        "A cordial relationship with the",
+        "Vessels of the Misty Ravine would",
+        "be most desirable. See that their",
+        "Medium gets my letter, won't you?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "The Sentinels face extinction",
+        "due to this plague, and only the",
+        "Titan's Heart can cure them.",
+        "Find it and deliver it to them.",
+        ""
+      ],
+      "Translation": [
+        "The Sentinels face extinction",
+        "due to this plague, and only the",
+        "Titan's Heart can cure them.",
+        "Find it and deliver it to them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "The self-styled Empire that has",
+        "kidnapped the Medium would like",
+        "to meet with me. Please act as",
+        "my escorts on the journey.",
+        ""
+      ],
+      "Translation": [
+        "The self-styled Empire that has",
+        "kidnapped the Medium would like",
+        "to meet with me. Please act as",
+        "my escorts on the journey.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "The Empire's aims are loathsome",
+        "and our negotiations have broken",
+        "off. I need you to rescue the",
+        "Medium and stop the Empire.",
+        ""
+      ],
+      "Translation": [
+        "The Empire's aims are loathsome",
+        "and our negotiations have broken",
+        "off. I need you to rescue the",
+        "Medium and stop the Empire.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "The Imperial Prince took the",
+        "Medium and absconded, but this",
+        "is not over. Head him off in the",
+        "depths of Yggdrasil!",
+        ""
+      ],
+      "Translation": [
+        "The Imperial Prince took the",
+        "Medium and absconded, but this",
+        "is not over. Head him off in the",
+        "depths of Yggdrasil!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 7 description.",
+        ""
+      ],
+      "Translation": [
+        "Mission 7 description.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 8 description.",
+        ""
+      ],
+      "Translation": [
+        "Mission 8 description.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 9 description.",
+        ""
+      ],
+      "Translation": [
+        "Mission 9 description.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 10 description.",
+        ""
+      ],
+      "Translation": [
+        "Mission 10 description.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 11 description.",
+        ""
+      ],
+      "Translation": [
+        "Mission 11 description.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 12 description.",
+        ""
+      ],
+      "Translation": [
+        "Mission 12 description.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

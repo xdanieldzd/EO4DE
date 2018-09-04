@@ -1,0 +1,56 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_47",
+  "RelativePath": "Event\\Bar\\BAR_47.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "The enemy's moving too fast for you",
+        "to hit? That's why you need a [Color:5]sniper[Color:0]",
+        "around. You'll have no problem then.",
+        "[Page]",
+        "",
+        "Our [Color:5]Snipe[Color:0] skills always aim true.",
+        "Use those, okay? Trust me, you'll",
+        "hit your mark.",
+        "[Page]",
+        "",
+        "And [Color:5]Spotter[Color:0] will relay the situation",
+        "to your allies, so their attacks are",
+        "solid gold too.",
+        "[Page]",
+        "",
+        "Bottom line, snipers are great. The",
+        "only thing I can't pierce is a woman's",
+        "heart. Everything I try is a dud...",
+        ""
+      ],
+      "Translation": [
+        "The enemy's moving too fast for you",
+        "to hit? That's why you need a [Color:5]sniper[Color:0]",
+        "around. You'll have no problem then.",
+        "[Page]",
+        "",
+        "Our [Color:5]Snipe[Color:0] skills always aim true.",
+        "Use those, okay? Trust me, you'll",
+        "hit your mark.",
+        "[Page]",
+        "",
+        "And [Color:5]Spotter[Color:0] will relay the situation",
+        "to your allies, so their attacks are",
+        "solid gold too.",
+        "[Page]",
+        "",
+        "Bottom line, snipers are great. The",
+        "only thing I can't pierce is a woman's",
+        "heart. Everything I try is a dud...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_42F",
+  "RelativePath": "Event\\Dungeon\\DUN_42F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "After defeating all the monstrous",
+        "fawns, you sense a new monster",
+        "approaching and prepare yourselves!",
+        "[Page]",
+        "",
+        "The monster is not yet within view,",
+        "but its hatred and malice toward you",
+        "is palpable already!",
+        "[Page]",
+        "",
+        "You can check your map to find and",
+        "challenge this new enemy, or attempt",
+        "to avoid it entirely.",
+        ""
+      ],
+      "Translation": [
+        "After defeating all the monstrous",
+        "fawns, you sense a new monster",
+        "approaching and prepare yourselves!",
+        "[Page]",
+        "",
+        "The monster is not yet within view,",
+        "but its hatred and malice toward you",
+        "is palpable already!",
+        "[Page]",
+        "",
+        "You can check your map to find and",
+        "challenge this new enemy, or attempt",
+        "to avoid it entirely.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "After defeating all the monstrous",
+        "fawns, you sense a new monster",
+        "approaching and prepare yourselves!",
+        "[Page]",
+        "",
+        "The monster is not yet within view,",
+        "but its hatred and malice toward you",
+        "is palpable already!",
+        "[Page]",
+        "",
+        "You can check your map to find and",
+        "challenge this new enemy, or attempt",
+        "to avoid it entirely.",
+        ""
+      ],
+      "Translation": [
+        "After defeating all the monstrous",
+        "fawns, you sense a new monster",
+        "approaching and prepare yourselves!",
+        "[Page]",
+        "",
+        "The monster is not yet within view,",
+        "but its hatred and malice toward you",
+        "is palpable already!",
+        "[Page]",
+        "",
+        "You can check your map to find and",
+        "challenge this new enemy, or attempt",
+        "to avoid it entirely.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk a narrow path in the Small",
+        "Orchard, you sight someone up ahead.",
+        "He seems to be a Tharsis soldier.",
+        ""
+      ],
+      "Translation": [
+        "As you walk a narrow path in the Small",
+        "Orchard, you sight someone up ahead.",
+        "He seems to be a Tharsis soldier.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hm? Do you have business in this",
+        "labyrinth too?\"",
+        "[Page]",
+        "",
+        "The soldier's cheerful manner is",
+        "apparent even through the armor",
+        "that masks his features.",
+        "[Page]",
+        "",
+        "\"The worst this place has are a few",
+        "weak fawns, so this'll be a breeze.",
+        "I'll finish up quick and hit the bar!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hm? Do you have business in this",
+        "labyrinth too?\"",
+        "[Page]",
+        "",
+        "The soldier's cheerful manner is",
+        "apparent even through the armor",
+        "that masks his features.",
+        "[Page]",
+        "",
+        "\"The worst this place has are a few",
+        "weak fawns, so this'll be a breeze.",
+        "I'll finish up quick and hit the bar!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier seems dubiously confident",
+        "for a man in a dangerous labyrinth.",
+        "He leaves, whistling to himself.",
+        ""
+      ],
+      "Translation": [
+        "The soldier seems dubiously confident",
+        "for a man in a dangerous labyrinth.",
+        "He leaves, whistling to himself.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "As you follow the path, you happen",
+        "upon tremendous pools of blood at",
+        "the corner and wince to yourself.",
+        ""
+      ],
+      "Translation": [
+        "As you follow the path, you happen",
+        "upon tremendous pools of blood at",
+        "the corner and wince to yourself.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Lying in the bloody pools are the",
+        "sad corpses of the city's soldiers!",
+        "And not merely one or two...",
+        "[Page]",
+        "",
+        "Their bodies are scattered at odd",
+        "intervals, each one's face twisted",
+        "in fear. They must have panicked...",
+        "[Page]",
+        "",
+        "There are large, hoof-shaped dents",
+        "in their armor. You do not doubt that",
+        "these mark the fatal blows.",
+        "[Page]",
+        "",
+        "There must be far deadlier monsters",
+        "lurking somewhere in this labyrinth...",
+        "You must be vigilant as you go.",
+        ""
+      ],
+      "Translation": [
+        "Lying in the bloody pools are the",
+        "sad corpses of the city's soldiers!",
+        "And not merely one or two...",
+        "[Page]",
+        "",
+        "Their bodies are scattered at odd",
+        "intervals, each one's face twisted",
+        "in fear. They must have panicked...",
+        "[Page]",
+        "",
+        "There are large, hoof-shaped dents",
+        "in their armor. You do not doubt that",
+        "these mark the fatal blows.",
+        "[Page]",
+        "",
+        "There must be far deadlier monsters",
+        "lurking somewhere in this labyrinth...",
+        "You must be vigilant as you go.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_72",
+  "RelativePath": "Event\\Bar\\BAR_72.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "I'm a travelling animal tamer! I love",
+        "animals. They never lie, and they",
+        "help me out in the dungeons!",
+        "[Page]",
+        "",
+        "But my friend Betty, the lion queen,",
+        "won't come no matter how much I call",
+        "her... Something must've happened!",
+        "[Page]",
+        "",
+        "So I set out in search of Betty.",
+        "And I heard she might be at this",
+        "[Color:5]Cloudy Stronghold[Color:0] place.",
+        "[Page]",
+        "",
+        "But it's too far to fly there on",
+        "Peewee! So I want you to use your",
+        "skyship to look for her. For Betty.",
+        "[Page]",
+        "",
+        "She loves eatin' and has a great nose!",
+        "So if you put food [Color:5]somewhere high up",
+        "with a strong wind[Color:0], she'll smell it!",
+        "[Page]",
+        "",
+        "What kinda food? Oh, she'll eat",
+        "anything! She's a queen, after all!",
+        "Okay, good luck out there!",
+        ""
+      ],
+      "Translation": [
+        "I'm a travelling animal tamer! I love",
+        "animals. They never lie, and they",
+        "help me out in the dungeons!",
+        "[Page]",
+        "",
+        "But my friend Betty, the lion queen,",
+        "won't come no matter how much I call",
+        "her... Something must've happened!",
+        "[Page]",
+        "",
+        "So I set out in search of Betty.",
+        "And I heard she might be at this",
+        "[Color:5]Cloudy Stronghold[Color:0] place.",
+        "[Page]",
+        "",
+        "But it's too far to fly there on",
+        "Peewee! So I want you to use your",
+        "skyship to look for her. For Betty.",
+        "[Page]",
+        "",
+        "She loves eatin' and has a great nose!",
+        "So if you put food [Color:5]somewhere high up",
+        "with a strong wind[Color:0], she'll smell it!",
+        "[Page]",
+        "",
+        "What kinda food? Oh, she'll eat",
+        "anything! She's a queen, after all!",
+        "Okay, good luck out there!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Someone said they saw Betty in this",
+        "place called the Cloudy Stronghold",
+        "I want you to look for her there.",
+        "[Page]",
+        "",
+        "If you put food down [Color:5]somewhere high",
+        "up where strong winds blow[Color:0], I'm sure",
+        "she'll smell it and come out!",
+        ""
+      ],
+      "Translation": [
+        "Someone said they saw Betty in this",
+        "place called the Cloudy Stronghold",
+        "I want you to look for her there.",
+        "[Page]",
+        "",
+        "If you put food down [Color:5]somewhere high",
+        "up where strong winds blow[Color:0], I'm sure",
+        "she'll smell it and come out!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, did it work? Did you find Betty,",
+        "the lion queen?",
+        ""
+      ],
+      "Translation": [
+        "Oh, did it work? Did you find Betty,",
+        "the lion queen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Huh? You beat her? Wait, you really",
+        "managed to beat Betty!? Huh... Was",
+        "that really her?",
+        "[Page]",
+        "",
+        "A white beast... with horns growing",
+        "out of its eyes? That sounds similar,",
+        "but Betty wears a big ribbon.",
+        "[Page]",
+        "",
+        "Maybe the guy who saw her didn't",
+        "really see her? Well, at least I",
+        "know now that Betty's not there.",
+        "[Page]",
+        "",
+        "Anyway, that's all for my request!",
+        "I'll tell the lady you finished it",
+        "so you can get your reward.",
+        "[Page]",
+        "",
+        "But about that fake? I think it's the",
+        "same kind of monster as Betty. Maybe",
+        "you can lure more out the same way!",
+        "[Page]",
+        "",
+        "Though I guess I'm back to where I",
+        "started... I'm gonna keep looking",
+        "for Betty! Good luck, guys!",
+        ""
+      ],
+      "Translation": [
+        "Huh? You beat her? Wait, you really",
+        "managed to beat Betty!? Huh... Was",
+        "that really her?",
+        "[Page]",
+        "",
+        "A white beast... with horns growing",
+        "out of its eyes? That sounds similar,",
+        "but Betty wears a big ribbon.",
+        "[Page]",
+        "",
+        "Maybe the guy who saw her didn't",
+        "really see her? Well, at least I",
+        "know now that Betty's not there.",
+        "[Page]",
+        "",
+        "Anyway, that's all for my request!",
+        "I'll tell the lady you finished it",
+        "so you can get your reward.",
+        "[Page]",
+        "",
+        "But about that fake? I think it's the",
+        "same kind of monster as Betty. Maybe",
+        "you can lure more out the same way!",
+        "[Page]",
+        "",
+        "Though I guess I'm back to where I",
+        "started... I'm gonna keep looking",
+        "for Betty! Good luck, guys!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Huh? You'll see me off? Nah, I'd be",
+        "too embarrasssed! Just make sure you",
+        "get your reward, okay?",
+        ""
+      ],
+      "Translation": [
+        "Huh? You'll see me off? Nah, I'd be",
+        "too embarrasssed! Just make sure you",
+        "get your reward, okay?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

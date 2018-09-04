@@ -1,0 +1,143 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_73",
+  "RelativePath": "Event\\Bar\\BAR_73.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You accepted my request...? Oh...",
+        "Thank you...",
+        "[Page]",
+        "",
+        "This key... an Imperial knight found",
+        "it in the Echoing Library... it must",
+        "be used in the [Color:5]Forgotten Capital[Color:0]...",
+        "[Page]",
+        "",
+        "I want you to find out what the key is",
+        "used for... Is that all right...?",
+        "[Page]",
+        "",
+        "Thank you... Good luck...",
+        ""
+      ],
+      "Translation": [
+        "You accepted my request...? Oh...",
+        "Thank you...",
+        "[Page]",
+        "",
+        "This key... an Imperial knight found",
+        "it in the Echoing Library... it must",
+        "be used in the [Color:5]Forgotten Capital[Color:0]...",
+        "[Page]",
+        "",
+        "I want you to find out what the key is",
+        "used for... Is that all right...?",
+        "[Page]",
+        "",
+        "Thank you... Good luck...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Do you still have the key I gave you?",
+        "It should open a door in the [Color:5]Forgotten",
+        "Capital[Color:0]...",
+        "[Page]",
+        "",
+        "None of the Empire's explorers can",
+        "get in... That's why I sought you",
+        "out... I'm counting on you...",
+        ""
+      ],
+      "Translation": [
+        "Do you still have the key I gave you?",
+        "It should open a door in the [Color:5]Forgotten",
+        "Capital[Color:0]...",
+        "[Page]",
+        "",
+        "None of the Empire's explorers can",
+        "get in... That's why I sought you",
+        "out... I'm counting on you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Oh... Hi... Did you find out the",
+        "key's secret...? Did it really go to",
+        "something in the Forgotten Capital?",
+        ""
+      ],
+      "Translation": [
+        "Oh... Hi... Did you find out the",
+        "key's secret...? Did it really go to",
+        "something in the Forgotten Capital?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "I see... The [Item:1621] was",
+        "hidden away there...",
+        "[Page]",
+        "",
+        "I am very interested to read that",
+        "book... But it's not me who truly",
+        "needs it... It's you...",
+        "[Page]",
+        "",
+        "I'm satisfied just to know the secret",
+        "of the key... So you can take it...",
+        "Just let me read it someday...",
+        "[Page]",
+        "",
+        "Thanks for your time... I gave your",
+        "reward to the bartender... Now then...",
+        "I'm off...",
+        ""
+      ],
+      "Translation": [
+        "I see... The [Item:1621] was",
+        "hidden away there...",
+        "[Page]",
+        "",
+        "I am very interested to read that",
+        "book... But it's not me who truly",
+        "needs it... It's you...",
+        "[Page]",
+        "",
+        "I'm satisfied just to know the secret",
+        "of the key... So you can take it...",
+        "Just let me read it someday...",
+        "[Page]",
+        "",
+        "Thanks for your time... I gave your",
+        "reward to the bartender... Now then...",
+        "I'm off...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

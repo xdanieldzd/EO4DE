@@ -1,0 +1,4414 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_04F",
+  "RelativePath": "Event\\Dungeon\\DUN_04F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "As you disembark from the skyship,",
+        "you step into a new maze.",
+        "[Page]",
+        "",
+        "This one is a misty forest whose tall",
+        "trees grow in clusters.",
+        "[Page]",
+        "",
+        "You begin walking through the misty",
+        "labyrinth, appreciating its tranquil",
+        "atmosphere.",
+        ""
+      ],
+      "Translation": [
+        "As you disembark from the skyship,",
+        "you step into a new maze.",
+        "[Page]",
+        "",
+        "This one is a misty forest whose tall",
+        "trees grow in clusters.",
+        "[Page]",
+        "",
+        "You begin walking through the misty",
+        "labyrinth, appreciating its tranquil",
+        "atmosphere.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk through the dense forest,",
+        "you stop momentarily. Is that singing",
+        "you hear from the south...?",
+        "[Page]",
+        "",
+        "At first, it seems to be a trick of",
+        "the wind, but you listen closer and",
+        "know that you are not hearing things.",
+        "[Page]",
+        "",
+        "Could it be another party of explorers",
+        "up ahead? What awaits you there...?",
+        ""
+      ],
+      "Translation": [
+        "As you walk through the dense forest,",
+        "you stop momentarily. Is that singing",
+        "you hear from the south...?",
+        "[Page]",
+        "",
+        "At first, it seems to be a trick of",
+        "the wind, but you listen closer and",
+        "know that you are not hearing things.",
+        "[Page]",
+        "",
+        "Could it be another party of explorers",
+        "up ahead? What awaits you there...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You reach an open clearing without",
+        "any trees. A woman is here with her",
+        "back to you. You cannot see her face.",
+        "[Page]",
+        "",
+        "Small, firefly-like lights float",
+        "silently around her.",
+        "[Page]",
+        "",
+        "It is she who sings the song that",
+        "drew you here.",
+        "[Page]",
+        "",
+        "The tune she hums, oblivious to your",
+        "presence, is wordless.",
+        "[Page]",
+        "",
+        "You are unsure of what to do now that",
+        "you have found her, though addressing",
+        "her is always an option.",
+        ""
+      ],
+      "Translation": [
+        "You reach an open clearing without",
+        "any trees. A woman is here with her",
+        "back to you. You cannot see her face.",
+        "[Page]",
+        "",
+        "Small, firefly-like lights float",
+        "silently around her.",
+        "[Page]",
+        "",
+        "It is she who sings the song that",
+        "drew you here.",
+        "[Page]",
+        "",
+        "The tune she hums, oblivious to your",
+        "presence, is wordless.",
+        "[Page]",
+        "",
+        "You are unsure of what to do now that",
+        "you have found her, though addressing",
+        "her is always an option.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Talk to her?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Talk to her?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "When you call to her from behind, she",
+        "flinches and spins to face you.",
+        "[Page]",
+        "",
+        "The lights floating around her",
+        "abruptly dissipate.",
+        ""
+      ],
+      "Translation": [
+        "When you call to her from behind, she",
+        "flinches and spins to face you.",
+        "[Page]",
+        "",
+        "The lights floating around her",
+        "abruptly dissipate.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to leave her be and simply",
+        "enjoy her song. It is quiet and",
+        "exquisite, with a hint of loneliness.",
+        "[Page]",
+        "",
+        "Eventually, it ends. The lights that",
+        "had been floating around her seem to",
+        "have dissipated.",
+        "[Page]",
+        "",
+        "She gives a small sigh, stands, and",
+        "happens to look your way.",
+        ""
+      ],
+      "Translation": [
+        "You decide to leave her be and simply",
+        "enjoy her song. It is quiet and",
+        "exquisite, with a hint of loneliness.",
+        "[Page]",
+        "",
+        "Eventually, it ends. The lights that",
+        "had been floating around her seem to",
+        "have dissipated.",
+        "[Page]",
+        "",
+        "She gives a small sigh, stands, and",
+        "happens to look your way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "\"Huh...?\" The woman, or perhaps \"girl\"",
+        "would be more appropriate, stares at",
+        "you with widened eyes.",
+        "[Page]",
+        "",
+        "Her mouth opens and closes, but she",
+        "seems unable to find the right words",
+        "to express her shock.",
+        "[Page]",
+        "",
+        "In an attempt to break the ice, you",
+        "address her, but it seems to frighten",
+        "her and she takes a step back.",
+        ""
+      ],
+      "Translation": [
+        "\"Huh...?\" The woman, or perhaps \"girl\"",
+        "would be more appropriate, stares at",
+        "you with widened eyes.",
+        "[Page]",
+        "",
+        "Her mouth opens and closes, but she",
+        "seems unable to find the right words",
+        "to express her shock.",
+        "[Page]",
+        "",
+        "In an attempt to break the ice, you",
+        "address her, but it seems to frighten",
+        "her and she takes a step back.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Suddenly, as if reacting to her",
+        "movement, something darts out from",
+        "the nearby brush!",
+        "[Page]",
+        "",
+        "Its unearthly form looks like a shadow",
+        "in the shape of a woman. Seeing it,",
+        "the girl gasps.",
+        "[Page]",
+        "",
+        "\"What is a [Color:5]Hollow[Color:0] doing here!? Back!",
+        "S-Stay back!\"",
+        "[Page]",
+        "",
+        "But the shadow ignores the girl and",
+        "draws ever closer. You unsheathe your",
+        "weapons to confront the enemy!",
+        ""
+      ],
+      "Translation": [
+        "Suddenly, as if reacting to her",
+        "movement, something darts out from",
+        "the nearby brush!",
+        "[Page]",
+        "",
+        "Its unearthly form looks like a shadow",
+        "in the shape of a woman. Seeing it,",
+        "the girl gasps.",
+        "[Page]",
+        "",
+        "\"What is a [Color:5]Hollow[Color:0] doing here!? Back!",
+        "S-Stay back!\"",
+        "[Page]",
+        "",
+        "But the shadow ignores the girl and",
+        "draws ever closer. You unsheathe your",
+        "weapons to confront the enemy!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "After managing to slay the unfamiliar",
+        "enemy, you turn toward the young girl.",
+        "[Page]",
+        "",
+        "She had been struck dumb during the",
+        "battle, but now that it is over, she",
+        "hastily bows to you.",
+        ""
+      ],
+      "Translation": [
+        "After managing to slay the unfamiliar",
+        "enemy, you turn toward the young girl.",
+        "[Page]",
+        "",
+        "She had been struck dumb during the",
+        "battle, but now that it is over, she",
+        "hastily bows to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"I thank you for saving me. I hope",
+        "that none of you were hurt...\"",
+        "[Page]",
+        "",
+        "You tell the girl you are no worse",
+        "for wear and she smiles with relief.",
+        "\"I am glad to hear it. Well done.",
+        "[Page]",
+        "",
+        "\"Not to be rude, but... are you",
+        "humans as well?\" the girl asks",
+        "with restrained curiosity.",
+        "[Page]",
+        "",
+        "\"I regret cringing to see you. But...",
+        "Yggdrasil spoke truly. I was told that",
+        "if I waited here, humans would come!\"",
+        "[Page]",
+        "",
+        "She seems too excited to realize the",
+        "import of her own words...",
+        "[Page]",
+        "",
+        "She made reference to Yggdrasil",
+        "speaking... What could this mean?",
+        "[Page]",
+        "",
+        "\"I'm known as the [Color:5]Medium[Color:0] in town.",
+        "And what are you called?\"",
+        ""
+      ],
+      "Translation": [
+        "\"I thank you for saving me. I hope",
+        "that none of you were hurt...\"",
+        "[Page]",
+        "",
+        "You tell the girl you are no worse",
+        "for wear and she smiles with relief.",
+        "\"I am glad to hear it. Well done.",
+        "[Page]",
+        "",
+        "\"Not to be rude, but... are you",
+        "humans as well?\" the girl asks",
+        "with restrained curiosity.",
+        "[Page]",
+        "",
+        "\"I regret cringing to see you. But...",
+        "Yggdrasil spoke truly. I was told that",
+        "if I waited here, humans would come!\"",
+        "[Page]",
+        "",
+        "She seems too excited to realize the",
+        "import of her own words...",
+        "[Page]",
+        "",
+        "She made reference to Yggdrasil",
+        "speaking... What could this mean?",
+        "[Page]",
+        "",
+        "\"I'm known as the [Color:5]Medium[Color:0] in town.",
+        "And what are you called?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Your party introduces themselves to",
+        "the girl, each in turn.",
+        "[Page]",
+        "",
+        "The girl's wariness has subsided and",
+        "her eyes are bright as she questions",
+        "you. She seems to be opening up...",
+        "[Page]",
+        "",
+        "But the conversation comes to a",
+        "crashing halt as a woman rushes in",
+        "from the south, staff in hand.",
+        "[Page]",
+        "",
+        "\"You...! Get away from the Medium!\"",
+        ""
+      ],
+      "Translation": [
+        "Your party introduces themselves to",
+        "the girl, each in turn.",
+        "[Page]",
+        "",
+        "The girl's wariness has subsided and",
+        "her eyes are bright as she questions",
+        "you. She seems to be opening up...",
+        "[Page]",
+        "",
+        "But the conversation comes to a",
+        "crashing halt as a woman rushes in",
+        "from the south, staff in hand.",
+        "[Page]",
+        "",
+        "\"You...! Get away from the Medium!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "You recognize the woman. She is the",
+        "one who called herself Wufan, who",
+        "saved you in the Miasma Forest.",
+        "[Page]",
+        "",
+        "\"It appears my faith in humanity that",
+        "led me to save you was a mistake. To",
+        "think that you would come here...",
+        "[Page]",
+        "",
+        "\"And you dare address the Medium!",
+        "This is a disgrace... I shall banish",
+        "you from this place myself!\"",
+        "[Page]",
+        "",
+        "She seems ready and eager to attack!",
+        "But the girl quickly steps in between",
+        "you and the angry woman.",
+        ""
+      ],
+      "Translation": [
+        "You recognize the woman. She is the",
+        "one who called herself Wufan, who",
+        "saved you in the Miasma Forest.",
+        "[Page]",
+        "",
+        "\"It appears my faith in humanity that",
+        "led me to save you was a mistake. To",
+        "think that you would come here...",
+        "[Page]",
+        "",
+        "\"And you dare address the Medium!",
+        "This is a disgrace... I shall banish",
+        "you from this place myself!\"",
+        "[Page]",
+        "",
+        "She seems ready and eager to attack!",
+        "But the girl quickly steps in between",
+        "you and the angry woman.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "\"Wufan, wait! These people...",
+        "Guild [Guild] saved me from",
+        "the Hollows.",
+        "[Page]",
+        "",
+        "\"And look! They're just like me!",
+        "They're human too! How splendid!",
+        "[Page]",
+        "",
+        "\"I want to talk to them some more.",
+        "Can't I, please?\"",
+        "[Page]",
+        "",
+        "Wufan knits her brow and tries to",
+        "dissuade the girl, but eventually",
+        "sighs at her stubbornness.",
+        ""
+      ],
+      "Translation": [
+        "\"Wufan, wait! These people...",
+        "Guild [Guild] saved me from",
+        "the Hollows.",
+        "[Page]",
+        "",
+        "\"And look! They're just like me!",
+        "They're human too! How splendid!",
+        "[Page]",
+        "",
+        "\"I want to talk to them some more.",
+        "Can't I, please?\"",
+        "[Page]",
+        "",
+        "Wufan knits her brow and tries to",
+        "dissuade the girl, but eventually",
+        "sighs at her stubbornness.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "\"If you must. But please, continue",
+        "your conversation inside the town",
+        "walls.",
+        "[Page]",
+        "",
+        "\"There is no precedent for Hollows",
+        "appearing in such a shallow stratum,",
+        "but we must be vigilant.\"",
+        "[Page]",
+        "",
+        "You assume that the shadowy creatures",
+        "you fought a moment ago were these",
+        "Hollows. Wufan turns toward you...",
+        "[Page]",
+        "",
+        "\"...I trust you overheard. We will",
+        "wait for you in [Color:5]Vessel Town[Color:0], which",
+        "stands just down this path.",
+        "[Page]",
+        "",
+        "\"What the Medium wants, she gets.",
+        "I will prepare a reward for you. The",
+        "path is winding, so don't go astray.\"",
+        "[Page]",
+        "",
+        "Wufan sternly takes the Medium's hand",
+        "and turns her back to you as she",
+        "begins walking away.",
+        ""
+      ],
+      "Translation": [
+        "\"If you must. But please, continue",
+        "your conversation inside the town",
+        "walls.",
+        "[Page]",
+        "",
+        "\"There is no precedent for Hollows",
+        "appearing in such a shallow stratum,",
+        "but we must be vigilant.\"",
+        "[Page]",
+        "",
+        "You assume that the shadowy creatures",
+        "you fought a moment ago were these",
+        "Hollows. Wufan turns toward you...",
+        "[Page]",
+        "",
+        "\"...I trust you overheard. We will",
+        "wait for you in [Color:5]Vessel Town[Color:0], which",
+        "stands just down this path.",
+        "[Page]",
+        "",
+        "\"What the Medium wants, she gets.",
+        "I will prepare a reward for you. The",
+        "path is winding, so don't go astray.\"",
+        "[Page]",
+        "",
+        "Wufan sternly takes the Medium's hand",
+        "and turns her back to you as she",
+        "begins walking away.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ow... Hey! What's gotten into you?",
+        "I'm sorry, everyone, Wufan usually",
+        "isn't like this.",
+        "[Page]",
+        "",
+        "\"I have to go with her. We will be at",
+        "Vessel Town, so please be sure to",
+        "visit. I shall be waiting!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ow... Hey! What's gotten into you?",
+        "I'm sorry, everyone, Wufan usually",
+        "isn't like this.",
+        "[Page]",
+        "",
+        "\"I have to go with her. We will be at",
+        "Vessel Town, so please be sure to",
+        "visit. I shall be waiting!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "With that, Wufan drags the girl away.",
+        "Is there indeed a town this deep in",
+        "the labyrinth...?",
+        "[Page]",
+        "",
+        "If so, it could be a very important",
+        "discovery...",
+        ""
+      ],
+      "Translation": [
+        "With that, Wufan drags the girl away.",
+        "Is there indeed a town this deep in",
+        "the labyrinth...?",
+        "[Page]",
+        "",
+        "If so, it could be a very important",
+        "discovery...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "After opening the door, you are met",
+        "with tall, wooden structures.",
+        ""
+      ],
+      "Translation": [
+        "After opening the door, you are met",
+        "with tall, wooden structures.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "You would never have guessed when",
+        "viewing the area from above that these",
+        "were here... They must be well hidden.",
+        "[Page]",
+        "",
+        "Could this be the Vessel Town that",
+        "the Medium spoke of?",
+        ""
+      ],
+      "Translation": [
+        "You would never have guessed when",
+        "viewing the area from above that these",
+        "were here... They must be well hidden.",
+        "[Page]",
+        "",
+        "Could this be the Vessel Town that",
+        "the Medium spoke of?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "\"Humans...!? What business do you",
+        "have in our town!?\"",
+        "[Page]",
+        "",
+        "The man standing by the gate raises",
+        "his voice in alarm. You note that his",
+        "arms and hands are abnormally thin.",
+        "[Page]",
+        "",
+        "He must be a Vessel himself. With",
+        "astonishing speed, he reaches for",
+        "the quiver on his back.",
+        "[Page]",
+        "",
+        "Fortunately for all, a small figure",
+        "rushes in to stop him. It is the girl",
+        "you met in the forest.",
+        ""
+      ],
+      "Translation": [
+        "\"Humans...!? What business do you",
+        "have in our town!?\"",
+        "[Page]",
+        "",
+        "The man standing by the gate raises",
+        "his voice in alarm. You note that his",
+        "arms and hands are abnormally thin.",
+        "[Page]",
+        "",
+        "He must be a Vessel himself. With",
+        "astonishing speed, he reaches for",
+        "the quiver on his back.",
+        "[Page]",
+        "",
+        "Fortunately for all, a small figure",
+        "rushes in to stop him. It is the girl",
+        "you met in the forest.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hold! Do not hurt them!\"",
+        "[Page]",
+        "",
+        "She intervenes between the Vessel on",
+        "guard and your party.",
+        ""
+      ],
+      "Translation": [
+        "\"Hold! Do not hurt them!\"",
+        "[Page]",
+        "",
+        "She intervenes between the Vessel on",
+        "guard and your party.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "\"Did Wufan not mention it? These are",
+        "the ones who saved me in the forest.",
+        "They are my guests.",
+        "[Page]",
+        "",
+        "\"I am sorry... Did you run into any",
+        "difficulties on your way? I am happy",
+        "to see you. We have a meal prepared!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Did Wufan not mention it? These are",
+        "the ones who saved me in the forest.",
+        "They are my guests.",
+        "[Page]",
+        "",
+        "\"I am sorry... Did you run into any",
+        "difficulties on your way? I am happy",
+        "to see you. We have a meal prepared!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "The girl takes your hand and leads you",
+        "further into town.",
+        "[Page]",
+        "",
+        "The Vessel soldier lowers his readied",
+        "bow, but he seems unconvinced.",
+        "[Page]",
+        "",
+        "You see scarcely anyone else on the",
+        "open roads. Could they all be in",
+        "hiding...?",
+        ""
+      ],
+      "Translation": [
+        "The girl takes your hand and leads you",
+        "further into town.",
+        "[Page]",
+        "",
+        "The Vessel soldier lowers his readied",
+        "bow, but he seems unconvinced.",
+        "[Page]",
+        "",
+        "You see scarcely anyone else on the",
+        "open roads. Could they all be in",
+        "hiding...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "The ones you do see from time to time",
+        "are all Vessels. There is not one",
+        "other human in the whole town.",
+        "[Page]",
+        "",
+        "The Vessels glare at you coldly;",
+        "some speak to each other in hushed",
+        "whispers.",
+        "[Page]",
+        "",
+        "When you look uneasily at the Medium,",
+        "her eyes are downcast with shame.",
+        ""
+      ],
+      "Translation": [
+        "The ones you do see from time to time",
+        "are all Vessels. There is not one",
+        "other human in the whole town.",
+        "[Page]",
+        "",
+        "The Vessels glare at you coldly;",
+        "some speak to each other in hushed",
+        "whispers.",
+        "[Page]",
+        "",
+        "When you look uneasily at the Medium,",
+        "her eyes are downcast with shame.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "\"Er... I think they are only surprised",
+        "to see you. Come, sit! Sit!\"",
+        "[Page]",
+        "",
+        "She smiles at you, but it does not",
+        "reach her eyes.",
+        "[Page]",
+        "",
+        "The girl retrieves a bowl filled with",
+        "fruit and seeds and offers it to you",
+        "to eat...",
+        "[Page]",
+        "",
+        "\"How did you come here? What sorts of",
+        "things do you do normally? And what",
+        "kind of food do you prefer?\"",
+        "[Page]",
+        "",
+        "The questions come one after another",
+        "in a cheerful barrage.",
+        "[Page]",
+        "",
+        "But you wonder if the ingenue act is",
+        "deliberate... You interrupt to ask if",
+        "there are any other humans here.",
+        "[Page]",
+        "",
+        "\"No, I am the only one,\" she says.",
+        "\"I have no mother or father. Until",
+        "today, I thought I was unique.",
+        "[Page]",
+        "",
+        "\"I heard that the rest of humanity",
+        "disappeared long ago... but it seems",
+        "there are things Wufan doesn't know.",
+        "[Page]",
+        "",
+        "\"Are the others like us? How many",
+        "humans would you say there are where",
+        "you come from?\"",
+        "[Page]",
+        "",
+        "You hesitate before answering. You",
+        "want to give her the truth, but are",
+        "not sure how she would react...",
+        ""
+      ],
+      "Translation": [
+        "\"Er... I think they are only surprised",
+        "to see you. Come, sit! Sit!\"",
+        "[Page]",
+        "",
+        "She smiles at you, but it does not",
+        "reach her eyes.",
+        "[Page]",
+        "",
+        "The girl retrieves a bowl filled with",
+        "fruit and seeds and offers it to you",
+        "to eat...",
+        "[Page]",
+        "",
+        "\"How did you come here? What sorts of",
+        "things do you do normally? And what",
+        "kind of food do you prefer?\"",
+        "[Page]",
+        "",
+        "The questions come one after another",
+        "in a cheerful barrage.",
+        "[Page]",
+        "",
+        "But you wonder if the ingenue act is",
+        "deliberate... You interrupt to ask if",
+        "there are any other humans here.",
+        "[Page]",
+        "",
+        "\"No, I am the only one,\" she says.",
+        "\"I have no mother or father. Until",
+        "today, I thought I was unique.",
+        "[Page]",
+        "",
+        "\"I heard that the rest of humanity",
+        "disappeared long ago... but it seems",
+        "there are things Wufan doesn't know.",
+        "[Page]",
+        "",
+        "\"Are the others like us? How many",
+        "humans would you say there are where",
+        "you come from?\"",
+        "[Page]",
+        "",
+        "You hesitate before answering. You",
+        "want to give her the truth, but are",
+        "not sure how she would react...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Tell her truthfully?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Tell her truthfully?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "You tell the Medium about Tharsis and",
+        "the many other cities in the world",
+        "far beyond it.",
+        "[Page]",
+        "",
+        "She is shocked to hear of an entire",
+        "world she has never seen. Her eyes go",
+        "soft as she loses herself in reverie.",
+        "[Page]",
+        "",
+        "It is the first time you can recall",
+        "her youth showing through since you",
+        "arrived in this town.",
+        "[Page]",
+        "",
+        "\"That's amazing... you've come so far",
+        "to get here. I wish I could see the",
+        "places you've been.\"",
+        "[Page]",
+        "",
+        "Her words are off the cuff and",
+        "genuine, but a cold voice spoils",
+        "her delight.",
+        "[Page]",
+        "",
+        "\"Medium. You must not listen to what",
+        "these humans tell you.\"",
+        "[Page]",
+        "",
+        "The Vessel called Wufan approaches.",
+        "You are not certain how long she had",
+        "been listening.",
+        ""
+      ],
+      "Translation": [
+        "You tell the Medium about Tharsis and",
+        "the many other cities in the world",
+        "far beyond it.",
+        "[Page]",
+        "",
+        "She is shocked to hear of an entire",
+        "world she has never seen. Her eyes go",
+        "soft as she loses herself in reverie.",
+        "[Page]",
+        "",
+        "It is the first time you can recall",
+        "her youth showing through since you",
+        "arrived in this town.",
+        "[Page]",
+        "",
+        "\"That's amazing... you've come so far",
+        "to get here. I wish I could see the",
+        "places you've been.\"",
+        "[Page]",
+        "",
+        "Her words are off the cuff and",
+        "genuine, but a cold voice spoils",
+        "her delight.",
+        "[Page]",
+        "",
+        "\"Medium. You must not listen to what",
+        "these humans tell you.\"",
+        "[Page]",
+        "",
+        "The Vessel called Wufan approaches.",
+        "You are not certain how long she had",
+        "been listening.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "To tell her about a world she may",
+        "never get to see would be cruel.",
+        "You decide to change the subject.",
+        "[Page]",
+        "",
+        "\"I wonder if I'll ever have the chance",
+        "to leave this town... I'm not as",
+        "strong as your guild, I'm afraid.\"",
+        "[Page]",
+        "",
+        "The girl's shoulders sag. As you try",
+        "to think of a suitable reply, a sharp",
+        "voice interjects.",
+        "[Page]",
+        "",
+        "\"That is out of the question, Medium.",
+        "The outside world is festering with",
+        "impurities.",
+        "[Page]",
+        "",
+        "\"Only this town is worthy of",
+        "your gift.",
+        "[Page]",
+        "",
+        "The Vessel called Wufan approaches.",
+        "You are not certain how long she had",
+        "been listening.",
+        ""
+      ],
+      "Translation": [
+        "To tell her about a world she may",
+        "never get to see would be cruel.",
+        "You decide to change the subject.",
+        "[Page]",
+        "",
+        "\"I wonder if I'll ever have the chance",
+        "to leave this town... I'm not as",
+        "strong as your guild, I'm afraid.\"",
+        "[Page]",
+        "",
+        "The girl's shoulders sag. As you try",
+        "to think of a suitable reply, a sharp",
+        "voice interjects.",
+        "[Page]",
+        "",
+        "\"That is out of the question, Medium.",
+        "The outside world is festering with",
+        "impurities.",
+        "[Page]",
+        "",
+        "\"Only this town is worthy of",
+        "your gift.",
+        "[Page]",
+        "",
+        "The Vessel called Wufan approaches.",
+        "You are not certain how long she had",
+        "been listening.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "\"Humans. I take it that you know",
+        "nothing of what happened in these",
+        "lands long ago.",
+        "[Page]",
+        "",
+        "\"Since I doubt you will return empty-",
+        "handed, I will tell of the legend.",
+        "And then you will leave at once.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Humans. I take it that you know",
+        "nothing of what happened in these",
+        "lands long ago.",
+        "[Page]",
+        "",
+        "\"Since I doubt you will return empty-",
+        "handed, I will tell of the legend.",
+        "And then you will leave at once.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "The Medium starts to protest, but",
+        "Wufan pays her no heed and quietly",
+        "tells the tale.",
+        "[Page]",
+        "",
+        "Once, it seems, many humans lived at",
+        "the foot of Yggdrasil and created",
+        "other races to take care of it.",
+        "[Page]",
+        "",
+        "The Vessels were among these.",
+        "[Page]",
+        "",
+        "For a time, there was peace, and",
+        "all lived under the blessings of",
+        "Yggdrasil. But then, one day...",
+        "[Page]",
+        "",
+        "A Titan as tall as the heavens came",
+        "and hid Yggdrasil. Its blessings",
+        "were lost, along with many lives.",
+        "[Page]",
+        "",
+        "The humans fled in terror of the",
+        "Titan, but the Vessels worked",
+        "together to slay the monster.",
+        "[Page]",
+        "",
+        "And thus did Yggdrasil return to the",
+        "world. The Vessels worship it and",
+        "live in its lands to this day.",
+        ""
+      ],
+      "Translation": [
+        "The Medium starts to protest, but",
+        "Wufan pays her no heed and quietly",
+        "tells the tale.",
+        "[Page]",
+        "",
+        "Once, it seems, many humans lived at",
+        "the foot of Yggdrasil and created",
+        "other races to take care of it.",
+        "[Page]",
+        "",
+        "The Vessels were among these.",
+        "[Page]",
+        "",
+        "For a time, there was peace, and",
+        "all lived under the blessings of",
+        "Yggdrasil. But then, one day...",
+        "[Page]",
+        "",
+        "A Titan as tall as the heavens came",
+        "and hid Yggdrasil. Its blessings",
+        "were lost, along with many lives.",
+        "[Page]",
+        "",
+        "The humans fled in terror of the",
+        "Titan, but the Vessels worked",
+        "together to slay the monster.",
+        "[Page]",
+        "",
+        "And thus did Yggdrasil return to the",
+        "world. The Vessels worship it and",
+        "live in its lands to this day.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "\"...The Medium is human, but she is",
+        "not like the cowards who fled from",
+        "the Titan,\" sneers Wufan.",
+        "[Page]",
+        "",
+        "\"She is the one true human with",
+        "oracular powers... She alone can",
+        "hear Yggdrasil's voice.",
+        "[Page]",
+        "",
+        "\"Yggdrasil speaks through the Medium",
+        "to this day to direct we Vessels.",
+        "She is human, but nothing like you.",
+        "[Page]",
+        "",
+        "\"I thank you for protecting her, but",
+        "we cannot forgive your ancestors for",
+        "turning their backs on the Titan.",
+        "[Page]",
+        "",
+        "\"Here is your reward. As you are",
+        "skilled in combat, you may find it",
+        "useful. But never return here.\"",
+        "[Page]",
+        "",
+        "With that, Wufan hands you an",
+        "old book.",
+        ""
+      ],
+      "Translation": [
+        "\"...The Medium is human, but she is",
+        "not like the cowards who fled from",
+        "the Titan,\" sneers Wufan.",
+        "[Page]",
+        "",
+        "\"She is the one true human with",
+        "oracular powers... She alone can",
+        "hear Yggdrasil's voice.",
+        "[Page]",
+        "",
+        "\"Yggdrasil speaks through the Medium",
+        "to this day to direct we Vessels.",
+        "She is human, but nothing like you.",
+        "[Page]",
+        "",
+        "\"I thank you for protecting her, but",
+        "we cannot forgive your ancestors for",
+        "turning their backs on the Titan.",
+        "[Page]",
+        "",
+        "\"Here is your reward. As you are",
+        "skilled in combat, you may find it",
+        "useful. But never return here.\"",
+        "[Page]",
+        "",
+        "With that, Wufan hands you an",
+        "old book.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Just then, she draws near and whispers",
+        "into your ear.",
+        "[Page]",
+        "",
+        "\"Why did the Medium choose you to",
+        "open up to...? You will not take her",
+        "from here. She is happier with us!\"",
+        "[Page]",
+        "",
+        "The burning hatred in her eyes is",
+        "unmistakable...",
+        ""
+      ],
+      "Translation": [
+        "Just then, she draws near and whispers",
+        "into your ear.",
+        "[Page]",
+        "",
+        "\"Why did the Medium choose you to",
+        "open up to...? You will not take her",
+        "from here. She is happier with us!\"",
+        "[Page]",
+        "",
+        "The burning hatred in her eyes is",
+        "unmistakable...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Wufan is with you every step of the",
+        "way out of town.",
+        "[Page]",
+        "",
+        "\"Why would you treat them so horribly?",
+        "I am human, too! They are no different",
+        "than me!\"",
+        "[Page]",
+        "",
+        "The Medium's protest against your",
+        "shabby treatment can be heard even",
+        "outside the town.",
+        "[Page]",
+        "",
+        "Your investigation of the Misty Ravine",
+        "has taken an unexpected turn...",
+        "[Page]",
+        "",
+        "Regardless of the Vessels' animosity,",
+        "you cannot stay silent about what",
+        "you have seen and heard today.",
+        "[Page]",
+        "",
+        "Once you return to Tharsis, [Color:5]the",
+        "Outland Count must know about this[Color:0]",
+        "at once.",
+        ""
+      ],
+      "Translation": [
+        "Wufan is with you every step of the",
+        "way out of town.",
+        "[Page]",
+        "",
+        "\"Why would you treat them so horribly?",
+        "I am human, too! They are no different",
+        "than me!\"",
+        "[Page]",
+        "",
+        "The Medium's protest against your",
+        "shabby treatment can be heard even",
+        "outside the town.",
+        "[Page]",
+        "",
+        "Your investigation of the Misty Ravine",
+        "has taken an unexpected turn...",
+        "[Page]",
+        "",
+        "Regardless of the Vessels' animosity,",
+        "you cannot stay silent about what",
+        "you have seen and heard today.",
+        "[Page]",
+        "",
+        "Once you return to Tharsis, [Color:5]the",
+        "Outland Count must know about this[Color:0]",
+        "at once.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "You have reached Vessel Town. You",
+        "briefly consider entering, but you",
+        "doubt Wufan will meet with you.",
+        "[Page]",
+        "",
+        "You will not improve the situation",
+        "by lingering here. You should return",
+        "to Tharsis and inform the Count.",
+        ""
+      ],
+      "Translation": [
+        "You have reached Vessel Town. You",
+        "briefly consider entering, but you",
+        "doubt Wufan will meet with you.",
+        "[Page]",
+        "",
+        "You will not improve the situation",
+        "by lingering here. You should return",
+        "to Tharsis and inform the Count.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Upon visiting Vessel Town, you are",
+        "reunited with Wufan.",
+        "[Page]",
+        "",
+        "If you wish, you can invite Wufan",
+        "into your guild.",
+        ""
+      ],
+      "Translation": [
+        "Upon visiting Vessel Town, you are",
+        "reunited with Wufan.",
+        "[Page]",
+        "",
+        "If you wish, you can invite Wufan",
+        "into your guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Invite Wufan into your guild?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Invite Wufan into your guild?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Wufan is now a registered member",
+        "of your guild.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Wufan is now a registered member",
+        "of your guild.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]If you wish to put Wufan into your",
+        "party, go to the Explorers Guild",
+        "and select \"Formation.\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]If you wish to put Wufan into your",
+        "party, go to the Explorers Guild",
+        "and select \"Formation.\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your guild is too full to register",
+        "a new member.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you would still like to register",
+        "Wufan in your guild, make space for",
+        "her and return here.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your guild is too full to register",
+        "a new member.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you would still like to register",
+        "Wufan in your guild, make space for",
+        "her and return here.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed through the misty",
+        "maze, you encounter a flustered",
+        "soldier, looking around.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed through the misty",
+        "maze, you encounter a flustered",
+        "soldier, looking around.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "When he notices you, he rushes to",
+        "your side like a drowning man",
+        "clutching at a life preserver.",
+        "[Page]",
+        "",
+        "\"Finally! Another human! I'm saved...!",
+        "Do you happen to know where I could",
+        "find the exit?",
+        "[Page]",
+        "",
+        "\"This bizarre labyrinth has rendered",
+        "my map useless. I'm at a complete",
+        "loss...\"",
+        "[Page]",
+        "",
+        "You open up your map and point out to",
+        "him the location of the exit.",
+        ""
+      ],
+      "Translation": [
+        "When he notices you, he rushes to",
+        "your side like a drowning man",
+        "clutching at a life preserver.",
+        "[Page]",
+        "",
+        "\"Finally! Another human! I'm saved...!",
+        "Do you happen to know where I could",
+        "find the exit?",
+        "[Page]",
+        "",
+        "\"This bizarre labyrinth has rendered",
+        "my map useless. I'm at a complete",
+        "loss...\"",
+        "[Page]",
+        "",
+        "You open up your map and point out to",
+        "him the location of the exit.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": false,
+      "Original": [
+        "\"THANK you! Now I can get back to",
+        "Tharsis and prepare myself better.\"",
+        ""
+      ],
+      "Translation": [
+        "\"THANK you! Now I can get back to",
+        "Tharsis and prepare myself better.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier heads toward the location",
+        "you pinpointed for him... You decide",
+        "to resume your journey as well.",
+        ""
+      ],
+      "Translation": [
+        "The soldier heads toward the location",
+        "you pinpointed for him... You decide",
+        "to resume your journey as well.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": false,
+      "Original": [
+        "As you are about to head out into the",
+        "labyrinth, a familiar-looking soldier",
+        "calls to you.",
+        ""
+      ],
+      "Translation": [
+        "As you are about to head out into the",
+        "labyrinth, a familiar-looking soldier",
+        "calls to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ho there. Staying safe, I hope? You",
+        "saved my life that time, you know.",
+        "I was waiting here to thank you.",
+        "[Page]",
+        "",
+        "\"Had you not shown up when you did,",
+        "I shudder to think of what could have",
+        "become of me. Thank you!\"",
+        "[Page]",
+        "",
+        "With that, the soldier hands you",
+        "a medicine bottle.",
+        ""
+      ],
+      "Translation": [
+        "\"Ho there. Staying safe, I hope? You",
+        "saved my life that time, you know.",
+        "I was waiting here to thank you.",
+        "[Page]",
+        "",
+        "\"Had you not shown up when you did,",
+        "I shudder to think of what could have",
+        "become of me. Thank you!\"",
+        "[Page]",
+        "",
+        "With that, the soldier hands you",
+        "a medicine bottle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": false,
+      "Original": [
+        "You nod and return to your search.",
+        "The soldier sees you off, still",
+        "waving cheerfully.",
+        ""
+      ],
+      "Translation": [
+        "You nod and return to your search.",
+        "The soldier sees you off, still",
+        "waving cheerfully.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "As you reach a fork in the road,",
+        "you suddenly hear someone yelling",
+        "after you.",
+        ""
+      ],
+      "Translation": [
+        "As you reach a fork in the road,",
+        "you suddenly hear someone yelling",
+        "after you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey! That was a mean-spirited trick",
+        "you played! I went to the place you",
+        "told me to, but there was no exit!",
+        "[Page]",
+        "",
+        "\"Thanks to you, I've been wandering",
+        "this whole time!\" The fuming soldier",
+        "is the man who asked directions...",
+        "[Page]",
+        "",
+        "\"Come on, be straight this time and",
+        "tell me where the exit is!\"",
+        "[Page]",
+        "",
+        "You open up your map and point out to",
+        "him the location of the exit.",
+        ""
+      ],
+      "Translation": [
+        "\"Hey! That was a mean-spirited trick",
+        "you played! I went to the place you",
+        "told me to, but there was no exit!",
+        "[Page]",
+        "",
+        "\"Thanks to you, I've been wandering",
+        "this whole time!\" The fuming soldier",
+        "is the man who asked directions...",
+        "[Page]",
+        "",
+        "\"Come on, be straight this time and",
+        "tell me where the exit is!\"",
+        "[Page]",
+        "",
+        "You open up your map and point out to",
+        "him the location of the exit.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "\"And you're sure this time, right!?\"",
+        "The soldier leaves in a huff.",
+        ""
+      ],
+      "Translation": [
+        "\"And you're sure this time, right!?\"",
+        "The soldier leaves in a huff.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": false,
+      "Original": [
+        "When you enter the open area, you",
+        "discover a soldier collapsed on the",
+        "floor, covered in moth scales!",
+        "[Page]",
+        "",
+        "You hurry to his side, but he is long",
+        "gone... He must have been swarmed by",
+        "moths...",
+        "[Page]",
+        "",
+        "You take it to heart as something that",
+        "could happen to you, and resolve to",
+        "be especially cautious on your way.",
+        ""
+      ],
+      "Translation": [
+        "When you enter the open area, you",
+        "discover a soldier collapsed on the",
+        "floor, covered in moth scales!",
+        "[Page]",
+        "",
+        "You hurry to his side, but he is long",
+        "gone... He must have been swarmed by",
+        "moths...",
+        "[Page]",
+        "",
+        "You take it to heart as something that",
+        "could happen to you, and resolve to",
+        "be especially cautious on your way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk the calm forest path,",
+        "the mist hanging in the air, you",
+        "eventually come to a dead end.",
+        "[Page]",
+        "",
+        "It may be a good spot to take a few",
+        "minutes' rest to enjoy the clean air",
+        "and rich scent of the local flora.",
+        ""
+      ],
+      "Translation": [
+        "As you walk the calm forest path,",
+        "the mist hanging in the air, you",
+        "eventually come to a dead end.",
+        "[Page]",
+        "",
+        "It may be a good spot to take a few",
+        "minutes' rest to enjoy the clean air",
+        "and rich scent of the local flora.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Take a deep breath?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Take a deep breath?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "You inhale a lungful of the heady air",
+        "before returning to your search with",
+        "lightened steps.",
+        ""
+      ],
+      "Translation": [
+        "You inhale a lungful of the heady air",
+        "before returning to your search with",
+        "lightened steps.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 10 TP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 10 TP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to leave this place in",
+        "order to take up your wanderings",
+        "once more.",
+        ""
+      ],
+      "Translation": [
+        "You decide to leave this place in",
+        "order to take up your wanderings",
+        "once more.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed down the animal trail,",
+        "covered in a morning haze, you are met",
+        "with a bizarre sight up ahead.",
+        "[Page]",
+        "",
+        "There are large, silent shadows in",
+        "thick fog, shouldering a rainbow-",
+        "colored halo...",
+        "[Page]",
+        "",
+        "The eerie shadows frighten you and sap",
+        "some of your enthusiasm for further",
+        "exploration.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed down the animal trail,",
+        "covered in a morning haze, you are met",
+        "with a bizarre sight up ahead.",
+        "[Page]",
+        "",
+        "There are large, silent shadows in",
+        "thick fog, shouldering a rainbow-",
+        "colored halo...",
+        "[Page]",
+        "",
+        "The eerie shadows frighten you and sap",
+        "some of your enthusiasm for further",
+        "exploration.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed down the animal trail,",
+        "covered in a morning haze, you are met",
+        "with a bizarre sight up ahead.",
+        "[Page]",
+        "",
+        "There are large, silent shadows in",
+        "thick fog, shouldering a rainbow-",
+        "colored halo...",
+        "[Page]",
+        "",
+        "But you know the shadows to be your",
+        "own, reflected in the mist.",
+        "[Page]",
+        "",
+        "After taking a rest to look upon that",
+        "uncanny mirage, you take up your",
+        "journey again with renewed vigor.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed down the animal trail,",
+        "covered in a morning haze, you are met",
+        "with a bizarre sight up ahead.",
+        "[Page]",
+        "",
+        "There are large, silent shadows in",
+        "thick fog, shouldering a rainbow-",
+        "colored halo...",
+        "[Page]",
+        "",
+        "But you know the shadows to be your",
+        "own, reflected in the mist.",
+        "[Page]",
+        "",
+        "After taking a rest to look upon that",
+        "uncanny mirage, you take up your",
+        "journey again with renewed vigor.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 15 TP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 15 TP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "You sense some presence nearby and",
+        "stop for a moment.",
+        ""
+      ],
+      "Translation": [
+        "You sense some presence nearby and",
+        "stop for a moment.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": false,
+      "Original": [
+        "Looking around, you notice a",
+        "familiar, firefly-like light",
+        "floating in midair to the north.",
+        "[Page]",
+        "",
+        "The light bobs and dances, and then",
+        "disappears without a sound.",
+        "[Page]",
+        "",
+        "It looked as if it was showing you",
+        "which path to take... You decide to",
+        "resume your search.",
+        ""
+      ],
+      "Translation": [
+        "Looking around, you notice a",
+        "familiar, firefly-like light",
+        "floating in midair to the north.",
+        "[Page]",
+        "",
+        "The light bobs and dances, and then",
+        "disappears without a sound.",
+        "[Page]",
+        "",
+        "It looked as if it was showing you",
+        "which path to take... You decide to",
+        "resume your search.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": false,
+      "Original": [
+        "You look about you to see a firefly-",
+        "like light floating to the east.",
+        "[Page]",
+        "",
+        "The light capers and gambols, leaving",
+        "trails of light behind it. Eventually,",
+        "they disappear without a sound.",
+        "[Page]",
+        "",
+        "What was it...? You decide to",
+        "continue your search.",
+        ""
+      ],
+      "Translation": [
+        "You look about you to see a firefly-",
+        "like light floating to the east.",
+        "[Page]",
+        "",
+        "The light capers and gambols, leaving",
+        "trails of light behind it. Eventually,",
+        "they disappear without a sound.",
+        "[Page]",
+        "",
+        "What was it...? You decide to",
+        "continue your search.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 151,
+      "IsIgnored": false,
+      "Original": [
+        "\"You came! It's a delight to see all",
+        "your faces again,\" says the Medium",
+        "as she welcomes you.",
+        "[Page]",
+        "",
+        "However, there is something sad in",
+        "her smile. Looking closer, you can",
+        "see the bags under her eyes.",
+        "[Page]",
+        "",
+        "You broach the subject delicately,",
+        "to which she replies, \"Yes... in",
+        "truth, I have not slept well lately.\"",
+        "[Page]",
+        "",
+        "It seems that recently, her sleep has",
+        "been troubled by dreadful dreams of",
+        "which she remembers little.",
+        "[Page]",
+        "",
+        "You offer to stay by her side while",
+        "she sleeps, but she shakes her head.",
+        "[Page]",
+        "",
+        "\"Though I do appreciate the offer,",
+        "I am worried... The [Color:5]night terrors[Color:0]",
+        "truly are horrific. I can tell...\"",
+        "[Page]",
+        "",
+        "Her expression becomes clouded.",
+        "She seems genuinely terrified of",
+        "what may happen.",
+        ""
+      ],
+      "Translation": [
+        "\"You came! It's a delight to see all",
+        "your faces again,\" says the Medium",
+        "as she welcomes you.",
+        "[Page]",
+        "",
+        "However, there is something sad in",
+        "her smile. Looking closer, you can",
+        "see the bags under her eyes.",
+        "[Page]",
+        "",
+        "You broach the subject delicately,",
+        "to which she replies, \"Yes... in",
+        "truth, I have not slept well lately.\"",
+        "[Page]",
+        "",
+        "It seems that recently, her sleep has",
+        "been troubled by dreadful dreams of",
+        "which she remembers little.",
+        "[Page]",
+        "",
+        "You offer to stay by her side while",
+        "she sleeps, but she shakes her head.",
+        "[Page]",
+        "",
+        "\"Though I do appreciate the offer,",
+        "I am worried... The [Color:5]night terrors[Color:0]",
+        "truly are horrific. I can tell...\"",
+        "[Page]",
+        "",
+        "Her expression becomes clouded.",
+        "She seems genuinely terrified of",
+        "what may happen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 152,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Stand watch as she sleeps?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Stand watch as she sleeps?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 153,
+      "IsIgnored": false,
+      "Original": [
+        "\"No, I couldn't allow that...\" She",
+        "hugs herself fearfully with those",
+        "small hands.",
+        "[Page]",
+        "",
+        "\"With my powers, I do not think it is",
+        "only a dream. [Color:5]Something terrible may",
+        "happen[Color:0]... You would still offer?\"",
+        "[Page]",
+        "",
+        "The Medium looks at you solemnly.",
+        ""
+      ],
+      "Translation": [
+        "\"No, I couldn't allow that...\" She",
+        "hugs herself fearfully with those",
+        "small hands.",
+        "[Page]",
+        "",
+        "\"With my powers, I do not think it is",
+        "only a dream. [Color:5]Something terrible may",
+        "happen[Color:0]... You would still offer?\"",
+        "[Page]",
+        "",
+        "The Medium looks at you solemnly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 154,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Stay at her side anyway?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Stay at her side anyway?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": false,
+      "Original": [
+        "\"You are all so kind. Thank you.\"",
+        "The Medium smiles weakly.",
+        ""
+      ],
+      "Translation": [
+        "\"You are all so kind. Thank you.\"",
+        "The Medium smiles weakly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 156,
+      "IsIgnored": false,
+      "Original": [
+        "She must have slept only fitfully",
+        "until now... As you watch over the",
+        "Medium, she quickly falls asleep.",
+        "[Page]",
+        "",
+        "You can hear her soft breathing.",
+        "But then, something unusual begins",
+        "to take shape before you.",
+        ""
+      ],
+      "Translation": [
+        "She must have slept only fitfully",
+        "until now... As you watch over the",
+        "Medium, she quickly falls asleep.",
+        "[Page]",
+        "",
+        "You can hear her soft breathing.",
+        "But then, something unusual begins",
+        "to take shape before you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 157,
+      "IsIgnored": false,
+      "Original": [
+        "Just as the Medium's sleeping face",
+        "darkens, something like violet",
+        "lightning shines around her.",
+        "[Page]",
+        "",
+        "The lightning strikes at you and",
+        "transports you away somewhere with",
+        "its intense power!",
+        "[Page]",
+        "",
+        "When the blinding light subsides,",
+        "a terrible sight is before you...!",
+        ""
+      ],
+      "Translation": [
+        "Just as the Medium's sleeping face",
+        "darkens, something like violet",
+        "lightning shines around her.",
+        "[Page]",
+        "",
+        "The lightning strikes at you and",
+        "transports you away somewhere with",
+        "its intense power!",
+        "[Page]",
+        "",
+        "When the blinding light subsides,",
+        "a terrible sight is before you...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 158,
+      "IsIgnored": false,
+      "Original": [
+        "Just as you think you have pierced",
+        "the Titan's core, you realize that",
+        "you are back in the Misty Ravine.",
+        "[Page]",
+        "",
+        "It must have been a dream... but how",
+        "to account for the severe exhaustion",
+        "the whole party feels?",
+        "[Page]",
+        "",
+        "It is exactly as if you truly did",
+        "fight the Titan. The Medium sleeps",
+        "soundly, her face again serene...",
+        "[Page]",
+        "",
+        "It may be that by liberating her in",
+        "her dream, you have brought her peace",
+        "of mind again...",
+        "[Page]",
+        "",
+        "\"Thank you,\" the Medium mumbles",
+        "sleepily with a smile on her face.",
+        ""
+      ],
+      "Translation": [
+        "Just as you think you have pierced",
+        "the Titan's core, you realize that",
+        "you are back in the Misty Ravine.",
+        "[Page]",
+        "",
+        "It must have been a dream... but how",
+        "to account for the severe exhaustion",
+        "the whole party feels?",
+        "[Page]",
+        "",
+        "It is exactly as if you truly did",
+        "fight the Titan. The Medium sleeps",
+        "soundly, her face again serene...",
+        "[Page]",
+        "",
+        "It may be that by liberating her in",
+        "her dream, you have brought her peace",
+        "of mind again...",
+        "[Page]",
+        "",
+        "\"Thank you,\" the Medium mumbles",
+        "sleepily with a smile on her face.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 159,
+      "IsIgnored": false,
+      "Original": [
+        "The Medium is fast asleep. It would",
+        "not do to disturb her for now...",
+        ""
+      ],
+      "Translation": [
+        "The Medium is fast asleep. It would",
+        "not do to disturb her for now...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": false,
+      "Original": [
+        "\"Welcome to Vessel Town. We last met",
+        "in the Cloudy Stronghold, wasn't it?\"",
+        "The Medium smiles at you.",
+        "[Page]",
+        "",
+        "\"How is Baldur? Ah... I am glad to",
+        "hear it. I was worried for him. Let",
+        "us hope he recovers soon.\"",
+        "[Page]",
+        "",
+        "\"I believe there are changes in store",
+        "for Vessel Town and Tharsis, and I",
+        "look forward to what they may bring.",
+        "[Page]",
+        "",
+        "\"But it is you who gave us this",
+        "opportunity, and for that, I owe",
+        "you my thanks.",
+        "[Page]",
+        "",
+        "\"Thank you, Guild [Guild].\"",
+        ""
+      ],
+      "Translation": [
+        "\"Welcome to Vessel Town. We last met",
+        "in the Cloudy Stronghold, wasn't it?\"",
+        "The Medium smiles at you.",
+        "[Page]",
+        "",
+        "\"How is Baldur? Ah... I am glad to",
+        "hear it. I was worried for him. Let",
+        "us hope he recovers soon.\"",
+        "[Page]",
+        "",
+        "\"I believe there are changes in store",
+        "for Vessel Town and Tharsis, and I",
+        "look forward to what they may bring.",
+        "[Page]",
+        "",
+        "\"But it is you who gave us this",
+        "opportunity, and for that, I owe",
+        "you my thanks.",
+        "[Page]",
+        "",
+        "\"Thank you, Guild [Guild].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": false,
+      "Original": [
+        "\"I was telling the Vessel children",
+        "about Tharsis the other day. They all",
+        "said that they want to see it!\"",
+        "[Page]",
+        "",
+        "The Medium gives a shy smile before",
+        "continuing. \"As do I... I would like",
+        "to walk its streets again with you.\"",
+        ""
+      ],
+      "Translation": [
+        "\"I was telling the Vessel children",
+        "about Tharsis the other day. They all",
+        "said that they want to see it!\"",
+        "[Page]",
+        "",
+        "The Medium gives a shy smile before",
+        "continuing. \"As do I... I would like",
+        "to walk its streets again with you.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": false,
+      "Original": [
+        "\"I received a letter recently from a",
+        "Sentinel child. It said that they are",
+        "all doing wonderfully!",
+        "[Page]",
+        "",
+        "\"The letter mentioned your guild,",
+        "too. You should visit them if you",
+        "ever have the time.\"",
+        ""
+      ],
+      "Translation": [
+        "\"I received a letter recently from a",
+        "Sentinel child. It said that they are",
+        "all doing wonderfully!",
+        "[Page]",
+        "",
+        "\"The letter mentioned your guild,",
+        "too. You should visit them if you",
+        "ever have the time.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, listen to this! Envoys from the",
+        "Empire were here not long ago. Isn't",
+        "that amazing?",
+        "[Page]",
+        "",
+        "\"They asked about stories handed down",
+        "amongst the Vessels. Apparently they",
+        "are hungry for information.",
+        "[Page]",
+        "",
+        "\"There was even talk of a number of",
+        "them settling here in town! Oh, how",
+        "I hope it happens.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, listen to this! Envoys from the",
+        "Empire were here not long ago. Isn't",
+        "that amazing?",
+        "[Page]",
+        "",
+        "\"They asked about stories handed down",
+        "amongst the Vessels. Apparently they",
+        "are hungry for information.",
+        "[Page]",
+        "",
+        "\"There was even talk of a number of",
+        "them settling here in town! Oh, how",
+        "I hope it happens.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": false,
+      "Original": [
+        "\"You are explorers... I wonder if",
+        "you'll eventually leave here in search",
+        "of new challenges,\" the Medium sighs.",
+        "[Page]",
+        "",
+        "\"It may not be long before you will",
+        "face bitter, hard times, somewhere",
+        "far away from here.",
+        "[Page]",
+        "",
+        "\"But if that happens, just think back",
+        "to the miracles you have given to all",
+        "of us here.",
+        "[Page]",
+        "",
+        "\"Don't forget about us. And come back",
+        "to us some day, won't you? I won't",
+        "forget you either...\"",
+        ""
+      ],
+      "Translation": [
+        "\"You are explorers... I wonder if",
+        "you'll eventually leave here in search",
+        "of new challenges,\" the Medium sighs.",
+        "[Page]",
+        "",
+        "\"It may not be long before you will",
+        "face bitter, hard times, somewhere",
+        "far away from here.",
+        "[Page]",
+        "",
+        "\"But if that happens, just think back",
+        "to the miracles you have given to all",
+        "of us here.",
+        "[Page]",
+        "",
+        "\"Don't forget about us. And come back",
+        "to us some day, won't you? I won't",
+        "forget you either...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 166,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, you're here!\" The Medium smiles",
+        "brightly and offers you a seat.",
+        "[Page]",
+        "",
+        "\"Everyone was so happy to see me",
+        "return. I'm ashamed to have thought",
+        "I was all alone as the only human.",
+        "[Page]",
+        "",
+        "\"I thought the Vessels had no choice",
+        "but to keep me here, since although",
+        "I am human, I am their Medium.",
+        "[Page]",
+        "",
+        "\"But that wasn't the case at all.",
+        "I think I should try harder to talk",
+        "with the Vessels from now on.",
+        "[Page]",
+        "",
+        "\"I'd like to talk with you more, too.",
+        "Please visit the Vessel Town when you",
+        "can, won't you?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, you're here!\" The Medium smiles",
+        "brightly and offers you a seat.",
+        "[Page]",
+        "",
+        "\"Everyone was so happy to see me",
+        "return. I'm ashamed to have thought",
+        "I was all alone as the only human.",
+        "[Page]",
+        "",
+        "\"I thought the Vessels had no choice",
+        "but to keep me here, since although",
+        "I am human, I am their Medium.",
+        "[Page]",
+        "",
+        "\"But that wasn't the case at all.",
+        "I think I should try harder to talk",
+        "with the Vessels from now on.",
+        "[Page]",
+        "",
+        "\"I'd like to talk with you more, too.",
+        "Please visit the Vessel Town when you",
+        "can, won't you?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 167,
+      "IsIgnored": false,
+      "Original": [
+        "\"You plan to head north and meet with",
+        "Yggdrasil, right?",
+        "[Page]",
+        "",
+        "\"Yggdrasil is always asleep except for",
+        "when it talks to me. It's so cute...",
+        "it reminds me of a baby.",
+        "[Page]",
+        "",
+        "\"Even though it's been alive for much",
+        "longer than I have, and knows so",
+        "much. It's so mysterious...\"",
+        ""
+      ],
+      "Translation": [
+        "\"You plan to head north and meet with",
+        "Yggdrasil, right?",
+        "[Page]",
+        "",
+        "\"Yggdrasil is always asleep except for",
+        "when it talks to me. It's so cute...",
+        "it reminds me of a baby.",
+        "[Page]",
+        "",
+        "\"Even though it's been alive for much",
+        "longer than I have, and knows so",
+        "much. It's so mysterious...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": false,
+      "Original": [
+        "\"At the elders' meeting, we decide on",
+        "our course of action. It has been so",
+        "since long before the Medium came.",
+        "[Page]",
+        "",
+        "\"Since the Medium is absent, I think",
+        "it's logical to abide by the decisions",
+        "made in the elders' meeting.",
+        "[Page]",
+        "",
+        "\"Wufan is too close to the Medium. It",
+        "is odd for a Vessel to be so attached.",
+        "Is this progress or regress...?\"",
+        ""
+      ],
+      "Translation": [
+        "\"At the elders' meeting, we decide on",
+        "our course of action. It has been so",
+        "since long before the Medium came.",
+        "[Page]",
+        "",
+        "\"Since the Medium is absent, I think",
+        "it's logical to abide by the decisions",
+        "made in the elders' meeting.",
+        "[Page]",
+        "",
+        "\"Wufan is too close to the Medium. It",
+        "is odd for a Vessel to be so attached.",
+        "Is this progress or regress...?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": false,
+      "Original": [
+        "\"The human-shaped monsters called",
+        "'Hollows' are our enemies. They began",
+        "appearing after the Medium arrived.",
+        "[Page]",
+        "",
+        "\"There must be some connection between",
+        "the Medium and the Hollows... but it",
+        "is still unclear.",
+        "[Page]",
+        "",
+        "\"Strangely, the Hollows attack only",
+        "those who break our rules. Some here",
+        "in town call them the Executioners.\"",
+        ""
+      ],
+      "Translation": [
+        "\"The human-shaped monsters called",
+        "'Hollows' are our enemies. They began",
+        "appearing after the Medium arrived.",
+        "[Page]",
+        "",
+        "\"There must be some connection between",
+        "the Medium and the Hollows... but it",
+        "is still unclear.",
+        "[Page]",
+        "",
+        "\"Strangely, the Hollows attack only",
+        "those who break our rules. Some here",
+        "in town call them the Executioners.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": false,
+      "Original": [
+        "\"The Medium has returned. Her smile",
+        "strikes me as more gentle than before.",
+        "[Page]",
+        "",
+        "\"It must be your doing. She must have",
+        "discovered her place in this town.",
+        "[Page]",
+        "",
+        "\"We thank you, humans. The Medium's",
+        "happiness is our happiness.\"",
+        ""
+      ],
+      "Translation": [
+        "\"The Medium has returned. Her smile",
+        "strikes me as more gentle than before.",
+        "[Page]",
+        "",
+        "\"It must be your doing. She must have",
+        "discovered her place in this town.",
+        "[Page]",
+        "",
+        "\"We thank you, humans. The Medium's",
+        "happiness is our happiness.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": false,
+      "Original": [
+        "\"The Medium has departed with the",
+        "human named Whirlwind.",
+        "[Page]",
+        "",
+        "\"It is awkward to tell you this, but",
+        "our lingering distrust of humans",
+        "makes us suspicious of that man.",
+        "[Page]",
+        "",
+        "\"But the Medium's will must be done.",
+        "All we can do now is pray for her",
+        "safety.\"",
+        ""
+      ],
+      "Translation": [
+        "\"The Medium has departed with the",
+        "human named Whirlwind.",
+        "[Page]",
+        "",
+        "\"It is awkward to tell you this, but",
+        "our lingering distrust of humans",
+        "makes us suspicious of that man.",
+        "[Page]",
+        "",
+        "\"But the Medium's will must be done.",
+        "All we can do now is pray for her",
+        "safety.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": false,
+      "Original": [
+        "\"When Wufan grew angry before, she",
+        "denounced us, saying that we neglected",
+        "the Medium. But this was not so.",
+        "[Page]",
+        "",
+        "\"We must follow the correct course of",
+        "action. To do that, we must know: why",
+        "did the Hollows kidnap the Medium?",
+        "[Page]",
+        "",
+        "\"The Hollows do not come here unless",
+        "something drastic happens. Perhaps",
+        "something lured them to us...?\"",
+        ""
+      ],
+      "Translation": [
+        "\"When Wufan grew angry before, she",
+        "denounced us, saying that we neglected",
+        "the Medium. But this was not so.",
+        "[Page]",
+        "",
+        "\"We must follow the correct course of",
+        "action. To do that, we must know: why",
+        "did the Hollows kidnap the Medium?",
+        "[Page]",
+        "",
+        "\"The Hollows do not come here unless",
+        "something drastic happens. Perhaps",
+        "something lured them to us...?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": false,
+      "Original": [
+        "\"So the Medium is kidnapped. We had",
+        "thought this Whirlwind was an enigma,",
+        "but now we know his nature.",
+        "[Page]",
+        "",
+        "\"We bear no grudge against you for it.",
+        "Humans have much stronger individual",
+        "wills than we Vessels.",
+        "[Page]",
+        "",
+        "\"But humans must be responsible for",
+        "their own. A human criminal must be",
+        "judged by other humans.",
+        "[Page]",
+        "",
+        "\"Though of course, we will have our",
+        "say in the matter.\"",
+        ""
+      ],
+      "Translation": [
+        "\"So the Medium is kidnapped. We had",
+        "thought this Whirlwind was an enigma,",
+        "but now we know his nature.",
+        "[Page]",
+        "",
+        "\"We bear no grudge against you for it.",
+        "Humans have much stronger individual",
+        "wills than we Vessels.",
+        "[Page]",
+        "",
+        "\"But humans must be responsible for",
+        "their own. A human criminal must be",
+        "judged by other humans.",
+        "[Page]",
+        "",
+        "\"Though of course, we will have our",
+        "say in the matter.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 177,
+      "IsIgnored": false,
+      "Original": [
+        "\"The Medium was born from a sacred",
+        "relic deep in this forest. It was in",
+        "the hall where the Hollows now dwell.",
+        "[Page]",
+        "",
+        "\"Over ten years ago, a Vessel who went",
+        "to clean that hall came back in a",
+        "hurry, carrying a human child.",
+        "[Page]",
+        "",
+        "\"That child was the Medium, and the",
+        "Vessel who found her was Wufan. She",
+        "has taken care of the Medium since.\"",
+        ""
+      ],
+      "Translation": [
+        "\"The Medium was born from a sacred",
+        "relic deep in this forest. It was in",
+        "the hall where the Hollows now dwell.",
+        "[Page]",
+        "",
+        "\"Over ten years ago, a Vessel who went",
+        "to clean that hall came back in a",
+        "hurry, carrying a human child.",
+        "[Page]",
+        "",
+        "\"That child was the Medium, and the",
+        "Vessel who found her was Wufan. She",
+        "has taken care of the Medium since.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 178,
+      "IsIgnored": false,
+      "Original": [
+        "\"I have seen Yggdrasil collapse with",
+        "my own eyes. To my shame as a Vessel,",
+        "I feel anger towards humans now.",
+        "[Page]",
+        "",
+        "\"Yggdrasil was a source of spiritual",
+        "support and the reason we exist. I",
+        "hate the humans who have stolen it.",
+        "[Page]",
+        "",
+        "\"And as a result, I understand. Hatred",
+        "gives way to destruction. To think",
+        "humans harbored that monstrosity...\"",
+        ""
+      ],
+      "Translation": [
+        "\"I have seen Yggdrasil collapse with",
+        "my own eyes. To my shame as a Vessel,",
+        "I feel anger towards humans now.",
+        "[Page]",
+        "",
+        "\"Yggdrasil was a source of spiritual",
+        "support and the reason we exist. I",
+        "hate the humans who have stolen it.",
+        "[Page]",
+        "",
+        "\"And as a result, I understand. Hatred",
+        "gives way to destruction. To think",
+        "humans harbored that monstrosity...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 179,
+      "IsIgnored": false,
+      "Original": [
+        "\"I sense pain... it is very strong.",
+        "This is the Medium's pain.",
+        "[Page]",
+        "",
+        "\"She is saddened at how her own kind,",
+        "whom she has come to know, has so",
+        "utterly changed...",
+        "[Page]",
+        "",
+        "\"This pain will not be stopped by",
+        "bringing the Medium back. How can",
+        "we end such pain?\"",
+        ""
+      ],
+      "Translation": [
+        "\"I sense pain... it is very strong.",
+        "This is the Medium's pain.",
+        "[Page]",
+        "",
+        "\"She is saddened at how her own kind,",
+        "whom she has come to know, has so",
+        "utterly changed...",
+        "[Page]",
+        "",
+        "\"This pain will not be stopped by",
+        "bringing the Medium back. How can",
+        "we end such pain?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 180,
+      "IsIgnored": false,
+      "Original": [
+        "\"The legendary Titan has shown itself.",
+        "It is what the Vessels and Sentinels",
+        "once banded together to defeat.",
+        "[Page]",
+        "",
+        "\"The Medium is trying to calm the",
+        "Titan. If she were not, the Titan's",
+        "power would have already changed us.",
+        "[Page]",
+        "",
+        "\"We do not intend to show the Titan",
+        "our backs. We will wrest the Medium",
+        "from it and carry out her will.\"",
+        ""
+      ],
+      "Translation": [
+        "\"The legendary Titan has shown itself.",
+        "It is what the Vessels and Sentinels",
+        "once banded together to defeat.",
+        "[Page]",
+        "",
+        "\"The Medium is trying to calm the",
+        "Titan. If she were not, the Titan's",
+        "power would have already changed us.",
+        "[Page]",
+        "",
+        "\"We do not intend to show the Titan",
+        "our backs. We will wrest the Medium",
+        "from it and carry out her will.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": false,
+      "Original": [
+        "\"Why did we save the Imperial Prince?",
+        "That is a difficult question.",
+        "Obviously, the Medium wished it so...",
+        "[Page]",
+        "",
+        "\"But I feel that what we saved was",
+        "not merely the Imperial Prince, but",
+        "humanity as a whole.",
+        "[Page]",
+        "",
+        "\"There was no logical reason. Perhaps",
+        "the blood that shaped us guided our",
+        "hand in doing so.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Why did we save the Imperial Prince?",
+        "That is a difficult question.",
+        "Obviously, the Medium wished it so...",
+        "[Page]",
+        "",
+        "\"But I feel that what we saved was",
+        "not merely the Imperial Prince, but",
+        "humanity as a whole.",
+        "[Page]",
+        "",
+        "\"There was no logical reason. Perhaps",
+        "the blood that shaped us guided our",
+        "hand in doing so.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "IsIgnored": false,
+      "Original": [
+        "\"Our town has seen great changes since",
+        "you came. The greatest of them is the",
+        "way the Medium smiles more now...",
+        "[Page]",
+        "",
+        "\"Perhaps some good has come of this.",
+        "I have heard you explorers have a",
+        "guild. Does this guild have a name?",
+        "[Page]",
+        "",
+        "\"So it is called Guild [Guild].",
+        "I see. It is written in my heart",
+        "now. I vow never to forget it.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Our town has seen great changes since",
+        "you came. The greatest of them is the",
+        "way the Medium smiles more now...",
+        "[Page]",
+        "",
+        "\"Perhaps some good has come of this.",
+        "I have heard you explorers have a",
+        "guild. Does this guild have a name?",
+        "[Page]",
+        "",
+        "\"So it is called Guild [Guild].",
+        "I see. It is written in my heart",
+        "now. I vow never to forget it.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

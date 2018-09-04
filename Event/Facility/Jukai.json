@@ -1,0 +1,1137 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Jukai",
+  "RelativePath": "Event\\Facility\\Jukai.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "The outland city of [Color:5]Tharsis[Color:0]... In the",
+        "uncharted territory beyond that city",
+        "stands a giant tree called [Color:5]Yggdrasil[Color:0].",
+        "[Page]",
+        "",
+        "Legends say something sleeps within",
+        "Yggdrasil that calls people to",
+        "eternal paradise.",
+        "[Page]",
+        "",
+        "In order to ascertain the truth of",
+        "this legend, the Count of Tharsis",
+        "issued a challenge across the land.",
+        "[Page]",
+        "",
+        "\"Reach Yggdrasil and uncover the",
+        "truth!\" That summons has drawn",
+        "countless explorers to the city.",
+        "[Page]",
+        "",
+        "You are among their number; a pilgrim",
+        "to the city with little to your name",
+        "but a blade and boundless curiosity.",
+        "[Page]",
+        "",
+        "Nevertheless, you aim to solve the",
+        "mystery of Yggdrasil and win fame",
+        "and fortune!",
+        ""
+      ],
+      "Translation": [
+        "The outland city of [Color:5]Tharsis[Color:0]... In the",
+        "uncharted territory beyond that city",
+        "stands a giant tree called [Color:5]Yggdrasil[Color:0].",
+        "[Page]",
+        "",
+        "Legends say something sleeps within",
+        "Yggdrasil that calls people to",
+        "eternal paradise.",
+        "[Page]",
+        "",
+        "In order to ascertain the truth of",
+        "this legend, the Count of Tharsis",
+        "issued a challenge across the land.",
+        "[Page]",
+        "",
+        "\"Reach Yggdrasil and uncover the",
+        "truth!\" That summons has drawn",
+        "countless explorers to the city.",
+        "[Page]",
+        "",
+        "You are among their number; a pilgrim",
+        "to the city with little to your name",
+        "but a blade and boundless curiosity.",
+        "[Page]",
+        "",
+        "Nevertheless, you aim to solve the",
+        "mystery of Yggdrasil and win fame",
+        "and fortune!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "The outland city of [Color:5]Tharsis[Color:0]... In the",
+        "uncharted territory beyond that city",
+        "stands a giant tree called [Color:5]Yggdrasil[Color:0].",
+        "[Page]",
+        "",
+        "Legends say something sleeps within",
+        "Yggdrasil that calls people to",
+        "eternal paradise.",
+        "[Page]",
+        "",
+        "In order to ascertain the truth of",
+        "this legend, the Count of Tharsis",
+        "issued a challenge across the land.",
+        "[Page]",
+        "",
+        "\"Reach Yggdrasil and uncover the",
+        "truth!\" That summons has drawn",
+        "countless explorers to the city.",
+        "[Page]",
+        "",
+        "Your [Color:5][Guild][Color:0] Guild, a band of",
+        "explorers, has heard the call",
+        "as well.",
+        "[Page]",
+        "",
+        "You have already obtained a letter of",
+        "introduction. If you show it to the",
+        "Count, he will surely hear you.",
+        "[Page]",
+        "",
+        "Yggdrasil is waiting to reveal",
+        "its secrets to you... Now, stride",
+        "proudly through the city gates!",
+        ""
+      ],
+      "Translation": [
+        "The outland city of [Color:5]Tharsis[Color:0]... In the",
+        "uncharted territory beyond that city",
+        "stands a giant tree called [Color:5]Yggdrasil[Color:0].",
+        "[Page]",
+        "",
+        "Legends say something sleeps within",
+        "Yggdrasil that calls people to",
+        "eternal paradise.",
+        "[Page]",
+        "",
+        "In order to ascertain the truth of",
+        "this legend, the Count of Tharsis",
+        "issued a challenge across the land.",
+        "[Page]",
+        "",
+        "\"Reach Yggdrasil and uncover the",
+        "truth!\" That summons has drawn",
+        "countless explorers to the city.",
+        "[Page]",
+        "",
+        "Your [Color:5][Guild][Color:0] Guild, a band of",
+        "explorers, has heard the call",
+        "as well.",
+        "[Page]",
+        "",
+        "You have already obtained a letter of",
+        "introduction. If you show it to the",
+        "Count, he will surely hear you.",
+        "[Page]",
+        "",
+        "Yggdrasil is waiting to reveal",
+        "its secrets to you... Now, stride",
+        "proudly through the city gates!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're the explorers who just got",
+        "here? I'm sorry, but no one can enter",
+        "the labyrinths without authorization.",
+        "[Page]",
+        "",
+        "\"You'll need to visit the Grand Court",
+        "first and accept a mission.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You're the explorers who just got",
+        "here? I'm sorry, but no one can enter",
+        "the labyrinths without authorization.",
+        "[Page]",
+        "",
+        "\"You'll need to visit the Grand Court",
+        "first and accept a mission.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey, yeh're the [Guild] Guild,",
+        "right?",
+        "[Page]",
+        "",
+        "\"I got a request from the Outland",
+        "Count to prepare yeh a skyship.",
+        "[Page]",
+        "",
+        "\"She's all ready to go. Yeh can set",
+        "sail as soon as she's registered.",
+        "So, what're yeh going to name her?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hey, yeh're the [Guild] Guild,",
+        "right?",
+        "[Page]",
+        "",
+        "\"I got a request from the Outland",
+        "Count to prepare yeh a skyship.",
+        "[Page]",
+        "",
+        "\"She's all ready to go. Yeh can set",
+        "sail as soon as she's registered.",
+        "So, what're yeh going to name her?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "\"The [Skyship], eh? Got it. I'll take",
+        "care of the paperwork. I made the",
+        "skyship myself, so take care of her.",
+        "[Page]",
+        "",
+        "\"I'd explain the controls, but yeh'll",
+        "learn faster if yeh try it out. Yeh",
+        "can outfit it at the city gates.",
+        "[Page]",
+        "",
+        "\"Which reminds me, yeh got a piece of",
+        "kit from the Outland Count, right?",
+        "Yeh can [Color:5]equip it[Color:0] on your skyship.",
+        "[Page]",
+        "",
+        "\"Come by the wharf when yeh're bored,",
+        "and I'll let yeh guys have some other",
+        "equipment no one else is using.",
+        "[Page]",
+        "",
+        "\"The Cargo Wharf might not seem like",
+        "the place for explorers, but that's",
+        "where yeh'd be wrong.",
+        "[Page]",
+        "",
+        "\"I'll explain what I mean when yeh",
+        "stop by. I'll be waiting!\"",
+        ""
+      ],
+      "Translation": [
+        "\"The [Skyship], eh? Got it. I'll take",
+        "care of the paperwork. I made the",
+        "skyship myself, so take care of her.",
+        "[Page]",
+        "",
+        "\"I'd explain the controls, but yeh'll",
+        "learn faster if yeh try it out. Yeh",
+        "can outfit it at the city gates.",
+        "[Page]",
+        "",
+        "\"Which reminds me, yeh got a piece of",
+        "kit from the Outland Count, right?",
+        "Yeh can [Color:5]equip it[Color:0] on your skyship.",
+        "[Page]",
+        "",
+        "\"Come by the wharf when yeh're bored,",
+        "and I'll let yeh guys have some other",
+        "equipment no one else is using.",
+        "[Page]",
+        "",
+        "\"The Cargo Wharf might not seem like",
+        "the place for explorers, but that's",
+        "where yeh'd be wrong.",
+        "[Page]",
+        "",
+        "\"I'll explain what I mean when yeh",
+        "stop by. I'll be waiting!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Special items can be fitted onto your",
+        "skyship at the city gates.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]These items have different effects,",
+        "so select whatever best suits your",
+        "objective and equip it.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]At the outset, you can only equip",
+        "one piece of equipment, but that",
+        "will change as the story progresses.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Special items can be fitted onto your",
+        "skyship at the city gates.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]These items have different effects,",
+        "so select whatever best suits your",
+        "objective and equip it.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]At the outset, you can only equip",
+        "one piece of equipment, but that",
+        "will change as the story progresses.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey there. I've been waiting for yeh.",
+        "I upgraded the [Skyship], just like",
+        "the Outland Count asked.",
+        "[Page]",
+        "",
+        "\"It's fixed now so yeh can equip two",
+        "gadgets to the [Skyship]. I'm a bit",
+        "proud of that one.",
+        "[Page]",
+        "",
+        "\"Yeh're going further north now, eh?",
+        "There's no knowing what yeh'll run",
+        "into, so pick your equipment wisely!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hey there. I've been waiting for yeh.",
+        "I upgraded the [Skyship], just like",
+        "the Outland Count asked.",
+        "[Page]",
+        "",
+        "\"It's fixed now so yeh can equip two",
+        "gadgets to the [Skyship]. I'm a bit",
+        "proud of that one.",
+        "[Page]",
+        "",
+        "\"Yeh're going further north now, eh?",
+        "There's no knowing what yeh'll run",
+        "into, so pick your equipment wisely!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The skyship now has two slots",
+        "for equipment.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The skyship now has two slots",
+        "for equipment.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey there. I've been waiting for yeh.",
+        "I upgraded the [Skyship], just like",
+        "the Outland Count asked.",
+        "[Page]",
+        "",
+        "\"It's fixed now so yeh can equip",
+        "three gadgets to the [Skyship].",
+        "[Page]",
+        "",
+        "\"I thought three would queer the",
+        "balance, but we managed it somehow!",
+        "[Page]",
+        "",
+        "\"Just be careful. The farther yeh",
+        "get from Tharsis, the stronger the",
+        "monsters yeh'll face.",
+        "[Page]",
+        "",
+        "\"Make sure yeh don't leave yourself",
+        "unprepared. See yeh around,",
+        "[Guild] Guild!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hey there. I've been waiting for yeh.",
+        "I upgraded the [Skyship], just like",
+        "the Outland Count asked.",
+        "[Page]",
+        "",
+        "\"It's fixed now so yeh can equip",
+        "three gadgets to the [Skyship].",
+        "[Page]",
+        "",
+        "\"I thought three would queer the",
+        "balance, but we managed it somehow!",
+        "[Page]",
+        "",
+        "\"Just be careful. The farther yeh",
+        "get from Tharsis, the stronger the",
+        "monsters yeh'll face.",
+        "[Page]",
+        "",
+        "\"Make sure yeh don't leave yourself",
+        "unprepared. See yeh around,",
+        "[Guild] Guild!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The skyship now has three slots",
+        "for equipment.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The skyship now has three slots",
+        "for equipment.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "You suddenly recall that the",
+        "[Color:6][Item:1434][Color:0] is in your",
+        "possession...",
+        "[Page]",
+        "",
+        "Kibagami urged you to give it to your",
+        "guildmaster and make use of its power.",
+        "[Page]",
+        "",
+        "You should visit the Explorers Guild",
+        "and give the [Color:6][Item:1434][Color:0] to the",
+        "guildmaster.",
+        ""
+      ],
+      "Translation": [
+        "You suddenly recall that the",
+        "[Color:6][Item:1434][Color:0] is in your",
+        "possession...",
+        "[Page]",
+        "",
+        "Kibagami urged you to give it to your",
+        "guildmaster and make use of its power.",
+        "[Page]",
+        "",
+        "You should visit the Explorers Guild",
+        "and give the [Color:6][Item:1434][Color:0] to the",
+        "guildmaster.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "It might also be wise to speak to",
+        "the Count about this incident and",
+        "seek his counsel.",
+        "[Page]",
+        "",
+        "Knowing the Count as you do, it is",
+        "highly probable that he will reach",
+        "out to the Sentinels in some way.",
+        ""
+      ],
+      "Translation": [
+        "It might also be wise to speak to",
+        "the Count about this incident and",
+        "seek his counsel.",
+        "[Page]",
+        "",
+        "Knowing the Count as you do, it is",
+        "highly probable that he will reach",
+        "out to the Sentinels in some way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "You have given the [Color:6][Item:1434][Color:0]",
+        "to the guildmaster, but have not yet",
+        "sought the Outland Count's counsel.",
+        "[Page]",
+        "",
+        "It might be wise to visit the Grand",
+        "Court and speak to the Count for",
+        "guidance in this matter.",
+        "[Page]",
+        "",
+        "Knowing the Count as you do, it is",
+        "highly probable that he will reach",
+        "out to the Sentinels in some way.",
+        ""
+      ],
+      "Translation": [
+        "You have given the [Color:6][Item:1434][Color:0]",
+        "to the guildmaster, but have not yet",
+        "sought the Outland Count's counsel.",
+        "[Page]",
+        "",
+        "It might be wise to visit the Grand",
+        "Court and speak to the Count for",
+        "guidance in this matter.",
+        "[Page]",
+        "",
+        "Knowing the Count as you do, it is",
+        "highly probable that he will reach",
+        "out to the Sentinels in some way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "A number of soldiers are rushing to",
+        "and fro at the city gates.",
+        "[Page]",
+        "",
+        "\"You want to set sail?\" one asks,",
+        "aghast. \"Haven't you seen Yggdrasil!?",
+        "We can't possibly let anyone go now.",
+        "[Page]",
+        "",
+        "\"I'm afraid you'll be grounded until",
+        "the Count gives his permission to",
+        "open the gates again.\"",
+        ""
+      ],
+      "Translation": [
+        "A number of soldiers are rushing to",
+        "and fro at the city gates.",
+        "[Page]",
+        "",
+        "\"You want to set sail?\" one asks,",
+        "aghast. \"Haven't you seen Yggdrasil!?",
+        "We can't possibly let anyone go now.",
+        "[Page]",
+        "",
+        "\"I'm afraid you'll be grounded until",
+        "the Count gives his permission to",
+        "open the gates again.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

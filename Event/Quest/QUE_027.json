@@ -1,0 +1,987 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_027",
+  "RelativePath": "Event\\Quest\\QUE_027.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request was reserved specially",
+        "for your guild! The client is none",
+        "other than Dalla.",
+        "[Page]",
+        "",
+        "Did you see the large pot hanging",
+        "outside? It was specially made, from",
+        "materials from the labyrinth.",
+        "[Page]",
+        "",
+        "This time she wants you to take that",
+        "pot and catch [Color:5]five[Color:0] fish found in the",
+        "[Color:5]Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "You know the reason that Dalla requested",
+        "your guild, yes? I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "That request was reserved specially",
+        "for your guild! The client is none",
+        "other than Dalla.",
+        "[Page]",
+        "",
+        "Did you see the large pot hanging",
+        "outside? It was specially made, from",
+        "materials from the labyrinth.",
+        "[Page]",
+        "",
+        "This time she wants you to take that",
+        "pot and catch [Color:5]five[Color:0] fish found in the",
+        "[Color:5]Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "You know the reason that Dalla requested",
+        "your guild, yes? I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back, [Guild] Guild.",
+        "Oh, my! You brought back so many...",
+        "[Page]",
+        "",
+        "As is standard practice, I will have",
+        "Dalla take a look at these. Please",
+        "wait here.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back, [Guild] Guild.",
+        "Oh, my! You brought back so many...",
+        "[Page]",
+        "",
+        "As is standard practice, I will have",
+        "Dalla take a look at these. Please",
+        "wait here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "She was satisfied and thinks that the",
+        "dish should be well above what she had",
+        "expected. I again thank you.",
+        "[Page]",
+        "",
+        "Oh yes, and it seems she has allotted",
+        "you more storage space. You will have",
+        "to talk to her at the inn for that.",
+        ""
+      ],
+      "Translation": [
+        "She was satisfied and thinks that the",
+        "dish should be well above what she had",
+        "expected. I again thank you.",
+        "[Page]",
+        "",
+        "Oh yes, and it seems she has allotted",
+        "you more storage space. You will have",
+        "to talk to her at the inn for that.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "She was very satisfied and thinks the",
+        "dish should turn out better than she",
+        "expected. She even provided a bonus.",
+        "[Page]",
+        "",
+        "It seems that she has allotted you",
+        "more storage space at the inn, but you",
+        "will have to confirm that with her.",
+        "[Page]",
+        "",
+        "Well then, I again thank you for your",
+        "hard work. I wonder what the next",
+        "request might have in store...?",
+        ""
+      ],
+      "Translation": [
+        "She was very satisfied and thinks the",
+        "dish should turn out better than she",
+        "expected. She even provided a bonus.",
+        "[Page]",
+        "",
+        "It seems that she has allotted you",
+        "more storage space at the inn, but you",
+        "will have to confirm that with her.",
+        "[Page]",
+        "",
+        "Well then, I again thank you for your",
+        "hard work. I wonder what the next",
+        "request might have in store...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "She seemed very pleased! I can hardly",
+        "contain my excitement to taste it...",
+        "[Page]",
+        "",
+        "It seems that she has allotted you",
+        "more storage space at the inn, but you",
+        "will have to confirm that with her.",
+        "[Page]",
+        "",
+        "Well then, I again thank you for your",
+        "hard work. I wonder what Dalla will",
+        "have you hunting for her next time?",
+        ""
+      ],
+      "Translation": [
+        "She seemed very pleased! I can hardly",
+        "contain my excitement to taste it...",
+        "[Page]",
+        "",
+        "It seems that she has allotted you",
+        "more storage space at the inn, but you",
+        "will have to confirm that with her.",
+        "[Page]",
+        "",
+        "Well then, I again thank you for your",
+        "hard work. I wonder what Dalla will",
+        "have you hunting for her next time?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You obtained fresh fish! If you want",
+        "it to count toward the request, you",
+        "should place it in the pot.",
+        ""
+      ],
+      "Translation": [
+        "You obtained fresh fish! If you want",
+        "it to count toward the request, you",
+        "should place it in the pot.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Place [Color:6][Number:1][Color:5] in the pot?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Place [Color:6][Number:1][Color:5] in the pot?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Place the fish in the pot?[Color:0]",
+        "Put in the [Color:6][Number:1][Color:0]",
+        "Put in the [Color:6][Number:2][Color:0]",
+        "Put nothing in",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Place the fish in the pot?[Color:0]",
+        "Put in the [Color:6][Number:1][Color:0]",
+        "Put in the [Color:6][Number:2][Color:0]",
+        "Put nothing in",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to put the fish with your",
+        "own possessions instead of in the pot.",
+        ""
+      ],
+      "Translation": [
+        "You decide to put the fish with your",
+        "own possessions instead of in the pot.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You carefully place the fresh fish",
+        "you caught into the pot.",
+        ""
+      ],
+      "Translation": [
+        "You carefully place the fresh fish",
+        "you caught into the pot.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "The pot can hold [Color:5][Number:0][Color:0] more fish...",
+        ""
+      ],
+      "Translation": [
+        "The pot can hold [Color:5][Number:0][Color:0] more fish...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "This last fish has filled the pot!",
+        "The request is complete. You must now",
+        "deliver your report to the bar.",
+        ""
+      ],
+      "Translation": [
+        "This last fish has filled the pot!",
+        "The request is complete. You must now",
+        "deliver your report to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "...Don't say it, [Guild].",
+        "[Page]",
+        "",
+        "I promise yeh that no skyship of mine",
+        "is going to sink from a measly ten or",
+        "twenty bushels of food in the hold!",
+        ""
+      ],
+      "Translation": [
+        "...Don't say it, [Guild].",
+        "[Page]",
+        "",
+        "I promise yeh that no skyship of mine",
+        "is going to sink from a measly ten or",
+        "twenty bushels of food in the hold!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "What's going on? Why do you have that",
+        "pot? Are you guys thinking of taking",
+        "up fishing?",
+        "[Page]",
+        "",
+        "Wh...What? Dalla asked you to get some",
+        "more ingredients for her!? Why didn't",
+        "you start by saying that!?",
+        "[Page]",
+        "",
+        "Now listen to me. You've made it out",
+        "of labyrinths alive! You can do this!",
+        "You WILL do this!",
+        ""
+      ],
+      "Translation": [
+        "What's going on? Why do you have that",
+        "pot? Are you guys thinking of taking",
+        "up fishing?",
+        "[Page]",
+        "",
+        "Wh...What? Dalla asked you to get some",
+        "more ingredients for her!? Why didn't",
+        "you start by saying that!?",
+        "[Page]",
+        "",
+        "Now listen to me. You've made it out",
+        "of labyrinths alive! You can do this!",
+        "You WILL do this!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "I have seen with my own eyes your",
+        "guild accomplish all manner of tasks.",
+        "[Page]",
+        "",
+        "That is why I believe the [Guild]",
+        "Guild will do another wonderful job",
+        "with this request.",
+        ""
+      ],
+      "Translation": [
+        "I have seen with my own eyes your",
+        "guild accomplish all manner of tasks.",
+        "[Page]",
+        "",
+        "That is why I believe the [Guild]",
+        "Guild will do another wonderful job",
+        "with this request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, it's da [Guild] crew! Hey, ya",
+        "took da inn lady's request, huh?",
+        "Everyone in town's talking about it!",
+        "[Page]",
+        "",
+        "So it's seafood dis time, huh? I can't",
+        "hardly wait!",
+        ""
+      ],
+      "Translation": [
+        "Oh, it's da [Guild] crew! Hey, ya",
+        "took da inn lady's request, huh?",
+        "Everyone in town's talking about it!",
+        "[Page]",
+        "",
+        "So it's seafood dis time, huh? I can't",
+        "hardly wait!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "As far as your current situation,",
+        "I do not know what encouragement I",
+        "can give. All I can do is wait...",
+        "[Page]",
+        "",
+        "But I should at least say one thing.",
+        "[Page]",
+        "",
+        "I... wish you the best of luck!",
+        ""
+      ],
+      "Translation": [
+        "As far as your current situation,",
+        "I do not know what encouragement I",
+        "can give. All I can do is wait...",
+        "[Page]",
+        "",
+        "But I should at least say one thing.",
+        "[Page]",
+        "",
+        "I... wish you the best of luck!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, hello, dearies. You accepted my",
+        "request again! How lovely!",
+        "[Page]",
+        "",
+        "You always bring back the very best of",
+        "ingredients, so I asked for you by",
+        "name this time.",
+        "[Page]",
+        "",
+        "You don't mind, do you? Be careful",
+        "you don't get hurt on my account!",
+        ""
+      ],
+      "Translation": [
+        "Oh, hello, dearies. You accepted my",
+        "request again! How lovely!",
+        "[Page]",
+        "",
+        "You always bring back the very best of",
+        "ingredients, so I asked for you by",
+        "name this time.",
+        "[Page]",
+        "",
+        "You don't mind, do you? Be careful",
+        "you don't get hurt on my account!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,599 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_020",
+  "RelativePath": "Event\\Quest\\QUE_020.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request is from a connoisseur of",
+        "stones. He seems to want a stone from",
+        "[Color:5]B1F[Color:0] of the [Color:5]Golden Lair[Color:0].",
+        "[Page]",
+        "",
+        "It seems he saw a [Color:5]stone that glows",
+        "red[Color:0], like lava, and a [Color:5]stone that",
+        "shines as bright as ice[Color:0].",
+        "[Page]",
+        "",
+        "They both sound highly unusual. Do you",
+        "think you can indeed dig them up?",
+        "Could you at least try...?",
+        "[Page]",
+        "",
+        "Well, go with confidence and I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That request is from a connoisseur of",
+        "stones. He seems to want a stone from",
+        "[Color:5]B1F[Color:0] of the [Color:5]Golden Lair[Color:0].",
+        "[Page]",
+        "",
+        "It seems he saw a [Color:5]stone that glows",
+        "red[Color:0], like lava, and a [Color:5]stone that",
+        "shines as bright as ice[Color:0].",
+        "[Page]",
+        "",
+        "They both sound highly unusual. Do you",
+        "think you can indeed dig them up?",
+        "Could you at least try...?",
+        "[Page]",
+        "",
+        "Well, go with confidence and I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You make sure the [Color:6][Number:0][Color:0]",
+        "you found earlier is indeed the stone",
+        "that was requested.",
+        "[Page]",
+        "",
+        "You may deliver the [Number:0],",
+        "completing the request, or continue",
+        "to search for the other stone.",
+        ""
+      ],
+      "Translation": [
+        "You make sure the [Color:6][Number:0][Color:0]",
+        "you found earlier is indeed the stone",
+        "that was requested.",
+        "[Page]",
+        "",
+        "You may deliver the [Number:0],",
+        "completing the request, or continue",
+        "to search for the other stone.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "You make sure the [Color:6][Number:0][Color:0]",
+        "and [Color:6][Number:1][Color:0] you found earlier",
+        "are indeed the requested stones.",
+        "[Page]",
+        "",
+        "If you wish to complete the request",
+        "now, you may report to the bar and",
+        "deliver them.",
+        ""
+      ],
+      "Translation": [
+        "You make sure the [Color:6][Number:0][Color:0]",
+        "and [Color:6][Number:1][Color:0] you found earlier",
+        "are indeed the requested stones.",
+        "[Page]",
+        "",
+        "If you wish to complete the request",
+        "now, you may report to the bar and",
+        "deliver them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. By all appearances, you",
+        "have retrieved the stones.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. By all appearances, you",
+        "have retrieved the stones.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Ah... so this is the [Number:0].",
+        "I had not realized there was a beast",
+        "known as the [Enemy1:31]...",
+        "[Page]",
+        "",
+        "You did an excellent job. You say you",
+        "defeated the rock-hard beast by",
+        "striking and shattering it?",
+        "[Page]",
+        "",
+        "Are your weapons' blades still keen?",
+        "Why not go to the Atelier and have",
+        "them sharpened? You've earned enough.",
+        ""
+      ],
+      "Translation": [
+        "Ah... so this is the [Number:0].",
+        "I had not realized there was a beast",
+        "known as the [Enemy1:31]...",
+        "[Page]",
+        "",
+        "You did an excellent job. You say you",
+        "defeated the rock-hard beast by",
+        "striking and shattering it?",
+        "[Page]",
+        "",
+        "Are your weapons' blades still keen?",
+        "Why not go to the Atelier and have",
+        "them sharpened? You've earned enough.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Ah... so this is the [Number:0].",
+        "I had not realized there was a beast",
+        "known as the [Enemy1:32]...",
+        "[Page]",
+        "",
+        "You did an excellent job. You say you",
+        "defeated the rock-hard beast by",
+        "striking and shattering it?",
+        "[Page]",
+        "",
+        "Are your weapons' blades still keen?",
+        "Why not go to the Atelier and have",
+        "them sharpened? You've earned enough.",
+        ""
+      ],
+      "Translation": [
+        "Ah... so this is the [Number:0].",
+        "I had not realized there was a beast",
+        "known as the [Enemy1:32]...",
+        "[Page]",
+        "",
+        "You did an excellent job. You say you",
+        "defeated the rock-hard beast by",
+        "striking and shattering it?",
+        "[Page]",
+        "",
+        "Are your weapons' blades still keen?",
+        "Why not go to the Atelier and have",
+        "them sharpened? You've earned enough.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, you brought them both? Just as I",
+        "expected, [Guild] Guild. For that,",
+        "there is a bonus to the reward.",
+        "[Page]",
+        "",
+        "Who could have known that there was",
+        "a way to acquire the stones without",
+        "digging for them?",
+        "[Page]",
+        "",
+        "You did an excellent job. You say you",
+        "defeated the rock-hard beast by",
+        "striking and shattering it?",
+        "[Page]",
+        "",
+        "Aren't your weapons damaged? Why not",
+        "visit the Atelier and have them",
+        "sharpened with your reward bonus?",
+        ""
+      ],
+      "Translation": [
+        "Oh, you brought them both? Just as I",
+        "expected, [Guild] Guild. For that,",
+        "there is a bonus to the reward.",
+        "[Page]",
+        "",
+        "Who could have known that there was",
+        "a way to acquire the stones without",
+        "digging for them?",
+        "[Page]",
+        "",
+        "You did an excellent job. You say you",
+        "defeated the rock-hard beast by",
+        "striking and shattering it?",
+        "[Page]",
+        "",
+        "Aren't your weapons damaged? Why not",
+        "visit the Atelier and have them",
+        "sharpened with your reward bonus?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You obtain a chunk of stone after",
+        "defeating the beast!",
+        "[Page]",
+        "",
+        "But as you roll the stone around in",
+        "your hand, it does not seem unique",
+        "enough to warrant a request...",
+        "[Page]",
+        "",
+        "Perhaps if you defeat the beast in a",
+        "different way, you could win the sort",
+        "of stone the client wished for.",
+        "[Page]",
+        "",
+        "You consider trying that method",
+        "before returning and handing in",
+        "the request.",
+        ""
+      ],
+      "Translation": [
+        "You obtain a chunk of stone after",
+        "defeating the beast!",
+        "[Page]",
+        "",
+        "But as you roll the stone around in",
+        "your hand, it does not seem unique",
+        "enough to warrant a request...",
+        "[Page]",
+        "",
+        "Perhaps if you defeat the beast in a",
+        "different way, you could win the sort",
+        "of stone the client wished for.",
+        "[Page]",
+        "",
+        "You consider trying that method",
+        "before returning and handing in",
+        "the request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "You obtain a precious stone after",
+        "defeating the beast!",
+        "[Page]",
+        "",
+        "The burning heat it possesses leaves",
+        "no doubt that this fiery red stone is",
+        "the one your client wished!",
+        "[Page]",
+        "",
+        "The request is complete! All that now",
+        "remains is to deliver it to the bar",
+        "when you have a moment.",
+        ""
+      ],
+      "Translation": [
+        "You obtain a precious stone after",
+        "defeating the beast!",
+        "[Page]",
+        "",
+        "The burning heat it possesses leaves",
+        "no doubt that this fiery red stone is",
+        "the one your client wished!",
+        "[Page]",
+        "",
+        "The request is complete! All that now",
+        "remains is to deliver it to the bar",
+        "when you have a moment.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "You obtain a precious stone after",
+        "defeating the beast...",
+        "[Page]",
+        "",
+        "The burning heat that this fiery red",
+        "stone possesses will no doubt satisfy",
+        "your client if you deliver it as well.",
+        "[Page]",
+        "",
+        "You now have two stones to deliver.",
+        ""
+      ],
+      "Translation": [
+        "You obtain a precious stone after",
+        "defeating the beast...",
+        "[Page]",
+        "",
+        "The burning heat that this fiery red",
+        "stone possesses will no doubt satisfy",
+        "your client if you deliver it as well.",
+        "[Page]",
+        "",
+        "You now have two stones to deliver.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You obtain a precious stone after",
+        "defeating the beast!",
+        "[Page]",
+        "",
+        "It is cold and clear as ice, leaving",
+        "no doubt that this is the stone your",
+        "client wished for!",
+        "[Page]",
+        "",
+        "The request is complete! All that now",
+        "remains is to deliver it to the bar",
+        "when you have a moment.",
+        ""
+      ],
+      "Translation": [
+        "You obtain a precious stone after",
+        "defeating the beast!",
+        "[Page]",
+        "",
+        "It is cold and clear as ice, leaving",
+        "no doubt that this is the stone your",
+        "client wished for!",
+        "[Page]",
+        "",
+        "The request is complete! All that now",
+        "remains is to deliver it to the bar",
+        "when you have a moment.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You obtain a precious stone after",
+        "defeating the beast...",
+        "[Page]",
+        "",
+        "This cold stone, as clear as ice,",
+        "will no doubt satisfy your client if",
+        "you deliver it as well.",
+        "[Page]",
+        "",
+        "You now have two stones to deliver.",
+        ""
+      ],
+      "Translation": [
+        "You obtain a precious stone after",
+        "defeating the beast...",
+        "[Page]",
+        "",
+        "This cold stone, as clear as ice,",
+        "will no doubt satisfy your client if",
+        "you deliver it as well.",
+        "[Page]",
+        "",
+        "You now have two stones to deliver.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You recall the request you accepted to",
+        "gather rare stones at the Golden Lair.",
+        "[Page]",
+        "",
+        "You make a note to yourself not to",
+        "carelessly sell the [Color:6][Number:0][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You recall the request you accepted to",
+        "gather rare stones at the Golden Lair.",
+        "[Page]",
+        "",
+        "You make a note to yourself not to",
+        "carelessly sell the [Color:6][Number:0][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "You recall the request you accepted to",
+        "gather rare stones at the Golden Lair.",
+        "[Page]",
+        "",
+        "You make a note to yourself not to",
+        "carelessly sell the [Color:6][Number:0][Color:0]",
+        "or [Color:6][Number:1][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You recall the request you accepted to",
+        "gather rare stones at the Golden Lair.",
+        "[Page]",
+        "",
+        "You make a note to yourself not to",
+        "carelessly sell the [Color:6][Number:0][Color:0]",
+        "or [Color:6][Number:1][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

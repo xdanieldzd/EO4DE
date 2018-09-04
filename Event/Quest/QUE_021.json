@@ -1,0 +1,687 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_021",
+  "RelativePath": "Event\\Quest\\QUE_021.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You will accept that request? It calls",
+        "for you to deliver a [Color:5][Item:1446][Color:0],",
+        "found in [Color:5]B1F of the Golden Lair[Color:0].",
+        "[Page]",
+        "",
+        "The client is a girl who wants to send",
+        "her brother an accessory made from",
+        "an icy stone.",
+        "[Page]",
+        "",
+        "It is a simple delivery that should",
+        "require little effort on your part.",
+        "Simply bring it back here.",
+        "[Page]",
+        "",
+        "I am counting on you and shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "You will accept that request? It calls",
+        "for you to deliver a [Color:5][Item:1446][Color:0],",
+        "found in [Color:5]B1F of the Golden Lair[Color:0].",
+        "[Page]",
+        "",
+        "The client is a girl who wants to send",
+        "her brother an accessory made from",
+        "an icy stone.",
+        "[Page]",
+        "",
+        "It is a simple delivery that should",
+        "require little effort on your part.",
+        "Simply bring it back here.",
+        "[Page]",
+        "",
+        "I am counting on you and shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Oh? What's this? You",
+        "came back empty-handed...",
+        "[Page]",
+        "",
+        "Well, no matter. It appears that the",
+        "client's brother has just received an",
+        "ice stone from his lover.",
+        "[Page]",
+        "",
+        "That is why the client left a message",
+        "telling me to cancel the request upon",
+        "your return.",
+        "[Page]",
+        "",
+        "The girl laughed it off, saying she",
+        "could not compare to his lover.",
+        "[Page]",
+        "",
+        "Well, I'm off to return the reward to",
+        "the client. I again thank you for",
+        "your hard work.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Oh? What's this? You",
+        "came back empty-handed...",
+        "[Page]",
+        "",
+        "Well, no matter. It appears that the",
+        "client's brother has just received an",
+        "ice stone from his lover.",
+        "[Page]",
+        "",
+        "That is why the client left a message",
+        "telling me to cancel the request upon",
+        "your return.",
+        "[Page]",
+        "",
+        "The girl laughed it off, saying she",
+        "could not compare to his lover.",
+        "[Page]",
+        "",
+        "Well, I'm off to return the reward to",
+        "the client. I again thank you for",
+        "your hard work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, welcome back. Yes, this is the",
+        "requested ice stone... and here is",
+        "your reward.",
+        "[Page]",
+        "",
+        "Hm? You ran into difficulties with a",
+        "soldier badgering you? That is odd.",
+        "[Page]",
+        "",
+        "Could the soldier's lover be the",
+        "client's brother...? No, but that...",
+        "I... Hrm!",
+        "[Page]",
+        "",
+        "Has there been a surge in popularity",
+        "for ice stones? The demand seems to",
+        "have risen dramatically...",
+        "[Page]",
+        "",
+        "But instead of accepting a bribe, you",
+        "kept your focus on the request, yes?",
+        "I am pleased to hear it...",
+        ""
+      ],
+      "Translation": [
+        "Ah, welcome back. Yes, this is the",
+        "requested ice stone... and here is",
+        "your reward.",
+        "[Page]",
+        "",
+        "Hm? You ran into difficulties with a",
+        "soldier badgering you? That is odd.",
+        "[Page]",
+        "",
+        "Could the soldier's lover be the",
+        "client's brother...? No, but that...",
+        "I... Hrm!",
+        "[Page]",
+        "",
+        "Has there been a surge in popularity",
+        "for ice stones? The demand seems to",
+        "have risen dramatically...",
+        "[Page]",
+        "",
+        "But instead of accepting a bribe, you",
+        "kept your focus on the request, yes?",
+        "I am pleased to hear it...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "On your quest to find an ice stone,",
+        "you arrive at a dead end on a small",
+        "path.",
+        "[Page]",
+        "",
+        "Through a crack in a boulder, you can",
+        "see a beautiful [Color:5][Item:1446][Color:0]. It",
+        "appears to be the last one.",
+        "[Page]",
+        "",
+        "Luckily, one is all you will need to",
+        "fulfill your request.",
+        ""
+      ],
+      "Translation": [
+        "On your quest to find an ice stone,",
+        "you arrive at a dead end on a small",
+        "path.",
+        "[Page]",
+        "",
+        "Through a crack in a boulder, you can",
+        "see a beautiful [Color:5][Item:1446][Color:0]. It",
+        "appears to be the last one.",
+        "[Page]",
+        "",
+        "Luckily, one is all you will need to",
+        "fulfill your request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Take the [Item:1446]?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Take the [Item:1446]?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "You leave the ice stone where it is,",
+        "deciding to come back for it later.",
+        ""
+      ],
+      "Translation": [
+        "You leave the ice stone where it is,",
+        "deciding to come back for it later.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Just as you are putting your newfound",
+        "ice stone in your pack, you hear a",
+        "voice calling to you.",
+        "[Page]",
+        "",
+        "\"Ah! Please wait!\"",
+        ""
+      ],
+      "Translation": [
+        "Just as you are putting your newfound",
+        "ice stone in your pack, you hear a",
+        "voice calling to you.",
+        "[Page]",
+        "",
+        "\"Ah! Please wait!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "\"E... excuse me, sorry to bother you.",
+        "But, um, c-could you... give me that",
+        "ice stone you just took?\"",
+        "[Page]",
+        "",
+        "The soldier is panting heavily, out of",
+        "breath...",
+        "[Page]",
+        "",
+        "\"My lover's birthday is coming up,",
+        "and I want that ice stone to make an",
+        "accessory as a gift.\"",
+        "[Page]",
+        "",
+        "You explain the situation, and after",
+        "you tell him you cannot part with it,",
+        "he holds up one hand and speaks.",
+        "[Page]",
+        "",
+        "\"I'm not asking you give it away free,",
+        "you understand! Would you maybe trade",
+        "it for this [Color:6][Item:1334][Color:0]?",
+        "[Page]",
+        "",
+        "\"It'll be better than whatever reward",
+        "you're getting,\" he insists, staring",
+        "at you pleadingly.",
+        "[Page]",
+        "",
+        "If you are interested in his offer,",
+        "you see nothing wrong with accepting",
+        "a trade.",
+        "[Page]",
+        "",
+        "Though if you give away this last ice",
+        "stone, you will be unable to claim the",
+        "reward from your client...",
+        ""
+      ],
+      "Translation": [
+        "\"E... excuse me, sorry to bother you.",
+        "But, um, c-could you... give me that",
+        "ice stone you just took?\"",
+        "[Page]",
+        "",
+        "The soldier is panting heavily, out of",
+        "breath...",
+        "[Page]",
+        "",
+        "\"My lover's birthday is coming up,",
+        "and I want that ice stone to make an",
+        "accessory as a gift.\"",
+        "[Page]",
+        "",
+        "You explain the situation, and after",
+        "you tell him you cannot part with it,",
+        "he holds up one hand and speaks.",
+        "[Page]",
+        "",
+        "\"I'm not asking you give it away free,",
+        "you understand! Would you maybe trade",
+        "it for this [Color:6][Item:1334][Color:0]?",
+        "[Page]",
+        "",
+        "\"It'll be better than whatever reward",
+        "you're getting,\" he insists, staring",
+        "at you pleadingly.",
+        "[Page]",
+        "",
+        "If you are interested in his offer,",
+        "you see nothing wrong with accepting",
+        "a trade.",
+        "[Page]",
+        "",
+        "Though if you give away this last ice",
+        "stone, you will be unable to claim the",
+        "reward from your client...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Accept the man's offer?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Accept the man's offer?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh... oh, thank you! Oh, my beloved",
+        "will be so happy with this!\"",
+        "[Page]",
+        "",
+        "He quickly takes the ice stone from",
+        "you, hands you the item in trade,",
+        "and runs off, whooping as he goes.",
+        ""
+      ],
+      "Translation": [
+        "\"Oh... oh, thank you! Oh, my beloved",
+        "will be so happy with this!\"",
+        "[Page]",
+        "",
+        "He quickly takes the ice stone from",
+        "you, hands you the item in trade,",
+        "and runs off, whooping as he goes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You have lost the ice stone you were",
+        "meant to deliver! You suppose there is",
+        "nothing to do but report to the bar.",
+        ""
+      ],
+      "Translation": [
+        "You have lost the ice stone you were",
+        "meant to deliver! You suppose there is",
+        "nothing to do but report to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "You shake your head to turn the man",
+        "down, but he does not relent!",
+        "[Page]",
+        "",
+        "\"Okay... Okay! What if I threw in this",
+        "[Color:6][Item:1335][Color:0]!? I'm on my hands and knees",
+        "begging you!\"",
+        ""
+      ],
+      "Translation": [
+        "You shake your head to turn the man",
+        "down, but he does not relent!",
+        "[Page]",
+        "",
+        "\"Okay... Okay! What if I threw in this",
+        "[Color:6][Item:1335][Color:0]!? I'm on my hands and knees",
+        "begging you!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "You remain firm, and with tears in his",
+        "eyes, he pleads with you further...!",
+        "[Page]",
+        "",
+        "\"ARGH! All right, I can even add this",
+        "[Color:6][Item:1376][Color:0] to the bargain! But that's",
+        "my final offer! You're killing me!\"",
+        ""
+      ],
+      "Translation": [
+        "You remain firm, and with tears in his",
+        "eyes, he pleads with you further...!",
+        "[Page]",
+        "",
+        "\"ARGH! All right, I can even add this",
+        "[Color:6][Item:1376][Color:0] to the bargain! But that's",
+        "my final offer! You're killing me!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier's face turns ashen as you",
+        "stand your ground regarding his offer.",
+        "[Page]",
+        "",
+        "\"Is... is there really no way...?\"",
+        ""
+      ],
+      "Translation": [
+        "The soldier's face turns ashen as you",
+        "stand your ground regarding his offer.",
+        "[Page]",
+        "",
+        "\"Is... is there really no way...?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "You leave the man where he is and walk",
+        "away with firm steps.",
+        "[Page]",
+        "",
+        "Prioritizing your task over bribery,",
+        "you have kept the ice stone! You must",
+        "now deliver it to the client...",
+        ""
+      ],
+      "Translation": [
+        "You leave the man where he is and walk",
+        "away with firm steps.",
+        "[Page]",
+        "",
+        "Prioritizing your task over bribery,",
+        "you have kept the ice stone! You must",
+        "now deliver it to the client...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "The kneeling soldier is weeping",
+        "bitterly... You should leave him",
+        "to his anguish...",
+        ""
+      ],
+      "Translation": [
+        "The kneeling soldier is weeping",
+        "bitterly... You should leave him",
+        "to his anguish...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

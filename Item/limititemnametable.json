@@ -1,0 +1,332 @@
+{
+  "FileType": "StringTable",
+  "Description": "Burst Skill item names",
+  "RelativePath": "Item\\limititemnametable.tbl",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "NONE"
+      ],
+      "Translation": [
+        "NONE"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Book of Flight"
+      ],
+      "Translation": [
+        "Buch des Fluges"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Pranayama Guide"
+      ],
+      "Translation": [
+        "Handbuch des Pranayama"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Zoologics"
+      ],
+      "Translation": [
+        "Zoologie"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Skill: Dual Fangs"
+      ],
+      "Translation": [
+        "Fähigk.: Doppelzahn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Spell: Flame Wall"
+      ],
+      "Translation": [
+        "Zauber: Feuerwand"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Rich Hare's Gift"
+      ],
+      "Translation": [
+        "Geschenk des reichen Hasen"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Fast Hare's Gift"
+      ],
+      "Translation": [
+        "Geschenk des schnellen Hasen"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Spell: Black Mist"
+      ],
+      "Translation": [
+        "Zauber: Schwarznebel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Spear Tactics"
+      ],
+      "Translation": [
+        "Speertaktiken"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Shield Tactics"
+      ],
+      "Translation": [
+        "Schildtaktiken"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Spell: Ice Coffin"
+      ],
+      "Translation": [
+        "Zauber: Eissarg"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Protection I"
+      ],
+      "Translation": [
+        "Schutz I"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Protection II"
+      ],
+      "Translation": [
+        "Schutz II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Skill: Star Fall"
+      ],
+      "Translation": [
+        "Fähigk.: Sternenfall"
+      ],
+      "Notes": [
+        "Übersetzung?"
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Cloudy Records"
+      ],
+      "Translation": [
+        "Wolkige Aufzeichnungen"
+      ],
+      "Notes": [
+        "Übersetzung? Kontext?"
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Skill: Slash God"
+      ],
+      "Translation": [
+        "Fähigk.: Schlitzergott"
+      ],
+      "Notes": [
+        "Übersetzung...???"
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Ill Star Chart"
+      ],
+      "Translation": [
+        "Kranke Sternenkarte"
+      ],
+      "Notes": [
+        "Übersetzung...???"
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "True Protection"
+      ],
+      "Translation": [
+        "Wahrer Schutz"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Spell: Zeus' Wrath"
+      ],
+      "Translation": [
+        "Zauber: Zorn des Zeus"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Astrologic Terror"
+      ],
+      "Translation": [
+        "Astrologischer Terror"
+      ],
+      "Notes": [
+        "Übersetzung?"
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Might of Stars"
+      ],
+      "Translation": [
+        "Macht der Sterne"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Snake and Bowl"
+      ],
+      "Translation": [
+        "Schlange und Schüssel"
+      ],
+      "Notes": [
+        "Übersetzung...???"
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": true,
+      "Original": [
+        "Buffer Scroll Middle"
+      ],
+      "Translation": [
+        "Buffer Scroll Middle"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": true,
+      "Original": [
+        "Buffer Scroll Latter"
+      ],
+      "Translation": [
+        "Buffer Scroll Latter"
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

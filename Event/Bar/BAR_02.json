@@ -1,0 +1,46 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_02",
+  "RelativePath": "Event\\Bar\\BAR_02.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Hm? You want to know how to get to",
+        "the hidden passage on [Color:5]B1F[Color:0] of the",
+        "[Color:5]Lush Woodlands[Color:0]?",
+        "[Page]",
+        "",
+        "There's nothing over there but some",
+        "funny-smelling plants. You guys have",
+        "weird priorities.",
+        "[Page]",
+        "",
+        "Well, get yourself chased by that",
+        "bear monster on the west side, and",
+        "I'm sure you'll figure it out.",
+        ""
+      ],
+      "Translation": [
+        "Hm? You want to know how to get to",
+        "the hidden passage on [Color:5]B1F[Color:0] of the",
+        "[Color:5]Lush Woodlands[Color:0]?",
+        "[Page]",
+        "",
+        "There's nothing over there but some",
+        "funny-smelling plants. You guys have",
+        "weird priorities.",
+        "[Page]",
+        "",
+        "Well, get yourself chased by that",
+        "bear monster on the west side, and",
+        "I'm sure you'll figure it out.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

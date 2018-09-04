@@ -1,0 +1,202 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Mission names",
+  "RelativePath": "Event\\mission_name.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Obtain an Iridescent Ore!",
+        ""
+      ],
+      "Translation": [
+        "Obtain an Iridescent Ore!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Liberate the Lush Woodlands!",
+        ""
+      ],
+      "Translation": [
+        "Liberate the Lush Woodlands!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver the letter to the Medium!",
+        ""
+      ],
+      "Translation": [
+        "Deliver the letter to the Medium!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Obtain the legendary heart!",
+        ""
+      ],
+      "Translation": [
+        "Obtain the legendary heart!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Escort the Outland Count!",
+        ""
+      ],
+      "Translation": [
+        "Escort the Outland Count!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Stop the Empire's ambition!",
+        ""
+      ],
+      "Translation": [
+        "Stop the Empire's ambition!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Stop Yggdrasil's activation!",
+        ""
+      ],
+      "Translation": [
+        "Stop Yggdrasil's activation!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 7",
+        ""
+      ],
+      "Translation": [
+        "Mission 7",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 8",
+        ""
+      ],
+      "Translation": [
+        "Mission 8",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 9",
+        ""
+      ],
+      "Translation": [
+        "Mission 9",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 10",
+        ""
+      ],
+      "Translation": [
+        "Mission 10",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 11",
+        ""
+      ],
+      "Translation": [
+        "Mission 11",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": true,
+      "Original": [
+        "Mission 12",
+        ""
+      ],
+      "Translation": [
+        "Mission 12",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

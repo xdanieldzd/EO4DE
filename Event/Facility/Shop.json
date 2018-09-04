@@ -1,0 +1,2427 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Shop",
+  "RelativePath": "Event\\Facility\\Shop.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Huh, I ain't never seen you guys",
+        "before. Are ya dem new explorers what",
+        "came ta Tharsis da other day?",
+        "[Page]",
+        "",
+        "Da [Guild] crew, huh? Well, hey,",
+        "welcome ta [Color:5]Berund Atelier[Color:0]. For alla",
+        "ya weapon and item needs!",
+        "[Page]",
+        "",
+        "Eh... mosta ya needs, anyways. It",
+        "kinda depends on da materials you",
+        "explorer folks sell us.",
+        "[Page]",
+        "",
+        "Da more materials ya bring us, da more",
+        "kindsa stuff we'll sell yas!",
+        "[Page]",
+        "",
+        "We gotta list posted of what kinda",
+        "equipment we can make, so if ya see",
+        "something ya want, bring us da stuff.",
+        "[Page]",
+        "",
+        "Well, niceta meetcha! Give us a ring",
+        "whenever ya need something for ya",
+        "advencha!",
+        ""
+      ],
+      "Translation": [
+        "Hä? Euch hab ich hier ja noch nie",
+        "gesehen. Ach, seid Ihr die Entdecker",
+        "die neulich nach Tharsis kamen?",
+        "[Page]",
+        "",
+        "Die [Guild]-Bande also? Na",
+        "dann, willkommen in der [Color:5]Berund-",
+        "Werkstatt[Color:0]!",
+        "[Page]",
+        "",
+        "Hier gibt's alles was Ihr braucht!",
+        "Na ja, also fast alles. Hängt vom",
+        "Material ab, dass Ihr her bringt.",
+        "[Page]",
+        "",
+        "Je mehr verschiedene Materialien Ihr",
+        "vorbeibringt, desto mehr Sachen",
+        "können wir herstellen!",
+        "[Page]",
+        "",
+        "Seht Ihr auf unseren Listen etwas,",
+        "was Ihr haben wollt, dann bringt uns",
+        "einfach das Material dafür.",
+        "[Page]",
+        "",
+        "Na dann, war nett Euch kennenzu-",
+        "lernen! Kommt vorbei, wenn Ihr",
+        "irgendwas für's Abenteuer braucht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You dat [Guild] crew what just got",
+        "ta Tharsis?",
+        "[Page]",
+        "",
+        "We just had a guy come from da Grand",
+        "Court telling us we can sell ya",
+        "dem [Color:5][Item:1355][Color:0]s now.",
+        "[Page]",
+        "",
+        "Every explorer gots ta have an",
+        "[Item:1355]. It takes ya back ta",
+        "Tharsis wherever ya use it from.",
+        "[Page]",
+        "",
+        "Ya oughtta buy one right now! It'd be",
+        "a disaster if ya forgot!",
+        "[Page]",
+        "",
+        "Okies, so, nice meeting ya! And don't",
+        "forget ta come see us when ya wanna",
+        "go on an advencha!",
+        ""
+      ],
+      "Translation": [
+        "Ihr seid die [Guild]-Bande,",
+        "die grade erst nach Tharsis kam,",
+        "nicht?",
+        "[Page]",
+        "",
+        "Grade kam ein Typ vom Grand",
+        "Court vorbei. Wir dürfen Euch",
+        "jetzt [Color:5][Item:1355][Color:0]s verkaufen!",
+        "[Page]",
+        "",
+        "Jeder Entdecker brauch ein paar",
+        "[Item:1355]s. Damit kommt",
+        "man immer zurück nach Tharsis.",
+        "[Page]",
+        "",
+        "Ihr kauft besser gleich eins! Könnte",
+        "in einer Katastrophe enden, wenn",
+        "Ihr mal keins dabei habt!",
+        "[Page]",
+        "",
+        "Na dann, nett Euch kennenzulernen!",
+        "Kommt vorbei wann immer Ihr",
+        "auf ein Abenteuer aufbrechen wollt!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung \"Grand Court\"?"
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Heyyy, congrats on finishing dat",
+        "mission! A guy from da Grand Court",
+        "told us. Nice going, [Guild]!",
+        "[Page]",
+        "",
+        "Now we can finally sell yas dem",
+        "[Color:5][Item:1355][Color:0]s.",
+        "[Page]",
+        "",
+        "Every explorer gots ta have an",
+        "[Item:1355]. It takes ya back ta",
+        "Tharsis wherever ya use it from.",
+        "[Page]",
+        "",
+        "Ya oughtta buy one right now! It'd be",
+        "a disaster if ya forgot!",
+        ""
+      ],
+      "Translation": [
+        "Hey! Ihr habt die Mission geschafft!",
+        "Hat uns einer vom Grand Court",
+        "erzählt! Gratuliere, [Guild]!",
+        "[Page]",
+        "",
+        "Jetzt können wir Euch endlich",
+        "[Color:5][Item:1355][Color:0]s verkaufen!",
+        "[Page]",
+        "",
+        "Jeder Entdecker brauch ein paar",
+        "[Item:1355]s. Damit kommt",
+        "man immer zurück nach Tharsis.",
+        "[Page]",
+        "",
+        "Ihr kauft besser gleich eins! Könnte",
+        "in einer Katastrophe enden, wenn",
+        "Ihr mal keins dabei habt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Huh? Hey, lemme take a look-see at",
+        "dat thing...",
+        "[Page]",
+        "",
+        "Dag, dis armor's pretty freaking old.",
+        "But if I fix it up some, I betcha I",
+        "can make something pretty keen!",
+        "[Page]",
+        "",
+        "Whaddaya say, [Guild] crew? Wanna",
+        "leave dis armor wit me?",
+        ""
+      ],
+      "Translation": [
+        "Hä? Hey, lasst mich das Ding da",
+        "mal sehen...",
+        "[Page]",
+        "",
+        "Wow, die Rüstung ist ja echt alt.",
+        "Aber ich wette, ich könnte da",
+        "noch was Nettes draus machen!",
+        "[Page]",
+        "",
+        "Na was meint Ihr, [Guild]? Soll",
+        "ich mich mal um die Rüstung",
+        "kümmern?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Leave the armor with her?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Überlasst Ihr ihr die Rüstung?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "\"Tanks! I'll give everything I got",
+        "ta fix it right up! Just gimme a sec!\"",
+        ""
+      ],
+      "Translation": [
+        "Danke! Ich geb' mein Bestes, um",
+        "Euch 'ne tolle Rüstung zu machen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "\"Aw, don't be a spoilsport... I swear",
+        "by my junior blacksmit badge dat I'll",
+        "fix it up nice an special...\"",
+        ""
+      ],
+      "Translation": [
+        "Och, seid doch keine Spielverderber...",
+        "Ich schwöre bei meinem Lehrlings-",
+        "ausweiß, dass ich was draus mache...",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?"
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Ya shoulda seen da look on my boss'",
+        "face! Guess dis was made by a master",
+        "blacksmit name'a Conrad.",
+        "[Page]",
+        "",
+        "Once I polished it a li'l and fixed",
+        "up a couple details, it turned inta",
+        "some pretty snazzy armor!",
+        "[Page]",
+        "",
+        "Payment? Aw, dat's okay! Ya always",
+        "help us out here, so, yanno. Just",
+        "make sure ya take good care of it!",
+        ""
+      ],
+      "Translation": [
+        "Ihr hättet das Gesicht vom Meister",
+        "sehen sollen! Das Ding hat ein Schmiede-",
+        "meister namens Conrad gemacht.",
+        "[Page]",
+        "",
+        "Hab's ein bisschen repariert und",
+        "aufpoliert, und schon wurde eine",
+        "schicke Rüstung draus!",
+        "[Page]",
+        "",
+        "Bezahlung? Ach was! Das geht aufs",
+        "Haus, weil Ihr uns auch immer",
+        "aushelft.",
+        "[Page]",
+        "",
+        "Behandelt sie einfach gut, okay?",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?"
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Sigh... Does dis mean I ain't gonna",
+        "be a kid forever...?",
+        ""
+      ],
+      "Translation": [
+        "Sigh... Does dis mean I ain't gonna",
+        "be a kid forever...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Ooh, da [Guild] crew! I been waiting",
+        "for ya!",
+        "[Page]",
+        "",
+        "Tanks for dat tiny li'l necklace!",
+        "Ta be honest... I really did tink",
+        "fairies was real!",
+        "[Page]",
+        "",
+        "I was worried I was being childish,",
+        "but now I know they was real! So I'm",
+        "not embarrassed to believe no more.",
+        "[Page]",
+        "",
+        "I'll take good care of dis necklace!",
+        "Tanks again, [Guild]!",
+        "[Page]",
+        "",
+        "Oh, and here's a little something from",
+        "me. Although after ya gave me dat nice",
+        "necklace, I feel bad how crummy it is.",
+        ""
+      ],
+      "Translation": [
+        "Ooh, da [Guild] crew! I been waiting",
+        "for ya!",
+        "[Page]",
+        "",
+        "Tanks for dat tiny li'l necklace!",
+        "Ta be honest... I really did tink",
+        "fairies was real!",
+        "[Page]",
+        "",
+        "I was worried I was being childish,",
+        "but now I know they was real! So I'm",
+        "not embarrassed to believe no more.",
+        "[Page]",
+        "",
+        "I'll take good care of dis necklace!",
+        "Tanks again, [Guild]!",
+        "[Page]",
+        "",
+        "Oh, and here's a little something from",
+        "me. Although after ya gave me dat nice",
+        "necklace, I feel bad how crummy it is.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Hey, it's da [Guild] crew! Guess",
+        "what! We just finished working wit",
+        "da forging furnace!",
+        "[Page]",
+        "",
+        "Now we can use [Color:5]hammers[Color:0] ta [Color:5]forge",
+        "weapons[Color:0] for ya.",
+        "[Page]",
+        "",
+        "Ta forge a weapon, we need summore",
+        "[Color:5]materials[Color:0]. But if ya already brung",
+        "dem to us, ya don't gotta do it again.",
+        "[Page]",
+        "",
+        "Da effect of forging changes depending",
+        "on da hammer ya use. So if ya find a",
+        "new hammer, fork it over quick!",
+        "[Page]",
+        "",
+        "We gots our own hammers too, so ya",
+        "can give it a try right now!",
+        "[Page]",
+        "",
+        "[Color:3]By selecting [Color:5]Forge[Color:3], you can add new",
+        "effects to weapons based on the",
+        "[Color:5]hammers[Color:3] you give to the shop.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Forge your weapons to give your party",
+        "the boost they need in combat.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Hey, it's da [Guild] crew! Guess",
+        "what! We just finished working wit",
+        "da forging furnace!",
+        "[Page]",
+        "",
+        "Now we can use [Color:5]hammers[Color:0] ta [Color:5]forge",
+        "weapons[Color:0] for ya.",
+        "[Page]",
+        "",
+        "Ta forge a weapon, we need summore",
+        "[Color:5]materials[Color:0]. But if ya already brung",
+        "dem to us, ya don't gotta do it again.",
+        "[Page]",
+        "",
+        "Da effect of forging changes depending",
+        "on da hammer ya use. So if ya find a",
+        "new hammer, fork it over quick!",
+        "[Page]",
+        "",
+        "We gots our own hammers too, so ya",
+        "can give it a try right now!",
+        "[Page]",
+        "",
+        "[Color:3]By selecting [Color:5]Forge[Color:3], you can add new",
+        "effects to weapons based on the",
+        "[Color:5]hammers[Color:3] you give to the shop.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Forge your weapons to give your party",
+        "the boost they need in combat.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Ooh, looks like ya already brung me",
+        "a hammer. Alrighty then, we'll take",
+        "good care of it!",
+        ""
+      ],
+      "Translation": [
+        "Ooh, looks like ya already brung me",
+        "a hammer. Alrighty then, we'll take",
+        "good care of it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hiya! Oooh... Looks like ya brung",
+        "me a hammer.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hiya! Oooh... Looks like ya brung",
+        "me a hammer.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1528][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]STR Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1528][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]STR Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1529][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]TEC Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1529][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]TEC Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1531][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]AGI Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1531][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]AGI Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1532][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]LUC Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1532][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]LUC Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1526][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Accuracy Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1526][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Accuracy Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1527][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Critical Hit Rate Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1527][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Critical Hit Rate Up[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1533][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Fire Affinity[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1533][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Fire Affinity[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1534][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Ice Affinity[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1534][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Ice Affinity[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1535][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Volt Affinity[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1535][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Volt Affinity[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1548][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Instant Kill[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1548][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Instant Kill[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1547][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Petrification[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1547][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Petrification[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1541][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Sleep[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1541][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Sleep[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1544][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Panic[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1544][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Panic[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1542][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Poison[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1542][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Poison[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1546][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Cursing[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1546][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Cursing[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1545][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Paralysis[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1545][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Paralysis[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1536][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Head Binding[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1536][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Head Binding[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1537][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Arm Binding[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1537][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Arm Binding[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1538][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Leg Binding[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1538][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Leg Binding[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1539][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Stun[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1539][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Stun[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1550][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Piercing[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1550][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Piercing[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]You hand over the [Color:5][Item:1551][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Splashing[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]You hand over the [Color:5][Item:1551][Color:3].",
+        "Use this during forging to add",
+        "[Color:5]Splashing[Color:3] to weapons.[Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey, tanks! Ooh, ya wanna try it",
+        "out right now! It's no problem or",
+        "nuttin'!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hey, tanks! Ooh, ya wanna try it",
+        "out right now! It's no problem or",
+        "nuttin'!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Oh hey, it's da [Guild] crew. Ya",
+        "been to da labyrint yet? If ya find",
+        "any junk, sell it back ta us!",
+        "[Page]",
+        "",
+        "My boss gots da skills ta make useful",
+        "items and equipment outta dat crap.",
+        "All our gear is first-rate!",
+        "[Page]",
+        "",
+        "An I help make it! Hey, whyncha check",
+        "out our stuff while you're here?",
+        ""
+      ],
+      "Translation": [
+        "Oh hey, it's da [Guild] crew. Ya",
+        "been to da labyrint yet? If ya find",
+        "any junk, sell it back ta us!",
+        "[Page]",
+        "",
+        "My boss gots da skills ta make useful",
+        "items and equipment outta dat crap.",
+        "All our gear is first-rate!",
+        "[Page]",
+        "",
+        "An I help make it! Hey, whyncha check",
+        "out our stuff while you're here?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Say, [Guild]. This is the first time",
+        "ya been up in a skyship, huh? How'd it",
+        "feel ta fly one?",
+        "[Page]",
+        "",
+        "I'm a Tharsis girl, born an raised,",
+        "so skyships ain't no big deal for me.",
+        "[Page]",
+        "",
+        "But explorers from outside all flip",
+        "when dey try it. I love seeing da",
+        "looks on their faces!",
+        ""
+      ],
+      "Translation": [
+        "Say, [Guild]. This is the first time",
+        "ya been up in a skyship, huh? How'd it",
+        "feel ta fly one?",
+        "[Page]",
+        "",
+        "I'm a Tharsis girl, born an raised,",
+        "so skyships ain't no big deal for me.",
+        "[Page]",
+        "",
+        "But explorers from outside all flip",
+        "when dey try it. I love seeing da",
+        "looks on their faces!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "I heard yas started poking around da",
+        "Lush Woodlands. Ya do gots yourself",
+        "an Ariadne Thread, right?",
+        "[Page]",
+        "",
+        "Don't come crying ta me if ya forget",
+        "ta buy one when you're smack dab inna",
+        "labyrint already.",
+        "[Page]",
+        "",
+        "I guess ya could buy a bunch so ya",
+        "always gots one, but then ya might",
+        "not notice if ya run out...",
+        "[Page]",
+        "",
+        "Huh! I guess it's best to check your",
+        "stuff every time ya leave. Some",
+        "explorers even write it on da map!",
+        ""
+      ],
+      "Translation": [
+        "I heard yas started poking around da",
+        "Lush Woodlands. Ya do gots yourself",
+        "an Ariadne Thread, right?",
+        "[Page]",
+        "",
+        "Don't come crying ta me if ya forget",
+        "ta buy one when you're smack dab inna",
+        "labyrint already.",
+        "[Page]",
+        "",
+        "I guess ya could buy a bunch so ya",
+        "always gots one, but then ya might",
+        "not notice if ya run out...",
+        "[Page]",
+        "",
+        "Huh! I guess it's best to check your",
+        "stuff every time ya leave. Some",
+        "explorers even write it on da map!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Yo, [Guild]. Ya always see me here,",
+        "but my main thing is akshally swinging",
+        "a hammer in da workship in back.",
+        "[Page]",
+        "",
+        "Even if I am still an apprennice...",
+        "[Page]",
+        "",
+        "But I gotcha back when it comes ta",
+        "weapons and armor! I gotta lady boner",
+        "harder dan steel for dat stuff!",
+        ""
+      ],
+      "Translation": [
+        "Yo, [Guild]. Ya always see me here,",
+        "but my main thing is akshally swinging",
+        "a hammer in da workship in back.",
+        "[Page]",
+        "",
+        "Even if I am still an apprennice...",
+        "[Page]",
+        "",
+        "But I gotcha back when it comes ta",
+        "weapons and armor! I gotta lady boner",
+        "harder dan steel for dat stuff!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Ooh, the [Guild] crew! I heard yas",
+        "found a third floor in dat mess.",
+        "[Page]",
+        "",
+        "And ya only just got here ta boot!",
+        "Even da hot-shot soldiers and",
+        "explorers didn't find it 'til now...",
+        "[Page]",
+        "",
+        "My boss thought it was something else,",
+        "too. He said ta me, \"Looks like we",
+        "gots some explorers wit backbone!\"",
+        ""
+      ],
+      "Translation": [
+        "Ooh, the [Guild] crew! I heard yas",
+        "found a third floor in dat mess.",
+        "[Page]",
+        "",
+        "And ya only just got here ta boot!",
+        "Even da hot-shot soldiers and",
+        "explorers didn't find it 'til now...",
+        "[Page]",
+        "",
+        "My boss thought it was something else,",
+        "too. He said ta me, \"Looks like we",
+        "gots some explorers wit backbone!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "Hey there! It's da [Guild] crew!",
+        "Looks like da northern barrier's gone",
+        "and ya can get ta new territory!",
+        "[Page]",
+        "",
+        "Ya gots enough items and whatnot?",
+        "Da best weapons an armor for everyone",
+        "in da party?",
+        "[Page]",
+        "",
+        "Ya never know what's out dere in da",
+        "new land, so make sure you're ready",
+        "for anything!",
+        ""
+      ],
+      "Translation": [
+        "Hey there! It's da [Guild] crew!",
+        "Looks like da northern barrier's gone",
+        "and ya can get ta new territory!",
+        "[Page]",
+        "",
+        "Ya gots enough items and whatnot?",
+        "Da best weapons an armor for everyone",
+        "in da party?",
+        "[Page]",
+        "",
+        "Ya never know what's out dere in da",
+        "new land, so make sure you're ready",
+        "for anything!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, so hey, how's dat new labyrint?",
+        "It's called da Misty Ravine, right?",
+        "I guess on accounta it's all misty?",
+        "[Page]",
+        "",
+        "I can't wait ta hear da stories ya",
+        "bring back from dat place!",
+        "[Page]",
+        "",
+        "'Course, as an apprennice blacksmit,",
+        "I'm even more excited for da new",
+        "kindsa junk ya bring back here!",
+        ""
+      ],
+      "Translation": [
+        "Oh, so hey, how's dat new labyrint?",
+        "It's called da Misty Ravine, right?",
+        "I guess on accounta it's all misty?",
+        "[Page]",
+        "",
+        "I can't wait ta hear da stories ya",
+        "bring back from dat place!",
+        "[Page]",
+        "",
+        "'Course, as an apprennice blacksmit,",
+        "I'm even more excited for da new",
+        "kindsa junk ya bring back here!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "Hey, so listen. If your gear ain't",
+        "doing it for ya, make sure you're",
+        "listening to what it's telling ya.",
+        "[Page]",
+        "",
+        "If there's something wrong, like some",
+        "tough-ta-see rust or loose clasps,",
+        "ya can always tell by da sound.",
+        "[Page]",
+        "",
+        "Dat's what my boss says, anyways.",
+        "But you gotta lot riding on dat",
+        "stuff, so take good care of it.",
+        ""
+      ],
+      "Translation": [
+        "Hey, so listen. If your gear ain't",
+        "doing it for ya, make sure you're",
+        "listening to what it's telling ya.",
+        "[Page]",
+        "",
+        "If there's something wrong, like some",
+        "tough-ta-see rust or loose clasps,",
+        "ya can always tell by da sound.",
+        "[Page]",
+        "",
+        "Dat's what my boss says, anyways.",
+        "But you gotta lot riding on dat",
+        "stuff, so take good care of it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "If you're thinking of buying new gear,",
+        "make sure ya time it right.",
+        "[Page]",
+        "",
+        "I mean, we love it when you drop some",
+        "dough here, but ya'll run out of money",
+        "quick if ya keep buying new stuff.",
+        "[Page]",
+        "",
+        "If the new stuff's only a li'l better,",
+        "ya maybe could do with just forging.",
+        "It'd be easier on da wallet!",
+        "[Page]",
+        "",
+        "Plus, I like ta know that a piece of",
+        "gear is getting more mileage!",
+        ""
+      ],
+      "Translation": [
+        "If you're thinking of buying new gear,",
+        "make sure ya time it right.",
+        "[Page]",
+        "",
+        "I mean, we love it when you drop some",
+        "dough here, but ya'll run out of money",
+        "quick if ya keep buying new stuff.",
+        "[Page]",
+        "",
+        "If the new stuff's only a li'l better,",
+        "ya maybe could do with just forging.",
+        "It'd be easier on da wallet!",
+        "[Page]",
+        "",
+        "Plus, I like ta know that a piece of",
+        "gear is getting more mileage!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, listen ta this! We had our first",
+        "Vessel customer da other day.",
+        "[Page]",
+        "",
+        "Ya coulda knocked me over wit a",
+        "feather when he walked in, but I",
+        "guess it wasn't dat big a deal.",
+        "[Page]",
+        "",
+        "If ya see any Vessels having a hard",
+        "time in da city, make sure ya lend",
+        "dem a hand, alright?",
+        ""
+      ],
+      "Translation": [
+        "Oh, listen ta this! We had our first",
+        "Vessel customer da other day.",
+        "[Page]",
+        "",
+        "Ya coulda knocked me over wit a",
+        "feather when he walked in, but I",
+        "guess it wasn't dat big a deal.",
+        "[Page]",
+        "",
+        "If ya see any Vessels having a hard",
+        "time in da city, make sure ya lend",
+        "dem a hand, alright?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Ooh, it's da [Guild] crew! Hiya!",
+        "Dem Sacred Mountains you're running",
+        "through are plenty cold, am I right?",
+        "[Page]",
+        "",
+        "I ain't never left Tharsis my whole",
+        "life, so all I know about snow is",
+        "what people tell me.",
+        "[Page]",
+        "",
+        "Ooh! Why don'tcha take me on one of",
+        "your trips next time! Pleeeeease!?",
+        ""
+      ],
+      "Translation": [
+        "Ooh, it's da [Guild] crew! Hiya!",
+        "Dem Sacred Mountains you're running",
+        "through are plenty cold, am I right?",
+        "[Page]",
+        "",
+        "I ain't never left Tharsis my whole",
+        "life, so all I know about snow is",
+        "what people tell me.",
+        "[Page]",
+        "",
+        "Ooh! Why don'tcha take me on one of",
+        "your trips next time! Pleeeeease!?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "Bluh, so busy... Ooh, da [Guild]",
+        "crew! My favorite guys! Welcome!",
+        "[Page]",
+        "",
+        "Explorers been flocking here ta get",
+        "geared up for da Golden Lair. Our",
+        "stuff's been flying off da shelves!",
+        "[Page]",
+        "",
+        "We can't keep up wit demand hardly.",
+        "Remember we can always use more",
+        "materials! Keep em coming!",
+        ""
+      ],
+      "Translation": [
+        "Bluh, so busy... Ooh, da [Guild]",
+        "crew! My favorite guys! Welcome!",
+        "[Page]",
+        "",
+        "Explorers been flocking here ta get",
+        "geared up for da Golden Lair. Our",
+        "stuff's been flying off da shelves!",
+        "[Page]",
+        "",
+        "We can't keep up wit demand hardly.",
+        "Remember we can always use more",
+        "materials! Keep em coming!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "[Guild]! [Guild]! I hear ",
+        "it's getting ta be pretty rough going!",
+        "[Page]",
+        "",
+        "Lookit dis! I tried making a new",
+        "weapon for ya! Dis here's a giant",
+        "boomerang I made outta scrap!",
+        "[Page]",
+        "",
+        "Not going for it, huh? Well... how",
+        "bout... dis paddle-ball flail!",
+        ""
+      ],
+      "Translation": [
+        "[Guild]! [Guild]! I hear ",
+        "it's getting ta be pretty rough going!",
+        "[Page]",
+        "",
+        "Lookit dis! I tried making a new",
+        "weapon for ya! Dis here's a giant",
+        "boomerang I made outta scrap!",
+        "[Page]",
+        "",
+        "Not going for it, huh? Well... how",
+        "bout... dis paddle-ball flail!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "[Guild]! [Guild]! Guess",
+        "what! We can make katanas now!",
+        "[Page]",
+        "",
+        "The Sentinels taught us how. Dem guys",
+        "are pretty swell!",
+        "[Page]",
+        "",
+        "They're strong, they know lots about",
+        "metals, and most of all... they're",
+        "so flipping fluffy!",
+        ""
+      ],
+      "Translation": [
+        "[Guild]! [Guild]! Guess",
+        "what! We can make katanas now!",
+        "[Page]",
+        "",
+        "The Sentinels taught us how. Dem guys",
+        "are pretty swell!",
+        "[Page]",
+        "",
+        "They're strong, they know lots about",
+        "metals, and most of all... they're",
+        "so flipping fluffy!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "So, [Guild]. Tell me straight. Izzat",
+        "true dat dere's tons of black skyships",
+        "wit a hair trigger in da new land?",
+        "[Page]",
+        "",
+        "But da skyship was designed and built",
+        "by da wharf master here... So why's",
+        "dere skyships past dat barrier, huh?",
+        "[Page]",
+        "",
+        "Pffft! It makes my head spin.",
+        ""
+      ],
+      "Translation": [
+        "So, [Guild]. Tell me straight. Izzat",
+        "true dat dere's tons of black skyships",
+        "wit a hair trigger in da new land?",
+        "[Page]",
+        "",
+        "But da skyship was designed and built",
+        "by da wharf master here... So why's",
+        "dere skyships past dat barrier, huh?",
+        "[Page]",
+        "",
+        "Pffft! It makes my head spin.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "Yo, [Guild]! [Guild]!",
+        "I hear dat new labyrint ya found",
+        "is really flipping tough.",
+        "[Page]",
+        "",
+        "So I made ya a new weapon that'll",
+        "knock em on their backs! I call it",
+        "da Squadron Cannon! Ta-daaaa!",
+        "[Page]",
+        "",
+        "I made it by tinkering wit an old",
+        "siege ballista. Ya form a five-man",
+        "formation and blast away!",
+        "[Page]",
+        "",
+        "It only gots da one shot, but it's",
+        "a doozy! It'll be great for finishing",
+        "off... Huh? It's too big? Awww...",
+        ""
+      ],
+      "Translation": [
+        "Yo, [Guild]! [Guild]!",
+        "I hear dat new labyrint ya found",
+        "is really flipping tough.",
+        "[Page]",
+        "",
+        "So I made ya a new weapon that'll",
+        "knock em on their backs! I call it",
+        "da Squadron Cannon! Ta-daaaa!",
+        "[Page]",
+        "",
+        "I made it by tinkering wit an old",
+        "siege ballista. Ya form a five-man",
+        "formation and blast away!",
+        "[Page]",
+        "",
+        "It only gots da one shot, but it's",
+        "a doozy! It'll be great for finishing",
+        "off... Huh? It's too big? Awww...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "Dat reminds me, I ain't seen Whirlwind",
+        "lately. He usedta come in here alla",
+        "time...",
+        "[Page]",
+        "",
+        "I didn't hear about him dying or",
+        "nothing, so... I didn't think he'd",
+        "go down like a chump anyway.",
+        "[Page]",
+        "",
+        "Yo, [Guild] crew. If ya happen ta",
+        "see him in a labyrint somewhere,",
+        "tell him I said hi!",
+        ""
+      ],
+      "Translation": [
+        "Dat reminds me, I ain't seen Whirlwind",
+        "lately. He usedta come in here alla",
+        "time...",
+        "[Page]",
+        "",
+        "I didn't hear about him dying or",
+        "nothing, so... I didn't think he'd",
+        "go down like a chump anyway.",
+        "[Page]",
+        "",
+        "Yo, [Guild] crew. If ya happen ta",
+        "see him in a labyrint somewhere,",
+        "tell him I said hi!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "[Guild]! [Guild]! D-Dis is",
+        "bad! It's awful! Y-Yggdrasil's toast!",
+        "[Page]",
+        "",
+        "I ain't never seen nothing like dis",
+        "before... What the hell's going on!?",
+        "I'm scared...",
+        ""
+      ],
+      "Translation": [
+        "[Guild]! [Guild]! D-Dis is",
+        "bad! It's awful! Y-Yggdrasil's toast!",
+        "[Page]",
+        "",
+        "I ain't never seen nothing like dis",
+        "before... What the hell's going on!?",
+        "I'm scared...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "Boss! I'ma leave dis armor here,",
+        "alright? Hrm...? The [Guild] crew?",
+        "Hiya!",
+        "[Page]",
+        "",
+        "After what happened, I talked it over",
+        "wit da boss and we decided ta do",
+        "whatever we can.",
+        "[Page]",
+        "",
+        "We worked our keesters off ta make",
+        "enough equipment an items ta go",
+        "around for alla ya explorers.",
+        "[Page]",
+        "",
+        "If there's something ya need, just",
+        "give us a holler!",
+        ""
+      ],
+      "Translation": [
+        "Boss! I'ma leave dis armor here,",
+        "alright? Hrm...? The [Guild] crew?",
+        "Hiya!",
+        "[Page]",
+        "",
+        "After what happened, I talked it over",
+        "wit da boss and we decided ta do",
+        "whatever we can.",
+        "[Page]",
+        "",
+        "We worked our keesters off ta make",
+        "enough equipment an items ta go",
+        "around for alla ya explorers.",
+        "[Page]",
+        "",
+        "If there's something ya need, just",
+        "give us a holler!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, man! Ya gotta hear dis! Dat drive",
+        "blade da Imperial mooks brought in",
+        "is something else.",
+        "[Page]",
+        "",
+        "It, uh... Ya put a condensed spell",
+        "in for da catalyst...",
+        "[Page]",
+        "",
+        "A-And da trigger and chamber ignites",
+        "for da drive.",
+        "[Page]",
+        "",
+        "P-Pretty sweet, ain't it!? Maybe ya",
+        "could start using dem too!",
+        ""
+      ],
+      "Translation": [
+        "Oh, man! Ya gotta hear dis! Dat drive",
+        "blade da Imperial mooks brought in",
+        "is something else.",
+        "[Page]",
+        "",
+        "It, uh... Ya put a condensed spell",
+        "in for da catalyst...",
+        "[Page]",
+        "",
+        "A-And da trigger and chamber ignites",
+        "for da drive.",
+        "[Page]",
+        "",
+        "P-Pretty sweet, ain't it!? Maybe ya",
+        "could start using dem too!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Ya seem busy lately... Even I can tell",
+        "da [Guild] crew's in the middle of",
+        "dis whole fiasco...",
+        "[Page]",
+        "",
+        "Hey... Can ya promise me one thing?",
+        "Just tell me y'all will come back from",
+        "dis in one piece.",
+        "[Page]",
+        "",
+        "I-If any of yas end up dead, I...",
+        "I... I-I'll haunt ya forever!",
+        ""
+      ],
+      "Translation": [
+        "Ya seem busy lately... Even I can tell",
+        "da [Guild] crew's in the middle of",
+        "dis whole fiasco...",
+        "[Page]",
+        "",
+        "Hey... Can ya promise me one thing?",
+        "Just tell me y'all will come back from",
+        "dis in one piece.",
+        "[Page]",
+        "",
+        "I-If any of yas end up dead, I...",
+        "I... I-I'll haunt ya forever!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "Oh... [Guild]. It's about time ya",
+        "got to heading out dere, huh?",
+        "[Page]",
+        "",
+        "Wish I could go witcha, but take some",
+        "of da equipment and items I made and",
+        "dat'll satisfy me.",
+        "[Page]",
+        "",
+        "So, yanno, even if I can't be dere",
+        "in person, we'll be together. Good",
+        "luck, [Guild] crew.",
+        ""
+      ],
+      "Translation": [
+        "Oh... [Guild]. It's about time ya",
+        "got to heading out dere, huh?",
+        "[Page]",
+        "",
+        "Wish I could go witcha, but take some",
+        "of da equipment and items I made and",
+        "dat'll satisfy me.",
+        "[Page]",
+        "",
+        "So, yanno, even if I can't be dere",
+        "in person, we'll be together. Good",
+        "luck, [Guild] crew.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "I seen da whole thing! Da Titan fell",
+        "down an a new Yggdrasil grew!",
+        "[Page]",
+        "",
+        "Dat was you guys, right? I knew it!",
+        "Tanks, [Guild]!",
+        "[Page]",
+        "",
+        "Oh, and... welcome back!",
+        ""
+      ],
+      "Translation": [
+        "I seen da whole thing! Da Titan fell",
+        "down an a new Yggdrasil grew!",
+        "[Page]",
+        "",
+        "Dat was you guys, right? I knew it!",
+        "Tanks, [Guild]!",
+        "[Page]",
+        "",
+        "Oh, and... welcome back!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "Heheh! Things just ain't been da same",
+        "without you guys around town!",
+        "[Page]",
+        "",
+        "Alla dis commotion helped me figger",
+        "out dat ya've been a part of dis city",
+        "since way before I noticed.",
+        "[Page]",
+        "",
+        "So I hope ya stay in Tharsis forever!",
+        ""
+      ],
+      "Translation": [
+        "Heheh! Things just ain't been da same",
+        "without you guys around town!",
+        "[Page]",
+        "",
+        "Alla dis commotion helped me figger",
+        "out dat ya've been a part of dis city",
+        "since way before I noticed.",
+        "[Page]",
+        "",
+        "So I hope ya stay in Tharsis forever!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "Yo! Yo, [Guild] crew! I heard ya",
+        "found a new labyrint! So, uh, what",
+        "kinda place is it?",
+        "[Page]",
+        "",
+        "My boss has been fidgety ever since",
+        "he heard da news. I bet he can't wait",
+        "ta get his hands on dem materials!",
+        "[Page]",
+        "",
+        "Seeing him like dat made it feel like",
+        "da city's finally back ta normal.",
+        "All thanks ta you, [Guild]!",
+        ""
+      ],
+      "Translation": [
+        "Yo! Yo, [Guild] crew! I heard ya",
+        "found a new labyrint! So, uh, what",
+        "kinda place is it?",
+        "[Page]",
+        "",
+        "My boss has been fidgety ever since",
+        "he heard da news. I bet he can't wait",
+        "ta get his hands on dem materials!",
+        "[Page]",
+        "",
+        "Seeing him like dat made it feel like",
+        "da city's finally back ta normal.",
+        "All thanks ta you, [Guild]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, yo [Guild]! Ya going out",
+        "exploring today too? Man, you guys",
+        "never quit, heehee!",
+        "[Page]",
+        "",
+        "Ya been exploring those labyrints so",
+        "fast, I bet dem monsters are as hard",
+        "up for materials as we are here.",
+        "[Page]",
+        "",
+        "Waaaaait a sec... Hey, whatcha gonna",
+        "do once ya've been through all da",
+        "labyrints here?",
+        ""
+      ],
+      "Translation": [
+        "Oh, yo [Guild]! Ya going out",
+        "exploring today too? Man, you guys",
+        "never quit, heehee!",
+        "[Page]",
+        "",
+        "Ya been exploring those labyrints so",
+        "fast, I bet dem monsters are as hard",
+        "up for materials as we are here.",
+        "[Page]",
+        "",
+        "Waaaaait a sec... Hey, whatcha gonna",
+        "do once ya've been through all da",
+        "labyrints here?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "Once you're done wit da last labyrint,",
+        "I guess ya'll leave Tharsis, huh...",
+        "Seeing as how you're explorers an all.",
+        "[Page]",
+        "",
+        "I'll be sad ta see ya go, but then",
+        "I got ta thinking...",
+        "[Page]",
+        "",
+        "Like... if I ever wanted ta see ya,",
+        "I could go on my own.",
+        "[Page]",
+        "",
+        "Heheh... Wonner why da simple answer",
+        "didn't come ta me before.",
+        "[Page]",
+        "",
+        "So alright, [Guild] crew! We're",
+        "gonna meet again somewhere, yeah?",
+        ""
+      ],
+      "Translation": [
+        "Once you're done wit da last labyrint,",
+        "I guess ya'll leave Tharsis, huh...",
+        "Seeing as how you're explorers an all.",
+        "[Page]",
+        "",
+        "I'll be sad ta see ya go, but then",
+        "I got ta thinking...",
+        "[Page]",
+        "",
+        "Like... if I ever wanted ta see ya,",
+        "I could go on my own.",
+        "[Page]",
+        "",
+        "Heheh... Wonner why da simple answer",
+        "didn't come ta me before.",
+        "[Page]",
+        "",
+        "So alright, [Guild] crew! We're",
+        "gonna meet again somewhere, yeah?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will you meet again somewhere?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will you meet again somewhere?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "Attaboy! That's why we don't need ta",
+        "say goodbye now!",
+        "[Page]",
+        "",
+        "I'm gonna be the bestest blacksmit",
+        "in da world and unload even better",
+        "equipment on ya dan ever!",
+        ""
+      ],
+      "Translation": [
+        "Attaboy! That's why we don't need ta",
+        "say goodbye now!",
+        "[Page]",
+        "",
+        "I'm gonna be the bestest blacksmit",
+        "in da world and unload even better",
+        "equipment on ya dan ever!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Yeah, dat's what I tho--Say what!?",
+        "C'mon, why ya gotta pull my leg",
+        "like dat!?",
+        "[Page]",
+        "",
+        "Fine! Say whatever ya want, but I'm",
+        "gonna see yas again no matter what!",
+        "You mooks better be ready!",
+        ""
+      ],
+      "Translation": [
+        "Yeah, dat's what I tho--Say what!?",
+        "C'mon, why ya gotta pull my leg",
+        "like dat!?",
+        "[Page]",
+        "",
+        "Fine! Say whatever ya want, but I'm",
+        "gonna see yas again no matter what!",
+        "You mooks better be ready!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ever since ya started coming to dis",
+        "shop, you sold us plenty of junk.",
+        "[Page]",
+        "",
+        "\"But I gots a little tip for dat.\"",
+        "She proceeds to explain it to you...",
+        ""
+      ],
+      "Translation": [
+        "\"Ever since ya started coming to dis",
+        "shop, you sold us plenty of junk.",
+        "[Page]",
+        "",
+        "\"But I gots a little tip for dat.\"",
+        "She proceeds to explain it to you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Multiple materials and items can be",
+        "sold at once by using the Y Button.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Multiple materials and items can be",
+        "sold at once by using the Y Button.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]End the explanation?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]End the explanation?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "\"See? Easy, ain't it? So go load up",
+        "on junk for us and den come back ta",
+        "sell it all in one go!\"",
+        ""
+      ],
+      "Translation": [
+        "\"See? Easy, ain't it? So go load up",
+        "on junk for us and den come back ta",
+        "sell it all in one go!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

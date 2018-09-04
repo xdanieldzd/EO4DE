@@ -1,0 +1,1163 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_011",
+  "RelativePath": "Event\\Quest\\QUE_011.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "This is the request you'll be taking?",
+        "It is from Wynne at the Atelier.",
+        "[Page]",
+        "",
+        "She wants you to help her gather some",
+        "[Color:6][Item:1190][Color:0]s from the labyrinth",
+        "called the [Color:5]Dense Bushland[Color:0].",
+        "[Page]",
+        "",
+        "Be warned... She is quite beloved",
+        "amongst the people of Tharsis. I do",
+        "not suggest letting her come to harm.",
+        "[Page]",
+        "",
+        "If for no other reason than that you",
+        "will never hear the end of it from",
+        "her most ardent admirers!",
+        "[Page]",
+        "",
+        "Your first stop must be to pick her",
+        "up at the Berund Atelier. I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "This is the request you'll be taking?",
+        "It is from Wynne at the Atelier.",
+        "[Page]",
+        "",
+        "She wants you to help her gather some",
+        "[Color:6][Item:1190][Color:0]s from the labyrinth",
+        "called the [Color:5]Dense Bushland[Color:0].",
+        "[Page]",
+        "",
+        "Be warned... She is quite beloved",
+        "amongst the people of Tharsis. I do",
+        "not suggest letting her come to harm.",
+        "[Page]",
+        "",
+        "If for no other reason than that you",
+        "will never hear the end of it from",
+        "her most ardent admirers!",
+        "[Page]",
+        "",
+        "Your first stop must be to pick her",
+        "up at the Berund Atelier. I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I see that you granted",
+        "the young lady's request safely.",
+        "I again thank you for your hard work.",
+        "[Page]",
+        "",
+        "I envy her, getting to venture into",
+        "the labyrinth with an explorer escort.",
+        "Perhaps I should request one sometime.",
+        "[Page]",
+        "",
+        "But a labyrinth where [Item:1190]s",
+        "are in full bloom is most unusual.",
+        "[Page]",
+        "",
+        "With how often you find yourself hurt,",
+        "more Nectars are always welcome, yes?",
+        "You may wish to remember that spot.",
+        "[Page]",
+        "",
+        "At any rate, here is your reward.",
+        "It is something special from the",
+        "young lady. I, too, thank you...",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I see that you granted",
+        "the young lady's request safely.",
+        "I again thank you for your hard work.",
+        "[Page]",
+        "",
+        "I envy her, getting to venture into",
+        "the labyrinth with an explorer escort.",
+        "Perhaps I should request one sometime.",
+        "[Page]",
+        "",
+        "But a labyrinth where [Item:1190]s",
+        "are in full bloom is most unusual.",
+        "[Page]",
+        "",
+        "With how often you find yourself hurt,",
+        "more Nectars are always welcome, yes?",
+        "You may wish to remember that spot.",
+        "[Page]",
+        "",
+        "At any rate, here is your reward.",
+        "It is something special from the",
+        "young lady. I, too, thank you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "\"Aw, sweet, da [Guild] crew! Tanks",
+        "for taking my request!",
+        "[Page]",
+        "",
+        "\"So how's about a trip ta da [Color:5]Dense",
+        "Bushland[Color:0]? Lotta [Color:6][Item:1190][Color:0]s ta",
+        "pick dere.",
+        "[Page]",
+        "",
+        "\"I could just have em delivered, but",
+        "we need so many... and da boss said",
+        "I oughtta get outta da shop more.",
+        "[Page]",
+        "",
+        "\"I'm behind dat counter so much,",
+        "it'll be a real nice change of pace",
+        "ta go with yas to a labyrint.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Aw, sweet, da [Guild] crew! Tanks",
+        "for taking my request!",
+        "[Page]",
+        "",
+        "\"So how's about a trip ta da [Color:5]Dense",
+        "Bushland[Color:0]? Lotta [Color:6][Item:1190][Color:0]s ta",
+        "pick dere.",
+        "[Page]",
+        "",
+        "\"I could just have em delivered, but",
+        "we need so many... and da boss said",
+        "I oughtta get outta da shop more.",
+        "[Page]",
+        "",
+        "\"I'm behind dat counter so much,",
+        "it'll be a real nice change of pace",
+        "ta go with yas to a labyrint.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "\"Well, I'mma head back ta da shop.",
+        "Lemme know when ya're ready ta go!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Well, I'mma head back ta da shop.",
+        "Lemme know when ya're ready ta go!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey! [Guild] crew! Leave da shop",
+        "ta da boss and let's go already!",
+        "[Page]",
+        "",
+        "I hear da [Color:5]Dense Bushland[Color:0] is on da",
+        "[Color:5]west[Color:0] side of da [Color:5]Windy Plains[Color:0] up [Color:5]on",
+        "top of a cliff[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "\"Hey! [Guild] crew! Leave da shop",
+        "ta da boss and let's go already!",
+        "[Page]",
+        "",
+        "I hear da [Color:5]Dense Bushland[Color:0] is on da",
+        "[Color:5]west[Color:0] side of da [Color:5]Windy Plains[Color:0] up [Color:5]on",
+        "top of a cliff[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "\"What, we're heading out already?",
+        "Sure I'm ready! Hey, boss, I'm leaving",
+        "da shop! Yeah, right now!\"",
+        ""
+      ],
+      "Translation": [
+        "\"What, we're heading out already?",
+        "Sure I'm ready! Hey, boss, I'm leaving",
+        "da shop! Yeah, right now!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "\"Wow, willya lookit dat! Is dis your",
+        "skyship? Dat's what ya fly around in,",
+        "huh?",
+        "[Page]",
+        "",
+        "\"Well, let's go already! Da [Color:5]Dense",
+        "Bushland[Color:0] is on da [Color:5]west[Color:0] side of da",
+        "[Color:5]Windy Plains[Color:0] up [Color:5]on top of a cliff[Color:0].\"",
+        ""
+      ],
+      "Translation": [
+        "\"Wow, willya lookit dat! Is dis your",
+        "skyship? Dat's what ya fly around in,",
+        "huh?",
+        "[Page]",
+        "",
+        "\"Well, let's go already! Da [Color:5]Dense",
+        "Bushland[Color:0] is on da [Color:5]west[Color:0] side of da",
+        "[Color:5]Windy Plains[Color:0] up [Color:5]on top of a cliff[Color:0].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the labyrinth known as",
+        "the Dense Bushland with Wynne.",
+        "[Page]",
+        "",
+        "The young girl's puppy-like giddiness",
+        "and astonishment at everything she",
+        "sees is contagious.",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the labyrinth known as",
+        "the Dense Bushland with Wynne.",
+        "[Page]",
+        "",
+        "The young girl's puppy-like giddiness",
+        "and astonishment at everything she",
+        "sees is contagious.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "\"Wow... so dis is a labyrint...",
+        "Ya come ta places like dis alla time,",
+        "I bet...",
+        "[Page]",
+        "",
+        "\"Alright, now remember, we're here ta",
+        "find [Color:6][Item:1190][Color:0]s. It's an adventcha!",
+        "C'mon, let's go!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Wow... so dis is a labyrint...",
+        "Ya come ta places like dis alla time,",
+        "I bet...",
+        "[Page]",
+        "",
+        "\"Alright, now remember, we're here ta",
+        "find [Color:6][Item:1190][Color:0]s. It's an adventcha!",
+        "C'mon, let's go!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "\"Gyaaaaaahh! I-It's a b-b-b-bear!",
+        "And it's looking right at us! Wh-What",
+        "do we do, [Guild]!?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Gyaaaaaahh! I-It's a b-b-b-bear!",
+        "And it's looking right at us! Wh-What",
+        "do we do, [Guild]!?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "The young girl you are escorting is",
+        "no trained warrior... It may be best",
+        "to avoid battles where possible now.",
+        ""
+      ],
+      "Translation": [
+        "The young girl you are escorting is",
+        "no trained warrior... It may be best",
+        "to avoid battles where possible now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "With the young girl in tow, you",
+        "reach a modest flower bed where",
+        "[Color:6][Item:1190][Color:0]s bloom.",
+        ""
+      ],
+      "Translation": [
+        "With the young girl in tow, you",
+        "reach a modest flower bed where",
+        "[Color:6][Item:1190][Color:0]s bloom.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "\"Wow! Lookit alla dem [Item:1190]s!",
+        "Hey, uh, can we... can we pick",
+        "dem all!?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Wow! Lookit alla dem [Item:1190]s!",
+        "Hey, uh, can we... can we pick",
+        "dem all!?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "\"Whrew, dat oughtta be enough.",
+        "Hehe, damn, look how many I picked!",
+        "[Page]",
+        "",
+        "\"...Let's hit one more field! C'mon,",
+        "[Guild] crew! Time's a-wasting!\"",
+        "[Page]",
+        "",
+        "The young girl puts away the flowers,",
+        "and then shoves your party along. It",
+        "seems you are off to the next area.",
+        "[Page]",
+        "",
+        "As you trudge along to the second",
+        "field, you wonder how you came to be",
+        "in this situation...",
+        ""
+      ],
+      "Translation": [
+        "\"Whrew, dat oughtta be enough.",
+        "Hehe, damn, look how many I picked!",
+        "[Page]",
+        "",
+        "\"...Let's hit one more field! C'mon,",
+        "[Guild] crew! Time's a-wasting!\"",
+        "[Page]",
+        "",
+        "The young girl puts away the flowers,",
+        "and then shoves your party along. It",
+        "seems you are off to the next area.",
+        "[Page]",
+        "",
+        "As you trudge along to the second",
+        "field, you wonder how you came to be",
+        "in this situation...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "With the young girl in tow, you",
+        "reach a modest flower bed where",
+        "[Color:6][Item:1190][Color:0]s bloom.",
+        ""
+      ],
+      "Translation": [
+        "With the young girl in tow, you",
+        "reach a modest flower bed where",
+        "[Color:6][Item:1190][Color:0]s bloom.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hey, [Guild] crew! Look how many",
+        "are growing here! Why don'tcha pick",
+        "some too?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hey, [Guild] crew! Look how many",
+        "are growing here! Why don'tcha pick",
+        "some too?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oooh, dis is perfect! Dem rumors",
+        "were true, about dis labyrint being",
+        "a good place for [Item:1190]s!",
+        "[Page]",
+        "",
+        "\"So whaddya say? Got it in ya ta hit",
+        "up one more field? We get just a li'l",
+        "more and da boss will flip...\"",
+        "[Page]",
+        "",
+        "Before you can give a yea or nay, the",
+        "young girl is already walking toward",
+        "the next area.",
+        "[Page]",
+        "",
+        "It seems you will be joining her in",
+        "picking flowers at a third field...",
+        ""
+      ],
+      "Translation": [
+        "\"Oooh, dis is perfect! Dem rumors",
+        "were true, about dis labyrint being",
+        "a good place for [Item:1190]s!",
+        "[Page]",
+        "",
+        "\"So whaddya say? Got it in ya ta hit",
+        "up one more field? We get just a li'l",
+        "more and da boss will flip...\"",
+        "[Page]",
+        "",
+        "Before you can give a yea or nay, the",
+        "young girl is already walking toward",
+        "the next area.",
+        "[Page]",
+        "",
+        "It seems you will be joining her in",
+        "picking flowers at a third field...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "With the young girl in tow, you",
+        "reach a modest flower bed where",
+        "[Color:6][Item:1190][Color:0]s bloom.",
+        ""
+      ],
+      "Translation": [
+        "With the young girl in tow, you",
+        "reach a modest flower bed where",
+        "[Color:6][Item:1190][Color:0]s bloom.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"Wow! Check it, [Guild] crew!",
+        "Dere's way more of em here! Man...",
+        "Wonder if I can carry dem all back.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Wow! Check it, [Guild] crew!",
+        "Dere's way more of em here! Man...",
+        "Wonder if I can carry dem all back.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "\"Wow! I can't even carry all dis",
+        "anymore! Da boss is definitely gonna",
+        "be happy...\"",
+        "[Page]",
+        "",
+        "As you watch the young girl frolic",
+        "amongst the flowers, you are alarmed",
+        "to spot monsters approaching her!",
+        ""
+      ],
+      "Translation": [
+        "\"Wow! I can't even carry all dis",
+        "anymore! Da boss is definitely gonna",
+        "be happy...\"",
+        "[Page]",
+        "",
+        "As you watch the young girl frolic",
+        "amongst the flowers, you are alarmed",
+        "to spot monsters approaching her!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "\"Yo, [Guild] crew, are ya seeing",
+        "dis!? Wh... What's DAT!?\"",
+        "[Page]",
+        "",
+        "But [Character:0] dashes in and grabs her",
+        "before a monster's claw descends,",
+        "barely evading the attack!",
+        "[Page]",
+        "",
+        "You seize the narrow window of",
+        "opportunity to grab your weapons",
+        "and take on the monster.",
+        ""
+      ],
+      "Translation": [
+        "\"Yo, [Guild] crew, are ya seeing",
+        "dis!? Wh... What's DAT!?\"",
+        "[Page]",
+        "",
+        "But [Character:0] dashes in and grabs her",
+        "before a monster's claw descends,",
+        "barely evading the attack!",
+        "[Page]",
+        "",
+        "You seize the narrow window of",
+        "opportunity to grab your weapons",
+        "and take on the monster.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "After you lower your weapons upon the",
+        "battle's completion, the young girl",
+        "slowly comes out of hiding.",
+        "[Page]",
+        "",
+        "\"Is... is it over? Is it safe ta come",
+        "over dere now?\"",
+        "[Page]",
+        "",
+        "You laugh at the question and give the",
+        "all-clear signal. The young girl runs",
+        "toward you.",
+        ""
+      ],
+      "Translation": [
+        "After you lower your weapons upon the",
+        "battle's completion, the young girl",
+        "slowly comes out of hiding.",
+        "[Page]",
+        "",
+        "\"Is... is it over? Is it safe ta come",
+        "over dere now?\"",
+        "[Page]",
+        "",
+        "You laugh at the question and give the",
+        "all-clear signal. The young girl runs",
+        "toward you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "The sobbing girl sinks to the floor.",
+        "\"I... I thought I was gonna die,\"",
+        "she hiccups.",
+        "[Page]",
+        "",
+        "\"But, tanks ta da [Guild] crew,",
+        "I picked lotsa [Color:6][Item:1190][Color:0]s.",
+        "[Page]",
+        "",
+        "\"I owe ya big for dat! Now c'mon,",
+        "let's get back ta Tharsis!\"",
+        "[Page]",
+        "",
+        "Her cheerful demeanor recovered,",
+        "the young girl springs back up and",
+        "rejoins your party.",
+        "[Page]",
+        "",
+        "You have successfully granted the",
+        "girl's desire! All that remains is",
+        "to escort her back to Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "The sobbing girl sinks to the floor.",
+        "\"I... I thought I was gonna die,\"",
+        "she hiccups.",
+        "[Page]",
+        "",
+        "\"But, tanks ta da [Guild] crew,",
+        "I picked lotsa [Color:6][Item:1190][Color:0]s.",
+        "[Page]",
+        "",
+        "\"I owe ya big for dat! Now c'mon,",
+        "let's get back ta Tharsis!\"",
+        "[Page]",
+        "",
+        "Her cheerful demeanor recovered,",
+        "the young girl springs back up and",
+        "rejoins your party.",
+        "[Page]",
+        "",
+        "You have successfully granted the",
+        "girl's desire! All that remains is",
+        "to escort her back to Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "After exploring the Dense Bushland,",
+        "you take the young girl back to her",
+        "offices in Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "After exploring the Dense Bushland,",
+        "you take the young girl back to her",
+        "offices in Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "\"Well, here I am, safe an sound.",
+        "Whew... I'm bushed.",
+        "[Page]",
+        "",
+        "\"Dat labyrint was pretty scary,",
+        "but tanks ta you guys, I got lotsa",
+        "[Item:1190]s.",
+        "[Page]",
+        "",
+        "\"I kinda get an idea what it must be",
+        "like for ya... Da boss was right!",
+        "It was a good learning experience.",
+        "[Page]",
+        "",
+        "\"Tanks for taking me out dere. Let's",
+        "do it again sometime!",
+        "[Page]",
+        "",
+        "\"Oh yeah, I gotta say... ya looked",
+        "pretty cool when ya were fighting",
+        "dose monsters! B... Bye!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Well, here I am, safe an sound.",
+        "Whew... I'm bushed.",
+        "[Page]",
+        "",
+        "\"Dat labyrint was pretty scary,",
+        "but tanks ta you guys, I got lotsa",
+        "[Item:1190]s.",
+        "[Page]",
+        "",
+        "\"I kinda get an idea what it must be",
+        "like for ya... Da boss was right!",
+        "It was a good learning experience.",
+        "[Page]",
+        "",
+        "\"Tanks for taking me out dere. Let's",
+        "do it again sometime!",
+        "[Page]",
+        "",
+        "\"Oh yeah, I gotta say... ya looked",
+        "pretty cool when ya were fighting",
+        "dose monsters! B... Bye!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "With that, the girl hefts her bushels",
+        "of [Item:1190]s and disappears into",
+        "the crowded city.",
+        "[Page]",
+        "",
+        "That completes your task. All you need",
+        "do now is to report to the bar on your",
+        "own time.",
+        ""
+      ],
+      "Translation": [
+        "With that, the girl hefts her bushels",
+        "of [Item:1190]s and disappears into",
+        "the crowded city.",
+        "[Page]",
+        "",
+        "That completes your task. All you need",
+        "do now is to report to the bar on your",
+        "own time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Dense Bushland[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Dense Bushland[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

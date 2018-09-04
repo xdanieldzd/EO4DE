@@ -1,0 +1,161 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_060",
+  "RelativePath": "Event\\QR\\QR_060.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, that request? The client is that",
+        "spirited girl there. That hood she",
+        "wears is the most precious thing...!",
+        "[Page]",
+        "",
+        "Be sure to talk to her and hear her",
+        "story. I shall await your swift",
+        "return...",
+        ""
+      ],
+      "Translation": [
+        "Ah, that request? The client is that",
+        "spirited girl there. That hood she",
+        "wears is the most precious thing...!",
+        "[Page]",
+        "",
+        "Be sure to talk to her and hear her",
+        "story. I shall await your swift",
+        "return...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "I heard that you found the storied",
+        "Finest Plains. Very well done!",
+        "[Page]",
+        "",
+        "Our darling customer seemed satisfied",
+        "with your work as well.",
+        "[Page]",
+        "",
+        "Perhaps your fame will spread in her",
+        "homeland as well, and you will become",
+        "even busier than you are now...!",
+        ""
+      ],
+      "Translation": [
+        "I heard that you found the storied",
+        "Finest Plains. Very well done!",
+        "[Page]",
+        "",
+        "Our darling customer seemed satisfied",
+        "with your work as well.",
+        "[Page]",
+        "",
+        "Perhaps your fame will spread in her",
+        "homeland as well, and you will become",
+        "even busier than you are now...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You detect a sweet, fragrant scent of",
+        "grass wafting from somewhere.",
+        "[Page]",
+        "",
+        "You look down and discover that the",
+        "fruity bouquet is arising from the",
+        "green fields below.",
+        "[Page]",
+        "",
+        "This must be the place where the",
+        "client said the best feed could be",
+        "gathered... the [Color:5]Finest Plains[Color:0]!",
+        "[Page]",
+        "",
+        "You should return to the bar and",
+        "give the eager farmer their location.",
+        "Then the request will be complete!",
+        ""
+      ],
+      "Translation": [
+        "You detect a sweet, fragrant scent of",
+        "grass wafting from somewhere.",
+        "[Page]",
+        "",
+        "You look down and discover that the",
+        "fruity bouquet is arising from the",
+        "green fields below.",
+        "[Page]",
+        "",
+        "This must be the place where the",
+        "client said the best feed could be",
+        "gathered... the [Color:5]Finest Plains[Color:0]!",
+        "[Page]",
+        "",
+        "You should return to the bar and",
+        "give the eager farmer their location.",
+        "Then the request will be complete!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Below you, the Finest Plains give off",
+        "their sweet scent...",
+        ""
+      ],
+      "Translation": [
+        "Below you, the Finest Plains give off",
+        "their sweet scent...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

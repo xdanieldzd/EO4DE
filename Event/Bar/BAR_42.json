@@ -1,0 +1,60 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_42",
+  "RelativePath": "Event\\Bar\\BAR_42.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "I wonder what those plains in the",
+        "[Color:5]northeast of the Cloudy Stronghold[Color:0]",
+        "are about...",
+        "[Page]",
+        "",
+        "The other day, my guild was flying",
+        "our skyship over them...",
+        "[Page]",
+        "",
+        "Suddenly, the runemaster we had with",
+        "us passed out. She's still bedridden",
+        "now, in fact.",
+        "[Page]",
+        "",
+        "She always had a strong connection",
+        "to the spirit world, so maybe she",
+        "picked up on something lying dormant.",
+        "[Page]",
+        "",
+        "Maybe something she shouldn't have...",
+        ""
+      ],
+      "Translation": [
+        "I wonder what those plains in the",
+        "[Color:5]northeast of the Cloudy Stronghold[Color:0]",
+        "are about...",
+        "[Page]",
+        "",
+        "The other day, my guild was flying",
+        "our skyship over them...",
+        "[Page]",
+        "",
+        "Suddenly, the runemaster we had with",
+        "us passed out. She's still bedridden",
+        "now, in fact.",
+        "[Page]",
+        "",
+        "She always had a strong connection",
+        "to the spirit world, so maybe she",
+        "picked up on something lying dormant.",
+        "[Page]",
+        "",
+        "Maybe something she shouldn't have...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

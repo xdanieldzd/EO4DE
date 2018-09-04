@@ -1,0 +1,5014 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "MIS_006",
+  "RelativePath": "Event\\Mission\\MIS_006.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "I have received word from explorers",
+        "who ventured out to see the unusual",
+        "situation at Yggdrasil.",
+        "[Page]",
+        "",
+        "The brittle, withered husk of the",
+        "tree has snapped from the midsection",
+        "up, revealing a hole within.",
+        "[Page]",
+        "",
+        "It seems possible to enter the shaft",
+        "with a skyship. A troop of Tharsis",
+        "soldiers are currently investigating.",
+        "[Page]",
+        "",
+        "I would like for you to meet up with",
+        "this troop to get the details of the",
+        "situation before heading deeper.",
+        "[Page]",
+        "",
+        "You have two goals: first, securing",
+        "the Medium, and second, preventing",
+        "Yggdrasil's power from awakening.",
+        "[Page]",
+        "",
+        "From all you've told me, it doesn't",
+        "sound as if you'll be able to avoid",
+        "engaging the Imperial Prince.",
+        "[Page]",
+        "",
+        "I leave the decision to you when you",
+        "come to it, though I will bear the",
+        "ultimate responsibility. Good luck.",
+        ""
+      ],
+      "Translation": [
+        "I have received word from explorers",
+        "who ventured out to see the unusual",
+        "situation at Yggdrasil.",
+        "[Page]",
+        "",
+        "The brittle, withered husk of the",
+        "tree has snapped from the midsection",
+        "up, revealing a hole within.",
+        "[Page]",
+        "",
+        "It seems possible to enter the shaft",
+        "with a skyship. A troop of Tharsis",
+        "soldiers are currently investigating.",
+        "[Page]",
+        "",
+        "I would like for you to meet up with",
+        "this troop to get the details of the",
+        "situation before heading deeper.",
+        "[Page]",
+        "",
+        "You have two goals: first, securing",
+        "the Medium, and second, preventing",
+        "Yggdrasil's power from awakening.",
+        "[Page]",
+        "",
+        "From all you've told me, it doesn't",
+        "sound as if you'll be able to avoid",
+        "engaging the Imperial Prince.",
+        "[Page]",
+        "",
+        "I leave the decision to you when you",
+        "come to it, though I will bear the",
+        "ultimate responsibility. Good luck.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Hm... So you challenged the Titan",
+        "before it could fully awaken and",
+        "rescued the Medium from its core?",
+        "[Page]",
+        "",
+        "It sounds like the path to success",
+        "was difficult, but you have followed",
+        "it to a splendid result. Thank you.",
+        "[Page]",
+        "",
+        "To show our appreciation for your",
+        "strength and courage, I present you",
+        "this on behalf of the city.",
+        ""
+      ],
+      "Translation": [
+        "Hm... So you challenged the Titan",
+        "before it could fully awaken and",
+        "rescued the Medium from its core?",
+        "[Page]",
+        "",
+        "It sounds like the path to success",
+        "was difficult, but you have followed",
+        "it to a splendid result. Thank you.",
+        "[Page]",
+        "",
+        "To show our appreciation for your",
+        "strength and courage, I present you",
+        "this on behalf of the city.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "The way you reached out not only to",
+        "the Medium, but to the Imperial Prince",
+        "as well, is to be commended.",
+        "[Page]",
+        "",
+        "Though the Medium has cured him, his",
+        "illness took quite a toll. He is",
+        "resting now in a Tharsis hospital.",
+        "[Page]",
+        "",
+        "I am curious, where is the Medium",
+        "now? Ah... so you have returned her",
+        "to Vessel Town.",
+        "[Page]",
+        "",
+        "She hasn't been back to her home in",
+        "some time, has she? I hope she is",
+        "recuperating from her ordeal there.",
+        "[Page]",
+        "",
+        "I wager she'd like it if you visited",
+        "her sometime. I was planning on",
+        "visiting all the settlements, myself.",
+        "[Page]",
+        "",
+        "The issue du jour is how Tharsis, the",
+        "Empire, the Vessels, and the Sentinels",
+        "can coexist going forward.",
+        "[Page]",
+        "",
+        "I have reached out to the Empire to",
+        "relocate the scattered Imperial citizens",
+        "to Tharsis.",
+        "[Page]",
+        "",
+        "What say you? Will you continue",
+        "lending us your strength to bring",
+        "our peoples together?",
+        ""
+      ],
+      "Translation": [
+        "The way you reached out not only to",
+        "the Medium, but to the Imperial Prince",
+        "as well, is to be commended.",
+        "[Page]",
+        "",
+        "Though the Medium has cured him, his",
+        "illness took quite a toll. He is",
+        "resting now in a Tharsis hospital.",
+        "[Page]",
+        "",
+        "I am curious, where is the Medium",
+        "now? Ah... so you have returned her",
+        "to Vessel Town.",
+        "[Page]",
+        "",
+        "She hasn't been back to her home in",
+        "some time, has she? I hope she is",
+        "recuperating from her ordeal there.",
+        "[Page]",
+        "",
+        "I wager she'd like it if you visited",
+        "her sometime. I was planning on",
+        "visiting all the settlements, myself.",
+        "[Page]",
+        "",
+        "The issue du jour is how Tharsis, the",
+        "Empire, the Vessels, and the Sentinels",
+        "can coexist going forward.",
+        "[Page]",
+        "",
+        "I have reached out to the Empire to",
+        "relocate the scattered Imperial citizens",
+        "to Tharsis.",
+        "[Page]",
+        "",
+        "What say you? Will you continue",
+        "lending us your strength to bring",
+        "our peoples together?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]How will you respond?[Color:0]",
+        "Pledge your support",
+        "Say you can't make promises",
+        "Remain silent",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]How will you respond?[Color:0]",
+        "Pledge your support",
+        "Say you can't make promises",
+        "Remain silent",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "I do appreciate it. But favors to me",
+        "aside, you explorers are by nature",
+        "men and women of the world.",
+        "[Page]",
+        "",
+        "You needn't feel bound to the answer",
+        "you just gave. But you are free to",
+        "remain in Tharsis as long as you like.",
+        "[Page]",
+        "",
+        "There are still many secrets in these",
+        "skies to be teased out. I daresay",
+        "you won't want for adventure!",
+        "[Page]",
+        "",
+        "For example, have you heard of the",
+        "[Color:5]Golden Deer Keep[Color:0] in the northwest of",
+        "the Cloudy Stronghold?",
+        "[Page]",
+        "",
+        "There is a door there that we couldn't",
+        "open, but then a surrendering Imperial",
+        "officer turned out to have the key.",
+        "[Page]",
+        "",
+        "Supposedly the labyrinth contained",
+        "some check on Yggdrasil's power...",
+        "The details are unknown.",
+        "[Page]",
+        "",
+        "I've had the door opened. If it",
+        "interests you, why not explore inside?",
+        "It would at least help fill your book.",
+        "[Page]",
+        "",
+        "Come to that, [Color:5]I'd like to see that",
+        "logbook[Color:0] of yours once all the pages",
+        "are full. It seems fascinating...",
+        ""
+      ],
+      "Translation": [
+        "I do appreciate it. But favors to me",
+        "aside, you explorers are by nature",
+        "men and women of the world.",
+        "[Page]",
+        "",
+        "You needn't feel bound to the answer",
+        "you just gave. But you are free to",
+        "remain in Tharsis as long as you like.",
+        "[Page]",
+        "",
+        "There are still many secrets in these",
+        "skies to be teased out. I daresay",
+        "you won't want for adventure!",
+        "[Page]",
+        "",
+        "For example, have you heard of the",
+        "[Color:5]Golden Deer Keep[Color:0] in the northwest of",
+        "the Cloudy Stronghold?",
+        "[Page]",
+        "",
+        "There is a door there that we couldn't",
+        "open, but then a surrendering Imperial",
+        "officer turned out to have the key.",
+        "[Page]",
+        "",
+        "Supposedly the labyrinth contained",
+        "some check on Yggdrasil's power...",
+        "The details are unknown.",
+        "[Page]",
+        "",
+        "I've had the door opened. If it",
+        "interests you, why not explore inside?",
+        "It would at least help fill your book.",
+        "[Page]",
+        "",
+        "Come to that, [Color:5]I'd like to see that",
+        "logbook[Color:0] of yours once all the pages",
+        "are full. It seems fascinating...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, I understand. You explorers are",
+        "by nature men and women of the world.",
+        "I cannot keep you cooped up here.",
+        "[Page]",
+        "",
+        "But if you should ever think it worth",
+        "your time to help us... well, I for",
+        "one would not turn you down!",
+        "[Page]",
+        "",
+        "There are still many secrets in these",
+        "skies to be teased out. I daresay",
+        "you won't want for adventure!",
+        "[Page]",
+        "",
+        "For example, have you heard of the",
+        "[Color:5]Golden Deer Keep[Color:0] in the northwest of",
+        "the Cloudy Stronghold?",
+        "[Page]",
+        "",
+        "There is a door there that we couldn't",
+        "open, but then a surrendering Imperial",
+        "officer turned out to have the key.",
+        "[Page]",
+        "",
+        "Supposedly the labyrinth contained",
+        "some check on Yggdrasil's power...",
+        "The details are unknown.",
+        "[Page]",
+        "",
+        "I've had the door opened. If it",
+        "interests you, why not explore inside?",
+        "It would at least help fill your book.",
+        "[Page]",
+        "",
+        "Come to that, [Color:5]I'd like to see that",
+        "logbook[Color:0] of yours once all the pages",
+        "are full. It seems fascinating...",
+        ""
+      ],
+      "Translation": [
+        "Oh, I understand. You explorers are",
+        "by nature men and women of the world.",
+        "I cannot keep you cooped up here.",
+        "[Page]",
+        "",
+        "But if you should ever think it worth",
+        "your time to help us... well, I for",
+        "one would not turn you down!",
+        "[Page]",
+        "",
+        "There are still many secrets in these",
+        "skies to be teased out. I daresay",
+        "you won't want for adventure!",
+        "[Page]",
+        "",
+        "For example, have you heard of the",
+        "[Color:5]Golden Deer Keep[Color:0] in the northwest of",
+        "the Cloudy Stronghold?",
+        "[Page]",
+        "",
+        "There is a door there that we couldn't",
+        "open, but then a surrendering Imperial",
+        "officer turned out to have the key.",
+        "[Page]",
+        "",
+        "Supposedly the labyrinth contained",
+        "some check on Yggdrasil's power...",
+        "The details are unknown.",
+        "[Page]",
+        "",
+        "I've had the door opened. If it",
+        "interests you, why not explore inside?",
+        "It would at least help fill your book.",
+        "[Page]",
+        "",
+        "Come to that, [Color:5]I'd like to see that",
+        "logbook[Color:0] of yours once all the pages",
+        "are full. It seems fascinating...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Hrm... forgive me for the bold",
+        "request! Perhaps I overstepped my",
+        "bounds in asking.",
+        "[Page]",
+        "",
+        "You explorers are by nature men and",
+        "women of the world, who bridle at",
+        "being tied down... Isn't that so?",
+        "[Page]",
+        "",
+        "There's no need to promise me",
+        "anything! You are free to remain in",
+        "Tharsis for as long as you like.",
+        "[Page]",
+        "",
+        "There are still many secrets in these",
+        "skies to be teased out. I daresay",
+        "you won't want for adventure!",
+        "[Page]",
+        "",
+        "For example, have you heard of the",
+        "[Color:5]Golden Deer Keep[Color:0] in the northwest of",
+        "the Cloudy Stronghold?",
+        "[Page]",
+        "",
+        "There is a door there that we couldn't",
+        "open, but then a surrendering Imperial",
+        "officer turned out to have the key.",
+        "[Page]",
+        "",
+        "Supposedly the labyrinth contained",
+        "some check on Yggdrasil's power...",
+        "The details are unknown.",
+        "[Page]",
+        "",
+        "I've had the door opened. If it",
+        "interests you, why not explore inside?",
+        "It would at least help fill your book.",
+        "[Page]",
+        "",
+        "Come to that, [Color:5]I'd like to see that",
+        "logbook[Color:0] of yours once all the pages",
+        "are full. It seems fascinating...",
+        ""
+      ],
+      "Translation": [
+        "Hrm... forgive me for the bold",
+        "request! Perhaps I overstepped my",
+        "bounds in asking.",
+        "[Page]",
+        "",
+        "You explorers are by nature men and",
+        "women of the world, who bridle at",
+        "being tied down... Isn't that so?",
+        "[Page]",
+        "",
+        "There's no need to promise me",
+        "anything! You are free to remain in",
+        "Tharsis for as long as you like.",
+        "[Page]",
+        "",
+        "There are still many secrets in these",
+        "skies to be teased out. I daresay",
+        "you won't want for adventure!",
+        "[Page]",
+        "",
+        "For example, have you heard of the",
+        "[Color:5]Golden Deer Keep[Color:0] in the northwest of",
+        "the Cloudy Stronghold?",
+        "[Page]",
+        "",
+        "There is a door there that we couldn't",
+        "open, but then a surrendering Imperial",
+        "officer turned out to have the key.",
+        "[Page]",
+        "",
+        "Supposedly the labyrinth contained",
+        "some check on Yggdrasil's power...",
+        "The details are unknown.",
+        "[Page]",
+        "",
+        "I've had the door opened. If it",
+        "interests you, why not explore inside?",
+        "It would at least help fill your book.",
+        "[Page]",
+        "",
+        "Come to that, [Color:5]I'd like to see that",
+        "logbook[Color:0] of yours once all the pages",
+        "are full. It seems fascinating...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You descend into the shaft and step",
+        "into the ancient ruins in the depths",
+        "of Yggdrasil.",
+        "[Page]",
+        "",
+        "Ahead of you is a giant stone door.",
+        "A number of armored soldiers are",
+        "inspecting the door's construction.",
+        "[Page]",
+        "",
+        "Of these, a number of them wear",
+        "gleaming black armor that marks them",
+        "as Imperial, not Tharsis, troops.",
+        ""
+      ],
+      "Translation": [
+        "You descend into the shaft and step",
+        "into the ancient ruins in the depths",
+        "of Yggdrasil.",
+        "[Page]",
+        "",
+        "Ahead of you is a giant stone door.",
+        "A number of armored soldiers are",
+        "inspecting the door's construction.",
+        "[Page]",
+        "",
+        "Of these, a number of them wear",
+        "gleaming black armor that marks them",
+        "as Imperial, not Tharsis, troops.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "\"You must be the [Guild] Guild.",
+        "I'm an Imperial soldier who came to",
+        "Tharsis with Sir Logre.\"",
+        "[Page]",
+        "",
+        "The man gazes at the door, frustrated.",
+        "\"Sorry to say, but this door is sealed",
+        "tight. We can't get it open.",
+        "[Page]",
+        "",
+        "\"We checked the records left in the",
+        "rooms nearby, and it seems the real",
+        "power is past here, in the core.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You must be the [Guild] Guild.",
+        "I'm an Imperial soldier who came to",
+        "Tharsis with Sir Logre.\"",
+        "[Page]",
+        "",
+        "The man gazes at the door, frustrated.",
+        "\"Sorry to say, but this door is sealed",
+        "tight. We can't get it open.",
+        "[Page]",
+        "",
+        "\"We checked the records left in the",
+        "rooms nearby, and it seems the real",
+        "power is past here, in the core.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "\"This door is called the [Color:5]King's Gate[Color:0].",
+        "To open it, you need the [Color:5]credentials",
+        "of the four kings[Color:0] who made the seal.",
+        "[Page]",
+        "",
+        "\"We also found that west of here are",
+        "the castles where the kings ruled,",
+        "with each one containing a throne...",
+        "[Page]",
+        "",
+        "\"But we don't know who those four",
+        "kings were,\" says the Tharsis soldier",
+        "as he shakes his head.",
+        ""
+      ],
+      "Translation": [
+        "\"This door is called the [Color:5]King's Gate[Color:0].",
+        "To open it, you need the [Color:5]credentials",
+        "of the four kings[Color:0] who made the seal.",
+        "[Page]",
+        "",
+        "\"We also found that west of here are",
+        "the castles where the kings ruled,",
+        "with each one containing a throne...",
+        "[Page]",
+        "",
+        "\"But we don't know who those four",
+        "kings were,\" says the Tharsis soldier",
+        "as he shakes his head.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "\"His Imperial Highness will already",
+        "be past this point. He's not one to",
+        "let an obstacle like this stop him.\"",
+        "[Page]",
+        "",
+        "You recognize the voice as belonging",
+        "to the Imperial knight Logre, who",
+        "walks into the room with you.",
+        "[Page]",
+        "",
+        "\"Forgive me, but doing nothing wasn't",
+        "sitting well with me. I took it upon",
+        "myself to come and help investigate.",
+        "[Page]",
+        "",
+        "\"I'll look around a little more. You",
+        "should go through the maze and try to",
+        "identify the kings and castles.\"",
+        ""
+      ],
+      "Translation": [
+        "\"His Imperial Highness will already",
+        "be past this point. He's not one to",
+        "let an obstacle like this stop him.\"",
+        "[Page]",
+        "",
+        "You recognize the voice as belonging",
+        "to the Imperial knight Logre, who",
+        "walks into the room with you.",
+        "[Page]",
+        "",
+        "\"Forgive me, but doing nothing wasn't",
+        "sitting well with me. I took it upon",
+        "myself to come and help investigate.",
+        "[Page]",
+        "",
+        "\"I'll look around a little more. You",
+        "should go through the maze and try to",
+        "identify the kings and castles.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hmm... His Imperial Highness will",
+        "already be inside. He's not one to",
+        "let an obstacle like this stop him.",
+        "[Page]",
+        "",
+        "\"Thank you, men, that was helpful.\"",
+        "[Page]",
+        "",
+        "Logre pats their leader on the",
+        "shoulder and compliments them on",
+        "their find.",
+        "[Page]",
+        "",
+        "\"Now... we're short on time. Let's",
+        "head west. Maybe there, we can find",
+        "out what the kings and castles are.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hmm... His Imperial Highness will",
+        "already be inside. He's not one to",
+        "let an obstacle like this stop him.",
+        "[Page]",
+        "",
+        "\"Thank you, men, that was helpful.\"",
+        "[Page]",
+        "",
+        "Logre pats their leader on the",
+        "shoulder and compliments them on",
+        "their find.",
+        "[Page]",
+        "",
+        "\"Now... we're short on time. Let's",
+        "head west. Maybe there, we can find",
+        "out what the kings and castles are.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hmm... His Imperial Highness will",
+        "already be inside. He's not one to",
+        "let an obstacle like this stop him.",
+        "[Page]",
+        "",
+        "\"Thank you, men, that was helpful.\"",
+        "[Page]",
+        "",
+        "Logre speaks up, patting their leader",
+        "on the shoulder and complimenting",
+        "them on their find.",
+        "[Page]",
+        "",
+        "\"Now... we're short on time. I'm",
+        "going west. Maybe there, I can find",
+        "out what the kings and castles are.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hmm... His Imperial Highness will",
+        "already be inside. He's not one to",
+        "let an obstacle like this stop him.",
+        "[Page]",
+        "",
+        "\"Thank you, men, that was helpful.\"",
+        "[Page]",
+        "",
+        "Logre speaks up, patting their leader",
+        "on the shoulder and complimenting",
+        "them on their find.",
+        "[Page]",
+        "",
+        "\"Now... we're short on time. I'm",
+        "going west. Maybe there, I can find",
+        "out what the kings and castles are.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Down the long corridor is a familiar",
+        "sight...",
+        "[Page]",
+        "",
+        "You blink, but there is no mistaking",
+        "it. You recognize this labyrinth",
+        "patrolled by mechanical automatons...",
+        "[Page]",
+        "",
+        "You find yourself in the Echoing",
+        "Library, which must be connected to",
+        "the Forgotten Capital underground!",
+        "[Page]",
+        "",
+        "Could there be a king somewhere in",
+        "this labyrinth that would open the",
+        "King's Gate? You resume your search...",
+        ""
+      ],
+      "Translation": [
+        "Down the long corridor is a familiar",
+        "sight...",
+        "[Page]",
+        "",
+        "You blink, but there is no mistaking",
+        "it. You recognize this labyrinth",
+        "patrolled by mechanical automatons...",
+        "[Page]",
+        "",
+        "You find yourself in the Echoing",
+        "Library, which must be connected to",
+        "the Forgotten Capital underground!",
+        "[Page]",
+        "",
+        "Could there be a king somewhere in",
+        "this labyrinth that would open the",
+        "King's Gate? You resume your search...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Down the long corridor is a familiar",
+        "sight.",
+        "[Page]",
+        "",
+        "These hard rock surfaces that can show",
+        "heated or frigid faces depending on",
+        "the scorching hot scales...",
+        "[Page]",
+        "",
+        "You find yourself in the Golden Lair,",
+        "which is evidently connected to the",
+        "Echoing Library underground.",
+        "[Page]",
+        "",
+        "You must find the king's throne",
+        "somewhere in this labyrinth.",
+        "You resume your search...",
+        ""
+      ],
+      "Translation": [
+        "Down the long corridor is a familiar",
+        "sight.",
+        "[Page]",
+        "",
+        "These hard rock surfaces that can show",
+        "heated or frigid faces depending on",
+        "the scorching hot scales...",
+        "[Page]",
+        "",
+        "You find yourself in the Golden Lair,",
+        "which is evidently connected to the",
+        "Echoing Library underground.",
+        "[Page]",
+        "",
+        "You must find the king's throne",
+        "somewhere in this labyrinth.",
+        "You resume your search...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Down the long corridor is a familiar",
+        "sight.",
+        "[Page]",
+        "",
+        "A forest choked with thick fog that",
+        "limits visibility. You remember how",
+        "easy it is to lose your way here...",
+        "[Page]",
+        "",
+        "You find yourself in the Misty Ravine.",
+        "It is becoming evident that the four",
+        "labyrinths are connected underground.",
+        "[Page]",
+        "",
+        "You would not be surprised now to find",
+        "that the Lush Woodlands were also",
+        "connected. You resume your search...",
+        ""
+      ],
+      "Translation": [
+        "Down the long corridor is a familiar",
+        "sight.",
+        "[Page]",
+        "",
+        "A forest choked with thick fog that",
+        "limits visibility. You remember how",
+        "easy it is to lose your way here...",
+        "[Page]",
+        "",
+        "You find yourself in the Misty Ravine.",
+        "It is becoming evident that the four",
+        "labyrinths are connected underground.",
+        "[Page]",
+        "",
+        "You would not be surprised now to find",
+        "that the Lush Woodlands were also",
+        "connected. You resume your search...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Down the long corridor is a familiar",
+        "sight.",
+        "[Page]",
+        "",
+        "That dry forest where you fought for",
+        "your lives against the red-furred",
+        "beast in your novice days...",
+        "[Page]",
+        "",
+        "You are in the Lush Woodlands. All the",
+        "labyrinths have been confirmed to",
+        "connect to Yggdrasil!",
+        "[Page]",
+        "",
+        "That is one mystery solved, but the",
+        "end of your journey is not yet within",
+        "reach. You resume your search...",
+        ""
+      ],
+      "Translation": [
+        "Down the long corridor is a familiar",
+        "sight.",
+        "[Page]",
+        "",
+        "That dry forest where you fought for",
+        "your lives against the red-furred",
+        "beast in your novice days...",
+        "[Page]",
+        "",
+        "You are in the Lush Woodlands. All the",
+        "labyrinths have been confirmed to",
+        "connect to Yggdrasil!",
+        "[Page]",
+        "",
+        "That is one mystery solved, but the",
+        "end of your journey is not yet within",
+        "reach. You resume your search...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Before you is a giant altar with a",
+        "strange crest engraved in it.",
+        "[Page]",
+        "",
+        "You recognize this crest... it was",
+        "also inscribed in the stone monuments",
+        "near the ravines connecting the lands.",
+        "[Page]",
+        "",
+        "Could this be the king's throne...?",
+        ""
+      ],
+      "Translation": [
+        "Before you is a giant altar with a",
+        "strange crest engraved in it.",
+        "[Page]",
+        "",
+        "You recognize this crest... it was",
+        "also inscribed in the stone monuments",
+        "near the ravines connecting the lands.",
+        "[Page]",
+        "",
+        "Could this be the king's throne...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Check the altar?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Check the altar?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "When you raise your hand to touch it,",
+        "the crest shines and an unearthly",
+        "sound echoes from somewhere.",
+        "[Page]",
+        "",
+        "It sounds like a vast mesh of gears",
+        "spinning. Eventually, the noise comes",
+        "to a halt.",
+        "[Page]",
+        "",
+        "Nothing nearby seems to have changed,",
+        "but the mechanism may have affected",
+        "something somewhere else.",
+        ""
+      ],
+      "Translation": [
+        "When you raise your hand to touch it,",
+        "the crest shines and an unearthly",
+        "sound echoes from somewhere.",
+        "[Page]",
+        "",
+        "It sounds like a vast mesh of gears",
+        "spinning. Eventually, the noise comes",
+        "to a halt.",
+        "[Page]",
+        "",
+        "Nothing nearby seems to have changed,",
+        "but the mechanism may have affected",
+        "something somewhere else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "\"How are things here? I see... It's",
+        "good that you're all safe,\" says",
+        "Logre, greeting the Imperial soldiers.",
+        "[Page]",
+        "",
+        "\"That giant bell filled me with dread.",
+        "And I see it's just as I thought...",
+        "[Page]",
+        "",
+        "\"The emblems on the gates are glowing",
+        "now. I think it safe to assume we",
+        "have gained the kings' credentials.\"",
+        "[Page]",
+        "",
+        "Logre smiles at the Imperial soldiers,",
+        "but there is nothing joyous in his",
+        "expression.",
+        "[Page]",
+        "",
+        "At any rate, the stone gates will no",
+        "longer bar Logre's passage. A new leg",
+        "of his journey awaits him...",
+        "[Page]",
+        "",
+        "\"Well then, it's time I went ahead.\"",
+        "Logre takes a deep breath. \"To stop",
+        "His Imperial Highness...\"",
+        ""
+      ],
+      "Translation": [
+        "\"How are things here? I see... It's",
+        "good that you're all safe,\" says",
+        "Logre, greeting the Imperial soldiers.",
+        "[Page]",
+        "",
+        "\"That giant bell filled me with dread.",
+        "And I see it's just as I thought...",
+        "[Page]",
+        "",
+        "\"The emblems on the gates are glowing",
+        "now. I think it safe to assume we",
+        "have gained the kings' credentials.\"",
+        "[Page]",
+        "",
+        "Logre smiles at the Imperial soldiers,",
+        "but there is nothing joyous in his",
+        "expression.",
+        "[Page]",
+        "",
+        "At any rate, the stone gates will no",
+        "longer bar Logre's passage. A new leg",
+        "of his journey awaits him...",
+        "[Page]",
+        "",
+        "\"Well then, it's time I went ahead.\"",
+        "Logre takes a deep breath. \"To stop",
+        "His Imperial Highness...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Logre nods to the Imperial soldiers",
+        "and looks quietly up at the portal.",
+        "[Page]",
+        "",
+        "The Imperial soldiers give a crisp",
+        "salute to see Logre off as he proceeds",
+        "through the gates...",
+        ""
+      ],
+      "Translation": [
+        "Logre nods to the Imperial soldiers",
+        "and looks quietly up at the portal.",
+        "[Page]",
+        "",
+        "The Imperial soldiers give a crisp",
+        "salute to see Logre off as he proceeds",
+        "through the gates...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Before you is a giant altar with a",
+        "strange crest engraved in it.",
+        "[Page]",
+        "",
+        "You recognize this crest... it was",
+        "also inscribed in the stone monuments",
+        "near the ravines connecting the lands.",
+        "[Page]",
+        "",
+        "Could this be the king's throne...?",
+        ""
+      ],
+      "Translation": [
+        "Before you is a giant altar with a",
+        "strange crest engraved in it.",
+        "[Page]",
+        "",
+        "You recognize this crest... it was",
+        "also inscribed in the stone monuments",
+        "near the ravines connecting the lands.",
+        "[Page]",
+        "",
+        "Could this be the king's throne...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Check the altar?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Check the altar?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "When you raise your hand to touch it,",
+        "the crest shines and an unearthly",
+        "sound echoes from somewhere.",
+        "[Page]",
+        "",
+        "It sounds like a vast mesh of gears",
+        "spinning. Eventually, the noise comes",
+        "to a halt.",
+        "[Page]",
+        "",
+        "Nothing nearby seems to have changed,",
+        "but the mechanism may have affected",
+        "something somewhere else.",
+        ""
+      ],
+      "Translation": [
+        "When you raise your hand to touch it,",
+        "the crest shines and an unearthly",
+        "sound echoes from somewhere.",
+        "[Page]",
+        "",
+        "It sounds like a vast mesh of gears",
+        "spinning. Eventually, the noise comes",
+        "to a halt.",
+        "[Page]",
+        "",
+        "Nothing nearby seems to have changed,",
+        "but the mechanism may have affected",
+        "something somewhere else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Before you is a giant altar with a",
+        "strange crest engraved in it.",
+        "[Page]",
+        "",
+        "You recognize this crest... it was",
+        "also inscribed in the stone monuments",
+        "near the ravines connecting the lands.",
+        "[Page]",
+        "",
+        "Could this be the king's throne...?",
+        ""
+      ],
+      "Translation": [
+        "Before you is a giant altar with a",
+        "strange crest engraved in it.",
+        "[Page]",
+        "",
+        "You recognize this crest... it was",
+        "also inscribed in the stone monuments",
+        "near the ravines connecting the lands.",
+        "[Page]",
+        "",
+        "Could this be the king's throne...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Check the altar?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Check the altar?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "When you raise your hand to touch it,",
+        "the crest shines and an unearthly",
+        "sound echoes from somewhere.",
+        "[Page]",
+        "",
+        "It sounds like a vast mesh of gears",
+        "spinning. Eventually, the noise comes",
+        "to a halt.",
+        "[Page]",
+        "",
+        "Nothing nearby seems to have changed,",
+        "but the mechanism may have affected",
+        "something somewhere else.",
+        ""
+      ],
+      "Translation": [
+        "When you raise your hand to touch it,",
+        "the crest shines and an unearthly",
+        "sound echoes from somewhere.",
+        "[Page]",
+        "",
+        "It sounds like a vast mesh of gears",
+        "spinning. Eventually, the noise comes",
+        "to a halt.",
+        "[Page]",
+        "",
+        "Nothing nearby seems to have changed,",
+        "but the mechanism may have affected",
+        "something somewhere else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "Before you is a giant altar with a",
+        "strange crest engraved in it.",
+        "[Page]",
+        "",
+        "You recognize this crest... it was",
+        "also inscribed in the stone monuments",
+        "near the ravines connecting the lands.",
+        "[Page]",
+        "",
+        "Could this be the king's throne...?",
+        ""
+      ],
+      "Translation": [
+        "Before you is a giant altar with a",
+        "strange crest engraved in it.",
+        "[Page]",
+        "",
+        "You recognize this crest... it was",
+        "also inscribed in the stone monuments",
+        "near the ravines connecting the lands.",
+        "[Page]",
+        "",
+        "Could this be the king's throne...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Check the altar?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Check the altar?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "When you raise your hand to touch it,",
+        "the crest shines and an unearthly",
+        "sound echoes from somewhere.",
+        "[Page]",
+        "",
+        "It sounds like a vast mesh of gears",
+        "spinning. Eventually, the noise comes",
+        "to a halt.",
+        "[Page]",
+        "",
+        "Nothing nearby seems to have changed,",
+        "but the mechanism may have affected",
+        "something somewhere else.",
+        ""
+      ],
+      "Translation": [
+        "When you raise your hand to touch it,",
+        "the crest shines and an unearthly",
+        "sound echoes from somewhere.",
+        "[Page]",
+        "",
+        "It sounds like a vast mesh of gears",
+        "spinning. Eventually, the noise comes",
+        "to a halt.",
+        "[Page]",
+        "",
+        "Nothing nearby seems to have changed,",
+        "but the mechanism may have affected",
+        "something somewhere else.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Just as you are wondering about that,",
+        "the sound of an enormous bell shakes",
+        "the entire labyrinth.",
+        "[Page]",
+        "",
+        "You grow anxious to hear its ringing.",
+        "It is as if it tolls a warning that",
+        "something dangerous is afoot.",
+        "[Page]",
+        "",
+        "Eventually, the dolorous tone stops.",
+        "You have activated all four of the",
+        "kings' emblems now...",
+        "[Page]",
+        "",
+        "If this means gaining the necessary",
+        "credentials, then these credentials",
+        "you have certainly won.",
+        "[Page]",
+        "",
+        "You wonder if you should return now to",
+        "the Forgotten Capital to see if there",
+        "has been a change in the King's Gate.",
+        ""
+      ],
+      "Translation": [
+        "Just as you are wondering about that,",
+        "the sound of an enormous bell shakes",
+        "the entire labyrinth.",
+        "[Page]",
+        "",
+        "You grow anxious to hear its ringing.",
+        "It is as if it tolls a warning that",
+        "something dangerous is afoot.",
+        "[Page]",
+        "",
+        "Eventually, the dolorous tone stops.",
+        "You have activated all four of the",
+        "kings' emblems now...",
+        "[Page]",
+        "",
+        "If this means gaining the necessary",
+        "credentials, then these credentials",
+        "you have certainly won.",
+        "[Page]",
+        "",
+        "You wonder if you should return now to",
+        "the Forgotten Capital to see if there",
+        "has been a change in the King's Gate.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "You revisit the King's Gate. The troop",
+        "of soldiers you left here are talking",
+        "amongst themselves with excitement.",
+        "[Page]",
+        "",
+        "You approach them...",
+        ""
+      ],
+      "Translation": [
+        "You revisit the King's Gate. The troop",
+        "of soldiers you left here are talking",
+        "amongst themselves with excitement.",
+        "[Page]",
+        "",
+        "You approach them...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, you're back. I'm glad to see you",
+        "returned safely.\" Logre is here in",
+        "front of the gates waiting for you.",
+        "[Page]",
+        "",
+        "He is looking up at that giant portal",
+        "alongside the other Imperial soldiers.",
+        "[Page]",
+        "",
+        "\"That giant bell filled me with dread,",
+        "so I returned here... and lo and",
+        "behold, it's just as I thought.",
+        "[Page]",
+        "",
+        "\"As you can see, the emblems on the",
+        "gates are glowing now. I assume you",
+        "gained the kings' credentials.\"",
+        "[Page]",
+        "",
+        "Logre smiles darkly at you.",
+        "[Page]",
+        "",
+        "At any rate, the stone gates will no",
+        "longer bar your passage. A new leg of",
+        "your journey awaits you...",
+        "[Page]",
+        "",
+        "\"This is where I must leave things to",
+        "you, including His Imperial Highness.",
+        "He has come too far to stop himself.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, you're back. I'm glad to see you",
+        "returned safely.\" Logre is here in",
+        "front of the gates waiting for you.",
+        "[Page]",
+        "",
+        "He is looking up at that giant portal",
+        "alongside the other Imperial soldiers.",
+        "[Page]",
+        "",
+        "\"That giant bell filled me with dread,",
+        "so I returned here... and lo and",
+        "behold, it's just as I thought.",
+        "[Page]",
+        "",
+        "\"As you can see, the emblems on the",
+        "gates are glowing now. I assume you",
+        "gained the kings' credentials.\"",
+        "[Page]",
+        "",
+        "Logre smiles darkly at you.",
+        "[Page]",
+        "",
+        "At any rate, the stone gates will no",
+        "longer bar your passage. A new leg of",
+        "your journey awaits you...",
+        "[Page]",
+        "",
+        "\"This is where I must leave things to",
+        "you, including His Imperial Highness.",
+        "He has come too far to stop himself.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "After nodding to Logre, you face the",
+        "sizable door.",
+        "[Page]",
+        "",
+        "The Imperial soldiers give a crisp",
+        "salute to see you off as you proceed",
+        "through the gates...",
+        ""
+      ],
+      "Translation": [
+        "After nodding to Logre, you face the",
+        "sizable door.",
+        "[Page]",
+        "",
+        "The Imperial soldiers give a crisp",
+        "salute to see you off as you proceed",
+        "through the gates...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "\"How are things here? I see... It's",
+        "good that you're all safe,\" says",
+        "Logre, greeting the Imperial soldiers.",
+        "[Page]",
+        "",
+        "\"That giant bell filled me with dread.",
+        "And I see it's just as I thought...",
+        "[Page]",
+        "",
+        "\"The emblems on the gates are glowing",
+        "now. I think it safe to assume we",
+        "have gained the kings' credentials.\"",
+        "[Page]",
+        "",
+        "Logre smiles to you, but there is",
+        "nothing joyous in his expression.",
+        "[Page]",
+        "",
+        "At any rate, the stone gates will no",
+        "longer bar your passage. A new leg of",
+        "your journey awaits you...",
+        "[Page]",
+        "",
+        "\"The real mission starts here. Come",
+        "on, everyone, let's go.\"",
+        ""
+      ],
+      "Translation": [
+        "\"How are things here? I see... It's",
+        "good that you're all safe,\" says",
+        "Logre, greeting the Imperial soldiers.",
+        "[Page]",
+        "",
+        "\"That giant bell filled me with dread.",
+        "And I see it's just as I thought...",
+        "[Page]",
+        "",
+        "\"The emblems on the gates are glowing",
+        "now. I think it safe to assume we",
+        "have gained the kings' credentials.\"",
+        "[Page]",
+        "",
+        "Logre smiles to you, but there is",
+        "nothing joyous in his expression.",
+        "[Page]",
+        "",
+        "At any rate, the stone gates will no",
+        "longer bar your passage. A new leg of",
+        "your journey awaits you...",
+        "[Page]",
+        "",
+        "\"The real mission starts here. Come",
+        "on, everyone, let's go.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Logre finishes speaking as he gazes",
+        "into the distance, and then looks",
+        "silently up at the portal.",
+        "[Page]",
+        "",
+        "The Imperial soldiers give a crisp",
+        "salute to see you off as you proceed",
+        "through the gates...",
+        ""
+      ],
+      "Translation": [
+        "Logre finishes speaking as he gazes",
+        "into the distance, and then looks",
+        "silently up at the portal.",
+        "[Page]",
+        "",
+        "The Imperial soldiers give a crisp",
+        "salute to see you off as you proceed",
+        "through the gates...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "The stone gates engraved with the",
+        "five emblems are tightly sealed.",
+        ""
+      ],
+      "Translation": [
+        "The stone gates engraved with the",
+        "five emblems are tightly sealed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "At the end of a wide corridor, you",
+        "come across a door.",
+        "[Page]",
+        "",
+        "You can hear strong winds howling from",
+        "the other side at regular intervals,",
+        "like some titanic creature's breath...",
+        "[Page]",
+        "",
+        "The source of the stifling smell of",
+        "vegetation that permeates this hall",
+        "also seems to be beyond the door.",
+        "[Page]",
+        "",
+        "What could possibly await you ahead?",
+        ""
+      ],
+      "Translation": [
+        "At the end of a wide corridor, you",
+        "come across a door.",
+        "[Page]",
+        "",
+        "You can hear strong winds howling from",
+        "the other side at regular intervals,",
+        "like some titanic creature's breath...",
+        "[Page]",
+        "",
+        "The source of the stifling smell of",
+        "vegetation that permeates this hall",
+        "also seems to be beyond the door.",
+        "[Page]",
+        "",
+        "What could possibly await you ahead?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "You open the door and venture through",
+        "into a giant corridor that stretches",
+        "north to south.",
+        "[Page]",
+        "",
+        "You are surprised by a stifling smell",
+        "of vegetation in the air...",
+        "[Page]",
+        "",
+        "Particularly since no matter where you",
+        "look, you do not see anything that",
+        "would emit such a scent.",
+        "[Page]",
+        "",
+        "You brace yourselves for anything and",
+        "resume searching the maze...",
+        ""
+      ],
+      "Translation": [
+        "You open the door and venture through",
+        "into a giant corridor that stretches",
+        "north to south.",
+        "[Page]",
+        "",
+        "You are surprised by a stifling smell",
+        "of vegetation in the air...",
+        "[Page]",
+        "",
+        "Particularly since no matter where you",
+        "look, you do not see anything that",
+        "would emit such a scent.",
+        "[Page]",
+        "",
+        "You brace yourselves for anything and",
+        "resume searching the maze...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "Inside the room is a giant, terrifying",
+        "face.",
+        "[Page]",
+        "",
+        "At first glance, it seems to be an",
+        "inert carving, but on close inspection",
+        "you see that it is pulsing slightly.",
+        "[Page]",
+        "",
+        "It is breathing... the titanic face",
+        "before you apparently belongs to a",
+        "living being!",
+        ""
+      ],
+      "Translation": [
+        "Inside the room is a giant, terrifying",
+        "face.",
+        "[Page]",
+        "",
+        "At first glance, it seems to be an",
+        "inert carving, but on close inspection",
+        "you see that it is pulsing slightly.",
+        "[Page]",
+        "",
+        "It is breathing... the titanic face",
+        "before you apparently belongs to a",
+        "living being!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "In the room's center, the Imperial",
+        "Prince is on his knees. The Medium is",
+        "nowhere to be seen.",
+        "[Page]",
+        "",
+        "Sensing your arrival, the Imperial",
+        "Prince turns. His once-clear eyes are",
+        "dull and his breathing is ragged...",
+        "[Page]",
+        "",
+        "He is obviously not his usual self.",
+        "However, he musters what little",
+        "strength he has to draw himself up.",
+        ""
+      ],
+      "Translation": [
+        "In the room's center, the Imperial",
+        "Prince is on his knees. The Medium is",
+        "nowhere to be seen.",
+        "[Page]",
+        "",
+        "Sensing your arrival, the Imperial",
+        "Prince turns. His once-clear eyes are",
+        "dull and his breathing is ragged...",
+        "[Page]",
+        "",
+        "He is obviously not his usual self.",
+        "However, he musters what little",
+        "strength he has to draw himself up.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "\"In times past... the land was so",
+        "tainted by man's hand that not even",
+        "the plants of the field would grow.",
+        "[Page]",
+        "",
+        "\"People dreamed of a purified land...",
+        "A return to paradise. Thus was",
+        "Yggdrasil... this Titan... created.",
+        "[Page]",
+        "",
+        "\"Yggdrasil and the Titan are one and",
+        "the same. The slumbering Titan became",
+        "a giant tree to conserve its power.",
+        "[Page]",
+        "",
+        "\"What we once thought to be our hope",
+        "has largely been lost.",
+        "[Page]",
+        "",
+        "\"Those who could not control Her,",
+        "feared Her, and tried to bury Her...",
+        "But my Empire will reawaken Her.",
+        "[Page]",
+        "",
+        "\"See! With these hands, the heart of",
+        "its power and the Medium who is Her",
+        "soul are made one with Yggdrasil!",
+        "[Page]",
+        "",
+        "\"The Medium shall convey the sacred",
+        "word of the crown's bearer. Witness",
+        "the revival of the [Color:5][Enemy1:179][Color:0]!\"",
+        ""
+      ],
+      "Translation": [
+        "\"In times past... the land was so",
+        "tainted by man's hand that not even",
+        "the plants of the field would grow.",
+        "[Page]",
+        "",
+        "\"People dreamed of a purified land...",
+        "A return to paradise. Thus was",
+        "Yggdrasil... this Titan... created.",
+        "[Page]",
+        "",
+        "\"Yggdrasil and the Titan are one and",
+        "the same. The slumbering Titan became",
+        "a giant tree to conserve its power.",
+        "[Page]",
+        "",
+        "\"What we once thought to be our hope",
+        "has largely been lost.",
+        "[Page]",
+        "",
+        "\"Those who could not control Her,",
+        "feared Her, and tried to bury Her...",
+        "But my Empire will reawaken Her.",
+        "[Page]",
+        "",
+        "\"See! With these hands, the heart of",
+        "its power and the Medium who is Her",
+        "soul are made one with Yggdrasil!",
+        "[Page]",
+        "",
+        "\"The Medium shall convey the sacred",
+        "word of the crown's bearer. Witness",
+        "the revival of the [Color:5][Enemy1:179][Color:0]!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "The Imperial Prince raises his drive",
+        "blade and the Titan's body shakes in",
+        "response.",
+        "[Page]",
+        "",
+        "Greenish miasma pours from the nearby",
+        "walls... The Titan lives!",
+        "[Page]",
+        "",
+        "The Titan raises an arm, shattering",
+        "the ceiling, and slowly crawls up",
+        "towards the surface.",
+        ""
+      ],
+      "Translation": [
+        "The Imperial Prince raises his drive",
+        "blade and the Titan's body shakes in",
+        "response.",
+        "[Page]",
+        "",
+        "Greenish miasma pours from the nearby",
+        "walls... The Titan lives!",
+        "[Page]",
+        "",
+        "The Titan raises an arm, shattering",
+        "the ceiling, and slowly crawls up",
+        "towards the surface.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "\"Her revival was my father's most",
+        "fervent wish... Her hope spurred on",
+        "the knights who lost their lives.",
+        "[Page]",
+        "",
+        "\"I must compensate for their losses",
+        "and protect the families they left",
+        "behind! The future they believed in!",
+        "[Page]",
+        "",
+        "\"I won't stand for your meddling",
+        "'salvation'! All who oppose the Empire",
+        "will fall before my family blade!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Her revival was my father's most",
+        "fervent wish... Her hope spurred on",
+        "the knights who lost their lives.",
+        "[Page]",
+        "",
+        "\"I must compensate for their losses",
+        "and protect the families they left",
+        "behind! The future they believed in!",
+        "[Page]",
+        "",
+        "\"I won't stand for your meddling",
+        "'salvation'! All who oppose the Empire",
+        "will fall before my family blade!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "As the Imperial Prince points his",
+        "clockwork sword at you, green miasma",
+        "pours out from chinks in his armor!",
+        "[Page]",
+        "",
+        "Vines follow the miasma outward,",
+        "piercing his skin and encasing his",
+        "flesh...",
+        "[Page]",
+        "",
+        "The former Imperial Prince, now a",
+        "monster wrapped in Yggdrasil's",
+        "miasma, roars and charges at you!",
+        ""
+      ],
+      "Translation": [
+        "As the Imperial Prince points his",
+        "clockwork sword at you, green miasma",
+        "pours out from chinks in his armor!",
+        "[Page]",
+        "",
+        "Vines follow the miasma outward,",
+        "piercing his skin and encasing his",
+        "flesh...",
+        "[Page]",
+        "",
+        "The former Imperial Prince, now a",
+        "monster wrapped in Yggdrasil's",
+        "miasma, roars and charges at you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "With your final strike, the circlet he",
+        "wears as a headpiece shatters and the",
+        "drive blade falls from his hand.",
+        "[Page]",
+        "",
+        "Though blood streams from wounds on",
+        "his head, he still attempts to stand.",
+        "Suddenly, the labyrinth quakes.",
+        "[Page]",
+        "",
+        "Cracks race across the ground from",
+        "the impact of the Titan's footfalls;",
+        "one reaches toward the Prince's feet!",
+        "[Page]",
+        "",
+        "Before you can begin to react, the",
+        "wounded Imperial Prince loses his",
+        "balance and falls into the abyss.",
+        ""
+      ],
+      "Translation": [
+        "With your final strike, the circlet he",
+        "wears as a headpiece shatters and the",
+        "drive blade falls from his hand.",
+        "[Page]",
+        "",
+        "Though blood streams from wounds on",
+        "his head, he still attempts to stand.",
+        "Suddenly, the labyrinth quakes.",
+        "[Page]",
+        "",
+        "Cracks race across the ground from",
+        "the impact of the Titan's footfalls;",
+        "one reaches toward the Prince's feet!",
+        "[Page]",
+        "",
+        "Before you can begin to react, the",
+        "wounded Imperial Prince loses his",
+        "balance and falls into the abyss.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "\"URRRAAAAAAAHHHHH!\"",
+        ""
+      ],
+      "Translation": [
+        "\"URRRAAAAAAAHHHHH!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "The Titan howls, as if lamenting the",
+        "loss of the Imperial Prince, but it",
+        "does not slow its ascent.",
+        "[Page]",
+        "",
+        "The quake shows no sign of ending...",
+        "The sound of cracking walls and",
+        "ceilings echoes all around...",
+        ""
+      ],
+      "Translation": [
+        "The Titan howls, as if lamenting the",
+        "loss of the Imperial Prince, but it",
+        "does not slow its ascent.",
+        "[Page]",
+        "",
+        "The quake shows no sign of ending...",
+        "The sound of cracking walls and",
+        "ceilings echoes all around...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "The door will not open. It seems that",
+        "the ceilings and walls have collapsed,",
+        "blocking the door from the other side.",
+        ""
+      ],
+      "Translation": [
+        "The door will not open. It seems that",
+        "the ceilings and walls have collapsed,",
+        "blocking the door from the other side.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "As soon as you step back into the",
+        "open air of the Cloudy Stronghold, a",
+        "bloodcurdling roar shakes the skies.",
+        ""
+      ],
+      "Translation": [
+        "As soon as you step back into the",
+        "open air of the Cloudy Stronghold, a",
+        "bloodcurdling roar shakes the skies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Released from its bonds, the Titan",
+        "shows its godlike, yet dreadful form",
+        "to the world.",
+        "[Page]",
+        "",
+        "It is not difficult to imagine a city",
+        "the size of Tharsis being crushed",
+        "beneath its heel as it passes...",
+        "[Page]",
+        "",
+        "You stare at the Titan with abject",
+        "despair... when suddenly, a small",
+        "flicker of light silently appears.",
+        "[Page]",
+        "",
+        "It is the firefly-like light that has",
+        "guided you to the Medium from time",
+        "to time.",
+        "[Page]",
+        "",
+        "The light slowly drifts north before",
+        "disappearing, as if pointing you",
+        "toward the Titan.",
+        ""
+      ],
+      "Translation": [
+        "Released from its bonds, the Titan",
+        "shows its godlike, yet dreadful form",
+        "to the world.",
+        "[Page]",
+        "",
+        "It is not difficult to imagine a city",
+        "the size of Tharsis being crushed",
+        "beneath its heel as it passes...",
+        "[Page]",
+        "",
+        "You stare at the Titan with abject",
+        "despair... when suddenly, a small",
+        "flicker of light silently appears.",
+        "[Page]",
+        "",
+        "It is the firefly-like light that has",
+        "guided you to the Medium from time",
+        "to time.",
+        "[Page]",
+        "",
+        "The light slowly drifts north before",
+        "disappearing, as if pointing you",
+        "toward the Titan.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "The [Skyship] closes in on the giant.",
+        "You do not feel any symptoms of the",
+        "Titan's Curse thus far...",
+        "[Page]",
+        "",
+        "The Titan gives a low rumble and looks",
+        "at you with great curiosity as you",
+        "flit around it.",
+        "[Page]",
+        "",
+        "But just as you are about to approach",
+        "its face, the Titan swings its fist down,",
+        "nearly smashing the [Skyship]!",
+        "[Page]",
+        "",
+        "If you sail any closer, a fight will",
+        "become unavoidable. Are you prepared",
+        "to do battle with the malevolent god?",
+        ""
+      ],
+      "Translation": [
+        "The [Skyship] closes in on the giant.",
+        "You do not feel any symptoms of the",
+        "Titan's Curse thus far...",
+        "[Page]",
+        "",
+        "The Titan gives a low rumble and looks",
+        "at you with great curiosity as you",
+        "flit around it.",
+        "[Page]",
+        "",
+        "But just as you are about to approach",
+        "its face, the Titan swings its fist down,",
+        "nearly smashing the [Skyship]!",
+        "[Page]",
+        "",
+        "If you sail any closer, a fight will",
+        "become unavoidable. Are you prepared",
+        "to do battle with the malevolent god?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Challenge the Titan in combat?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Challenge the Titan in combat?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "If you sail any closer, a fight will",
+        "become unavoidable. Are you prepared",
+        "to do battle with the malevolent god?",
+        ""
+      ],
+      "Translation": [
+        "If you sail any closer, a fight will",
+        "become unavoidable. Are you prepared",
+        "to do battle with the malevolent god?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "One night has passed since the battle",
+        "against the Titan for the fate of all",
+        "who live in these lands.",
+        "[Page]",
+        "",
+        "You survived the intense struggle...",
+        "The Titan that came from the depths of",
+        "Yggdrasil fell before your power.",
+        "[Page]",
+        "",
+        "On losing its heart and soul, the",
+        "Titan's body again metamorphosed",
+        "into a new Yggdrasil.",
+        "[Page]",
+        "",
+        "In the process, the Titan mustered",
+        "the last of its strength to return",
+        "the Medium to the human world.",
+        "[Page]",
+        "",
+        "You have not yet filed your report",
+        "with the Count... Once you have sorted",
+        "things out, visit the Grand Court.",
+        ""
+      ],
+      "Translation": [
+        "One night has passed since the battle",
+        "against the Titan for the fate of all",
+        "who live in these lands.",
+        "[Page]",
+        "",
+        "You survived the intense struggle...",
+        "The Titan that came from the depths of",
+        "Yggdrasil fell before your power.",
+        "[Page]",
+        "",
+        "On losing its heart and soul, the",
+        "Titan's body again metamorphosed",
+        "into a new Yggdrasil.",
+        "[Page]",
+        "",
+        "In the process, the Titan mustered",
+        "the last of its strength to return",
+        "the Medium to the human world.",
+        "[Page]",
+        "",
+        "You have not yet filed your report",
+        "with the Count... Once you have sorted",
+        "things out, visit the Grand Court.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "\"I've been waiting for you, Guild",
+        "[Guild]. Well done on making it",
+        "back to Tharsis alive!",
+        "[Page]",
+        "",
+        "\"I placed tremendous expectations on",
+        "you and gave you rather a weighty",
+        "duty to fulfill.",
+        "[Page]",
+        "",
+        "\"But you applied yourself to the task",
+        "and carried it out splendidly with",
+        "nary a complaint! Have you a report?\"",
+        ""
+      ],
+      "Translation": [
+        "\"I've been waiting for you, Guild",
+        "[Guild]. Well done on making it",
+        "back to Tharsis alive!",
+        "[Page]",
+        "",
+        "\"I placed tremendous expectations on",
+        "you and gave you rather a weighty",
+        "duty to fulfill.",
+        "[Page]",
+        "",
+        "\"But you applied yourself to the task",
+        "and carried it out splendidly with",
+        "nary a complaint! Have you a report?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're the [Guild] Guild, correct?",
+        "The Outland Count is waiting on your",
+        "report. Very eagerly, in fact.",
+        "[Page]",
+        "",
+        "\"I believe he has a reward prepared",
+        "for you as well. I recommend not",
+        "keeping him waiting.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You're the [Guild] Guild, correct?",
+        "The Outland Count is waiting on your",
+        "report. Very eagerly, in fact.",
+        "[Page]",
+        "",
+        "\"I believe he has a reward prepared",
+        "for you as well. I recommend not",
+        "keeping him waiting.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "\"Good morning, dears. You seemed so",
+        "tired yesterday... Did you get a good",
+        "night's sleep?",
+        "[Page]",
+        "",
+        "\"Oh my... You're going straight to",
+        "the Grand Court, right? The Outland",
+        "Count's been eager to see you.",
+        "[Page]",
+        "",
+        "\"But there's no hurry! Breakfast is",
+        "ready, and I think you should eat up.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Good morning, dears. You seemed so",
+        "tired yesterday... Did you get a good",
+        "night's sleep?",
+        "[Page]",
+        "",
+        "\"Oh my... You're going straight to",
+        "the Grand Court, right? The Outland",
+        "Count's been eager to see you.",
+        "[Page]",
+        "",
+        "\"But there's no hurry! Breakfast is",
+        "ready, and I think you should eat up.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": false,
+      "Original": [
+        "When you step into the city square,",
+        "you notice an uproar beginning to",
+        "form in the corner.",
+        ""
+      ],
+      "Translation": [
+        "When you step into the city square,",
+        "you notice an uproar beginning to",
+        "form in the corner.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": false,
+      "Original": [
+        "\"First the Medium, then Yggdrasil...",
+        "Is this city of Tharsis your next",
+        "target, then?",
+        "[Page]",
+        "",
+        "\"How can you prove you're not just",
+        "another spy? We can't trust the",
+        "humans of the Empire!\"",
+        "[Page]",
+        "",
+        "A group of Vessels you have sometimes",
+        "seen around Tharsis has surrounded",
+        "an Imperial soldier.",
+        "[Page]",
+        "",
+        "The soldier must be one of those who",
+        "threw his lot in with Logre as an",
+        "ally to Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "\"First the Medium, then Yggdrasil...",
+        "Is this city of Tharsis your next",
+        "target, then?",
+        "[Page]",
+        "",
+        "\"How can you prove you're not just",
+        "another spy? We can't trust the",
+        "humans of the Empire!\"",
+        "[Page]",
+        "",
+        "A group of Vessels you have sometimes",
+        "seen around Tharsis has surrounded",
+        "an Imperial soldier.",
+        "[Page]",
+        "",
+        "The soldier must be one of those who",
+        "threw his lot in with Logre as an",
+        "ally to Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 108,
+      "IsIgnored": false,
+      "Original": [
+        "The Imperial soldier maintains a stoic",
+        "silence. You cannot tell what he may",
+        "be feeling under the helm.",
+        "[Page]",
+        "",
+        "Seconds later, a Sentinel warrior",
+        "intercedes.",
+        ""
+      ],
+      "Translation": [
+        "The Imperial soldier maintains a stoic",
+        "silence. You cannot tell what he may",
+        "be feeling under the helm.",
+        "[Page]",
+        "",
+        "Seconds later, a Sentinel warrior",
+        "intercedes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 109,
+      "IsIgnored": false,
+      "Original": [
+        "\"Enough! I know you are angry over the",
+        "Medium's kidnapping, but how will you",
+        "help her by attacking this man?",
+        "[Page]",
+        "",
+        "\"I have seen that some of those from",
+        "the Empire wish to right their lord's",
+        "wrong, even if they must defy orders.",
+        "[Page]",
+        "",
+        "\"The Medium reached out to all races",
+        "with those small hands. Should not",
+        "the Vessels follow her example?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Enough! I know you are angry over the",
+        "Medium's kidnapping, but how will you",
+        "help her by attacking this man?",
+        "[Page]",
+        "",
+        "\"I have seen that some of those from",
+        "the Empire wish to right their lord's",
+        "wrong, even if they must defy orders.",
+        "[Page]",
+        "",
+        "\"The Medium reached out to all races",
+        "with those small hands. Should not",
+        "the Vessels follow her example?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "The Vessels do not have an answer for",
+        "the Sentinel warrior's challenge. The",
+        "Imperial soldier quietly walks away.",
+        "[Page]",
+        "",
+        "The new faces in Tharsis are making",
+        "it a different city... You doubt this",
+        "is the last such dispute you'll see.",
+        ""
+      ],
+      "Translation": [
+        "The Vessels do not have an answer for",
+        "the Sentinel warrior's challenge. The",
+        "Imperial soldier quietly walks away.",
+        "[Page]",
+        "",
+        "The new faces in Tharsis are making",
+        "it a different city... You doubt this",
+        "is the last such dispute you'll see.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "In your pursuit of the Imperial Prince",
+        "and the Medium, you notice something",
+        "on the ground, entangled in vines.",
+        "[Page]",
+        "",
+        "As you draw near, a sickening",
+        "realization of what it is dawns",
+        "upon you!",
+        ""
+      ],
+      "Translation": [
+        "In your pursuit of the Imperial Prince",
+        "and the Medium, you notice something",
+        "on the ground, entangled in vines.",
+        "[Page]",
+        "",
+        "As you draw near, a sickening",
+        "realization of what it is dawns",
+        "upon you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "It is an Imperial soldier infected",
+        "with the Titan's Curse, in what looks",
+        "to be a gruesomely advanced stage.",
+        "[Page]",
+        "",
+        "\"Uhh... Ngh...\" It seems he has lost",
+        "his sight already. He is muttering",
+        "deliriously.",
+        ""
+      ],
+      "Translation": [
+        "It is an Imperial soldier infected",
+        "with the Titan's Curse, in what looks",
+        "to be a gruesomely advanced stage.",
+        "[Page]",
+        "",
+        "\"Uhh... Ngh...\" It seems he has lost",
+        "his sight already. He is muttering",
+        "deliriously.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "\"What is the matter, [Guild]? Hm?",
+        "That man...!\"",
+        "[Page]",
+        "",
+        "A hulking figure steps between you",
+        "and the immobile Imperial soldier.",
+        ""
+      ],
+      "Translation": [
+        "\"What is the matter, [Guild]? Hm?",
+        "That man...!\"",
+        "[Page]",
+        "",
+        "A hulking figure steps between you",
+        "and the immobile Imperial soldier.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "It is the leader of the Sentinels'",
+        "bushi, Kibagami. He deftly examines",
+        "the soldier's condition.",
+        "[Page]",
+        "",
+        "It seems Kibagami and a group of his",
+        "bushi had been conducting their own",
+        "search through this labyrinth.",
+        "[Page]",
+        "",
+        "\"It seems the Titan's Curse has had",
+        "its way with him... We can't leave",
+        "him here. I will carry him out.",
+        "[Page]",
+        "",
+        "\"You must go on ahead. If the Imperial",
+        "Prince is further inside, he may be",
+        "in an even worse state.\"",
+        ""
+      ],
+      "Translation": [
+        "It is the leader of the Sentinels'",
+        "bushi, Kibagami. He deftly examines",
+        "the soldier's condition.",
+        "[Page]",
+        "",
+        "It seems Kibagami and a group of his",
+        "bushi had been conducting their own",
+        "search through this labyrinth.",
+        "[Page]",
+        "",
+        "\"It seems the Titan's Curse has had",
+        "its way with him... We can't leave",
+        "him here. I will carry him out.",
+        "[Page]",
+        "",
+        "\"You must go on ahead. If the Imperial",
+        "Prince is further inside, he may be",
+        "in an even worse state.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "You leave the Imperial soldier in",
+        "Kibagami's care and hurry onward.",
+        ""
+      ],
+      "Translation": [
+        "You leave the Imperial soldier in",
+        "Kibagami's care and hurry onward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "\"No... open your eyes, soldier of the",
+        "Empire!\" Kibagami steps between you",
+        "and the immobile Imperial soldier.",
+        "[Page]",
+        "",
+        "He deftly examines the soldier's",
+        "condition.",
+        "[Page]",
+        "",
+        "\"It seems the Titan's Curse has had",
+        "its way with him... We can't leave",
+        "him here. But I cannot abandon you...\"",
+        ""
+      ],
+      "Translation": [
+        "\"No... open your eyes, soldier of the",
+        "Empire!\" Kibagami steps between you",
+        "and the immobile Imperial soldier.",
+        "[Page]",
+        "",
+        "He deftly examines the soldier's",
+        "condition.",
+        "[Page]",
+        "",
+        "\"It seems the Titan's Curse has had",
+        "its way with him... We can't leave",
+        "him here. But I cannot abandon you...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "Kibagami furrows his brow and balls",
+        "his fists. But a steady, powerful",
+        "voice calls out to him.",
+        ""
+      ],
+      "Translation": [
+        "Kibagami furrows his brow and balls",
+        "his fists. But a steady, powerful",
+        "voice calls out to him.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 128,
+      "IsIgnored": false,
+      "Original": [
+        "\"Leave the man with us, master.\"",
+        "[Page]",
+        "",
+        "A group of Sentinels walks up to you",
+        "from behind. It seems they were also",
+        "taking part in the search.",
+        "[Page]",
+        "",
+        "\"We will get this man safely out of",
+        "the labyrinth. You must go forward,",
+        "master.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Leave the man with us, master.\"",
+        "[Page]",
+        "",
+        "A group of Sentinels walks up to you",
+        "from behind. It seems they were also",
+        "taking part in the search.",
+        "[Page]",
+        "",
+        "\"We will get this man safely out of",
+        "the labyrinth. You must go forward,",
+        "master.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 129,
+      "IsIgnored": false,
+      "Original": [
+        "The Sentinels skillfully hoist the",
+        "Imperial soldier and nod to you before",
+        "heading back to the entrance.",
+        "[Page]",
+        "",
+        "Kibagami seems proud as he watches",
+        "them go. \"Those young ones... they've",
+        "grown so much.\"",
+        ""
+      ],
+      "Translation": [
+        "The Sentinels skillfully hoist the",
+        "Imperial soldier and nod to you before",
+        "heading back to the entrance.",
+        "[Page]",
+        "",
+        "Kibagami seems proud as he watches",
+        "them go. \"Those young ones... they've",
+        "grown so much.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": false,
+      "Original": [
+        "\"Let us hurry ahead, [Guild]. If",
+        "the Imperial Prince is further inside,",
+        "he may be in an even worse state.\"",
+        "[Page]",
+        "",
+        "You nod your agreement with Kibagami",
+        "and look further down the corridor.",
+        ""
+      ],
+      "Translation": [
+        "\"Let us hurry ahead, [Guild]. If",
+        "the Imperial Prince is further inside,",
+        "he may be in an even worse state.\"",
+        "[Page]",
+        "",
+        "You nod your agreement with Kibagami",
+        "and look further down the corridor.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "\"No... open your eyes, soldier of the",
+        "Empire!\" Kibagami rushes to his side",
+        "without hesitation.",
+        "[Page]",
+        "",
+        "He deftly examines the soldier's",
+        "condition.",
+        "[Page]",
+        "",
+        "\"It seems the Titan's Curse has had",
+        "its way with him... We can't leave",
+        "him here. But I cannot abandon you...\"",
+        ""
+      ],
+      "Translation": [
+        "\"No... open your eyes, soldier of the",
+        "Empire!\" Kibagami rushes to his side",
+        "without hesitation.",
+        "[Page]",
+        "",
+        "He deftly examines the soldier's",
+        "condition.",
+        "[Page]",
+        "",
+        "\"It seems the Titan's Curse has had",
+        "its way with him... We can't leave",
+        "him here. But I cannot abandon you...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": false,
+      "Original": [
+        "Kibagami furrows his brow and balls",
+        "his fists. But a steady, powerful",
+        "voice calls out to him.",
+        ""
+      ],
+      "Translation": [
+        "Kibagami furrows his brow and balls",
+        "his fists. But a steady, powerful",
+        "voice calls out to him.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": false,
+      "Original": [
+        "\"Leave the man with us, master.\"",
+        "[Page]",
+        "",
+        "A group of Sentinels walks up to him",
+        "from behind. It seems they were also",
+        "taking part in the search.",
+        "[Page]",
+        "",
+        "\"We will get this man safely out of",
+        "the labyrinth. You must go forward,",
+        "master.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Leave the man with us, master.\"",
+        "[Page]",
+        "",
+        "A group of Sentinels walks up to him",
+        "from behind. It seems they were also",
+        "taking part in the search.",
+        "[Page]",
+        "",
+        "\"We will get this man safely out of",
+        "the labyrinth. You must go forward,",
+        "master.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": false,
+      "Original": [
+        "The Sentinels skillfully hoist the",
+        "Imperial soldier and nod to you before",
+        "heading back to the entrance.",
+        "[Page]",
+        "",
+        "Kibagami seems proud as he watches",
+        "them go.",
+        ""
+      ],
+      "Translation": [
+        "The Sentinels skillfully hoist the",
+        "Imperial soldier and nod to you before",
+        "heading back to the entrance.",
+        "[Page]",
+        "",
+        "Kibagami seems proud as he watches",
+        "them go.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": false,
+      "Original": [
+        "\"I must hurry ahead. If the Imperial",
+        "Prince is further inside, he may be",
+        "in an even worse state.\"",
+        "[Page]",
+        "",
+        "With redoubled resolve, Kibagami",
+        "turns his attention further down",
+        "the corridor.",
+        ""
+      ],
+      "Translation": [
+        "\"I must hurry ahead. If the Imperial",
+        "Prince is further inside, he may be",
+        "in an even worse state.\"",
+        "[Page]",
+        "",
+        "With redoubled resolve, Kibagami",
+        "turns his attention further down",
+        "the corridor.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": false,
+      "Original": [
+        "In your hurried pursuit of the",
+        "Imperial Prince and the Medium,",
+        "you hear voices up ahead.",
+        ""
+      ],
+      "Translation": [
+        "In your hurried pursuit of the",
+        "Imperial Prince and the Medium,",
+        "you hear voices up ahead.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": false,
+      "Original": [
+        "You nervously approach the voices to",
+        "find a Vessel caring for an Imperial",
+        "soldier too weak to stand.",
+        "[Page]",
+        "",
+        "You know this Vessel... it is Wufan,",
+        "leader of the arcanists.",
+        ""
+      ],
+      "Translation": [
+        "You nervously approach the voices to",
+        "find a Vessel caring for an Imperial",
+        "soldier too weak to stand.",
+        "[Page]",
+        "",
+        "You know this Vessel... it is Wufan,",
+        "leader of the arcanists.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, it's you. I was trying to find",
+        "the Medium, but so far I've only found",
+        "this man collapsed on the ground...\"",
+        "[Page]",
+        "",
+        "There are clusters of vines growing",
+        "from the chinks in his armor. It looks",
+        "to be late-stage Titan's Curse.",
+        "[Page]",
+        "",
+        "His condition seems rather severe,",
+        "preventing him from so much as",
+        "speaking to you.",
+        "[Page]",
+        "",
+        "\"The Medium tried to reach out to the",
+        "Imperial Prince until the moment she",
+        "lost consciousness...",
+        "[Page]",
+        "",
+        "\"We Vessels live to carry out the",
+        "Medium's will. My course is clear.",
+        "[Page]",
+        "",
+        "\"The anger in my chest has not died",
+        "down, but I will not bring it to bear",
+        "on them. I swear by the Medium.\"",
+        "[Page]",
+        "",
+        "Wufan looks at you with no hesitation",
+        "in her eyes.",
+        "[Page]",
+        "",
+        "\"Go, Guild [Guild], and leave this",
+        "man to me.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, it's you. I was trying to find",
+        "the Medium, but so far I've only found",
+        "this man collapsed on the ground...\"",
+        "[Page]",
+        "",
+        "There are clusters of vines growing",
+        "from the chinks in his armor. It looks",
+        "to be late-stage Titan's Curse.",
+        "[Page]",
+        "",
+        "His condition seems rather severe,",
+        "preventing him from so much as",
+        "speaking to you.",
+        "[Page]",
+        "",
+        "\"The Medium tried to reach out to the",
+        "Imperial Prince until the moment she",
+        "lost consciousness...",
+        "[Page]",
+        "",
+        "\"We Vessels live to carry out the",
+        "Medium's will. My course is clear.",
+        "[Page]",
+        "",
+        "\"The anger in my chest has not died",
+        "down, but I will not bring it to bear",
+        "on them. I swear by the Medium.\"",
+        "[Page]",
+        "",
+        "Wufan looks at you with no hesitation",
+        "in her eyes.",
+        "[Page]",
+        "",
+        "\"Go, Guild [Guild], and leave this",
+        "man to me.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": false,
+      "Original": [
+        "You nod to Wufan and proceed down",
+        "the corridor.",
+        ""
+      ],
+      "Translation": [
+        "You nod to Wufan and proceed down",
+        "the corridor.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": false,
+      "Original": [
+        "You nervously approach the voices to",
+        "find Vessels caring for an Imperial",
+        "soldier too weak to stand.",
+        "[Page]",
+        "",
+        "Wufan steps forward and gasps with",
+        "surprise.",
+        "[Page]",
+        "",
+        "They seem to be the same Vessels who",
+        "you saw harassing an Imperial soldier",
+        "in the Tharsis city square.",
+        "[Page]",
+        "",
+        "The young Vessels appear to have come",
+        "across the collapsed Imperial soldier",
+        "during their explorations.",
+        "[Page]",
+        "",
+        "There are clusters of vines growing",
+        "from the chinks in his armor. It looks",
+        "to be late-stage Titan's Curse...",
+        "[Page]",
+        "",
+        "His condition seems rather severe,",
+        "preventing him from so much as",
+        "speaking to you...",
+        "[Page]",
+        "",
+        "\"We wanted to leave him where he laid.",
+        "But Wufan... we couldn't.\"",
+        "[Page]",
+        "",
+        "Wufan nods silently at this.",
+        ""
+      ],
+      "Translation": [
+        "You nervously approach the voices to",
+        "find Vessels caring for an Imperial",
+        "soldier too weak to stand.",
+        "[Page]",
+        "",
+        "Wufan steps forward and gasps with",
+        "surprise.",
+        "[Page]",
+        "",
+        "They seem to be the same Vessels who",
+        "you saw harassing an Imperial soldier",
+        "in the Tharsis city square.",
+        "[Page]",
+        "",
+        "The young Vessels appear to have come",
+        "across the collapsed Imperial soldier",
+        "during their explorations.",
+        "[Page]",
+        "",
+        "There are clusters of vines growing",
+        "from the chinks in his armor. It looks",
+        "to be late-stage Titan's Curse...",
+        "[Page]",
+        "",
+        "His condition seems rather severe,",
+        "preventing him from so much as",
+        "speaking to you...",
+        "[Page]",
+        "",
+        "\"We wanted to leave him where he laid.",
+        "But Wufan... we couldn't.\"",
+        "[Page]",
+        "",
+        "Wufan nods silently at this.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": false,
+      "Original": [
+        "\"You choose rightly. I am sure that",
+        "the Medium would have done the same.",
+        "[Page]",
+        "",
+        "\"The Medium tried to reach out to the",
+        "Imperial Prince until the moment she",
+        "lost consciousness...",
+        "[Page]",
+        "",
+        "\"We Vessels live to carry out the",
+        "Medium's will. Our course is clear.",
+        "[Page]",
+        "",
+        "\"The anger in my chest has not died",
+        "down, but I will not bring it to bear",
+        "on them. I swear by the Medium.\"",
+        "[Page]",
+        "",
+        "Wufan looks at you with no hesitation",
+        "in her eyes.",
+        "[Page]",
+        "",
+        "\"Let us go. This man is safe in their",
+        "care.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You choose rightly. I am sure that",
+        "the Medium would have done the same.",
+        "[Page]",
+        "",
+        "\"The Medium tried to reach out to the",
+        "Imperial Prince until the moment she",
+        "lost consciousness...",
+        "[Page]",
+        "",
+        "\"We Vessels live to carry out the",
+        "Medium's will. Our course is clear.",
+        "[Page]",
+        "",
+        "\"The anger in my chest has not died",
+        "down, but I will not bring it to bear",
+        "on them. I swear by the Medium.\"",
+        "[Page]",
+        "",
+        "Wufan looks at you with no hesitation",
+        "in her eyes.",
+        "[Page]",
+        "",
+        "\"Let us go. This man is safe in their",
+        "care.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 147,
+      "IsIgnored": false,
+      "Original": [
+        "You nod to Wufan and proceed down",
+        "the corridor.",
+        ""
+      ],
+      "Translation": [
+        "You nod to Wufan and proceed down",
+        "the corridor.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": false,
+      "Original": [
+        "Wufan nervously approaches the voices",
+        "to find Vessels caring for an Imperial",
+        "soldier too weak to stand.",
+        "[Page]",
+        "",
+        "She gasps with surprise...",
+        "[Page]",
+        "",
+        "They seem to be the same Vessels who",
+        "you saw harassing an Imperial soldier",
+        "in the Tharsis city square.",
+        "[Page]",
+        "",
+        "The young Vessels appear to have come",
+        "across the collapsed Imperial soldier",
+        "during their explorations.",
+        "[Page]",
+        "",
+        "There are clusters of vines growing",
+        "from the chinks in his armor. It looks",
+        "to be late-stage Titan's Curse...",
+        "[Page]",
+        "",
+        "His condition seems rather severe,",
+        "preventing him from so much as",
+        "speaking...",
+        "[Page]",
+        "",
+        "\"We wanted to leave him where he laid.",
+        "But Wufan... we couldn't.\"",
+        "[Page]",
+        "",
+        "Wufan nods silently at this.",
+        ""
+      ],
+      "Translation": [
+        "Wufan nervously approaches the voices",
+        "to find Vessels caring for an Imperial",
+        "soldier too weak to stand.",
+        "[Page]",
+        "",
+        "She gasps with surprise...",
+        "[Page]",
+        "",
+        "They seem to be the same Vessels who",
+        "you saw harassing an Imperial soldier",
+        "in the Tharsis city square.",
+        "[Page]",
+        "",
+        "The young Vessels appear to have come",
+        "across the collapsed Imperial soldier",
+        "during their explorations.",
+        "[Page]",
+        "",
+        "There are clusters of vines growing",
+        "from the chinks in his armor. It looks",
+        "to be late-stage Titan's Curse...",
+        "[Page]",
+        "",
+        "His condition seems rather severe,",
+        "preventing him from so much as",
+        "speaking...",
+        "[Page]",
+        "",
+        "\"We wanted to leave him where he laid.",
+        "But Wufan... we couldn't.\"",
+        "[Page]",
+        "",
+        "Wufan nods silently at this.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 149,
+      "IsIgnored": false,
+      "Original": [
+        "\"You choose rightly. I am sure that",
+        "the Medium would have done the same.",
+        "[Page]",
+        "",
+        "\"The Medium tried to reach out to the",
+        "Imperial Prince until the moment she",
+        "lost consciousness...",
+        "[Page]",
+        "",
+        "\"We Vessels live to carry out the",
+        "Medium's will. Our course is clear.",
+        "[Page]",
+        "",
+        "\"The anger in my chest has not died",
+        "down, but I will not bring it to bear",
+        "on them. I swear by the Medium.\"",
+        "[Page]",
+        "",
+        "Wufan speaks to the Vessels with no",
+        "hesitation in her eyes.",
+        "[Page]",
+        "",
+        "\"I leave him in your care. Don't",
+        "worry. I will bring the Medium back",
+        "safely.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You choose rightly. I am sure that",
+        "the Medium would have done the same.",
+        "[Page]",
+        "",
+        "\"The Medium tried to reach out to the",
+        "Imperial Prince until the moment she",
+        "lost consciousness...",
+        "[Page]",
+        "",
+        "\"We Vessels live to carry out the",
+        "Medium's will. Our course is clear.",
+        "[Page]",
+        "",
+        "\"The anger in my chest has not died",
+        "down, but I will not bring it to bear",
+        "on them. I swear by the Medium.\"",
+        "[Page]",
+        "",
+        "Wufan speaks to the Vessels with no",
+        "hesitation in her eyes.",
+        "[Page]",
+        "",
+        "\"I leave him in your care. Don't",
+        "worry. I will bring the Medium back",
+        "safely.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": false,
+      "Original": [
+        "Wufan nods to her fellow Vessels and",
+        "proceeds down the corridor.",
+        ""
+      ],
+      "Translation": [
+        "Wufan nods to her fellow Vessels and",
+        "proceeds down the corridor.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": false,
+      "Original": [
+        "\"It seems your search is going well,",
+        "[Guild].\"",
+        "[Page]",
+        "",
+        "As you leave the inn, the Sentinel",
+        "warrior Kibagami hails you.",
+        "[Page]",
+        "",
+        "\"How strange to think that Yggdrasil",
+        "and the Golden Lair were connected.",
+        "My people will be very surprised.",
+        "[Page]",
+        "",
+        "\"One by one, you are getting to the",
+        "bottom of these mysteries...",
+        "[Page]",
+        "",
+        "\"I know you're worried for the Medium,",
+        "but don't be. She would be very sad",
+        "if something were to happen to you.",
+        "[Page]",
+        "",
+        "\"Sorry to keep you. But things will",
+        "only get harder for you from here",
+        "on. Be prepared for that.\"",
+        ""
+      ],
+      "Translation": [
+        "\"It seems your search is going well,",
+        "[Guild].\"",
+        "[Page]",
+        "",
+        "As you leave the inn, the Sentinel",
+        "warrior Kibagami hails you.",
+        "[Page]",
+        "",
+        "\"How strange to think that Yggdrasil",
+        "and the Golden Lair were connected.",
+        "My people will be very surprised.",
+        "[Page]",
+        "",
+        "\"One by one, you are getting to the",
+        "bottom of these mysteries...",
+        "[Page]",
+        "",
+        "\"I know you're worried for the Medium,",
+        "but don't be. She would be very sad",
+        "if something were to happen to you.",
+        "[Page]",
+        "",
+        "\"Sorry to keep you. But things will",
+        "only get harder for you from here",
+        "on. Be prepared for that.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": false,
+      "Original": [
+        "Kibagami parts with you and walks",
+        "into the city crowds.",
+        ""
+      ],
+      "Translation": [
+        "Kibagami parts with you and walks",
+        "into the city crowds.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": false,
+      "Original": [
+        "As you leave the inn, Kibagami mulls",
+        "over recent events.",
+        "[Page]",
+        "",
+        "\"How strange to think that Yggdrasil",
+        "and the Golden Lair were connected.",
+        "My people will be very surprised.",
+        "[Page]",
+        "",
+        "\"One by one, we are getting to the",
+        "bottom of these mysteries...",
+        "[Page]",
+        "",
+        "\"I know you're worried for the Medium,",
+        "but don't be. She would be very sad",
+        "if something were to happen to us.",
+        "[Page]",
+        "",
+        "\"Just know that things will only",
+        "get harder for us from here on.",
+        "Be prepared for that.\"",
+        ""
+      ],
+      "Translation": [
+        "As you leave the inn, Kibagami mulls",
+        "over recent events.",
+        "[Page]",
+        "",
+        "\"How strange to think that Yggdrasil",
+        "and the Golden Lair were connected.",
+        "My people will be very surprised.",
+        "[Page]",
+        "",
+        "\"One by one, we are getting to the",
+        "bottom of these mysteries...",
+        "[Page]",
+        "",
+        "\"I know you're worried for the Medium,",
+        "but don't be. She would be very sad",
+        "if something were to happen to us.",
+        "[Page]",
+        "",
+        "\"Just know that things will only",
+        "get harder for us from here on.",
+        "Be prepared for that.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": false,
+      "Original": [
+        "You all nod your assent at Kibagami's",
+        "warning and turn your thoughts to",
+        "the search that awaits you...",
+        ""
+      ],
+      "Translation": [
+        "You all nod your assent at Kibagami's",
+        "warning and turn your thoughts to",
+        "the search that awaits you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": false,
+      "Original": [
+        "As Kibagami leaves the inn, he rotates",
+        "his shoulders a bit and mutters to",
+        "himself.",
+        "[Page]",
+        "",
+        "\"How strange to think that Yggdrasil",
+        "and the Golden Lair were connected.",
+        "My people will be very surprised.",
+        "[Page]",
+        "",
+        "\"One by one, the mysteries are",
+        "falling...",
+        "[Page]",
+        "",
+        "\"Though I worry for the Medium, I must",
+        "not panic. If anything went wrong,",
+        "I could not show my face to her.",
+        "[Page]",
+        "",
+        "\"Things will only get harder for from",
+        "here on... I must be prepared.\"",
+        ""
+      ],
+      "Translation": [
+        "As Kibagami leaves the inn, he rotates",
+        "his shoulders a bit and mutters to",
+        "himself.",
+        "[Page]",
+        "",
+        "\"How strange to think that Yggdrasil",
+        "and the Golden Lair were connected.",
+        "My people will be very surprised.",
+        "[Page]",
+        "",
+        "\"One by one, the mysteries are",
+        "falling...",
+        "[Page]",
+        "",
+        "\"Though I worry for the Medium, I must",
+        "not panic. If anything went wrong,",
+        "I could not show my face to her.",
+        "[Page]",
+        "",
+        "\"Things will only get harder for from",
+        "here on... I must be prepared.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 166,
+      "IsIgnored": false,
+      "Original": [
+        "With renewed purpose, Kibagami looks",
+        "toward the northern skies.",
+        ""
+      ],
+      "Translation": [
+        "With renewed purpose, Kibagami looks",
+        "toward the northern skies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": false,
+      "Original": [
+        "\"So, Guild [Guild]... You returned",
+        "to the city.\"",
+        "[Page]",
+        "",
+        "You run into Wufan, the Vessel",
+        "arcanist, in the city square. She",
+        "looks rather pale...",
+        "[Page]",
+        "",
+        "\"Ha... I haven't slept well. I knew",
+        "from the Hollow incident already, but",
+        "my own weakness still disgusts me.",
+        "[Page]",
+        "",
+        "\"I know what causes it. I cannot stop",
+        "worrying about the Medium. There is",
+        "only so much that I alone can do...\"",
+        "[Page]",
+        "",
+        "Wufan casts her gaze down and clutches",
+        "her staff between slender fingers.",
+        "[Page]",
+        "",
+        "\"I'm sorry for wasting your time with",
+        "this... You're going, no? Try not to",
+        "do anything rash.\"",
+        ""
+      ],
+      "Translation": [
+        "\"So, Guild [Guild]... You returned",
+        "to the city.\"",
+        "[Page]",
+        "",
+        "You run into Wufan, the Vessel",
+        "arcanist, in the city square. She",
+        "looks rather pale...",
+        "[Page]",
+        "",
+        "\"Ha... I haven't slept well. I knew",
+        "from the Hollow incident already, but",
+        "my own weakness still disgusts me.",
+        "[Page]",
+        "",
+        "\"I know what causes it. I cannot stop",
+        "worrying about the Medium. There is",
+        "only so much that I alone can do...\"",
+        "[Page]",
+        "",
+        "Wufan casts her gaze down and clutches",
+        "her staff between slender fingers.",
+        "[Page]",
+        "",
+        "\"I'm sorry for wasting your time with",
+        "this... You're going, no? Try not to",
+        "do anything rash.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": false,
+      "Original": [
+        "She forces a smile before parting",
+        "with you.",
+        ""
+      ],
+      "Translation": [
+        "She forces a smile before parting",
+        "with you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": false,
+      "Original": [
+        "When you reach the city square, Wufan",
+        "stops briefly, placing a hand on her",
+        "forehead.",
+        "[Page]",
+        "",
+        "She looks quite pale... You ask if",
+        "she is feeling well.",
+        "[Page]",
+        "",
+        "\"Oh... I haven't slept well. I knew",
+        "from the Hollow incident already, but",
+        "my own weakness still disgusts me.",
+        "[Page]",
+        "",
+        "\"I know what causes it. I cannot stop",
+        "worrying about the Medium. There is",
+        "only so much that I alone can do...\"",
+        "[Page]",
+        "",
+        "Wufan casts her gaze down and clutches",
+        "her staff between slender fingers.",
+        "[Page]",
+        "",
+        "\"I'm sorry for wasting your time with",
+        "this... Shouldn't we be on our way?",
+        "Our search isn't over yet.\"",
+        ""
+      ],
+      "Translation": [
+        "When you reach the city square, Wufan",
+        "stops briefly, placing a hand on her",
+        "forehead.",
+        "[Page]",
+        "",
+        "She looks quite pale... You ask if",
+        "she is feeling well.",
+        "[Page]",
+        "",
+        "\"Oh... I haven't slept well. I knew",
+        "from the Hollow incident already, but",
+        "my own weakness still disgusts me.",
+        "[Page]",
+        "",
+        "\"I know what causes it. I cannot stop",
+        "worrying about the Medium. There is",
+        "only so much that I alone can do...\"",
+        "[Page]",
+        "",
+        "Wufan casts her gaze down and clutches",
+        "her staff between slender fingers.",
+        "[Page]",
+        "",
+        "\"I'm sorry for wasting your time with",
+        "this... Shouldn't we be on our way?",
+        "Our search isn't over yet.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": false,
+      "Original": [
+        "She forces a smile and begins walking",
+        "as if to lead the way.",
+        ""
+      ],
+      "Translation": [
+        "She forces a smile and begins walking",
+        "as if to lead the way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": false,
+      "Original": [
+        "When Wufan reaches the city square,",
+        "she stops briefly, placing a hand on",
+        "her forehead.",
+        "[Page]",
+        "",
+        "Her face is extremely pale. A few",
+        "passersby notice and ask her",
+        "anxiously if she is all right.",
+        "[Page]",
+        "",
+        "\"Thank you, but... it's nothing.",
+        "I haven't slept well lately...",
+        "[Page]",
+        "",
+        "\"I know what causes it. A young",
+        "relative of mine is in danger, and",
+        "there is only so much I alone can do.\"",
+        "[Page]",
+        "",
+        "Wufan casts her gaze down and clutches",
+        "her staff between slender fingers.",
+        "[Page]",
+        "",
+        "\"I'm sorry for wasting your time with",
+        "this... I'm all right now. Sorry for",
+        "the trouble.\"",
+        ""
+      ],
+      "Translation": [
+        "When Wufan reaches the city square,",
+        "she stops briefly, placing a hand on",
+        "her forehead.",
+        "[Page]",
+        "",
+        "Her face is extremely pale. A few",
+        "passersby notice and ask her",
+        "anxiously if she is all right.",
+        "[Page]",
+        "",
+        "\"Thank you, but... it's nothing.",
+        "I haven't slept well lately...",
+        "[Page]",
+        "",
+        "\"I know what causes it. A young",
+        "relative of mine is in danger, and",
+        "there is only so much I alone can do.\"",
+        "[Page]",
+        "",
+        "Wufan casts her gaze down and clutches",
+        "her staff between slender fingers.",
+        "[Page]",
+        "",
+        "\"I'm sorry for wasting your time with",
+        "this... I'm all right now. Sorry for",
+        "the trouble.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": false,
+      "Original": [
+        "She forces a smile and begins walking,",
+        "her footsteps unsure.",
+        ""
+      ],
+      "Translation": [
+        "She forces a smile and begins walking,",
+        "her footsteps unsure.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_17",
+  "RelativePath": "Event\\Bar\\BAR_17.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You cleared the mission from the",
+        "Outland Count? Then you should get",
+        "started taking requests.",
+        "[Page]",
+        "",
+        "Request rewards are an important",
+        "source of income for explorers.",
+        "The system's win-win for everyone.",
+        "[Page]",
+        "",
+        "You can even [Color:5]build experience[Color:0] doing",
+        "them, if you need to train a bit.",
+        "Check the quest board when you can.",
+        "[Page]",
+        "",
+        "Me, I just come here every so often",
+        "to check out the barmaid.",
+        ""
+      ],
+      "Translation": [
+        "You cleared the mission from the",
+        "Outland Count? Then you should get",
+        "started taking requests.",
+        "[Page]",
+        "",
+        "Request rewards are an important",
+        "source of income for explorers.",
+        "The system's win-win for everyone.",
+        "[Page]",
+        "",
+        "You can even [Color:5]build experience[Color:0] doing",
+        "them, if you need to train a bit.",
+        "Check the quest board when you can.",
+        "[Page]",
+        "",
+        "Me, I just come here every so often",
+        "to check out the barmaid.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

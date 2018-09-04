@@ -1,0 +1,275 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_003",
+  "RelativePath": "Event\\Quest\\QUE_003.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, yes, this request... It is a task",
+        "of retribution from a beginning",
+        "explorer.",
+        "[Page]",
+        "",
+        "In [Color:5]B1F[Color:0] of the [Color:5]Lush Woodlands[Color:0], there is",
+        "a [Color:5]wooden box[Color:0] where some leave items",
+        "for emergencies. Do you know it?",
+        "[Page]",
+        "",
+        "That box is frequently the target",
+        "of [Color:5][Enemy1:6][Color:0] attacks. It is most",
+        "vexing for those who need it most.",
+        "[Page]",
+        "",
+        "That is why they wish for you to",
+        "subdue the monster. The wooden box",
+        "is in the [Color:5]northern[Color:0] area of B1F.",
+        "[Page]",
+        "",
+        "If you seek advice on fighting the",
+        "[Enemy1:6], that man drinking there",
+        "is quite knowledgeable on the topic.",
+        "[Page]",
+        "",
+        "Take care, and I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Translation": [
+        "Ah, yes, this request... It is a task",
+        "of retribution from a beginning",
+        "explorer.",
+        "[Page]",
+        "",
+        "In [Color:5]B1F[Color:0] of the [Color:5]Lush Woodlands[Color:0], there is",
+        "a [Color:5]wooden box[Color:0] where some leave items",
+        "for emergencies. Do you know it?",
+        "[Page]",
+        "",
+        "That box is frequently the target",
+        "of [Color:5][Enemy1:6][Color:0] attacks. It is most",
+        "vexing for those who need it most.",
+        "[Page]",
+        "",
+        "That is why they wish for you to",
+        "subdue the monster. The wooden box",
+        "is in the [Color:5]northern[Color:0] area of B1F.",
+        "[Page]",
+        "",
+        "If you seek advice on fighting the",
+        "[Enemy1:6], that man drinking there",
+        "is quite knowledgeable on the topic.",
+        "[Page]",
+        "",
+        "Take care, and I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Thank you for your hard work. It seems",
+        "the request is complete now.",
+        "[Page]",
+        "",
+        "I have heard praise for you on the",
+        "lips of the novice explorers who pass",
+        "through here.",
+        "[Page]",
+        "",
+        "So this wooden box is one of the ways",
+        "that explorers look after each other,",
+        "is it...?",
+        "[Page]",
+        "",
+        "Well, thank you once more. I shall",
+        "look to secure your services again",
+        "in the future.",
+        ""
+      ],
+      "Translation": [
+        "Thank you for your hard work. It seems",
+        "the request is complete now.",
+        "[Page]",
+        "",
+        "I have heard praise for you on the",
+        "lips of the novice explorers who pass",
+        "through here.",
+        "[Page]",
+        "",
+        "So this wooden box is one of the ways",
+        "that explorers look after each other,",
+        "is it...?",
+        "[Page]",
+        "",
+        "Well, thank you once more. I shall",
+        "look to secure your services again",
+        "in the future.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "With punitive action against the",
+        "[Enemy1:6] in mind, you arrive at",
+        "the area with the wooden box.",
+        ""
+      ],
+      "Translation": [
+        "With punitive action against the",
+        "[Enemy1:6] in mind, you arrive at",
+        "the area with the wooden box.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "When you look ahead, you see the",
+        "monster's back, as if jealously",
+        "guarding something! You have no doubt.",
+        "[Page]",
+        "",
+        "This is the target. You mentally",
+        "review whether you are prepared to",
+        "do battle with the monster...",
+        ""
+      ],
+      "Translation": [
+        "When you look ahead, you see the",
+        "monster's back, as if jealously",
+        "guarding something! You have no doubt.",
+        "[Page]",
+        "",
+        "This is the target. You mentally",
+        "review whether you are prepared to",
+        "do battle with the monster...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Enter battle with it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Enter battle with it?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "As you gulp and draw your weapon,",
+        "the monster detects your presence",
+        "and turns to face you!",
+        "[Page]",
+        "",
+        "But before it can make its first",
+        "move, you charge toward the beast!",
+        ""
+      ],
+      "Translation": [
+        "As you gulp and draw your weapon,",
+        "the monster detects your presence",
+        "and turns to face you!",
+        "[Page]",
+        "",
+        "But before it can make its first",
+        "move, you charge toward the beast!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "The monster is too busy with its",
+        "prize from the box to notice you.",
+        "[Page]",
+        "",
+        "You survey the situation, waiting for",
+        "the perfect opportunity to attack...",
+        ""
+      ],
+      "Translation": [
+        "The monster is too busy with its",
+        "prize from the box to notice you.",
+        "[Page]",
+        "",
+        "You survey the situation, waiting for",
+        "the perfect opportunity to attack...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "The monster cries out and collapses",
+        "on the spot, felled by your assault!",
+        "The request is now complete!",
+        "[Page]",
+        "",
+        "You examine the wooden box and see",
+        "food, likely left by somebody, inside.",
+        "The box itself seems undamaged.",
+        "[Page]",
+        "",
+        "You clean up the box's interior before",
+        "leaving to make your report of the",
+        "request's fulfillment.",
+        ""
+      ],
+      "Translation": [
+        "The monster cries out and collapses",
+        "on the spot, felled by your assault!",
+        "The request is now complete!",
+        "[Page]",
+        "",
+        "You examine the wooden box and see",
+        "food, likely left by somebody, inside.",
+        "The box itself seems undamaged.",
+        "[Page]",
+        "",
+        "You clean up the box's interior before",
+        "leaving to make your report of the",
+        "request's fulfillment.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

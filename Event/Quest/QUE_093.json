@@ -1,0 +1,785 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_093",
+  "RelativePath": "Event\\Quest\\QUE_093.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "This is a request to find someone.",
+        "I wanted to personally ask your help,",
+        "as it is my friend who is missing.",
+        "[Page]",
+        "",
+        "One of Tharsis' most renowned brewers,",
+        "Regine, has gone missing in the",
+        "[Color:5]Scarlet Pillars[Color:0].",
+        "[Page]",
+        "",
+        "A few days ago, she mentioned going",
+        "to the Scarlet Pillars to gather",
+        "peaches for a new brew.",
+        "[Page]",
+        "",
+        "If you are to search for her, I would",
+        "recommend starting in places where",
+        "peaches can be found.",
+        "[Page]",
+        "",
+        "But be careful. The [Color:5][Enemy1:201][Color:0]",
+        "has been active in the skies of the",
+        "Scarlet Pillars recently.",
+        "[Page]",
+        "",
+        "I hope that Regine was not...",
+        "Oh, please hurry!",
+        ""
+      ],
+      "Translation": [
+        "This is a request to find someone.",
+        "I wanted to personally ask your help,",
+        "as it is my friend who is missing.",
+        "[Page]",
+        "",
+        "One of Tharsis' most renowned brewers,",
+        "Regine, has gone missing in the",
+        "[Color:5]Scarlet Pillars[Color:0].",
+        "[Page]",
+        "",
+        "A few days ago, she mentioned going",
+        "to the Scarlet Pillars to gather",
+        "peaches for a new brew.",
+        "[Page]",
+        "",
+        "If you are to search for her, I would",
+        "recommend starting in places where",
+        "peaches can be found.",
+        "[Page]",
+        "",
+        "But be careful. The [Color:5][Enemy1:201][Color:0]",
+        "has been active in the skies of the",
+        "Scarlet Pillars recently.",
+        "[Page]",
+        "",
+        "I hope that Regine was not...",
+        "Oh, please hurry!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Excellent work. It seems you were",
+        "quite busy while the lightning",
+        "dragon flew about.",
+        "[Page]",
+        "",
+        "Regine's husband was quite relieved.",
+        "You should be proud of the fine job",
+        "you did protecting their household.",
+        "[Page]",
+        "",
+        "One odd note, though... In addition",
+        "to you, Wiglaf was also searching",
+        "for Regine.",
+        "[Page]",
+        "",
+        "It seems she had taken up the search",
+        "independently.",
+        "[Page]",
+        "",
+        "I am not sure what happened, but I",
+        "believe she somehow felt responsible",
+        "for Regine's disappearance.",
+        "[Page]",
+        "",
+        "But here, the reward. Thank you",
+        "so much...!",
+        ""
+      ],
+      "Translation": [
+        "Excellent work. It seems you were",
+        "quite busy while the lightning",
+        "dragon flew about.",
+        "[Page]",
+        "",
+        "Regine's husband was quite relieved.",
+        "You should be proud of the fine job",
+        "you did protecting their household.",
+        "[Page]",
+        "",
+        "One odd note, though... In addition",
+        "to you, Wiglaf was also searching",
+        "for Regine.",
+        "[Page]",
+        "",
+        "It seems she had taken up the search",
+        "independently.",
+        "[Page]",
+        "",
+        "I am not sure what happened, but I",
+        "believe she somehow felt responsible",
+        "for Regine's disappearance.",
+        "[Page]",
+        "",
+        "But here, the reward. Thank you",
+        "so much...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "When you approach the city gates,",
+        "an explorer is pacing back and forth.",
+        "[Page]",
+        "",
+        "\"Oh... [Guild]!\"",
+        ""
+      ],
+      "Translation": [
+        "When you approach the city gates,",
+        "an explorer is pacing back and forth.",
+        "[Page]",
+        "",
+        "\"Oh... [Guild]!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "It appears to be Wiglaf, the dancer.",
+        "\"I've been waiting for you guys,\"",
+        "she says.",
+        "[Page]",
+        "",
+        "\"Hey, is it true you took the request",
+        "to find Regine?\"",
+        ""
+      ],
+      "Translation": [
+        "It appears to be Wiglaf, the dancer.",
+        "\"I've been waiting for you guys,\"",
+        "she says.",
+        "[Page]",
+        "",
+        "\"Hey, is it true you took the request",
+        "to find Regine?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Answer her truthfully?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Answer her truthfully?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "\"Really... Hey, they told you, right?",
+        "How it's dangerous over there now",
+        "because of the [Enemy1:201]?",
+        "[Page]",
+        "",
+        "\"And you took it anyway... Why...?\"",
+        "The woman seems befuddled.",
+        ""
+      ],
+      "Translation": [
+        "\"Really... Hey, they told you, right?",
+        "How it's dangerous over there now",
+        "because of the [Enemy1:201]?",
+        "[Page]",
+        "",
+        "\"And you took it anyway... Why...?\"",
+        "The woman seems befuddled.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, really? Never mind, then,",
+        "I guess,\" says the woman as she",
+        "scratches her head.",
+        "[Page]",
+        "",
+        "\"But I wouldn't make any trips to the",
+        "Scarlet Pillars right now. It's not",
+        "safe with that thing on the loose.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, really? Never mind, then,",
+        "I guess,\" says the woman as she",
+        "scratches her head.",
+        "[Page]",
+        "",
+        "\"But I wouldn't make any trips to the",
+        "Scarlet Pillars right now. It's not",
+        "safe with that thing on the loose.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "\"Remember, if you go out there, you're",
+        "taking a big risk. Don't say I didn't",
+        "warn you...\"",
+        "[Page]",
+        "",
+        "With that, the woman boards her own",
+        "skyship and flies off.",
+        ""
+      ],
+      "Translation": [
+        "\"Remember, if you go out there, you're",
+        "taking a big risk. Don't say I didn't",
+        "warn you...\"",
+        "[Page]",
+        "",
+        "With that, the woman boards her own",
+        "skyship and flies off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "You think back to the request you",
+        "agreed upon to search for Regine,",
+        "the brewer.",
+        "[Page]",
+        "",
+        "It seems unfortunately likely that",
+        "she was attacked by the dragon as she",
+        "picked peaches in the Scarlet Pillars.",
+        "[Page]",
+        "",
+        "The best starting point in your search",
+        "for her may be someplace where peaches",
+        "can be found...",
+        ""
+      ],
+      "Translation": [
+        "You think back to the request you",
+        "agreed upon to search for Regine,",
+        "the brewer.",
+        "[Page]",
+        "",
+        "It seems unfortunately likely that",
+        "she was attacked by the dragon as she",
+        "picked peaches in the Scarlet Pillars.",
+        "[Page]",
+        "",
+        "The best starting point in your search",
+        "for her may be someplace where peaches",
+        "can be found...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "You look down to see a fallen skyship!",
+        ""
+      ],
+      "Translation": [
+        "You look down to see a fallen skyship!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "You quickly land and search the area.",
+        "A woman is sitting in the shadow of",
+        "the skyship's wreckage.",
+        "[Page]",
+        "",
+        "You listen to her story and find that",
+        "she is Regine, the woman you had been",
+        "searching for!",
+        "[Page]",
+        "",
+        "She seems to have injured her leg,",
+        "but is otherwise healthy.",
+        "[Page]",
+        "",
+        "According to her, she went missing",
+        "because the [Enemy1:201] attacked her",
+        "skyship, sending it plummeting...",
+        "[Page]",
+        "",
+        "You escort her onto your own skyship",
+        "and take off.",
+        ""
+      ],
+      "Translation": [
+        "You quickly land and search the area.",
+        "A woman is sitting in the shadow of",
+        "the skyship's wreckage.",
+        "[Page]",
+        "",
+        "You listen to her story and find that",
+        "she is Regine, the woman you had been",
+        "searching for!",
+        "[Page]",
+        "",
+        "She seems to have injured her leg,",
+        "but is otherwise healthy.",
+        "[Page]",
+        "",
+        "According to her, she went missing",
+        "because the [Enemy1:201] attacked her",
+        "skyship, sending it plummeting...",
+        "[Page]",
+        "",
+        "You escort her onto your own skyship",
+        "and take off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "You bring the injured Regine to the",
+        "clinic.",
+        "[Page]",
+        "",
+        "Her husband has already heard news of",
+        "her return and is waiting there. He",
+        "nods to you, ecstatic to see her safe.",
+        ""
+      ],
+      "Translation": [
+        "You bring the injured Regine to the",
+        "clinic.",
+        "[Page]",
+        "",
+        "Her husband has already heard news of",
+        "her return and is waiting there. He",
+        "nods to you, ecstatic to see her safe.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "\"Welcome back. You guys got Ms. Regine",
+        "back to Tharsis, huh?\" Oddly enough,",
+        "Wiglaf is standing outside the clinic.",
+        "[Page]",
+        "",
+        "\"Um... It's partly my fault she didn't",
+        "come back.",
+        "[Page]",
+        "",
+        "\"Word had been going around that the",
+        "[Enemy1:201] was showing up there,",
+        "and she... asked me to escort her.",
+        "[Page]",
+        "",
+        "\"But I refused. Come on, the lightning",
+        "dragon? That's ridiculous.",
+        "[Page]",
+        "",
+        "\"It's way out of my league. Out of",
+        "everyone's!",
+        "[Page]",
+        "",
+        "\"I assumed she'd give up when I turned",
+        "her down, but she went out by herself",
+        "without telling anyone.",
+        "[Page]",
+        "",
+        "\"Ms. Regine just got married and they",
+        "already have a little kid, so I don't",
+        "know what she was thinking...\"",
+        ""
+      ],
+      "Translation": [
+        "\"Welcome back. You guys got Ms. Regine",
+        "back to Tharsis, huh?\" Oddly enough,",
+        "Wiglaf is standing outside the clinic.",
+        "[Page]",
+        "",
+        "\"Um... It's partly my fault she didn't",
+        "come back.",
+        "[Page]",
+        "",
+        "\"Word had been going around that the",
+        "[Enemy1:201] was showing up there,",
+        "and she... asked me to escort her.",
+        "[Page]",
+        "",
+        "\"But I refused. Come on, the lightning",
+        "dragon? That's ridiculous.",
+        "[Page]",
+        "",
+        "\"It's way out of my league. Out of",
+        "everyone's!",
+        "[Page]",
+        "",
+        "\"I assumed she'd give up when I turned",
+        "her down, but she went out by herself",
+        "without telling anyone.",
+        "[Page]",
+        "",
+        "\"Ms. Regine just got married and they",
+        "already have a little kid, so I don't",
+        "know what she was thinking...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "After she grumbles for a moment, her",
+        "face turns red with embarrassment and",
+        "she walks off.",
+        "[Page]",
+        "",
+        "At any rate, the request is complete.",
+        "You should return to the bar and",
+        "report your success.",
+        ""
+      ],
+      "Translation": [
+        "After she grumbles for a moment, her",
+        "face turns red with embarrassment and",
+        "she walks off.",
+        "[Page]",
+        "",
+        "At any rate, the request is complete.",
+        "You should return to the bar and",
+        "report your success.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

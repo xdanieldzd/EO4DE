@@ -1,0 +1,73 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_36",
+  "RelativePath": "Event\\Bar\\BAR_36.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You folks are the [Guild] Guild?",
+        "I'm a representative of the",
+        "Golden Lady.",
+        "[Page]",
+        "",
+        "You've been making a real name for",
+        "yourself, so I had a [Color:5]request[Color:0]. Go over",
+        "to the bar and check it out.",
+        ""
+      ],
+      "Translation": [
+        "You folks are the [Guild] Guild?",
+        "I'm a representative of the",
+        "Golden Lady.",
+        "[Page]",
+        "",
+        "You've been making a real name for",
+        "yourself, so I had a [Color:5]request[Color:0]. Go over",
+        "to the bar and check it out.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Good, you accepted the Lady's request.",
+        "I'll be glad to have you along.",
+        "[Page]",
+        "",
+        "First, you should go to the [Color:5]Golden",
+        "Deer Keep[Color:0], in the [Color:5]northwestern area",
+        "of the Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "My Lady's soldiers will be waiting",
+        "there for you. A golden deer,",
+        "though... that's not a good omen.",
+        ""
+      ],
+      "Translation": [
+        "Good, you accepted the Lady's request.",
+        "I'll be glad to have you along.",
+        "[Page]",
+        "",
+        "First, you should go to the [Color:5]Golden",
+        "Deer Keep[Color:0], in the [Color:5]northwestern area",
+        "of the Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "My Lady's soldiers will be waiting",
+        "there for you. A golden deer,",
+        "though... that's not a good omen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

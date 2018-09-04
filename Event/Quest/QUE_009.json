@@ -1,0 +1,1001 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_009",
+  "RelativePath": "Event\\Quest\\QUE_009.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, that request? It is from Dalla at",
+        "the inn, whom you know.",
+        "[Page]",
+        "",
+        "She wants this basket filled with",
+        "[Color:5]mushrooms[Color:0] from the [Color:5]Scarlet Pillars[Color:0].",
+        "I believe [Color:5]three[Color:0] would suffice?",
+        "[Page]",
+        "",
+        "Dalla's new dishes make even the",
+        "Outland Count's mouth water. A lot",
+        "rests on the completion of this task.",
+        "[Page]",
+        "",
+        "Kismet be with you, and I shall await",
+        "your swift return with a basket full",
+        "of mushrooms.",
+        ""
+      ],
+      "Translation": [
+        "Ah, that request? It is from Dalla at",
+        "the inn, whom you know.",
+        "[Page]",
+        "",
+        "She wants this basket filled with",
+        "[Color:5]mushrooms[Color:0] from the [Color:5]Scarlet Pillars[Color:0].",
+        "I believe [Color:5]three[Color:0] would suffice?",
+        "[Page]",
+        "",
+        "Dalla's new dishes make even the",
+        "Outland Count's mouth water. A lot",
+        "rests on the completion of this task.",
+        "[Page]",
+        "",
+        "Kismet be with you, and I shall await",
+        "your swift return with a basket full",
+        "of mushrooms.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I was beginning to",
+        "wonder what kept you. Here, show me",
+        "the basket.",
+        "[Page]",
+        "",
+        "Oh, what a pleasant aroma... Wait here",
+        "as I go deliver these to Dalla.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I was beginning to",
+        "wonder what kept you. Here, show me",
+        "the basket.",
+        "[Page]",
+        "",
+        "Oh, what a pleasant aroma... Wait here",
+        "as I go deliver these to Dalla.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Dalla was most grateful. I believe",
+        "she has taken notice of you now.",
+        "[Page]",
+        "",
+        "I am closing early today in order to",
+        "head to the inn's dining hall. It is",
+        "a fitting way to appreciate your work.",
+        ""
+      ],
+      "Translation": [
+        "Dalla was most grateful. I believe",
+        "she has taken notice of you now.",
+        "[Page]",
+        "",
+        "I am closing early today in order to",
+        "head to the inn's dining hall. It is",
+        "a fitting way to appreciate your work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Dalla was quite pleased. It seems",
+        "your diligence exceeded her",
+        "expectations.",
+        "[Page]",
+        "",
+        "She gave me a bonus to the reward to",
+        "pass on to you, in addition to the",
+        "storage expansion.",
+        "[Page]",
+        "",
+        "I am closing early today in order to",
+        "head to the inn's dining hall. It is",
+        "a fitting way to appreciate your work.",
+        ""
+      ],
+      "Translation": [
+        "Dalla was quite pleased. It seems",
+        "your diligence exceeded her",
+        "expectations.",
+        "[Page]",
+        "",
+        "She gave me a bonus to the reward to",
+        "pass on to you, in addition to the",
+        "storage expansion.",
+        "[Page]",
+        "",
+        "I am closing early today in order to",
+        "head to the inn's dining hall. It is",
+        "a fitting way to appreciate your work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Incredible work! Dalla said she had",
+        "never seen those mushrooms before.",
+        "She was pleasantly surprised.",
+        "[Page]",
+        "",
+        "She said that she would definitely",
+        "request your guild specifically to",
+        "gather her ingredients hereafter.",
+        "[Page]",
+        "",
+        "Dalla is a kind woman, but when it",
+        "comes to food, she is well-known to",
+        "be uncompromising.",
+        "[Page]",
+        "",
+        "Oh yes, and she added a bonus to the",
+        "reward above the storage expansion.",
+        "Wonderful work, [Guild] Guild.",
+        ""
+      ],
+      "Translation": [
+        "Incredible work! Dalla said she had",
+        "never seen those mushrooms before.",
+        "She was pleasantly surprised.",
+        "[Page]",
+        "",
+        "She said that she would definitely",
+        "request your guild specifically to",
+        "gather her ingredients hereafter.",
+        "[Page]",
+        "",
+        "Dalla is a kind woman, but when it",
+        "comes to food, she is well-known to",
+        "be uncompromising.",
+        "[Page]",
+        "",
+        "Oh yes, and she added a bonus to the",
+        "reward above the storage expansion.",
+        "Wonderful work, [Guild] Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You find a sizable mushroom. You may",
+        "put it in the basket if you wish, as",
+        "part of the request.",
+        ""
+      ],
+      "Translation": [
+        "You find a sizable mushroom. You may",
+        "put it in the basket if you wish, as",
+        "part of the request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Take the [Color:6][Number:1][Color:5]?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Take the [Color:6][Number:1][Color:5]?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Put it in the basket?[Color:0]",
+        "Take the [Color:6][Number:1][Color:0]",
+        "Take the [Color:6][Number:2][Color:0]",
+        "Take nothing",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Put it in the basket?[Color:0]",
+        "Take the [Color:6][Number:1][Color:0]",
+        "Take the [Color:6][Number:2][Color:0]",
+        "Take nothing",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to put this mushroom in",
+        "your belongings instead of in the",
+        "basket.",
+        ""
+      ],
+      "Translation": [
+        "You decide to put this mushroom in",
+        "your belongings instead of in the",
+        "basket.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You carefully place the sizable,",
+        "delicious looking mushroom into the",
+        "[Item:1442].",
+        ""
+      ],
+      "Translation": [
+        "You carefully place the sizable,",
+        "delicious looking mushroom into the",
+        "[Item:1442].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "The basket can now hold [Color:5][Number:0][Color:0] more...",
+        ""
+      ],
+      "Translation": [
+        "The basket can now hold [Color:5][Number:0][Color:0] more...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "This last mushroom fills the basket!",
+        "The request is now complete, save for",
+        "delivering the mushrooms to the bar.",
+        ""
+      ],
+      "Translation": [
+        "This last mushroom fills the basket!",
+        "The request is now complete, save for",
+        "delivering the mushrooms to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, it's yeh. The town's starting to",
+        "liven up a little!",
+        "[Page]",
+        "",
+        "I heard yeh took a request to gather",
+        "some ingredients for Dalla.",
+        "[Page]",
+        "",
+        "I know yeh're new in town, but this",
+        "one... it's a bigger responsibility",
+        "than yeh'd think.",
+        "[Page]",
+        "",
+        "Take this one seriously!",
+        ""
+      ],
+      "Translation": [
+        "Oh, it's yeh. The town's starting to",
+        "liven up a little!",
+        "[Page]",
+        "",
+        "I heard yeh took a request to gather",
+        "some ingredients for Dalla.",
+        "[Page]",
+        "",
+        "I know yeh're new in town, but this",
+        "one... it's a bigger responsibility",
+        "than yeh'd think.",
+        "[Page]",
+        "",
+        "Take this one seriously!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "What's this now? Carrying that big",
+        "basket around a labyrinth is just",
+        "asking for--",
+        "[Page]",
+        "",
+        "What!? Dalla's having you go get her",
+        "some ingredients!?",
+        "[Page]",
+        "",
+        "Then why are you wasting your time",
+        "here!? I don't care where you go,",
+        "just get going!",
+        ""
+      ],
+      "Translation": [
+        "What's this now? Carrying that big",
+        "basket around a labyrinth is just",
+        "asking for--",
+        "[Page]",
+        "",
+        "What!? Dalla's having you go get her",
+        "some ingredients!?",
+        "[Page]",
+        "",
+        "Then why are you wasting your time",
+        "here!? I don't care where you go,",
+        "just get going!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "You should know that this is a very",
+        "important request.",
+        "[Page]",
+        "",
+        "A brand new dish is at stake. We are",
+        "all counting on you.",
+        ""
+      ],
+      "Translation": [
+        "You should know that this is a very",
+        "important request.",
+        "[Page]",
+        "",
+        "A brand new dish is at stake. We are",
+        "all counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, it's da [Guild] crew! Hey, ya",
+        "took dat request from da inn, right?",
+        "How's dat coming along?",
+        "[Page]",
+        "",
+        "If it's yas doing it, that must mean",
+        "dat new dish is almost done! Aw man,",
+        "I can't wait!",
+        ""
+      ],
+      "Translation": [
+        "Oh, it's da [Guild] crew! Hey, ya",
+        "took dat request from da inn, right?",
+        "How's dat coming along?",
+        "[Page]",
+        "",
+        "If it's yas doing it, that must mean",
+        "dat new dish is almost done! Aw man,",
+        "I can't wait!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "It seems you have accepted Dalla's",
+        "request, my friends.",
+        "[Page]",
+        "",
+        "I won't say much... but I am looking",
+        "forward to good results! Now go forth!",
+        ""
+      ],
+      "Translation": [
+        "It seems you have accepted Dalla's",
+        "request, my friends.",
+        "[Page]",
+        "",
+        "I won't say much... but I am looking",
+        "forward to good results! Now go forth!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, hello, dearies. You're doing that",
+        "job I asked for? Bless you!",
+        "[Page]",
+        "",
+        "I put my heart and soul into my",
+        "cooking, so I'm counting on you to",
+        "find me some good mushrooms.",
+        ""
+      ],
+      "Translation": [
+        "Oh, hello, dearies. You're doing that",
+        "job I asked for? Bless you!",
+        "[Page]",
+        "",
+        "I put my heart and soul into my",
+        "cooking, so I'm counting on you to",
+        "find me some good mushrooms.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

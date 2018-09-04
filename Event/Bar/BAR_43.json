@@ -1,0 +1,50 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_43",
+  "RelativePath": "Event\\Bar\\BAR_43.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Hey! Hey, you guys! Do you know the",
+        "[Guild] Guild? They're this amazing",
+        "guild who conquered Yggdrasil!",
+        "[Page]",
+        "",
+        "We've heard about them all the way",
+        "out at my village, way to the south.",
+        "[Page]",
+        "",
+        "That's why I came all the way to",
+        "Tharsis! To be a pro explorer and",
+        "get even better than [Guild]!",
+        "[Page]",
+        "",
+        "Good luck to you guys, too!",
+        ""
+      ],
+      "Translation": [
+        "Hey! Hey, you guys! Do you know the",
+        "[Guild] Guild? They're this amazing",
+        "guild who conquered Yggdrasil!",
+        "[Page]",
+        "",
+        "We've heard about them all the way",
+        "out at my village, way to the south.",
+        "[Page]",
+        "",
+        "That's why I came all the way to",
+        "Tharsis! To be a pro explorer and",
+        "get even better than [Guild]!",
+        "[Page]",
+        "",
+        "Good luck to you guys, too!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

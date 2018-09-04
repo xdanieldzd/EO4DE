@@ -1,0 +1,724 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_013",
+  "RelativePath": "Event\\Quest\\QUE_013.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You intend to accept this request?",
+        "It is from the Guildmaster himself.",
+        "[Page]",
+        "",
+        "Have you heard the rumor of the [Color:5]fog[Color:0]",
+        "monster that appears on [Color:5]B1F[Color:0] of the",
+        "[Color:5]Misty Ravine[Color:0]?",
+        "[Page]",
+        "",
+        "The rumor has many people scared, and",
+        "so the Guildmaster wants you to unmask",
+        "this fog monster's true identity.",
+        "[Page]",
+        "",
+        "Reports say it appears between [Color:5]7 and",
+        "9 in the morning[Color:0]. You might learn",
+        "more by asking the Guildmaster.",
+        "[Page]",
+        "",
+        "Be careful... I have misgivings about",
+        "this one. I await your swift return",
+        "to collect the reward.",
+        ""
+      ],
+      "Translation": [
+        "You intend to accept this request?",
+        "It is from the Guildmaster himself.",
+        "[Page]",
+        "",
+        "Have you heard the rumor of the [Color:5]fog[Color:0]",
+        "monster that appears on [Color:5]B1F[Color:0] of the",
+        "[Color:5]Misty Ravine[Color:0]?",
+        "[Page]",
+        "",
+        "The rumor has many people scared, and",
+        "so the Guildmaster wants you to unmask",
+        "this fog monster's true identity.",
+        "[Page]",
+        "",
+        "Reports say it appears between [Color:5]7 and",
+        "9 in the morning[Color:0]. You might learn",
+        "more by asking the Guildmaster.",
+        "[Page]",
+        "",
+        "Be careful... I have misgivings about",
+        "this one. I await your swift return",
+        "to collect the reward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I am very glad to see",
+        "that you are with us safely again.",
+        "I was worried.",
+        "[Page]",
+        "",
+        "But you seem to be taking it all in",
+        "stride. Let me see this report...",
+        "[Page]",
+        "",
+        "What!? The \"fog monster\" was nothing",
+        "but a natural phenomenon!? Then I",
+        "was worried for nothing.",
+        "[Page]",
+        "",
+        "It seems this dread was all simply",
+        "fear of the unknown...",
+        "[Page]",
+        "",
+        "Oh yes, the Guildmaster mentioned one",
+        "more reward he wanted to give you",
+        "directly at the [Color:5]Explorers Guild[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I am very glad to see",
+        "that you are with us safely again.",
+        "I was worried.",
+        "[Page]",
+        "",
+        "But you seem to be taking it all in",
+        "stride. Let me see this report...",
+        "[Page]",
+        "",
+        "What!? The \"fog monster\" was nothing",
+        "but a natural phenomenon!? Then I",
+        "was worried for nothing.",
+        "[Page]",
+        "",
+        "It seems this dread was all simply",
+        "fear of the unknown...",
+        "[Page]",
+        "",
+        "Oh yes, the Guildmaster mentioned one",
+        "more reward he wanted to give you",
+        "directly at the [Color:5]Explorers Guild[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "The [Color:5]Misty Ravine[Color:0] fog monster? Not you",
+        "too... I don't know what it is, but",
+        "you can get through by--",
+        "[Page]",
+        "",
+        "What? You're going to defeat it? Oh,",
+        "it was you who accepted my request?",
+        "Haha, why didn't you say so?",
+        "[Page]",
+        "",
+        "All I've heard says this monster shows",
+        "up from [Color:5]7 to 9 in the morning[Color:0] at the",
+        "[Color:5]eastern dead end[Color:0].",
+        "[Page]",
+        "",
+        "Now hurry up and get going. I'll be",
+        "waiting for you to come back with that",
+        "monster's head as a gift.",
+        ""
+      ],
+      "Translation": [
+        "The [Color:5]Misty Ravine[Color:0] fog monster? Not you",
+        "too... I don't know what it is, but",
+        "you can get through by--",
+        "[Page]",
+        "",
+        "What? You're going to defeat it? Oh,",
+        "it was you who accepted my request?",
+        "Haha, why didn't you say so?",
+        "[Page]",
+        "",
+        "All I've heard says this monster shows",
+        "up from [Color:5]7 to 9 in the morning[Color:0] at the",
+        "[Color:5]eastern dead end[Color:0].",
+        "[Page]",
+        "",
+        "Now hurry up and get going. I'll be",
+        "waiting for you to come back with that",
+        "monster's head as a gift.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "The monster's been seen from [Color:5]7 to 9",
+        "in the morning[Color:0], usually at the dead",
+        "end on B1F of the Misty Ravine.",
+        ""
+      ],
+      "Translation": [
+        "The monster's been seen from [Color:5]7 to 9",
+        "in the morning[Color:0], usually at the dead",
+        "end on B1F of the Misty Ravine.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You made it back. So, how was your",
+        "thrilling encounter with the fog",
+        "monster?",
+        "[Page]",
+        "",
+        "What? It was just a trick of nature?",
+        "Heh, sounds like you dodged a bullet.",
+        "But that's the labyrinth for you.",
+        "[Page]",
+        "",
+        "No need to feel down, though. It was",
+        "your courage and curiosity that",
+        "\"killed\" the ghost.",
+        ""
+      ],
+      "Translation": [
+        "You made it back. So, how was your",
+        "thrilling encounter with the fog",
+        "monster?",
+        "[Page]",
+        "",
+        "What? It was just a trick of nature?",
+        "Heh, sounds like you dodged a bullet.",
+        "But that's the labyrinth for you.",
+        "[Page]",
+        "",
+        "No need to feel down, though. It was",
+        "your courage and curiosity that",
+        "\"killed\" the ghost.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk down the path covered in",
+        "morning mist, you notice something",
+        "strange at the far end.",
+        "[Page]",
+        "",
+        "In the thick fog stands a large,",
+        "shadowy figure with seven colored",
+        "rings!",
+        "[Page]",
+        "",
+        "This shadowy thing must be the fog",
+        "monster you have heard rumors of...",
+        "[Page]",
+        "",
+        "But you do not detect any threat from",
+        "the shadow. It merely stands before",
+        "you ominously.",
+        "[Page]",
+        "",
+        "If you mean to fulfill the request,",
+        "you must shake off your fear and",
+        "approach the monster.",
+        ""
+      ],
+      "Translation": [
+        "As you walk down the path covered in",
+        "morning mist, you notice something",
+        "strange at the far end.",
+        "[Page]",
+        "",
+        "In the thick fog stands a large,",
+        "shadowy figure with seven colored",
+        "rings!",
+        "[Page]",
+        "",
+        "This shadowy thing must be the fog",
+        "monster you have heard rumors of...",
+        "[Page]",
+        "",
+        "But you do not detect any threat from",
+        "the shadow. It merely stands before",
+        "you ominously.",
+        "[Page]",
+        "",
+        "If you mean to fulfill the request,",
+        "you must shake off your fear and",
+        "approach the monster.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "After screwing up your courage and",
+        "closing in on the shadow, you learn",
+        "the astonishing truth!",
+        "[Page]",
+        "",
+        "The shadow is no monster at all!",
+        "It is the light piercing the fog,",
+        "casting shadows of yourselves!",
+        "[Page]",
+        "",
+        "After breathing a sigh of relief to",
+        "know the truth, you begin to write",
+        "down your account of the phenomenon.",
+        "[Page]",
+        "",
+        "With the request complete, you laugh",
+        "at how frightened you were only",
+        "minutes previous and then leave.",
+        ""
+      ],
+      "Translation": [
+        "After screwing up your courage and",
+        "closing in on the shadow, you learn",
+        "the astonishing truth!",
+        "[Page]",
+        "",
+        "The shadow is no monster at all!",
+        "It is the light piercing the fog,",
+        "casting shadows of yourselves!",
+        "[Page]",
+        "",
+        "After breathing a sigh of relief to",
+        "know the truth, you begin to write",
+        "down your account of the phenomenon.",
+        "[Page]",
+        "",
+        "With the request complete, you laugh",
+        "at how frightened you were only",
+        "minutes previous and then leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the dead end where a",
+        "light fog covers the greenery.",
+        "[Page]",
+        "",
+        "You wouldn't mind taking a break here,",
+        "where the air is filled with a spring",
+        "green scent.",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the dead end where a",
+        "light fog covers the greenery.",
+        "[Page]",
+        "",
+        "You wouldn't mind taking a break here,",
+        "where the air is filled with a spring",
+        "green scent.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Take a deep breath?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Take a deep breath?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "After inhaling the fresh air, you",
+        "resume your journey with lightened",
+        "steps.",
+        ""
+      ],
+      "Translation": [
+        "After inhaling the fresh air, you",
+        "resume your journey with lightened",
+        "steps.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 10 TP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 10 TP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "You leave the area and continue with",
+        "your explorations.",
+        ""
+      ],
+      "Translation": [
+        "You leave the area and continue with",
+        "your explorations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

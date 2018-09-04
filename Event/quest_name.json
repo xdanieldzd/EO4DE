@@ -1,0 +1,1537 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Quest names",
+  "RelativePath": "Event\\quest_name.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Debug quest",
+        ""
+      ],
+      "Translation": [
+        "Debug quest",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Supply request",
+        ""
+      ],
+      "Translation": [
+        "Supply request",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Atelier request",
+        ""
+      ],
+      "Translation": [
+        "Atelier request",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Defeat a violent baboon!",
+        ""
+      ],
+      "Translation": [
+        "Defeat a violent baboon!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Culantro, please",
+        ""
+      ],
+      "Translation": [
+        "Culantro, please",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Atelier request II",
+        ""
+      ],
+      "Translation": [
+        "Atelier request II",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Hole-y terror",
+        ""
+      ],
+      "Translation": [
+        "Hole-y terror",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Treasure on my mind",
+        ""
+      ],
+      "Translation": [
+        "Treasure on my mind",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Lost: one ring",
+        ""
+      ],
+      "Translation": [
+        "Lost: one ring",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Shroom at the inn",
+        ""
+      ],
+      "Translation": [
+        "Shroom at the inn",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "A storied book",
+        ""
+      ],
+      "Translation": [
+        "A storied book",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Small flowers needed!",
+        ""
+      ],
+      "Translation": [
+        "Small flowers needed!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Poison blossom?",
+        ""
+      ],
+      "Translation": [
+        "Poison blossom?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Mist monster",
+        ""
+      ],
+      "Translation": [
+        "Mist monster",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Moth eggs",
+        ""
+      ],
+      "Translation": [
+        "Moth eggs",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Slay the illusionist!",
+        ""
+      ],
+      "Translation": [
+        "Slay the illusionist!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Missing person",
+        ""
+      ],
+      "Translation": [
+        "Missing person",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Atelier request III",
+        ""
+      ],
+      "Translation": [
+        "Atelier request III",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Appled sciences",
+        ""
+      ],
+      "Translation": [
+        "Appled sciences",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Curry courier",
+        ""
+      ],
+      "Translation": [
+        "Curry courier",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "What's that rock?",
+        ""
+      ],
+      "Translation": [
+        "What's that rock?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Bring me an Ice Stone!",
+        ""
+      ],
+      "Translation": [
+        "Bring me an Ice Stone!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Medicinal poison?",
+        ""
+      ],
+      "Translation": [
+        "Medicinal poison?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Rise of the baboons",
+        ""
+      ],
+      "Translation": [
+        "Rise of the baboons",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Fungus in the fire",
+        ""
+      ],
+      "Translation": [
+        "Fungus in the fire",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Deliver perpetual ice",
+        ""
+      ],
+      "Translation": [
+        "Deliver perpetual ice",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Volt research",
+        ""
+      ],
+      "Translation": [
+        "Volt research",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Learnin' on a fish",
+        ""
+      ],
+      "Translation": [
+        "Learnin' on a fish",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Mission from the Count",
+        ""
+      ],
+      "Translation": [
+        "Mission from the Count",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Forbidden wisdom",
+        ""
+      ],
+      "Translation": [
+        "Forbidden wisdom",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Skyship materials",
+        ""
+      ],
+      "Translation": [
+        "Skyship materials",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Do fairies exist?",
+        ""
+      ],
+      "Translation": [
+        "Do fairies exist?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Wind resistance",
+        ""
+      ],
+      "Translation": [
+        "Wind resistance",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Golden Deer hunt",
+        ""
+      ],
+      "Translation": [
+        "Golden Deer hunt",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Origin research",
+        ""
+      ],
+      "Translation": [
+        "Origin research",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Preserved by ice",
+        ""
+      ],
+      "Translation": [
+        "Preserved by ice",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Key for the Capital",
+        ""
+      ],
+      "Translation": [
+        "Key for the Capital",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Revival of the leviathan",
+        ""
+      ],
+      "Translation": [
+        "Revival of the leviathan",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Innkeeper's dilemma",
+        ""
+      ],
+      "Translation": [
+        "Innkeeper's dilemma",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Legendary cuisine",
+        ""
+      ],
+      "Translation": [
+        "Legendary cuisine",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "The ominous gale",
+        ""
+      ],
+      "Translation": [
+        "The ominous gale",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Investigational support",
+        ""
+      ],
+      "Translation": [
+        "Investigational support",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "The Outland Count's task",
+        ""
+      ],
+      "Translation": [
+        "The Outland Count's task",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Find the headwaters",
+        ""
+      ],
+      "Translation": [
+        "Find the headwaters",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "Headwaters, continued",
+        ""
+      ],
+      "Translation": [
+        "Headwaters, continued",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "Slime mold of the gods",
+        ""
+      ],
+      "Translation": [
+        "Slime mold of the gods",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "Please find Snow Garden",
+        ""
+      ],
+      "Translation": [
+        "Please find Snow Garden",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "[Item:1022] seeker",
+        ""
+      ],
+      "Translation": [
+        "[Item:1022] seeker",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "Find the demonic voice",
+        ""
+      ],
+      "Translation": [
+        "Find the demonic voice",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "An Imperial mystery",
+        ""
+      ],
+      "Translation": [
+        "An Imperial mystery",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Water Mark reaction",
+        ""
+      ],
+      "Translation": [
+        "Water Mark reaction",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Find the Fire Mark",
+        ""
+      ],
+      "Translation": [
+        "Find the Fire Mark",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "A new Mark",
+        ""
+      ],
+      "Translation": [
+        "A new Mark",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Where is the last Mark?",
+        ""
+      ],
+      "Translation": [
+        "Where is the last Mark?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "A legendary force",
+        ""
+      ],
+      "Translation": [
+        "A legendary force",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": true,
+      "Original": [
+        "QRに移動",
+        ""
+      ],
+      "Translation": [
+        "QRに移動",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "Fire tyrant's garden",
+        ""
+      ],
+      "Translation": [
+        "Fire tyrant's garden",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "Bring down the fire",
+        ""
+      ],
+      "Translation": [
+        "Bring down the fire",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "Lady and the dragon",
+        ""
+      ],
+      "Translation": [
+        "Lady and the dragon",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "Battle against the storm",
+        ""
+      ],
+      "Translation": [
+        "Battle against the storm",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "Miracle of the ice field",
+        ""
+      ],
+      "Translation": [
+        "Miracle of the ice field",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": false,
+      "Original": [
+        "Battle the Blizzard King",
+        ""
+      ],
+      "Translation": [
+        "Battle the Blizzard King",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "Defeat the Fallen One",
+        ""
+      ],
+      "Translation": [
+        "Defeat the Fallen One",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": true,
+      "Original": [
+        "未実装",
+        ""
+      ],
+      "Translation": [
+        "未実装",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": true,
+      "Original": [
+        "[Quest]",
+        ""
+      ],
+      "Translation": [
+        "[Quest]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

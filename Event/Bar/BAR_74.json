@@ -1,0 +1,452 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_74",
+  "RelativePath": "Event\\Bar\\BAR_74.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, you must be with that [Guild]",
+        "Guild who took my request. This",
+        "city's watering hole is pretty nice!",
+        "[Page]",
+        "",
+        "So tell me, you know anything about",
+        "us farming explorers?",
+        ""
+      ],
+      "Translation": [
+        "Ah, you must be with that [Guild]",
+        "Guild who took my request. This",
+        "city's watering hole is pretty nice!",
+        "[Page]",
+        "",
+        "So tell me, you know anything about",
+        "us farming explorers?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you know of them?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you know of them?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Everyone all over the world wants to",
+        "strike it rich by exploring dungeons.",
+        "[Page]",
+        "",
+        "Not us, though. We make our living",
+        "through steady farming, not that get-",
+        "rich-quick stuff. Pleased to meet you.",
+        ""
+      ],
+      "Translation": [
+        "Everyone all over the world wants to",
+        "strike it rich by exploring dungeons.",
+        "[Page]",
+        "",
+        "Not us, though. We make our living",
+        "through steady farming, not that get-",
+        "rich-quick stuff. Pleased to meet you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You're well informed! That'll make my",
+        "request easier to explain.",
+        ""
+      ],
+      "Translation": [
+        "You're well informed! That'll make my",
+        "request easier to explain.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "I work in agriculture. I raise and",
+        "sell livestock.",
+        "[Page]",
+        "",
+        "The animals are one thing a man in",
+        "my line's gotta have, but they're not",
+        "the only thing. Know what I mean?",
+        ""
+      ],
+      "Translation": [
+        "I work in agriculture. I raise and",
+        "sell livestock.",
+        "[Page]",
+        "",
+        "The animals are one thing a man in",
+        "my line's gotta have, but they're not",
+        "the only thing. Know what I mean?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you know?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you know?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Very good. That's right, I'm talking",
+        "about the feed. You have to have good",
+        "[Color:5]food[Color:0] to grow healthy animals.",
+        ""
+      ],
+      "Translation": [
+        "Very good. That's right, I'm talking",
+        "about the feed. You have to have good",
+        "[Color:5]food[Color:0] to grow healthy animals.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Whether for people or livestock,",
+        "[Color:5]food[Color:0] makes the world go round.",
+        ""
+      ],
+      "Translation": [
+        "Whether for people or livestock,",
+        "[Color:5]food[Color:0] makes the world go round.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "High-quality feed keeps the animals",
+        "healthy and we reap the benefits of",
+        "that. Good feed is life itself.",
+        "[Page]",
+        "",
+        "Now I've heard that here in the [Color:5]Windy",
+        "Plains[Color:0] are the [Color:5]Finest Plains[Color:0], where",
+        "the best feed can be found.",
+        "[Page]",
+        "",
+        "But we farmers aren't cut out for",
+        "fighting monsters. So I'd like you",
+        "to find these Finest Plains for me.",
+        "[Page]",
+        "",
+        "Rumor is that they're somewhere in",
+        "the [Color:5]southwest[Color:0] of the Windy Plains.",
+        "All right, then! Good luck!",
+        ""
+      ],
+      "Translation": [
+        "High-quality feed keeps the animals",
+        "healthy and we reap the benefits of",
+        "that. Good feed is life itself.",
+        "[Page]",
+        "",
+        "Now I've heard that here in the [Color:5]Windy",
+        "Plains[Color:0] are the [Color:5]Finest Plains[Color:0], where",
+        "the best feed can be found.",
+        "[Page]",
+        "",
+        "But we farmers aren't cut out for",
+        "fighting monsters. So I'd like you",
+        "to find these Finest Plains for me.",
+        "[Page]",
+        "",
+        "Rumor is that they're somewhere in",
+        "the [Color:5]southwest[Color:0] of the Windy Plains.",
+        "All right, then! Good luck!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, the [Guild] Guild. How goes",
+        "the search? Find those Finest Plains?",
+        ""
+      ],
+      "Translation": [
+        "Ah, the [Guild] Guild. How goes",
+        "the search? Find those Finest Plains?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Have you found them?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Have you found them?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "That's fine. I'm in no rush. Just a",
+        "little curious why you came in to",
+        "tell me you haven't found them yet...",
+        ""
+      ],
+      "Translation": [
+        "That's fine. I'm in no rush. Just a",
+        "little curious why you came in to",
+        "tell me you haven't found them yet...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... Well, I'm not too up on the",
+        "lay of the land here, so I can only",
+        "tell you what I've heard...",
+        "[Page]",
+        "",
+        "And the rumor is that it's somewhere",
+        "to the [Color:5]southwest[Color:0] in the Windy Plains.",
+        ""
+      ],
+      "Translation": [
+        "Hmm... Well, I'm not too up on the",
+        "lay of the land here, so I can only",
+        "tell you what I've heard...",
+        "[Page]",
+        "",
+        "And the rumor is that it's somewhere",
+        "to the [Color:5]southwest[Color:0] in the Windy Plains.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Oh yeah? Do tell...",
+        ""
+      ],
+      "Translation": [
+        "Oh yeah? Do tell...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Huh... So that's where the Finest",
+        "Plains are? Okay... Think I'll head",
+        "out there right now.",
+        ""
+      ],
+      "Translation": [
+        "Huh... So that's where the Finest",
+        "Plains are? Okay... Think I'll head",
+        "out there right now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "I'm back... It was the damndest thing.",
+        "I didn't see anything like the Finest",
+        "Plains where you told me to go.",
+        "[Page]",
+        "",
+        "Hey, it was no laughing matter!",
+        "I nearly became monster feed myself.",
+        "[Page]",
+        "",
+        "Which is strange, since I put in this",
+        "request since I'm no good at fighting.",
+        "Wonder how that happened...?",
+        ""
+      ],
+      "Translation": [
+        "I'm back... It was the damndest thing.",
+        "I didn't see anything like the Finest",
+        "Plains where you told me to go.",
+        "[Page]",
+        "",
+        "Hey, it was no laughing matter!",
+        "I nearly became monster feed myself.",
+        "[Page]",
+        "",
+        "Which is strange, since I put in this",
+        "request since I'm no good at fighting.",
+        "Wonder how that happened...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "I'm back! That was a fine job you did!",
+        "Gotta love the explorers of Tharsis!",
+        "[Page]",
+        "",
+        "The Finest Plains I dreamed of were",
+        "smack dab where you said! That feed",
+        "will make my livestock second to none!",
+        "[Page]",
+        "",
+        "Thanks, everyone! I already left a",
+        "reward with Ms. Kirtida for you to",
+        "claim whenever.",
+        ""
+      ],
+      "Translation": [
+        "I'm back! That was a fine job you did!",
+        "Gotta love the explorers of Tharsis!",
+        "[Page]",
+        "",
+        "The Finest Plains I dreamed of were",
+        "smack dab where you said! That feed",
+        "will make my livestock second to none!",
+        "[Page]",
+        "",
+        "Thanks, everyone! I already left a",
+        "reward with Ms. Kirtida for you to",
+        "claim whenever.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "I oughtta send for the rest of my",
+        "guild, tell them to come here to",
+        "Tharsis.",
+        "[Page]",
+        "",
+        "If we send a gathering team out every",
+        "few days, we'll be swimming in dough!",
+        ""
+      ],
+      "Translation": [
+        "I oughtta send for the rest of my",
+        "guild, tell them to come here to",
+        "Tharsis.",
+        "[Page]",
+        "",
+        "If we send a gathering team out every",
+        "few days, we'll be swimming in dough!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

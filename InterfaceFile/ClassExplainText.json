@@ -1,0 +1,306 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Class descriptions",
+  "RelativePath": "InterfaceFile\\ClassExplainText.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:2]Swordsmen skilled at",
+        "melee attacks with",
+        "swords or rapiers.",
+        "They take the lead,",
+        "raising the rest of",
+        "the party's morale.",
+        "[Color:6]Heavy melee attackers",
+        "on the front line.",
+        ""
+      ],
+      "Translation": [
+        "[Color:2]Erfahren im Umgang",
+        "mit Schwertern und",
+        "Rapieren. Sie über-",
+        "nehmen die Führung",
+        "und heben die Moral",
+        "der Truppe.",
+        "[Color:6]Starke Nahkämpfer",
+        "in der vorderen Reihe.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:2]A class that weakens",
+        "enemies at a distance",
+        "from the shadows with",
+        "throwing knives, or",
+        "uses two blades to",
+        "go in for the kill.",
+        "[Color:6]Special attackers who",
+        "work on either line.",
+        ""
+      ],
+      "Translation": [
+        "[Color:2]Schwächen Feinde aus",
+        "dem Schatten heraus",
+        "mit Wurfmessern,",
+        "oder schalten sie",
+        "schnell mit zwei",
+        "Schwertern aus.",
+        "[Color:6]Spezieller Angreifer",
+        "für beide Reihen.",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung für \"Spezieller Angreifer\"?"
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:2]This class uses its",
+        "heavy armor to act as",
+        "the party's shield.",
+        "Their mace attacks",
+        "give them offensive",
+        "heft as well.",
+        "[Color:6]Defense specialists",
+        "on either line.",
+        ""
+      ],
+      "Translation": [
+        "[Color:2]Fungieren mit ihrer",
+        "schweren Rüstung als",
+        "Schild der Truppe.",
+        "Keulenangriffe geben",
+        "auch offensive",
+        "Stärke.",
+        "[Color:6]Verteidigungsstark",
+        "in beiden Reihen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:2]They pick off enemies",
+        "from a distance with",
+        "their bows. They can",
+        "accurately hit enemy",
+        "weaknesses, thereby",
+        "binding body parts.",
+        "[Color:6]Ranged attackers who",
+        "work on the back line.",
+        ""
+      ],
+      "Translation": [
+        "[Color:2]Erledigen Feinde aus",
+        "der Distanz mit Pfeil",
+        "und Bogen. Können",
+        "Schwachstellen präzise",
+        "treffen um Körperteile",
+        "zu Versiegeln.",
+        "[Color:6]Distanzangreifer für",
+        "die hintere Reihe.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:2]Healers that treat the",
+        "party's wounds. Their",
+        "knowledge of anatomy",
+        "and biology assists in",
+        "disabling your foes.",
+        "[Color:6]Healing specialists",
+        "on either line.",
+        ""
+      ],
+      "Translation": [
+        "Versorgen Wunden der",
+        "Gruppe. Ihre Kenntnisse",
+        "der Anatomie und Bio-",
+        "logie helfen beim",
+        "Lähmen von Feinden.",
+        "[Color:6]Spezialisten der Heilung",
+        "für beide Reihen.",
+        ""
+      ],
+      "Notes": [
+        "Overflow?"
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:2]They control elements",
+        "in the air using runes",
+        "as a catalyst, which",
+        "is highly effective",
+        "against enemies that",
+        "resist normal attacks.",
+        "[Color:6]Elemental attackers",
+        "of the back line.",
+        ""
+      ],
+      "Translation": [
+        "Verwenden Runen als",
+        "Katalysator um die",
+        "Elemente zu steuern.",
+        "Sehr effektiv gegen",
+        "Feinde, die normalen",
+        "Attacken widerstehen.",
+        "[Color:6]Elementarangreifer",
+        "in der hinteren Reihe.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:2]Not only can they",
+        "assist or heal allies",
+        "on their line, their",
+        "sword dances are",
+        "deadly to behold.",
+        "[Color:6]Handles attacks and",
+        "support in the front.",
+        ""
+      ],
+      "Translation": [
+        "Unterstützen und",
+        "heilen die eigene",
+        "Reihe, beherrschen",
+        "aber auch tödliche",
+        "Schwerttänze.",
+        "[Color:6]Angriff und Unter-",
+        "stützung vorne.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:2]A race of casters",
+        "from unnamed lands.",
+        "Their circles inflict",
+        "crippling effects,",
+        "and can be released",
+        "to attack or heal.",
+        "[Color:6]Weakening specialists",
+        "on the back line.",
+        ""
+      ],
+      "Translation": [
+        "Hexer aus einem",
+        "namenlosen Land.",
+        "Ihre Zirkel schwächen",
+        "Gegner und können",
+        "für Angriff oder",
+        "Heilung gelöst werden.",
+        "[Color:6]Wirken aus der",
+        "hinteren Reihe.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:2]A warrior race that's",
+        "comfortable with a mace",
+        "or katana. They can",
+        "enter Blood Surge to",
+        "sacrifice their health",
+        "for more power.",
+        "[Color:6]Vigorous attackers",
+        "on the front line.",
+        ""
+      ],
+      "Translation": [
+        "Kriegerrasse geübt mit",
+        "Keulen und Katanas.",
+        "Im Blutrausch können",
+        "sie ihre Lebensenergie",
+        "für mehr Angriffs-",
+        "kraft opfern.",
+        "[Color:6]Kraftvolle Angreifer",
+        "in der vorderen Reihe.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:2]Loyal knights who use",
+        "a unique drive blade.",
+        "Attacks with it can be",
+        "devastating, but place",
+        "a heavy burden on its",
+        "inner workings.",
+        "[Color:6]Front-line elemental",
+        "melee fighters.",
+        ""
+      ],
+      "Translation": [
+        "Loyale Ritter die",
+        "Antriebsklingen ver-",
+        "wenden. Angriffe sind",
+        "verheerend - für Gegner",
+        "und die Mechanik der",
+        "Klinge gleichermaßen.",
+        "[Color:6]Elementare Nahkämpfer",
+        "der vorderen Reihe.",
+        ""
+      ],
+      "Notes": [
+        "Overflow?"
+      ]
+    }
+  ]
+}

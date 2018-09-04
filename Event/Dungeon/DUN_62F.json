@@ -1,0 +1,413 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_62F",
+  "RelativePath": "Event\\Dungeon\\DUN_62F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "As you enter a hall at the end of",
+        "this path, you witness a Sentinel",
+        "locked in combat with monsters!",
+        ""
+      ],
+      "Translation": [
+        "As you enter a hall at the end of",
+        "this path, you witness a Sentinel",
+        "locked in combat with monsters!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "\"Nrgh...!\"",
+        "[Page]",
+        "",
+        "The Sentinel desperately swings at",
+        "the beasts, but he is overwhelmed",
+        "and outnumbered!",
+        "[Page]",
+        "",
+        "You wish to aid the Sentinel, but if",
+        "they are too much for this warrior,",
+        "you may stand no chance yourself...",
+        ""
+      ],
+      "Translation": [
+        "\"Nrgh...!\"",
+        "[Page]",
+        "",
+        "The Sentinel desperately swings at",
+        "the beasts, but he is overwhelmed",
+        "and outnumbered!",
+        "[Page]",
+        "",
+        "You wish to aid the Sentinel, but if",
+        "they are too much for this warrior,",
+        "you may stand no chance yourself...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Aid the Sentinel?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Aid the Sentinel?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You decide that you cannot turn your",
+        "back on the Sentinel... You draw",
+        "your weapons and charge forward!",
+        ""
+      ],
+      "Translation": [
+        "You decide that you cannot turn your",
+        "back on the Sentinel... You draw",
+        "your weapons and charge forward!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You try and leave quietly, but",
+        "[Character:0] accidentally steps on",
+        "a branch!",
+        "[Page]",
+        "",
+        "The sound does not escape the",
+        "monsters' notice! They rush in to",
+        "attack you from behind!",
+        ""
+      ],
+      "Translation": [
+        "You try and leave quietly, but",
+        "[Character:0] accidentally steps on",
+        "a branch!",
+        "[Page]",
+        "",
+        "The sound does not escape the",
+        "monsters' notice! They rush in to",
+        "attack you from behind!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "After successfully slaying the horde",
+        "of monsters, the Sentinel approaches",
+        "your party.",
+        ""
+      ],
+      "Translation": [
+        "After successfully slaying the horde",
+        "of monsters, the Sentinel approaches",
+        "your party.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "\"Friends from a foreign land, I am in",
+        "your debt. I came for the bark that",
+        "grows here, but... Well, you saw.",
+        "[Page]",
+        "",
+        "\"Fortunately, with your help, I have",
+        "lived through the crisis. From the",
+        "bottom of my heart, I thank you.",
+        "[Page]",
+        "",
+        "\"It may not be much, but I would like",
+        "you to have this.\" The Sentinel gives",
+        "you a handful of red fruits.",
+        "[Page]",
+        "",
+        "\"I picked these at the cul-de-sac",
+        "ahead. We Sentinels love them...",
+        "they are very nutritious.\"",
+        "[Page]",
+        "",
+        "When you have a taste of the fruit,",
+        "it is delicious! Your exhaustion from",
+        "the recent battle fades away.",
+        ""
+      ],
+      "Translation": [
+        "\"Friends from a foreign land, I am in",
+        "your debt. I came for the bark that",
+        "grows here, but... Well, you saw.",
+        "[Page]",
+        "",
+        "\"Fortunately, with your help, I have",
+        "lived through the crisis. From the",
+        "bottom of my heart, I thank you.",
+        "[Page]",
+        "",
+        "\"It may not be much, but I would like",
+        "you to have this.\" The Sentinel gives",
+        "you a handful of red fruits.",
+        "[Page]",
+        "",
+        "\"I picked these at the cul-de-sac",
+        "ahead. We Sentinels love them...",
+        "they are very nutritious.\"",
+        "[Page]",
+        "",
+        "When you have a taste of the fruit,",
+        "it is delicious! Your exhaustion from",
+        "the recent battle fades away.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 80 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 80 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "\"Well, I should be going.\" With a",
+        "grateful nod, the Sentinel leaves.",
+        "You decide to resume your own search.",
+        ""
+      ],
+      "Translation": [
+        "\"Well, I should be going.\" With a",
+        "grateful nod, the Sentinel leaves.",
+        "You decide to resume your own search.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the cul-de-sac that the",
+        "rescued Sentinel told you about.",
+        "[Page]",
+        "",
+        "There, growing on the rock's surface,",
+        "are the strawberry-like fruits, just",
+        "as he told you...",
+        "[Page]",
+        "",
+        "You know from experience that these",
+        "fruits are highly nutritious. They",
+        "are here for the taking...",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the cul-de-sac that the",
+        "rescued Sentinel told you about.",
+        "[Page]",
+        "",
+        "There, growing on the rock's surface,",
+        "are the strawberry-like fruits, just",
+        "as he told you...",
+        "[Page]",
+        "",
+        "You know from experience that these",
+        "fruits are highly nutritious. They",
+        "are here for the taking...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "There, growing on the rock's surface,",
+        "are the strawberry-like fruits, just",
+        "as he told you...",
+        "[Page]",
+        "",
+        "You know from experience that these",
+        "fruits are highly nutritious. They",
+        "are here for the taking...",
+        ""
+      ],
+      "Translation": [
+        "There, growing on the rock's surface,",
+        "are the strawberry-like fruits, just",
+        "as he told you...",
+        "[Page]",
+        "",
+        "You know from experience that these",
+        "fruits are highly nutritious. They",
+        "are here for the taking...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Eat the fruit?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Eat the fruit?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will eat it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will eat it?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] picks one of the small",
+        "fruits growing on the rock's surface",
+        "and takes a bite.",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] picks one of the small",
+        "fruits growing on the rock's surface",
+        "and takes a bite.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] recovers 80 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] recovers 80 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You go back the way you came in order",
+        "to resume your explorations.",
+        ""
+      ],
+      "Translation": [
+        "You go back the way you came in order",
+        "to resume your explorations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "You elect not to eat the fruit and",
+        "head back the way you came.",
+        ""
+      ],
+      "Translation": [
+        "You elect not to eat the fruit and",
+        "head back the way you came.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

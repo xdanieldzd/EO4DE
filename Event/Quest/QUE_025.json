@@ -1,0 +1,1091 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_025",
+  "RelativePath": "Event\\Quest\\QUE_025.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request is from a Vessel. It says",
+        "it wants the champion of the alliance",
+        "with the Vessels to fetch something.",
+        "[Page]",
+        "",
+        "It specifically requests ice that can",
+        "be found in the [Color:5]Underground Lake[Color:0].",
+        "Could you take on this duty?",
+        "[Page]",
+        "",
+        "Oh, you'll need this. It's a leather",
+        "bag designed to keep ice frozen for",
+        "[Color:5]six hours[Color:0].",
+        "[Page]",
+        "",
+        "Perhaps if you are successful with",
+        "this request, it will improve Tharsis'",
+        "standing in the eyes of the Vessels.",
+        "[Page]",
+        "",
+        "Try not to make too many mistakes",
+        "where they are concerned, [Guild]",
+        "Guild.",
+        ""
+      ],
+      "Translation": [
+        "That request is from a Vessel. It says",
+        "it wants the champion of the alliance",
+        "with the Vessels to fetch something.",
+        "[Page]",
+        "",
+        "It specifically requests ice that can",
+        "be found in the [Color:5]Underground Lake[Color:0].",
+        "Could you take on this duty?",
+        "[Page]",
+        "",
+        "Oh, you'll need this. It's a leather",
+        "bag designed to keep ice frozen for",
+        "[Color:5]six hours[Color:0].",
+        "[Page]",
+        "",
+        "Perhaps if you are successful with",
+        "this request, it will improve Tharsis'",
+        "standing in the eyes of the Vessels.",
+        "[Page]",
+        "",
+        "Try not to make too many mistakes",
+        "where they are concerned, [Guild]",
+        "Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. It looks like your",
+        "request for the Vessels went well.",
+        "[Page]",
+        "",
+        "I hope that this will spur the Vessels",
+        "to begin using our services.",
+        "[Page]",
+        "",
+        "I would like nothing more than Vessels",
+        "and explorers to find common ground in",
+        "quests. It would do much for this bar.",
+        "[Page]",
+        "",
+        "Now then, I again thank you for your",
+        "hard work, and here is the reward that",
+        "the Vessel provided.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. It looks like your",
+        "request for the Vessels went well.",
+        "[Page]",
+        "",
+        "I hope that this will spur the Vessels",
+        "to begin using our services.",
+        "[Page]",
+        "",
+        "I would like nothing more than Vessels",
+        "and explorers to find common ground in",
+        "quests. It would do much for this bar.",
+        "[Page]",
+        "",
+        "Now then, I again thank you for your",
+        "hard work, and here is the reward that",
+        "the Vessel provided.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Having accepted a request to deliver",
+        "the ice, you make Vessel Town your",
+        "first stop.",
+        "[Page]",
+        "",
+        "One Vessel comes out to greet you",
+        "with a surprised look.",
+        ""
+      ],
+      "Translation": [
+        "Having accepted a request to deliver",
+        "the ice, you make Vessel Town your",
+        "first stop.",
+        "[Page]",
+        "",
+        "One Vessel comes out to greet you",
+        "with a surprised look.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "\"You actually came. One strip of paper",
+        "has so much weight there...? That bar",
+        "is no ordinary place.",
+        "[Page]",
+        "",
+        "\"I want you to go to the [Color:5]Underground",
+        "Lake[Color:0] and bring me back some ice.",
+        "[Page]",
+        "",
+        "\"My mother, unfortunately, has a",
+        "fever. I must cool her down as soon",
+        "as I can...",
+        "[Page]",
+        "",
+        "\"We have no ice here. It would be very",
+        "helpful if you could get some and",
+        "bring it directly to me.",
+        "[Page]",
+        "",
+        "\"A lot is riding on this request.\"",
+        "The Vessels bows his head to you",
+        "respectfully.",
+        ""
+      ],
+      "Translation": [
+        "\"You actually came. One strip of paper",
+        "has so much weight there...? That bar",
+        "is no ordinary place.",
+        "[Page]",
+        "",
+        "\"I want you to go to the [Color:5]Underground",
+        "Lake[Color:0] and bring me back some ice.",
+        "[Page]",
+        "",
+        "\"My mother, unfortunately, has a",
+        "fever. I must cool her down as soon",
+        "as I can...",
+        "[Page]",
+        "",
+        "\"We have no ice here. It would be very",
+        "helpful if you could get some and",
+        "bring it directly to me.",
+        "[Page]",
+        "",
+        "\"A lot is riding on this request.\"",
+        "The Vessels bows his head to you",
+        "respectfully.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "He then withdraws to the village to",
+        "care for his mother. You, for your",
+        "part, set out on the request.",
+        ""
+      ],
+      "Translation": [
+        "He then withdraws to the village to",
+        "care for his mother. You, for your",
+        "part, set out on the request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "The Vessel is currently busy caring",
+        "for his mother. You don't expect that",
+        "he will emerge to speak with you.",
+        "[Page]",
+        "",
+        "Having already decided to fulfill the",
+        "request, you head to the Underground",
+        "Lake.",
+        ""
+      ],
+      "Translation": [
+        "The Vessel is currently busy caring",
+        "for his mother. You don't expect that",
+        "he will emerge to speak with you.",
+        "[Page]",
+        "",
+        "Having already decided to fulfill the",
+        "request, you head to the Underground",
+        "Lake.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "While you cautiously search for the",
+        "Vessel's ice, you find a tall, frozen",
+        "pillar of unusually clear ice.",
+        "[Page]",
+        "",
+        "Perhaps the shimmering ice is due to",
+        "its location in the very center of",
+        "the labyrinth...",
+        "[Page]",
+        "",
+        "If you wish, you may put some of this",
+        "ice into the [Color:5][Item:1447][Color:0] you received",
+        "at the bar.",
+        ""
+      ],
+      "Translation": [
+        "While you cautiously search for the",
+        "Vessel's ice, you find a tall, frozen",
+        "pillar of unusually clear ice.",
+        "[Page]",
+        "",
+        "Perhaps the shimmering ice is due to",
+        "its location in the very center of",
+        "the labyrinth...",
+        "[Page]",
+        "",
+        "If you wish, you may put some of this",
+        "ice into the [Color:5][Item:1447][Color:0] you received",
+        "at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "In front of you stands an unusually",
+        "clear pillar of ice...",
+        "[Page]",
+        "",
+        "In order to complete the request you",
+        "undertook at the bar, you need to",
+        "place this ice in your bag.",
+        ""
+      ],
+      "Translation": [
+        "In front of you stands an unusually",
+        "clear pillar of ice...",
+        "[Page]",
+        "",
+        "In order to complete the request you",
+        "undertook at the bar, you need to",
+        "place this ice in your bag.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You return to the clear pillar of ice,",
+        "anxious about whether the ice you took",
+        "previously has melted.",
+        "[Page]",
+        "",
+        "It would soothe your worries to take",
+        "some new ice for your bag...",
+        ""
+      ],
+      "Translation": [
+        "You return to the clear pillar of ice,",
+        "anxious about whether the ice you took",
+        "previously has melted.",
+        "[Page]",
+        "",
+        "It would soothe your worries to take",
+        "some new ice for your bag...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Cut some ice from the pillar?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Cut some ice from the pillar?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "You cut out a portion of the pillar",
+        "of ice and place it into the",
+        "[Item:1447].",
+        "[Page]",
+        "",
+        "If Kirtida was correct, this ice has",
+        "a lifespan of only six hours.",
+        "[Page]",
+        "",
+        "You must return to Vessel Town before",
+        "it melts in order to deliver it to",
+        "your client.",
+        ""
+      ],
+      "Translation": [
+        "You cut out a portion of the pillar",
+        "of ice and place it into the",
+        "[Item:1447].",
+        "[Page]",
+        "",
+        "If Kirtida was correct, this ice has",
+        "a lifespan of only six hours.",
+        "[Page]",
+        "",
+        "You must return to Vessel Town before",
+        "it melts in order to deliver it to",
+        "your client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to abandon the pillar of",
+        "ice and take your leave.",
+        ""
+      ],
+      "Translation": [
+        "You decide to abandon the pillar of",
+        "ice and take your leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive with the ice at the town",
+        "where the client lives.",
+        "[Page]",
+        "",
+        "One Vessel comes out to greet you",
+        "with a surprised look.",
+        ""
+      ],
+      "Translation": [
+        "You arrive with the ice at the town",
+        "where the client lives.",
+        "[Page]",
+        "",
+        "One Vessel comes out to greet you",
+        "with a surprised look.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"You actually came. One strip of paper",
+        "has so much weight there...? That bar",
+        "is no ordinary place.",
+        "[Page]",
+        "",
+        "The Vessel is even more surprised",
+        "when you hand him the [Color:5][Item:1447][Color:0]",
+        "filled with ice.",
+        "[Page]",
+        "",
+        "\"This is... ice! From the Underground",
+        "Lake! Amazing... it has barely melted.",
+        "This should quell my mother's fever.",
+        "[Page]",
+        "",
+        "\"Thank you, everyone. I have sent the",
+        "reward to a fellow of mine. You can",
+        "pick it up at the bar.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You actually came. One strip of paper",
+        "has so much weight there...? That bar",
+        "is no ordinary place.",
+        "[Page]",
+        "",
+        "The Vessel is even more surprised",
+        "when you hand him the [Color:5][Item:1447][Color:0]",
+        "filled with ice.",
+        "[Page]",
+        "",
+        "\"This is... ice! From the Underground",
+        "Lake! Amazing... it has barely melted.",
+        "This should quell my mother's fever.",
+        "[Page]",
+        "",
+        "\"Thank you, everyone. I have sent the",
+        "reward to a fellow of mine. You can",
+        "pick it up at the bar.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "After showing his appreciation, the",
+        "Vessel bows his head politely and",
+        "leaves with the [Item:1447].",
+        "[Page]",
+        "",
+        "The request is now complete! You can",
+        "go to the bar to collect your reward",
+        "whenever you are ready.",
+        ""
+      ],
+      "Translation": [
+        "After showing his appreciation, the",
+        "Vessel bows his head politely and",
+        "leaves with the [Item:1447].",
+        "[Page]",
+        "",
+        "The request is now complete! You can",
+        "go to the bar to collect your reward",
+        "whenever you are ready.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive with the ice at the town",
+        "where the client lives.",
+        "[Page]",
+        "",
+        "Recognizing you, the male Vessel",
+        "emerges and rushes toward you.",
+        ""
+      ],
+      "Translation": [
+        "You arrive with the ice at the town",
+        "where the client lives.",
+        "[Page]",
+        "",
+        "Recognizing you, the male Vessel",
+        "emerges and rushes toward you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "\"You have returned! The ice... did you",
+        "get it?\"",
+        "[Page]",
+        "",
+        "You answer the Vessel's worried look",
+        "by handing him the [Color:5][Item:1447][Color:0].",
+        "[Page]",
+        "",
+        "\"This is... ice! From the Underground",
+        "Lake! Amazing... it has barely melted.",
+        "This should quell my mother's fever.",
+        "[Page]",
+        "",
+        "\"Thank you, everyone. I have sent the",
+        "reward to a fellow of mine. You can",
+        "pick it up at the bar.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You have returned! The ice... did you",
+        "get it?\"",
+        "[Page]",
+        "",
+        "You answer the Vessel's worried look",
+        "by handing him the [Color:5][Item:1447][Color:0].",
+        "[Page]",
+        "",
+        "\"This is... ice! From the Underground",
+        "Lake! Amazing... it has barely melted.",
+        "This should quell my mother's fever.",
+        "[Page]",
+        "",
+        "\"Thank you, everyone. I have sent the",
+        "reward to a fellow of mine. You can",
+        "pick it up at the bar.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "After showing his appreciation, the",
+        "Vessel bows his head politely and",
+        "leaves with the [Item:1447].",
+        "[Page]",
+        "",
+        "The request is now complete! You can",
+        "go to the bar to collect your reward",
+        "whenever you are ready.",
+        ""
+      ],
+      "Translation": [
+        "After showing his appreciation, the",
+        "Vessel bows his head politely and",
+        "leaves with the [Item:1447].",
+        "[Page]",
+        "",
+        "The request is now complete! You can",
+        "go to the bar to collect your reward",
+        "whenever you are ready.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive with the ice at Vessel",
+        "Town, but a sudden sinking sensation",
+        "makes you look into your pack.",
+        "[Page]",
+        "",
+        "The [Color:5][Item:1447][Color:0] is now empty and",
+        "your belongings are thoroughly soaked!",
+        "[Page]",
+        "",
+        "It appears that the [Color:5]six hours[Color:0] since",
+        "you first collected the ice have",
+        "passed and it is now melted.",
+        "[Page]",
+        "",
+        "If you intend to fulfill this request,",
+        "you must go back to the Underground",
+        "Lake for more ice.",
+        ""
+      ],
+      "Translation": [
+        "You arrive with the ice at Vessel",
+        "Town, but a sudden sinking sensation",
+        "makes you look into your pack.",
+        "[Page]",
+        "",
+        "The [Color:5][Item:1447][Color:0] is now empty and",
+        "your belongings are thoroughly soaked!",
+        "[Page]",
+        "",
+        "It appears that the [Color:5]six hours[Color:0] since",
+        "you first collected the ice have",
+        "passed and it is now melted.",
+        "[Page]",
+        "",
+        "If you intend to fulfill this request,",
+        "you must go back to the Underground",
+        "Lake for more ice.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "Debug text. Got ice on",
+        "day [Number:0], hour [Number:1], minute [Number:2].",
+        ""
+      ],
+      "Translation": [
+        "Debug text. Got ice on",
+        "day [Number:0], hour [Number:1], minute [Number:2].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": true,
+      "Original": [
+        "Debug text. [Number:0] day(s), [Number:1] hour(s),",
+        "[Number:2] minute(s) elapsed.",
+        ""
+      ],
+      "Translation": [
+        "Debug text. [Number:0] day(s), [Number:1] hour(s),",
+        "[Number:2] minute(s) elapsed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

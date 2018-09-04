@@ -1,0 +1,265 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_056",
+  "RelativePath": "Event\\QR\\QR_056.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, so you are taking this request...",
+        "The client is that injured explorer",
+        "over there.",
+        "[Page]",
+        "",
+        "It seems that he faced a powerful",
+        "monster in the Windy Plains. It slew",
+        "his comrades, and he seeks revenge.",
+        "[Page]",
+        "",
+        "He can provide more details than I.",
+        "It is a dangerous request... Be very",
+        "careful. I await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Ah, so you are taking this request...",
+        "The client is that injured explorer",
+        "over there.",
+        "[Page]",
+        "",
+        "It seems that he faced a powerful",
+        "monster in the Windy Plains. It slew",
+        "his comrades, and he seeks revenge.",
+        "[Page]",
+        "",
+        "He can provide more details than I.",
+        "It is a dangerous request... Be very",
+        "careful. I await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back, [Guild] Guild. I see",
+        "you have slain the monster, as always.",
+        "Well done.",
+        "[Page]",
+        "",
+        "That will not bring the client's",
+        "friends back, of course. But it may",
+        "give him some needed closure.",
+        "[Page]",
+        "",
+        "Thank you, [Guild] Guild. And here",
+        "is the reward you have earned.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back, [Guild] Guild. I see",
+        "you have slain the monster, as always.",
+        "Well done.",
+        "[Page]",
+        "",
+        "That will not bring the client's",
+        "friends back, of course. But it may",
+        "give him some needed closure.",
+        "[Page]",
+        "",
+        "Thank you, [Guild] Guild. And here",
+        "is the reward you have earned.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "When you land, a faint smell of blood",
+        "and a murderous presence hang in the",
+        "air... Your whole party tenses.",
+        "[Page]",
+        "",
+        "The pieces of armor and weapons",
+        "scattered about indicate that a",
+        "desperate battle took place here.",
+        ""
+      ],
+      "Translation": [
+        "When you land, a faint smell of blood",
+        "and a murderous presence hang in the",
+        "air... Your whole party tenses.",
+        "[Page]",
+        "",
+        "The pieces of armor and weapons",
+        "scattered about indicate that a",
+        "desperate battle took place here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Could this be where the client's foe",
+        "lurks? But no matter how you search,",
+        "the dread monster does not emerge...",
+        "[Page]",
+        "",
+        "You decide to leave on your skyship in",
+        "order to regroup and figure out a",
+        "way to draw out this monster.",
+        ""
+      ],
+      "Translation": [
+        "Could this be where the client's foe",
+        "lurks? But no matter how you search,",
+        "the dread monster does not emerge...",
+        "[Page]",
+        "",
+        "You decide to leave on your skyship in",
+        "order to regroup and figure out a",
+        "way to draw out this monster.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Just when you realize the shaking of",
+        "the foliage is not the breeze, a giant",
+        "reptile sheds its camouflage!",
+        "[Page]",
+        "",
+        "This must be the monster you have been",
+        "charged with slaying! You take stock,",
+        "ensuring that you are prepared...",
+        ""
+      ],
+      "Translation": [
+        "Just when you realize the shaking of",
+        "the foliage is not the breeze, a giant",
+        "reptile sheds its camouflage!",
+        "[Page]",
+        "",
+        "This must be the monster you have been",
+        "charged with slaying! You take stock,",
+        "ensuring that you are prepared...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Are you ready for battle?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Are you ready for battle?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Feeling unready to challenge the",
+        "dread monster, you retreat in order",
+        "to prepare for the battle!",
+        ""
+      ],
+      "Translation": [
+        "Feeling unready to challenge the",
+        "dread monster, you retreat in order",
+        "to prepare for the battle!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Though the beast's attacks stymie you,",
+        "your final strike finishes it off!",
+        "You have avenged the fallen warriors!",
+        "[Page]",
+        "",
+        "You have a moment of silence for the",
+        "lost explorers' souls before boarding",
+        "your skyship for Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "Though the beast's attacks stymie you,",
+        "your final strike finishes it off!",
+        "You have avenged the fallen warriors!",
+        "[Page]",
+        "",
+        "You have a moment of silence for the",
+        "lost explorers' souls before boarding",
+        "your skyship for Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "You detect no threats in the region",
+        "any longer... All that's left is to",
+        "make your report at the bar.",
+        ""
+      ],
+      "Translation": [
+        "You detect no threats in the region",
+        "any longer... All that's left is to",
+        "make your report at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

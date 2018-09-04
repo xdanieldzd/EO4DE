@@ -1,0 +1,1117 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_042",
+  "RelativePath": "Event\\Quest\\QUE_042.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request is from the Guildmaster.",
+        "It is addressed specifically to you.",
+        "[Page]",
+        "",
+        "A group of Tharsis soldiers are going",
+        "to [Color:5]B2F[Color:0] of the [Color:5]Echoing Library[Color:0] to look",
+        "into the nature of the beasts there.",
+        "[Page]",
+        "",
+        "But the Echoing Library is dangerous",
+        "enough that even veteran explorers",
+        "have difficulty there.",
+        "[Page]",
+        "",
+        "That is why they want your help. They",
+        "have already set out for B2F of the",
+        "Library. You can learn more there.",
+        "[Page]",
+        "",
+        "Oh, and I warn you... this request",
+        "may take some time. Be sure that you",
+        "stock up on medical supplies.",
+        "[Page]",
+        "",
+        "Take care, and I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Translation": [
+        "That request is from the Guildmaster.",
+        "It is addressed specifically to you.",
+        "[Page]",
+        "",
+        "A group of Tharsis soldiers are going",
+        "to [Color:5]B2F[Color:0] of the [Color:5]Echoing Library[Color:0] to look",
+        "into the nature of the beasts there.",
+        "[Page]",
+        "",
+        "But the Echoing Library is dangerous",
+        "enough that even veteran explorers",
+        "have difficulty there.",
+        "[Page]",
+        "",
+        "That is why they want your help. They",
+        "have already set out for B2F of the",
+        "Library. You can learn more there.",
+        "[Page]",
+        "",
+        "Oh, and I warn you... this request",
+        "may take some time. Be sure that you",
+        "stock up on medical supplies.",
+        "[Page]",
+        "",
+        "Take care, and I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Good work... Oh, my gracious. You are",
+        "complete messes...",
+        "[Page]",
+        "",
+        "Not that I expected a request from the",
+        "Guildmaster to be easy. But would you",
+        "say it was good training?",
+        "[Page]",
+        "",
+        "At any rate... I obviously cannot give",
+        "you the other reward, so you will have",
+        "to pick it up at the [Color:5]Explorers Guild[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Good work... Oh, my gracious. You are",
+        "complete messes...",
+        "[Page]",
+        "",
+        "Not that I expected a request from the",
+        "Guildmaster to be easy. But would you",
+        "say it was good training?",
+        "[Page]",
+        "",
+        "At any rate... I obviously cannot give",
+        "you the other reward, so you will have",
+        "to pick it up at the [Color:5]Explorers Guild[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You accepted my request, I see. An",
+        "old friend from the regiment wanted",
+        "me to introduce you to him.",
+        "[Page]",
+        "",
+        "As you probably heard, we need your",
+        "help with an investigation. Your part",
+        "is very simple.",
+        "[Page]",
+        "",
+        "Find the beastie and beat it to a",
+        "pulp. See? Simple.",
+        "[Page]",
+        "",
+        "But don't drop your guard. Get good",
+        "and ready and then we'll be off.",
+        ""
+      ],
+      "Translation": [
+        "You accepted my request, I see. An",
+        "old friend from the regiment wanted",
+        "me to introduce you to him.",
+        "[Page]",
+        "",
+        "As you probably heard, we need your",
+        "help with an investigation. Your part",
+        "is very simple.",
+        "[Page]",
+        "",
+        "Find the beastie and beat it to a",
+        "pulp. See? Simple.",
+        "[Page]",
+        "",
+        "But don't drop your guard. Get good",
+        "and ready and then we'll be off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Looks like you finished your part of",
+        "the job. Thanks for the help. Once",
+        "you're done at the bar, come back.",
+        ""
+      ],
+      "Translation": [
+        "Looks like you finished your part of",
+        "the job. Thanks for the help. Once",
+        "you're done at the bar, come back.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the specified location",
+        "for the request to provide support",
+        "to the regiment's investigation.",
+        "[Page]",
+        "",
+        "A waiting soldier comes out and calls",
+        "to you.",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the specified location",
+        "for the request to provide support",
+        "to the regiment's investigation.",
+        "[Page]",
+        "",
+        "A waiting soldier comes out and calls",
+        "to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're the [Guild] Guild, correct?",
+        "It's an honor to work alongside such",
+        "a famous guild.",
+        "[Page]",
+        "",
+        "\"We'll begin on this floor. We want",
+        "you to subdue the necessary beasts",
+        "during our investigation.",
+        "[Page]",
+        "",
+        "\"But if you leave B2F, the work will",
+        "have to be halted.",
+        "[Page]",
+        "",
+        "\"If that happens, the request will be",
+        "considered a [Color:5]failure[Color:0]. You'll have to",
+        "[Color:5]reapply[Color:0] at the bar.",
+        "[Page]",
+        "",
+        "\"Be very careful about using an",
+        "[Item:1355] or [Item:1371].",
+        "[Page]",
+        "",
+        "\"Your first job will be to subdue",
+        "a [Color:5][Enemy1:38][Color:0]. We're all counting",
+        "on you...\"",
+        ""
+      ],
+      "Translation": [
+        "\"You're the [Guild] Guild, correct?",
+        "It's an honor to work alongside such",
+        "a famous guild.",
+        "[Page]",
+        "",
+        "\"We'll begin on this floor. We want",
+        "you to subdue the necessary beasts",
+        "during our investigation.",
+        "[Page]",
+        "",
+        "\"But if you leave B2F, the work will",
+        "have to be halted.",
+        "[Page]",
+        "",
+        "\"If that happens, the request will be",
+        "considered a [Color:5]failure[Color:0]. You'll have to",
+        "[Color:5]reapply[Color:0] at the bar.",
+        "[Page]",
+        "",
+        "\"Be very careful about using an",
+        "[Item:1355] or [Item:1371].",
+        "[Page]",
+        "",
+        "\"Your first job will be to subdue",
+        "a [Color:5][Enemy1:38][Color:0]. We're all counting",
+        "on you...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier nods his thanks and goes",
+        "back to his regiment. The soldiers",
+        "then scatter throughout the maze.",
+        "[Page]",
+        "",
+        "You begin to walk down the path,",
+        "determined to find and defeat the",
+        "[Enemy1:38] as per the request.",
+        ""
+      ],
+      "Translation": [
+        "The soldier nods his thanks and goes",
+        "back to his regiment. The soldiers",
+        "then scatter throughout the maze.",
+        "[Page]",
+        "",
+        "You begin to walk down the path,",
+        "determined to find and defeat the",
+        "[Enemy1:38] as per the request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "After you confirm your defeat of the",
+        "[Enemy1:38], a soldier comes jogging",
+        "up to you from behind.",
+        ""
+      ],
+      "Translation": [
+        "After you confirm your defeat of the",
+        "[Enemy1:38], a soldier comes jogging",
+        "up to you from behind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "\"Great work! That takes care of our",
+        "investigation into the [Enemy1:38].",
+        "[Page]",
+        "",
+        "\"Now, let's get the next investigation",
+        "started... It has to do with the",
+        "[Color:5][Enemy1:39][Color:0]. We're counting on you.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Great work! That takes care of our",
+        "investigation into the [Enemy1:38].",
+        "[Page]",
+        "",
+        "\"Now, let's get the next investigation",
+        "started... It has to do with the",
+        "[Color:5][Enemy1:39][Color:0]. We're counting on you.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Having issued his directive, the",
+        "soldier walks away to prepare his",
+        "own part of the investigation...",
+        "[Page]",
+        "",
+        "You return to your own search of the",
+        "labyrinth for the [Enemy1:39]...",
+        ""
+      ],
+      "Translation": [
+        "Having issued his directive, the",
+        "soldier walks away to prepare his",
+        "own part of the investigation...",
+        "[Page]",
+        "",
+        "You return to your own search of the",
+        "labyrinth for the [Enemy1:39]...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "After you down the [Enemy1:39] and put",
+        "away your weapons, a soldier comes",
+        "jogging up to you from behind.",
+        ""
+      ],
+      "Translation": [
+        "After you down the [Enemy1:39] and put",
+        "away your weapons, a soldier comes",
+        "jogging up to you from behind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"Great work, everyone. We finished",
+        "looking into the [Enemy1:39]! At this",
+        "rate, we'll be done in no time.",
+        "[Page]",
+        "",
+        "\"Well, let's proceed to the next",
+        "stage. We need you to take out [Color:5]two",
+        "[Enemy1:45]s[Color:0] now. Good luck!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Great work, everyone. We finished",
+        "looking into the [Enemy1:39]! At this",
+        "rate, we'll be done in no time.",
+        "[Page]",
+        "",
+        "\"Well, let's proceed to the next",
+        "stage. We need you to take out [Color:5]two",
+        "[Enemy1:45]s[Color:0] now. Good luck!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "With that said, he heads back to",
+        "his squadron to prepare for their",
+        "investigation...",
+        "[Page]",
+        "",
+        "As your task is to search for the",
+        "[Enemy1:45]s, you resume your journey",
+        "through the labyrinth...",
+        ""
+      ],
+      "Translation": [
+        "With that said, he heads back to",
+        "his squadron to prepare for their",
+        "investigation...",
+        "[Page]",
+        "",
+        "As your task is to search for the",
+        "[Enemy1:45]s, you resume your journey",
+        "through the labyrinth...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "After you vanquish the second",
+        "[Enemy1:45], a soldier jogs up to",
+        "you from behind.",
+        ""
+      ],
+      "Translation": [
+        "After you vanquish the second",
+        "[Enemy1:45], a soldier jogs up to",
+        "you from behind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "\"Fine work, all of you. That concludes",
+        "our investigation of the [Enemy1:45]s!\"",
+        "[Page]",
+        "",
+        "\"We'd like to start our examination of",
+        "the next beast, which is the last one",
+        "we came to study.",
+        "[Page]",
+        "",
+        "\"It's, erm, [Color:5]three [Enemy1:44][Color:0]s...",
+        "We're counting on you.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Fine work, all of you. That concludes",
+        "our investigation of the [Enemy1:45]s!\"",
+        "[Page]",
+        "",
+        "\"We'd like to start our examination of",
+        "the next beast, which is the last one",
+        "we came to study.",
+        "[Page]",
+        "",
+        "\"It's, erm, [Color:5]three [Enemy1:44][Color:0]s...",
+        "We're counting on you.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier then hurriedly walks away",
+        "to prepare for the investigation.",
+        "[Page]",
+        "",
+        "You return to walking the labyrinth",
+        "to carry out your duty of searching",
+        "for the [Enemy1:44]s...",
+        ""
+      ],
+      "Translation": [
+        "The soldier then hurriedly walks away",
+        "to prepare for the investigation.",
+        "[Page]",
+        "",
+        "You return to walking the labyrinth",
+        "to carry out your duty of searching",
+        "for the [Enemy1:44]s...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Though quite fatigued, you draw upon",
+        "your iron will to stay standing and",
+        "finally defeat the last [Enemy1:44]!",
+        "[Page]",
+        "",
+        "You hear the cheering of a group of",
+        "soldiers come to praise you.",
+        ""
+      ],
+      "Translation": [
+        "Though quite fatigued, you draw upon",
+        "your iron will to stay standing and",
+        "finally defeat the last [Enemy1:44]!",
+        "[Page]",
+        "",
+        "You hear the cheering of a group of",
+        "soldiers come to praise you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "\"Great work, all of you! Thanks to",
+        "your tireless efforts, we have at",
+        "last completed our investigation!",
+        "[Page]",
+        "",
+        "\"Going forward, we'll see many fewer",
+        "casualties in this labyrinth...",
+        "[Page]",
+        "",
+        "\"But speaking personally, the real",
+        "pleasure was seeing the [Guild]",
+        "Guild go into battle.",
+        "[Page]",
+        "",
+        "\"No ordinary guild could destroy that",
+        "many beasts at a stretch! I'll be",
+        "telling all my friends about this...",
+        "[Page]",
+        "",
+        "\"Thank you again for your help. Your",
+        "duty is discharged and you may go",
+        "report to the Dancing Peacock.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Great work, all of you! Thanks to",
+        "your tireless efforts, we have at",
+        "last completed our investigation!",
+        "[Page]",
+        "",
+        "\"Going forward, we'll see many fewer",
+        "casualties in this labyrinth...",
+        "[Page]",
+        "",
+        "\"But speaking personally, the real",
+        "pleasure was seeing the [Guild]",
+        "Guild go into battle.",
+        "[Page]",
+        "",
+        "\"No ordinary guild could destroy that",
+        "many beasts at a stretch! I'll be",
+        "telling all my friends about this...",
+        "[Page]",
+        "",
+        "\"Thank you again for your help. Your",
+        "duty is discharged and you may go",
+        "report to the Dancing Peacock.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "After the soldiers come up to thank",
+        "you individually, they all leave the",
+        "area to head back to Tharsis.",
+        "[Page]",
+        "",
+        "The request is now complete! You need",
+        "only go to the bar and report your",
+        "long struggle!",
+        ""
+      ],
+      "Translation": [
+        "After the soldiers come up to thank",
+        "you individually, they all leave the",
+        "area to head back to Tharsis.",
+        "[Page]",
+        "",
+        "The request is now complete! You need",
+        "only go to the bar and report your",
+        "long struggle!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "When you approach the stairs to leave,",
+        "a soldier standing nearby calls out.",
+        ""
+      ],
+      "Translation": [
+        "When you approach the stairs to leave,",
+        "a soldier standing nearby calls out.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "\"If you leave this floor, it'll put",
+        "the investigation on hold and the",
+        "request will be aborted. Be careful.\"",
+        ""
+      ],
+      "Translation": [
+        "\"If you leave this floor, it'll put",
+        "the investigation on hold and the",
+        "request will be aborted. Be careful.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "You are not physically blocked from",
+        "leaving the floor, but you keep the",
+        "warning in mind...",
+        ""
+      ],
+      "Translation": [
+        "You are not physically blocked from",
+        "leaving the floor, but you keep the",
+        "warning in mind...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "You move to leave this floor, but then",
+        "remember the soldier's words...",
+        "[Page]",
+        "",
+        "\"If you leave B2F, the request will",
+        "be marked as a [Color:5]failure[Color:0].\"",
+        "[Page]",
+        "",
+        "If that is acceptable to you, you may",
+        "use the stairs and leave this floor.",
+        ""
+      ],
+      "Translation": [
+        "You move to leave this floor, but then",
+        "remember the soldier's words...",
+        "[Page]",
+        "",
+        "\"If you leave B2F, the request will",
+        "be marked as a [Color:5]failure[Color:0].\"",
+        "[Page]",
+        "",
+        "If that is acceptable to you, you may",
+        "use the stairs and leave this floor.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "You have left the floor where the",
+        "investigation was underway!",
+        "[Page]",
+        "",
+        "The request is now a failure. If you",
+        "wish to complete it, you must [Color:5]cancel",
+        "and reaccept the request at the bar[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You have left the floor where the",
+        "investigation was underway!",
+        "[Page]",
+        "",
+        "The request is now a failure. If you",
+        "wish to complete it, you must [Color:5]cancel",
+        "and reaccept the request at the bar[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

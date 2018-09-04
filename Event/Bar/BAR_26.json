@@ -1,0 +1,95 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_26",
+  "RelativePath": "Event\\Bar\\BAR_26.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... the [Color:5][Enemy1:91][Color:0] still exists in",
+        "the Scarlet Pillars. I thought they",
+        "were extinct...",
+        "[Page]",
+        "",
+        "Oh, are you explorers? If it's not",
+        "too much bother, could you accept my",
+        "[Color:5]request[Color:0]?",
+        "[Page]",
+        "",
+        "It's already been posted. If you're",
+        "interested, you can ask about it at",
+        "the counter.",
+        ""
+      ],
+      "Translation": [
+        "Hmm... the [Color:5][Enemy1:91][Color:0] still exists in",
+        "the Scarlet Pillars. I thought they",
+        "were extinct...",
+        "[Page]",
+        "",
+        "Oh, are you explorers? If it's not",
+        "too much bother, could you accept my",
+        "[Color:5]request[Color:0]?",
+        "[Page]",
+        "",
+        "It's already been posted. If you're",
+        "interested, you can ask about it at",
+        "the counter.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]West[Color:0] of the [Color:5]Pillars[Color:0], there's a cave",
+        "inhabited by what's known simply as",
+        "the [Color:5][Enemy1:91][Color:0].",
+        "[Page]",
+        "",
+        "I want you to find its nest and take",
+        "one [Color:5]egg[Color:0]. Having one would radically",
+        "change the field of entomology.",
+        "[Page]",
+        "",
+        "But be wary of [Enemy1:91] attacks.",
+        "They have terrible vision, but",
+        "very acute hearing.",
+        "[Page]",
+        "",
+        "If you get into any battles near it,",
+        "it will immediately fixate on your",
+        "position and give chase!",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]West[Color:0] of the [Color:5]Pillars[Color:0], there's a cave",
+        "inhabited by what's known simply as",
+        "the [Color:5][Enemy1:91][Color:0].",
+        "[Page]",
+        "",
+        "I want you to find its nest and take",
+        "one [Color:5]egg[Color:0]. Having one would radically",
+        "change the field of entomology.",
+        "[Page]",
+        "",
+        "But be wary of [Enemy1:91] attacks.",
+        "They have terrible vision, but",
+        "very acute hearing.",
+        "[Page]",
+        "",
+        "If you get into any battles near it,",
+        "it will immediately fixate on your",
+        "position and give chase!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

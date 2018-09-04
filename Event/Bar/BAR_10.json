@@ -1,0 +1,370 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_10",
+  "RelativePath": "Event\\Bar\\BAR_10.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You're late... What took you so long!?",
+        "Well, I'll overlook it this once.",
+        "[Page]",
+        "",
+        "I've heard you've helped our son out",
+        "a few times already. As his father,",
+        "I'm grateful for that.",
+        "[Page]",
+        "",
+        "But I need your help one more time.",
+        "I don't know what got into him, but",
+        "he went to the [Color:5]Sacred Mountains[Color:0]...",
+        "[Page]",
+        "",
+        "This time, we didn't even get a",
+        "carrier pigeon. But there's a trio of",
+        "explorers over there who saw him.",
+        "[Page]",
+        "",
+        "Unfortunately, their info is all we",
+        "have to go on. They're a sordid bunch,",
+        "but please talk to them!",
+        ""
+      ],
+      "Translation": [
+        "You're late... What took you so long!?",
+        "Well, I'll overlook it this once.",
+        "[Page]",
+        "",
+        "I've heard you've helped our son out",
+        "a few times already. As his father,",
+        "I'm grateful for that.",
+        "[Page]",
+        "",
+        "But I need your help one more time.",
+        "I don't know what got into him, but",
+        "he went to the [Color:5]Sacred Mountains[Color:0]...",
+        "[Page]",
+        "",
+        "This time, we didn't even get a",
+        "carrier pigeon. But there's a trio of",
+        "explorers over there who saw him.",
+        "[Page]",
+        "",
+        "Unfortunately, their info is all we",
+        "have to go on. They're a sordid bunch,",
+        "but please talk to them!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "There you are! Did you find Raht?",
+        "My son...?",
+        ""
+      ],
+      "Translation": [
+        "There you are! Did you find Raht?",
+        "My son...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Have you found Raht?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Have you found Raht?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Quit stringing me along! You had my",
+        "hopes up there for a second! But I'll",
+        "let it go...",
+        ""
+      ],
+      "Translation": [
+        "Quit stringing me along! You had my",
+        "hopes up there for a second! But I'll",
+        "let it go...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... I've talked to [Color:5]three[Color:0] explorers",
+        "here in this bar who saw Raht.",
+        "[Page]",
+        "",
+        "If you get all their stories and put",
+        "them together, you might be able to",
+        "narrow down where Raht is.",
+        "[Page]",
+        "",
+        "Bunch of jackals... Demanding money",
+        "from a desperate father... I can",
+        "barely afford your reward!",
+        ""
+      ],
+      "Translation": [
+        "Hmm... I've talked to [Color:5]three[Color:0] explorers",
+        "here in this bar who saw Raht.",
+        "[Page]",
+        "",
+        "If you get all their stories and put",
+        "them together, you might be able to",
+        "narrow down where Raht is.",
+        "[Page]",
+        "",
+        "Bunch of jackals... Demanding money",
+        "from a desperate father... I can",
+        "barely afford your reward!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "I-Is that true!? No, sorry, of course",
+        "I believe you. So where is he?",
+        ""
+      ],
+      "Translation": [
+        "I-Is that true!? No, sorry, of course",
+        "I believe you. So where is he?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "All right! I'll make the arrangements",
+        "to send out a rescue team!",
+        ""
+      ],
+      "Translation": [
+        "All right! I'll make the arrangements",
+        "to send out a rescue team!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "What's the big idea? Do you get off",
+        "on seeing me panic like this? I'll",
+        "show you people panic!",
+        "[Page]",
+        "",
+        "Raht wasn't at the place you pointed",
+        "out. You're sure you found him?",
+        "[Page]",
+        "",
+        "I don't want to call you a liar, but",
+        "I need you to give me the correct",
+        "location next time. Come on...",
+        ""
+      ],
+      "Translation": [
+        "What's the big idea? Do you get off",
+        "on seeing me panic like this? I'll",
+        "show you people panic!",
+        "[Page]",
+        "",
+        "Raht wasn't at the place you pointed",
+        "out. You're sure you found him?",
+        "[Page]",
+        "",
+        "I don't want to call you a liar, but",
+        "I need you to give me the correct",
+        "location next time. Come on...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "You guys! They found him... My son...",
+        "Raht's alive! He was carried into the",
+        "clinic earlier.",
+        "[Page]",
+        "",
+        "Any later, and my son might have",
+        "frozen to death. Thank you... thank",
+        "you so much...",
+        "[Page]",
+        "",
+        "Kind explorers... I don't have much",
+        "to repay you with, but I want you to",
+        "take the reward I left all the same.",
+        "[Page]",
+        "",
+        "*sigh* Now if only my idiot son would",
+        "actually learn his lesson...",
+        ""
+      ],
+      "Translation": [
+        "You guys! They found him... My son...",
+        "Raht's alive! He was carried into the",
+        "clinic earlier.",
+        "[Page]",
+        "",
+        "Any later, and my son might have",
+        "frozen to death. Thank you... thank",
+        "you so much...",
+        "[Page]",
+        "",
+        "Kind explorers... I don't have much",
+        "to repay you with, but I want you to",
+        "take the reward I left all the same.",
+        "[Page]",
+        "",
+        "*sigh* Now if only my idiot son would",
+        "actually learn his lesson...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "My wife, daughter, and I can't",
+        "understand why our meek son suddenly",
+        "started acting so wild...",
+        "[Page]",
+        "",
+        "Has he told you why? Maybe it's",
+        "something he can't share with his",
+        "family...",
+        ""
+      ],
+      "Translation": [
+        "My wife, daughter, and I can't",
+        "understand why our meek son suddenly",
+        "started acting so wild...",
+        "[Page]",
+        "",
+        "Has he told you why? Maybe it's",
+        "something he can't share with his",
+        "family...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

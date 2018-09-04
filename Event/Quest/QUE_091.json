@@ -1,0 +1,1175 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_091",
+  "RelativePath": "Event\\Quest\\QUE_091.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "There is no time to lose. I will keep",
+        "this short.",
+        "[Page]",
+        "",
+        "Several Imperial skyships have crashed",
+        "in the [Color:5]Windy Plains[Color:0]. The cause is the",
+        "ruler of the plains, the [Color:5][Enemy1:202][Color:0].",
+        "[Page]",
+        "",
+        "We were usually able to fly safely,",
+        "if we were careful. The dragon's",
+        "hostility comes as quite a shock.",
+        "[Page]",
+        "",
+        "There is a rescue operation for the",
+        "Imperials in the planning stages.",
+        "You must join in and help them.",
+        ""
+      ],
+      "Translation": [
+        "There is no time to lose. I will keep",
+        "this short.",
+        "[Page]",
+        "",
+        "Several Imperial skyships have crashed",
+        "in the [Color:5]Windy Plains[Color:0]. The cause is the",
+        "ruler of the plains, the [Color:5][Enemy1:202][Color:0].",
+        "[Page]",
+        "",
+        "We were usually able to fly safely,",
+        "if we were careful. The dragon's",
+        "hostility comes as quite a shock.",
+        "[Page]",
+        "",
+        "There is a rescue operation for the",
+        "Imperials in the planning stages.",
+        "You must join in and help them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Very good work. I am glad you could",
+        "deliver the emergency supplies even",
+        "with the Great Dragon about.",
+        "[Page]",
+        "",
+        "They began their emigration from the",
+        "Empire when the dragon was not a",
+        "threat...",
+        "[Page]",
+        "",
+        "But it seems the dragon has taken a",
+        "sudden exception to this.",
+        "[Page]",
+        "",
+        "Your reward today will be handled a",
+        "bit differently. The client wishes",
+        "to give it to you directly.",
+        ""
+      ],
+      "Translation": [
+        "Very good work. I am glad you could",
+        "deliver the emergency supplies even",
+        "with the Great Dragon about.",
+        "[Page]",
+        "",
+        "They began their emigration from the",
+        "Empire when the dragon was not a",
+        "threat...",
+        "[Page]",
+        "",
+        "But it seems the dragon has taken a",
+        "sudden exception to this.",
+        "[Page]",
+        "",
+        "Your reward today will be handled a",
+        "bit differently. The client wishes",
+        "to give it to you directly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "We meet again, Guild [Guild].",
+        "Mm... I only awoke a few days ago.",
+        "[Page]",
+        "",
+        "I cannot say I am fully recovered,",
+        "but my mind is clear. The day I wield",
+        "a drive blade again is not far off.",
+        "[Page]",
+        "",
+        "I do not know when the emigration",
+        "began, but we have had few troubles.",
+        "I am grateful to all of Tharsis.",
+        "[Page]",
+        "",
+        "I had hoped to discuss Yggdrasil with",
+        "you, as well as the Medium... but I",
+        "regret to say this is not the time.",
+        "[Page]",
+        "",
+        "I must go in order to protect my",
+        "people.",
+        "[Page]",
+        "",
+        "In time, I shall return to show the",
+        "proper gratitude. Farewell, Guild",
+        "[Guild].",
+        ""
+      ],
+      "Translation": [
+        "We meet again, Guild [Guild].",
+        "Mm... I only awoke a few days ago.",
+        "[Page]",
+        "",
+        "I cannot say I am fully recovered,",
+        "but my mind is clear. The day I wield",
+        "a drive blade again is not far off.",
+        "[Page]",
+        "",
+        "I do not know when the emigration",
+        "began, but we have had few troubles.",
+        "I am grateful to all of Tharsis.",
+        "[Page]",
+        "",
+        "I had hoped to discuss Yggdrasil with",
+        "you, as well as the Medium... but I",
+        "regret to say this is not the time.",
+        "[Page]",
+        "",
+        "I must go in order to protect my",
+        "people.",
+        "[Page]",
+        "",
+        "In time, I shall return to show the",
+        "proper gratitude. Farewell, Guild",
+        "[Guild].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "A group of skyships approaches as you",
+        "set out for the Windy Plains.",
+        ""
+      ],
+      "Translation": [
+        "A group of skyships approaches as you",
+        "set out for the Windy Plains.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "\"Are you the rescue team from Tharsis?",
+        "Sorry for the short notice...",
+        "[Page]",
+        "",
+        "\"We need you to go to a few points and",
+        "drop off emergency supplies. We'll use",
+        "messenger birds to give directions.",
+        "[Page]",
+        "",
+        "\"The [Enemy1:202] is still wandering",
+        "around, so be very careful to steer",
+        "clear of it.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Are you the rescue team from Tharsis?",
+        "Sorry for the short notice...",
+        "[Page]",
+        "",
+        "\"We need you to go to a few points and",
+        "drop off emergency supplies. We'll use",
+        "messenger birds to give directions.",
+        "[Page]",
+        "",
+        "\"The [Enemy1:202] is still wandering",
+        "around, so be very careful to steer",
+        "clear of it.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "He relays your first destination and",
+        "then quickly leaves. It seems he has",
+        "been called to a different site.",
+        "[Page]",
+        "",
+        "You mark the destination he provided",
+        "on your map. You must head to the",
+        "scene quickly to provide relief.",
+        ""
+      ],
+      "Translation": [
+        "He relays your first destination and",
+        "then quickly leaves. It seems he has",
+        "been called to a different site.",
+        "[Page]",
+        "",
+        "You mark the destination he provided",
+        "on your map. You must head to the",
+        "scene quickly to provide relief.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You recall the request you undertook",
+        "to deliver emergency supplies to the",
+        "crashed skyships...",
+        "[Page]",
+        "",
+        "When you arrive at the Windy Plains,",
+        "a hawk flies over to the [Skyship].",
+        "It carries an Imperial scroll.",
+        "[Page]",
+        "",
+        "You copy the location marked on the",
+        "scroll to your map and quickly head",
+        "to the scene.",
+        ""
+      ],
+      "Translation": [
+        "You recall the request you undertook",
+        "to deliver emergency supplies to the",
+        "crashed skyships...",
+        "[Page]",
+        "",
+        "When you arrive at the Windy Plains,",
+        "a hawk flies over to the [Skyship].",
+        "It carries an Imperial scroll.",
+        "[Page]",
+        "",
+        "You copy the location marked on the",
+        "scroll to your map and quickly head",
+        "to the scene.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "As you land your skyship, Imperial",
+        "soldiers in full armor come running",
+        "toward you.",
+        "[Page]",
+        "",
+        "You take the emergency supplies from",
+        "the gondola and distribute them to",
+        "the soldiers.",
+        ""
+      ],
+      "Translation": [
+        "As you land your skyship, Imperial",
+        "soldiers in full armor come running",
+        "toward you.",
+        "[Page]",
+        "",
+        "You take the emergency supplies from",
+        "the gondola and distribute them to",
+        "the soldiers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "\"Are you explorers from Tharsis?",
+        "We're very grateful!\" says one.",
+        "[Page]",
+        "",
+        "\"I'm sorry there's no time for a",
+        "proper greeting, but we need to go",
+        "treat our wounded.",
+        "[Page]",
+        "",
+        "\"Be careful of that dragon as you go!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Are you explorers from Tharsis?",
+        "We're very grateful!\" says one.",
+        "[Page]",
+        "",
+        "\"I'm sorry there's no time for a",
+        "proper greeting, but we need to go",
+        "treat our wounded.",
+        "[Page]",
+        "",
+        "\"Be careful of that dragon as you go!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "The soldiers bow to you as they take",
+        "the emergency supplies.",
+        "[Page]",
+        "",
+        "Afterward, a hawk descends from the",
+        "skies and lands on your skyship.",
+        "[Page]",
+        "",
+        "It is from the second rescue site...",
+        "You copy the location onto your map",
+        "in order to go where you are needed.",
+        ""
+      ],
+      "Translation": [
+        "The soldiers bow to you as they take",
+        "the emergency supplies.",
+        "[Page]",
+        "",
+        "Afterward, a hawk descends from the",
+        "skies and lands on your skyship.",
+        "[Page]",
+        "",
+        "It is from the second rescue site...",
+        "You copy the location onto your map",
+        "in order to go where you are needed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "As you land your skyship, Imperial",
+        "soldiers in full armor come running",
+        "toward you.",
+        "[Page]",
+        "",
+        "You take the emergency supplies from",
+        "the gondola and distribute them to",
+        "the soldiers.",
+        "[Page]",
+        "",
+        "They are initially grateful, but one",
+        "of their faces hardens upon seeing",
+        "who you are.",
+        ""
+      ],
+      "Translation": [
+        "As you land your skyship, Imperial",
+        "soldiers in full armor come running",
+        "toward you.",
+        "[Page]",
+        "",
+        "You take the emergency supplies from",
+        "the gondola and distribute them to",
+        "the soldiers.",
+        "[Page]",
+        "",
+        "They are initially grateful, but one",
+        "of their faces hardens upon seeing",
+        "who you are.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "\"I've seen you before... You're the",
+        "[Guild] Guild! The ones who ruined",
+        "our plan to restore ourselves!",
+        "[Page]",
+        "",
+        "\"It's because of you that His Imperial",
+        "Highness is...!\"",
+        ""
+      ],
+      "Translation": [
+        "\"I've seen you before... You're the",
+        "[Guild] Guild! The ones who ruined",
+        "our plan to restore ourselves!",
+        "[Page]",
+        "",
+        "\"It's because of you that His Imperial",
+        "Highness is...!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "The man's hand slowly moves to the",
+        "sword slung at his waist!",
+        ""
+      ],
+      "Translation": [
+        "The man's hand slowly moves to the",
+        "sword slung at his waist!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]How will you handle the soldier?[Color:0]",
+        "Talk him down",
+        "Take forceful action",
+        "Let things play out",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]How will you handle the soldier?[Color:0]",
+        "Talk him down",
+        "Take forceful action",
+        "Let things play out",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "\"Wait! Wait just a moment!\"",
+        "[Page]",
+        "",
+        "Though both your swords are drawn and",
+        "the situation looks tense, another",
+        "soldier intervenes.",
+        "[Page]",
+        "",
+        "He begins to scold his comrade.",
+        ""
+      ],
+      "Translation": [
+        "\"Wait! Wait just a moment!\"",
+        "[Page]",
+        "",
+        "Though both your swords are drawn and",
+        "the situation looks tense, another",
+        "soldier intervenes.",
+        "[Page]",
+        "",
+        "He begins to scold his comrade.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "\"This is no time to fight! There is",
+        "too much at stake. I apologize for",
+        "our rudeness... please stand down.\"",
+        ""
+      ],
+      "Translation": [
+        "\"This is no time to fight! There is",
+        "too much at stake. I apologize for",
+        "our rudeness... please stand down.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "The Imperial soldier begins to draw",
+        "his sword, but his comrade standing",
+        "nearby places a hand on his shoulder.",
+        ""
+      ],
+      "Translation": [
+        "The Imperial soldier begins to draw",
+        "his sword, but his comrade standing",
+        "nearby places a hand on his shoulder.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hold. The battle is already over!",
+        "Have you forgotten who reached out",
+        "to our wounded Imperial Highness?\"",
+        "[Page]",
+        "",
+        "The second soldier turns to you,",
+        "takes a knee, and lowers his head.",
+        "[Page]",
+        "",
+        "\"You offered kindness and we responded",
+        "shamefully. Please forgive us for",
+        "my comrade's rudeness.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Hold. The battle is already over!",
+        "Have you forgotten who reached out",
+        "to our wounded Imperial Highness?\"",
+        "[Page]",
+        "",
+        "The second soldier turns to you,",
+        "takes a knee, and lowers his head.",
+        "[Page]",
+        "",
+        "\"You offered kindness and we responded",
+        "shamefully. Please forgive us for",
+        "my comrade's rudeness.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier lets go of his sword,",
+        "though he seems by no means",
+        "convinced...",
+        "[Page]",
+        "",
+        "Despite the awkwardness in the air,",
+        "you continue distributing the",
+        "supplies...",
+        ""
+      ],
+      "Translation": [
+        "The soldier lets go of his sword,",
+        "though he seems by no means",
+        "convinced...",
+        "[Page]",
+        "",
+        "Despite the awkwardness in the air,",
+        "you continue distributing the",
+        "supplies...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "You take your leave of the ",
+        "uncomfortable scene.",
+        "[Page]",
+        "",
+        "Afterward, a hawk descends from the",
+        "skies and lands on your skyship.",
+        "[Page]",
+        "",
+        "It is from the final rescue site...",
+        "You copy the location onto your map",
+        "in order to go where you are needed.",
+        ""
+      ],
+      "Translation": [
+        "You take your leave of the ",
+        "uncomfortable scene.",
+        "[Page]",
+        "",
+        "Afterward, a hawk descends from the",
+        "skies and lands on your skyship.",
+        "[Page]",
+        "",
+        "It is from the final rescue site...",
+        "You copy the location onto your map",
+        "in order to go where you are needed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "As you land your skyship, Imperial",
+        "soldiers in full armor come running",
+        "toward you.",
+        "[Page]",
+        "",
+        "You take the emergency supplies from",
+        "the gondola and distribute them to",
+        "the soldiers.",
+        ""
+      ],
+      "Translation": [
+        "As you land your skyship, Imperial",
+        "soldiers in full armor come running",
+        "toward you.",
+        "[Page]",
+        "",
+        "You take the emergency supplies from",
+        "the gondola and distribute them to",
+        "the soldiers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "\"Thank you! My daughter is badly",
+        "injured and I don't know if I could",
+        "have taken care of her by myself.",
+        "[Page]",
+        "",
+        "\"You've saved my daughter's life...",
+        "Thank you. Thank you. I'm sorry,",
+        "that's all I can think to say...\"",
+        "[Page]",
+        "",
+        "Overcome with emotion, the man bursts",
+        "into tears.",
+        "[Page]",
+        "",
+        "You attempt to calm him down so that",
+        "he can get the emergency supplies",
+        "to his daughter...",
+        ""
+      ],
+      "Translation": [
+        "\"Thank you! My daughter is badly",
+        "injured and I don't know if I could",
+        "have taken care of her by myself.",
+        "[Page]",
+        "",
+        "\"You've saved my daughter's life...",
+        "Thank you. Thank you. I'm sorry,",
+        "that's all I can think to say...\"",
+        "[Page]",
+        "",
+        "Overcome with emotion, the man bursts",
+        "into tears.",
+        "[Page]",
+        "",
+        "You attempt to calm him down so that",
+        "he can get the emergency supplies",
+        "to his daughter...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Once the soldier has recovered",
+        "himself, he carries off the supplies",
+        "along with his comrades.",
+        "[Page]",
+        "",
+        "With that, you have ferried the needed",
+        "supplies to all specified locations.",
+        "[Page]",
+        "",
+        "The request is complete! You should",
+        "return to the bar and report your",
+        "success.",
+        ""
+      ],
+      "Translation": [
+        "Once the soldier has recovered",
+        "himself, he carries off the supplies",
+        "along with his comrades.",
+        "[Page]",
+        "",
+        "With that, you have ferried the needed",
+        "supplies to all specified locations.",
+        "[Page]",
+        "",
+        "The request is complete! You should",
+        "return to the bar and report your",
+        "success.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

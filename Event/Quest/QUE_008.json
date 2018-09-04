@@ -1,0 +1,811 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_008",
+  "RelativePath": "Event\\Quest\\QUE_008.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You will accept this request? The",
+        "client is an explorer, like you. She",
+        "would like you to find a lost item.",
+        "[Page]",
+        "",
+        "A bear attacked while she explored",
+        "[Color:5]B3F[Color:0] of the [Color:5]Lush Woodlands[Color:0], and she",
+        "lost her mother's ring in a [Color:5]spring[Color:0].",
+        "[Page]",
+        "",
+        "She barely escaped with her life and",
+        "is in no condition to go retrieve the",
+        "ring. You must go in her place.",
+        "[Page]",
+        "",
+        "Kismet be with you, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "You will accept this request? The",
+        "client is an explorer, like you. She",
+        "would like you to find a lost item.",
+        "[Page]",
+        "",
+        "A bear attacked while she explored",
+        "[Color:5]B3F[Color:0] of the [Color:5]Lush Woodlands[Color:0], and she",
+        "lost her mother's ring in a [Color:5]spring[Color:0].",
+        "[Page]",
+        "",
+        "She barely escaped with her life and",
+        "is in no condition to go retrieve the",
+        "ring. You must go in her place.",
+        "[Page]",
+        "",
+        "Kismet be with you, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. It seems to me that you",
+        "found success in retrieving the ring.",
+        "[Page]",
+        "",
+        "I shall take the responsibility of",
+        "returning the ring to the client.",
+        "I hope that she recovers soon...",
+        "[Page]",
+        "",
+        "I again thank you for your hard work.",
+        "I shall have more for you in the",
+        "future, [Guild] Guild.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. It seems to me that you",
+        "found success in retrieving the ring.",
+        "[Page]",
+        "",
+        "I shall take the responsibility of",
+        "returning the ring to the client.",
+        "I hope that she recovers soon...",
+        "[Page]",
+        "",
+        "I again thank you for your hard work.",
+        "I shall have more for you in the",
+        "future, [Guild] Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "But you see nothing.",
+        ""
+      ],
+      "Translation": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "But you see nothing.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "What you find is a medicine bottle,",
+        "most likely dropped by another",
+        "explorer. You pick it up.",
+        "[Page]",
+        "",
+        "But this quest's objective was not a",
+        "medicine bottle, and so you continue",
+        "toward the other springs.",
+        ""
+      ],
+      "Translation": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "What you find is a medicine bottle,",
+        "most likely dropped by another",
+        "explorer. You pick it up.",
+        "[Page]",
+        "",
+        "But this quest's objective was not a",
+        "medicine bottle, and so you continue",
+        "toward the other springs.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "Suddenly, you see a light glinting",
+        "from something at the bottom of the",
+        "spring!",
+        "[Page]",
+        "",
+        "You reach in and take out a crystal,",
+        "which will be useful as raw material.",
+        "[Page]",
+        "",
+        "But this quest's objective was not a",
+        "crystal, and so you continue toward",
+        "the other springs.",
+        ""
+      ],
+      "Translation": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "Suddenly, you see a light glinting",
+        "from something at the bottom of the",
+        "spring!",
+        "[Page]",
+        "",
+        "You reach in and take out a crystal,",
+        "which will be useful as raw material.",
+        "[Page]",
+        "",
+        "But this quest's objective was not a",
+        "crystal, and so you continue toward",
+        "the other springs.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "Suddenly, [Character:0] cries out as you",
+        "hear a loud splash!",
+        "[Page]",
+        "",
+        "Your party looks around and sees that",
+        "[Character:0] has slipped and fallen",
+        "into the spring.",
+        ""
+      ],
+      "Translation": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "Suddenly, [Character:0] cries out as you",
+        "hear a loud splash!",
+        "[Page]",
+        "",
+        "Your party looks around and sees that",
+        "[Character:0] has slipped and fallen",
+        "into the spring.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] loses 15 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] loses 15 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "You notice something stuck at the",
+        "bottom of the spring, hidden in the",
+        "shadow of the rocks.",
+        "[Page]",
+        "",
+        "The party tries to determine what it",
+        "is, but cannot no matter what angle",
+        "you look at it from.",
+        "[Page]",
+        "",
+        "With everyone so intent on the object",
+        "in the spring, you fail to notice",
+        "monsters approaching from behind!",
+        ""
+      ],
+      "Translation": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "You notice something stuck at the",
+        "bottom of the spring, hidden in the",
+        "shadow of the rocks.",
+        "[Page]",
+        "",
+        "The party tries to determine what it",
+        "is, but cannot no matter what angle",
+        "you look at it from.",
+        "[Page]",
+        "",
+        "With everyone so intent on the object",
+        "in the spring, you fail to notice",
+        "monsters approaching from behind!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "After dealing with the monsters, you",
+        "quickly reach into the spring and grab",
+        "the stuck object.",
+        "[Page]",
+        "",
+        "It is revealed as a medicine bottle,",
+        "most likely dropped by another",
+        "explorer.",
+        "[Page]",
+        "",
+        "But this quest's objective was not a",
+        "medicine bottle, and so you continue",
+        "toward the other springs.",
+        ""
+      ],
+      "Translation": [
+        "After dealing with the monsters, you",
+        "quickly reach into the spring and grab",
+        "the stuck object.",
+        "[Page]",
+        "",
+        "It is revealed as a medicine bottle,",
+        "most likely dropped by another",
+        "explorer.",
+        "[Page]",
+        "",
+        "But this quest's objective was not a",
+        "medicine bottle, and so you continue",
+        "toward the other springs.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "Suddenly, you see a light glinting",
+        "from something at the bottom of the",
+        "spring!",
+        "[Page]",
+        "",
+        "It seems to be the ring! The party",
+        "gives a collective cheer as you fish",
+        "it out from the spring.",
+        "[Page]",
+        "",
+        "The ring that shines in the palm of",
+        "your hand must be the client's... You",
+        "need only take it back to her now.",
+        "[Page]",
+        "",
+        "Feeling accomplished, you head back",
+        "to the bar in order to make your",
+        "report.",
+        ""
+      ],
+      "Translation": [
+        "You peer into the spring, in order to",
+        "fulfill the terms of the request...",
+        "[Page]",
+        "",
+        "Suddenly, you see a light glinting",
+        "from something at the bottom of the",
+        "spring!",
+        "[Page]",
+        "",
+        "It seems to be the ring! The party",
+        "gives a collective cheer as you fish",
+        "it out from the spring.",
+        "[Page]",
+        "",
+        "The ring that shines in the palm of",
+        "your hand must be the client's... You",
+        "need only take it back to her now.",
+        "[Page]",
+        "",
+        "Feeling accomplished, you head back",
+        "to the bar in order to make your",
+        "report.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "After the party fishes the poor",
+        "[Character:0] out, you decide to move",
+        "on to the other springs.",
+        ""
+      ],
+      "Translation": [
+        "After the party fishes the poor",
+        "[Character:0] out, you decide to move",
+        "on to the other springs.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

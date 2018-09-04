@@ -1,0 +1,766 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_071",
+  "RelativePath": "Event\\Quest\\QUE_071.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, yes. That request is from the",
+        "Outland Count. Do you remember the",
+        "water mark you found before?",
+        "[Page]",
+        "",
+        "It says that this time, he wants you",
+        "to search for the fire mark. What is",
+        "this about...? It sounds like fun.",
+        "[Page]",
+        "",
+        "You should go to the Grand Court and",
+        "consult the Count. I am eager to hear",
+        "the tale once you are finished.",
+        ""
+      ],
+      "Translation": [
+        "Ah, yes. That request is from the",
+        "Outland Count. Do you remember the",
+        "water mark you found before?",
+        "[Page]",
+        "",
+        "It says that this time, he wants you",
+        "to search for the fire mark. What is",
+        "this about...? It sounds like fun.",
+        "[Page]",
+        "",
+        "You should go to the Grand Court and",
+        "consult the Count. I am eager to hear",
+        "the tale once you are finished.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "I heard the story. My congratulations",
+        "on finding the fire mark with so",
+        "little to go on.",
+        "[Page]",
+        "",
+        "Just as I expect from the [Guild]",
+        "Guild. It takes knowledge and quick",
+        "wit to be explorers of your caliber.",
+        "[Page]",
+        "",
+        "Are you getting as excited about this",
+        "as I am? I hope another request along",
+        "these lines comes soon.",
+        ""
+      ],
+      "Translation": [
+        "I heard the story. My congratulations",
+        "on finding the fire mark with so",
+        "little to go on.",
+        "[Page]",
+        "",
+        "Just as I expect from the [Guild]",
+        "Guild. It takes knowledge and quick",
+        "wit to be explorers of your caliber.",
+        "[Page]",
+        "",
+        "Are you getting as excited about this",
+        "as I am? I hope another request along",
+        "these lines comes soon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, the request for the [Color:5]fire mark[Color:0]?",
+        "You're just the ones to handle that.",
+        "You can see Margherita is delighted!",
+        "[Page]",
+        "",
+        "As you might guess, we found a new",
+        "document. Let me read it to you...",
+        ""
+      ],
+      "Translation": [
+        "Ah, the request for the [Color:5]fire mark[Color:0]?",
+        "You're just the ones to handle that.",
+        "You can see Margherita is delighted!",
+        "[Page]",
+        "",
+        "As you might guess, we found a new",
+        "document. Let me read it to you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "\"First Squad reporting. The [Color:5]fire mark[Color:0]",
+        "is confirmed as [Color:5]southwest[Color:0] of [Color:5]the water",
+        "mark[Color:0]. Exact distance unknown.\"",
+        ""
+      ],
+      "Translation": [
+        "\"First Squad reporting. The [Color:5]fire mark[Color:0]",
+        "is confirmed as [Color:5]southwest[Color:0] of [Color:5]the water",
+        "mark[Color:0]. Exact distance unknown.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "That's all. Short and to the point,",
+        "isn't it? But this is not the only",
+        "document we have this time. Here...",
+        ""
+      ],
+      "Translation": [
+        "That's all. Short and to the point,",
+        "isn't it? But this is not the only",
+        "document we have this time. Here...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "\"Second Squad reporting. [Color:5]Observation",
+        "points[Color:0] established at [Color:5]C-1 and C-5[Color:0].",
+        "Between them is the target.",
+        "[Page]",
+        "",
+        "\"We have placed an Imperial flag to",
+        "mark the observation points. You'll",
+        "have to eyeball the location.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Second Squad reporting. [Color:5]Observation",
+        "points[Color:0] established at [Color:5]C-1 and C-5[Color:0].",
+        "Between them is the target.",
+        "[Page]",
+        "",
+        "\"We have placed an Imperial flag to",
+        "mark the observation points. You'll",
+        "have to eyeball the location.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, but don't dash off just yet. There",
+        "is a third document. This is the last",
+        "one... Here's what it says.",
+        ""
+      ],
+      "Translation": [
+        "Ah, but don't dash off just yet. There",
+        "is a third document. This is the last",
+        "one... Here's what it says.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "\"Command Post: The way to the key is",
+        "in connecting First and Second Squad's",
+        "reports. Find the common ground.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Command Post: The way to the key is",
+        "in connecting First and Second Squad's",
+        "reports. Find the common ground.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "There, that's all. It sounds like",
+        "finding the unreactive mark with",
+        "one's eyes will be quite difficult.",
+        "[Page]",
+        "",
+        "I want you to use the documents as a",
+        "guide, find the exact location, and",
+        "report it back here.",
+        "[Page]",
+        "",
+        "Try to estimate where the fire mark",
+        "is from what the documents tell you.",
+        "Leave the investigation to us.",
+        "[Page]",
+        "",
+        "We don't know what the mark does,",
+        "but any discovery in those lands is",
+        "a benefit to Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "There, that's all. It sounds like",
+        "finding the unreactive mark with",
+        "one's eyes will be quite difficult.",
+        "[Page]",
+        "",
+        "I want you to use the documents as a",
+        "guide, find the exact location, and",
+        "report it back here.",
+        "[Page]",
+        "",
+        "Try to estimate where the fire mark",
+        "is from what the documents tell you.",
+        "Leave the investigation to us.",
+        "[Page]",
+        "",
+        "We don't know what the mark does,",
+        "but any discovery in those lands is",
+        "a benefit to Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello, my friends! Have you",
+        "identified the location of the",
+        "fire mark?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello, my friends! Have you",
+        "identified the location of the",
+        "fire mark?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Did you identify it?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Did you identify it?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Understandable. The document is fairly",
+        "complex this time. Here, I'll read it",
+        "for you once more.",
+        ""
+      ],
+      "Translation": [
+        "Understandable. The document is fairly",
+        "complex this time. Here, I'll read it",
+        "for you once more.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "The fire mark is southwest of the",
+        "water mark. The coordinates suggest",
+        "it's down and to the left of [Color:5]A-4/1-5[Color:0].",
+        "[Page]",
+        "",
+        "Somewhere in that area should be",
+        "observation points at [Color:5]C-1[Color:0] and [Color:5]C-5[Color:0].",
+        "Between them lies the fire mark.",
+        "[Page]",
+        "",
+        "Even when we know the location, there",
+        "is still the matter of getting it to",
+        "react... Though we will handle that.",
+        ""
+      ],
+      "Translation": [
+        "The fire mark is southwest of the",
+        "water mark. The coordinates suggest",
+        "it's down and to the left of [Color:5]A-4/1-5[Color:0].",
+        "[Page]",
+        "",
+        "Somewhere in that area should be",
+        "observation points at [Color:5]C-1[Color:0] and [Color:5]C-5[Color:0].",
+        "Between them lies the fire mark.",
+        "[Page]",
+        "",
+        "Even when we know the location, there",
+        "is still the matter of getting it to",
+        "react... Though we will handle that.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You know, when I put food in my dear",
+        "Margherita's bowl, no matter how often",
+        "I tell her to wait, she never listens.",
+        "[Page]",
+        "",
+        "She must hate to have things withheld",
+        "from her...",
+        "[Page]",
+        "",
+        "My friends, have you ever heard the",
+        "theory that pets take after their",
+        "owners?",
+        ""
+      ],
+      "Translation": [
+        "You know, when I put food in my dear",
+        "Margherita's bowl, no matter how often",
+        "I tell her to wait, she never listens.",
+        "[Page]",
+        "",
+        "She must hate to have things withheld",
+        "from her...",
+        "[Page]",
+        "",
+        "My friends, have you ever heard the",
+        "theory that pets take after their",
+        "owners?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Splendid! Let's have it without delay.",
+        "Where is the [Color:5]fire mark[Color:0]?",
+        ""
+      ],
+      "Translation": [
+        "Splendid! Let's have it without delay.",
+        "Where is the [Color:5]fire mark[Color:0]?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... I see. Then that is where I",
+        "shall send my scouts.",
+        ""
+      ],
+      "Translation": [
+        "Hmm... I see. Then that is where I",
+        "shall send my scouts.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, my friend, look... Margherita is",
+        "not happy at all. Why is that, you",
+        "wonder?",
+        "[Page]",
+        "",
+        "There was no mark at the coordinates",
+        "you gave us. I, too, am not happy.",
+        "[Page]",
+        "",
+        "I know I asked you to estimate, but",
+        "that is different from guessing at",
+        "random. I expect a serious attempt.",
+        ""
+      ],
+      "Translation": [
+        "Oh, my friend, look... Margherita is",
+        "not happy at all. Why is that, you",
+        "wonder?",
+        "[Page]",
+        "",
+        "There was no mark at the coordinates",
+        "you gave us. I, too, am not happy.",
+        "[Page]",
+        "",
+        "I know I asked you to estimate, but",
+        "that is different from guessing at",
+        "random. I expect a serious attempt.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Splendid work, my friends! We found",
+        "what appears to be the fire mark at",
+        "the location you gave us!",
+        "[Page]",
+        "",
+        "I have nothing but the highest praise",
+        "for your excellence in analysis,",
+        "insight, and inventiveness.",
+        "[Page]",
+        "",
+        "Still, as always, that mark presents",
+        "us with another mystery...",
+        "[Page]",
+        "",
+        "I wonder if it was left behind by the",
+        "ones who once ruled over that land.",
+        "[Page]",
+        "",
+        "But no matter--you have completed the",
+        "request, and you deserve the reward",
+        "that awaits you at the bar.",
+        ""
+      ],
+      "Translation": [
+        "Splendid work, my friends! We found",
+        "what appears to be the fire mark at",
+        "the location you gave us!",
+        "[Page]",
+        "",
+        "I have nothing but the highest praise",
+        "for your excellence in analysis,",
+        "insight, and inventiveness.",
+        "[Page]",
+        "",
+        "Still, as always, that mark presents",
+        "us with another mystery...",
+        "[Page]",
+        "",
+        "I wonder if it was left behind by the",
+        "ones who once ruled over that land.",
+        "[Page]",
+        "",
+        "But no matter--you have completed the",
+        "request, and you deserve the reward",
+        "that awaits you at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "The device which reacted to the",
+        "skyship's flight... That pattern...",
+        "There are still so many mysteries.",
+        ""
+      ],
+      "Translation": [
+        "The device which reacted to the",
+        "skyship's flight... That pattern...",
+        "There are still so many mysteries.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "A thorough search of your surroundings",
+        "shows the Imperial flag placed in the",
+        "soil below you.",
+        ""
+      ],
+      "Translation": [
+        "A thorough search of your surroundings",
+        "shows the Imperial flag placed in the",
+        "soil below you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "A thorough search of your surroundings",
+        "shows the Imperial flag flying from",
+        "the lake below you.",
+        ""
+      ],
+      "Translation": [
+        "A thorough search of your surroundings",
+        "shows the Imperial flag flying from",
+        "the lake below you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the point where you",
+        "believe the fire mark must be.",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the point where you",
+        "believe the fire mark must be.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "When you make a thorough search, your",
+        "belief proves to be well-founded:",
+        "here is the fire mark you sought!",
+        "[Page]",
+        "",
+        "All that is left to do is to write",
+        "down its location and report back to",
+        "the Outland Count.",
+        ""
+      ],
+      "Translation": [
+        "When you make a thorough search, your",
+        "belief proves to be well-founded:",
+        "here is the fire mark you sought!",
+        "[Page]",
+        "",
+        "All that is left to do is to write",
+        "down its location and report back to",
+        "the Outland Count.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "When you narrow your eyes, you can see",
+        "the [Color:5]fire mark[Color:0] engraved in the land",
+        "below you...",
+        ""
+      ],
+      "Translation": [
+        "When you narrow your eyes, you can see",
+        "the [Color:5]fire mark[Color:0] engraved in the land",
+        "below you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

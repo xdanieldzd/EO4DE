@@ -1,0 +1,648 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_14",
+  "RelativePath": "Event\\Bar\\BAR_14.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Are you the [Guild] Guild that took",
+        "my request to search for Raht...?",
+        ""
+      ],
+      "Translation": [
+        "Are you the [Guild] Guild that took",
+        "my request to search for Raht...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Are you the [Guild] Guild?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Are you the [Guild] Guild?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, just as I thought! I've heard a",
+        "lot about you from him. He said you're",
+        "some of his best friends...",
+        "[Page]",
+        "",
+        "It might be odd to ask you this just",
+        "because of that, but can you help me",
+        "out this once?",
+        ""
+      ],
+      "Translation": [
+        "Ah, just as I thought! I've heard a",
+        "lot about you from him. He said you're",
+        "some of his best friends...",
+        "[Page]",
+        "",
+        "It might be odd to ask you this just",
+        "because of that, but can you help me",
+        "out this once?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, I'm sorry. My mistake... But you",
+        "did accept the request, right? Please",
+        "help him!",
+        ""
+      ],
+      "Translation": [
+        "Oh, I'm sorry. My mistake... But you",
+        "did accept the request, right? Please",
+        "help him!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "This time, Raht seems to have headed",
+        "to the Cloudy Stronghold. He sent",
+        "this letter from there...",
+        "[Page]",
+        "",
+        "\"Raht's Adventure Log ＃1:",
+        "I have finally reached the vibrant",
+        "green lands of the [Color:5]Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "\"But as usual, monsters attacked my",
+        "skyship, and it crumpled like a sheet",
+        "of paper in my fist.",
+        "[Page]",
+        "",
+        "\"But I won't lose heart. I can still",
+        "walk... And I have a carefully kept",
+        "map. I'm near a [Color:5]lake[Color:0] in area [Color:5]C-2[Color:0].",
+        "[Page]",
+        "",
+        "\"My adventure will continue so long",
+        "as I can still walk... Time to move",
+        "on! (Cont'd. in Adventure Log ＃2.)\"",
+        "[Page]",
+        "",
+        "\"Walk\"!? What is he thinking!? Please",
+        "find him and bring him back before",
+        "he makes things worse for himself!",
+        ""
+      ],
+      "Translation": [
+        "This time, Raht seems to have headed",
+        "to the Cloudy Stronghold. He sent",
+        "this letter from there...",
+        "[Page]",
+        "",
+        "\"Raht's Adventure Log ＃1:",
+        "I have finally reached the vibrant",
+        "green lands of the [Color:5]Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "\"But as usual, monsters attacked my",
+        "skyship, and it crumpled like a sheet",
+        "of paper in my fist.",
+        "[Page]",
+        "",
+        "\"But I won't lose heart. I can still",
+        "walk... And I have a carefully kept",
+        "map. I'm near a [Color:5]lake[Color:0] in area [Color:5]C-2[Color:0].",
+        "[Page]",
+        "",
+        "\"My adventure will continue so long",
+        "as I can still walk... Time to move",
+        "on! (Cont'd. in Adventure Log ＃2.)\"",
+        "[Page]",
+        "",
+        "\"Walk\"!? What is he thinking!? Please",
+        "find him and bring him back before",
+        "he makes things worse for himself!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "According to his letter, he crashed",
+        "near a [Color:5]lake in area C-2 in the Cloudy",
+        "Stronghold[Color:0]. You should start there.",
+        ""
+      ],
+      "Translation": [
+        "According to his letter, he crashed",
+        "near a [Color:5]lake in area C-2 in the Cloudy",
+        "Stronghold[Color:0]. You should start there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Oh... he's already gone somewhere",
+        "else... Well, keep looking.",
+        "[Page]",
+        "",
+        "Obviously, he can't fly, and he's not",
+        "a very good swimmer. If he was headed",
+        "east, there aren't many paths to take.",
+        ""
+      ],
+      "Translation": [
+        "Oh... he's already gone somewhere",
+        "else... Well, keep looking.",
+        "[Page]",
+        "",
+        "Obviously, he can't fly, and he's not",
+        "a very good swimmer. If he was headed",
+        "east, there aren't many paths to take.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "You found Log 3 this time? Oh, Raht...",
+        "Where have you gone...?",
+        "[Page]",
+        "",
+        "Well, if he's moving around and trying",
+        "to avoid monsters, I'm sure he hasn't",
+        "headed for the [Color:5]Echoing Library[Color:0].",
+        "[Page]",
+        "",
+        "Maybe try taking a different route?",
+        ""
+      ],
+      "Translation": [
+        "You found Log 3 this time? Oh, Raht...",
+        "Where have you gone...?",
+        "[Page]",
+        "",
+        "Well, if he's moving around and trying",
+        "to avoid monsters, I'm sure he hasn't",
+        "headed for the [Color:5]Echoing Library[Color:0].",
+        "[Page]",
+        "",
+        "Maybe try taking a different route?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "You found Log 4...? Does that mean",
+        "my poor, stupid Raht went that way?",
+        "[Page]",
+        "",
+        "Knowing him, I don't think he'd have",
+        "doubled back the way he came. You",
+        "should try heading [Color:5]south[Color:0] from there.",
+        "[Page]",
+        "",
+        "Huh? Illness? What are you talking",
+        "about...?",
+        ""
+      ],
+      "Translation": [
+        "You found Log 4...? Does that mean",
+        "my poor, stupid Raht went that way?",
+        "[Page]",
+        "",
+        "Knowing him, I don't think he'd have",
+        "doubled back the way he came. You",
+        "should try heading [Color:5]south[Color:0] from there.",
+        "[Page]",
+        "",
+        "Huh? Illness? What are you talking",
+        "about...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello, everyone! Have you found",
+        "Raht yet?",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello, everyone! Have you found",
+        "Raht yet?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Have you found him?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Have you found him?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Huh? Then... where is he?",
+        ""
+      ],
+      "Translation": [
+        "Huh? Then... where is he?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Huh? What do you mean?",
+        ""
+      ],
+      "Translation": [
+        "Huh? What do you mean?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Raht was that sick...? I see... So",
+        "he'd been hiding it all this time...",
+        "[Page]",
+        "",
+        "But I can't stop there. Won't you",
+        "please at least tell me where his",
+        "skyship had crashed?",
+        ""
+      ],
+      "Translation": [
+        "Raht was that sick...? I see... So",
+        "he'd been hiding it all this time...",
+        "[Page]",
+        "",
+        "But I can't stop there. Won't you",
+        "please at least tell me where his",
+        "skyship had crashed?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Won't you please at least tell me",
+        "where his skyship had crashed?",
+        ""
+      ],
+      "Translation": [
+        "Won't you please at least tell me",
+        "where his skyship had crashed?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "All right... I'll send a search team",
+        "there. At the very least, they can",
+        "bring back his belongings...",
+        ""
+      ],
+      "Translation": [
+        "All right... I'll send a search team",
+        "there. At the very least, they can",
+        "bring back his belongings...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "I'm sorry, but it sounds like they",
+        "didn't find Raht's skyship where you",
+        "told me to look.",
+        "[Page]",
+        "",
+        "Can you double check the exact",
+        "location once more?",
+        ""
+      ],
+      "Translation": [
+        "I'm sorry, but it sounds like they",
+        "didn't find Raht's skyship where you",
+        "told me to look.",
+        "[Page]",
+        "",
+        "Can you double check the exact",
+        "location once more?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Thank you. The remains of Raht's",
+        "skyship and his belongings were at",
+        "the location you told me to look.",
+        "[Page]",
+        "",
+        "I wanted to at least return his things",
+        "to his home... I'll tell his mother",
+        "and father what happened.",
+        "[Page]",
+        "",
+        "He... He always said an adventure",
+        "ends with coming home safely on",
+        "one's skyship... But...",
+        "[Page]",
+        "",
+        "I'm sorry. The request is done now.",
+        "I let Ms. Kirtida know, so you can",
+        "get your reward from her.",
+        ""
+      ],
+      "Translation": [
+        "Thank you. The remains of Raht's",
+        "skyship and his belongings were at",
+        "the location you told me to look.",
+        "[Page]",
+        "",
+        "I wanted to at least return his things",
+        "to his home... I'll tell his mother",
+        "and father what happened.",
+        "[Page]",
+        "",
+        "He... He always said an adventure",
+        "ends with coming home safely on",
+        "one's skyship... But...",
+        "[Page]",
+        "",
+        "I'm sorry. The request is done now.",
+        "I let Ms. Kirtida know, so you can",
+        "get your reward from her.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "*sob* Raht... Why didn't you ever",
+        "talk to me about this...?",
+        ""
+      ],
+      "Translation": [
+        "*sob* Raht... Why didn't you ever",
+        "talk to me about this...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, you're back! Did you find",
+        "my Raht!?",
+        ""
+      ],
+      "Translation": [
+        "Ah, you're back! Did you find",
+        "my Raht!?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

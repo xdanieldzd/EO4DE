@@ -1,0 +1,655 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_017",
+  "RelativePath": "Event\\Quest\\QUE_017.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request is from the dear girl at",
+        "the Atelier. She wants you to gather",
+        "materials for a [Color:6][Item:127][Color:0].",
+        "[Page]",
+        "",
+        "I believe she wanted to speak with you",
+        "directly, so head to the Atelier.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That request is from the dear girl at",
+        "the Atelier. She wants you to gather",
+        "materials for a [Color:6][Item:127][Color:0].",
+        "[Page]",
+        "",
+        "I believe she wanted to speak with you",
+        "directly, so head to the Atelier.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Another request",
+        "successfully completed, I see.",
+        "I thank you for your hard work.",
+        "[Page]",
+        "",
+        "If you are not aware, the girl Wynne",
+        "has come to greatly rely on your",
+        "[Guild] Guild.",
+        "[Page]",
+        "",
+        "Just as I do, of course... Your guild",
+        "is becoming one of the cornerstones",
+        "of this city.",
+        "[Page]",
+        "",
+        "Here is your reward. There is no need",
+        "to hesitate... go on and accept it.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Another request",
+        "successfully completed, I see.",
+        "I thank you for your hard work.",
+        "[Page]",
+        "",
+        "If you are not aware, the girl Wynne",
+        "has come to greatly rely on your",
+        "[Guild] Guild.",
+        "[Page]",
+        "",
+        "Just as I do, of course... Your guild",
+        "is becoming one of the cornerstones",
+        "of this city.",
+        "[Page]",
+        "",
+        "Here is your reward. There is no need",
+        "to hesitate... go on and accept it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "You have all the materials needed by",
+        "the Atelier to make the dagger! You",
+        "need only sell them to the shop now.",
+        ""
+      ],
+      "Translation": [
+        "You have all the materials needed by",
+        "the Atelier to make the dagger! You",
+        "need only sell them to the shop now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "\"Whew, busy as a bee! Man, da boss",
+        "don't know when enough is enough!",
+        "Huh? Da [Guild] crew?",
+        "[Page]",
+        "",
+        "\"Request? What request? Did I make",
+        "a... oh, DAT request!",
+        "[Page]",
+        "",
+        "\"Yeah, uh, we already gots da stuff",
+        "we need to make a [Color:6][Item:127][Color:0]...",
+        "I just forgot ta cancel dat request.",
+        "[Page]",
+        "",
+        "\"But... a request's a request! We'll",
+        "pay ya da reward anyways, so don't",
+        "worry about dat.",
+        "[Page]",
+        "",
+        "\"But, uh, heheh, maybe da boss",
+        "don't gotta know about dis?",
+        "Please...?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Whew, busy as a bee! Man, da boss",
+        "don't know when enough is enough!",
+        "Huh? Da [Guild] crew?",
+        "[Page]",
+        "",
+        "\"Request? What request? Did I make",
+        "a... oh, DAT request!",
+        "[Page]",
+        "",
+        "\"Yeah, uh, we already gots da stuff",
+        "we need to make a [Color:6][Item:127][Color:0]...",
+        "I just forgot ta cancel dat request.",
+        "[Page]",
+        "",
+        "\"But... a request's a request! We'll",
+        "pay ya da reward anyways, so don't",
+        "worry about dat.",
+        "[Page]",
+        "",
+        "\"But, uh, heheh, maybe da boss",
+        "don't gotta know about dis?",
+        "Please...?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "\"Da [Guild] crew took my request?",
+        "Sweet! I wantcha ta sell me some stuff",
+        "I need to make a [Color:6][Item:127][Color:0].",
+        "[Page]",
+        "",
+        "\"I need a [Color:6][Item:1175][Color:0], which ya can dig",
+        "out on [Color:5]B3F[Color:0] of da [Color:5]Misty Ravine[Color:0], and",
+        "a [Color:6][Item:985][Color:0] offa [Enemy1:13].",
+        "[Page]",
+        "",
+        "\"Huh? You gots it already? Ha, way ta",
+        "go, [Guild] crew! Attaboy!",
+        "[Page]",
+        "",
+        "\"Well, go on and sell em ta me! Da",
+        "price of da materials don't come outta",
+        "your reward, don't worry about dat.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Da [Guild] crew took my request?",
+        "Sweet! I wantcha ta sell me some stuff",
+        "I need to make a [Color:6][Item:127][Color:0].",
+        "[Page]",
+        "",
+        "\"I need a [Color:6][Item:1175][Color:0], which ya can dig",
+        "out on [Color:5]B3F[Color:0] of da [Color:5]Misty Ravine[Color:0], and",
+        "a [Color:6][Item:985][Color:0] offa [Enemy1:13].",
+        "[Page]",
+        "",
+        "\"Huh? You gots it already? Ha, way ta",
+        "go, [Guild] crew! Attaboy!",
+        "[Page]",
+        "",
+        "\"Well, go on and sell em ta me! Da",
+        "price of da materials don't come outta",
+        "your reward, don't worry about dat.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "\"Da [Guild] crew took my request?",
+        "Sweet! I wantcha ta sell me some stuff",
+        "I need to make a [Color:6][Item:127][Color:0].",
+        "[Page]",
+        "",
+        "\"I need a [Color:6][Item:1175][Color:0], which ya can dig",
+        "out on [Color:5]B3F[Color:0] of da [Color:5]Misty Ravine[Color:0], and",
+        "a [Color:6][Item:985][Color:0] offa [Enemy1:13].",
+        "[Page]",
+        "",
+        "\"Ya sell me dem stuff and the request",
+        "is done. Da money for dat's separate",
+        "from da reward, don't worry.",
+        "[Page]",
+        "",
+        "\"Alright, good hunting out dere!",
+        "Go on, get going!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Da [Guild] crew took my request?",
+        "Sweet! I wantcha ta sell me some stuff",
+        "I need to make a [Color:6][Item:127][Color:0].",
+        "[Page]",
+        "",
+        "\"I need a [Color:6][Item:1175][Color:0], which ya can dig",
+        "out on [Color:5]B3F[Color:0] of da [Color:5]Misty Ravine[Color:0], and",
+        "a [Color:6][Item:985][Color:0] offa [Enemy1:13].",
+        "[Page]",
+        "",
+        "\"Ya sell me dem stuff and the request",
+        "is done. Da money for dat's separate",
+        "from da reward, don't worry.",
+        "[Page]",
+        "",
+        "\"Alright, good hunting out dere!",
+        "Go on, get going!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "\"I need a [Color:6][Item:1175][Color:0], which ya can dig",
+        "out on [Color:5]B3F[Color:0] of da [Color:5]Misty Ravine[Color:0], and",
+        "a [Color:6][Item:985][Color:0] offa [Enemy1:13].",
+        "[Page]",
+        "",
+        "\"I'm counting on ya, [Guild] crew!\"",
+        ""
+      ],
+      "Translation": [
+        "\"I need a [Color:6][Item:1175][Color:0], which ya can dig",
+        "out on [Color:5]B3F[Color:0] of da [Color:5]Misty Ravine[Color:0], and",
+        "a [Color:6][Item:985][Color:0] offa [Enemy1:13].",
+        "[Page]",
+        "",
+        "\"I'm counting on ya, [Guild] crew!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "\"When ya get da stuff, sell it ta me,",
+        "and den da request's all done!\"",
+        ""
+      ],
+      "Translation": [
+        "\"When ya get da stuff, sell it ta me,",
+        "and den da request's all done!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "\"Heya, [Guild] crew! Tanks to dem",
+        "materials ya sold us, we finished",
+        "dat [Color:6][Item:127][Color:0]!",
+        "[Page]",
+        "",
+        "\"It's easy enough ta use dat lotsa",
+        "classes can equip it. Ya wanna buy",
+        "one off us?\"",
+        "[Page]",
+        "",
+        "Anyway, tanks again! Ya can pick up",
+        "da reward from dat lady at da bar.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Heya, [Guild] crew! Tanks to dem",
+        "materials ya sold us, we finished",
+        "dat [Color:6][Item:127][Color:0]!",
+        "[Page]",
+        "",
+        "\"It's easy enough ta use dat lotsa",
+        "classes can equip it. Ya wanna buy",
+        "one off us?\"",
+        "[Page]",
+        "",
+        "Anyway, tanks again! Ya can pick up",
+        "da reward from dat lady at da bar.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"Heya, [Guild] crew! Tanks to dem",
+        "materials ya sold us, we finished",
+        "dat [Color:6][Item:127][Color:0]!",
+        "[Page]",
+        "",
+        "\"It's easy enough ta use dat lotsa",
+        "classes can equip it. Ya wanna buy",
+        "one off us?\"",
+        "[Page]",
+        "",
+        "Anyway, tanks again! Ya can pick up",
+        "da reward from dat lady at da bar.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Heya, [Guild] crew! Tanks to dem",
+        "materials ya sold us, we finished",
+        "dat [Color:6][Item:127][Color:0]!",
+        "[Page]",
+        "",
+        "\"It's easy enough ta use dat lotsa",
+        "classes can equip it. Ya wanna buy",
+        "one off us?\"",
+        "[Page]",
+        "",
+        "Anyway, tanks again! Ya can pick up",
+        "da reward from dat lady at da bar.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

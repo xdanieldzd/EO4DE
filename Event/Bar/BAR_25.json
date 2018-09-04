@@ -1,0 +1,44 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_25",
+  "RelativePath": "Event\\Bar\\BAR_25.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "The [Color:5]Misty Ravine[Color:0]... It's aptly named.",
+        "You can easily get dangerously lost",
+        "in that forest.",
+        "[Page]",
+        "",
+        "I don't know how it happened, but I",
+        "walked down the same path for days...",
+        "[Page]",
+        "",
+        "Take my advice. Don't lose track of",
+        "your position on the map and you won't",
+        "get lost so easily.",
+        ""
+      ],
+      "Translation": [
+        "The [Color:5]Misty Ravine[Color:0]... It's aptly named.",
+        "You can easily get dangerously lost",
+        "in that forest.",
+        "[Page]",
+        "",
+        "I don't know how it happened, but I",
+        "walked down the same path for days...",
+        "[Page]",
+        "",
+        "Take my advice. Don't lose track of",
+        "your position on the map and you won't",
+        "get lost so easily.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

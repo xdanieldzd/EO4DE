@@ -1,0 +1,46 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_48",
+  "RelativePath": "Event\\Bar\\BAR_48.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Did you know you can learn special",
+        "moves or spells just by equipping",
+        "some weapons?",
+        "[Page]",
+        "",
+        "The other day, my wife came at me with",
+        "a [Color:6][Item:345][Color:0], but the beating she",
+        "dished out ended up healing me too.",
+        "[Page]",
+        "",
+        "I thought I'd have bruises for weeks,",
+        "but nope! The key to a happy marriage",
+        "is a [Item:345]!",
+        ""
+      ],
+      "Translation": [
+        "Did you know you can learn special",
+        "moves or spells just by equipping",
+        "some weapons?",
+        "[Page]",
+        "",
+        "The other day, my wife came at me with",
+        "a [Color:6][Item:345][Color:0], but the beating she",
+        "dished out ended up healing me too.",
+        "[Page]",
+        "",
+        "I thought I'd have bruises for weeks,",
+        "but nope! The key to a happy marriage",
+        "is a [Item:345]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_05F",
+  "RelativePath": "Event\\Dungeon\\DUN_05F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed through the forest of",
+        "illusions, map in hand, you sense",
+        "a presence past the thicket up ahead.",
+        "[Page]",
+        "",
+        "When you cautiously peek through the",
+        "branches, you see a shadowy monster",
+        "with its back turned to you.",
+        "[Page]",
+        "",
+        "If there is anyone in your party",
+        "skilled at ambushes or sniping,",
+        "you could try attacking the monster.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed through the forest of",
+        "illusions, map in hand, you sense",
+        "a presence past the thicket up ahead.",
+        "[Page]",
+        "",
+        "When you cautiously peek through the",
+        "branches, you see a shadowy monster",
+        "with its back turned to you.",
+        "[Page]",
+        "",
+        "If there is anyone in your party",
+        "skilled at ambushes or sniping,",
+        "you could try attacking the monster.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Attack the monster?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Attack the monster?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will attack?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will attack?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] peers into the thicket to",
+        "prepare an ambush, but then cries out",
+        "for the party to look behind them!",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] peers into the thicket to",
+        "prepare an ambush, but then cries out",
+        "for the party to look behind them!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You quickly turn and see that a horde",
+        "of monsters has surrounded you!",
+        "[Page]",
+        "",
+        "It seems the shadow in the thicket",
+        "was a ruse formed by a spell!",
+        "[Page]",
+        "",
+        "Luckily, the monsters panic to see you",
+        "penetrate their ruse and you catch",
+        "them off guard as you enter battle!",
+        ""
+      ],
+      "Translation": [
+        "You quickly turn and see that a horde",
+        "of monsters has surrounded you!",
+        "[Page]",
+        "",
+        "It seems the shadow in the thicket",
+        "was a ruse formed by a spell!",
+        "[Page]",
+        "",
+        "Luckily, the monsters panic to see you",
+        "penetrate their ruse and you catch",
+        "them off guard as you enter battle!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] peers into the thicket with",
+        "an arrow readied, but then cries out",
+        "for the party to look behind them!",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] peers into the thicket with",
+        "an arrow readied, but then cries out",
+        "for the party to look behind them!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "You quickly turn and see that a horde",
+        "of monsters has surrounded you!",
+        "[Page]",
+        "",
+        "It seems the shadow in the thicket",
+        "was a ruse formed by a spell!",
+        "[Page]",
+        "",
+        "Luckily, the monsters panic to see you",
+        "penetrate their ruse and you catch",
+        "them off guard as you enter battle!",
+        ""
+      ],
+      "Translation": [
+        "You quickly turn and see that a horde",
+        "of monsters has surrounded you!",
+        "[Page]",
+        "",
+        "It seems the shadow in the thicket",
+        "was a ruse formed by a spell!",
+        "[Page]",
+        "",
+        "Luckily, the monsters panic to see you",
+        "penetrate their ruse and you catch",
+        "them off guard as you enter battle!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Weapon at the ready, [Character:0]",
+        "attacks the shadowy fiend!",
+        "[Page]",
+        "",
+        "But when you see [Character:0]'s attack",
+        "strike naught but air, you realize",
+        "that you have fallen into a trap!",
+        "[Page]",
+        "",
+        "Too late, you deduce that the shadow",
+        "in the thicket was a ruse formed by",
+        "a spell!",
+        ""
+      ],
+      "Translation": [
+        "Weapon at the ready, [Character:0]",
+        "attacks the shadowy fiend!",
+        "[Page]",
+        "",
+        "But when you see [Character:0]'s attack",
+        "strike naught but air, you realize",
+        "that you have fallen into a trap!",
+        "[Page]",
+        "",
+        "Too late, you deduce that the shadow",
+        "in the thicket was a ruse formed by",
+        "a spell!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Unfortunately, you have no chance to",
+        "brace yourselves as the monsters",
+        "launch their attack!",
+        ""
+      ],
+      "Translation": [
+        "Unfortunately, you have no chance to",
+        "brace yourselves as the monsters",
+        "launch their attack!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Thanks to your ally versed in sensing",
+        "nearby presences, you handily deal",
+        "with the crisis.",
+        "[Page]",
+        "",
+        "You thank your guildmate for their",
+        "meritorious deeds and resume your",
+        "walk down the forest path...",
+        ""
+      ],
+      "Translation": [
+        "Thanks to your ally versed in sensing",
+        "nearby presences, you handily deal",
+        "with the crisis.",
+        "[Page]",
+        "",
+        "You thank your guildmate for their",
+        "meritorious deeds and resume your",
+        "walk down the forest path...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Thanks to your ally's skill at",
+        "sniping, you handily deal with",
+        "the crisis.",
+        "[Page]",
+        "",
+        "You thank your guildmate for their",
+        "meritorious deeds and resume your",
+        "walk down the forest path...",
+        ""
+      ],
+      "Translation": [
+        "Thanks to your ally's skill at",
+        "sniping, you handily deal with",
+        "the crisis.",
+        "[Page]",
+        "",
+        "You thank your guildmate for their",
+        "meritorious deeds and resume your",
+        "walk down the forest path...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "After managing to deal with the",
+        "crisis, you hastily return to your",
+        "travels.",
+        ""
+      ],
+      "Translation": [
+        "After managing to deal with the",
+        "crisis, you hastily return to your",
+        "travels.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Seeing a monster so defenseless seems",
+        "unnatural, and you elect not to get",
+        "involved.",
+        ""
+      ],
+      "Translation": [
+        "Seeing a monster so defenseless seems",
+        "unnatural, and you elect not to get",
+        "involved.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "As you journey through the mist-",
+        "choked maze, you eventually reach",
+        "the end of an open area.",
+        "[Page]",
+        "",
+        "There, you see a large leaf jutting",
+        "out. A steady drip of water from above",
+        "is pooling in it.",
+        "[Page]",
+        "",
+        "If you wish to quench your thirst,",
+        "this is a perfect opportunity, though",
+        "there is only water enough for one.",
+        ""
+      ],
+      "Translation": [
+        "As you journey through the mist-",
+        "choked maze, you eventually reach",
+        "the end of an open area.",
+        "[Page]",
+        "",
+        "There, you see a large leaf jutting",
+        "out. A steady drip of water from above",
+        "is pooling in it.",
+        "[Page]",
+        "",
+        "If you wish to quench your thirst,",
+        "this is a perfect opportunity, though",
+        "there is only water enough for one.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You find a large leaf jutting from a",
+        "corner, collecting water that drips",
+        "steadily from above.",
+        "[Page]",
+        "",
+        "There seems to be only water enough",
+        "for one, but if you wish to quench",
+        "your thirst, you are free to do so.",
+        ""
+      ],
+      "Translation": [
+        "You find a large leaf jutting from a",
+        "corner, collecting water that drips",
+        "steadily from above.",
+        "[Page]",
+        "",
+        "There seems to be only water enough",
+        "for one, but if you wish to quench",
+        "your thirst, you are free to do so.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Drink the water?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Drink the water?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will drink it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will drink it?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] raises the leaf, tips it, and",
+        "gulps down the pooled water.",
+        "[Page]",
+        "",
+        "[Character:0]'s passion for the adventure",
+        "is rekindled!",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] raises the leaf, tips it, and",
+        "gulps down the pooled water.",
+        "[Page]",
+        "",
+        "[Character:0]'s passion for the adventure",
+        "is rekindled!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] recovers 40 HP",
+        "and 10 TP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] recovers 40 HP",
+        "and 10 TP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "The water continues to drip down onto",
+        "the leaf... If you wait roughly a",
+        "day, the leaf should be full again.",
+        ""
+      ],
+      "Translation": [
+        "The water continues to drip down onto",
+        "the leaf... If you wait roughly a",
+        "day, the leaf should be full again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "It may be dangerous to stop here even",
+        "for a short time... You change your",
+        "mind and continue your travels.",
+        ""
+      ],
+      "Translation": [
+        "It may be dangerous to stop here even",
+        "for a short time... You change your",
+        "mind and continue your travels.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed through the thick mist",
+        "of the forest, you hear high-pitched",
+        "chirping at a dead end.",
+        "[Page]",
+        "",
+        "Looking toward the sound, you see a",
+        "bird's nest in the trees. An adorably",
+        "plump chick is warbling inside.",
+        "[Page]",
+        "",
+        "After gazing at the chick for a while,",
+        "your heart feels rested. Satisfied,",
+        "you go back the way you came.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed through the thick mist",
+        "of the forest, you hear high-pitched",
+        "chirping at a dead end.",
+        "[Page]",
+        "",
+        "Looking toward the sound, you see a",
+        "bird's nest in the trees. An adorably",
+        "plump chick is warbling inside.",
+        "[Page]",
+        "",
+        "After gazing at the chick for a while,",
+        "your heart feels rested. Satisfied,",
+        "you go back the way you came.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "You hear the chirping of a chick",
+        "calling for its mother...",
+        ""
+      ],
+      "Translation": [
+        "You hear the chirping of a chick",
+        "calling for its mother...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

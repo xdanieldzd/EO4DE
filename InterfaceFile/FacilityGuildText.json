@@ -1,0 +1,747 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Explorers Guild text",
+  "RelativePath": "InterfaceFile\\FacilityGuildText.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Add a new adventurer",
+        "to [Guild].",
+        ""
+      ],
+      "Translation": [
+        "Fügt [Guild] einen neuen",
+        "Abenteurer hinzu.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Allow a member of [Guild]",
+        "to leave, retire, or rest.",
+        ""
+      ],
+      "Translation": [
+        "Erlaubt einem Mitglied von [Guild]",
+        "zu gehen, zurück zu treten, oder zu ruhen.",
+        ""
+      ],
+      "Notes": [
+        "Text zu lang? Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Form an adventuring party",
+        "from [Guild]'s members.",
+        ""
+      ],
+      "Translation": [
+        "Bildet eine Gruppe von Abenteurern",
+        "aus [Guild]'s Mitgliedern.",
+        ""
+      ],
+      "Notes": [
+        "Text zu lang? Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Talk to the Guildmaster.",
+        ""
+      ],
+      "Translation": [
+        "Sprecht mit dem Gildenmeister.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Return to the plaza.",
+        ""
+      ],
+      "Translation": [
+        "Kehrt zum Hauptplatz zurück.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Which adventurer will you work with?",
+        "(Registered: [Variable1:0] Slots left: [Variable1:1])",
+        ""
+      ],
+      "Translation": [
+        "Mit welchem Abenteurer wollt Ihr arbeiten?",
+        "([Variable1:0] registriert, [Variable1:1] Plätze frei)",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "The adventurer's spot will be",
+        "filled by an enhanced recruit.",
+        ""
+      ],
+      "Translation": [
+        "Der Platz dieses Abenteurers wird von",
+        "einem besseren Rekruten eingenommen.",
+        ""
+      ],
+      "Notes": [
+        "Text zu lang? Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Reset skill points at the cost",
+        "of losing 2 levels.",
+        ""
+      ],
+      "Translation": [
+        "Setze Fähigkeitspunkt gegen eine Gebür",
+        "von 2 Levels zurück.",
+        ""
+      ],
+      "Notes": [
+        "Text zu lang? Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "The adventurer will leave",
+        "the guild immediately.",
+        ""
+      ],
+      "Translation": [
+        "Der Abenteurer wird die Gilde",
+        "sofort verlassen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Rename an adventurer.",
+        ""
+      ],
+      "Translation": [
+        "Benennt einen Abenteurer um.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Let [Variable1:0] rest?",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ruhen lassen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Are you certain you want to",
+        "give this adventurer a rest?",
+        ""
+      ],
+      "Translation": [
+        "Seit Ihr sicher, dass Ihr diesen",
+        "Abenteurer ruhen lassen wollt?",
+        ""
+      ],
+      "Notes": [
+        "Text zu lang? Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Retire [Variable1:0]?",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] zurücktreten lassen?",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Are you certain you want to",
+        "retire this adventurer?",
+        ""
+      ],
+      "Translation": [
+        "Seit Ihr sicher, dass Ihr diesen Abenteurer",
+        "zurücktreten lassen wollt?",
+        ""
+      ],
+      "Notes": [
+        "Text zu lang? Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Any equipment the adventurer",
+        "is wearing will also be lost.",
+        ""
+      ],
+      "Translation": [
+        "Die gesamte Ausrüstung des",
+        "Abenteurers geht verloren.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Dismiss [Variable1:0]?",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] gehen lassen?",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Are you certain you want to",
+        "dismiss this adventurer?",
+        ""
+      ],
+      "Translation": [
+        "Seit Ihr sicher, dass Ihr diesen Abenteurer",
+        "gehen lassen wollt?",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "The fee to change your registered",
+        "name is 1000en. Are you certain?",
+        ""
+      ],
+      "Translation": [
+        "Die Gebühr für die Umbenennung",
+        "beträgt 1000en. Seit Ihr sicher?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "You don't have enough money!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt nicht genügend Geld!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Form an adventuring party",
+        "from [Guild]'s members.",
+        ""
+      ],
+      "Translation": [
+        "Bildet eine Gruppe von Abenteurern",
+        "aus [Guild]'s Mitgliedern.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "After [Variable1:0] retired, an",
+        "apprentice stepped in.",
+        ""
+      ],
+      "Translation": [
+        "Nach [Variable1:0]'s Rücktritt springt",
+        "ein Lehrling ein.",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]",
+        "has rested.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ruht.",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]",
+        "has been dismissed.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist gegangen.",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "The new recruit was named...",
+        ""
+      ],
+      "Translation": [
+        "Der neue Rekrut nannte sich…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Is this the party you wish?",
+        ""
+      ],
+      "Translation": [
+        "Ist diese Gruppe in Ordnung?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "No one is registered",
+        "in [Guild]!",
+        ""
+      ],
+      "Translation": [
+        "Niemand ist in [Guild] registriert!",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s roster is full!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Liste ist voll!",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Your inventory is too full to",
+        "remove any equipment! Please",
+        "discard some of your belongings.",
+        ""
+      ],
+      "Translation": [
+        "Euer Inventar ist voll. Es kann keine",
+        "Ausrüstung entfernt werden. Bitte",
+        "legt etwas von eurem Besitz ab.",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Dead or petrified adventurers",
+        "cannot be retired or dismissed!",
+        ""
+      ],
+      "Translation": [
+        "Verstorbene oder versteinerte",
+        "Abenteurer können nicht zurücktreten",
+        "oder gehen!",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Assign a subclass.",
+        ""
+      ],
+      "Translation": [
+        "Eine Unterklasse auswählen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Form [Guild]'s party.",
+        ""
+      ],
+      "Translation": [
+        "[Guild]'s Gruppe bilden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Rearrange the members",
+        "of [Guild].",
+        ""
+      ],
+      "Translation": [
+        "Mitglieder von [Guild]",
+        "neu aufstellen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Register the current party",
+        "formation to your favorites.",
+        ""
+      ],
+      "Translation": [
+        "Die aktuelle Gruppe als",
+        "Favorit registrieren.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Reassume a favorite party",
+        "formation.",
+        ""
+      ],
+      "Translation": [
+        "Eine favorisierte Gruppe",
+        "wieder aufstellen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "This adventurer will leave and be",
+        "replaced by a level [Variable1:1] adventurer",
+        "with extra stats and skill points.",
+        ""
+      ],
+      "Translation": [
+        "Der Abenteurer verlässt die Gilde und",
+        "wird von einem Level [Variable1:1]-Abenteurer",
+        "mit besseren Statuswerten ersetzt.",
+        ""
+      ],
+      "Notes": [
+        "Text zu lang? Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "There are no squads to choose from!",
+        "Check the registered squads.",
+        ""
+      ],
+      "Translation": [
+        "Keine wählbare Gruppe vorhanden!",
+        "Bitte prüft die registrierten Gruppen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "Call up this party?",
+        ""
+      ],
+      "Translation": [
+        "Diese Gruppe wieder aufstellen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Set characters in the party!",
+        ""
+      ],
+      "Translation": [
+        "Charaktere der Gruppe auswählen!",
+        ""
+      ],
+      "Notes": [
+        "Kontext? Bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "This character has already been",
+        "assigned a subclass.",
+        ""
+      ],
+      "Translation": [
+        "Diesem Charakter wurde bereits eine",
+        "Unterklasse zugeteilt.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "Since this character is not an",
+        "official member of [Guild], they",
+        "cannot be assigned a subclass.",
+        ""
+      ],
+      "Translation": [
+        "Da dieser Charakter kein offizielles",
+        "Mitglied von [Guild] ist, kann",
+        "ihm keine Unterklasse zugeteilt werden.",
+        ""
+      ],
+      "Notes": [
+        "Text zu lang? Bessere Übersetzung?",
+        ""
+      ]
+    }
+  ]
+}

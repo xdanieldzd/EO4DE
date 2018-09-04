@@ -1,0 +1,2213 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Airport",
+  "RelativePath": "Event\\Facility\\Airport.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "\"Welcome, [Guild] Guild! This place",
+        "here is my castle.",
+        "[Page]",
+        "",
+        "\"The wharf is where Tharsis opens up",
+        "to the outside world... Many a",
+        "merchant comes here to trade.",
+        "[Page]",
+        "",
+        "\"Explorers come and go as they please,",
+        "too, seeing as this is where we fix",
+        "up their skyships.",
+        "[Page]",
+        "",
+        "\"Oh, speaking of which, let me give",
+        "yeh this before I forget.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Welcome, [Guild] Guild! This place",
+        "here is my castle.",
+        "[Page]",
+        "",
+        "\"The wharf is where Tharsis opens up",
+        "to the outside world... Many a",
+        "merchant comes here to trade.",
+        "[Page]",
+        "",
+        "\"Explorers come and go as they please,",
+        "too, seeing as this is where we fix",
+        "up their skyships.",
+        "[Page]",
+        "",
+        "\"Oh, speaking of which, let me give",
+        "yeh this before I forget.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "\"That's for your skyship. It should",
+        "help yeh find some of that [Color:5]treasure[Color:0]",
+        "sleeping in the great wide world.",
+        "[Page]",
+        "",
+        "\"It'll help to have clues to find",
+        "some of it, but yeh'll have to ask",
+        "your fellow explorers about that.\"",
+        "[Page]",
+        "",
+        "[Color:3]At the wharf, you can activate the",
+        "StreetPass feature and try scanning",
+        "a QR Code.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Use the StreetPass feature to pick up",
+        "other players' guild cards and their",
+        "included representatives...[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You can also get clues to new",
+        "treasures findable with the",
+        "[Color:6][Item:2187][Color:3].[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]With the QR Code feature, you can",
+        "unlock guild cards, exclusive items,",
+        "and even quests![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "\"That's for your skyship. It should",
+        "help yeh find some of that [Color:5]treasure[Color:0]",
+        "sleeping in the great wide world.",
+        "[Page]",
+        "",
+        "\"It'll help to have clues to find",
+        "some of it, but yeh'll have to ask",
+        "your fellow explorers about that.\"",
+        "[Page]",
+        "",
+        "[Color:3]At the wharf, you can activate the",
+        "StreetPass feature and try scanning",
+        "a QR Code.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Use the StreetPass feature to pick up",
+        "other players' guild cards and their",
+        "included representatives...[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You can also get clues to new",
+        "treasures findable with the",
+        "[Color:6][Item:2187][Color:3].[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]With the QR Code feature, you can",
+        "unlock guild cards, exclusive items,",
+        "and even quests![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "\"That's for your skyship. It should",
+        "help yeh find some of that [Color:5]treasure[Color:0]",
+        "sleeping in the great wide world.",
+        "[Page]",
+        "",
+        "\"It'll help to have clues to find",
+        "some of it, but yeh'll have to ask",
+        "your fellow explorers about that.\"",
+        "[Page]",
+        "",
+        "[Color:3]In the full game's wharf, you can",
+        "activate the [Color:5]StreetPass feature[Color:3].[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Use the StreetPass feature to pick up",
+        "other players' guild cards and their",
+        "included representatives...[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You can also get clues to new",
+        "treasures findable with the",
+        "[Color:6][Item:2187][Color:3].[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]For this demo, you are limited to",
+        "receiving [Color:5]items[Color:3] via QR Code.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]But in the full game, you can unlock",
+        "[Color:5]guild cards and even [Color:5]quests[Color:3]![Color:3]",
+        ""
+      ],
+      "Translation": [
+        "\"That's for your skyship. It should",
+        "help yeh find some of that [Color:5]treasure[Color:0]",
+        "sleeping in the great wide world.",
+        "[Page]",
+        "",
+        "\"It'll help to have clues to find",
+        "some of it, but yeh'll have to ask",
+        "your fellow explorers about that.\"",
+        "[Page]",
+        "",
+        "[Color:3]In the full game's wharf, you can",
+        "activate the [Color:5]StreetPass feature[Color:3].[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Use the StreetPass feature to pick up",
+        "other players' guild cards and their",
+        "included representatives...[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You can also get clues to new",
+        "treasures findable with the",
+        "[Color:6][Item:2187][Color:3].[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]For this demo, you are limited to",
+        "receiving [Color:5]items[Color:3] via QR Code.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]But in the full game, you can unlock",
+        "[Color:5]guild cards and even [Color:5]quests[Color:3]![Color:3]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "At the wharf to the south of the city,",
+        "merchants from afar carry their goods",
+        "about, trading with cutthroat fervor.",
+        "[Page]",
+        "",
+        "It seems primarily a place for their",
+        "business negotiations... You doubt",
+        "they will sell directly to explorers.",
+        "[Page]",
+        "",
+        "Feeling a bit out of your element,",
+        "you return to the city square.",
+        ""
+      ],
+      "Translation": [
+        "At the wharf to the south of the city,",
+        "merchants from afar carry their goods",
+        "about, trading with cutthroat fervor.",
+        "[Page]",
+        "",
+        "It seems primarily a place for their",
+        "business negotiations... You doubt",
+        "they will sell directly to explorers.",
+        "[Page]",
+        "",
+        "Feeling a bit out of your element,",
+        "you return to the city square.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "\"There yeh are, [Guild]. I've been",
+        "waiting for yeh. Now, show me that",
+        "rock yeh found.\"",
+        "[Page]",
+        "",
+        "The wharf master takes the [Color:6][Item:1226][Color:0]",
+        "from you.",
+        ""
+      ],
+      "Translation": [
+        "\"There yeh are, [Guild]. I've been",
+        "waiting for yeh. Now, show me that",
+        "rock yeh found.\"",
+        "[Page]",
+        "",
+        "The wharf master takes the [Color:6][Item:1226][Color:0]",
+        "from you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "\"'lo, [Guild]. How's tricks? Need",
+        "to talk to me about something?\"",
+        "[Page]",
+        "",
+        "You show the [Color:6][Item:1226][Color:0] you",
+        "discovered in the labyrinth to",
+        "the wharf master.",
+        "[Page]",
+        "",
+        "\"Ahhh... Very interesting. I'd say",
+        "this is worth looking into.\" The",
+        "wharf master takes the [Color:6][Item:1226][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "\"'lo, [Guild]. How's tricks? Need",
+        "to talk to me about something?\"",
+        "[Page]",
+        "",
+        "You show the [Color:6][Item:1226][Color:0] you",
+        "discovered in the labyrinth to",
+        "the wharf master.",
+        "[Page]",
+        "",
+        "\"Ahhh... Very interesting. I'd say",
+        "this is worth looking into.\" The",
+        "wharf master takes the [Color:6][Item:1226][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "\"I knew it! This rock creates a gas",
+        "that's lighter than air. Seems more",
+        "effective than the [Color:6][Item:1173][Color:0].",
+        "[Page]",
+        "",
+        "\"Here, give me a minute.\" The wharf",
+        "master begins his work on installing",
+        "the [Color:6][Item:1226][Color:0] into your skyship.",
+        "[Page]",
+        "",
+        "\"Yeh look bored,\" he says as he works.",
+        "\"Long as yeh're sitting around, why",
+        "not have a bit of storytime?",
+        "[Page]",
+        "",
+        "\"People will tell yeh that the old",
+        "wharf master invented these skyships",
+        "we use.",
+        "[Page]",
+        "",
+        "\"But don't yeh listen to them.",
+        "[Page]",
+        "",
+        "\"A tad over ten years ago, on a stormy",
+        "night, something big crashed down from",
+        "the sky. It was a flying machine.",
+        "[Page]",
+        "",
+        "\"Took us over five years to repair the",
+        "thing. We'd never have done it if not",
+        "for the discovery of [Item:1173].",
+        "[Page]",
+        "",
+        "\"I remember when Whirlwind suggested",
+        "we try using it as fuel.",
+        "[Page]",
+        "",
+        "\"Wasn't long between that and us",
+        "taking the first skyship up for a",
+        "ride,\" the wharf master laughs.",
+        "[Page]",
+        "",
+        "\"Around about then, the Outland Count",
+        "started rounding up explorers.",
+        "[Page]",
+        "",
+        "\"His interest in Yggdrasil is keen",
+        "enough, but I bet yeh his real dream",
+        "is to meet that skyship's builders.",
+        "[Page]",
+        "",
+        "\"I don't know who flew it here, but",
+        "the thing's damned impressive. It was",
+        "capable of much more than we can do.",
+        "[Page]",
+        "",
+        "\"Aaaand... done. The [Skyship]'ll fly",
+        "higher now. Go and give it a try!",
+        "[Page]",
+        "",
+        "\"The crashed skyship came from the",
+        "northern skies. Maybe someday, yeh'll",
+        "find out what it really was...\"",
+        ""
+      ],
+      "Translation": [
+        "\"I knew it! This rock creates a gas",
+        "that's lighter than air. Seems more",
+        "effective than the [Color:6][Item:1173][Color:0].",
+        "[Page]",
+        "",
+        "\"Here, give me a minute.\" The wharf",
+        "master begins his work on installing",
+        "the [Color:6][Item:1226][Color:0] into your skyship.",
+        "[Page]",
+        "",
+        "\"Yeh look bored,\" he says as he works.",
+        "\"Long as yeh're sitting around, why",
+        "not have a bit of storytime?",
+        "[Page]",
+        "",
+        "\"People will tell yeh that the old",
+        "wharf master invented these skyships",
+        "we use.",
+        "[Page]",
+        "",
+        "\"But don't yeh listen to them.",
+        "[Page]",
+        "",
+        "\"A tad over ten years ago, on a stormy",
+        "night, something big crashed down from",
+        "the sky. It was a flying machine.",
+        "[Page]",
+        "",
+        "\"Took us over five years to repair the",
+        "thing. We'd never have done it if not",
+        "for the discovery of [Item:1173].",
+        "[Page]",
+        "",
+        "\"I remember when Whirlwind suggested",
+        "we try using it as fuel.",
+        "[Page]",
+        "",
+        "\"Wasn't long between that and us",
+        "taking the first skyship up for a",
+        "ride,\" the wharf master laughs.",
+        "[Page]",
+        "",
+        "\"Around about then, the Outland Count",
+        "started rounding up explorers.",
+        "[Page]",
+        "",
+        "\"His interest in Yggdrasil is keen",
+        "enough, but I bet yeh his real dream",
+        "is to meet that skyship's builders.",
+        "[Page]",
+        "",
+        "\"I don't know who flew it here, but",
+        "the thing's damned impressive. It was",
+        "capable of much more than we can do.",
+        "[Page]",
+        "",
+        "\"Aaaand... done. The [Skyship]'ll fly",
+        "higher now. Go and give it a try!",
+        "[Page]",
+        "",
+        "\"The crashed skyship came from the",
+        "northern skies. Maybe someday, yeh'll",
+        "find out what it really was...\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your skyship can now reach a higher",
+        "altitude.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your skyship can now reach a higher",
+        "altitude.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "\"There yeh are, [Guild] Guild.",
+        "I've been waiting for yeh. Let's have",
+        "a look at this black rock of yours.",
+        "[Page]",
+        "",
+        "\"Er...",
+        "[Page]",
+        "",
+        "\"So...?",
+        "[Page]",
+        "",
+        "\"Come on, out with it.",
+        "[Page]",
+        "",
+        "\"WHAT!? What do you mean!?\"",
+        "[Page]",
+        "",
+        "The wharf master doesn't bother hiding",
+        "his anguish to hear that you have",
+        "divested yourself of the [Color:6][Item:1226][Color:0].",
+        "[Page]",
+        "",
+        "\"Did yeh sell it? Throw it away? Ugh!",
+        "Well, hurry and go get another! And",
+        "yeh'd better hang on to this one!\"",
+        ""
+      ],
+      "Translation": [
+        "\"There yeh are, [Guild] Guild.",
+        "I've been waiting for yeh. Let's have",
+        "a look at this black rock of yours.",
+        "[Page]",
+        "",
+        "\"Er...",
+        "[Page]",
+        "",
+        "\"So...?",
+        "[Page]",
+        "",
+        "\"Come on, out with it.",
+        "[Page]",
+        "",
+        "\"WHAT!? What do you mean!?\"",
+        "[Page]",
+        "",
+        "The wharf master doesn't bother hiding",
+        "his anguish to hear that you have",
+        "divested yourself of the [Color:6][Item:1226][Color:0].",
+        "[Page]",
+        "",
+        "\"Did yeh sell it? Throw it away? Ugh!",
+        "Well, hurry and go get another! And",
+        "yeh'd better hang on to this one!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "\"Welcome back, lackwits. Yeh'd better",
+        "have what I've been waiting for.\" The",
+        "wharf master is... harsher than usual.",
+        "[Page]",
+        "",
+        "This time, you do not fail to hand",
+        "the [Color:6][Item:1226][Color:0] to him.",
+        ""
+      ],
+      "Translation": [
+        "\"Welcome back, lackwits. Yeh'd better",
+        "have what I've been waiting for.\" The",
+        "wharf master is... harsher than usual.",
+        "[Page]",
+        "",
+        "This time, you do not fail to hand",
+        "the [Color:6][Item:1226][Color:0] to him.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "The wharf is bustling with more people",
+        "than usual. Most of them seem to be",
+        "explorers.",
+        "[Page]",
+        "",
+        "As you take in the scene, the wharf",
+        "master raises a hand to get your",
+        "attention.",
+        ""
+      ],
+      "Translation": [
+        "The wharf is bustling with more people",
+        "than usual. Most of them seem to be",
+        "explorers.",
+        "[Page]",
+        "",
+        "As you take in the scene, the wharf",
+        "master raises a hand to get your",
+        "attention.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "\"Surprised to see the place packed?",
+        "Rumor of the Titan spread outside the",
+        "city. We're full up with explorers!",
+        "[Page]",
+        "",
+        "\"Too bad they're too late! Yeh took",
+        "care of it already, after all!\" The",
+        "wharf master laughs ironically.",
+        "[Page]",
+        "",
+        "\"Now they're all talking up the famous",
+        "[Guild] Guild. They want to meet the",
+        "guys who downed the Titan.",
+        "[Page]",
+        "",
+        "\"If it's all the same to yeh, I say",
+        "yeh take them into the labyrinth with",
+        "yeh. I'm sure they won't say no!\"",
+        "[Page]",
+        "",
+        "The wharf master gleefully slaps you",
+        "on the shoulder before returning to",
+        "his work.",
+        ""
+      ],
+      "Translation": [
+        "\"Surprised to see the place packed?",
+        "Rumor of the Titan spread outside the",
+        "city. We're full up with explorers!",
+        "[Page]",
+        "",
+        "\"Too bad they're too late! Yeh took",
+        "care of it already, after all!\" The",
+        "wharf master laughs ironically.",
+        "[Page]",
+        "",
+        "\"Now they're all talking up the famous",
+        "[Guild] Guild. They want to meet the",
+        "guys who downed the Titan.",
+        "[Page]",
+        "",
+        "\"If it's all the same to yeh, I say",
+        "yeh take them into the labyrinth with",
+        "yeh. I'm sure they won't say no!\"",
+        "[Page]",
+        "",
+        "The wharf master gleefully slaps you",
+        "on the shoulder before returning to",
+        "his work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The level restriction on characters",
+        "registered from guild cards has",
+        "been lifted.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The level restriction on characters",
+        "registered from guild cards has",
+        "been lifted.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "*yawn* I'm bored... I haven't seen an",
+        "explorer worth a damn in weeks.",
+        "[Page]",
+        "",
+        "Yeh know what I'd like? If a group of",
+        "upstart rookies showed up and really",
+        "raised some hell.",
+        ""
+      ],
+      "Translation": [
+        "*yawn* I'm bored... I haven't seen an",
+        "explorer worth a damn in weeks.",
+        "[Page]",
+        "",
+        "Yeh know what I'd like? If a group of",
+        "upstart rookies showed up and really",
+        "raised some hell.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Hey there. The Tharsis explorers",
+        "haven't been up to much lately...",
+        "[Page]",
+        "",
+        "If yeh get results, I bet that'll",
+        "shock them into shape. I have high",
+        "hopes for yeh! Good luck!",
+        ""
+      ],
+      "Translation": [
+        "Hey there. The Tharsis explorers",
+        "haven't been up to much lately...",
+        "[Page]",
+        "",
+        "If yeh get results, I bet that'll",
+        "shock them into shape. I have high",
+        "hopes for yeh! Good luck!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "So, yeh've been to the Lush Woodlands?",
+        "How'd the [Skyship] handle on your",
+        "way there?",
+        "[Page]",
+        "",
+        "Using a Geomagnetic Pole in the big",
+        "mazes makes coming and going easy, but",
+        "it's not all it's cracked up to be.",
+        "[Page]",
+        "",
+        "Skipping the flight over there means",
+        "yeh'll be wandering around without",
+        "a good meal!",
+        "[Page]",
+        "",
+        "Yeh should think about how yeh want",
+        "to get to your dungeons. It's about",
+        "the journey, not the destination...",
+        ""
+      ],
+      "Translation": [
+        "So, yeh've been to the Lush Woodlands?",
+        "How'd the [Skyship] handle on your",
+        "way there?",
+        "[Page]",
+        "",
+        "Using a Geomagnetic Pole in the big",
+        "mazes makes coming and going easy, but",
+        "it's not all it's cracked up to be.",
+        "[Page]",
+        "",
+        "Skipping the flight over there means",
+        "yeh'll be wandering around without",
+        "a good meal!",
+        "[Page]",
+        "",
+        "Yeh should think about how yeh want",
+        "to get to your dungeons. It's about",
+        "the journey, not the destination...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "It's rare yeh see the soldiers here",
+        "so on edge. Though I can't blame them,",
+        "after what happened to their mates.",
+        "[Page]",
+        "",
+        "Don't yeh go thinking about a revenge",
+        "trip, now. Yeh need to focus on",
+        "coming back alive.",
+        "[Page]",
+        "",
+        "If the monsters in the Lush Woodlands",
+        "are too strong for yeh, then yeh may",
+        "want to try one of the caves nearby.",
+        "[Page]",
+        "",
+        "More haste, less speed, as they say.",
+        "Careful as yeh go.",
+        ""
+      ],
+      "Translation": [
+        "It's rare yeh see the soldiers here",
+        "so on edge. Though I can't blame them,",
+        "after what happened to their mates.",
+        "[Page]",
+        "",
+        "Don't yeh go thinking about a revenge",
+        "trip, now. Yeh need to focus on",
+        "coming back alive.",
+        "[Page]",
+        "",
+        "If the monsters in the Lush Woodlands",
+        "are too strong for yeh, then yeh may",
+        "want to try one of the caves nearby.",
+        "[Page]",
+        "",
+        "More haste, less speed, as they say.",
+        "Careful as yeh go.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Hey, have yeh been taking advantage of",
+        "this wharf's potential? Sure, I know",
+        "yeh're no trader...",
+        "[Page]",
+        "",
+        "But a lot of traffic comes through",
+        "here, on all kinds of business.",
+        "[Page]",
+        "",
+        "I'm sure some of it's bound to be",
+        "worth your while.",
+        ""
+      ],
+      "Translation": [
+        "Hey, have yeh been taking advantage of",
+        "this wharf's potential? Sure, I know",
+        "yeh're no trader...",
+        "[Page]",
+        "",
+        "But a lot of traffic comes through",
+        "here, on all kinds of business.",
+        "[Page]",
+        "",
+        "I'm sure some of it's bound to be",
+        "worth your while.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "Skyship equipment isn't sold to the",
+        "public. That's why it's not easy to",
+        "find more parts for the old girl.",
+        "[Page]",
+        "",
+        "Yeh might have an easier time getting",
+        "it from other explorers. Have yeh ever",
+        "seen blue or red skyships up there?",
+        "[Page]",
+        "",
+        "Maybe yeh should try talking to them",
+        "and helping with any problems they",
+        "have. That's what explorers do, yeah?",
+        ""
+      ],
+      "Translation": [
+        "Skyship equipment isn't sold to the",
+        "public. That's why it's not easy to",
+        "find more parts for the old girl.",
+        "[Page]",
+        "",
+        "Yeh might have an easier time getting",
+        "it from other explorers. Have yeh ever",
+        "seen blue or red skyships up there?",
+        "[Page]",
+        "",
+        "Maybe yeh should try talking to them",
+        "and helping with any problems they",
+        "have. That's what explorers do, yeah?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "So tell me, what do yeh think of",
+        "sailing the skies? Great, isn't it?",
+        "[Page]",
+        "",
+        "Yeh can go into the Misty Ravine by",
+        "flying higher, but don't forget...",
+        "[Page]",
+        "",
+        "There are places right here in the",
+        "Windy Plains yeh probably haven't",
+        "been to since they're so high up.",
+        "[Page]",
+        "",
+        "Yeh should try poking around when yeh",
+        "have the time. Maybe yeh'll make a",
+        "new discovery or two.",
+        ""
+      ],
+      "Translation": [
+        "So tell me, what do yeh think of",
+        "sailing the skies? Great, isn't it?",
+        "[Page]",
+        "",
+        "Yeh can go into the Misty Ravine by",
+        "flying higher, but don't forget...",
+        "[Page]",
+        "",
+        "There are places right here in the",
+        "Windy Plains yeh probably haven't",
+        "been to since they're so high up.",
+        "[Page]",
+        "",
+        "Yeh should try poking around when yeh",
+        "have the time. Maybe yeh'll make a",
+        "new discovery or two.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "What, my Da? He's retired now, but",
+        "he's fine.",
+        "[Page]",
+        "",
+        "He still tinkers with skyships as a",
+        "hobby. Yeh should have seen how happy",
+        "he was to fit more gadgets onto his.",
+        "[Page]",
+        "",
+        "If my Da's right, the day might not be",
+        "far off when we can fit three pieces",
+        "of equipment onto a skyship.",
+        ""
+      ],
+      "Translation": [
+        "What, my Da? He's retired now, but",
+        "he's fine.",
+        "[Page]",
+        "",
+        "He still tinkers with skyships as a",
+        "hobby. Yeh should have seen how happy",
+        "he was to fit more gadgets onto his.",
+        "[Page]",
+        "",
+        "If my Da's right, the day might not be",
+        "far off when we can fit three pieces",
+        "of equipment onto a skyship.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "I heard from the Outland Count that",
+        "there's this Medium with the Vessels.",
+        "[Page]",
+        "",
+        "The Vessels aren't human, but their",
+        "boss is? How does that work?",
+        "[Page]",
+        "",
+        "And if there aren't any other humans",
+        "there... where the devil did the",
+        "Medium come from? Hmm...",
+        ""
+      ],
+      "Translation": [
+        "I heard from the Outland Count that",
+        "there's this Medium with the Vessels.",
+        "[Page]",
+        "",
+        "The Vessels aren't human, but their",
+        "boss is? How does that work?",
+        "[Page]",
+        "",
+        "And if there aren't any other humans",
+        "there... where the devil did the",
+        "Medium come from? Hmm...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "I tell yeh, I'm stumped... I didn't",
+        "figure on the snow falling so strong",
+        "in the Sacred Mountains.",
+        "[Page]",
+        "",
+        "Yeh won't be able to gain any altitude",
+        "in that kind of snowfall. And so many",
+        "tornadoes...!",
+        "[Page]",
+        "",
+        "The skies there have a lot more bite",
+        "than the ones we know here. Don't let",
+        "your guard down.",
+        ""
+      ],
+      "Translation": [
+        "I tell yeh, I'm stumped... I didn't",
+        "figure on the snow falling so strong",
+        "in the Sacred Mountains.",
+        "[Page]",
+        "",
+        "Yeh won't be able to gain any altitude",
+        "in that kind of snowfall. And so many",
+        "tornadoes...!",
+        "[Page]",
+        "",
+        "The skies there have a lot more bite",
+        "than the ones we know here. Don't let",
+        "your guard down.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Yeh've been at this long enough to",
+        "have seen a dragon up in those skies",
+        "at least once, right?",
+        "[Page]",
+        "",
+        "The golden one in the Scarlet Pillars",
+        "or the giant scarlet one in the Windy",
+        "Plains... either could crush yeh.",
+        "[Page]",
+        "",
+        "Rumor has it there's a three-headed",
+        "blue one in the Sacred Mountains too.",
+        "Isn't there anything we can do...?",
+        ""
+      ],
+      "Translation": [
+        "Yeh've been at this long enough to",
+        "have seen a dragon up in those skies",
+        "at least once, right?",
+        "[Page]",
+        "",
+        "The golden one in the Scarlet Pillars",
+        "or the giant scarlet one in the Windy",
+        "Plains... either could crush yeh.",
+        "[Page]",
+        "",
+        "Rumor has it there's a three-headed",
+        "blue one in the Sacred Mountains too.",
+        "Isn't there anything we can do...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "I heard yeh ran into those Sentinel",
+        "guys this time.",
+        "[Page]",
+        "",
+        "They gave yeh a gift to bring back",
+        "here, eh? Sounds like they're nicer",
+        "sorts than the Vessels.",
+        "[Page]",
+        "",
+        "But they're having some kind of",
+        "problem, right? I'd say yeh owe it",
+        "to them to help now.",
+        ""
+      ],
+      "Translation": [
+        "I heard yeh ran into those Sentinel",
+        "guys this time.",
+        "[Page]",
+        "",
+        "They gave yeh a gift to bring back",
+        "here, eh? Sounds like they're nicer",
+        "sorts than the Vessels.",
+        "[Page]",
+        "",
+        "But they're having some kind of",
+        "problem, right? I'd say yeh owe it",
+        "to them to help now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "Search going well, I hope? Oh...",
+        "Well, don't overcompensate.",
+        "[Page]",
+        "",
+        "If yeh think yeh're in trouble, make",
+        "a practice run or two in the little",
+        "caves. That's the smart way.",
+        "[Page]",
+        "",
+        "There's, what, three little caves in",
+        "the Sacred Mountains? If yeh haven't",
+        "seen them all yet, why not go look?",
+        ""
+      ],
+      "Translation": [
+        "Search going well, I hope? Oh...",
+        "Well, don't overcompensate.",
+        "[Page]",
+        "",
+        "If yeh think yeh're in trouble, make",
+        "a practice run or two in the little",
+        "caves. That's the smart way.",
+        "[Page]",
+        "",
+        "There's, what, three little caves in",
+        "the Sacred Mountains? If yeh haven't",
+        "seen them all yet, why not go look?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "New skies and strange skyships, eh?",
+        "Those must be the original models of",
+        "the skyships we use.",
+        "[Page]",
+        "",
+        "I knew we'd eventually meet the guys",
+        "who built these things if the search",
+        "took us far enough...",
+        "[Page]",
+        "",
+        "I just didn't think they'd be so",
+        "unhappy to see us. Kind of puts a",
+        "damper on the whole thing...",
+        ""
+      ],
+      "Translation": [
+        "New skies and strange skyships, eh?",
+        "Those must be the original models of",
+        "the skyships we use.",
+        "[Page]",
+        "",
+        "I knew we'd eventually meet the guys",
+        "who built these things if the search",
+        "took us far enough...",
+        "[Page]",
+        "",
+        "I just didn't think they'd be so",
+        "unhappy to see us. Kind of puts a",
+        "damper on the whole thing...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "That tune-up I did last time is the",
+        "last thing I can think to do for your",
+        "skyship.",
+        "[Page]",
+        "",
+        "The [Skyship] should be the equal of",
+        "any Imperial skyship now.",
+        "[Page]",
+        "",
+        "True, yeh don't have any cannon, but",
+        "yeh can fit whatever else yeh want",
+        "on it. Good luck, [Guild].",
+        ""
+      ],
+      "Translation": [
+        "That tune-up I did last time is the",
+        "last thing I can think to do for your",
+        "skyship.",
+        "[Page]",
+        "",
+        "The [Skyship] should be the equal of",
+        "any Imperial skyship now.",
+        "[Page]",
+        "",
+        "True, yeh don't have any cannon, but",
+        "yeh can fit whatever else yeh want",
+        "on it. Good luck, [Guild].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "That Whirlwind's true colors were an",
+        "Imperial knight, eh?",
+        "[Page]",
+        "",
+        "Ever since he started visiting the",
+        "Count, skyship development has gone",
+        "smooth as butter.",
+        "[Page]",
+        "",
+        "He must have given Tharsis skyship",
+        "technology so he could complete his",
+        "own mission...",
+        ""
+      ],
+      "Translation": [
+        "That Whirlwind's true colors were an",
+        "Imperial knight, eh?",
+        "[Page]",
+        "",
+        "Ever since he started visiting the",
+        "Count, skyship development has gone",
+        "smooth as butter.",
+        "[Page]",
+        "",
+        "He must have given Tharsis skyship",
+        "technology so he could complete his",
+        "own mission...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "I heard yeh got to see the Medium,",
+        "if only for a minute. Was she all",
+        "right, then?",
+        "[Page]",
+        "",
+        "Hmm... Bah, it doesn't matter what",
+        "their reasons were. I still can't",
+        "forgive them taking a little girl.",
+        "[Page]",
+        "",
+        "Go after them, [Guild]. Yeh need",
+        "to get that girl back safe and sound.",
+        ""
+      ],
+      "Translation": [
+        "I heard yeh got to see the Medium,",
+        "if only for a minute. Was she all",
+        "right, then?",
+        "[Page]",
+        "",
+        "Hmm... Bah, it doesn't matter what",
+        "their reasons were. I still can't",
+        "forgive them taking a little girl.",
+        "[Page]",
+        "",
+        "Go after them, [Guild]. Yeh need",
+        "to get that girl back safe and sound.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "The other day, I talked to an Imperial",
+        "technician who's working with us.",
+        "[Page]",
+        "",
+        "He said Yggdrasil withered because",
+        "something deep underground got turned",
+        "on and absorbed the tree's power.",
+        "[Page]",
+        "",
+        "It sounds bad for us, but there's some",
+        "good news. The Medium probably hasn't",
+        "been swallowed by whatever-it-is.",
+        "[Page]",
+        "",
+        "Which is to say, there's still time.",
+        "It's all riding on yeh, [Guild].",
+        ""
+      ],
+      "Translation": [
+        "The other day, I talked to an Imperial",
+        "technician who's working with us.",
+        "[Page]",
+        "",
+        "He said Yggdrasil withered because",
+        "something deep underground got turned",
+        "on and absorbed the tree's power.",
+        "[Page]",
+        "",
+        "It sounds bad for us, but there's some",
+        "good news. The Medium probably hasn't",
+        "been swallowed by whatever-it-is.",
+        "[Page]",
+        "",
+        "Which is to say, there's still time.",
+        "It's all riding on yeh, [Guild].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "I heard yeh made it to the Echoing",
+        "Library. I could help yeh if all yeh",
+        "needed was a good pilot...",
+        "[Page]",
+        "",
+        "But I had a thought. The part yeh",
+        "were at before and where yeh are",
+        "now... What if they were connected?",
+        "[Page]",
+        "",
+        "It'd sure make searching the Echoing",
+        "Library easier, not going through",
+        "the Forgotten Capital every time.",
+        ""
+      ],
+      "Translation": [
+        "I heard yeh made it to the Echoing",
+        "Library. I could help yeh if all yeh",
+        "needed was a good pilot...",
+        "[Page]",
+        "",
+        "But I had a thought. The part yeh",
+        "were at before and where yeh are",
+        "now... What if they were connected?",
+        "[Page]",
+        "",
+        "It'd sure make searching the Echoing",
+        "Library easier, not going through",
+        "the Forgotten Capital every time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Who'd have thought yeh could get all",
+        "the way to the Misty Ravine from the",
+        "Forgotten Capital?",
+        "[Page]",
+        "",
+        "Seems like all the big labyrinths",
+        "are connected.",
+        "[Page]",
+        "",
+        "And since the Forgotten Capital is",
+        "under Yggdrasil's root... yeh've been",
+        "inside Yggdrasil from the beginning!",
+        ""
+      ],
+      "Translation": [
+        "Who'd have thought yeh could get all",
+        "the way to the Misty Ravine from the",
+        "Forgotten Capital?",
+        "[Page]",
+        "",
+        "Seems like all the big labyrinths",
+        "are connected.",
+        "[Page]",
+        "",
+        "And since the Forgotten Capital is",
+        "under Yggdrasil's root... yeh've been",
+        "inside Yggdrasil from the beginning!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Credentials from four kings, eh?",
+        "Looks like you're finally back to",
+        "the Forgotten Capital.",
+        "[Page]",
+        "",
+        "Surely yeh're much stronger than the",
+        "last time yeh were there, no?",
+        "[Page]",
+        "",
+        "That was quite a roundabout way of",
+        "opening one door, but yeh're almost",
+        "there. Stay sharp, [Guild].",
+        ""
+      ],
+      "Translation": [
+        "Credentials from four kings, eh?",
+        "Looks like you're finally back to",
+        "the Forgotten Capital.",
+        "[Page]",
+        "",
+        "Surely yeh're much stronger than the",
+        "last time yeh were there, no?",
+        "[Page]",
+        "",
+        "That was quite a roundabout way of",
+        "opening one door, but yeh're almost",
+        "there. Stay sharp, [Guild].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "Yeh're going to where the Titan is,",
+        "right? Frankly... the situation might",
+        "be hopeless.",
+        "[Page]",
+        "",
+        "But if we've any chance of stopping",
+        "that thing, I think yeh're it.",
+        "[Page]",
+        "",
+        "The [Skyship]'s all ready for yeh.",
+        "It can take yeh there whenever yeh",
+        "like.",
+        ""
+      ],
+      "Translation": [
+        "Yeh're going to where the Titan is,",
+        "right? Frankly... the situation might",
+        "be hopeless.",
+        "[Page]",
+        "",
+        "But if we've any chance of stopping",
+        "that thing, I think yeh're it.",
+        "[Page]",
+        "",
+        "The [Skyship]'s all ready for yeh.",
+        "It can take yeh there whenever yeh",
+        "like.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, I was hoping yeh'd drop by! What",
+        "should I call yeh now? How about,",
+        "\"Titan Hunters\"?",
+        "[Page]",
+        "",
+        "C'mon, don't give me that... Fine,",
+        "fine. I'll keep calling yeh the",
+        "[Guild] Guild, like always.",
+        "[Page]",
+        "",
+        "I tell yeh... Yeh may be mighty",
+        "heroes now, but yeh're still the same",
+        "as when I met yeh at the city gates.",
+        "[Page]",
+        "",
+        "That's what I like about yeh, though!",
+        ""
+      ],
+      "Translation": [
+        "Ah, I was hoping yeh'd drop by! What",
+        "should I call yeh now? How about,",
+        "\"Titan Hunters\"?",
+        "[Page]",
+        "",
+        "C'mon, don't give me that... Fine,",
+        "fine. I'll keep calling yeh the",
+        "[Guild] Guild, like always.",
+        "[Page]",
+        "",
+        "I tell yeh... Yeh may be mighty",
+        "heroes now, but yeh're still the same",
+        "as when I met yeh at the city gates.",
+        "[Page]",
+        "",
+        "That's what I like about yeh, though!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "The mystery of Yggdrasil has been",
+        "solved... Tharsis will be a different",
+        "city now. What're yeh going to do?",
+        "[Page]",
+        "",
+        "I can't let yeh keep the [Skyship],",
+        "but as long as yeh're here in Tharsis,",
+        "she's all yours.",
+        "[Page]",
+        "",
+        "There's still adventures to be had in",
+        "those skies... Leastways that's what",
+        "I think.",
+        ""
+      ],
+      "Translation": [
+        "The mystery of Yggdrasil has been",
+        "solved... Tharsis will be a different",
+        "city now. What're yeh going to do?",
+        "[Page]",
+        "",
+        "I can't let yeh keep the [Skyship],",
+        "but as long as yeh're here in Tharsis,",
+        "she's all yours.",
+        "[Page]",
+        "",
+        "There's still adventures to be had in",
+        "those skies... Leastways that's what",
+        "I think.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "The emigration of the Imperials is",
+        "underway now. Tharsis is changing",
+        "all the time now.",
+        "[Page]",
+        "",
+        "That first skyship appearing here was",
+        "a big commotion, but it's afternoon",
+        "tea compared to this.",
+        "[Page]",
+        "",
+        "The things they've passed down over",
+        "the generations out there aren't",
+        "limited to skyships, that's certain.",
+        "[Page]",
+        "",
+        "Who knows what would happen if that",
+        "stuff became common knowledge here",
+        "in Tharsis...",
+        ""
+      ],
+      "Translation": [
+        "The emigration of the Imperials is",
+        "underway now. Tharsis is changing",
+        "all the time now.",
+        "[Page]",
+        "",
+        "That first skyship appearing here was",
+        "a big commotion, but it's afternoon",
+        "tea compared to this.",
+        "[Page]",
+        "",
+        "The things they've passed down over",
+        "the generations out there aren't",
+        "limited to skyships, that's certain.",
+        "[Page]",
+        "",
+        "Who knows what would happen if that",
+        "stuff became common knowledge here",
+        "in Tharsis...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "The Imperial Prince has been getting",
+        "better. I've seen him talking with",
+        "the Outland Count about the future.",
+        "[Page]",
+        "",
+        "I think the Count would breathe easier",
+        "if yeh stayed in Tharsis... but I",
+        "guess he can't ask yeh to do that.",
+        "[Page]",
+        "",
+        "So pretend yeh didn't hear what I",
+        "just said. Sorry about that.",
+        ""
+      ],
+      "Translation": [
+        "The Imperial Prince has been getting",
+        "better. I've seen him talking with",
+        "the Outland Count about the future.",
+        "[Page]",
+        "",
+        "I think the Count would breathe easier",
+        "if yeh stayed in Tharsis... but I",
+        "guess he can't ask yeh to do that.",
+        "[Page]",
+        "",
+        "So pretend yeh didn't hear what I",
+        "just said. Sorry about that.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "To be honest, I can't put my thoughts",
+        "on how to see yeh off in order.",
+        "[Page]",
+        "",
+        "A neat gadget doesn't mean anything",
+        "until someone uses it. Yeh gave the",
+        "skyship my Da and I built a purpose.",
+        "[Page]",
+        "",
+        "I used to only make things for the fun",
+        "of it, but seeing yeh... It rearranged",
+        "the way I think about skyships.",
+        "[Page]",
+        "",
+        "Now, I actually think about who'll be",
+        "using it, and that it might be easier",
+        "on them if I do it this way...",
+        "[Page]",
+        "",
+        "I owe that all to yeh. Thanks.",
+        "[Page]",
+        "",
+        "I hope yeh come to Tharsis again",
+        "someday. If yeh do, I promise to show",
+        "yeh my latest and greatest.",
+        ""
+      ],
+      "Translation": [
+        "To be honest, I can't put my thoughts",
+        "on how to see yeh off in order.",
+        "[Page]",
+        "",
+        "A neat gadget doesn't mean anything",
+        "until someone uses it. Yeh gave the",
+        "skyship my Da and I built a purpose.",
+        "[Page]",
+        "",
+        "I used to only make things for the fun",
+        "of it, but seeing yeh... It rearranged",
+        "the way I think about skyships.",
+        "[Page]",
+        "",
+        "Now, I actually think about who'll be",
+        "using it, and that it might be easier",
+        "on them if I do it this way...",
+        "[Page]",
+        "",
+        "I owe that all to yeh. Thanks.",
+        "[Page]",
+        "",
+        "I hope yeh come to Tharsis again",
+        "someday. If yeh do, I promise to show",
+        "yeh my latest and greatest.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

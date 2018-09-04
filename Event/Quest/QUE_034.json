@@ -1,0 +1,392 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_034",
+  "RelativePath": "Event\\Quest\\QUE_034.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request is from the witch Lament.",
+        "Once again, she is planning a bizarre",
+        "experiment.",
+        "[Page]",
+        "",
+        "She wants a [Color:6][Item:1041][Color:0], as was",
+        "written of in the book found in the",
+        "Echoing Library.",
+        "[Page]",
+        "",
+        "Do you know of anywhere that it might",
+        "be obtained? Could you find one?",
+        "[Page]",
+        "",
+        "Her last experiment involving research",
+        "into lightning almost ended in her own",
+        "death by electrocution.",
+        "[Page]",
+        "",
+        "And I am not sure she has learned her",
+        "lesson... Well then, I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That request is from the witch Lament.",
+        "Once again, she is planning a bizarre",
+        "experiment.",
+        "[Page]",
+        "",
+        "She wants a [Color:6][Item:1041][Color:0], as was",
+        "written of in the book found in the",
+        "Echoing Library.",
+        "[Page]",
+        "",
+        "Do you know of anywhere that it might",
+        "be obtained? Could you find one?",
+        "[Page]",
+        "",
+        "Her last experiment involving research",
+        "into lightning almost ended in her own",
+        "death by electrocution.",
+        "[Page]",
+        "",
+        "And I am not sure she has learned her",
+        "lesson... Well then, I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Only after taking on the work do",
+        "you recall that you already have a",
+        "[Color:6][Number:0][Color:0] in your possession.",
+        "[Page]",
+        "",
+        "If you wish to complete the request",
+        "now, you can report in and deliver",
+        "the [Number:0] immediately.",
+        ""
+      ],
+      "Translation": [
+        "Only after taking on the work do",
+        "you recall that you already have a",
+        "[Color:6][Number:0][Color:0] in your possession.",
+        "[Page]",
+        "",
+        "If you wish to complete the request",
+        "now, you can report in and deliver",
+        "the [Number:0] immediately.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Did you find what the",
+        "witch Lament sought?",
+        "[Page]",
+        "",
+        "Hmm... I wonder what experiment she",
+        "could have in mind that requires this.",
+        "Whatever it is... I hope it is safe.",
+        "[Page]",
+        "",
+        "Here is your reward, as promised.",
+        "How do you suppose the client finds",
+        "the money to pay for these requests?",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Did you find what the",
+        "witch Lament sought?",
+        "[Page]",
+        "",
+        "Hmm... I wonder what experiment she",
+        "could have in mind that requires this.",
+        "Whatever it is... I hope it is safe.",
+        "[Page]",
+        "",
+        "Here is your reward, as promised.",
+        "How do you suppose the client finds",
+        "the money to pay for these requests?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You recall accepting a request at the",
+        "bar to deliver a [Color:6][Item:1041][Color:0]...",
+        "[Page]",
+        "",
+        "All that is left now is to deliver",
+        "the newly acquired fist to the bar",
+        "and the request is complete!",
+        ""
+      ],
+      "Translation": [
+        "You recall accepting a request at the",
+        "bar to deliver a [Color:6][Item:1041][Color:0]...",
+        "[Page]",
+        "",
+        "All that is left now is to deliver",
+        "the newly acquired fist to the bar",
+        "and the request is complete!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You suddenly recall accepting a",
+        "request to deliver a [Color:6][Item:1041][Color:0]",
+        "to a client...",
+        "[Page]",
+        "",
+        "You must take care not to accidentally",
+        "sell the one in your possession.",
+        ""
+      ],
+      "Translation": [
+        "You suddenly recall accepting a",
+        "request to deliver a [Color:6][Item:1041][Color:0]",
+        "to a client...",
+        "[Page]",
+        "",
+        "You must take care not to accidentally",
+        "sell the one in your possession.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

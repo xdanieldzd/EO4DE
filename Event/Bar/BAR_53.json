@@ -1,0 +1,54 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_53",
+  "RelativePath": "Event\\Bar\\BAR_53.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "When I first joined, my guildmates",
+        "pampered me... but ever since that",
+        "Sentinel joined...",
+        "[Page]",
+        "",
+        "Well, I can't blame them for their",
+        "fascination. Sentinels never seem",
+        "to weary.",
+        "[Page]",
+        "",
+        "In fact, they appear to find more",
+        "energy as the battle draws out... But",
+        "that's not what fascinates everyone.",
+        "[Page]",
+        "",
+        "It's the fur... Damn it, I wish I",
+        "could stop and pet him for days...",
+        ""
+      ],
+      "Translation": [
+        "When I first joined, my guildmates",
+        "pampered me... but ever since that",
+        "Sentinel joined...",
+        "[Page]",
+        "",
+        "Well, I can't blame them for their",
+        "fascination. Sentinels never seem",
+        "to weary.",
+        "[Page]",
+        "",
+        "In fact, they appear to find more",
+        "energy as the battle draws out... But",
+        "that's not what fascinates everyone.",
+        "[Page]",
+        "",
+        "It's the fur... Damn it, I wish I",
+        "could stop and pet him for days...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

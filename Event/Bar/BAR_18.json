@@ -1,0 +1,105 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_18",
+  "RelativePath": "Event\\Bar\\BAR_18.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Be very careful of the [Color:5]tornadoes[Color:0] you",
+        "come across. Come into contact with",
+        "one, and you'll lose all your food...",
+        "[Page]",
+        "",
+        "The loss of food before anyone has had",
+        "a chance to taste it is a tragedy no",
+        "one should have to bear.",
+        "[Page]",
+        "",
+        "Better to throw it to the [Color:5]kangaroos[Color:0]",
+        "wandering the land! They enjoy",
+        "[Color:5]vegetables[Color:0], I happen to know.",
+        "[Page]",
+        "",
+        "[Color:6][Item:2069][Color:0]s don't have any other use",
+        "but to lure those kangaroos anyway.",
+        "You can even scatter them as bait.",
+        ""
+      ],
+      "Translation": [
+        "Be very careful of the [Color:5]tornadoes[Color:0] you",
+        "come across. Come into contact with",
+        "one, and you'll lose all your food...",
+        "[Page]",
+        "",
+        "The loss of food before anyone has had",
+        "a chance to taste it is a tragedy no",
+        "one should have to bear.",
+        "[Page]",
+        "",
+        "Better to throw it to the [Color:5]kangaroos[Color:0]",
+        "wandering the land! They enjoy",
+        "[Color:5]vegetables[Color:0], I happen to know.",
+        "[Page]",
+        "",
+        "[Color:6][Item:2069][Color:0]s don't have any other use",
+        "but to lure those kangaroos anyway.",
+        "You can even scatter them as bait.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "It looks like you've made it to the",
+        "Scarlet Pillars. It's a wonderful",
+        "place... Lots of good food there.",
+        "[Page]",
+        "",
+        "But the monsters that wander the land",
+        "find it just as delicious. Don't go",
+        "trying to take their food from them.",
+        "[Page]",
+        "",
+        "Especially the [Color:5]mushroom[Color:0]-loving [Color:5]sheep[Color:0]",
+        "and the [Color:5]mantises[Color:0], who are fond of",
+        "[Color:5]birds and fish[Color:0]. They'll come running.",
+        "[Page]",
+        "",
+        "Though from another perspective, you",
+        "could use that to guide the monsters.",
+        "Though I wouldn't recommend it...",
+        ""
+      ],
+      "Translation": [
+        "It looks like you've made it to the",
+        "Scarlet Pillars. It's a wonderful",
+        "place... Lots of good food there.",
+        "[Page]",
+        "",
+        "But the monsters that wander the land",
+        "find it just as delicious. Don't go",
+        "trying to take their food from them.",
+        "[Page]",
+        "",
+        "Especially the [Color:5]mushroom[Color:0]-loving [Color:5]sheep[Color:0]",
+        "and the [Color:5]mantises[Color:0], who are fond of",
+        "[Color:5]birds and fish[Color:0]. They'll come running.",
+        "[Page]",
+        "",
+        "Though from another perspective, you",
+        "could use that to guide the monsters.",
+        "Though I wouldn't recommend it...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_55",
+  "RelativePath": "Event\\Bar\\BAR_55.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "For us Imperial knights, the drive",
+        "blade granted by our emperor is our",
+        "life. We need no other weapon.",
+        "[Page]",
+        "",
+        "Doing battle with the single drive",
+        "blade is very important to the dignity",
+        "of an Imperial knight.",
+        "[Page]",
+        "",
+        "...No, I'm just trying to sound cool.",
+        "The truth is, a drive blade's too",
+        "heavy to carry anything else with it.",
+        "[Page]",
+        "",
+        "But hey, it's still a sword, and it",
+        "works for any standard sword skills.",
+        "Pretty amazing, huh?",
+        ""
+      ],
+      "Translation": [
+        "For us Imperial knights, the drive",
+        "blade granted by our emperor is our",
+        "life. We need no other weapon.",
+        "[Page]",
+        "",
+        "Doing battle with the single drive",
+        "blade is very important to the dignity",
+        "of an Imperial knight.",
+        "[Page]",
+        "",
+        "...No, I'm just trying to sound cool.",
+        "The truth is, a drive blade's too",
+        "heavy to carry anything else with it.",
+        "[Page]",
+        "",
+        "But hey, it's still a sword, and it",
+        "works for any standard sword skills.",
+        "Pretty amazing, huh?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

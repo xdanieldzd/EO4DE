@@ -1,0 +1,916 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_006",
+  "RelativePath": "Event\\QR\\QR_006.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You will undertake this request?",
+        "It comes from the city market.",
+        "[Page]",
+        "",
+        "I need you to get [Color:6][Item2:0][Color:0],",
+        "[Color:6][Item2:1][Color:0], or [Color:6][Item2:2][Color:0]",
+        "x[Color:5][Count:3][Color:0] from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "Put what you gather in this jute bag.",
+        "Once it is full, return here.",
+        ""
+      ],
+      "Translation": [
+        "You will undertake this request?",
+        "It comes from the city market.",
+        "[Page]",
+        "",
+        "I need you to get [Color:6][Item2:0][Color:0],",
+        "[Color:6][Item2:1][Color:0], or [Color:6][Item2:2][Color:0]",
+        "x[Color:5][Count:3][Color:0] from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "Put what you gather in this jute bag.",
+        "Once it is full, return here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Do not become so absorbed in your task",
+        "that you fall from your skyship...",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Do not become so absorbed in your task",
+        "that you fall from your skyship...",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "You will undertake this request?",
+        "It comes from the city butchers.",
+        "[Page]",
+        "",
+        "I need you to get [Color:6][Item2:0][Color:0],",
+        "[Color:6][Item2:1][Color:0], or [Color:6][Item2:2][Color:0]",
+        "x[Color:5][Count:3][Color:0] from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "Put what you gather in this jute bag.",
+        "Once it is full, return here.",
+        ""
+      ],
+      "Translation": [
+        "You will undertake this request?",
+        "It comes from the city butchers.",
+        "[Page]",
+        "",
+        "I need you to get [Color:6][Item2:0][Color:0],",
+        "[Color:6][Item2:1][Color:0], or [Color:6][Item2:2][Color:0]",
+        "x[Color:5][Count:3][Color:0] from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "Put what you gather in this jute bag.",
+        "Once it is full, return here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "I have heard freshness is all when",
+        "it comes to meats. Be careful, and",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "I have heard freshness is all when",
+        "it comes to meats. Be careful, and",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You will undertake this request?",
+        "It comes from a vegetable farmer.",
+        "[Page]",
+        "",
+        "I need you to get [Color:6][Item2:0][Color:0],",
+        "[Color:6][Item2:1][Color:0], or [Color:6][Item2:2][Color:0]",
+        "x[Color:5][Count:3][Color:0] from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "Put what you gather in this jute bag.",
+        "Once it is full, return here.",
+        ""
+      ],
+      "Translation": [
+        "You will undertake this request?",
+        "It comes from a vegetable farmer.",
+        "[Page]",
+        "",
+        "I need you to get [Color:6][Item2:0][Color:0],",
+        "[Color:6][Item2:1][Color:0], or [Color:6][Item2:2][Color:0]",
+        "x[Color:5][Count:3][Color:0] from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "Put what you gather in this jute bag.",
+        "Once it is full, return here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Additional rewards were promised for",
+        "rare vegetables. This may be quite",
+        "the lucrative request...",
+        ""
+      ],
+      "Translation": [
+        "Additional rewards were promised for",
+        "rare vegetables. This may be quite",
+        "the lucrative request...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "You will undertake this request?",
+        "It comes from the city fishermen.",
+        "[Page]",
+        "",
+        "I need you to get [Color:6][Item2:0][Color:0],",
+        "[Color:6][Item2:1][Color:0], or [Color:6][Item2:2][Color:0]",
+        "x[Color:5][Count:3][Color:0] from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "Put what you gather in this jute bag.",
+        "Once it is full, return here.",
+        ""
+      ],
+      "Translation": [
+        "You will undertake this request?",
+        "It comes from the city fishermen.",
+        "[Page]",
+        "",
+        "I need you to get [Color:6][Item2:0][Color:0],",
+        "[Color:6][Item2:1][Color:0], or [Color:6][Item2:2][Color:0]",
+        "x[Color:5][Count:3][Color:0] from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "Put what you gather in this jute bag.",
+        "Once it is full, return here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Make sure you catch feisty ones.",
+        "Be careful, and I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Translation": [
+        "Make sure you catch feisty ones.",
+        "Be careful, and I shall await your",
+        "swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "You will undertake this request?",
+        "It comes from the city's fruit",
+        "planters.",
+        "[Page]",
+        "",
+        "I need you to get [Color:6][Item2:0][Color:0],",
+        "[Color:6][Item2:1][Color:0], or [Color:6][Item2:2][Color:0]",
+        "x[Color:5][Count:3][Color:0] from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "Put what you gather in this jute bag.",
+        "Once it is full, return here.",
+        ""
+      ],
+      "Translation": [
+        "You will undertake this request?",
+        "It comes from the city's fruit",
+        "planters.",
+        "[Page]",
+        "",
+        "I need you to get [Color:6][Item2:0][Color:0],",
+        "[Color:6][Item2:1][Color:0], or [Color:6][Item2:2][Color:0]",
+        "x[Color:5][Count:3][Color:0] from the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "Put what you gather in this jute bag.",
+        "Once it is full, return here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Additional rewards were promised for",
+        "delicious-looking fruits. This may be",
+        "quite the lucrative request...",
+        ""
+      ],
+      "Translation": [
+        "Additional rewards were promised for",
+        "delicious-looking fruits. This may be",
+        "quite the lucrative request...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, welcome back. Have you gathered",
+        "the food?",
+        "[Page]",
+        "",
+        "It looks delicious indeed. I am sure",
+        "the client will be very pleased.",
+        ""
+      ],
+      "Translation": [
+        "Ah, welcome back. Have you gathered",
+        "the food?",
+        "[Page]",
+        "",
+        "It looks delicious indeed. I am sure",
+        "the client will be very pleased.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Here is the promised reward. I again",
+        "thank you for your hard work.",
+        ""
+      ],
+      "Translation": [
+        "Here is the promised reward. I again",
+        "thank you for your hard work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, welcome back. Have you gathered",
+        "the food?",
+        "[Page]",
+        "",
+        "My... what tasty-looking food. I know",
+        "the client will be most pleased!",
+        ""
+      ],
+      "Translation": [
+        "Ah, welcome back. Have you gathered",
+        "the food?",
+        "[Page]",
+        "",
+        "My... what tasty-looking food. I know",
+        "the client will be most pleased!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You are masters already at scavenging",
+        "food. Is this one of the necessary",
+        "skills for explorers?",
+        ""
+      ],
+      "Translation": [
+        "You are masters already at scavenging",
+        "food. Is this one of the necessary",
+        "skills for explorers?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, welcome back. Have you gathered",
+        "the food?",
+        "[Page]",
+        "",
+        "Oh, my! So much rare food... If the",
+        "client is dissatisfied with this,",
+        "I shall have stern words for them.",
+        ""
+      ],
+      "Translation": [
+        "Ah, welcome back. Have you gathered",
+        "the food?",
+        "[Page]",
+        "",
+        "Oh, my! So much rare food... If the",
+        "client is dissatisfied with this,",
+        "I shall have stern words for them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Your skill at gathering food is",
+        "matchless. You have promising careers",
+        "even if you give up exploring!",
+        "[Page]",
+        "",
+        "That was a joke. The people of this",
+        "city rely on you too much for that,",
+        "[Guild] Guild.",
+        ""
+      ],
+      "Translation": [
+        "Your skill at gathering food is",
+        "matchless. You have promising careers",
+        "even if you give up exploring!",
+        "[Page]",
+        "",
+        "That was a joke. The people of this",
+        "city rely on you too much for that,",
+        "[Guild] Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You have found food! If you wish to",
+        "put it toward your request, you can",
+        "store it in the jute bag.",
+        ""
+      ],
+      "Translation": [
+        "You have found food! If you wish to",
+        "put it toward your request, you can",
+        "store it in the jute bag.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Put it in the bag?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Put it in the bag?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Put the food in the bag?[Color:0]",
+        "Put in [Color:6][Number:1][Color:0]",
+        "Put in [Color:6][Number:2][Color:0]",
+        "Put nothing in",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Put the food in the bag?[Color:0]",
+        "Put in [Color:6][Number:1][Color:0]",
+        "Put in [Color:6][Number:2][Color:0]",
+        "Put nothing in",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to store this food with",
+        "your own possessions rather than put",
+        "it in the jute bag.",
+        ""
+      ],
+      "Translation": [
+        "You decide to store this food with",
+        "your own possessions rather than put",
+        "it in the jute bag.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "You carefully put the food you have",
+        "found into the jute bag.",
+        ""
+      ],
+      "Translation": [
+        "You carefully put the food you have",
+        "found into the jute bag.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "There is room for roughly [Color:5][Number:0][Color:0] more",
+        "items in the bag...",
+        ""
+      ],
+      "Translation": [
+        "There is room for roughly [Color:5][Number:0][Color:0] more",
+        "items in the bag...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "With this last piece of food, the",
+        "jute bag is full and the request is",
+        "complete! You need only deliver it.",
+        ""
+      ],
+      "Translation": [
+        "With this last piece of food, the",
+        "jute bag is full and the request is",
+        "complete! You need only deliver it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

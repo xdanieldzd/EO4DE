@@ -1,0 +1,231 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_78",
+  "RelativePath": "Event\\Bar\\BAR_78.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Thank you for accepting my request.",
+        "My name is Barbule... I research",
+        "monsters.",
+        "[Page]",
+        "",
+        "I'd like you to investigate a wall of",
+        "ice with specimens preserved within",
+        "it, seen in the [Color:5]Sacred Mountains[Color:0].",
+        "[Page]",
+        "",
+        "If you can, find out the reasons why",
+        "such an ice wall formed.",
+        "[Page]",
+        "",
+        "It seems to be somewhere in the",
+        "[Color:5]southeast[Color:0]... A bit of it juts out,",
+        "which may help you find it.",
+        "[Page]",
+        "",
+        "If I could, I'd go there myself, but",
+        "I'm pretty sure it would set off all",
+        "my allergies.",
+        "[Page]",
+        "",
+        "Oh yes, and I don't know if it's",
+        "related, but a monster has been seen",
+        "nearby as well. So be careful...",
+        ""
+      ],
+      "Translation": [
+        "Thank you for accepting my request.",
+        "My name is Barbule... I research",
+        "monsters.",
+        "[Page]",
+        "",
+        "I'd like you to investigate a wall of",
+        "ice with specimens preserved within",
+        "it, seen in the [Color:5]Sacred Mountains[Color:0].",
+        "[Page]",
+        "",
+        "If you can, find out the reasons why",
+        "such an ice wall formed.",
+        "[Page]",
+        "",
+        "It seems to be somewhere in the",
+        "[Color:5]southeast[Color:0]... A bit of it juts out,",
+        "which may help you find it.",
+        "[Page]",
+        "",
+        "If I could, I'd go there myself, but",
+        "I'm pretty sure it would set off all",
+        "my allergies.",
+        "[Page]",
+        "",
+        "Oh yes, and I don't know if it's",
+        "related, but a monster has been seen",
+        "nearby as well. So be careful...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Look for the ice wall rumored to be",
+        "in the [Color:5]southeast[Color:0] area of the [Color:5]Sacred",
+        "Mountains[Color:0] and find out how it formed.",
+        "[Page]",
+        "",
+        "I don't know where in the southeast",
+        "it is, though... Finding that out is",
+        "part of your job.",
+        ""
+      ],
+      "Translation": [
+        "Look for the ice wall rumored to be",
+        "in the [Color:5]southeast[Color:0] area of the [Color:5]Sacred",
+        "Mountains[Color:0] and find out how it formed.",
+        "[Page]",
+        "",
+        "I don't know where in the southeast",
+        "it is, though... Finding that out is",
+        "part of your job.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, you're back. Well? Did you find",
+        "out how the ice wall was formed?",
+        ""
+      ],
+      "Translation": [
+        "Ah, you're back. Well? Did you find",
+        "out how the ice wall was formed?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Just as I thought! The [Enemy1:130]",
+        "appeared while you were investigating",
+        "the ice wall, didn't it?",
+        "[Page]",
+        "",
+        "Which means the animals inside the",
+        "ice were a trap to lure its prey...",
+        "Aha! This is an incredible discovery!",
+        "[Page]",
+        "",
+        "I suspected that ice wall had been",
+        "made by monsters, but I lacked any",
+        "data to confirm my hypothesis.",
+        "[Page]",
+        "",
+        "That's why I used you as a control",
+        "group, and--Hey! D-Don't get angry!",
+        "I did warn you about the monster!",
+        "[Page]",
+        "",
+        "Anyway, I'm satisfied. Thank you for",
+        "your cooperation. You'll find your",
+        "reward with Ms. Kirtida.",
+        "[Page]",
+        "",
+        "And that [Enemy1:130]... I doubt it's",
+        "the only one, given the size of the",
+        "wall, if you wish to fight it again.",
+        ""
+      ],
+      "Translation": [
+        "Just as I thought! The [Enemy1:130]",
+        "appeared while you were investigating",
+        "the ice wall, didn't it?",
+        "[Page]",
+        "",
+        "Which means the animals inside the",
+        "ice were a trap to lure its prey...",
+        "Aha! This is an incredible discovery!",
+        "[Page]",
+        "",
+        "I suspected that ice wall had been",
+        "made by monsters, but I lacked any",
+        "data to confirm my hypothesis.",
+        "[Page]",
+        "",
+        "That's why I used you as a control",
+        "group, and--Hey! D-Don't get angry!",
+        "I did warn you about the monster!",
+        "[Page]",
+        "",
+        "Anyway, I'm satisfied. Thank you for",
+        "your cooperation. You'll find your",
+        "reward with Ms. Kirtida.",
+        "[Page]",
+        "",
+        "And that [Enemy1:130]... I doubt it's",
+        "the only one, given the size of the",
+        "wall, if you wish to fight it again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "I underestimated how intelligent those",
+        "monsters can be. Was it a mutation of",
+        "the [Enemy1:130]'s, or...?",
+        "[Page]",
+        "",
+        "Oh, you're still here? I left you a",
+        "sizable reward on the assumption of",
+        "a fierce battle, so please, take it.",
+        ""
+      ],
+      "Translation": [
+        "I underestimated how intelligent those",
+        "monsters can be. Was it a mutation of",
+        "the [Enemy1:130]'s, or...?",
+        "[Page]",
+        "",
+        "Oh, you're still here? I left you a",
+        "sizable reward on the assumption of",
+        "a fierce battle, so please, take it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

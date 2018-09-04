@@ -1,0 +1,418 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_022",
+  "RelativePath": "Event\\Quest\\QUE_022.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request is from the clinic. They",
+        "are working on a new medicine, but",
+        "need some [Color:6][Item:1250][Color:0] to finish it.",
+        "[Page]",
+        "",
+        "The bark can be found at the [Color:5]Toxic",
+        "Cave[Color:0], but there is something unusual",
+        "about it that you should know.",
+        "[Page]",
+        "",
+        "The venom spewed by a poison dragon",
+        "forms some kind of substance, and that",
+        "is what creates the [Item:1250].",
+        "[Page]",
+        "",
+        "A poison dragon... it sounds utterly",
+        "terrifying. Be careful as you retrieve",
+        "the material.",
+        ""
+      ],
+      "Translation": [
+        "That request is from the clinic. They",
+        "are working on a new medicine, but",
+        "need some [Color:6][Item:1250][Color:0] to finish it.",
+        "[Page]",
+        "",
+        "The bark can be found at the [Color:5]Toxic",
+        "Cave[Color:0], but there is something unusual",
+        "about it that you should know.",
+        "[Page]",
+        "",
+        "The venom spewed by a poison dragon",
+        "forms some kind of substance, and that",
+        "is what creates the [Item:1250].",
+        "[Page]",
+        "",
+        "A poison dragon... it sounds utterly",
+        "terrifying. Be careful as you retrieve",
+        "the material.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Just after you accept the request, you",
+        "recall already having obtained some",
+        "[Color:6][Number:0][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to complete the request",
+        "quickly, you may report in now and",
+        "deliver the [Number:0].",
+        ""
+      ],
+      "Translation": [
+        "Just after you accept the request, you",
+        "recall already having obtained some",
+        "[Color:6][Number:0][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to complete the request",
+        "quickly, you may report in now and",
+        "deliver the [Number:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. So this is the [Item:1250]",
+        "formed from the venom? It looks to my",
+        "untrained eye like normal tree bark.",
+        "[Page]",
+        "",
+        "Maybe this tree takes advantage of",
+        "the beast's poison, since the other",
+        "plants there wither and die.",
+        "[Page]",
+        "",
+        "That way, it can have the nutrients",
+        "in the soil all to itself. It is",
+        "quite coldhearted, for a tree.",
+        "[Page]",
+        "",
+        "Here, this is your reward. It helps",
+        "to ward off poison. Should I have",
+        "given you this before you left...?",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. So this is the [Item:1250]",
+        "formed from the venom? It looks to my",
+        "untrained eye like normal tree bark.",
+        "[Page]",
+        "",
+        "Maybe this tree takes advantage of",
+        "the beast's poison, since the other",
+        "plants there wither and die.",
+        "[Page]",
+        "",
+        "That way, it can have the nutrients",
+        "in the soil all to itself. It is",
+        "quite coldhearted, for a tree.",
+        "[Page]",
+        "",
+        "Here, this is your reward. It helps",
+        "to ward off poison. Should I have",
+        "given you this before you left...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Having accepted a request to deliver",
+        "medicinal herbs, you arrive at the",
+        "poison-soaked destination.",
+        "[Page]",
+        "",
+        "This must be the tree bark you were",
+        "asked to retrieve. You must cut off",
+        "a piece to fulfill the request.",
+        ""
+      ],
+      "Translation": [
+        "Having accepted a request to deliver",
+        "medicinal herbs, you arrive at the",
+        "poison-soaked destination.",
+        "[Page]",
+        "",
+        "This must be the tree bark you were",
+        "asked to retrieve. You must cut off",
+        "a piece to fulfill the request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "You carefully cut off a piece of bark",
+        "without touching the poison and place",
+        "it in your belongings.",
+        "[Page]",
+        "",
+        "With this, the request is complete!",
+        "All that remains is to take the bark",
+        "back to the bar when you have time.",
+        ""
+      ],
+      "Translation": [
+        "You carefully cut off a piece of bark",
+        "without touching the poison and place",
+        "it in your belongings.",
+        "[Page]",
+        "",
+        "With this, the request is complete!",
+        "All that remains is to take the bark",
+        "back to the bar when you have time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You recall the quest you accepted to",
+        "deliver the [Color:6][Number:0][Color:0]...",
+        "[Page]",
+        "",
+        "It is currently with your things.",
+        "You make a mental note not to sell it",
+        "before you have reported to the bar.",
+        ""
+      ],
+      "Translation": [
+        "You recall the quest you accepted to",
+        "deliver the [Color:6][Number:0][Color:0]...",
+        "[Page]",
+        "",
+        "It is currently with your things.",
+        "You make a mental note not to sell it",
+        "before you have reported to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Toxic Cave[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Toxic Cave[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Ending dialogue",
+  "RelativePath": "InterfaceFile\\EndingTalk.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Look, Margherita! This city's biggest",
+        "draw used to be its view of Yggdrasil,",
+        "but see how it's changed...",
+        ""
+      ],
+      "Translation": [
+        "Look, Margherita! This city's biggest",
+        "draw used to be its view of Yggdrasil,",
+        "but see how it's changed...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "New explorers still come through the",
+        "city gates... I look forward to",
+        "meeting these enterprising youths!",
+        ""
+      ],
+      "Translation": [
+        "New explorers still come through the",
+        "city gates... I look forward to",
+        "meeting these enterprising youths!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome to Tharsis! Haven't seen you",
+        "around, I don't think. Are you guys",
+        "explorers too?",
+        ""
+      ],
+      "Translation": [
+        "Welcome to Tharsis! Haven't seen you",
+        "around, I don't think. Are you guys",
+        "explorers too?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "A lovely square, don't you think?",
+        "Travellers pass through it, carrying",
+        "their dreams in their hearts.",
+        ""
+      ],
+      "Translation": [
+        "A lovely square, don't you think?",
+        "Travellers pass through it, carrying",
+        "their dreams in their hearts.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Tharsis is filled with many races and",
+        "ancient knowledge, and this place is",
+        "its heart. I hope you like it here.",
+        ""
+      ],
+      "Translation": [
+        "Tharsis is filled with many races and",
+        "ancient knowledge, and this place is",
+        "its heart. I hope you like it here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Ah... so you heard the rumors of the",
+        "[Guild] Guild and came here. Haha,",
+        "you're far from the only ones...",
+        ""
+      ],
+      "Translation": [
+        "Ah... so you heard the rumors of the",
+        "[Guild] Guild and came here. Haha,",
+        "you're far from the only ones...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Heya! Welcome ta da ＃1 shop for",
+        "explorers! We gots bushi katanas, we",
+        "gots drive blades... We got it all!",
+        ""
+      ],
+      "Translation": [
+        "Heya! Welcome ta da ＃1 shop for",
+        "explorers! We gots bushi katanas, we",
+        "gots drive blades... We got it all!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Have you never seen a Vessel or",
+        "Sentinel before? Our city is unique",
+        "in that it is home to many races.",
+        ""
+      ],
+      "Translation": [
+        "Have you never seen a Vessel or",
+        "Sentinel before? Our city is unique",
+        "in that it is home to many races.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "I was just telling a new Imperial how",
+        "[Guild] defeated the [Enemy1:175].",
+        "Would you like to listen in?",
+        ""
+      ],
+      "Translation": [
+        "I was just telling a new Imperial how",
+        "[Guild] defeated the [Enemy1:175].",
+        "Would you like to listen in?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "You seem to be explorers. If you want",
+        "to see the Medium, use a Geomagnetic",
+        "Pole or a skyship.",
+        ""
+      ],
+      "Translation": [
+        "You seem to be explorers. If you want",
+        "to see the Medium, use a Geomagnetic",
+        "Pole or a skyship.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "I suppose I could guide you... Oh?",
+        "You'd rather try and manage on your",
+        "own? The mark of a great explorer...",
+        ""
+      ],
+      "Translation": [
+        "I suppose I could guide you... Oh?",
+        "You'd rather try and manage on your",
+        "own? The mark of a great explorer...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Yeh want a skyship? Sorry, but I",
+        "don't dole them out like candy to",
+        "yeh rookies.",
+        ""
+      ],
+      "Translation": [
+        "Yeh want a skyship? Sorry, but I",
+        "don't dole them out like candy to",
+        "yeh rookies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Even the [Guild] Guild did their",
+        "time in the Old Forest Mine. Yeh",
+        "gotta follow procedure, yeh know?",
+        ""
+      ],
+      "Translation": [
+        "Even the [Guild] Guild did their",
+        "time in the Old Forest Mine. Yeh",
+        "gotta follow procedure, yeh know?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "I heard you'll be setting out for the",
+        "first time tomorrow. I'll have a fine",
+        "dinner waiting for you! Good luck!",
+        ""
+      ],
+      "Translation": [
+        "I heard you'll be setting out for the",
+        "first time tomorrow. I'll have a fine",
+        "dinner waiting for you! Good luck!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Hm? What's the matter, you're lost?",
+        "Ah... Then you should take this map.",
+        ""
+      ],
+      "Translation": [
+        "Hm? What's the matter, you're lost?",
+        "Ah... Then you should take this map.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Don't worry, drawing a map isn't as",
+        "hard as you'd think. Pay close",
+        "attention. You just start here and...",
+        ""
+      ],
+      "Translation": [
+        "Don't worry, drawing a map isn't as",
+        "hard as you'd think. Pay close",
+        "attention. You just start here and...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

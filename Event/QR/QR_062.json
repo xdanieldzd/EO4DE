@@ -1,0 +1,839 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_062",
+  "RelativePath": "Event\\QR\\QR_062.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Oh dear, that request... My foreboding",
+        "feeling held true. It is from that",
+        "lonely man called Dee-something.",
+        "[Page]",
+        "",
+        "He calls it an \"elegant hunting show,\"",
+        "but I suspect he is masking his desire",
+        "for emergency reinforcements.",
+        "[Page]",
+        "",
+        "Harrumph... Well then, see this Dino",
+        "for further details. I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Oh dear, that request... My foreboding",
+        "feeling held true. It is from that",
+        "lonely man called Dee-something.",
+        "[Page]",
+        "",
+        "He calls it an \"elegant hunting show,\"",
+        "but I suspect he is masking his desire",
+        "for emergency reinforcements.",
+        "[Page]",
+        "",
+        "Harrumph... Well then, see this Dino",
+        "for further details. I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Well done, as always. How was the",
+        "\"elegant hunting show\"?",
+        "[Page]",
+        "",
+        "By the way... Dino returned virtually",
+        "naked. Something clearly happened to",
+        "him... Do you know anything?",
+        "[Page]",
+        "",
+        "At least he lived to tell the tale.",
+        "I hope he has learned his lesson",
+        "this time...",
+        ""
+      ],
+      "Translation": [
+        "Well done, as always. How was the",
+        "\"elegant hunting show\"?",
+        "[Page]",
+        "",
+        "By the way... Dino returned virtually",
+        "naked. Something clearly happened to",
+        "him... Do you know anything?",
+        "[Page]",
+        "",
+        "At least he lived to tell the tale.",
+        "I hope he has learned his lesson",
+        "this time...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You pilot your skyship to the",
+        "monster's lair you had discovered",
+        "previously.",
+        "[Page]",
+        "",
+        "But the client is nowhere to be seen.",
+        "You will have to return here at",
+        "[Color:5]night[Color:0], as he specified.",
+        ""
+      ],
+      "Translation": [
+        "You pilot your skyship to the",
+        "monster's lair you had discovered",
+        "previously.",
+        "[Page]",
+        "",
+        "But the client is nowhere to be seen.",
+        "You will have to return here at",
+        "[Color:5]night[Color:0], as he specified.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You follow the client's directions and",
+        "return to the nest you discovered",
+        "previously after the sun sets.",
+        "[Page]",
+        "",
+        "You look around for the client, but",
+        "it is eerily quiet here...",
+        "[Page]",
+        "",
+        "You wonder if you should land your",
+        "skyship and investigate the area.",
+        ""
+      ],
+      "Translation": [
+        "You follow the client's directions and",
+        "return to the nest you discovered",
+        "previously after the sun sets.",
+        "[Page]",
+        "",
+        "You look around for the client, but",
+        "it is eerily quiet here...",
+        "[Page]",
+        "",
+        "You wonder if you should land your",
+        "skyship and investigate the area.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Land and investigate?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Land and investigate?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Wary of the unnatural silence, you",
+        "decide not to land your skyship yet.",
+        ""
+      ],
+      "Translation": [
+        "Wary of the unnatural silence, you",
+        "decide not to land your skyship yet.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "After cautiously disembarking, you",
+        "begin searching for the client, but",
+        "he is nowhere to be found.",
+        "[Page]",
+        "",
+        "Just as you are fearing the worst case",
+        "scenario has come to pass, you hear",
+        "a faraway scream!",
+        "[Page]",
+        "",
+        "It is Dino...! But you cannot",
+        "pinpoint where his echoing voice",
+        "is coming from.",
+        "[Page]",
+        "",
+        "Thinking quickly, you decide to first",
+        "head to an [Color:5]open area[Color:0] in order to",
+        "triangulate his location.",
+        ""
+      ],
+      "Translation": [
+        "After cautiously disembarking, you",
+        "begin searching for the client, but",
+        "he is nowhere to be found.",
+        "[Page]",
+        "",
+        "Just as you are fearing the worst case",
+        "scenario has come to pass, you hear",
+        "a faraway scream!",
+        "[Page]",
+        "",
+        "It is Dino...! But you cannot",
+        "pinpoint where his echoing voice",
+        "is coming from.",
+        "[Page]",
+        "",
+        "Thinking quickly, you decide to first",
+        "head to an [Color:5]open area[Color:0] in order to",
+        "triangulate his location.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Where could the client be? In order",
+        "to triangulate his position, you",
+        "will need to [Color:5]head to an open area[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Where could the client be? In order",
+        "to triangulate his position, you",
+        "will need to [Color:5]head to an open area[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "You look down from the skyship in",
+        "search of the client and notice",
+        "something on the ground...",
+        ""
+      ],
+      "Translation": [
+        "You look down from the skyship in",
+        "search of the client and notice",
+        "something on the ground...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Land and investigate it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Land and investigate it?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Upon landing, you find a gaudy pair",
+        "of pantaloons that you suspect belongs",
+        "to your client...",
+        "[Page]",
+        "",
+        "You gingerly pick up the pants and",
+        "suddenly hear water splashing, as",
+        "well as a man's desperate screams!",
+        "[Page]",
+        "",
+        "It is Dino...! His voice is still hard",
+        "to pinpoint, but you believe it to be",
+        "coming from the [Color:5]north[Color:0] or the [Color:5]south[Color:0].",
+        "[Page]",
+        "",
+        "The splashing you heard would also",
+        "seem to suggest that [Color:5]there is water[Color:0]",
+        "wherever he is.",
+        ""
+      ],
+      "Translation": [
+        "Upon landing, you find a gaudy pair",
+        "of pantaloons that you suspect belongs",
+        "to your client...",
+        "[Page]",
+        "",
+        "You gingerly pick up the pants and",
+        "suddenly hear water splashing, as",
+        "well as a man's desperate screams!",
+        "[Page]",
+        "",
+        "It is Dino...! His voice is still hard",
+        "to pinpoint, but you believe it to be",
+        "coming from the [Color:5]north[Color:0] or the [Color:5]south[Color:0].",
+        "[Page]",
+        "",
+        "The splashing you heard would also",
+        "seem to suggest that [Color:5]there is water[Color:0]",
+        "wherever he is.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "When you landed, you heard screams",
+        "and splashing water coming from",
+        "either the [Color:5]north[Color:0] or the [Color:5]south[Color:0].",
+        "[Page]",
+        "",
+        "You deduce from the splashing sounds",
+        "that [Color:5]there is water[Color:0] near the client's",
+        "position...",
+        ""
+      ],
+      "Translation": [
+        "When you landed, you heard screams",
+        "and splashing water coming from",
+        "either the [Color:5]north[Color:0] or the [Color:5]south[Color:0].",
+        "[Page]",
+        "",
+        "You deduce from the splashing sounds",
+        "that [Color:5]there is water[Color:0] near the client's",
+        "position...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Upon landing, you find a tacky shirt",
+        "that you feel sure must belong to",
+        "your client!",
+        "[Page]",
+        "",
+        "You pick it up and wonder what is",
+        "going on, when you again hear screams",
+        "as well as a beast's loud footsteps!",
+        "[Page]",
+        "",
+        "It is Dino...! The echoing is hard to",
+        "pinpoint, but you believe it to be",
+        "coming from the [Color:5]east[Color:0] or the [Color:5]west[Color:0]!",
+        "[Page]",
+        "",
+        "Judging by the stomping sounds, the",
+        "beast seems to have [Color:5]ran up somewhere[Color:0].",
+        "What in the world is going on...?",
+        ""
+      ],
+      "Translation": [
+        "Upon landing, you find a tacky shirt",
+        "that you feel sure must belong to",
+        "your client!",
+        "[Page]",
+        "",
+        "You pick it up and wonder what is",
+        "going on, when you again hear screams",
+        "as well as a beast's loud footsteps!",
+        "[Page]",
+        "",
+        "It is Dino...! The echoing is hard to",
+        "pinpoint, but you believe it to be",
+        "coming from the [Color:5]east[Color:0] or the [Color:5]west[Color:0]!",
+        "[Page]",
+        "",
+        "Judging by the stomping sounds, the",
+        "beast seems to have [Color:5]ran up somewhere[Color:0].",
+        "What in the world is going on...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "When you landed, you heard screams",
+        "and beastly stomping coming from",
+        "either the [Color:5]east[Color:0] or the [Color:5]west[Color:0].",
+        "[Page]",
+        "",
+        "The footsteps sounded as if it [Color:5]ran up[Color:0]",
+        "somewhere... The client may be in",
+        "the same location.",
+        ""
+      ],
+      "Translation": [
+        "When you landed, you heard screams",
+        "and beastly stomping coming from",
+        "either the [Color:5]east[Color:0] or the [Color:5]west[Color:0].",
+        "[Page]",
+        "",
+        "The footsteps sounded as if it [Color:5]ran up[Color:0]",
+        "somewhere... The client may be in",
+        "the same location.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Upon landing, you find a pair of",
+        "garish briefs that you realize with",
+        "a sinking feeling are your client's.",
+        "[Page]",
+        "",
+        "When you pick them up with disgust,",
+        "you once again hear the client's",
+        "screams and the beast's stomping!",
+        "[Page]",
+        "",
+        "It is Dino...! The echoes still mask",
+        "his location, but they seem to come",
+        "from the [Color:5]north[Color:0] or the [Color:5]south[Color:0].",
+        "[Page]",
+        "",
+        "This time, it sounds as if the beast",
+        "[Color:5]ran down[Color:0] somewhere. The client may",
+        "be at the same location.",
+        ""
+      ],
+      "Translation": [
+        "Upon landing, you find a pair of",
+        "garish briefs that you realize with",
+        "a sinking feeling are your client's.",
+        "[Page]",
+        "",
+        "When you pick them up with disgust,",
+        "you once again hear the client's",
+        "screams and the beast's stomping!",
+        "[Page]",
+        "",
+        "It is Dino...! The echoes still mask",
+        "his location, but they seem to come",
+        "from the [Color:5]north[Color:0] or the [Color:5]south[Color:0].",
+        "[Page]",
+        "",
+        "This time, it sounds as if the beast",
+        "[Color:5]ran down[Color:0] somewhere. The client may",
+        "be at the same location.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "When you landed, you heard screams",
+        "and beastly stomping coming from",
+        "either the [Color:5]north[Color:0] or the [Color:5]south[Color:0].",
+        "[Page]",
+        "",
+        "The footsteps sounded as if it [Color:5]ran",
+        "down[Color:0] somewhere... The client may be",
+        "in the same location.",
+        ""
+      ],
+      "Translation": [
+        "When you landed, you heard screams",
+        "and beastly stomping coming from",
+        "either the [Color:5]north[Color:0] or the [Color:5]south[Color:0].",
+        "[Page]",
+        "",
+        "The footsteps sounded as if it [Color:5]ran",
+        "down[Color:0] somewhere... The client may be",
+        "in the same location.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "You finally find a herd of scarlet",
+        "beasts and a scantily clad client",
+        "clinging to one of their giant horns.",
+        "[Page]",
+        "",
+        "The client appears to be unconscious,",
+        "but the beasts are exhausted from the",
+        "merry chase and are not moving now.",
+        "[Page]",
+        "",
+        "This would be an excellent chance to",
+        "attack them and save the client! If",
+        "you are ready, then leap into battle!",
+        ""
+      ],
+      "Translation": [
+        "You finally find a herd of scarlet",
+        "beasts and a scantily clad client",
+        "clinging to one of their giant horns.",
+        "[Page]",
+        "",
+        "The client appears to be unconscious,",
+        "but the beasts are exhausted from the",
+        "merry chase and are not moving now.",
+        "[Page]",
+        "",
+        "This would be an excellent chance to",
+        "attack them and save the client! If",
+        "you are ready, then leap into battle!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Head down into battle?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Head down into battle?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "You wonder if there is a pressing need",
+        "to rescue the foolish client... You",
+        "decide to simply watch for a while.",
+        ""
+      ],
+      "Translation": [
+        "You wonder if there is a pressing need",
+        "to rescue the foolish client... You",
+        "decide to simply watch for a while.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "After you confirm the monsters' deaths",
+        "and sheathe your weapons, the mostly-",
+        "naked client emerges, cracking jokes.",
+        "[Page]",
+        "",
+        "It seems he tried to lure out the",
+        "monster, but was ambushed and dragged",
+        "around, caught on the monster's horn.",
+        "[Page]",
+        "",
+        "The clothes strewn about the landscape",
+        "were left deliberately, he claims,",
+        "as a message for you.",
+        "[Page]",
+        "",
+        "The client eventually grows ashamed",
+        "and apologizes with slumped shoulders.",
+        "He boards his skyship for Tharsis.",
+        "[Page]",
+        "",
+        "The request is now complete! All that",
+        "remains is to return to the Dancing",
+        "Peacock and report what happened.",
+        ""
+      ],
+      "Translation": [
+        "After you confirm the monsters' deaths",
+        "and sheathe your weapons, the mostly-",
+        "naked client emerges, cracking jokes.",
+        "[Page]",
+        "",
+        "It seems he tried to lure out the",
+        "monster, but was ambushed and dragged",
+        "around, caught on the monster's horn.",
+        "[Page]",
+        "",
+        "The clothes strewn about the landscape",
+        "were left deliberately, he claims,",
+        "as a message for you.",
+        "[Page]",
+        "",
+        "The client eventually grows ashamed",
+        "and apologizes with slumped shoulders.",
+        "He boards his skyship for Tharsis.",
+        "[Page]",
+        "",
+        "The request is now complete! All that",
+        "remains is to return to the Dancing",
+        "Peacock and report what happened.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "You have rescued the client and slain",
+        "his tormentors! All that is left is",
+        "to report back to the bar.",
+        ""
+      ],
+      "Translation": [
+        "You have rescued the client and slain",
+        "his tormentors! All that is left is",
+        "to report back to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "As you fly in search of the client,",
+        "you notice something odd about the",
+        "ground below and squint to see.",
+        "[Page]",
+        "",
+        "The place looks quite ravaged. There",
+        "are beastly footprints everywhere...",
+        "[Page]",
+        "",
+        "You feel sure that the client fought",
+        "the beast here... You should give it",
+        "a closer look.",
+        ""
+      ],
+      "Translation": [
+        "As you fly in search of the client,",
+        "you notice something odd about the",
+        "ground below and squint to see.",
+        "[Page]",
+        "",
+        "The place looks quite ravaged. There",
+        "are beastly footprints everywhere...",
+        "[Page]",
+        "",
+        "You feel sure that the client fought",
+        "the beast here... You should give it",
+        "a closer look.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "When you look down, you see beastly",
+        "footprints everywhere... Could the",
+        "client be nearby?",
+        ""
+      ],
+      "Translation": [
+        "When you look down, you see beastly",
+        "footprints everywhere... Could the",
+        "client be nearby?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

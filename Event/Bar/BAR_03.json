@@ -1,0 +1,226 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_03",
+  "RelativePath": "Event\\Bar\\BAR_03.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You took the request? Sorry to rush",
+        "you, but this is urgent.",
+        "[Page]",
+        "",
+        "The other day, a man pawned this key",
+        "in my shop. I hear it's for a treasure",
+        "box in the [Color:5]Valley Spring[Color:0].",
+        "[Page]",
+        "",
+        "But the guy disappeared without",
+        "a trace, leaving his debt behind.",
+        "By law, I own whatever's inside.",
+        "[Page]",
+        "",
+        "The best part is, it's supposed to be",
+        "a breastplate crafted by the master",
+        "blacksmith, Conrad...",
+        "[Page]",
+        "",
+        "But I'm not cut out to go adventuring",
+        "in the Valley Spring. So I'm asking",
+        "you explorers for help.",
+        "[Page]",
+        "",
+        "Just bring me the contents of that",
+        "box and you'll be well rewarded.",
+        "[Page]",
+        "",
+        "Head [Color:5]west[Color:0] from the [Color:5]Lush Woodlands[Color:0]",
+        "and you'll reach a side road that",
+        "leads to the Valley Spring.",
+        ""
+      ],
+      "Translation": [
+        "You took the request? Sorry to rush",
+        "you, but this is urgent.",
+        "[Page]",
+        "",
+        "The other day, a man pawned this key",
+        "in my shop. I hear it's for a treasure",
+        "box in the [Color:5]Valley Spring[Color:0].",
+        "[Page]",
+        "",
+        "But the guy disappeared without",
+        "a trace, leaving his debt behind.",
+        "By law, I own whatever's inside.",
+        "[Page]",
+        "",
+        "The best part is, it's supposed to be",
+        "a breastplate crafted by the master",
+        "blacksmith, Conrad...",
+        "[Page]",
+        "",
+        "But I'm not cut out to go adventuring",
+        "in the Valley Spring. So I'm asking",
+        "you explorers for help.",
+        "[Page]",
+        "",
+        "Just bring me the contents of that",
+        "box and you'll be well rewarded.",
+        "[Page]",
+        "",
+        "Head [Color:5]west[Color:0] from the [Color:5]Lush Woodlands[Color:0]",
+        "and you'll reach a side road that",
+        "leads to the Valley Spring.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Aha, you're back. So how did it go?",
+        "What was inside the box?",
+        "[Page]",
+        "",
+        "Whoa... It's... filthy. This can't be",
+        "Conrad's work... I've been had!",
+        "[Page]",
+        "",
+        "Ugh, get rid of this ugly thing. Sorry",
+        "I made you go out there. Hey, take the",
+        "reward anyway, you earned it.",
+        "[Page]",
+        "",
+        "*sigh* Looks like I'll be in the red",
+        "again on this one...",
+        ""
+      ],
+      "Translation": [
+        "Aha, you're back. So how did it go?",
+        "What was inside the box?",
+        "[Page]",
+        "",
+        "Whoa... It's... filthy. This can't be",
+        "Conrad's work... I've been had!",
+        "[Page]",
+        "",
+        "Ugh, get rid of this ugly thing. Sorry",
+        "I made you go out there. Hey, take the",
+        "reward anyway, you earned it.",
+        "[Page]",
+        "",
+        "*sigh* Looks like I'll be in the red",
+        "again on this one...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "How's the request coming along? Wait,",
+        "you've already checked the contents?",
+        "Then show me what was inside.",
+        "[Page]",
+        "",
+        "Whoa... It's... filthy. This can't be",
+        "Conrad's work... I've been had!",
+        "[Page]",
+        "",
+        "Ugh, get rid of this ugly thing. Sorry",
+        "I made you go out there. Hey, take the",
+        "reward anyway, you earned it.",
+        "[Page]",
+        "",
+        "*sigh* Looks like I'll be in the red",
+        "again on this one...",
+        ""
+      ],
+      "Translation": [
+        "How's the request coming along? Wait,",
+        "you've already checked the contents?",
+        "Then show me what was inside.",
+        "[Page]",
+        "",
+        "Whoa... It's... filthy. This can't be",
+        "Conrad's work... I've been had!",
+        "[Page]",
+        "",
+        "Ugh, get rid of this ugly thing. Sorry",
+        "I made you go out there. Hey, take the",
+        "reward anyway, you earned it.",
+        "[Page]",
+        "",
+        "*sigh* Looks like I'll be in the red",
+        "again on this one...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Head [Color:5]west[Color:0] from the [Color:5]Lush Woodlands[Color:0]",
+        "and you'll reach a side road that",
+        "leads to the Valley Spring.",
+        ""
+      ],
+      "Translation": [
+        "Head [Color:5]west[Color:0] from the [Color:5]Lush Woodlands[Color:0]",
+        "and you'll reach a side road that",
+        "leads to the Valley Spring.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Aha, you guys... How's the request",
+        "coming along?",
+        "[Page]",
+        "",
+        "If you forgot, I wanted you to go open",
+        "a treasure box in the Valley Spring",
+        "with the key I gave you.",
+        "[Page]",
+        "",
+        "Inside, there should be a breastplate",
+        "Crafted by the master blacksmith,",
+        "Conrad. I'm counting on you guys.",
+        ""
+      ],
+      "Translation": [
+        "Aha, you guys... How's the request",
+        "coming along?",
+        "[Page]",
+        "",
+        "If you forgot, I wanted you to go open",
+        "a treasure box in the Valley Spring",
+        "with the key I gave you.",
+        "[Page]",
+        "",
+        "Inside, there should be a breastplate",
+        "Crafted by the master blacksmith,",
+        "Conrad. I'm counting on you guys.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

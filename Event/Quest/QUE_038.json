@@ -1,0 +1,680 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_038",
+  "RelativePath": "Event\\Quest\\QUE_038.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You're going to accept that quest...?",
+        "The client is the researcher who asked",
+        "for the animal remains and the book.",
+        "[Page]",
+        "",
+        "He used the knowledge gleaned from the",
+        "book to revive the carcass... and it",
+        "turned out to be a horrifying beast.",
+        "[Page]",
+        "",
+        "That is as much as I know, for... the",
+        "client fell victim to the beast and",
+        "is no longer with us.",
+        "[Page]",
+        "",
+        "But he wanted you to defeat it. By all",
+        "accounts, the beast escaped toward",
+        "the [Color:5]Lush Woodlands[Color:0].",
+        "[Page]",
+        "",
+        "In addition to explorers, many people",
+        "of Tharsis go there. We cannot allow",
+        "it to roam free.",
+        "[Page]",
+        "",
+        "This is a dangerous request, but I have no",
+        "one else to turn to. So, [Guild]",
+        "Guild, kismet be with you.",
+        "[Page]",
+        "",
+        "And as ever, I shall await your",
+        "swift return!",
+        ""
+      ],
+      "Translation": [
+        "You're going to accept that quest...?",
+        "The client is the researcher who asked",
+        "for the animal remains and the book.",
+        "[Page]",
+        "",
+        "He used the knowledge gleaned from the",
+        "book to revive the carcass... and it",
+        "turned out to be a horrifying beast.",
+        "[Page]",
+        "",
+        "That is as much as I know, for... the",
+        "client fell victim to the beast and",
+        "is no longer with us.",
+        "[Page]",
+        "",
+        "But he wanted you to defeat it. By all",
+        "accounts, the beast escaped toward",
+        "the [Color:5]Lush Woodlands[Color:0].",
+        "[Page]",
+        "",
+        "In addition to explorers, many people",
+        "of Tharsis go there. We cannot allow",
+        "it to roam free.",
+        "[Page]",
+        "",
+        "This is a dangerous request, but I have no",
+        "one else to turn to. So, [Guild]",
+        "Guild, kismet be with you.",
+        "[Page]",
+        "",
+        "And as ever, I shall await your",
+        "swift return!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back! I have heard that you",
+        "were successful in subduing the beast.",
+        "Thank goodness... I was worried.",
+        "[Page]",
+        "",
+        "Who could have foreseen the ultimate",
+        "fate of that beastly corpse preserved",
+        "in the ice?",
+        "[Page]",
+        "",
+        "And more importantly, what was the",
+        "client thinking, bringing it back to",
+        "life? I suppose we will never know...",
+        "[Page]",
+        "",
+        "But I again thank you. I rely on your",
+        "[Guild] Guild now for all of my",
+        "most difficult requests.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back! I have heard that you",
+        "were successful in subduing the beast.",
+        "Thank goodness... I was worried.",
+        "[Page]",
+        "",
+        "Who could have foreseen the ultimate",
+        "fate of that beastly corpse preserved",
+        "in the ice?",
+        "[Page]",
+        "",
+        "And more importantly, what was the",
+        "client thinking, bringing it back to",
+        "life? I suppose we will never know...",
+        "[Page]",
+        "",
+        "But I again thank you. I rely on your",
+        "[Guild] Guild now for all of my",
+        "most difficult requests.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "While hunting the revived beast",
+        "through the Woodlands, you see a",
+        "soldier fleeing in hysterics.",
+        ""
+      ],
+      "Translation": [
+        "While hunting the revived beast",
+        "through the Woodlands, you see a",
+        "soldier fleeing in hysterics.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "You try to elicit the details of the",
+        "situation from the soldier, but he",
+        "only screams as he shakes you off.",
+        ""
+      ],
+      "Translation": [
+        "You try to elicit the details of the",
+        "situation from the soldier, but he",
+        "only screams as he shakes you off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "\"L-Let go! Let go of me! Back there!",
+        "A--A thing! A thing with, with hideous",
+        "wings!",
+        "[Page]",
+        "",
+        "\"M-My allies were all e-eaten!",
+        "Help! Monster!\"",
+        "[Page]",
+        "",
+        "There is nothing else you can get out",
+        "of the soldier between his piteous",
+        "wailing.",
+        "[Page]",
+        "",
+        "You let go of him and he runs at a",
+        "full sprint from the area.",
+        ""
+      ],
+      "Translation": [
+        "\"L-Let go! Let go of me! Back there!",
+        "A--A thing! A thing with, with hideous",
+        "wings!",
+        "[Page]",
+        "",
+        "\"M-My allies were all e-eaten!",
+        "Help! Monster!\"",
+        "[Page]",
+        "",
+        "There is nothing else you can get out",
+        "of the soldier between his piteous",
+        "wailing.",
+        "[Page]",
+        "",
+        "You let go of him and he runs at a",
+        "full sprint from the area.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "The beast the soldier feared so must",
+        "be the revived monster you hunt. As",
+        "expected, it is a powerful enemy...",
+        ""
+      ],
+      "Translation": [
+        "The beast the soldier feared so must",
+        "be the revived monster you hunt. As",
+        "expected, it is a powerful enemy...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk the Woodlands, searching",
+        "for the beast, you arrive in front of",
+        "an altar.",
+        "[Page]",
+        "",
+        "You see a trail of blood leading from",
+        "south to north, with pieces of armor",
+        "strewn throughout.",
+        "[Page]",
+        "",
+        "It is certain that they belonged to",
+        "soldiers who fell prey to the revived",
+        "creature...",
+        ""
+      ],
+      "Translation": [
+        "As you walk the Woodlands, searching",
+        "for the beast, you arrive in front of",
+        "an altar.",
+        "[Page]",
+        "",
+        "You see a trail of blood leading from",
+        "south to north, with pieces of armor",
+        "strewn throughout.",
+        "[Page]",
+        "",
+        "It is certain that they belonged to",
+        "soldiers who fell prey to the revived",
+        "creature...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "In front of the altar, you discover",
+        "copious bloodstains and scraps of",
+        "armor at your feet.",
+        "[Page]",
+        "",
+        "You look closely and see that the",
+        "trail of blood leads from south to",
+        "north...",
+        ""
+      ],
+      "Translation": [
+        "In front of the altar, you discover",
+        "copious bloodstains and scraps of",
+        "armor at your feet.",
+        "[Page]",
+        "",
+        "You look closely and see that the",
+        "trail of blood leads from south to",
+        "north...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "It is certain that the blood belonged",
+        "to soldiers who fell prey to the",
+        "revived creature...",
+        ""
+      ],
+      "Translation": [
+        "It is certain that the blood belonged",
+        "to soldiers who fell prey to the",
+        "revived creature...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "As you move into the hidden regions",
+        "of the Woodlands, you see that the",
+        "bloodstains continue into the door!",
+        "[Page]",
+        "",
+        "There may be a powerful beast lurking",
+        "beyond... You ensure that you are",
+        "fully prepared before opening it.",
+        ""
+      ],
+      "Translation": [
+        "As you move into the hidden regions",
+        "of the Woodlands, you see that the",
+        "bloodstains continue into the door!",
+        "[Page]",
+        "",
+        "There may be a powerful beast lurking",
+        "beyond... You ensure that you are",
+        "fully prepared before opening it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Once you ready yourself and open the",
+        "door, a strong gust of force blows",
+        "toward you!",
+        ""
+      ],
+      "Translation": [
+        "Once you ready yourself and open the",
+        "door, a strong gust of force blows",
+        "toward you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Past the cloud of dust raised by the",
+        "wind, you see a colossal form with",
+        "glowing eyes.",
+        "[Page]",
+        "",
+        "Here is the ancient beast who defied",
+        "fate, devouring its own benefactor",
+        "as well as the soldiers!",
+        "[Page]",
+        "",
+        "You fearlessly clutch your weapons",
+        "and charge forth to defeat this",
+        "gruesome foe!",
+        ""
+      ],
+      "Translation": [
+        "Past the cloud of dust raised by the",
+        "wind, you see a colossal form with",
+        "glowing eyes.",
+        "[Page]",
+        "",
+        "Here is the ancient beast who defied",
+        "fate, devouring its own benefactor",
+        "as well as the soldiers!",
+        "[Page]",
+        "",
+        "You fearlessly clutch your weapons",
+        "and charge forth to defeat this",
+        "gruesome foe!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "The fierce battle between you and the",
+        "beast comes to its end when the thing",
+        "gives one final roar!",
+        "[Page]",
+        "",
+        "The beast given life in defiance of",
+        "fate will return to its slumber...",
+        "[Page]",
+        "",
+        "The request is now complete! You need",
+        "only head to the bar and report your",
+        "accomplishment whenever you can!",
+        ""
+      ],
+      "Translation": [
+        "The fierce battle between you and the",
+        "beast comes to its end when the thing",
+        "gives one final roar!",
+        "[Page]",
+        "",
+        "The beast given life in defiance of",
+        "fate will return to its slumber...",
+        "[Page]",
+        "",
+        "The request is now complete! You need",
+        "only head to the bar and report your",
+        "accomplishment whenever you can!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

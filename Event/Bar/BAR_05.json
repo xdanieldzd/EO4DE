@@ -1,0 +1,114 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_05",
+  "RelativePath": "Event\\Bar\\BAR_05.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ahh, nice to meet you. I am Dean...",
+        "a lonely monster hunter. Are you the",
+        "ones wanting to see a show?",
+        "[Page]",
+        "",
+        "Tonight's opponent is... a large",
+        "crustacean! It's a rare sight, but",
+        "I know the trick to luring it out.",
+        "[Page]",
+        "",
+        "But no matter how spectacularly I set",
+        "the stage, it's not worth performing",
+        "the act without a crowd.",
+        "[Page]",
+        "",
+        "That's where you come in. You will",
+        "be the audience for a show written,",
+        "directed, and performed by me!",
+        "[Page]",
+        "",
+        "[Color:5]Once the sun sets[Color:0], come to area [Color:5]B-3[Color:0] in",
+        "the Windy Plains and you'll see a show",
+        "to remember at the bottom of the hill!",
+        ""
+      ],
+      "Translation": [
+        "Ahh, nice to meet you. I am Dean...",
+        "a lonely monster hunter. Are you the",
+        "ones wanting to see a show?",
+        "[Page]",
+        "",
+        "Tonight's opponent is... a large",
+        "crustacean! It's a rare sight, but",
+        "I know the trick to luring it out.",
+        "[Page]",
+        "",
+        "But no matter how spectacularly I set",
+        "the stage, it's not worth performing",
+        "the act without a crowd.",
+        "[Page]",
+        "",
+        "That's where you come in. You will",
+        "be the audience for a show written,",
+        "directed, and performed by me!",
+        "[Page]",
+        "",
+        "[Color:5]Once the sun sets[Color:0], come to area [Color:5]B-3[Color:0] in",
+        "the Windy Plains and you'll see a show",
+        "to remember at the bottom of the hill!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Do you not know what I mean by [Color:5]B-3[Color:0]?",
+        "It's the area indicated by B on the",
+        "left side of the map and 3 on top.",
+        ""
+      ],
+      "Translation": [
+        "Do you not know what I mean by [Color:5]B-3[Color:0]?",
+        "It's the area indicated by B on the",
+        "left side of the map and 3 on top.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Do you not know what I mean by [Color:5]B-3[Color:0]?",
+        "It's the area indicated by B on the",
+        "left side of the map and 3 on top.",
+        "[Page]",
+        "",
+        "Come once the sun sets and... Oh!",
+        "It's already nighttime! You need to",
+        "hurry! A-And so do I!",
+        ""
+      ],
+      "Translation": [
+        "Do you not know what I mean by [Color:5]B-3[Color:0]?",
+        "It's the area indicated by B on the",
+        "left side of the map and 3 on top.",
+        "[Page]",
+        "",
+        "Come once the sun sets and... Oh!",
+        "It's already nighttime! You need to",
+        "hurry! A-And so do I!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

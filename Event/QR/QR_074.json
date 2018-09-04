@@ -1,0 +1,317 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_074",
+  "RelativePath": "Event\\QR\\QR_074.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, you are taking that request?",
+        "The man sitting there with a fishing",
+        "rod is a legendary angler.",
+        "[Page]",
+        "",
+        "He seems to want you to bring back",
+        "something from a monster. You should",
+        "ask him in person for the details.",
+        "[Page]",
+        "",
+        "Well then, kismet be with you,",
+        "and I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Ah, you are taking that request?",
+        "The man sitting there with a fishing",
+        "rod is a legendary angler.",
+        "[Page]",
+        "",
+        "He seems to want you to bring back",
+        "something from a monster. You should",
+        "ask him in person for the details.",
+        "[Page]",
+        "",
+        "Well then, kismet be with you,",
+        "and I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You realize that you already have a",
+        "[Color:6][Number:0][Color:0]. Simply report in and",
+        "the request will be complete!",
+        ""
+      ],
+      "Translation": [
+        "You realize that you already have a",
+        "[Color:6][Number:0][Color:0]. Simply report in and",
+        "the request will be complete!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I heard that you caught",
+        "quite a... \"whopper\"? Impressive work",
+        "as always, [Guild] Guild.",
+        "[Page]",
+        "",
+        "The client told me that he believes",
+        "you may draw out that turtle as many",
+        "times as you want using that method.",
+        "[Page]",
+        "",
+        "It might be fun to go fishing again",
+        "sometime... Well done, as always.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I heard that you caught",
+        "quite a... \"whopper\"? Impressive work",
+        "as always, [Guild] Guild.",
+        "[Page]",
+        "",
+        "The client told me that he believes",
+        "you may draw out that turtle as many",
+        "times as you want using that method.",
+        "[Page]",
+        "",
+        "It might be fun to go fishing again",
+        "sometime... Well done, as always.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "As you search for the water hole the",
+        "client directed you to, you see a lake",
+        "below which fits the description.",
+        "[Page]",
+        "",
+        "This is most likely the habitat of",
+        "the giant turtle...",
+        "[Page]",
+        "",
+        "You remember the client's directions",
+        "to try dropping food into the lake.",
+        ""
+      ],
+      "Translation": [
+        "As you search for the water hole the",
+        "client directed you to, you see a lake",
+        "below which fits the description.",
+        "[Page]",
+        "",
+        "This is most likely the habitat of",
+        "the giant turtle...",
+        "[Page]",
+        "",
+        "You remember the client's directions",
+        "to try dropping food into the lake.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "The food you dropped disappears into",
+        "the lake...",
+        ""
+      ],
+      "Translation": [
+        "The food you dropped disappears into",
+        "the lake...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "You wait for a time to see what the",
+        "result might be, when bubbles begin",
+        "to surface in the water!",
+        ""
+      ],
+      "Translation": [
+        "You wait for a time to see what the",
+        "result might be, when bubbles begin",
+        "to surface in the water!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Though you ready yourselves for",
+        "combat, the surface of the water",
+        "grows calm and still again...",
+        ""
+      ],
+      "Translation": [
+        "Though you ready yourselves for",
+        "combat, the surface of the water",
+        "grows calm and still again...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "They are followed by a huge underwater",
+        "shadow...! Lured by the food you",
+        "dropped, a monster is drawing near!",
+        "[Page]",
+        "",
+        "You ready yourselves to challenge the",
+        "approaching beast in combat!",
+        ""
+      ],
+      "Translation": [
+        "They are followed by a huge underwater",
+        "shadow...! Lured by the food you",
+        "dropped, a monster is drawing near!",
+        "[Page]",
+        "",
+        "You ready yourselves to challenge the",
+        "approaching beast in combat!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "You have defeated the giant turtle,",
+        "but failed to obtain the requested",
+        "material...",
+        "[Page]",
+        "",
+        "In order to fulfill the client's",
+        "request, you must challenge it again.",
+        ""
+      ],
+      "Translation": [
+        "You have defeated the giant turtle,",
+        "but failed to obtain the requested",
+        "material...",
+        "[Page]",
+        "",
+        "In order to fulfill the client's",
+        "request, you must challenge it again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "You have defeated the giant turtle",
+        "and gained its [Color:6][Item:1051][Color:0]!",
+        "[Page]",
+        "",
+        "All that remains is to deliver it to",
+        "the client waiting at the bar and",
+        "the request will be complete!",
+        ""
+      ],
+      "Translation": [
+        "You have defeated the giant turtle",
+        "and gained its [Color:6][Item:1051][Color:0]!",
+        "[Page]",
+        "",
+        "All that remains is to deliver it to",
+        "the client waiting at the bar and",
+        "the request will be complete!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "The dropped food disappears into the",
+        "water, but nothing comes to claim it.",
+        "Perhaps not enough time has passed...",
+        ""
+      ],
+      "Translation": [
+        "The dropped food disappears into the",
+        "water, but nothing comes to claim it.",
+        "Perhaps not enough time has passed...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "You recall accepting a request to",
+        "recover a [Color:6][Number:0][Color:0]...",
+        "[Page]",
+        "",
+        "You must be careful not to sell it",
+        "before you have a chance to deliver",
+        "it to [Color:5]Big-Bait[Color:0] at the bar.",
+        ""
+      ],
+      "Translation": [
+        "You recall accepting a request to",
+        "recover a [Color:6][Number:0][Color:0]...",
+        "[Page]",
+        "",
+        "You must be careful not to sell it",
+        "before you have a chance to deliver",
+        "it to [Color:5]Big-Bait[Color:0] at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

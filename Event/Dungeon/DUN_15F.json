@@ -1,0 +1,1626 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_15F",
+  "RelativePath": "Event\\Dungeon\\DUN_15F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"Since we are so few, we'll need help",
+        "to execute our plan. We've begun to",
+        "create servitor races to help us.",
+        "[Page]",
+        "",
+        "\"Though they obviously need food as",
+        "well. If they needed the same food",
+        "we do, that would hardly be progress.",
+        "[Page]",
+        "",
+        "\"So we built them to resist the poison",
+        "found in the wilderness. The other",
+        "plan's research came in handy there.",
+        "[Page]",
+        "",
+        "\"That taken care of, we began to take",
+        "steps to proceed with our project...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Translation": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"Since we are so few, we'll need help",
+        "to execute our plan. We've begun to",
+        "create servitor races to help us.",
+        "[Page]",
+        "",
+        "\"Though they obviously need food as",
+        "well. If they needed the same food",
+        "we do, that would hardly be progress.",
+        "[Page]",
+        "",
+        "\"So we built them to resist the poison",
+        "found in the wilderness. The other",
+        "plan's research came in handy there.",
+        "[Page]",
+        "",
+        "\"That taken care of, we began to take",
+        "steps to proceed with our project...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"Our first servants are highly skilled",
+        "combatants. They're used to protect us",
+        "as we explore and for physical labor.",
+        "[Page]",
+        "",
+        "\"Their strength comes from the mutated",
+        "bodies of wild animals. Each one has",
+        "a unique look from the animal used.",
+        "[Page]",
+        "",
+        "\"Our second servants are built for",
+        "intelligence, to support our research.",
+        "Their minds rival that of our own.",
+        "[Page]",
+        "",
+        "\"But their bodies are frail and can't",
+        "take extreme experimentation. I warned",
+        "the committee not to do it, but...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Translation": [
+        "There is an extravagantly bound book",
+        "on the shelf at the dead end. You",
+        "pluck it from the shelf and read...",
+        "[Page]",
+        "",
+        "\"Our first servants are highly skilled",
+        "combatants. They're used to protect us",
+        "as we explore and for physical labor.",
+        "[Page]",
+        "",
+        "\"Their strength comes from the mutated",
+        "bodies of wild animals. Each one has",
+        "a unique look from the animal used.",
+        "[Page]",
+        "",
+        "\"Our second servants are built for",
+        "intelligence, to support our research.",
+        "Their minds rival that of our own.",
+        "[Page]",
+        "",
+        "\"But their bodies are frail and can't",
+        "take extreme experimentation. I warned",
+        "the committee not to do it, but...\"",
+        "[Page]",
+        "",
+        "The account ends there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "After navigating the hall of toxins",
+        "and shadow, you reach a corridor.",
+        "Thankfully, it is absent of traps.",
+        "[Page]",
+        "",
+        "As you walk around the corridor, you",
+        "notice words written at your feet.",
+        "[Page]",
+        "",
+        "The black ink has faded, making most",
+        "of it illegible, but this much at",
+        "least you can make out:",
+        "[Page]",
+        "",
+        "\"The devourer is sealed. Do not take",
+        "the insect lightly. Be very afraid of",
+        "what possesses it. DO NOT free it.\"",
+        "[Page]",
+        "",
+        "Judging by the quickly scrawled note,",
+        "it seems the writer was in a rather",
+        "desperate hurry.",
+        "[Page]",
+        "",
+        "You remember the skeleton's note on",
+        "B1F referencing an \"insect\" as well.",
+        "It could be important later...",
+        "[Page]",
+        "",
+        "The exploration continues...",
+        ""
+      ],
+      "Translation": [
+        "After navigating the hall of toxins",
+        "and shadow, you reach a corridor.",
+        "Thankfully, it is absent of traps.",
+        "[Page]",
+        "",
+        "As you walk around the corridor, you",
+        "notice words written at your feet.",
+        "[Page]",
+        "",
+        "The black ink has faded, making most",
+        "of it illegible, but this much at",
+        "least you can make out:",
+        "[Page]",
+        "",
+        "\"The devourer is sealed. Do not take",
+        "the insect lightly. Be very afraid of",
+        "what possesses it. DO NOT free it.\"",
+        "[Page]",
+        "",
+        "Judging by the quickly scrawled note,",
+        "it seems the writer was in a rather",
+        "desperate hurry.",
+        "[Page]",
+        "",
+        "You remember the skeleton's note on",
+        "B1F referencing an \"insect\" as well.",
+        "It could be important later...",
+        "[Page]",
+        "",
+        "The exploration continues...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You are suddenly overwhelmed with an",
+        "uncanny sensation!",
+        ""
+      ],
+      "Translation": [
+        "You are suddenly overwhelmed with an",
+        "uncanny sensation!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "When you open your eyes, you see a",
+        "door before you which you know you",
+        "have passed through before...",
+        "[Page]",
+        "",
+        "There is no knowing the principle at",
+        "work, but it seems some mechanism has",
+        "transported you here.",
+        "[Page]",
+        "",
+        "If you intend to continue your search,",
+        "you will have to be even more careful",
+        "with the map you draw.",
+        ""
+      ],
+      "Translation": [
+        "When you open your eyes, you see a",
+        "door before you which you know you",
+        "have passed through before...",
+        "[Page]",
+        "",
+        "There is no knowing the principle at",
+        "work, but it seems some mechanism has",
+        "transported you here.",
+        "[Page]",
+        "",
+        "If you intend to continue your search,",
+        "you will have to be even more careful",
+        "with the map you draw.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "As you progress through the dreadful",
+        "maze, you find a large shelf situated",
+        "at a dead end. There is a note here...",
+        "[Page]",
+        "",
+        "[Color:5]\"DANGER! Specimens intended for",
+        "disposal! DO NOT TOUCH!\"[Color:0] Next to the",
+        "note is an array of specimen jars.",
+        "[Page]",
+        "",
+        "You frown. The note is clear that the",
+        "specimens are not to be touched...",
+        "Will you handle them anyway?",
+        ""
+      ],
+      "Translation": [
+        "As you progress through the dreadful",
+        "maze, you find a large shelf situated",
+        "at a dead end. There is a note here...",
+        "[Page]",
+        "",
+        "[Color:5]\"DANGER! Specimens intended for",
+        "disposal! DO NOT TOUCH!\"[Color:0] Next to the",
+        "note is an array of specimen jars.",
+        "[Page]",
+        "",
+        "You frown. The note is clear that the",
+        "specimens are not to be touched...",
+        "Will you handle them anyway?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]What will you do?[Color:0]",
+        "Check the plant specimen",
+        "Check the bug specimen",
+        "Leave",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]What will you do?[Color:0]",
+        "Check the plant specimen",
+        "Check the bug specimen",
+        "Leave",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "You reach toward the jars without much",
+        "thought, but happen to catch the note",
+        "again in the corner of your eye.",
+        "[Page]",
+        "",
+        "[Color:5]\"DANGER! Specimens intended for",
+        "disposal! DO NOT TOUCH!\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "You reach toward the jars without much",
+        "thought, but happen to catch the note",
+        "again in the corner of your eye.",
+        "[Page]",
+        "",
+        "[Color:5]\"DANGER! Specimens intended for",
+        "disposal! DO NOT TOUCH!\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will you really proceed?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will you really proceed?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "You struggle to come up with a",
+        "potential benefit to this course of",
+        "action and read the note once more.",
+        "[Page]",
+        "",
+        "The warning has not changed...",
+        "[Page]",
+        "",
+        "[Color:5]\"DO NOT TOUCH!\"[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "You struggle to come up with a",
+        "potential benefit to this course of",
+        "action and read the note once more.",
+        "[Page]",
+        "",
+        "The warning has not changed...",
+        "[Page]",
+        "",
+        "[Color:5]\"DO NOT TOUCH!\"[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Are you absolutely certain?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Are you absolutely certain?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "You take the closest container to hand",
+        "and open its lid...",
+        "[Page]",
+        "",
+        "Suddenly, the plant contained within",
+        "begins to writhe violently and jumps",
+        "out of the jar to attack you!",
+        ""
+      ],
+      "Translation": [
+        "You take the closest container to hand",
+        "and open its lid...",
+        "[Page]",
+        "",
+        "Suddenly, the plant contained within",
+        "begins to writhe violently and jumps",
+        "out of the jar to attack you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "You take the closest container to",
+        "hand, containing an etherized bug,",
+        "and open its lid...",
+        "[Page]",
+        "",
+        "How can this be...!? The bug within",
+        "is still alive and moves to attack!",
+        ""
+      ],
+      "Translation": [
+        "You take the closest container to",
+        "hand, containing an etherized bug,",
+        "and open its lid...",
+        "[Page]",
+        "",
+        "How can this be...!? The bug within",
+        "is still alive and moves to attack!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Though the battle was arduous, you",
+        "managed to survive the crisis...",
+        "[Page]",
+        "",
+        "If you hope to continue your journey,",
+        "you will need to act a bit less",
+        "recklessly.",
+        ""
+      ],
+      "Translation": [
+        "Though the battle was arduous, you",
+        "managed to survive the crisis...",
+        "[Page]",
+        "",
+        "If you hope to continue your journey,",
+        "you will need to act a bit less",
+        "recklessly.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk through the maze, you are",
+        "surprised to come upon a wooden table",
+        "and chairs at a dead end.",
+        "[Page]",
+        "",
+        "Oddly enough, the table is set with",
+        "a plate of some sort of gelatinous",
+        "red substance.",
+        "[Page]",
+        "",
+        "Hungry though you are, the dish set",
+        "before you seems suspicious in the",
+        "extreme...",
+        ""
+      ],
+      "Translation": [
+        "As you walk through the maze, you are",
+        "surprised to come upon a wooden table",
+        "and chairs at a dead end.",
+        "[Page]",
+        "",
+        "Oddly enough, the table is set with",
+        "a plate of some sort of gelatinous",
+        "red substance.",
+        "[Page]",
+        "",
+        "Hungry though you are, the dish set",
+        "before you seems suspicious in the",
+        "extreme...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Will you eat it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Will you eat it?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "The red gelatin turns out to be",
+        "incredibly delicious. You feel fully",
+        "refreshed as you go on your way.",
+        ""
+      ],
+      "Translation": [
+        "The red gelatin turns out to be",
+        "incredibly delicious. You feel fully",
+        "refreshed as you go on your way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 300 HP",
+        "and 200 TP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 300 HP",
+        "and 200 TP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "You choose to ignore the table and",
+        "the disturbing substance prepared",
+        "on it.",
+        ""
+      ],
+      "Translation": [
+        "You choose to ignore the table and",
+        "the disturbing substance prepared",
+        "on it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "As you trudge onward through the",
+        "oppressive corridors, you sense a",
+        "presence ahead and stop.",
+        "[Page]",
+        "",
+        "A girl with green lesions all over her",
+        "body steps into view. Her expression",
+        "is sorrowful and frightened.",
+        "[Page]",
+        "",
+        "Just as you are about to speak to her,",
+        "the girl disappears into smoke...",
+        ""
+      ],
+      "Translation": [
+        "As you trudge onward through the",
+        "oppressive corridors, you sense a",
+        "presence ahead and stop.",
+        "[Page]",
+        "",
+        "A girl with green lesions all over her",
+        "body steps into view. Her expression",
+        "is sorrowful and frightened.",
+        "[Page]",
+        "",
+        "Just as you are about to speak to her,",
+        "the girl disappears into smoke...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "As you trudge onward through the",
+        "oppressive corridors, you sense a",
+        "presence ahead and stop.",
+        "[Page]",
+        "",
+        "A smiling girl with green lesions",
+        "covering her body steps into view...",
+        "[Page]",
+        "",
+        "Just as you are about to speak to her,",
+        "the girl disappears into smoke...",
+        ""
+      ],
+      "Translation": [
+        "As you trudge onward through the",
+        "oppressive corridors, you sense a",
+        "presence ahead and stop.",
+        "[Page]",
+        "",
+        "A smiling girl with green lesions",
+        "covering her body steps into view...",
+        "[Page]",
+        "",
+        "Just as you are about to speak to her,",
+        "the girl disappears into smoke...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "At your feet are three dolls, nestled",
+        "tightly together like a family...",
+        ""
+      ],
+      "Translation": [
+        "At your feet are three dolls, nestled",
+        "tightly together like a family...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "As you wander the miasma-suffused",
+        "maze, you find something on the ground",
+        "at the end of a path.",
+        "[Page]",
+        "",
+        "It turns out to be a shabby, worn doll",
+        "shaped like a little girl.",
+        "[Page]",
+        "",
+        "Its presence here disquiets you,",
+        "though you are free to take it with",
+        "you if you choose.",
+        ""
+      ],
+      "Translation": [
+        "As you wander the miasma-suffused",
+        "maze, you find something on the ground",
+        "at the end of a path.",
+        "[Page]",
+        "",
+        "It turns out to be a shabby, worn doll",
+        "shaped like a little girl.",
+        "[Page]",
+        "",
+        "Its presence here disquiets you,",
+        "though you are free to take it with",
+        "you if you choose.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "At your feet is a shabby, worn doll,",
+        "modeled after a young girl...",
+        "[Page]",
+        "",
+        "Its presence here disquiets you,",
+        "though you are free to take it with",
+        "you if you choose.",
+        ""
+      ],
+      "Translation": [
+        "At your feet is a shabby, worn doll,",
+        "modeled after a young girl...",
+        "[Page]",
+        "",
+        "Its presence here disquiets you,",
+        "though you are free to take it with",
+        "you if you choose.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Pick up the doll?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Pick up the doll?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "You reach toward the doll, as if drawn",
+        "to it, and pick it up to put it with",
+        "the rest of your things.",
+        "[Page]",
+        "",
+        "You then take your leave of this",
+        "place to resume your trek.",
+        ""
+      ],
+      "Translation": [
+        "You reach toward the doll, as if drawn",
+        "to it, and pick it up to put it with",
+        "the rest of your things.",
+        "[Page]",
+        "",
+        "You then take your leave of this",
+        "place to resume your trek.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "As you travel the paths reeking with",
+        "miasma, you find something at a dead",
+        "end and stop to inspect it.",
+        "[Page]",
+        "",
+        "It is a pair of dolls... The way they",
+        "are positioned in each other's arms",
+        "puts you in mind of a married couple.",
+        ""
+      ],
+      "Translation": [
+        "As you travel the paths reeking with",
+        "miasma, you find something at a dead",
+        "end and stop to inspect it.",
+        "[Page]",
+        "",
+        "It is a pair of dolls... The way they",
+        "are positioned in each other's arms",
+        "puts you in mind of a married couple.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "At your feet are two dolls, placed",
+        "together like a married couple.",
+        ""
+      ],
+      "Translation": [
+        "At your feet are two dolls, placed",
+        "together like a married couple.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "You recall picking up a similar doll",
+        "elsewhere in your explorations...",
+        "[Page]",
+        "",
+        "Perhaps these two are meant to be the",
+        "parents of the doll you found earlier.",
+        "[Page]",
+        "",
+        "You wonder if you should leave the",
+        "doll you have here, nestled with its",
+        "\"parents\"...",
+        ""
+      ],
+      "Translation": [
+        "You recall picking up a similar doll",
+        "elsewhere in your explorations...",
+        "[Page]",
+        "",
+        "Perhaps these two are meant to be the",
+        "parents of the doll you found earlier.",
+        "[Page]",
+        "",
+        "You wonder if you should leave the",
+        "doll you have here, nestled with its",
+        "\"parents\"...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Place the doll here?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Place the doll here?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "You remove the doll you found from",
+        "your pack and gently place it between",
+        "the two dolls here.",
+        "[Page]",
+        "",
+        "Lined up together, the three dolls",
+        "look like a happy family.",
+        "[Page]",
+        "",
+        "Satisfied, you turn to leave, and jump",
+        "when a dull crash suddenly booms from",
+        "behind you.",
+        ""
+      ],
+      "Translation": [
+        "You remove the doll you found from",
+        "your pack and gently place it between",
+        "the two dolls here.",
+        "[Page]",
+        "",
+        "Lined up together, the three dolls",
+        "look like a happy family.",
+        "[Page]",
+        "",
+        "Satisfied, you turn to leave, and jump",
+        "when a dull crash suddenly booms from",
+        "behind you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "You turn around fearfully to find",
+        "a large warhammer with ominous",
+        "inscriptions on it lying there.",
+        "[Page]",
+        "",
+        "Where did this come from...? Highly",
+        "skeptical of it though you are,",
+        "you graciously accept the weapon.",
+        ""
+      ],
+      "Translation": [
+        "You turn around fearfully to find",
+        "a large warhammer with ominous",
+        "inscriptions on it lying there.",
+        "[Page]",
+        "",
+        "Where did this come from...? Highly",
+        "skeptical of it though you are,",
+        "you graciously accept the weapon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "You can see no relevance that these",
+        "dolls could have to your quest and",
+        "leave them where they lie.",
+        ""
+      ],
+      "Translation": [
+        "You can see no relevance that these",
+        "dolls could have to your quest and",
+        "leave them where they lie.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "You happen to glance back at the place",
+        "where you left the doll and are",
+        "shocked by the sight before you.",
+        "[Page]",
+        "",
+        "There, on the ground, are the remains",
+        "of mercilessly ravaged dolls...",
+        "[Page]",
+        "",
+        "What could have happened here? Highly",
+        "disturbed by this turn of events, you",
+        "leave as quickly as you can.",
+        ""
+      ],
+      "Translation": [
+        "You happen to glance back at the place",
+        "where you left the doll and are",
+        "shocked by the sight before you.",
+        "[Page]",
+        "",
+        "There, on the ground, are the remains",
+        "of mercilessly ravaged dolls...",
+        "[Page]",
+        "",
+        "What could have happened here? Highly",
+        "disturbed by this turn of events, you",
+        "leave as quickly as you can.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

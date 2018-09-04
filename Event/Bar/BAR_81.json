@@ -1,0 +1,289 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_81",
+  "RelativePath": "Event\\Bar\\BAR_81.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Are you the ones who wish to be",
+        "trained? In gratitude for what you did",
+        "for my people, I will help train you.",
+        ""
+      ],
+      "Translation": [
+        "Are you the ones who wish to be",
+        "trained? In gratitude for what you did",
+        "for my people, I will help train you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Learn more about training?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Learn more about training?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Through training, one character below",
+        "level 34 can be boosted to level 35.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]This consumes one [Color:6][Item:1474][Color:3].",
+        "There is a limit to how many times",
+        "you can train, so be careful.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Through training, one character below",
+        "level 34 can be boosted to level 35.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]This consumes one [Color:6][Item:1474][Color:3].",
+        "There is a limit to how many times",
+        "you can train, so be careful.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Train a party member?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Train a party member?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will train?[Color:0]",
+        " ",
+        "             [Color:3]B Button: Cancel[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will train?[Color:0]",
+        " ",
+        "             [Color:3]B Button: Cancel[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] is level [Number:1].[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] is level [Number:1].[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Are you sure you wish to train?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Are you sure you wish to train?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] has become level 35![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] has become level 35![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "The training was fruitful, I see.",
+        "In which case, I must ask one",
+        "[Color:6][Item:1474][Color:0] from you.",
+        "[Page]",
+        "",
+        "Are there any others in your guild",
+        "who wish to be trained? If so,",
+        "come and consult me again.",
+        ""
+      ],
+      "Translation": [
+        "The training was fruitful, I see.",
+        "In which case, I must ask one",
+        "[Color:6][Item:1474][Color:0] from you.",
+        "[Page]",
+        "",
+        "Are there any others in your guild",
+        "who wish to be trained? If so,",
+        "come and consult me again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "The training was fruitful, I see.",
+        "In which case, I must ask one",
+        "[Color:6][Item:1474][Color:0] from you.",
+        "[Page]",
+        "",
+        "This city is called Tharsis? Though",
+        "I was only here for a short time,",
+        "I've greatly enjoyed my stay.",
+        "[Page]",
+        "",
+        "I will be leaving today. Make sure",
+        "you take care of your city. I wish",
+        "you good health, [Guild] Guild.",
+        ""
+      ],
+      "Translation": [
+        "The training was fruitful, I see.",
+        "In which case, I must ask one",
+        "[Color:6][Item:1474][Color:0] from you.",
+        "[Page]",
+        "",
+        "This city is called Tharsis? Though",
+        "I was only here for a short time,",
+        "I've greatly enjoyed my stay.",
+        "[Page]",
+        "",
+        "I will be leaving today. Make sure",
+        "you take care of your city. I wish",
+        "you good health, [Guild] Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] is level [Number:1]",
+        "and cannot be trained.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] is level [Number:1]",
+        "and cannot be trained.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "I had not expected to meet you again",
+        "here. What's the matter? Have you",
+        "forgotten my face?",
+        "[Page]",
+        "",
+        "If you have a [Item:1474], I must",
+        "help train you. Shall we begin now?",
+        ""
+      ],
+      "Translation": [
+        "I had not expected to meet you again",
+        "here. What's the matter? Have you",
+        "forgotten my face?",
+        "[Page]",
+        "",
+        "If you have a [Item:1474], I must",
+        "help train you. Shall we begin now?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] is not an official member",
+        "of [Guild] and cannot be trained.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] is not an official member",
+        "of [Guild] and cannot be trained.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

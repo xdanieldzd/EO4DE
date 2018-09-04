@@ -1,0 +1,614 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_015",
+  "RelativePath": "Event\\Quest\\QUE_015.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That is a subjugation request for a",
+        "monster that appears on B2F[Color:0] of the",
+        "[Color:5]Misty Ravine[Color:0]. Can I rely on you?",
+        "[Page]",
+        "",
+        "I want you to subdue a spellcasting",
+        "monster that has been seen in the",
+        "southern part of B2F's center region.",
+        "[Page]",
+        "",
+        "But the monster uses a [Color:5]strange spell[Color:0]",
+        "which prevents all who have tried from",
+        "approaching, let alone eliminating it.",
+        "[Page]",
+        "",
+        "If you find a way to break this spell,",
+        "you may have better luck than most.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That is a subjugation request for a",
+        "monster that appears on B2F[Color:0] of the",
+        "[Color:5]Misty Ravine[Color:0]. Can I rely on you?",
+        "[Page]",
+        "",
+        "I want you to subdue a spellcasting",
+        "monster that has been seen in the",
+        "southern part of B2F's center region.",
+        "[Page]",
+        "",
+        "But the monster uses a [Color:5]strange spell[Color:0]",
+        "which prevents all who have tried from",
+        "approaching, let alone eliminating it.",
+        "[Page]",
+        "",
+        "If you find a way to break this spell,",
+        "you may have better luck than most.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "I heard the details from some of my",
+        "other explorer patrons. Excellent",
+        "work... your skill is top-notch.",
+        "[Page]",
+        "",
+        "I can only imagine the monster's",
+        "bafflement to see you running",
+        "backwards toward it.",
+        "[Page]",
+        "",
+        "But that is the sort of flexible thinking",
+        "prized in explorers. Or maybe only in",
+        "the [Guild] Guild...",
+        ""
+      ],
+      "Translation": [
+        "I heard the details from some of my",
+        "other explorer patrons. Excellent",
+        "work... your skill is top-notch.",
+        "[Page]",
+        "",
+        "I can only imagine the monster's",
+        "bafflement to see you running",
+        "backwards toward it.",
+        "[Page]",
+        "",
+        "But that is the sort of flexible thinking",
+        "prized in explorers. Or maybe only in",
+        "the [Guild] Guild...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "While exploring the misty verdance,",
+        "you spot the monster at the path's end",
+        "and quickly ready your weapons!",
+        "[Page]",
+        "",
+        "At the bar, you were told that the",
+        "monster you seek to slay uses some",
+        "sort of strange spell...",
+        "[Page]",
+        "",
+        "This monster with the sneering glare",
+        "must be your target.",
+        "[Page]",
+        "",
+        "In order to fulfill the request, you",
+        "must challenge the monster while not",
+        "running afoul of its spell...",
+        ""
+      ],
+      "Translation": [
+        "While exploring the misty verdance,",
+        "you spot the monster at the path's end",
+        "and quickly ready your weapons!",
+        "[Page]",
+        "",
+        "At the bar, you were told that the",
+        "monster you seek to slay uses some",
+        "sort of strange spell...",
+        "[Page]",
+        "",
+        "This monster with the sneering glare",
+        "must be your target.",
+        "[Page]",
+        "",
+        "In order to fulfill the request, you",
+        "must challenge the monster while not",
+        "running afoul of its spell...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "The monster is still standing before",
+        "you...",
+        "[Page]",
+        "",
+        "If you would engage the monster in",
+        "combat, you must approach it without",
+        "looking into its eerily glowing eyes.",
+        ""
+      ],
+      "Translation": [
+        "The monster is still standing before",
+        "you...",
+        "[Page]",
+        "",
+        "If you would engage the monster in",
+        "combat, you must approach it without",
+        "looking into its eerily glowing eyes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "As you try to charge the monster,",
+        "its eyes begin to gleam with an",
+        "eerie light.",
+        "[Page]",
+        "",
+        "As you stare into those eyes, you",
+        "momentarily lose all sense of",
+        "direction!",
+        ""
+      ],
+      "Translation": [
+        "As you try to charge the monster,",
+        "its eyes begin to gleam with an",
+        "eerie light.",
+        "[Page]",
+        "",
+        "As you stare into those eyes, you",
+        "momentarily lose all sense of",
+        "direction!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You stare into the eerie light glowing",
+        "in the monster's eyes!",
+        ""
+      ],
+      "Translation": [
+        "You stare into the eerie light glowing",
+        "in the monster's eyes!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "When you come to your senses, you",
+        "realize that you are nowhere near the",
+        "last place you remember being.",
+        "[Page]",
+        "",
+        "It seems you were caught up in the",
+        "enemy's spell. To fulfill the request,",
+        "you must regroup and try again.",
+        ""
+      ],
+      "Translation": [
+        "When you come to your senses, you",
+        "realize that you are nowhere near the",
+        "last place you remember being.",
+        "[Page]",
+        "",
+        "It seems you were caught up in the",
+        "enemy's spell. To fulfill the request,",
+        "you must regroup and try again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "You ready your weapons and prepare",
+        "to charge without looking into the",
+        "monster's eyes.",
+        ""
+      ],
+      "Translation": [
+        "You ready your weapons and prepare",
+        "to charge without looking into the",
+        "monster's eyes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "After you have confirmed your kill,",
+        "you sheathe your weapons and breathe",
+        "a sigh of relief.",
+        "[Page]",
+        "",
+        "It appears that the method you",
+        "improvised to avoid the monster's",
+        "eyes was a viable one.",
+        "[Page]",
+        "",
+        "The thing will no longer obstruct",
+        "anyone's explorations. You should go",
+        "and report your success at the bar.",
+        ""
+      ],
+      "Translation": [
+        "After you have confirmed your kill,",
+        "you sheathe your weapons and breathe",
+        "a sigh of relief.",
+        "[Page]",
+        "",
+        "It appears that the method you",
+        "improvised to avoid the monster's",
+        "eyes was a viable one.",
+        "[Page]",
+        "",
+        "The thing will no longer obstruct",
+        "anyone's explorations. You should go",
+        "and report your success at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "After defeating the monster, you",
+        "go a ways down the path and notice",
+        "a chick with an injured leg.",
+        "[Page]",
+        "",
+        "It seems to have fallen out of its",
+        "nest. But it shows signs of having",
+        "been treated and should recover soon.",
+        "[Page]",
+        "",
+        "In the hopes that no predators",
+        "approach it, you place the chick",
+        "back in its nest.",
+        ""
+      ],
+      "Translation": [
+        "After defeating the monster, you",
+        "go a ways down the path and notice",
+        "a chick with an injured leg.",
+        "[Page]",
+        "",
+        "It seems to have fallen out of its",
+        "nest. But it shows signs of having",
+        "been treated and should recover soon.",
+        "[Page]",
+        "",
+        "In the hopes that no predators",
+        "approach it, you place the chick",
+        "back in its nest.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_059",
+  "RelativePath": "Event\\QR\\QR_059.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah that request. Do you remember the",
+        "explorer named [Color:5]Raht[Color:0] whom you helped",
+        "once before?",
+        "[Page]",
+        "",
+        "It seems that he has gone missing",
+        "again. His mother is the one who filed",
+        "this request... She is sitting there.",
+        "[Page]",
+        "",
+        "Well then, I shall await your swift",
+        "return. And make sure that you do not",
+        "share his fate...",
+        ""
+      ],
+      "Translation": [
+        "Ah that request. Do you remember the",
+        "explorer named [Color:5]Raht[Color:0] whom you helped",
+        "once before?",
+        "[Page]",
+        "",
+        "It seems that he has gone missing",
+        "again. His mother is the one who filed",
+        "this request... She is sitting there.",
+        "[Page]",
+        "",
+        "Well then, I shall await your swift",
+        "return. And make sure that you do not",
+        "share his fate...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "I overheard as you reported back.",
+        "Well done once more, [Guild] Guild.",
+        "You are so reliable...",
+        "[Page]",
+        "",
+        "That man, on the contrary, is quite",
+        "a bother. I fear that he has learned",
+        "nothing for his troubles.",
+        "[Page]",
+        "",
+        "Though if he gives up this easily, he",
+        "will certainly never reach Yggdrasil.",
+        "I suppose the problem solves itself.",
+        ""
+      ],
+      "Translation": [
+        "I overheard as you reported back.",
+        "Well done once more, [Guild] Guild.",
+        "You are so reliable...",
+        "[Page]",
+        "",
+        "That man, on the contrary, is quite",
+        "a bother. I fear that he has learned",
+        "nothing for his troubles.",
+        "[Page]",
+        "",
+        "Though if he gives up this easily, he",
+        "will certainly never reach Yggdrasil.",
+        "I suppose the problem solves itself.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "As you follow the letter's directions",
+        "in search of Raht, you hear a shrill",
+        "voice echoing from below.",
+        "[Page]",
+        "",
+        "Curious, you look down, and see a",
+        "fallen explorer ranting to himself",
+        "about something. It is Raht...!",
+        ""
+      ],
+      "Translation": [
+        "As you follow the letter's directions",
+        "in search of Raht, you hear a shrill",
+        "voice echoing from below.",
+        "[Page]",
+        "",
+        "Curious, you look down, and see a",
+        "fallen explorer ranting to himself",
+        "about something. It is Raht...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "\"Heeeeey, my friend!\" he yells to",
+        "you. \"Fancy meeting you here!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Heeeeey, my friend!\" he yells to",
+        "you. \"Fancy meeting you here!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "It seems that he's sprained his",
+        "ankle... You depart, leaving him",
+        "with promises of rescue.",
+        "[Page]",
+        "",
+        "All you must do is remember this",
+        "location and pass it on to your",
+        "client to fulfill the request.",
+        ""
+      ],
+      "Translation": [
+        "It seems that he's sprained his",
+        "ankle... You depart, leaving him",
+        "with promises of rescue.",
+        "[Page]",
+        "",
+        "All you must do is remember this",
+        "location and pass it on to your",
+        "client to fulfill the request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "An explorer who is, even at this",
+        "distance, clearly in tears waves",
+        "to you desperately...",
+        "[Page]",
+        "",
+        "If you wish to rescue him, you must",
+        "relay his position to the client and",
+        "have her dispatch a rescue unit.",
+        ""
+      ],
+      "Translation": [
+        "An explorer who is, even at this",
+        "distance, clearly in tears waves",
+        "to you desperately...",
+        "[Page]",
+        "",
+        "If you wish to rescue him, you must",
+        "relay his position to the client and",
+        "have her dispatch a rescue unit.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

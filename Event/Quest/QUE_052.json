@@ -1,0 +1,440 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_052",
+  "RelativePath": "Event\\Quest\\QUE_052.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "That is another request from the",
+        "Outland Count. This time, he wants",
+        "you to find a source of water.",
+        "[Page]",
+        "",
+        "You can learn more by talking to him",
+        "at the Grand Court. I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That is another request from the",
+        "Outland Count. This time, he wants",
+        "you to find a source of water.",
+        "[Page]",
+        "",
+        "You can learn more by talking to him",
+        "at the Grand Court. I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "I heard from the Outland Count that",
+        "you found the water rather quickly!",
+        "You seem to be skilled explorers.",
+        "[Page]",
+        "",
+        "Thanks to you, the Outland Count is",
+        "learning more about these lands.",
+        "He is quite excited to do so.",
+        "[Page]",
+        "",
+        "The Outland Count's requests are tied",
+        "to the city's growth, so they are very",
+        "important. Here is your reward.",
+        ""
+      ],
+      "Translation": [
+        "I heard from the Outland Count that",
+        "you found the water rather quickly!",
+        "You seem to be skilled explorers.",
+        "[Page]",
+        "",
+        "Thanks to you, the Outland Count is",
+        "learning more about these lands.",
+        "He is quite excited to do so.",
+        "[Page]",
+        "",
+        "The Outland Count's requests are tied",
+        "to the city's growth, so they are very",
+        "important. Here is your reward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm? Ah, the request! Yes, yes, are",
+        "you the ones who accepted it? Then I",
+        "dare say I can ask a large favor.",
+        "[Page]",
+        "",
+        "Do you know the wide river that flows",
+        "around the city?",
+        "[Page]",
+        "",
+        "That river's water has long sustained",
+        "our people. What I want is to discover",
+        "the river's [Color:5]source[Color:0].",
+        "[Page]",
+        "",
+        "It's bound to be somewhere in the",
+        "[Color:5]Windy Plains[Color:0]. If you can find it,",
+        "report back to me here.",
+        "[Page]",
+        "",
+        "Though if you already know where it",
+        "is, there's no need to wait!",
+        ""
+      ],
+      "Translation": [
+        "Hmm? Ah, the request! Yes, yes, are",
+        "you the ones who accepted it? Then I",
+        "dare say I can ask a large favor.",
+        "[Page]",
+        "",
+        "Do you know the wide river that flows",
+        "around the city?",
+        "[Page]",
+        "",
+        "That river's water has long sustained",
+        "our people. What I want is to discover",
+        "the river's [Color:5]source[Color:0].",
+        "[Page]",
+        "",
+        "It's bound to be somewhere in the",
+        "[Color:5]Windy Plains[Color:0]. If you can find it,",
+        "report back to me here.",
+        "[Page]",
+        "",
+        "Though if you already know where it",
+        "is, there's no need to wait!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, my friends! Have you found the",
+        "point from whence the river flows?",
+        ""
+      ],
+      "Translation": [
+        "Ah, my friends! Have you found the",
+        "point from whence the river flows?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Did you find the river source?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Did you find the river source?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "More information? Hmm... the river",
+        "must have a [Color:5]source[Color:0] somewhere. Maybe",
+        "you'll find it simply by going [Color:5]north[Color:0]?",
+        ""
+      ],
+      "Translation": [
+        "More information? Hmm... the river",
+        "must have a [Color:5]source[Color:0] somewhere. Maybe",
+        "you'll find it simply by going [Color:5]north[Color:0]?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Then I will wait patiently here.",
+        "[Page]",
+        "",
+        "Er... you don't think you'll be long,",
+        "do you?",
+        ""
+      ],
+      "Translation": [
+        "Then I will wait patiently here.",
+        "[Page]",
+        "",
+        "Er... you don't think you'll be long,",
+        "do you?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Splendid! Here, show me just where it",
+        "was you found the river's source.",
+        ""
+      ],
+      "Translation": [
+        "Splendid! Here, show me just where it",
+        "was you found the river's source.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Ah! I'll have my scouts look into that",
+        "spot very soon.",
+        ""
+      ],
+      "Translation": [
+        "Ah! I'll have my scouts look into that",
+        "spot very soon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Why, shame on you! The river's source",
+        "was certainly not at the point where",
+        "you said it would be.",
+        "[Page]",
+        "",
+        "I'm not one to appreciate pranks and",
+        "practical jokes. Next time, I want",
+        "you to tell me the true location.",
+        ""
+      ],
+      "Translation": [
+        "Why, shame on you! The river's source",
+        "was certainly not at the point where",
+        "you said it would be.",
+        "[Page]",
+        "",
+        "I'm not one to appreciate pranks and",
+        "practical jokes. Next time, I want",
+        "you to tell me the true location.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Wonderful news! My scouts tell me",
+        "they've confirmed the location of",
+        "the river's source.",
+        "[Page]",
+        "",
+        "It was nestled quite deep in the area",
+        "you reported, but thanks to your",
+        "information, we've found it at last.",
+        "[Page]",
+        "",
+        "Thank you, [Guild] Guild. You have",
+        "once again contributed to the",
+        "development of our fair city.",
+        "[Page]",
+        "",
+        "I have already contacted the Dancing",
+        "Peacock about your reward. May luck",
+        "be with you in your travels!",
+        ""
+      ],
+      "Translation": [
+        "Wonderful news! My scouts tell me",
+        "they've confirmed the location of",
+        "the river's source.",
+        "[Page]",
+        "",
+        "It was nestled quite deep in the area",
+        "you reported, but thanks to your",
+        "information, we've found it at last.",
+        "[Page]",
+        "",
+        "Thank you, [Guild] Guild. You have",
+        "once again contributed to the",
+        "development of our fair city.",
+        "[Page]",
+        "",
+        "I have already contacted the Dancing",
+        "Peacock about your reward. May luck",
+        "be with you in your travels!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm? Did you need something else?",
+        "I think you should go first to the",
+        "Dancing Peacock about that reward!",
+        ""
+      ],
+      "Translation": [
+        "Hmm? Did you need something else?",
+        "I think you should go first to the",
+        "Dancing Peacock about that reward!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "As you travel upriver in search of",
+        "its source, you arrive at a quiet",
+        "spot surrounded by cliffs.",
+        "[Page]",
+        "",
+        "The cool wind here brushes your skin,",
+        "while the soft murmuring of the river",
+        "plays on your ears...",
+        "[Page]",
+        "",
+        "Clean water gushes through the cracks",
+        "in the cliff face. This must be the",
+        "[Color:5]river's source[Color:0] the Count sought!",
+        "[Page]",
+        "",
+        "You must remember to mark its location",
+        "on your map before reporting back to",
+        "the Grand Court...",
+        ""
+      ],
+      "Translation": [
+        "As you travel upriver in search of",
+        "its source, you arrive at a quiet",
+        "spot surrounded by cliffs.",
+        "[Page]",
+        "",
+        "The cool wind here brushes your skin,",
+        "while the soft murmuring of the river",
+        "plays on your ears...",
+        "[Page]",
+        "",
+        "Clean water gushes through the cracks",
+        "in the cliff face. This must be the",
+        "[Color:5]river's source[Color:0] the Count sought!",
+        "[Page]",
+        "",
+        "You must remember to mark its location",
+        "on your map before reporting back to",
+        "the Grand Court...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You notice a cool breeze on your skin.",
+        "You look across to see a ring of",
+        "cliffs. You hear rushing water...",
+        "[Page]",
+        "",
+        "You look below and see crystal clear",
+        "water gushing from a cliff face.",
+        "[Page]",
+        "",
+        "This must be the source of the river",
+        "that flows to Tharsis. You are lost",
+        "for words to describe its beauty...",
+        ""
+      ],
+      "Translation": [
+        "You notice a cool breeze on your skin.",
+        "You look across to see a ring of",
+        "cliffs. You hear rushing water...",
+        "[Page]",
+        "",
+        "You look below and see crystal clear",
+        "water gushing from a cliff face.",
+        "[Page]",
+        "",
+        "This must be the source of the river",
+        "that flows to Tharsis. You are lost",
+        "for words to describe its beauty...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

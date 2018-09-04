@@ -1,0 +1,1035 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_040",
+  "RelativePath": "Event\\Quest\\QUE_040.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "I thought that you would be the ones",
+        "to take that one. It is... a sizable",
+        "request this time.",
+        "[Page]",
+        "",
+        "It calls for gathering [Color:5]legendary",
+        "ingredients[Color:0] from [Color:5]every land[Color:0] you",
+        "have travelled to thus far.",
+        "[Page]",
+        "",
+        "You are to hold them in... this.",
+        "I believe it is Dalla's iron pot.",
+        "Put whatever you find in here.",
+        "[Page]",
+        "",
+        "If she is entrusting you with her iron",
+        "pot, she must have high expectations",
+        "for the ingredients... and for you.",
+        "[Page]",
+        "",
+        "Well then, I shall await your swift",
+        "return.",
+        ""
+      ],
+      "Translation": [
+        "I thought that you would be the ones",
+        "to take that one. It is... a sizable",
+        "request this time.",
+        "[Page]",
+        "",
+        "It calls for gathering [Color:5]legendary",
+        "ingredients[Color:0] from [Color:5]every land[Color:0] you",
+        "have travelled to thus far.",
+        "[Page]",
+        "",
+        "You are to hold them in... this.",
+        "I believe it is Dalla's iron pot.",
+        "Put whatever you find in here.",
+        "[Page]",
+        "",
+        "If she is entrusting you with her iron",
+        "pot, she must have high expectations",
+        "for the ingredients... and for you.",
+        "[Page]",
+        "",
+        "Well then, I shall await your swift",
+        "return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Were you able to fetch",
+        "the legendary ingredients? Are...",
+        "Are these them?",
+        "[Page]",
+        "",
+        "This pot... it is moving...! Perhaps",
+        "I should not touch it. Did anyone",
+        "else hear a strange sound just now..?",
+        "[Page]",
+        "",
+        "Er...",
+        "[Page]",
+        "",
+        "Well, I shall make sure Dalla gets",
+        "the ingredients. I again thank you",
+        "for all your hard work!",
+        "[Page]",
+        "",
+        "Your reward is Dalla's beloved meat",
+        "cleaver. According to her, it can cut",
+        "anything, so be careful with it.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Were you able to fetch",
+        "the legendary ingredients? Are...",
+        "Are these them?",
+        "[Page]",
+        "",
+        "This pot... it is moving...! Perhaps",
+        "I should not touch it. Did anyone",
+        "else hear a strange sound just now..?",
+        "[Page]",
+        "",
+        "Er...",
+        "[Page]",
+        "",
+        "Well, I shall make sure Dalla gets",
+        "the ingredients. I again thank you",
+        "for all your hard work!",
+        "[Page]",
+        "",
+        "Your reward is Dalla's beloved meat",
+        "cleaver. According to her, it can cut",
+        "anything, so be careful with it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You obtained [Color:6][Number:1][Color:0]!",
+        "[Page]",
+        "",
+        "This must be one of the legendary",
+        "ingredients the client requested!",
+        "You may place it in the iron pot.",
+        ""
+      ],
+      "Translation": [
+        "You obtained [Color:6][Number:1][Color:0]!",
+        "[Page]",
+        "",
+        "This must be one of the legendary",
+        "ingredients the client requested!",
+        "You may place it in the iron pot.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Put the [Color:6][Number:1][Color:5] in the pot?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Put the [Color:6][Number:1][Color:5] in the pot?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to put the [Number:1]",
+        "with your own possessions instead of",
+        "putting it into the iron pot.",
+        ""
+      ],
+      "Translation": [
+        "You decide to put the [Number:1]",
+        "with your own possessions instead of",
+        "putting it into the iron pot.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You toss the [Number:1] into",
+        "the iron pot.",
+        "[Page]",
+        "",
+        "All of a sudden, the indescribable",
+        "happens... The ingredient disappears",
+        "as if the pot sucked it in!",
+        "[Page]",
+        "",
+        "You blink, startled.",
+        "[Page]",
+        "",
+        "There should be one legendary",
+        "ingredient per land... you have",
+        "[Color:5]3[Color:0] ingredients left to gather.",
+        ""
+      ],
+      "Translation": [
+        "You toss the [Number:1] into",
+        "the iron pot.",
+        "[Page]",
+        "",
+        "All of a sudden, the indescribable",
+        "happens... The ingredient disappears",
+        "as if the pot sucked it in!",
+        "[Page]",
+        "",
+        "You blink, startled.",
+        "[Page]",
+        "",
+        "There should be one legendary",
+        "ingredient per land... you have",
+        "[Color:5]3[Color:0] ingredients left to gather.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "The [Number:1] gets sucked",
+        "into the pot...",
+        "[Page]",
+        "",
+        "There should be one legendary",
+        "ingredient per land... you have",
+        "[Color:5][Number:0][Color:0] ingredients left to gather.",
+        ""
+      ],
+      "Translation": [
+        "The [Number:1] gets sucked",
+        "into the pot...",
+        "[Page]",
+        "",
+        "There should be one legendary",
+        "ingredient per land... you have",
+        "[Color:5][Number:0][Color:0] ingredients left to gather.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "With that, the pot now contains three",
+        "ingredients...",
+        "[Page]",
+        "",
+        "From what you were told at the bar,",
+        "there are legendary ingredients in",
+        "each land you have traveled to...",
+        "[Page]",
+        "",
+        "If you know of a place in the [Color:5]Cloudy",
+        "Stronghold[Color:0] where one might be found,",
+        "you should go search for it there.",
+        ""
+      ],
+      "Translation": [
+        "With that, the pot now contains three",
+        "ingredients...",
+        "[Page]",
+        "",
+        "From what you were told at the bar,",
+        "there are legendary ingredients in",
+        "each land you have traveled to...",
+        "[Page]",
+        "",
+        "If you know of a place in the [Color:5]Cloudy",
+        "Stronghold[Color:0] where one might be found,",
+        "you should go search for it there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "The [Number:1] gets sucked",
+        "into the pot...",
+        "[Page]",
+        "",
+        "You have gathered all the ingredients",
+        "and the quest is complete! You now",
+        "need only deliver them to the bar!",
+        ""
+      ],
+      "Translation": [
+        "The [Number:1] gets sucked",
+        "into the pot...",
+        "[Page]",
+        "",
+        "You have gathered all the ingredients",
+        "and the quest is complete! You now",
+        "need only deliver them to the bar!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "...There's no need to say anything,",
+        "[Guild] Guild.",
+        "[Page]",
+        "",
+        "Don't worry, the ships I make can",
+        "fly in any environment!",
+        "[Page]",
+        "",
+        "Even if the ingredients yeh need are",
+        "at the bottom of Hell's own cauldron,",
+        "your skyship will be fine!",
+        ""
+      ],
+      "Translation": [
+        "...There's no need to say anything,",
+        "[Guild] Guild.",
+        "[Page]",
+        "",
+        "Don't worry, the ships I make can",
+        "fly in any environment!",
+        "[Page]",
+        "",
+        "Even if the ingredients yeh need are",
+        "at the bottom of Hell's own cauldron,",
+        "your skyship will be fine!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Wh...What? Dalla asked you to retrieve",
+        "ingredients again? This is kind of",
+        "thing you need to be up front with!",
+        "[Page]",
+        "",
+        "Now listen to me. You've made it out",
+        "of labyrinths alive! You can do this!",
+        "You WILL do this!",
+        ""
+      ],
+      "Translation": [
+        "Wh...What? Dalla asked you to retrieve",
+        "ingredients again? This is kind of",
+        "thing you need to be up front with!",
+        "[Page]",
+        "",
+        "Now listen to me. You've made it out",
+        "of labyrinths alive! You can do this!",
+        "You WILL do this!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "I have seen with my own eyes your",
+        "guild accomplish all manner of tasks.",
+        "[Page]",
+        "",
+        "That is why I believe the [Guild]",
+        "Guild will do another wonderful job",
+        "with this request.",
+        ""
+      ],
+      "Translation": [
+        "I have seen with my own eyes your",
+        "guild accomplish all manner of tasks.",
+        "[Page]",
+        "",
+        "That is why I believe the [Guild]",
+        "Guild will do another wonderful job",
+        "with this request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, it's da [Guild] crew! Hey, ya",
+        "took da inn lady's request, huh?",
+        "Everyone in town's talking about it!",
+        "[Page]",
+        "",
+        "So ya're looking for legendery",
+        "ingredients dis time, huh? I wonder",
+        "how dat's gonna come out.",
+        ""
+      ],
+      "Translation": [
+        "Oh, it's da [Guild] crew! Hey, ya",
+        "took da inn lady's request, huh?",
+        "Everyone in town's talking about it!",
+        "[Page]",
+        "",
+        "So ya're looking for legendery",
+        "ingredients dis time, huh? I wonder",
+        "how dat's gonna come out.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "As far as your current situation,",
+        "I do not know what encouragement I",
+        "can give. All I can do is wait...",
+        "[Page]",
+        "",
+        "But I should at least say one thing.",
+        "[Page]",
+        "",
+        "I... wish you the best of luck!",
+        ""
+      ],
+      "Translation": [
+        "As far as your current situation,",
+        "I do not know what encouragement I",
+        "can give. All I can do is wait...",
+        "[Page]",
+        "",
+        "But I should at least say one thing.",
+        "[Page]",
+        "",
+        "I... wish you the best of luck!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "You dearies accepted another one of",
+        "my requests? Oh, I'm sorry to keep",
+        "making you do the work for me.",
+        "[Page]",
+        "",
+        "This time I need you all to gather",
+        "legendary ingredients from all over",
+        "the lands you've seen.",
+        "[Page]",
+        "",
+        "Oh yes, and about that iron pot... Be",
+        "very careful not to stick your hand",
+        "in. It'd be the last thing you do.",
+        ""
+      ],
+      "Translation": [
+        "You dearies accepted another one of",
+        "my requests? Oh, I'm sorry to keep",
+        "making you do the work for me.",
+        "[Page]",
+        "",
+        "This time I need you all to gather",
+        "legendary ingredients from all over",
+        "the lands you've seen.",
+        "[Page]",
+        "",
+        "Oh yes, and about that iron pot... Be",
+        "very careful not to stick your hand",
+        "in. It'd be the last thing you do.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

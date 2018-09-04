@@ -1,0 +1,2128 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Quest explanations",
+  "RelativePath": "Event\\quest_explain.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "A quest reserved for Debug Mode. If it",
+        "happens in the real game, write it up!",
+        "Each item reward, Polar Flag ON.",
+        "Reward: [Color:5]All move-related items[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A quest reserved for Debug Mode. If it",
+        "happens in the real game, write it up!",
+        "Each item reward, Polar Flag ON.",
+        "Reward: [Color:5]All move-related items[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "A group of soldiers to the east of the",
+        "Lush Woodlands are running low on",
+        "supplies. I want to send them some food.",
+        "Reward: [Color:5][Item:1325][Color:0] x2",
+        ""
+      ],
+      "Translation": [
+        "A group of soldiers to the east of the",
+        "Lush Woodlands are running low on",
+        "supplies. I want to send them some food.",
+        "Reward: [Color:5][Item:1325][Color:0] x2",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "It's me, Wynne from the Berund Atelier!",
+        "I can't keep up with all these new [Item:2]",
+        "orders. Please bring me two [Item:929]s!",
+        "Reward: [Color:5][Item:1355][Color:0] x2",
+        ""
+      ],
+      "Translation": [
+        "It's me, Wynne from the Berund Atelier!",
+        "I can't keep up with all these new [Item:2]",
+        "orders. Please bring me two [Item:929]s!",
+        "Reward: [Color:5][Item:1355][Color:0] x2",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "The communal box in the Lush Woodlands",
+        "is being ravaged by an [Enemy1:6]!",
+        "We need someone skilled to get rid of it!",
+        "Reward: [Color:5][Item:1532][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "The communal box in the Lush Woodlands",
+        "is being ravaged by an [Enemy1:6]!",
+        "We need someone skilled to get rid of it!",
+        "Reward: [Color:5][Item:1532][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "I'd like to use some [Item:1225] in my",
+        "cooking. Can somebody get some of that",
+        "herb from the Lush Woodlands for me?",
+        "Reward: [Color:5][Item:1334][Color:0] x2",
+        ""
+      ],
+      "Translation": [
+        "I'd like to use some [Item:1225] in my",
+        "cooking. Can somebody get some of that",
+        "herb from the Lush Woodlands for me?",
+        "Reward: [Color:5][Item:1334][Color:0] x2",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "It's me, Wynne from the Berund Atelier!",
+        "I need some [Item:1191] for a new",
+        "item. Somebody please get some for me!",
+        "Reward: [Color:5][Item:25][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "It's me, Wynne from the Berund Atelier!",
+        "I need some [Item:1191] for a new",
+        "item. Somebody please get some for me!",
+        "Reward: [Color:5][Item:25][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "I found a hole on BF2 in the Lush",
+        "Woodlands... I looked inside at night,",
+        "and a monster jumped out! I'm so scared!",
+        "Reward: [Color:5]1,000en[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I found a hole on BF2 in the Lush",
+        "Woodlands... I looked inside at night,",
+        "and a monster jumped out! I'm so scared!",
+        "Reward: [Color:5]1,000en[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "I was given a key to a treasure box in a",
+        "labyrinth called the Valley Spring.",
+        "Can you bring me what's inside?",
+        "Reward: [Color:5][Item:1531][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I was given a key to a treasure box in a",
+        "labyrinth called the Valley Spring.",
+        "Can you bring me what's inside?",
+        "Reward: [Color:5][Item:1531][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "I was being chased by a bear on B3F of",
+        "the Lush Woodlands, and I dropped a ring",
+        "my mother gave me. Can someone find it?",
+        "Reward: [Color:5][Item:1610][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I was being chased by a bear on B3F of",
+        "the Lush Woodlands, and I dropped a ring",
+        "my mother gave me. Can someone find it?",
+        "Reward: [Color:5][Item:1610][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "I want to start serving a mushroom dish",
+        "for my customers. Please get me some",
+        "tasty mushrooms from the Scarlet Pillars.",
+        "Reward: [Color:5]More storage[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I want to start serving a mushroom dish",
+        "for my customers. Please get me some",
+        "tasty mushrooms from the Scarlet Pillars.",
+        "Reward: [Color:5]More storage[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Somewhere in this city is a renowned",
+        "out-of-print [Item:1443]. Can",
+        "someone find it and bring it to me?",
+        "Reward: [Color:5][Item:1550][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Somewhere in this city is a renowned",
+        "out-of-print [Item:1443]. Can",
+        "someone find it and bring it to me?",
+        "Reward: [Color:5][Item:1550][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Lately, I can't keep enough Small Flowers",
+        "in stock to make Nectar. Someone please",
+        "take me to the Dense Bushland!",
+        "Reward: [Color:5][Item:1605][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Lately, I can't keep enough Small Flowers",
+        "in stock to make Nectar. Someone please",
+        "take me to the Dense Bushland!",
+        "Reward: [Color:5][Item:1605][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "I've heard of a rare flower in the Miasma",
+        "Forest that changes shape as time passes.",
+        "Would someone get one for me?",
+        "Reward: [Color:5][Item:1372][Color:0] or [Color:5][Item:1373][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I've heard of a rare flower in the Miasma",
+        "Forest that changes shape as time passes.",
+        "Would someone get one for me?",
+        "Reward: [Color:5][Item:1372][Color:0] or [Color:5][Item:1373][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "This is the Explorers Guild. I need",
+        "someone to defeat a monster last seen on",
+        "B1F of Misty Ravine, between 7 and 9 AM.",
+        "Reward: [Color:5][Item:1601]/Burst Skill Slot[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is the Explorers Guild. I need",
+        "someone to defeat a monster last seen on",
+        "B1F of Misty Ravine, between 7 and 9 AM.",
+        "Reward: [Color:5][Item:1601]/Burst Skill Slot[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "I'm researching giant insects. Can",
+        "someone go to the Moth's Garden",
+        "and bring me an egg from a Big Moth?",
+        "Reward: [Color:5][Item:1545][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I'm researching giant insects. Can",
+        "someone go to the Moth's Garden",
+        "and bring me an egg from a Big Moth?",
+        "Reward: [Color:5][Item:1545][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "There's a monster in B2F of the Misty",
+        "Ravine that uses some weird spell to",
+        "mess with our surveys. Put it down for us!",
+        "Reward: [Color:5][Item:770][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "There's a monster in B2F of the Misty",
+        "Ravine that uses some weird spell to",
+        "mess with our surveys. Put it down for us!",
+        "Reward: [Color:5][Item:770][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "My brother went to a lake NW of the",
+        "Scarlet Pillars and hasn't returned. Can",
+        "someone with a skyship search for him?",
+        "Reward: [Color:5][Item:1529][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "My brother went to a lake NW of the",
+        "Scarlet Pillars and hasn't returned. Can",
+        "someone with a skyship search for him?",
+        "Reward: [Color:5][Item:1529][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "It's me, Wynne from the Berund Atelier!",
+        "I'm putting together a new kind of dagger,",
+        "and I need Dolomite and a Lance Shard.",
+        "Reward: [Color:5][Item:786][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "It's me, Wynne from the Berund Atelier!",
+        "I'm putting together a new kind of dagger,",
+        "and I need Dolomite and a Lance Shard.",
+        "Reward: [Color:5][Item:786][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "I'm coming up with a new dish to serve at",
+        "the inn, and I need a barrel-full of",
+        "delicious fruit from the Sacred Mountains.",
+        "Reward: [Color:5]More storage[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I'm coming up with a new dish to serve at",
+        "the inn, and I need a barrel-full of",
+        "delicious fruit from the Sacred Mountains.",
+        "Reward: [Color:5]More storage[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "My husband forgot to grab his lunch when",
+        "he went to the Cramped Nest this",
+        "morning. Would somebody take it to him?",
+        "Reward: [Color:5][Item:1536][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "My husband forgot to grab his lunch when",
+        "he went to the Cramped Nest this",
+        "morning. Would somebody take it to him?",
+        "Reward: [Color:5][Item:1536][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "An adventurer showed me a rock he brought",
+        "from the Golden Lair, and I've never seen",
+        "anything like it before. I want one, too!",
+        "Reward: [Color:5]2,000en[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "An adventurer showed me a rock he brought",
+        "from the Golden Lair, and I've never seen",
+        "anything like it before. I want one, too!",
+        "Reward: [Color:5]2,000en[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "I want to give my brother an Ice Stone",
+        "accessory for his birthday. Would",
+        "someone please go and get one for me?",
+        "Reward: [Color:5][Item:1374][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I want to give my brother an Ice Stone",
+        "accessory for his birthday. Would",
+        "someone please go and get one for me?",
+        "Reward: [Color:5][Item:1374][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "I want someone to bring me back some",
+        "[Item:1250] from a poisonous cavern.",
+        "It seems to react to some monster venom...",
+        "Reward: [Color:5][Item:761][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I want someone to bring me back some",
+        "[Item:1250] from a poisonous cavern.",
+        "It seems to react to some monster venom...",
+        "Reward: [Color:5][Item:761][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "The Explorers Guild requests that the",
+        "Baboons within the Old Forest Mine be",
+        "exterminated as they have become a hazard.",
+        "Reward: [Color:5][Item:1611]/Burst Skill Slot[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "The Explorers Guild requests that the",
+        "Baboons within the Old Forest Mine be",
+        "exterminated as they have become a hazard.",
+        "Reward: [Color:5][Item:1611]/Burst Skill Slot[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "True delicacies lie within labyrinths.",
+        "Bring me back a [Item:1464]",
+        "from the Golden Lair!",
+        "Reward: [Color:5][Item:1336][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "True delicacies lie within labyrinths.",
+        "Bring me back a [Item:1464]",
+        "from the Golden Lair!",
+        "Reward: [Color:5][Item:1336][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Can someone take some clear ice from the",
+        "Underground Lake to the Vessel Town?",
+        "         ",
+        "Reward: [Color:5][Item:1534][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Can someone take some clear ice from the",
+        "Underground Lake to the Vessel Town?",
+        "         ",
+        "Reward: [Color:5][Item:1534][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Spell development requires constant",
+        "experimentation. Please deliver to me",
+        "materials from a [Enemy1:26] for research.",
+        "Reward: [Color:5]7,000en[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Spell development requires constant",
+        "experimentation. Please deliver to me",
+        "materials from a [Enemy1:26] for research.",
+        "Reward: [Color:5]7,000en[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "I'd like to see what I can make for my",
+        "customers at the inn if I had a potful",
+        "of tasty fish from the Cloudy Stronghold.",
+        "Reward: [Color:5]More storage[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I'd like to see what I can make for my",
+        "customers at the inn if I had a potful",
+        "of tasty fish from the Cloudy Stronghold.",
+        "Reward: [Color:5]More storage[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "This is the Outland Count with a request",
+        "for [Guild]. I wish to speak",
+        "with you. See me in the Grand Court.",
+        "Reward: [Color:5][Item:1372]/[Item:1375][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is the Outland Count with a request",
+        "for [Guild]. I wish to speak",
+        "with you. See me in the Grand Court.",
+        "Reward: [Color:5][Item:1372]/[Item:1375][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "I need a book to research monster DNA...",
+        "There should be one in the Echoing",
+        "Library.",
+        "Reward: [Color:5][Item:1335][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I need a book to research monster DNA...",
+        "There should be one in the Echoing",
+        "Library.",
+        "Reward: [Color:5][Item:1335][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "I have a request for [Guild]!",
+        "I want to test if wood from the Echoing",
+        "Library can be used to build skyships.",
+        "Reward: [Color:5][Item:1348][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I have a request for [Guild]!",
+        "I want to test if wood from the Echoing",
+        "Library can be used to build skyships.",
+        "Reward: [Color:5][Item:1348][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "People have been saying that fairies have",
+        "been seen around Bellflowers. It sounds",
+        "crazy to me, but would someone check...?",
+        "Reward: [Color:5][Item:333][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "People have been saying that fairies have",
+        "been seen around Bellflowers. It sounds",
+        "crazy to me, but would someone check...?",
+        "Reward: [Color:5][Item:333][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Trees that grow where strong winds blow",
+        "have strong roots. Bring me some of these",
+        "roots so I can use them in construction.",
+        "Reward: [Color:5]5,000en[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Trees that grow where strong winds blow",
+        "have strong roots. Bring me some of these",
+        "roots so I can use them in construction.",
+        "Reward: [Color:5]5,000en[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "A woman like myself has an obligation to",
+        "dress nicely. I'd like someone to catch",
+        "me a deer from the Golden Deer Keep.",
+        "Reward: [Color:5][Item:1539][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A woman like myself has an obligation to",
+        "dress nicely. I'd like someone to catch",
+        "me a deer from the Golden Deer Keep.",
+        "Reward: [Color:5][Item:1539][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Spell development requires constant",
+        "experimentation. I need a [Item:1041]",
+        "in order to continue my research.",
+        "Reward: [Color:5][Item:132][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Spell development requires constant",
+        "experimentation. I need a [Item:1041]",
+        "in order to continue my research.",
+        "Reward: [Color:5][Item:132][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "An adventurer told me that the bodies of",
+        "ancient creatures are frozen in ice at the",
+        "Underground Lake. I want one!",
+        "Reward: [Color:5][Item:1541][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "An adventurer told me that the bodies of",
+        "ancient creatures are frozen in ice at the",
+        "Underground Lake. I want one!",
+        "Reward: [Color:5][Item:1541][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "A key was found in the Echoing Library...",
+        "It's likely used in the Forgotten Capital",
+        "at Yggdrasil. Someone solve this mystery.",
+        "Reward: [Color:5][Item:312][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A key was found in the Echoing Library...",
+        "It's likely used in the Forgotten Capital",
+        "at Yggdrasil. Someone solve this mystery.",
+        "Reward: [Color:5][Item:312][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "I've resurrected something terrible in",
+        "the Lush Woodlands... Please, it needs",
+        "to be stopped! Please, kill it!",
+        "Reward: [Color:5][Item:771][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I've resurrected something terrible in",
+        "the Lush Woodlands... Please, it needs",
+        "to be stopped! Please, kill it!",
+        "Reward: [Color:5][Item:771][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "I've had so many customers that I'm",
+        "running out of food! Please come see me",
+        "at the inn once you've read this.",
+        "Reward: [Color:5]More storage[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I've had so many customers that I'm",
+        "running out of food! Please come see me",
+        "at the inn once you've read this.",
+        "Reward: [Color:5]More storage[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "I have a request for [Guild].",
+        "Please bring me the four legendary",
+        "foods from the lands you have reclaimed.",
+        "Reward: [Color:5][Item:20][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I have a request for [Guild].",
+        "Please bring me the four legendary",
+        "foods from the lands you have reclaimed.",
+        "Reward: [Color:5][Item:20][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "My name is Kohst, and I research Yggdrasil",
+        "for the Empire. I have a request for",
+        "[Guild]. Please come see me.",
+        "Reward: [Color:5]100,000en[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "My name is Kohst, and I research Yggdrasil",
+        "for the Empire. I have a request for",
+        "[Guild]. Please come see me.",
+        "Reward: [Color:5]100,000en[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Calling [Guild]! I'd like you to",
+        "support a monster investigation on B2F",
+        "of the Echoing Library.",
+        "Reward: [Color:5][Item:1606]/Burst Skill Slot[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Calling [Guild]! I'd like you to",
+        "support a monster investigation on B2F",
+        "of the Echoing Library.",
+        "Reward: [Color:5][Item:1606]/Burst Skill Slot[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "The city must always seek out resources",
+        "if it is to develop. There is word of a",
+        "kapok grove in the Windy Plains. Find it.",
+        "Reward: [Color:5][Item:1370][Color:0] x2",
+        ""
+      ],
+      "Translation": [
+        "The city must always seek out resources",
+        "if it is to develop. There is word of a",
+        "kapok grove in the Windy Plains. Find it.",
+        "Reward: [Color:5][Item:1370][Color:0] x2",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "There is a large river in the Windy Plains",
+        "that flows near Tharsis. I need to know",
+        "the exact location of its source.",
+        "Reward: [Color:5][Item:1353][Color:0] x2",
+        ""
+      ],
+      "Translation": [
+        "There is a large river in the Windy Plains",
+        "that flows near Tharsis. I need to know",
+        "the exact location of its source.",
+        "Reward: [Color:5][Item:1353][Color:0] x2",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "The large river near Tharsis seems to",
+        "extend into the Scarlet Pillars. I need",
+        "someone to discover where its source is.",
+        "Reward: [Color:5]1,500en[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "The large river near Tharsis seems to",
+        "extend into the Scarlet Pillars. I need",
+        "someone to discover where its source is.",
+        "Reward: [Color:5]1,500en[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "Shining slime mold is used in all kinds",
+        "of medicines, and it's been seen in the",
+        "Scarlet Pillars. Find me a glowing tree!",
+        "Reward: [Color:5][Item:810][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Shining slime mold is used in all kinds",
+        "of medicines, and it's been seen in the",
+        "Scarlet Pillars. Find me a glowing tree!",
+        "Reward: [Color:5][Item:810][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "I wish to see the \"Snow Garden\" said",
+        "to be in the Sacred Mountains... Won't",
+        "someone find it and tell me where it is?",
+        "Reward: [Color:5][Item:1332][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I wish to see the \"Snow Garden\" said",
+        "to be in the Sacred Mountains... Won't",
+        "someone find it and tell me where it is?",
+        "Reward: [Color:5][Item:1332][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "The Sacred Mountains are home to a",
+        "dreadful monster called the [Enemy1:208].",
+        "Defeat one and bring me a [Item:1022].",
+        "Reward: [Color:5][Item:582][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "The Sacred Mountains are home to a",
+        "dreadful monster called the [Enemy1:208].",
+        "Defeat one and bring me a [Item:1022].",
+        "Reward: [Color:5][Item:582][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "People in the Sacred Mountains report",
+        "hearing a demon's voice, and it's scaring",
+        "people. Go find out what's behind it.",
+        "Reward: [Color:5][Item:1544][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "People in the Sacred Mountains report",
+        "hearing a demon's voice, and it's scaring",
+        "people. Go find out what's behind it.",
+        "Reward: [Color:5][Item:1544][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "A crashed Imperial skyship contained",
+        "information on a certain location. Find",
+        "out where it refers to and report back.",
+        "Reward: [Color:5][Item:1363][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A crashed Imperial skyship contained",
+        "information on a certain location. Find",
+        "out where it refers to and report back.",
+        "Reward: [Color:5][Item:1363][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "We've made some progress, and have",
+        "deciphered something about a Water Mark.",
+        "Find out how to make it react and report.",
+        "Reward: [Color:5][Item:716][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "We've made some progress, and have",
+        "deciphered something about a Water Mark.",
+        "Find out how to make it react and report.",
+        "Reward: [Color:5][Item:716][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "We've deciphered more, and learned of",
+        "something called a Fire Mark. Find its",
+        "location and report back to us.",
+        "Reward: [Color:5][Item:1340][Color:0] x2",
+        ""
+      ],
+      "Translation": [
+        "We've deciphered more, and learned of",
+        "something called a Fire Mark. Find its",
+        "location and report back to us.",
+        "Reward: [Color:5][Item:1340][Color:0] x2",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "We've uncovered descriptions of a new",
+        "kind of Mark. Use this information to",
+        "find out what it is and report back.",
+        "Reward: [Color:5][Item:1327][Color:0] x2",
+        ""
+      ],
+      "Translation": [
+        "We've uncovered descriptions of a new",
+        "kind of Mark. Use this information to",
+        "find out what it is and report back.",
+        "Reward: [Color:5][Item:1327][Color:0] x2",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Our research indicates that there is one",
+        "more mark. We don't know where it is,",
+        "but we have a theory on where to look.",
+        "Reward: [Color:5][Item:1337][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Our research indicates that there is one",
+        "more mark. We don't know where it is,",
+        "but we have a theory on where to look.",
+        "Reward: [Color:5][Item:1337][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "Someone investigate an \"ancient being\"",
+        "referenced in a newly-discovered",
+        "document... and, if necessary, defeat it.",
+        "Reward: [Color:5][Item:231][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Someone investigate an \"ancient being\"",
+        "referenced in a newly-discovered",
+        "document... and, if necessary, defeat it.",
+        "Reward: [Color:5][Item:231][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": true,
+      "Original": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "This is now a QR Quest.",
+        "Dummy.",
+        "Quest is being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "A flotilla of refugee ships from the",
+        "Empire was attacked by the [Enemy1:202]!",
+        "Seeking all Guilds for a rescue mission!",
+        "Reward: [Color:5][Item:1337][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "A flotilla of refugee ships from the",
+        "Empire was attacked by the [Enemy1:202]!",
+        "Seeking all Guilds for a rescue mission!",
+        "Reward: [Color:5][Item:1337][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "In order for the evacuation of the",
+        "Empire to be safe, the [Enemy1:202] must",
+        "be defeated. The city needs your help!",
+        "Reward: [Color:5]100,000en[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "In order for the evacuation of the",
+        "Empire to be safe, the [Enemy1:202] must",
+        "be defeated. The city needs your help!",
+        "Reward: [Color:5]100,000en[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "My wife went to the Scarlet Pillars",
+        "and hasn't come back. I think she may",
+        "have been attacked by the [Enemy1:201]!",
+        "Reward: [Color:5][Item:1333][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "My wife went to the Scarlet Pillars",
+        "and hasn't come back. I think she may",
+        "have been attacked by the [Enemy1:201]!",
+        "Reward: [Color:5][Item:1333][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "We've succeeded in using Ms. Regine's",
+        "libation to trap the [Enemy1:201].",
+        "Now is our only chance to slay it!",
+        "Reward: [Color:5]100,000en[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "We've succeeded in using Ms. Regine's",
+        "libation to trap the [Enemy1:201].",
+        "Now is our only chance to slay it!",
+        "Reward: [Color:5]100,000en[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "I need [Item:2147]s to heal a young",
+        "patient of mine. Adventurers of Tharsis,",
+        "I need your strength to save her life.",
+        "Reward: [Color:5][Item:1331][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "I need [Item:2147]s to heal a young",
+        "patient of mine. Adventurers of Tharsis,",
+        "I need your strength to save her life.",
+        "Reward: [Color:5][Item:1331][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": false,
+      "Original": [
+        "The miracle medicine left by a skilled",
+        "doctor has trapped the [Enemy1:200] in",
+        "the mountains to the southeast. Slay it!",
+        "Reward: [Color:5]100,000en[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "The miracle medicine left by a skilled",
+        "doctor has trapped the [Enemy1:200] in",
+        "the mountains to the southeast. Slay it!",
+        "Reward: [Color:5]100,000en[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "You're the only ones that can face that",
+        "thing. You must lend me your strength!",
+        "It has to be slayed, or else...",
+        "Reward: [Color:5][Item:1620][Color:0]",
+        ""
+      ],
+      "Translation": [
+        "You're the only ones that can face that",
+        "thing. You must lend me your strength!",
+        "It has to be slayed, or else...",
+        "Reward: [Color:5][Item:1620][Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": true,
+      "Original": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "(Temp Text)",
+        "Dummy",
+        "Quest being prepped.",
+        "Reward: [Color:5]Medica(Temp)[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

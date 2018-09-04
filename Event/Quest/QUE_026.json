@@ -1,0 +1,388 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_026",
+  "RelativePath": "Event\\Quest\\QUE_026.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "This request comes from Lament,",
+        "a reclusive witch. She wants frog",
+        "organs to do... something.",
+        "[Page]",
+        "",
+        "Could you fetch her two [Color:6][Item:996][Color:0]s",
+        "and a [Color:6][Item:997][Color:0], which can be",
+        "gleaned from [Color:5][Enemy1:26][Color:0]s?",
+        "[Page]",
+        "",
+        "The other explorers say [Enemy1:26]s",
+        "usually appear in [Color:5]B3F[Color:0] of the [Color:5]Golden",
+        "Lair[Color:0]. Beware their volt-based attacks.",
+        "[Page]",
+        "",
+        "Now then, take care, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "This request comes from Lament,",
+        "a reclusive witch. She wants frog",
+        "organs to do... something.",
+        "[Page]",
+        "",
+        "Could you fetch her two [Color:6][Item:996][Color:0]s",
+        "and a [Color:6][Item:997][Color:0], which can be",
+        "gleaned from [Color:5][Enemy1:26][Color:0]s?",
+        "[Page]",
+        "",
+        "The other explorers say [Enemy1:26]s",
+        "usually appear in [Color:5]B3F[Color:0] of the [Color:5]Golden",
+        "Lair[Color:0]. Beware their volt-based attacks.",
+        "[Page]",
+        "",
+        "Now then, take care, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "...It seems that you were already",
+        "carrying the requested materials when",
+        "you accepted the request.",
+        "[Page]",
+        "",
+        "There is nothing preventing you from",
+        "turning in your report now and making",
+        "an early finish of it, you suppose.",
+        ""
+      ],
+      "Translation": [
+        "...It seems that you were already",
+        "carrying the requested materials when",
+        "you accepted the request.",
+        "[Page]",
+        "",
+        "There is nothing preventing you from",
+        "turning in your report now and making",
+        "an early finish of it, you suppose.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back, [Guild] Guild. Did",
+        "you get the organs from the [Enemy1:26]?",
+        "[Page]",
+        "",
+        "These are them...? What does she",
+        "intend to do with these?",
+        "[Page]",
+        "",
+        "The last time, she experimented with",
+        "fire spells and burned her house down.",
+        "I worry for her...",
+        "[Page]",
+        "",
+        "But here is your reward. I again",
+        "thank you for your hard work.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back, [Guild] Guild. Did",
+        "you get the organs from the [Enemy1:26]?",
+        "[Page]",
+        "",
+        "These are them...? What does she",
+        "intend to do with these?",
+        "[Page]",
+        "",
+        "The last time, she experimented with",
+        "fire spells and burned her house down.",
+        "I worry for her...",
+        "[Page]",
+        "",
+        "But here is your reward. I again",
+        "thank you for your hard work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "The necessary organs from the",
+        "[Enemy1:26]s have all been",
+        "harvested now!",
+        "[Page]",
+        "",
+        "You need only deliver them to the bar",
+        "when you next find yourself there.",
+        ""
+      ],
+      "Translation": [
+        "The necessary organs from the",
+        "[Enemy1:26]s have all been",
+        "harvested now!",
+        "[Page]",
+        "",
+        "You need only deliver them to the bar",
+        "when you next find yourself there.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You recall accepting a quest to fetch",
+        "the organs of the [Enemy1:26]...",
+        "[Page]",
+        "",
+        "The [Number:0] and [Number:1] are",
+        "already among your possessions. You",
+        "must be careful not to sell them...",
+        ""
+      ],
+      "Translation": [
+        "You recall accepting a quest to fetch",
+        "the organs of the [Enemy1:26]...",
+        "[Page]",
+        "",
+        "The [Number:0] and [Number:1] are",
+        "already among your possessions. You",
+        "must be careful not to sell them...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

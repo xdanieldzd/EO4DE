@@ -1,0 +1,290 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_077",
+  "RelativePath": "Event\\QR\\QR_077.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "The client is... Well, do you see the",
+        "one wearing a large mask? With the",
+        "many animals at his side...?",
+        "[Page]",
+        "",
+        "He is an animal tamer. I told him that",
+        "monsters are not allowed here, but he",
+        "insists they are his friends.",
+        "[Page]",
+        "",
+        "It is putting the other patrons off",
+        "as well. Can you go talk to him?",
+        "[Page]",
+        "",
+        "I am counting on you, [Guild]",
+        "Guild. I shall await your swift",
+        "return...",
+        ""
+      ],
+      "Translation": [
+        "The client is... Well, do you see the",
+        "one wearing a large mask? With the",
+        "many animals at his side...?",
+        "[Page]",
+        "",
+        "He is an animal tamer. I told him that",
+        "monsters are not allowed here, but he",
+        "insists they are his friends.",
+        "[Page]",
+        "",
+        "It is putting the other patrons off",
+        "as well. Can you go talk to him?",
+        "[Page]",
+        "",
+        "I am counting on you, [Guild]",
+        "Guild. I shall await your swift",
+        "return...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. It seemed to be a",
+        "simple misunderstanding... but the",
+        "animal tamer's request is complete.",
+        "[Page]",
+        "",
+        "His monsters were very well behaved",
+        "while he waited for you. They really",
+        "do obey him.",
+        "[Page]",
+        "",
+        "They were more courteous than some of",
+        "the drunkards we get. But... ugh...",
+        "My establishment smells of animals.",
+        "[Page]",
+        "",
+        "No more monsters in here! Oh, look",
+        "at that! A request to clean this",
+        "establishment is about to be posted!",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. It seemed to be a",
+        "simple misunderstanding... but the",
+        "animal tamer's request is complete.",
+        "[Page]",
+        "",
+        "His monsters were very well behaved",
+        "while he waited for you. They really",
+        "do obey him.",
+        "[Page]",
+        "",
+        "They were more courteous than some of",
+        "the drunkards we get. But... ugh...",
+        "My establishment smells of animals.",
+        "[Page]",
+        "",
+        "No more monsters in here! Oh, look",
+        "at that! A request to clean this",
+        "establishment is about to be posted!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You do as your client suggested and",
+        "throw the food into the tornado!",
+        "[Page]",
+        "",
+        "There is an immediate reaction as a",
+        "bloodcurdling roar thunders!",
+        "[Page]",
+        "",
+        "You shake to behold an enormous lion,",
+        "lured by the scent of food on the",
+        "wind, and now charging at you!",
+        "[Page]",
+        "",
+        "If that is the lion queen the client",
+        "spoke of, it will be impossible to",
+        "subdue in its current state!",
+        "[Page]",
+        "",
+        "You must decide now whether to face",
+        "the beast or run from it!",
+        ""
+      ],
+      "Translation": [
+        "You do as your client suggested and",
+        "throw the food into the tornado!",
+        "[Page]",
+        "",
+        "There is an immediate reaction as a",
+        "bloodcurdling roar thunders!",
+        "[Page]",
+        "",
+        "You shake to behold an enormous lion,",
+        "lured by the scent of food on the",
+        "wind, and now charging at you!",
+        "[Page]",
+        "",
+        "If that is the lion queen the client",
+        "spoke of, it will be impossible to",
+        "subdue in its current state!",
+        "[Page]",
+        "",
+        "You must decide now whether to face",
+        "the beast or run from it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Confront the monster?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Confront the monster?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "You valiantly draw your weapons and",
+        "stand firm against the charging",
+        "monster!",
+        ""
+      ],
+      "Translation": [
+        "You valiantly draw your weapons and",
+        "stand firm against the charging",
+        "monster!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Sensing grave danger, you elect to",
+        "retreat for now and rush into your",
+        "skyship!",
+        ""
+      ],
+      "Translation": [
+        "Sensing grave danger, you elect to",
+        "retreat for now and rush into your",
+        "skyship!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "With your final strike, the monster",
+        "collapses and eventually stops moving",
+        "altogether.",
+        "[Page]",
+        "",
+        "This is unfortunate... Though you were",
+        "left with no choice, you have slain",
+        "the client's animal friend!",
+        "[Page]",
+        "",
+        "Still, what's done is done. You must",
+        "report the truth of what happened",
+        "to him.",
+        "[Page]",
+        "",
+        "You give the deceased lion a careful",
+        "burial and return to the bar with",
+        "heavy steps...",
+        ""
+      ],
+      "Translation": [
+        "With your final strike, the monster",
+        "collapses and eventually stops moving",
+        "altogether.",
+        "[Page]",
+        "",
+        "This is unfortunate... Though you were",
+        "left with no choice, you have slain",
+        "the client's animal friend!",
+        "[Page]",
+        "",
+        "Still, what's done is done. You must",
+        "report the truth of what happened",
+        "to him.",
+        "[Page]",
+        "",
+        "You give the deceased lion a careful",
+        "burial and return to the bar with",
+        "heavy steps...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "The scent of food hangs in the air,",
+        "but there seem to be no monsters",
+        "nearby now...",
+        ""
+      ],
+      "Translation": [
+        "The scent of food hangs in the air,",
+        "but there seem to be no monsters",
+        "nearby now...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_005",
+  "RelativePath": "Event\\QR\\QR_005.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Are you taking on this request?",
+        "I believe the client wants you to",
+        "deliver certain materials.",
+        "[Page]",
+        "",
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:1][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Are you taking on this request?",
+        "I believe the client wants you to",
+        "deliver certain materials.",
+        "[Page]",
+        "",
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:1][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "The [Enemy2:2] which drops the",
+        "[Item2:0] can be found on",
+        "[Color:5]B[Number:0]F[Color:0] of the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The [Enemy2:2] which drops the",
+        "[Item2:0] can be found on",
+        "[Color:5]B[Number:0]F[Color:0] of the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "The [Enemy2:2] which drops the",
+        "[Item2:0] can be found in",
+        "the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "The [Enemy2:2] which drops the",
+        "[Item2:0] can be found in",
+        "the [Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "This request should be quite simple",
+        "for you. I shall await your swift",
+        "return.",
+        ""
+      ],
+      "Translation": [
+        "This request should be quite simple",
+        "for you. I shall await your swift",
+        "return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "This seems like no easy request to",
+        "fulfill... Be careful to stay safe.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "This seems like no easy request to",
+        "fulfill... Be careful to stay safe.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "After you accept the request, you",
+        "recall that you already have the",
+        "[Color:6][Number:0][Color:0].",
+        "[Page]",
+        "",
+        "You may complete the request now if",
+        "you report the results and hand in",
+        "the [Number:0].",
+        ""
+      ],
+      "Translation": [
+        "After you accept the request, you",
+        "recall that you already have the",
+        "[Color:6][Number:0][Color:0].",
+        "[Page]",
+        "",
+        "You may complete the request now if",
+        "you report the results and hand in",
+        "the [Number:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "It seems you have adeptly granted the",
+        "client's wishes. I again thank you",
+        "for your hard work.",
+        ""
+      ],
+      "Translation": [
+        "It seems you have adeptly granted the",
+        "client's wishes. I again thank you",
+        "for your hard work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "I will be sure the client gets this.",
+        "Here is your promised reward... I hope",
+        "you will continue taking our requests.",
+        ""
+      ],
+      "Translation": [
+        "I will be sure the client gets this.",
+        "Here is your promised reward... I hope",
+        "you will continue taking our requests.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "It seems you have adeptly granted the",
+        "client's wishes. I again thank you",
+        "for your hard work.",
+        "[Page]",
+        "",
+        "Ah yes, and I have a message from your",
+        "satisfied client...",
+        ""
+      ],
+      "Translation": [
+        "It seems you have adeptly granted the",
+        "client's wishes. I again thank you",
+        "for your hard work.",
+        "[Page]",
+        "",
+        "Ah yes, and I have a message from your",
+        "satisfied client...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Here is your promised reward...",
+        "I again thank you for your hard work.",
+        ""
+      ],
+      "Translation": [
+        "Here is your promised reward...",
+        "I again thank you for your hard work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You now have the requested items!",
+        "You need only deliver them to the bar",
+        "and the request will be complete.",
+        ""
+      ],
+      "Translation": [
+        "You now have the requested items!",
+        "You need only deliver them to the bar",
+        "and the request will be complete.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "You recall taking a request to",
+        "deliver the [Color:6][Number:0][Color:0]...",
+        "[Page]",
+        "",
+        "The item is now in your possession.",
+        "If you wish to complete the request,",
+        "you must take care not to sell it.",
+        ""
+      ],
+      "Translation": [
+        "You recall taking a request to",
+        "deliver the [Color:6][Number:0][Color:0]...",
+        "[Page]",
+        "",
+        "The item is now in your possession.",
+        "If you wish to complete the request,",
+        "you must take care not to sell it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

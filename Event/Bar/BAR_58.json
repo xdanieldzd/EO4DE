@@ -1,0 +1,64 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_58",
+  "RelativePath": "Event\\Bar\\BAR_58.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Dragon chasers, like us, hunt [Color:5]dragons[Color:0]",
+        "wherever they're found. We gather the",
+        "[Color:5]crystals[Color:0] that those dragons secrete.",
+        "[Page]",
+        "",
+        "We sell those rare valuables for a",
+        "hefty sum, which is how we make our",
+        "living.",
+        "[Page]",
+        "",
+        "Recently, humans have taken to the sky",
+        "like they own the place, but don't be",
+        "fooled. The dragons rule the skies.",
+        "[Page]",
+        "",
+        "Though as long as you don't go",
+        "foolishly approaching them, they",
+        "shouldn't bother you.",
+        "[Page]",
+        "",
+        "We humans should be grateful that they",
+        "tolerate our presence.",
+        ""
+      ],
+      "Translation": [
+        "Dragon chasers, like us, hunt [Color:5]dragons[Color:0]",
+        "wherever they're found. We gather the",
+        "[Color:5]crystals[Color:0] that those dragons secrete.",
+        "[Page]",
+        "",
+        "We sell those rare valuables for a",
+        "hefty sum, which is how we make our",
+        "living.",
+        "[Page]",
+        "",
+        "Recently, humans have taken to the sky",
+        "like they own the place, but don't be",
+        "fooled. The dragons rule the skies.",
+        "[Page]",
+        "",
+        "Though as long as you don't go",
+        "foolishly approaching them, they",
+        "shouldn't bother you.",
+        "[Page]",
+        "",
+        "We humans should be grateful that they",
+        "tolerate our presence.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

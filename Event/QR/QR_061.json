@@ -1,0 +1,261 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_061",
+  "RelativePath": "Event\\QR\\QR_061.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah... that request. Do you see the",
+        "explorer preening at the table in the",
+        "corner? He is the client.",
+        "[Page]",
+        "",
+        "He calls himself the lonely hunter",
+        "Dino. Wait... why does that title",
+        "of \"lonely hunter\" sound familiar?",
+        "[Page]",
+        "",
+        "Well, no matter. I wonder if I am",
+        "mistaking him for another...? At any",
+        "rate, ask him for the details.",
+        ""
+      ],
+      "Translation": [
+        "Ah... that request. Do you see the",
+        "explorer preening at the table in the",
+        "corner? He is the client.",
+        "[Page]",
+        "",
+        "He calls himself the lonely hunter",
+        "Dino. Wait... why does that title",
+        "of \"lonely hunter\" sound familiar?",
+        "[Page]",
+        "",
+        "Well, no matter. I wonder if I am",
+        "mistaking him for another...? At any",
+        "rate, ask him for the details.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, well done in finding the monster's",
+        "nest your client was looking for.",
+        "[Page]",
+        "",
+        "And not only that, but you guessed",
+        "correctly as to the monster's diet?",
+        "Most impressive, [Guild] Guild.",
+        "[Page]",
+        "",
+        "It is odd, though... I have serious",
+        "misgivings about this man. Look at",
+        "how he smiles at us...",
+        ""
+      ],
+      "Translation": [
+        "Ah, well done in finding the monster's",
+        "nest your client was looking for.",
+        "[Page]",
+        "",
+        "And not only that, but you guessed",
+        "correctly as to the monster's diet?",
+        "Most impressive, [Guild] Guild.",
+        "[Page]",
+        "",
+        "It is odd, though... I have serious",
+        "misgivings about this man. Look at",
+        "how he smiles at us...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "As you investigate a remote spot in",
+        "search of a monster's nest, you spy",
+        "something scattered on the ground.",
+        ""
+      ],
+      "Translation": [
+        "As you investigate a remote spot in",
+        "search of a monster's nest, you spy",
+        "something scattered on the ground.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Land and investigate?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Land and investigate?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Without knowing what dangers might",
+        "await you, it seems imprudent to",
+        "land your skyship here...",
+        "[Page]",
+        "",
+        "Instead, you elect to observe from",
+        "the sky for a while.",
+        ""
+      ],
+      "Translation": [
+        "Without knowing what dangers might",
+        "await you, it seems imprudent to",
+        "land your skyship here...",
+        "[Page]",
+        "",
+        "Instead, you elect to observe from",
+        "the sky for a while.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "The objects scattered here seem to be",
+        "the remains of an [Color:5][Item:2079][Color:0]",
+        "and a [Color:5][Item:2085][Color:0].",
+        "[Page]",
+        "",
+        "They were likely devoured by the",
+        "monster that dwells here.",
+        ""
+      ],
+      "Translation": [
+        "The objects scattered here seem to be",
+        "the remains of an [Color:5][Item:2079][Color:0]",
+        "and a [Color:5][Item:2085][Color:0].",
+        "[Page]",
+        "",
+        "They were likely devoured by the",
+        "monster that dwells here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "This is unmistakably some sort of",
+        "nest, but its owner is nowhere to be",
+        "seen. You see no choice but to leave.",
+        ""
+      ],
+      "Translation": [
+        "This is unmistakably some sort of",
+        "nest, but its owner is nowhere to be",
+        "seen. You see no choice but to leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Coupled with the coordinates you",
+        "received, you are certain that this",
+        "is the nest the client sought.",
+        "[Page]",
+        "",
+        "All you need now is to report these",
+        "coordinates verbatim along with the",
+        "monster's diet to the client.",
+        ""
+      ],
+      "Translation": [
+        "Coupled with the coordinates you",
+        "received, you are certain that this",
+        "is the nest the client sought.",
+        "[Page]",
+        "",
+        "All you need now is to report these",
+        "coordinates verbatim along with the",
+        "monster's diet to the client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "The half-eaten remains of an",
+        "[Color:5][Item:2079][Color:0] and a",
+        "[Color:5][Item:2085][Color:0] are left here.",
+        "[Page]",
+        "",
+        "You should report this location and",
+        "the food strewn about here back to",
+        "your client at the bar...",
+        ""
+      ],
+      "Translation": [
+        "The half-eaten remains of an",
+        "[Color:5][Item:2079][Color:0] and a",
+        "[Color:5][Item:2085][Color:0] are left here.",
+        "[Page]",
+        "",
+        "You should report this location and",
+        "the food strewn about here back to",
+        "your client at the bar...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

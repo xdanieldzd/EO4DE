@@ -1,0 +1,152 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_053",
+  "RelativePath": "Event\\QR\\QR_053.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, yes, that request. The client is",
+        "here in this establishment now, so",
+        "you may ask him for more details.",
+        "[Page]",
+        "",
+        "He is an interesting one. He claims",
+        "to be a farming explorer who has seen",
+        "many sights. I hope you can help him.",
+        ""
+      ],
+      "Translation": [
+        "Ah, yes, that request. The client is",
+        "here in this establishment now, so",
+        "you may ask him for more details.",
+        "[Page]",
+        "",
+        "He is an interesting one. He claims",
+        "to be a farming explorer who has seen",
+        "many sights. I hope you can help him.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "You have done well indeed to find the",
+        "Finest Plains. It seems that the",
+        "client's journey has borne fruit.",
+        "[Page]",
+        "",
+        "But a farmer and an explorer...?",
+        "What an odd combination. Well, as they",
+        "say, \"When in Armoroad...\"",
+        "[Page]",
+        "",
+        "I would like to see his homeland for",
+        "myself sometime. But enough of that!",
+        "Here is your promised reward.",
+        ""
+      ],
+      "Translation": [
+        "You have done well indeed to find the",
+        "Finest Plains. It seems that the",
+        "client's journey has borne fruit.",
+        "[Page]",
+        "",
+        "But a farmer and an explorer...?",
+        "What an odd combination. Well, as they",
+        "say, \"When in Armoroad...\"",
+        "[Page]",
+        "",
+        "I would like to see his homeland for",
+        "myself sometime. But enough of that!",
+        "Here is your promised reward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You detect a sweet, fragrant scent of",
+        "grass wafting from somewhere.",
+        "[Page]",
+        "",
+        "You look down and discover that the",
+        "fruity bouquet is arising from the",
+        "green fields below.",
+        "[Page]",
+        "",
+        "This must be the place where the",
+        "client said the best feed could be",
+        "gathered... the [Color:5]Finest Plains[Color:0]!",
+        "[Page]",
+        "",
+        "You should return to the bar and",
+        "give the eager farmer their location.",
+        "Then the request will be complete!",
+        ""
+      ],
+      "Translation": [
+        "You detect a sweet, fragrant scent of",
+        "grass wafting from somewhere.",
+        "[Page]",
+        "",
+        "You look down and discover that the",
+        "fruity bouquet is arising from the",
+        "green fields below.",
+        "[Page]",
+        "",
+        "This must be the place where the",
+        "client said the best feed could be",
+        "gathered... the [Color:5]Finest Plains[Color:0]!",
+        "[Page]",
+        "",
+        "You should return to the bar and",
+        "give the eager farmer their location.",
+        "Then the request will be complete!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Below you, the Finest Plains give off",
+        "their sweet scent...",
+        ""
+      ],
+      "Translation": [
+        "Below you, the Finest Plains give off",
+        "their sweet scent...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

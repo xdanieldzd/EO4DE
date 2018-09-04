@@ -1,0 +1,291 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_71F",
+  "RelativePath": "Event\\Dungeon\\DUN_71F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed through the serene",
+        "ruins, you notice a bookshelf at a",
+        "dead end.",
+        "[Page]",
+        "",
+        "Most of the books on the shelves are",
+        "decaying, but one still seems legible.",
+        "You consider attempting to read it.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed through the serene",
+        "ruins, you notice a bookshelf at a",
+        "dead end.",
+        "[Page]",
+        "",
+        "Most of the books on the shelves are",
+        "decaying, but one still seems legible.",
+        "You consider attempting to read it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "A bookshelf stands before you...",
+        "[Page]",
+        "",
+        "Most of the books on the shelves are",
+        "decaying, but one still seems legible.",
+        "You consider attempting to read it.",
+        ""
+      ],
+      "Translation": [
+        "A bookshelf stands before you...",
+        "[Page]",
+        "",
+        "Most of the books on the shelves are",
+        "decaying, but one still seems legible.",
+        "You consider attempting to read it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Read the book?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Read the book?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Who will read it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Who will read it?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Character:0] pulls out the book, opens",
+        "it, and slowly reads it...",
+        ""
+      ],
+      "Translation": [
+        "[Character:0] pulls out the book, opens",
+        "it, and slowly reads it...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Eventually, [Character:0] turns smugly to",
+        "the party and recites the details of",
+        "the book from memory.",
+        "[Page]",
+        "",
+        "The words streaming from [Character:0]'s",
+        "mouth sound to you like an ancient",
+        "poem on a soothing subject.",
+        "[Page]",
+        "",
+        "When [Character:0] finishes reciting the",
+        "verse, a warm light envelopes the",
+        "party and heals your exhaustion!",
+        ""
+      ],
+      "Translation": [
+        "Eventually, [Character:0] turns smugly to",
+        "the party and recites the details of",
+        "the book from memory.",
+        "[Page]",
+        "",
+        "The words streaming from [Character:0]'s",
+        "mouth sound to you like an ancient",
+        "poem on a soothing subject.",
+        "[Page]",
+        "",
+        "When [Character:0] finishes reciting the",
+        "verse, a warm light envelopes the",
+        "party and heals your exhaustion!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 200 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 200 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "It seems to have been a grimoire of",
+        "some sort that was activated by being",
+        "read by one versed in mystic lore.",
+        "[Page]",
+        "",
+        "The book then dissolves, as if its",
+        "final duty has been discharged, and",
+        "blows away on the wind...",
+        ""
+      ],
+      "Translation": [
+        "It seems to have been a grimoire of",
+        "some sort that was activated by being",
+        "read by one versed in mystic lore.",
+        "[Page]",
+        "",
+        "The book then dissolves, as if its",
+        "final duty has been discharged, and",
+        "blows away on the wind...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You watch as [Character:0]'s back begins",
+        "to tremble... Before long, [Character:0]",
+        "screams and tears the book apart!",
+        "[Page]",
+        "",
+        "It seems that reading a book written",
+        "in that ancient script caused",
+        "[Character:0] unbearable pain.",
+        "[Page]",
+        "",
+        "You try to comfort [Character:0] before",
+        "resuming your travels.",
+        ""
+      ],
+      "Translation": [
+        "You watch as [Character:0]'s back begins",
+        "to tremble... Before long, [Character:0]",
+        "screams and tears the book apart!",
+        "[Page]",
+        "",
+        "It seems that reading a book written",
+        "in that ancient script caused",
+        "[Character:0] unbearable pain.",
+        "[Page]",
+        "",
+        "You try to comfort [Character:0] before",
+        "resuming your travels.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Eventually, [Character:0] looks up from",
+        "the book and sighs, dejected.",
+        "[Page]",
+        "",
+        "It seems [Character:0] is unable to read",
+        "the ancient script that the book is",
+        "composed in.",
+        "[Page]",
+        "",
+        "If anyone else in your party has more",
+        "experience with ancient lore, you",
+        "could have them attempt to read it.",
+        ""
+      ],
+      "Translation": [
+        "Eventually, [Character:0] looks up from",
+        "the book and sighs, dejected.",
+        "[Page]",
+        "",
+        "It seems [Character:0] is unable to read",
+        "the ancient script that the book is",
+        "composed in.",
+        "[Page]",
+        "",
+        "If anyone else in your party has more",
+        "experience with ancient lore, you",
+        "could have them attempt to read it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

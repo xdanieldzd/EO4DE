@@ -1,0 +1,4965 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Dungeon system messages",
+  "RelativePath": "InterfaceFile\\Dungeon.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "While exploring, you come across",
+        "a large box.",
+        ""
+      ],
+      "Translation": [
+        "Beim Erkunden des Labyrinths entdeckt Ihr",
+        "eine große Kiste.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Would you like to open it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Möchtet Ihr sie öffnen?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Obtained [Variable2:0][Color:6][Variable1:0][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "[Variable2:0][Color:6][Variable1:0][Color:0] erhalten.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Obtained [Variable2:0][Color:9][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable2:0][Color:9][Variable1:0][Color:0] erhalten!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Obtained [Color:5][Variable1:0][Color:0]en.",
+        ""
+      ],
+      "Translation": [
+        "[Color:5][Variable1:0][Color:0]en erhalten.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "However, you cannot hold any more.",
+        ""
+      ],
+      "Translation": [
+        "Doch Ihr könnt nicht mehr tragen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "The box has already been emptied",
+        "of its contents.",
+        ""
+      ],
+      "Translation": [
+        "Der Inhalt der Kiste wurde bereits",
+        "entwendet.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "There is a switch on the wall in",
+        "front of you.",
+        ""
+      ],
+      "Translation": [
+        "An der Wand vor Euch befindet sich",
+        "ein Schalter.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Would you like to press it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Möchtet Ihr ihn betätigen?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You press it, but nothing seems",
+        "to have happened.",
+        ""
+      ],
+      "Translation": [
+        "Ihr betätigt ihn, aber nichts scheint",
+        "geschehen zu sein.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "A terrible sound of screeching",
+        "metal echoes all about!",
+        ""
+      ],
+      "Translation": [
+        "Ein grauenhaftes Geräusch von",
+        "quietschendem Metall hallt durch",
+        "das Labyrinth!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "The metal shutters come down!",
+        ""
+      ],
+      "Translation": [
+        "Die metallenen Barrieren wurden geschlossen!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "The floor gives way as you realize",
+        "you've stumbled into a booby trap!",
+        ""
+      ],
+      "Translation": [
+        "Der Boden gibt nach! Ihr seid in eine",
+        "Falle getappt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You come across a chopping point.",
+        "Chop the vegetation here?",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt eine Stelle gefunden, an der Ihr",
+        "Pflanzen ernten könnt. Möchtet Ihr nach",
+        "Pflanzen suchen?",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You come across a mining point.",
+        "Mine for items here?",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt eine Stelle gefunden, an der Ihr",
+        "Rohstoffe abbauen könnt. Möchtet Ihr nach",
+        "Rohstoffen suchen?",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You come across a harvesting point.",
+        "Gather materials here?",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt eine Stelle gefunden, an der Ihr",
+        "Materialien finden könnt. Möchtet Ihr nach",
+        "Materialien suchen?",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "This spot has been exhausted.",
+        ""
+      ],
+      "Translation": [
+        "Diese Stelle ist erschöpft.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "You have reached your limit",
+        "for today.",
+        ""
+      ],
+      "Translation": [
+        "Heute ist nichts mehr zu finden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] employed Dendrology to",
+        "find a [Variable2:0][Color:9][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Durch [Variable1:1]'s Baumkunde habt Ihr",
+        "[Variable2:0][Color:9][Variable1:0][Color:0] gefunden!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] employed Minerology to",
+        "find a [Variable2:0][Color:9][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Durch [Variable1:1]'s Mineralogie habt Ihr",
+        "[Variable2:0][Color:9][Variable1:0][Color:0] gefunden!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] employed Herbology to",
+        "find a [Variable2:0][Color:9][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Durch [Variable1:1]'s Kräuterkunde habt Ihr",
+        "[Variable2:0][Color:9][Variable1:0][Color:0] gefunden!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You can't hold any more.",
+        ""
+      ],
+      "Translation": [
+        "Ihr könnt nicht mehr tragen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "You realize with regret that your",
+        "pack is full and you cannot hold",
+        "any more items.",
+        ""
+      ],
+      "Translation": [
+        "Ihr stellt fest, dass Eure Bündel voll sind",
+        "und Ihr keine weiteren Gegenstände",
+        "tragen könnt.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": true,
+      "Original": [
+        "......",
+        ""
+      ],
+      "Translation": [
+        "......",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "You feel a dreadful presence",
+        "behind you and anxiously turn",
+        "to face it!",
+        ""
+      ],
+      "Translation": [
+        "Ihr spürt eine schreckliche Präsenz und",
+        "dreht euch unruhig nach ihr um!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "You have discovered",
+        "[Variable2:0][Color:6][Variable1:0][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt [Variable2:0][Color:6][Variable1:0][Color:0]",
+        "gefunden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "You have discovered",
+        "[Variable2:0][Color:9][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt [Variable2:0][Color:6][Variable1:0][Color:0]",
+        "gefunden!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "You feel that you're on the verge",
+        "of finding quality materials, but",
+        "you detect danger nearby...",
+        ""
+      ],
+      "Translation": [
+        "Ihr denkt, dass Ihr kurz davor seid, gute",
+        "Materialien zu finden, doch Ihr spürt eine",
+        "Bedrohung in der Nähe…",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Continue to chop?",
+        ""
+      ],
+      "Translation": [
+        "Weiter hacken?",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Continue to mine?",
+        ""
+      ],
+      "Translation": [
+        "Weiter abbauen?",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Continue to gather?",
+        ""
+      ],
+      "Translation": [
+        "Weiter sammeln?",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "You don't detect any imminent",
+        "threat. It is no doubt safe to",
+        "camp here.",
+        ""
+      ],
+      "Translation": [
+        "Ihr könnt in der näheren Umgebung keinerlei",
+        "Gefahr erkennen. Es ist sicher, hier ein Lager",
+        "aufzuschlagen.",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet? Leftover aus EO3?",
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "You don't strongly detect any",
+        "imminent threat. You're not sure,",
+        "but you can probably camp here.",
+        ""
+      ],
+      "Translation": [
+        "Ihr könnt keine direkte Bedrohung in der",
+        "Nähe ausmachen. Vermutlich könnt Ihr hier",
+        "sicher kampieren.",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Pitch a tent and camp?",
+        ""
+      ],
+      "Translation": [
+        "Ein Zelt aufstellen und kampieren?",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "As you have no tents, you cannot",
+        "make use of the campsite.",
+        ""
+      ],
+      "Translation": [
+        "Ihr könnt den Lagerplatz nicht nutzen, da Ihr",
+        "keine Zelte bei Euch habt.",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "The party decided to pitch a tent",
+        "and rest at the campsite.",
+        ""
+      ],
+      "Translation": [
+        "Die Gruppe entscheidet sich, hier zu",
+        "kampieren.",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": true,
+      "Original": [
+        "......",
+        ""
+      ],
+      "Translation": [
+        "......",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "An enemy attacked, destroying",
+        "the tent!",
+        ""
+      ],
+      "Translation": [
+        "Ein Monster greift an und zerstört das Zelt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "The party rested, recovering",
+        "HP and TP.",
+        ""
+      ],
+      "Translation": [
+        "Die Gruppe hat sich erholt und dabei KP und TP",
+        "wiedererlangt.",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "The attack prevented you from",
+        "getting a proper rest. You only",
+        "recovered partial HP and TP.",
+        ""
+      ],
+      "Translation": [
+        "Der Angriff hat euch davon abgehalten,",
+        "euch vollständig zu erholen. Nur ein Teil eurer",
+        "KP und TP wurden wiederhergestellt.",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "You fled the campsite, leaving the",
+        "tent behind! Unable to rest, you",
+        "leave the area still tired.",
+        ""
+      ],
+      "Translation": [
+        "Ihr musstet von eurem Lagerplatz flüchten und",
+        "das Areal ohne zu rasten verlassen.",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]It's a Geomagnetic Pole.[Color:0]",
+        "Return to Tharsis",
+        "Save",
+        "Ignore it",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Ein Geomagnetischer Mast.[Color:0]",
+        "Nach Tharsis zurückkehren",
+        "Speichern",
+        "Weiterziehen",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung für \"Pole\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]It's a Geomagnetic Pole in the sky.[Color:0]",
+        "Return to Tharsis",
+        "Save",
+        "Ignore it",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Ein Geomagnetischer Mast am Himmel.[Color:0]",
+        "Nach Tharsis zurückkehren",
+        "Speichern",
+        "Weiterziehen",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Go back to Tharsis?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Nach Tharsis zurückkehren?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Go back to the Deep City?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]In die Tiefe Stadt zurückkehren?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet? Leftover aus EO3?",
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Save?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Speichern?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "There is a small crevice in the wall",
+        "before you. You might fit through,",
+        "but would [Color:5]be unable to come back[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Warscheinlich passt Ihr hindurch, jedoch",
+        "könntet Ihr [Color:5]danach nicht zurückkommen[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Proceed?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Wollt Ihr hindurch?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        "[Page]",
+        "",
+        "However, it appears to be",
+        "impassable from this side.",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        "[Page]",
+        "",
+        "Jedoch scheint er von dieser Seite nicht",
+        "passierbar zu sein.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        "[Page]",
+        "",
+        "However, it appears to be",
+        "impassable from this side.",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        "[Page]",
+        "",
+        "Jedoch scheint er von dieser Seite nicht",
+        "passierbar zu sein.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        "[Page]",
+        "",
+        "However, it appears to be",
+        "impassable from this side.",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        "[Page]",
+        "",
+        "Jedoch scheint er von dieser Seite nicht",
+        "passierbar zu sein.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        "[Page]",
+        "",
+        "However, it appears to be",
+        "impassable from this side.",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        "[Page]",
+        "",
+        "Jedoch scheint er von dieser Seite nicht",
+        "passierbar zu sein.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        "[Page]",
+        "",
+        "However, it appears to be",
+        "impassable from this side.",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        "[Page]",
+        "",
+        "Jedoch scheint er von dieser Seite nicht",
+        "passierbar zu sein.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "A small crevice is visible in the",
+        "wall before you. Perhaps a person",
+        "may fit through...",
+        "[Page]",
+        "",
+        "However, it appears to be",
+        "impassable from this side.",
+        ""
+      ],
+      "Translation": [
+        "In der Wand vor Euch wird ein schmaler Spalt",
+        "sichbar. Vielleicht ist er breit genug, um",
+        "hindurch zu kommen…",
+        "[Page]",
+        "",
+        "Jedoch scheint er von dieser Seite nicht",
+        "passierbar zu sein.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Proceed?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Wollt Ihr hindurch?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "There is a long, thin chain wrapped",
+        "securely around the handle of the",
+        "door before you.",
+        "[Page]",
+        "",
+        "The end of the chain is connected to",
+        "a lock made of the same material,",
+        "which appears to be indestructible.",
+        "[Page]",
+        "",
+        "You haven't the means to open this",
+        "door right now.",
+        ""
+      ],
+      "Translation": [
+        "Eine lange, dünne Kette ist um die",
+        "Griffe der Türe vor euch gebunden.",
+        "[Page]",
+        "",
+        "Das Ende der Kette ist mit einem Schloss",
+        "verbunden, dass aus dem selben, unver-",
+        "wüstlich scheinenden Material besteht.",
+        "[Page]",
+        "",
+        "Ihr könnt diese Tür im Moment noch",
+        "nicht öffnen.",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "The door before you with a moon-",
+        "shaped insignia has no handle and",
+        "does not budge when you push it.",
+        "[Page]",
+        "",
+        "You seem to have no way to open",
+        "this door at the moment.",
+        "[Page]",
+        "",
+        "You leave it be for the moment to",
+        "explore elsewhere.",
+        ""
+      ],
+      "Translation": [
+        "Die Türe mit dem mondförmigen Siegel",
+        "vor Euch hat keinen Griff und bewegt sich",
+        "nicht.",
+        "[Page]",
+        "",
+        "So wie es aussieht habt Ihr im Moment",
+        "keine Möglichkeit, diese Türe zu öffnen.",
+        "[Page]",
+        "",
+        "Ihr lasst von der Türe ab und seht euch",
+        "anderswo um.",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "The door before you with the odd",
+        "statue on it has no handle and",
+        "does not budge when you push it.",
+        "[Page]",
+        "",
+        "You seem to have no way to open",
+        "this door at the moment.",
+        "[Page]",
+        "",
+        "You leave it be for the moment to",
+        "explore elsewhere.",
+        ""
+      ],
+      "Translation": [
+        "Die Türe mit der seltsamen Statue vor",
+        "euch hat keinen Griff und bewegt sich",
+        "nicht.",
+        "[Page]",
+        "",
+        "So wie es aussieht habt Ihr im Moment",
+        "keine Möglichkeit, diese Türe zu öffnen.",
+        "[Page]",
+        "",
+        "Ihr lasst von der Türe ab und seht euch",
+        "anderswo um.",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] stood there and",
+        "spent an hour doing nothing.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] stand für eine Stunde",
+        "dort und tat nichts.",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "A bug on the ground caught",
+        "[Variable1:0]'s attention, who",
+        "started observing it keenly.",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "After some time passed,",
+        "[Variable1:0] lost interest and",
+        "stood up to resume exploring.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Aufmerksamkeit wurde von einem",
+        "Käfer auf dem Boden eingenommen und",
+        "beobachtete den Käfer genau.",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "Nach einiger Zeit verlor [Variable1:0]",
+        "das Interesse und wandte sich wieder",
+        "der Erkundung zu.",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] stopped to inspect",
+        "what seemed like a ragged shoe,",
+        "then began to patch it up.",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "After an hour, [Variable1:0]",
+        "replaced the fixed shoes, wearing",
+        "a wide, satisfied smile.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hielt an, um einen zerlumpten",
+        "Schuh anzusehen, und begann daraufhin",
+        "diesen zu flicken.",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "Eine Stunde später hatte [Variable1:0]",
+        "die Schuhe repariert und trug ein",
+        "zufriedenes Grinsen.",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": false,
+      "Original": [
+        "The scattered rocks drew",
+        "[Variable1:0]'s attention, who",
+        "thought they might be useful...",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "An hour worth of investigating",
+        "showed them to be mere rocks.",
+        "[Variable1:0] resumed the trek...",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Aufmerksamkeit wurde von einigen",
+        "Steinen auf dem Boden eingenommen,",
+        "welche nützlich erschienen...",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "Eine Stunde der Erforschung später entpuppten",
+        "sich die Steine als gewöhnliche Steine.",
+        "[Variable1:0] ging weiter…",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] felt a nice breeze",
+        "and stopped walking to bask in",
+        "the wind.",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "The brisk wind was nice for quite",
+        "a while, but eventually became too",
+        "chilly to stand.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] bemerkte eine leichte Brise und",
+        "hielt an, um sich daran zu erfreuen.",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "Für einige Zeit war der frische Wind",
+        "angenehm, doch irgendwann wurde er",
+        "zu kalt.",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] felt nostalgic and",
+        "started talking about past",
+        "exploits.",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "Others joined in the conversation,",
+        "shutting down all progress in the",
+        "investigation for an hour.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] fühlte sich nostalgisch und",
+        "begann, über frühere Abenteuer zu",
+        "sprechen.",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "Andere nahmen an der Unterhaltung teil,",
+        "was die Untersuchungen für eine Stunde",
+        "anhielten.",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0], finding it hard",
+        "to go on, emptied the pack and",
+        "started organizing the contents.",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "The others quickly followed suit,",
+        "and organizing their belongings",
+        "occupied the party for an hour.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] fand es schwierig weiterzugehen,",
+        "und begann so sein Bündel zu sortieren.",
+        "[Page]",
+        "",
+        "......",
+        "[Page]",
+        "",
+        "Die Anderen folgten [Variable1:0]'s Beispiel",
+        "bald und sortierten Ihre Bündel, was",
+        "die Gruppe eine Stunde lang beschäftigte.",
+        ""
+      ],
+      "Notes": [
+        "Wird verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Board your skyship and set off into",
+        "the skies?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]An Bord Eures Luftschiffes gehen und",
+        "losfliegen?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": false,
+      "Original": [
+        "The heated flames prevent you from",
+        "moving onward!",
+        ""
+      ],
+      "Translation": [
+        "Die heißen Flammen hindern Euch daran",
+        "weiterzugehen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "A bizarre object is glowing red with",
+        "high heat.",
+        ""
+      ],
+      "Translation": [
+        "Vor Euch befindet sich ein seltsames,",
+        "feuerrotes Objekt.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "A bizarre object is glowing red with",
+        "high heat.",
+        "[Page]",
+        "",
+        "You may be able to destroy it by",
+        "striking it with an [Color:6][Item:1215][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Vor Euch befindet sich ein seltsames,",
+        "feuerrotes Objekt.",
+        "[Page]",
+        "",
+        "Vielleicht könnt Ihr es mit einem",
+        "[Color:6][Item:1215][Color:0] zerstören.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Pierce it with an Ice Stake?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Mit einem [Item:1215] zuschlagen?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "The bizarre object shatters.",
+        ""
+      ],
+      "Translation": [
+        "Das seltsame Objekt zerbricht.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "No sooner has the bizarre object been",
+        "broken than you feel the air in the",
+        "labyrinth quickly cool!",
+        "[Page]",
+        "",
+        "It seems the cave is returning to its",
+        "original frigid temperature.",
+        ""
+      ],
+      "Translation": [
+        "Kaum habt Ihr das seltsame Objekt zerstört",
+        "kühlt sich die Luft im Labyrinth merklich ab!",
+        "[Page]",
+        "",
+        "Anscheinend sinkt die Temperatur in der",
+        "Höhle wieder auf ihre ursprünglichen,",
+        "frostige Grade.",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "There is a strange statue here shaped",
+        "like some animal.",
+        ""
+      ],
+      "Translation": [
+        "Hier befindet sich eine seltsame Statue",
+        "in der Form eines Tieres.",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": false,
+      "Original": [
+        "You are bound by sticky threads!",
+        ""
+      ],
+      "Translation": [
+        "Klebrige Fäden halten Euch fest!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "You manage to wriggle free of the",
+        "sticky threads.",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt es geschafft, euch von den",
+        "klebrigen Fäden zu befreien.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": false,
+      "Original": [
+        "The bizarre object is frozen, its",
+        "internal heat sapped by the cold.",
+        ""
+      ],
+      "Translation": [
+        "Das seltsame Objekt ist eingefroren. Seine",
+        "innere Hitze wurde von der Kälte verzehrt.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "The bizarre object is frozen, its",
+        "internal heat sapped by the cold.",
+        "[Page]",
+        "",
+        "You may be able to destroy it by",
+        "striking it with an [Color:6][Item:1215][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Das seltsame Objekt ist eingefroren. Seine",
+        "innere Hitze wurde von der Kälte verzehrt.",
+        "[Page]",
+        "",
+        "Vielleicht könnt Ihr es mit einem",
+        "[Color:6][Item:1215][Color:0] zerstören.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 129,
+      "IsIgnored": true,
+      "Original": [
+        "渦潮に船が捕らわれ、",
+        "船体が傷んでしまった!!!",
+        "[Page]",
+        "",
+        "街に帰ります。",
+        ""
+      ],
+      "Translation": [
+        "渦潮に船が捕らわれ、",
+        "船体が傷んでしまった!!!",
+        "[Page]",
+        "",
+        "街に帰ります。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": true,
+      "Original": [
+        "海賊船と接触し、",
+        "船体が傷んでしまった!!!",
+        "[Page]",
+        "",
+        "街に帰ります。",
+        ""
+      ],
+      "Translation": [
+        "海賊船と接触し、",
+        "船体が傷んでしまった!!!",
+        "[Page]",
+        "",
+        "街に帰ります。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": true,
+      "Original": [
+        "衝角で海賊船を撃破した!!!",
+        ""
+      ],
+      "Translation": [
+        "衝角で海賊船を撃破した!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": true,
+      "Original": [
+        "食料がもうありません。",
+        "街に帰りますか?",
+        ""
+      ],
+      "Translation": [
+        "食料がもうありません。",
+        "街に帰りますか?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 133,
+      "IsIgnored": true,
+      "Original": [
+        "航海を止め、街へ帰港しますか?",
+        ""
+      ],
+      "Translation": [
+        "航海を止め、街へ帰港しますか?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": true,
+      "Original": [
+        "街に帰ります。",
+        ""
+      ],
+      "Translation": [
+        "街に帰ります。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": true,
+      "Original": [
+        "海賊船を撃破した!!!",
+        ""
+      ],
+      "Translation": [
+        "海賊船を撃破した!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 136,
+      "IsIgnored": true,
+      "Original": [
+        "砲弾を放った先に海賊船は居なかった。",
+        ""
+      ],
+      "Translation": [
+        "砲弾を放った先に海賊船は居なかった。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 137,
+      "IsIgnored": true,
+      "Original": [
+        "砲弾は海賊船に命中した!",
+        "だが、海賊船の装甲は厚く、",
+        "沈めることは出来なかった!",
+        ""
+      ],
+      "Translation": [
+        "砲弾は海賊船に命中した!",
+        "だが、海賊船の装甲は厚く、",
+        "沈めることは出来なかった!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 138,
+      "IsIgnored": true,
+      "Original": [
+        "・・・",
+        ""
+      ],
+      "Translation": [
+        "・・・",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 139,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:6][Variable1:0][Color:0]を[Variable1:1][Variable1:2]",
+        "手に入れた。",
+        ""
+      ],
+      "Translation": [
+        "[Color:6][Variable1:0][Color:0]を[Variable1:1][Variable1:2]",
+        "手に入れた。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 140,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:9][Variable1:0][Color:0]を[Variable1:1][Variable1:2]",
+        "手に入れた!!!",
+        ""
+      ],
+      "Translation": [
+        "[Color:9][Variable1:0][Color:0]を[Variable1:1][Variable1:2]",
+        "手に入れた!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": true,
+      "Original": [
+        "・・・何も獲れなかった。",
+        ""
+      ],
+      "Translation": [
+        "・・・何も獲れなかった。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": true,
+      "Original": [
+        "[Variable1:0]への",
+        "航行ルートを開拓した!",
+        "[Page]",
+        "",
+        "次に航海する時より、",
+        "[Variable1:0]からも",
+        "航海を開始出来るようになります。",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]への",
+        "航行ルートを開拓した!",
+        "[Page]",
+        "",
+        "次に航海する時より、",
+        "[Variable1:0]からも",
+        "航海を開始出来るようになります。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": true,
+      "Original": [
+        "この先の海域は調査の対象外だ!",
+        ""
+      ],
+      "Translation": [
+        "この先の海域は調査の対象外だ!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:6][Variable1:0][Color:0]を",
+        "手に入れた。",
+        ""
+      ],
+      "Translation": [
+        "[Color:6][Variable1:0][Color:0]を",
+        "手に入れた。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:9][Variable1:0][Color:0]を",
+        "手に入れた!!!",
+        ""
+      ],
+      "Translation": [
+        "[Color:9][Variable1:0][Color:0]を",
+        "手に入れた!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": true,
+      "Original": [
+        "海賊船の残骸から何かが流れ着いた。",
+        "[Page]",
+        "",
+        "[Variable1:0]エン",
+        "を手に入れた。",
+        ""
+      ],
+      "Translation": [
+        "海賊船の残骸から何かが流れ着いた。",
+        "[Page]",
+        "",
+        "[Variable1:0]エン",
+        "を手に入れた。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 147,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:5]暗礁[Color:0]がある。",
+        "君たちの船の強度ではこの海域を",
+        "進むのは危険だ。",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]暗礁[Color:0]がある。",
+        "君たちの船の強度ではこの海域を",
+        "進むのは危険だ。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:5]藻海[Color:0]がある。",
+        "君たちの船では海藻に捕われず",
+        "進むことはできそうにない。",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]藻海[Color:0]がある。",
+        "君たちの船では海藻に捕われず",
+        "進むことはできそうにない。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 149,
+      "IsIgnored": true,
+      "Original": [
+        "交易船に衝突し、",
+        "船体が傷んでしまった!!!",
+        "[Page]",
+        "",
+        "街に帰ります。",
+        ""
+      ],
+      "Translation": [
+        "交易船に衝突し、",
+        "船体が傷んでしまった!!!",
+        "[Page]",
+        "",
+        "街に帰ります。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": true,
+      "Original": [
+        "交易船を撃破してしまった!!!",
+        ""
+      ],
+      "Translation": [
+        "交易船を撃破してしまった!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": true,
+      "Original": [
+        "水面下に勇魚の影が見える…",
+        ""
+      ],
+      "Translation": [
+        "水面下に勇魚の影が見える…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 156,
+      "IsIgnored": true,
+      "Original": [
+        "水面下に勇魚の影が見える…",
+        "手傷を負った為か",
+        "勇魚の動きは少し鈍い。",
+        ""
+      ],
+      "Translation": [
+        "水面下に勇魚の影が見える…",
+        "手傷を負った為か",
+        "勇魚の動きは少し鈍い。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 157,
+      "IsIgnored": true,
+      "Original": [
+        "水面下に勇魚の影が見える…",
+        "勇魚はかなり弱っているようだ!",
+        ""
+      ],
+      "Translation": [
+        "水面下に勇魚の影が見える…",
+        "勇魚はかなり弱っているようだ!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 158,
+      "IsIgnored": true,
+      "Original": [
+        "勇魚に銛を放ちますか?",
+        ""
+      ],
+      "Translation": [
+        "勇魚に銛を放ちますか?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 159,
+      "IsIgnored": true,
+      "Original": [
+        "銛がささってもがく勇魚の尾が",
+        "君たちの船底を直撃した!",
+        "船体が傷んでしまった!!!",
+        "[Page]",
+        "",
+        "街に帰ります。",
+        ""
+      ],
+      "Translation": [
+        "銛がささってもがく勇魚の尾が",
+        "君たちの船底を直撃した!",
+        "船体が傷んでしまった!!!",
+        "[Page]",
+        "",
+        "街に帰ります。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 160,
+      "IsIgnored": true,
+      "Original": [
+        "銛は勇魚の急所に直撃した!",
+        ""
+      ],
+      "Translation": [
+        "銛は勇魚の急所に直撃した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": true,
+      "Original": [
+        "勇魚にダメージを与えた!",
+        "だが、まだ勇魚の体力には",
+        "余裕がありそうだ…",
+        ""
+      ],
+      "Translation": [
+        "勇魚にダメージを与えた!",
+        "だが、まだ勇魚の体力には",
+        "余裕がありそうだ…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": true,
+      "Original": [
+        "勇魚にダメージを与えた!",
+        "勇魚の動きはかなり",
+        "鈍ってきている…",
+        ""
+      ],
+      "Translation": [
+        "勇魚にダメージを与えた!",
+        "勇魚の動きはかなり",
+        "鈍ってきている…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": true,
+      "Original": [
+        "勇魚にダメージを与えた!",
+        "あと一息でしとめられそうだ!",
+        ""
+      ],
+      "Translation": [
+        "勇魚にダメージを与えた!",
+        "あと一息でしとめられそうだ!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": true,
+      "Original": [
+        "君たちは勇魚を捕獲した!",
+        ""
+      ],
+      "Translation": [
+        "君たちは勇魚を捕獲した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": true,
+      "Original": [
+        "魚型の小さな旗の効果が発動!",
+        "新たな魚群を発見した!",
+        ""
+      ],
+      "Translation": [
+        "魚型の小さな旗の効果が発動!",
+        "新たな魚群を発見した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": true,
+      "Original": [
+        "大漁旗の効果が発動!",
+        "新たな魚群を発見した!",
+        ""
+      ],
+      "Translation": [
+        "大漁旗の効果が発動!",
+        "新たな魚群を発見した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": true,
+      "Original": [
+        "魚型の小さな旗と",
+        "大漁旗の効果が発動!",
+        "大漁の予感がする!!!",
+        ""
+      ],
+      "Translation": [
+        "魚型の小さな旗と",
+        "大漁旗の効果が発動!",
+        "大漁の予感がする!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": true,
+      "Original": [
+        "大きな大漁旗の効果が発動!",
+        "大漁の予感がする!!!",
+        ""
+      ],
+      "Translation": [
+        "大きな大漁旗の効果が発動!",
+        "大漁の予感がする!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": true,
+      "Original": [
+        "魚型の小さな旗と",
+        "大きな大漁旗の効果が発動!",
+        "大漁の予感がする!!!",
+        ""
+      ],
+      "Translation": [
+        "魚型の小さな旗と",
+        "大きな大漁旗の効果が発動!",
+        "大漁の予感がする!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": true,
+      "Original": [
+        "大漁旗と",
+        "大きな大漁旗の効果が発動!",
+        "大漁の予感がする!!!",
+        ""
+      ],
+      "Translation": [
+        "大漁旗と",
+        "大きな大漁旗の効果が発動!",
+        "大漁の予感がする!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 177,
+      "IsIgnored": true,
+      "Original": [
+        "魚型の小さな旗、大漁旗と",
+        "大きな大漁旗の効果が発動!",
+        "大漁の予感がする!!!",
+        ""
+      ],
+      "Translation": [
+        "魚型の小さな旗、大漁旗と",
+        "大きな大漁旗の効果が発動!",
+        "大漁の予感がする!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": true,
+      "Original": [
+        "南洋イルカの像の効果が発動!",
+        "新たなレア魚を発見した!",
+        ""
+      ],
+      "Translation": [
+        "南洋イルカの像の効果が発動!",
+        "新たなレア魚を発見した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "IsIgnored": true,
+      "Original": [
+        "南洋イルカの像の効果が発動!",
+        "新たなレア魚を大量に発見した!!!",
+        ""
+      ],
+      "Translation": [
+        "南洋イルカの像の効果が発動!",
+        "新たなレア魚を大量に発見した!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 183,
+      "IsIgnored": true,
+      "Original": [
+        "セドナの神像の効果が発動!",
+        "新たなレア魚を発見した!",
+        ""
+      ],
+      "Translation": [
+        "セドナの神像の効果が発動!",
+        "新たなレア魚を発見した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 184,
+      "IsIgnored": true,
+      "Original": [
+        "セドナの神像の効果が発動!",
+        "新たなレア魚を大量に発見した!!!",
+        ""
+      ],
+      "Translation": [
+        "セドナの神像の効果が発動!",
+        "新たなレア魚を大量に発見した!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 185,
+      "IsIgnored": true,
+      "Original": [
+        "南洋イルカの像と、",
+        "セドナの神像の効果が発動!",
+        "新たなレア魚を発見した!",
+        ""
+      ],
+      "Translation": [
+        "南洋イルカの像と、",
+        "セドナの神像の効果が発動!",
+        "新たなレア魚を発見した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 186,
+      "IsIgnored": true,
+      "Original": [
+        "南洋イルカの像と、",
+        "セドナの神像の効果が発動!",
+        "新たなレア魚を大量に発見した!!!",
+        ""
+      ],
+      "Translation": [
+        "南洋イルカの像と、",
+        "セドナの神像の効果が発動!",
+        "新たなレア魚を大量に発見した!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 191,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:6][Variable1:0][Color:0]を[Variable1:1][Variable1:2]手に入れ、",
+        "さらに[Variable1:3][Variable1:2]を",
+        "網の効果で手に入れた。",
+        ""
+      ],
+      "Translation": [
+        "[Color:6][Variable1:0][Color:0]を[Variable1:1][Variable1:2]手に入れ、",
+        "さらに[Variable1:3][Variable1:2]を",
+        "網の効果で手に入れた。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 192,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:9][Variable1:0][Color:0]を[Variable1:1][Variable1:2]手に入れ、",
+        "さらに[Variable1:3][Variable1:2]を",
+        "網の効果で手に入れた!!!",
+        ""
+      ],
+      "Translation": [
+        "[Color:9][Variable1:0][Color:0]を[Variable1:1][Variable1:2]手に入れ、",
+        "さらに[Variable1:3][Variable1:2]を",
+        "網の効果で手に入れた!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 193,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:6][Variable1:0][Color:0]を[Variable1:3][Variable1:2]",
+        "網の効果で手に入れた。",
+        ""
+      ],
+      "Translation": [
+        "[Color:6][Variable1:0][Color:0]を[Variable1:3][Variable1:2]",
+        "網の効果で手に入れた。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 194,
+      "IsIgnored": true,
+      "Original": [
+        "[Color:9][Variable1:0][Color:0]を[Variable1:3][Variable1:2]",
+        "網の効果で手に入れた!!!",
+        ""
+      ],
+      "Translation": [
+        "[Color:9][Variable1:0][Color:0]を[Variable1:3][Variable1:2]",
+        "網の効果で手に入れた!!!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 196,
+      "IsIgnored": true,
+      "Original": [
+        "海賊討伐旗・南海の効果発動!",
+        "新たな海賊船を発見した!",
+        ""
+      ],
+      "Translation": [
+        "海賊討伐旗・南海の効果発動!",
+        "新たな海賊船を発見した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 197,
+      "IsIgnored": true,
+      "Original": [
+        "海賊討伐旗・北海の効果発動!",
+        "新たな海賊船を発見した!",
+        ""
+      ],
+      "Translation": [
+        "海賊討伐旗・北海の効果発動!",
+        "新たな海賊船を発見した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 200,
+      "IsIgnored": true,
+      "Original": [
+        "通信エラーがありました",
+        "港へ戻ります",
+        ""
+      ],
+      "Translation": [
+        "通信エラーがありました",
+        "港へ戻ります",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 201,
+      "IsIgnored": false,
+      "Original": [
+        "You collided with an Imperial ship,",
+        "damaging your skyship!",
+        "[Page]",
+        "",
+        "You make an emergency retreat back",
+        "to Tharsis...",
+        ""
+      ],
+      "Translation": [
+        "Ihr seid mit einem imperialen Luftschiff",
+        "zusammengestoßen!",
+        "[Page]",
+        "",
+        "Ihr flüchtet zurück nach Tharsis…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 202,
+      "IsIgnored": false,
+      "Original": [
+        "You carelessly get caught up in a",
+        "nearby tornado!",
+        "[Page]",
+        "",
+        "You lose control of your skyship and",
+        "are unable to prevent it from crashing",
+        "due to the natural obstacle!",
+        ""
+      ],
+      "Translation": [
+        "Durch Euren Leichtsinn seid Ihr in",
+        "einen Wirbelsturm geraten!",
+        "[Page]",
+        "",
+        "Ihr verliert die Kontrolle über Euer",
+        "Luftschiff und könnt seinen Absturz",
+        "nicht verhindern!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 203,
+      "IsIgnored": false,
+      "Original": [
+        "You eat the [Variable2:0][Color:6][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Ihr esst das [Variable2:0][Color:6][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Notes": [
+        "Artikel…",
+        ""
+      ]
+    },
+    {
+      "ID": 204,
+      "IsIgnored": false,
+      "Original": [
+        "What could be here...?",
+        ""
+      ],
+      "Translation": [
+        "Was könnte sich hier befinden…?",
+        ""
+      ],
+      "Notes": [
+        "Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 205,
+      "IsIgnored": false,
+      "Original": [
+        "You obtain [Variable2:0][Color:6][Variable1:0][Color:0] x[Color:6][Variable1:1][Variable1:2][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Ihr erhaltet [Color:6][Variable1:1][Variable1:2][Color:0][Variable2:0][Color:6][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 206,
+      "IsIgnored": false,
+      "Original": [
+        "You obtain [Variable2:0][Color:6][Variable1:0][Color:0] x[Color:6][Variable1:1][Variable1:2][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Ihr erhaltet [Color:6][Variable1:1][Variable1:2][Color:0][Variable2:0][Color:6][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 207,
+      "IsIgnored": false,
+      "Original": [
+        "It seems you can gather yet more...!",
+        ""
+      ],
+      "Translation": [
+        "Es scheint, Ihr könnt noch mehr sammeln!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 208,
+      "IsIgnored": false,
+      "Original": [
+        "It seems to have been poisonous...",
+        "The party takes [Color:6][Variable1:0][Color:0] damage.",
+        ""
+      ],
+      "Translation": [
+        "Es scheint, als wäre es vergiftet gewesen…",
+        "Die Gruppe nimmt [Color:6][Variable1:0][Color:0] Schaden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 209,
+      "IsIgnored": false,
+      "Original": [
+        "The food's effect quickly takes hold!",
+        " ",
+        " Effect: ",
+        ""
+      ],
+      "Translation": [
+        "Der Effekt des Essens greift!",
+        "[Page]",
+        "",
+        " Effekt:",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 210,
+      "IsIgnored": false,
+      "Original": [
+        "You gasp as you realize that you have",
+        "carelessly entered the dragon's range",
+        "of attack...!",
+        ""
+      ],
+      "Translation": [
+        "Ihr erschreckt als Ihr bemerkt, dass Ihr",
+        "in Reichweite des Drachens geraten seid…!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 211,
+      "IsIgnored": false,
+      "Original": [
+        "The dragon seizes its chance and",
+        "smashes you along with your skyship!",
+        ""
+      ],
+      "Translation": [
+        "Der Drache ergreift seine Chance und",
+        "schlägt nach Euch und Eurem Luftschiff!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 212,
+      "IsIgnored": false,
+      "Original": [
+        "An [Color:6]Emergency Pole[Color:0] has been set.",
+        "You may use this spot as your base",
+        "and begin from here next time.",
+        ""
+      ],
+      "Translation": [
+        "Ein [Color:6]Notfallmast[Color:0] wurde gesetzt.",
+        "Ihr könnt diese Stelle als Eure Basis nutzen und",
+        "beim nächsten Mal von hier fortfahren.",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 213,
+      "IsIgnored": false,
+      "Original": [
+        "The skies past this point are outside",
+        "the bounds of your investigation!",
+        ""
+      ],
+      "Translation": [
+        "Der Himmel hinter diesem Punkt ist nicht",
+        "Teil Eurer Untersuchungen!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 214,
+      "IsIgnored": false,
+      "Original": [
+        "There is something on the ground...",
+        ""
+      ],
+      "Translation": [
+        "Hier befindet sich etwas am Boden…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 215,
+      "IsIgnored": false,
+      "Original": [
+        "You check this spot...",
+        ""
+      ],
+      "Translation": [
+        "Ihr untersucht die Stelle…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 216,
+      "IsIgnored": false,
+      "Original": [
+        "But you find nothing.",
+        ""
+      ],
+      "Translation": [
+        "Findet aber nichts.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 217,
+      "IsIgnored": false,
+      "Original": [
+        "Something is shining below... You find",
+        "the [Color:6][Variable1:0][Color:0] treasure!",
+        ""
+      ],
+      "Translation": [
+        "Etwas glänzt unter Euch… Ihr habt den",
+        "[Color:6][Variable1:0][Color:0]-Schatz gefunden!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 218,
+      "IsIgnored": false,
+      "Original": [
+        "It contains [Variable2:0][Color:6][Variable1:0][Color:0] x[Color:6][Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "Er enthält [Color:6][Variable1:1][Color:0] [Variable2:0][Color:6][Variable1:0][Color:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 219,
+      "IsIgnored": false,
+      "Original": [
+        "However, your inventory is full.",
+        "[Page]",
+        "",
+        "You are sadly left with no choice",
+        "but to leave the treasure where you",
+        "found it.",
+        ""
+      ],
+      "Translation": [
+        "Doch euer Inventar ist voll.",
+        "[Page]",
+        "",
+        "Leider habt Ihr keine andere Wahl",
+        "als den Schatz dort zu belassen,",
+        "wo Ihr ihn gefunden habt.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 220,
+      "IsIgnored": false,
+      "Original": [
+        "You obtained the contents!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt den Inhalt erhalten!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 221,
+      "IsIgnored": false,
+      "Original": [
+        "You give silent thanks to the",
+        "[Color:6][Variable1:0][Color:0] Guild for the clue to",
+        "this treasure's location...",
+        ""
+      ],
+      "Translation": [
+        "Still dankt Ihr der Gilde [Color:6][Variable1:0][Color:0],",
+        "von der Ihr den Hinweis auf die Lage dieses",
+        "Schatzes erhalten habt…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 222,
+      "IsIgnored": true,
+      "Original": [
+        "君たちの目前の壁は、随分と脆そうな岩で",
+        "形成されているようだ…。",
+        ""
+      ],
+      "Translation": [
+        "君たちの目前の壁は、随分と脆そうな岩で",
+        "形成されているようだ…。",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 223,
+      "IsIgnored": true,
+      "Original": [
+        "削岩機を使用した!",
+        ""
+      ],
+      "Translation": [
+        "削岩機を使用した!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 224,
+      "IsIgnored": true,
+      "Original": [
+        "しかし、正面に壊せるものが無かった!",
+        ""
+      ],
+      "Translation": [
+        "しかし、正面に壊せるものが無かった!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 225,
+      "IsIgnored": true,
+      "Original": [
+        "ここから先へ進めるようになった!",
+        ""
+      ],
+      "Translation": [
+        "ここから先へ進めるようになった!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 230,
+      "IsIgnored": false,
+      "Original": [
+        "The dictionary's effect changes",
+        "a number of the food points to",
+        "rare ones!",
+        ""
+      ],
+      "Translation": [
+        "Der Effekt des Lexikons verwandelt einige",
+        "Lebensmittelpunkte in seltene Punkte!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 235,
+      "IsIgnored": false,
+      "Original": [
+        "An Imperial skyship is closing in!",
+        ""
+      ],
+      "Translation": [
+        "Ein imperiales Luftschiff holt euch ein!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 236,
+      "IsIgnored": false,
+      "Original": [
+        "The Imperial warship's ruthless",
+        "assault swiftly brings down your",
+        "skyship!",
+        ""
+      ],
+      "Translation": [
+        "Der rücksichtlose Angriff des imperialen",
+        "Luftschiffs zwingt euer Luftschiff zur Landung!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 240,
+      "IsIgnored": false,
+      "Original": [
+        "The snowfall here is too heavy and",
+        "prevents you from ascending...",
+        ""
+      ],
+      "Translation": [
+        "Der Schneefall ist hier zu stark und",
+        "hindert euch am Aufstieg…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 241,
+      "IsIgnored": false,
+      "Original": [
+        "The effect of the [Color:6][Variable1:3][Color:0]",
+        "allows you to also supply",
+        "[Variable2:0][Color:6][Variable1:0][Color:0] x[Color:6][Variable1:1][Variable1:2][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Der Effekt des [Color:6][Variable1:3][Color:0]",
+        "erlaubt euch auch [Color:6][Variable1:1][Variable1:2][Color:0]",
+        "[Variable2:0][Color:6][Variable1:0][Color:0] bereitzustellen!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 242,
+      "IsIgnored": false,
+      "Original": [
+        "The effect of the [Color:6][Variable1:3][Color:0]",
+        "allows you to also supply",
+        "[Variable2:0][Color:6][Variable1:0][Color:0] x[Color:6][Variable1:1][Variable1:2][Color:0]!",
+        ""
+      ],
+      "Translation": [
+        "Der Effekt des [Color:6][Variable1:3][Color:0]",
+        "erlaubt euch auch [Color:6][Variable1:1][Variable1:2][Color:0]",
+        "[Variable2:0][Color:6][Variable1:0][Color:0] bereitzustellen!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 250,
+      "IsIgnored": false,
+      "Original": [
+        "The previous benefit fades as...",
+        ""
+      ],
+      "Translation": [
+        "Der vorherige Nutzen verschwindet als…",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 300,
+      "IsIgnored": false,
+      "Original": [
+        "This vegetation is frozen and cannot",
+        "be gathered.",
+        ""
+      ],
+      "Translation": [
+        "Die Vegetation hier ist gefroren und kann",
+        "nicht aufgesammelt werden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

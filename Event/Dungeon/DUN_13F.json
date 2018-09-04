@@ -1,0 +1,2008 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_13F",
+  "RelativePath": "Event\\Dungeon\\DUN_13F.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Open this door?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Open this door?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "The door before you bears an",
+        "inscription...",
+        "\"The mourner of twilight.\"",
+        "[Page]",
+        "",
+        "But the door is locked, and you",
+        "haven't the means to open it now.",
+        ""
+      ],
+      "Translation": [
+        "The door before you bears an",
+        "inscription...",
+        "\"The mourner of twilight.\"",
+        "[Page]",
+        "",
+        "But the door is locked, and you",
+        "haven't the means to open it now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "The door before you bears an",
+        "inscription...",
+        "\"The singer of the origin.\"",
+        "[Page]",
+        "",
+        "But the door is locked, and you",
+        "haven't the means to open it now.",
+        ""
+      ],
+      "Translation": [
+        "The door before you bears an",
+        "inscription...",
+        "\"The singer of the origin.\"",
+        "[Page]",
+        "",
+        "But the door is locked, and you",
+        "haven't the means to open it now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "The key you were given at the bar",
+        "seems to be meant for this door...",
+        "[Page]",
+        "",
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"The mourner of twilight.\"",
+        ""
+      ],
+      "Translation": [
+        "The key you were given at the bar",
+        "seems to be meant for this door...",
+        "[Page]",
+        "",
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"The mourner of twilight.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "When you insert the key and turn it,",
+        "you hear hidden machinery whirring",
+        "ominously to life!",
+        "[Page]",
+        "",
+        "A hail of countless arrows rains down",
+        "upon you from the machine while you",
+        "are defenseless!",
+        ""
+      ],
+      "Translation": [
+        "When you insert the key and turn it,",
+        "you hear hidden machinery whirring",
+        "ominously to life!",
+        "[Page]",
+        "",
+        "A hail of countless arrows rains down",
+        "upon you from the machine while you",
+        "are defenseless!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] loses 100 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] loses 100 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Eventually, the machine runs out of",
+        "bolts to fire... The whirring stops,",
+        "but your party is badly wounded.",
+        "[Page]",
+        "",
+        "It must have been a trap for thieves.",
+        "You vow to pay more attention to the",
+        "inscriptions on any other doors...",
+        ""
+      ],
+      "Translation": [
+        "Eventually, the machine runs out of",
+        "bolts to fire... The whirring stops,",
+        "but your party is badly wounded.",
+        "[Page]",
+        "",
+        "It must have been a trap for thieves.",
+        "You vow to pay more attention to the",
+        "inscriptions on any other doors...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "The key you were given at the bar",
+        "seems to be meant for this door...",
+        "[Page]",
+        "",
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"The singer of the origin.\"",
+        ""
+      ],
+      "Translation": [
+        "The key you were given at the bar",
+        "seems to be meant for this door...",
+        "[Page]",
+        "",
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"The singer of the origin.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "A tablet is inset on the wall before",
+        "you with a short engraving.",
+        "[Page]",
+        "",
+        "\"Wind that sways the grass and leaves.",
+        "What art thou?\"",
+        ""
+      ],
+      "Translation": [
+        "A tablet is inset on the wall before",
+        "you with a short engraving.",
+        "[Page]",
+        "",
+        "\"Wind that sways the grass and leaves.",
+        "What art thou?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "A tablet is inset on the wall before",
+        "you with a short engraving.",
+        "[Page]",
+        "",
+        "\"Water that crashes over the rocks.",
+        "What art thou?\"",
+        ""
+      ],
+      "Translation": [
+        "A tablet is inset on the wall before",
+        "you with a short engraving.",
+        "[Page]",
+        "",
+        "\"Water that crashes over the rocks.",
+        "What art thou?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "A tablet is inset on the wall before",
+        "you with a short engraving.",
+        "[Page]",
+        "",
+        "\"Flames that flicker passionately.",
+        "What art thou?\"",
+        ""
+      ],
+      "Translation": [
+        "A tablet is inset on the wall before",
+        "you with a short engraving.",
+        "[Page]",
+        "",
+        "\"Flames that flicker passionately.",
+        "What art thou?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "A tablet is inset on the wall before",
+        "you with a short engraving.",
+        "[Page]",
+        "",
+        "\"Earth that is never changing.",
+        "What art thou?\"",
+        ""
+      ],
+      "Translation": [
+        "A tablet is inset on the wall before",
+        "you with a short engraving.",
+        "[Page]",
+        "",
+        "\"Earth that is never changing.",
+        "What art thou?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"The benefactor of travellers.\"",
+        ""
+      ],
+      "Translation": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"The benefactor of travellers.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "When you open the door, a grinding",
+        "metallic sound echoes, and monsters",
+        "leap out at you!",
+        ""
+      ],
+      "Translation": [
+        "When you open the door, a grinding",
+        "metallic sound echoes, and monsters",
+        "leap out at you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "You manage to survive the monsters'",
+        "ambush... only for a new wave to",
+        "take their place!",
+        ""
+      ],
+      "Translation": [
+        "You manage to survive the monsters'",
+        "ambush... only for a new wave to",
+        "take their place!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "You withstand repeated waves of the",
+        "ambush, leaving your party utterly",
+        "exhausted...",
+        ""
+      ],
+      "Translation": [
+        "You withstand repeated waves of the",
+        "ambush, leaving your party utterly",
+        "exhausted...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"The deceiver of travellers.\"",
+        ""
+      ],
+      "Translation": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"The deceiver of travellers.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"One born from silence.\"",
+        ""
+      ],
+      "Translation": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"One born from silence.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "When you open the door, a hidden",
+        "mechanism triggers, releasing a cloud",
+        "of pinkish gas!",
+        "[Page]",
+        "",
+        "In your surprise, you cannot help but",
+        "inhale it directly, sending you into",
+        "a violent coughing fit!",
+        ""
+      ],
+      "Translation": [
+        "When you open the door, a hidden",
+        "mechanism triggers, releasing a cloud",
+        "of pinkish gas!",
+        "[Page]",
+        "",
+        "In your surprise, you cannot help but",
+        "inhale it directly, sending you into",
+        "a violent coughing fit!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party loses 300 TP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party loses 300 TP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "To make matters worse, just as you",
+        "recover from the gas, a horde of",
+        "monsters rushes towards you!",
+        ""
+      ],
+      "Translation": [
+        "To make matters worse, just as you",
+        "recover from the gas, a horde of",
+        "monsters rushes towards you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Though the strange gas robbed you of",
+        "your composure, you manage to fend off",
+        "the monstrous horde.",
+        "[Page]",
+        "",
+        "But your party is utterly exhausted...",
+        "If you are to keep going, you must",
+        "find a way to revitalize yourselves.",
+        ""
+      ],
+      "Translation": [
+        "Though the strange gas robbed you of",
+        "your composure, you manage to fend off",
+        "the monstrous horde.",
+        "[Page]",
+        "",
+        "But your party is utterly exhausted...",
+        "If you are to keep going, you must",
+        "find a way to revitalize yourselves.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"One born from chaos.\"",
+        ""
+      ],
+      "Translation": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"One born from chaos.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"One raised by the holy tree.\"",
+        ""
+      ],
+      "Translation": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"One raised by the holy tree.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "When you insert the key and turn it,",
+        "you hear hidden machinery whirring",
+        "ominously to life!",
+        "[Page]",
+        "",
+        "Countless arrows rain down upon you",
+        "from the machine while you are",
+        "defenseless!",
+        ""
+      ],
+      "Translation": [
+        "When you insert the key and turn it,",
+        "you hear hidden machinery whirring",
+        "ominously to life!",
+        "[Page]",
+        "",
+        "Countless arrows rain down upon you",
+        "from the machine while you are",
+        "defenseless!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] loses 100 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] loses 100 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "Just when you think the onslaught has",
+        "ended, another device activates and",
+        "spews pinkish gas at you!",
+        "[Page]",
+        "",
+        "You cannot help but inhale it directly",
+        "and fall into a violent coughing fit!",
+        ""
+      ],
+      "Translation": [
+        "Just when you think the onslaught has",
+        "ended, another device activates and",
+        "spews pinkish gas at you!",
+        "[Page]",
+        "",
+        "You cannot help but inhale it directly",
+        "and fall into a violent coughing fit!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party loses 300 TP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party loses 300 TP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "And as a crowning touch, a swarm of",
+        "monsters charges at you from beyond",
+        "the door!",
+        ""
+      ],
+      "Translation": [
+        "And as a crowning touch, a swarm of",
+        "monsters charges at you from beyond",
+        "the door!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "You pant heavily...",
+        "[Page]",
+        "",
+        "At last... you have survived the",
+        "seemingly endless gauntlet of",
+        "nightmarish traps...!",
+        "[Page]",
+        "",
+        "You head to the next door, critically",
+        "injured and barely able to stand...",
+        ""
+      ],
+      "Translation": [
+        "You pant heavily...",
+        "[Page]",
+        "",
+        "At last... you have survived the",
+        "seemingly endless gauntlet of",
+        "nightmarish traps...!",
+        "[Page]",
+        "",
+        "You head to the next door, critically",
+        "injured and barely able to stand...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"One who raises the holy tree.\"",
+        ""
+      ],
+      "Translation": [
+        "There is an inscription at the top",
+        "of the door's frame:",
+        "\"One who raises the holy tree.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "As you reach toward the door to",
+        "proceed with your exploration of the",
+        "old building, someone calls to you.",
+        ""
+      ],
+      "Translation": [
+        "As you reach toward the door to",
+        "proceed with your exploration of the",
+        "old building, someone calls to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Standing there is a soldier who must",
+        "have been dispatched from Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "Standing there is a soldier who must",
+        "have been dispatched from Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "Standing there are soldiers who must",
+        "have been dispatched from Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "Standing there are soldiers who must",
+        "have been dispatched from Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "The soldier nods to you, takes a step",
+        "back, and then another soldier moves",
+        "forward to speak.",
+        ""
+      ],
+      "Translation": [
+        "The soldier nods to you, takes a step",
+        "back, and then another soldier moves",
+        "forward to speak.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "\"It's been some time, [Guild]!",
+        "Do you remember me?\"",
+        "[Page]",
+        "",
+        "As you search your memory for his",
+        "identity, the soldier laughs before",
+        "continuing.",
+        "[Page]",
+        "",
+        "\"I know we must all look alike with",
+        "our helmets on. I'm the one you helped",
+        "find his way out of the Misty Ravine.",
+        "[Page]",
+        "",
+        "\"I heard that the [Guild] Guild,",
+        "who saved my life, were heading for a",
+        "decisive battle, so I came to help.\"",
+        "[Page]",
+        "",
+        "The soldier smiles as he takes out",
+        "a bottle of medicine and hands it",
+        "to you.",
+        ""
+      ],
+      "Translation": [
+        "\"It's been some time, [Guild]!",
+        "Do you remember me?\"",
+        "[Page]",
+        "",
+        "As you search your memory for his",
+        "identity, the soldier laughs before",
+        "continuing.",
+        "[Page]",
+        "",
+        "\"I know we must all look alike with",
+        "our helmets on. I'm the one you helped",
+        "find his way out of the Misty Ravine.",
+        "[Page]",
+        "",
+        "\"I heard that the [Guild] Guild,",
+        "who saved my life, were heading for a",
+        "decisive battle, so I came to help.\"",
+        "[Page]",
+        "",
+        "The soldier smiles as he takes out",
+        "a bottle of medicine and hands it",
+        "to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "\"Well then, good luck! I shall pray",
+        "for your victory!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Well then, good luck! I shall pray",
+        "for your victory!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "\"Long time no see. I'm still thankful",
+        "for your help back then... Haha, you",
+        "don't know who I am, do you?\"",
+        "[Page]",
+        "",
+        "\"We all look alike in this uniform.",
+        "I'm the poor soldier who got cut off",
+        "from his troop in the Golden Lair.",
+        "[Page]",
+        "",
+        "\"I'm here on orders from the Count,",
+        "but when I heard the [Guild] Guild",
+        "was here, I had to cheer you on.\"",
+        "[Page]",
+        "",
+        "The soldier scratches his cheek with",
+        "embarrassment and takes out a bottle",
+        "of medicine to hand to you.",
+        ""
+      ],
+      "Translation": [
+        "\"Long time no see. I'm still thankful",
+        "for your help back then... Haha, you",
+        "don't know who I am, do you?\"",
+        "[Page]",
+        "",
+        "\"We all look alike in this uniform.",
+        "I'm the poor soldier who got cut off",
+        "from his troop in the Golden Lair.",
+        "[Page]",
+        "",
+        "\"I'm here on orders from the Count,",
+        "but when I heard the [Guild] Guild",
+        "was here, I had to cheer you on.\"",
+        "[Page]",
+        "",
+        "The soldier scratches his cheek with",
+        "embarrassment and takes out a bottle",
+        "of medicine to hand to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "\"You better win and make it back to",
+        "Tharsis alive. A lot of soldiers in",
+        "my troop are big fans, you know.\"",
+        ""
+      ],
+      "Translation": [
+        "\"You better win and make it back to",
+        "Tharsis alive. A lot of soldiers in",
+        "my troop are big fans, you know.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "\"Hello, Guild [Guild]. I'd say it's",
+        "been a long time, but it hasn't",
+        "really, has it?\"",
+        "[Page]",
+        "",
+        "\"It must be difficult to tell one",
+        "soldier from another, but you gave me",
+        "the location of a certain book.\"",
+        "[Page]",
+        "",
+        "\"You should know that retrieving that",
+        "book earned me a promotion. Which gave",
+        "me the means to propose to my lady...",
+        "[Page]",
+        "",
+        "\"I owe you such a debt that I had to",
+        "come to offer what little support I",
+        "could. I'd like you to have this...\"",
+        "[Page]",
+        "",
+        "With that, the soldier takes a bottle",
+        "of medicine from his knapsack and",
+        "hands it to you.",
+        ""
+      ],
+      "Translation": [
+        "\"Hello, Guild [Guild]. I'd say it's",
+        "been a long time, but it hasn't",
+        "really, has it?\"",
+        "[Page]",
+        "",
+        "\"It must be difficult to tell one",
+        "soldier from another, but you gave me",
+        "the location of a certain book.\"",
+        "[Page]",
+        "",
+        "\"You should know that retrieving that",
+        "book earned me a promotion. Which gave",
+        "me the means to propose to my lady...",
+        "[Page]",
+        "",
+        "\"I owe you such a debt that I had to",
+        "come to offer what little support I",
+        "could. I'd like you to have this...\"",
+        "[Page]",
+        "",
+        "With that, the soldier takes a bottle",
+        "of medicine from his knapsack and",
+        "hands it to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "\"The situation may be hard now, but",
+        "let's both approach it with all we",
+        "can muster.\"",
+        ""
+      ],
+      "Translation": [
+        "\"The situation may be hard now, but",
+        "let's both approach it with all we",
+        "can muster.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "Your morale is redoubled by the",
+        "soldier's words and you decide to",
+        "resume your explorations.",
+        ""
+      ],
+      "Translation": [
+        "Your morale is redoubled by the",
+        "soldier's words and you decide to",
+        "resume your explorations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": false,
+      "Original": [
+        "Your morale is redoubled by the",
+        "soldiers' words and you decide to",
+        "resume your explorations.",
+        ""
+      ],
+      "Translation": [
+        "Your morale is redoubled by the",
+        "soldiers' words and you decide to",
+        "resume your explorations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "As you explore the labyrinth,",
+        "you notice a dead end that is more",
+        "brightly lit than other areas.",
+        "[Page]",
+        "",
+        "Looking around, you see that a lens-",
+        "like rock fixed near the ceiling is",
+        "amplifying the sunlight.",
+        "[Page]",
+        "",
+        "You have no way to know who made it",
+        "or why, but this spot bathed in the",
+        "warm sunshine is quite cozy.",
+        "[Page]",
+        "",
+        "You can rest here if you like,",
+        "though the atmosphere seems slightly",
+        "suspect and you may wish to leave.",
+        ""
+      ],
+      "Translation": [
+        "As you explore the labyrinth,",
+        "you notice a dead end that is more",
+        "brightly lit than other areas.",
+        "[Page]",
+        "",
+        "Looking around, you see that a lens-",
+        "like rock fixed near the ceiling is",
+        "amplifying the sunlight.",
+        "[Page]",
+        "",
+        "You have no way to know who made it",
+        "or why, but this spot bathed in the",
+        "warm sunshine is quite cozy.",
+        "[Page]",
+        "",
+        "You can rest here if you like,",
+        "though the atmosphere seems slightly",
+        "suspect and you may wish to leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "The spot where you stand is brighter",
+        "and warmer due to a lens-like stone",
+        "affixed near the ceiling.",
+        "[Page]",
+        "",
+        "You can rest here if you like,",
+        "though the atmosphere seems slightly",
+        "suspect and you may wish to leave.",
+        ""
+      ],
+      "Translation": [
+        "The spot where you stand is brighter",
+        "and warmer due to a lens-like stone",
+        "affixed near the ceiling.",
+        "[Page]",
+        "",
+        "You can rest here if you like,",
+        "though the atmosphere seems slightly",
+        "suspect and you may wish to leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Take a rest?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Take a rest?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "You set down your knapsacks for a",
+        "brief respite in this warm area...",
+        "[Page]",
+        "",
+        "The sun feels good on your skin...",
+        "[Page]",
+        "",
+        "Though you still cannot quite believe",
+        "the existence of such a safe haven,",
+        "you feel fully rested afterwards.",
+        ""
+      ],
+      "Translation": [
+        "You set down your knapsacks for a",
+        "brief respite in this warm area...",
+        "[Page]",
+        "",
+        "The sun feels good on your skin...",
+        "[Page]",
+        "",
+        "Though you still cannot quite believe",
+        "the existence of such a safe haven,",
+        "you feel fully rested afterwards.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The party recovers 200 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The party recovers 200 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "Fully aware that recklessness can put",
+        "one's life at risk in the labyrinth,",
+        "you decide to quickly walk away.",
+        ""
+      ],
+      "Translation": [
+        "Fully aware that recklessness can put",
+        "one's life at risk in the labyrinth,",
+        "you decide to quickly walk away.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "As you explore the labyrinth,",
+        "you notice a dead end that is more",
+        "brightly lit than other areas.",
+        "[Page]",
+        "",
+        "Looking around, you see that a lens-",
+        "like rock fixed near the ceiling is",
+        "amplifying the sunlight.",
+        "[Page]",
+        "",
+        "The sunlight radiating from that stone",
+        "tapers to a point, which shines upon",
+        "a single spot as if pointing it out.",
+        "[Page]",
+        "",
+        "You can examine where the shaft of",
+        "sunlight points, or be wary of a trap",
+        "and take your leave.",
+        ""
+      ],
+      "Translation": [
+        "As you explore the labyrinth,",
+        "you notice a dead end that is more",
+        "brightly lit than other areas.",
+        "[Page]",
+        "",
+        "Looking around, you see that a lens-",
+        "like rock fixed near the ceiling is",
+        "amplifying the sunlight.",
+        "[Page]",
+        "",
+        "The sunlight radiating from that stone",
+        "tapers to a point, which shines upon",
+        "a single spot as if pointing it out.",
+        "[Page]",
+        "",
+        "You can examine where the shaft of",
+        "sunlight points, or be wary of a trap",
+        "and take your leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "The spot where you stand is brighter",
+        "and warmer due to a lens-like stone",
+        "affixed near the ceiling.",
+        "[Page]",
+        "",
+        "A ray of light radiating from that",
+        "stone is shining upon a single spot",
+        "as if pointing it out...",
+        "[Page]",
+        "",
+        "You can examine where the shaft of",
+        "sunlight points, or be wary of a trap",
+        "and take your leave.",
+        ""
+      ],
+      "Translation": [
+        "The spot where you stand is brighter",
+        "and warmer due to a lens-like stone",
+        "affixed near the ceiling.",
+        "[Page]",
+        "",
+        "A ray of light radiating from that",
+        "stone is shining upon a single spot",
+        "as if pointing it out...",
+        "[Page]",
+        "",
+        "You can examine where the shaft of",
+        "sunlight points, or be wary of a trap",
+        "and take your leave.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Check the sunlit spot?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Check the sunlit spot?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "You inspect the spot of pavement",
+        "highlighted by the shaft of light",
+        "and realize that it is loose.",
+        "[Page]",
+        "",
+        "When you move the stone, there is a",
+        "hollow underneath filled with useful",
+        "equipment for your journey!",
+        ""
+      ],
+      "Translation": [
+        "You inspect the spot of pavement",
+        "highlighted by the shaft of light",
+        "and realize that it is loose.",
+        "[Page]",
+        "",
+        "When you move the stone, there is a",
+        "hollow underneath filled with useful",
+        "equipment for your journey!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": false,
+      "Original": [
+        "Knowing full well that a trap in the",
+        "labyrinth could claim your life, you",
+        "ignore it and proceed onward.",
+        ""
+      ],
+      "Translation": [
+        "Knowing full well that a trap in the",
+        "labyrinth could claim your life, you",
+        "ignore it and proceed onward.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

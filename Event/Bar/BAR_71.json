@@ -1,0 +1,239 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_71",
+  "RelativePath": "Event\\Bar\\BAR_71.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Get a load of what happened when I",
+        "was fishin' at a [Color:5]hidden lake to the",
+        "southwest of the Cloudy Stronghold[Color:0]!",
+        "[Page]",
+        "",
+        "Suddenly, this whopper of a turtle",
+        "I ain't never seen before attacked!",
+        "It was like to eat me!",
+        "[Page]",
+        "",
+        "I barely got out with my life, but no",
+        "one believes my story! They all want",
+        "some dadblamed proof!",
+        "[Page]",
+        "",
+        "So I want you fellers to whomp that",
+        "giant turtle and bring back its",
+        "[Color:5][Item:1051][Color:0] as proof.",
+        "[Page]",
+        "",
+        "It's nocturnal, so you'd best [Color:5]splash",
+        "some food around[Color:0] that hidden lake",
+        "round about [Color:5]midnight[Color:0].",
+        "[Page]",
+        "",
+        "I'm counting on you to make it happen!",
+        "Good luck to you.",
+        ""
+      ],
+      "Translation": [
+        "Get a load of what happened when I",
+        "was fishin' at a [Color:5]hidden lake to the",
+        "southwest of the Cloudy Stronghold[Color:0]!",
+        "[Page]",
+        "",
+        "Suddenly, this whopper of a turtle",
+        "I ain't never seen before attacked!",
+        "It was like to eat me!",
+        "[Page]",
+        "",
+        "I barely got out with my life, but no",
+        "one believes my story! They all want",
+        "some dadblamed proof!",
+        "[Page]",
+        "",
+        "So I want you fellers to whomp that",
+        "giant turtle and bring back its",
+        "[Color:5][Item:1051][Color:0] as proof.",
+        "[Page]",
+        "",
+        "It's nocturnal, so you'd best [Color:5]splash",
+        "some food around[Color:0] that hidden lake",
+        "round about [Color:5]midnight[Color:0].",
+        "[Page]",
+        "",
+        "I'm counting on you to make it happen!",
+        "Good luck to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You already have the [Color:6][Number:0][Color:0].",
+        "You need only report back to the",
+        "client and the request is complete!",
+        ""
+      ],
+      "Translation": [
+        "You already have the [Color:6][Number:0][Color:0].",
+        "You need only report back to the",
+        "client and the request is complete!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Round [Color:5]midnight[Color:0], splash some food",
+        "around that [Color:5]hidden lake to the",
+        "southwest of the Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "Though it's still up to chance whether",
+        "it shows. You'll just have to keep",
+        "the food coming 'til it does.",
+        "[Page]",
+        "",
+        "And if it does come around and you",
+        "manage to defeat it, but it doesn't",
+        "drop the [Color:5][Item:1051][Color:0]... Good luck!",
+        ""
+      ],
+      "Translation": [
+        "Round [Color:5]midnight[Color:0], splash some food",
+        "around that [Color:5]hidden lake to the",
+        "southwest of the Cloudy Stronghold[Color:0].",
+        "[Page]",
+        "",
+        "Though it's still up to chance whether",
+        "it shows. You'll just have to keep",
+        "the food coming 'til it does.",
+        "[Page]",
+        "",
+        "And if it does come around and you",
+        "manage to defeat it, but it doesn't",
+        "drop the [Color:5][Item:1051][Color:0]... Good luck!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Hey, how'd it go? You get yourselves",
+        "a [Color:5][Item:1051][Color:0]?",
+        ""
+      ],
+      "Translation": [
+        "Hey, how'd it go? You get yourselves",
+        "a [Color:5][Item:1051][Color:0]?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you have it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you have it?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Yep... that's a [Color:5][Item:1051][Color:0], sure as",
+        "shooting. I knew you fellers could",
+        "pull it off! Nice work!",
+        "[Page]",
+        "",
+        "I can't wait to take this and shove",
+        "it in the face of every so-and-so",
+        "who called me a liar!",
+        "[Page]",
+        "",
+        "I can't thank you enough for this.",
+        "That's all for my request! Be sure",
+        "to tell the little lady you're done!",
+        ""
+      ],
+      "Translation": [
+        "Yep... that's a [Color:5][Item:1051][Color:0], sure as",
+        "shooting. I knew you fellers could",
+        "pull it off! Nice work!",
+        "[Page]",
+        "",
+        "I can't wait to take this and shove",
+        "it in the face of every so-and-so",
+        "who called me a liar!",
+        "[Page]",
+        "",
+        "I can't thank you enough for this.",
+        "That's all for my request! Be sure",
+        "to tell the little lady you're done!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "If you could keep my request to you",
+        "under the hat, I'd mighty appreciate",
+        "it. I'll tell people I caught it! Ha!",
+        ""
+      ],
+      "Translation": [
+        "If you could keep my request to you",
+        "under the hat, I'd mighty appreciate",
+        "it. I'll tell people I caught it! Ha!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, that's fine. I'll be waiting here",
+        "as long as it takes.",
+        ""
+      ],
+      "Translation": [
+        "Ah, that's fine. I'll be waiting here",
+        "as long as it takes.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

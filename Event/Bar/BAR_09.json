@@ -1,0 +1,659 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_09",
+  "RelativePath": "Event\\Bar\\BAR_09.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "*gasp* You...! A-Are you here for the",
+        "request about the Snow Garden...?",
+        ""
+      ],
+      "Translation": [
+        "*gasp* You...! A-Are you here for the",
+        "request about the Snow Garden...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Is that why you are here?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Is that why you are here?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Oh! I... I'm sorry I was so quick to",
+        "judge. Please excuse me.",
+        ""
+      ],
+      "Translation": [
+        "Oh! I... I'm sorry I was so quick to",
+        "judge. Please excuse me.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, I knew it! I just looked at you",
+        "and had a hunch that you would be",
+        "the ones!",
+        "[Page]",
+        "",
+        "But enough introductions, let me get",
+        "right to the point. Are you all",
+        "familiar with the [Color:5]snow flowers[Color:0]?",
+        ""
+      ],
+      "Translation": [
+        "Oh, I knew it! I just looked at you",
+        "and had a hunch that you would be",
+        "the ones!",
+        "[Page]",
+        "",
+        "But enough introductions, let me get",
+        "right to the point. Are you all",
+        "familiar with the [Color:5]snow flowers[Color:0]?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you know of them?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you know of them?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Oh... so you don't know about them.",
+        "Sorry... It's a rare flower that only",
+        "blooms in that silvery white land.",
+        ""
+      ],
+      "Translation": [
+        "Oh... so you don't know about them.",
+        "Sorry... It's a rare flower that only",
+        "blooms in that silvery white land.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, I knew it! I had a hunch you guys",
+        "would know what I was talking about.",
+        "I just felt so sure all of a sudden!",
+        ""
+      ],
+      "Translation": [
+        "Oh, I knew it! I had a hunch you guys",
+        "would know what I was talking about.",
+        "I just felt so sure all of a sudden!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "The snow flowers were seen recently",
+        "in the [Color:5]Sacred Mountains[Color:0] while it was",
+        "being explored.",
+        "[Page]",
+        "",
+        "That's right! It's literally a [Color:5]Snow",
+        "Garden[Color:0]! You know I'm an artist, right?",
+        "I want to capture it in a painting!",
+        "[Page]",
+        "",
+        "From what I heard, the garden is in",
+        "the [Color:5]northwest area[Color:0] of the Sacred",
+        "Mountains. Yes, that's all I know...",
+        "[Page]",
+        "",
+        "But it would be great if you could",
+        "find where it is and tell me! Can I",
+        "request that of you?",
+        ""
+      ],
+      "Translation": [
+        "The snow flowers were seen recently",
+        "in the [Color:5]Sacred Mountains[Color:0] while it was",
+        "being explored.",
+        "[Page]",
+        "",
+        "That's right! It's literally a [Color:5]Snow",
+        "Garden[Color:0]! You know I'm an artist, right?",
+        "I want to capture it in a painting!",
+        "[Page]",
+        "",
+        "From what I heard, the garden is in",
+        "the [Color:5]northwest area[Color:0] of the Sacred",
+        "Mountains. Yes, that's all I know...",
+        "[Page]",
+        "",
+        "But it would be great if you could",
+        "find where it is and tell me! Can I",
+        "request that of you?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Accept her request?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Accept her request?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Oh! Is there anything I can do to",
+        "change your minds!?",
+        ""
+      ],
+      "Translation": [
+        "Oh! Is there anything I can do to",
+        "change your minds!?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, just as I thought! I had a funny",
+        "feeling you would accept. It just...",
+        "came to me all of a sudden.",
+        "[Page]",
+        "",
+        "But oh, if you know where it is",
+        "already, it's okay if you just tell",
+        "me now. Thanks!",
+        ""
+      ],
+      "Translation": [
+        "Ah, just as I thought! I had a funny",
+        "feeling you would accept. It just...",
+        "came to me all of a sudden.",
+        "[Page]",
+        "",
+        "But oh, if you know where it is",
+        "already, it's okay if you just tell",
+        "me now. Thanks!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, um... is there something you need",
+        "from me?",
+        ""
+      ],
+      "Translation": [
+        "Oh, um... is there something you need",
+        "from me?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you need something from her?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you need something from her?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Oh! Sorry, I can be so quick to judge.",
+        "You spoke to me, so I thought...",
+        ""
+      ],
+      "Translation": [
+        "Oh! Sorry, I can be so quick to judge.",
+        "You spoke to me, so I thought...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Aha! I knew it. It was strange, I just",
+        "all of a sudden had a hunch that you'd",
+        "have some business with me.",
+        "[Page]",
+        "",
+        "So, how can I be of service?",
+        ""
+      ],
+      "Translation": [
+        "Aha! I knew it. It was strange, I just",
+        "all of a sudden had a hunch that you'd",
+        "have some business with me.",
+        "[Page]",
+        "",
+        "So, how can I be of service?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]How will you respond?[Color:0]",
+        "I found the Snow Garden",
+        "I don't need anything",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]How will you respond?[Color:0]",
+        "I found the Snow Garden",
+        "I don't need anything",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Ummm, all I've heard is that it was",
+        "seen in the [Color:5]northwest area[Color:0] of the",
+        "[Color:5]Sacred Mountains[Color:0].",
+        "[Page]",
+        "",
+        "Although I did hear something about it",
+        "[Color:5]attracting birds or fish[Color:0]... I wonder",
+        "how that applies to the Snow Garden.",
+        "[Page]",
+        "",
+        "And of course, the snow flowers shine",
+        "when the sunlight hits them, so you'll",
+        "only find it during the [Color:5]day[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Ummm, all I've heard is that it was",
+        "seen in the [Color:5]northwest area[Color:0] of the",
+        "[Color:5]Sacred Mountains[Color:0].",
+        "[Page]",
+        "",
+        "Although I did hear something about it",
+        "[Color:5]attracting birds or fish[Color:0]... I wonder",
+        "how that applies to the Snow Garden.",
+        "[Page]",
+        "",
+        "And of course, the snow flowers shine",
+        "when the sunlight hits them, so you'll",
+        "only find it during the [Color:5]day[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Is... Is that true!?",
+        ""
+      ],
+      "Translation": [
+        "Is... Is that true!?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Is it true?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Is it true?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Oh! My hopes... dashed... My racing",
+        "heart feels so empty now...",
+        ""
+      ],
+      "Translation": [
+        "Oh! My hopes... dashed... My racing",
+        "heart feels so empty now...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, I thought so! I just had this",
+        "hunch you'd found it. It was the",
+        "oddest thing!",
+        "[Page]",
+        "",
+        "But quick, point it out to me on",
+        "your map!",
+        ""
+      ],
+      "Translation": [
+        "Ah, I thought so! I just had this",
+        "hunch you'd found it. It was the",
+        "oddest thing!",
+        "[Page]",
+        "",
+        "But quick, point it out to me on",
+        "your map!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "A-All right! Got it! I'll go look for",
+        "it right away!",
+        ""
+      ],
+      "Translation": [
+        "A-All right! Got it! I'll go look for",
+        "it right away!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "I-It was there! The Snow Garden was",
+        "right where you said!",
+        "[Page]",
+        "",
+        "Snow flowers are rare because water",
+        "can only harden into that crystal",
+        "shape in places where the air is thin.",
+        "[Page]",
+        "",
+        "For that many flowers to \"bloom\"",
+        "in one place... it just proves how",
+        "amazing the Sacred Mountains are!",
+        "[Page]",
+        "",
+        "There were monsters all around it, so",
+        "there was no good way to capture its",
+        "beauty, but...",
+        "[Page]",
+        "",
+        "I was happy just to see it for myself!",
+        "I already dropped off the reward, so",
+        "you can go accept it whenever!",
+        ""
+      ],
+      "Translation": [
+        "I-It was there! The Snow Garden was",
+        "right where you said!",
+        "[Page]",
+        "",
+        "Snow flowers are rare because water",
+        "can only harden into that crystal",
+        "shape in places where the air is thin.",
+        "[Page]",
+        "",
+        "For that many flowers to \"bloom\"",
+        "in one place... it just proves how",
+        "amazing the Sacred Mountains are!",
+        "[Page]",
+        "",
+        "There were monsters all around it, so",
+        "there was no good way to capture its",
+        "beauty, but...",
+        "[Page]",
+        "",
+        "I was happy just to see it for myself!",
+        "I already dropped off the reward, so",
+        "you can go accept it whenever!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "I just got back... Do you think I",
+        "found the Snow Garden?",
+        ""
+      ],
+      "Translation": [
+        "I just got back... Do you think I",
+        "found the Snow Garden?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Do you think she found it?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Do you think she found it?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Well, I didn't! It wasn't there! Not",
+        "a single trace of it! Just monsters!",
+        "I almost died!",
+        ""
+      ],
+      "Translation": [
+        "Well, I didn't! It wasn't there! Not",
+        "a single trace of it! Just monsters!",
+        "I almost died!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "No!? You didn't think I'd find it",
+        "there? I don't understand. So you",
+        "were fooling me all along!?",
+        ""
+      ],
+      "Translation": [
+        "No!? You didn't think I'd find it",
+        "there? I don't understand. So you",
+        "were fooling me all along!?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Ah! I'm about to pass out from the",
+        "shock! You promised me you'd find",
+        "the garden...!",
+        ""
+      ],
+      "Translation": [
+        "Ah! I'm about to pass out from the",
+        "shock! You promised me you'd find",
+        "the garden...!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Thanks to all of you, I've seen a",
+        "miracle of nature with my own eyes.",
+        "You're the best!",
+        "[Page]",
+        "",
+        "Now please accept the reward I left",
+        "with the bartender.",
+        ""
+      ],
+      "Translation": [
+        "Thanks to all of you, I've seen a",
+        "miracle of nature with my own eyes.",
+        "You're the best!",
+        "[Page]",
+        "",
+        "Now please accept the reward I left",
+        "with the bartender.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

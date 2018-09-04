@@ -1,0 +1,155 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_23",
+  "RelativePath": "Event\\Bar\\BAR_23.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Did you folks hear? They've finally",
+        "made it down to [Color:5]B3F[Color:0]... unexplored",
+        "territory in the Lush Woodlands.",
+        "[Page]",
+        "",
+        "This upstart guild called [Guild]",
+        "is supposed to have done it.",
+        "[Page]",
+        "",
+        "We can't let them show us up.",
+        "Look out, red bears! Me and my clan",
+        "are coming to get you!",
+        ""
+      ],
+      "Translation": [
+        "Did you folks hear? They've finally",
+        "made it down to [Color:5]B3F[Color:0]... unexplored",
+        "territory in the Lush Woodlands.",
+        "[Page]",
+        "",
+        "This upstart guild called [Guild]",
+        "is supposed to have done it.",
+        "[Page]",
+        "",
+        "We can't let them show us up.",
+        "Look out, red bears! Me and my clan",
+        "are coming to get you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Have you met the [Color:5]Vessels[Color:0]? I came",
+        "across them when I was exploring",
+        "the Ravine at night.",
+        "[Page]",
+        "",
+        "Those poisonous claws and long tails",
+        "of theirs... They were howling so",
+        "madly, I couldn't get a word in.",
+        "[Page]",
+        "",
+        "I got scared and hit one without",
+        "thinking. I guess I wasn't keeping",
+        "enough of an open mind...",
+        ""
+      ],
+      "Translation": [
+        "Have you met the [Color:5]Vessels[Color:0]? I came",
+        "across them when I was exploring",
+        "the Ravine at night.",
+        "[Page]",
+        "",
+        "Those poisonous claws and long tails",
+        "of theirs... They were howling so",
+        "madly, I couldn't get a word in.",
+        "[Page]",
+        "",
+        "I got scared and hit one without",
+        "thinking. I guess I wasn't keeping",
+        "enough of an open mind...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, hello. Is everything going okay",
+        "with your trips to the Echoing",
+        "Library?",
+        "[Page]",
+        "",
+        "I was curious about the path that",
+        "lies ahead of the [Color:5]dog statue[Color:0] in that",
+        "labyrinth.",
+        "[Page]",
+        "",
+        "Even I, the strongest one in my guild,",
+        "couldn't budge it. How do you get that",
+        "thing to move...?",
+        ""
+      ],
+      "Translation": [
+        "Oh, hello. Is everything going okay",
+        "with your trips to the Echoing",
+        "Library?",
+        "[Page]",
+        "",
+        "I was curious about the path that",
+        "lies ahead of the [Color:5]dog statue[Color:0] in that",
+        "labyrinth.",
+        "[Page]",
+        "",
+        "Even I, the strongest one in my guild,",
+        "couldn't budge it. How do you get that",
+        "thing to move...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "We've started exploring the Forgotten",
+        "Capital full-tilt now. It's going",
+        "decently, except for that [Color:5]door[Color:0]...",
+        "[Page]",
+        "",
+        "The mechanism to open it is so complex",
+        "that no one can figure it out.",
+        "[Page]",
+        "",
+        "Certainly not a dope like me!",
+        ""
+      ],
+      "Translation": [
+        "We've started exploring the Forgotten",
+        "Capital full-tilt now. It's going",
+        "decently, except for that [Color:5]door[Color:0]...",
+        "[Page]",
+        "",
+        "The mechanism to open it is so complex",
+        "that no one can figure it out.",
+        "[Page]",
+        "",
+        "Certainly not a dope like me!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

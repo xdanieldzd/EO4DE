@@ -1,0 +1,745 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_008",
+  "RelativePath": "Event\\QR\\QR_008.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You will take this request? The client",
+        "needs certain minerals.",
+        ""
+      ],
+      "Translation": [
+        "You will take this request? The client",
+        "needs certain minerals.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]mined[Color:0] on [Color:5]B[Number:0]F[Color:0] of the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]mined[Color:0] on [Color:5]B[Number:0]F[Color:0] of the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]mined[Color:0] in the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]mined[Color:0] in the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "You will take this request? The client",
+        "is hiring explorers to gather certain",
+        "materials.",
+        ""
+      ],
+      "Translation": [
+        "You will take this request? The client",
+        "is hiring explorers to gather certain",
+        "materials.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]gathered[Color:0] on [Color:5]B[Number:0]F[Color:0] of the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]gathered[Color:0] on [Color:5]B[Number:0]F[Color:0] of the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]gathered[Color:0] in the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]gathered[Color:0] in the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "You will take this request? The client",
+        "is hiring explorers to chop certain",
+        "kinds of wood.",
+        ""
+      ],
+      "Translation": [
+        "You will take this request? The client",
+        "is hiring explorers to chop certain",
+        "kinds of wood.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]chopped[Color:0] on [Color:5]B[Number:0]F[Color:0] of the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]chopped[Color:0] on [Color:5]B[Number:0]F[Color:0] of the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]chopped[Color:0] in the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0],",
+        "which can be [Color:5]chopped[Color:0] in the",
+        "[Color:5][Location][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "I am counting on you. Good luck,",
+        "[Guild] Guild, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "I am counting on you. Good luck,",
+        "[Guild] Guild, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You will take this request? The client",
+        "is hiring explorers to gather certain",
+        "materials.",
+        "[Page]",
+        "",
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0]",
+        "and [Color:6][Item2:1][Color:0] x[Color:5][Count:3][Color:0].",
+        ""
+      ],
+      "Translation": [
+        "You will take this request? The client",
+        "is hiring explorers to gather certain",
+        "materials.",
+        "[Page]",
+        "",
+        "You must find [Color:6][Item2:0][Color:0] x[Color:5][Count:2][Color:0]",
+        "and [Color:6][Item2:1][Color:0] x[Color:5][Count:3][Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "The materials can be gathered on",
+        "[Color:5]B[Number:0]F[Color:0] of the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "I am counting on you. Good luck,",
+        "[Guild] Guild, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "The materials can be gathered on",
+        "[Color:5]B[Number:0]F[Color:0] of the [Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "I am counting on you. Good luck,",
+        "[Guild] Guild, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "The materials can be gathered in the",
+        "[Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "I am counting on you. Good luck,",
+        "[Guild] Guild, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "The materials can be gathered in the",
+        "[Color:5][Location][Color:0].",
+        "[Page]",
+        "",
+        "I am counting on you. Good luck,",
+        "[Guild] Guild, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "After accepting the request, you",
+        "recall that you already have the",
+        "[Color:6][Item2:0][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to complete the request,",
+        "you need only report to the bar and",
+        "deliver the [Item2:0].",
+        ""
+      ],
+      "Translation": [
+        "After accepting the request, you",
+        "recall that you already have the",
+        "[Color:6][Item2:0][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to complete the request,",
+        "you need only report to the bar and",
+        "deliver the [Item2:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You suddenly recall that you already",
+        "have the [Color:6][Item2:0][Color:0] and",
+        "[Color:6][Item2:1][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to complete the request,",
+        "you need only report to the bar and",
+        "deliver the materials.",
+        ""
+      ],
+      "Translation": [
+        "You suddenly recall that you already",
+        "have the [Color:6][Item2:0][Color:0] and",
+        "[Color:6][Item2:1][Color:0].",
+        "[Page]",
+        "",
+        "If you wish to complete the request,",
+        "you need only report to the bar and",
+        "deliver the materials.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Have you brought the",
+        "materials for the client?",
+        "[Page]",
+        "",
+        "Yes... it is all here. I shall make",
+        "certain this gets to the client.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Have you brought the",
+        "materials for the client?",
+        "[Page]",
+        "",
+        "Yes... it is all here. I shall make",
+        "certain this gets to the client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Well then, I again thank you for your",
+        "hard work. I hope to employ your",
+        "services in future requests as well.",
+        ""
+      ],
+      "Translation": [
+        "Well then, I again thank you for your",
+        "hard work. I hope to employ your",
+        "services in future requests as well.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You have the needed [Color:6][Item2:0][Color:0].",
+        "All that remains is to deliver it",
+        "to the bar.",
+        ""
+      ],
+      "Translation": [
+        "You have the needed [Color:6][Item2:0][Color:0].",
+        "All that remains is to deliver it",
+        "to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "You now have the needed materials.",
+        "All that remains is to deliver them",
+        "to the bar.",
+        ""
+      ],
+      "Translation": [
+        "You now have the needed materials.",
+        "All that remains is to deliver them",
+        "to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "You recall accepting a request to",
+        "deliver the [Color:6][Item2:0][Color:0]...",
+        "[Page]",
+        "",
+        "You have it on your person right now.",
+        "If you intend to fulfill the request,",
+        "you must take care not to sell it.",
+        ""
+      ],
+      "Translation": [
+        "You recall accepting a request to",
+        "deliver the [Color:6][Item2:0][Color:0]...",
+        "[Page]",
+        "",
+        "You have it on your person right now.",
+        "If you intend to fulfill the request,",
+        "you must take care not to sell it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "You recall accepting a request to",
+        "deliver the [Color:6][Item2:0][Color:0]",
+        "and [Color:6][Item2:1][Color:0]...",
+        "[Page]",
+        "",
+        "You have them on your person right.",
+        "If you intend to fulfill the request,",
+        "you must take care not to sell them.",
+        ""
+      ],
+      "Translation": [
+        "You recall accepting a request to",
+        "deliver the [Color:6][Item2:0][Color:0]",
+        "and [Color:6][Item2:1][Color:0]...",
+        "[Page]",
+        "",
+        "You have them on your person right.",
+        "If you intend to fulfill the request,",
+        "you must take care not to sell them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_037",
+  "RelativePath": "Event\\QR\\QR_037.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Then you will take this request?",
+        "The client is the city clinic...",
+        "They need ingredients for medicine.",
+        "[Page]",
+        "",
+        "A wounded explorer was carried in the",
+        "other day from the Sacred Mountains.",
+        "[Page]",
+        "",
+        "His wounds were quickly treated, but",
+        "he seems to have contracted a malady",
+        "that is beyond modern medicine.",
+        "[Page]",
+        "",
+        "Ancient medicine, however, is another",
+        "story. The medics found a treatment",
+        "in a book from the Echoing Library.",
+        "[Page]",
+        "",
+        "Your role will be to bring back the",
+        "[Color:5]three[Color:0] [Color:6][Item:1066][Color:0]s necessary to brew",
+        "the medicine.",
+        "[Page]",
+        "",
+        "The [Color:5][Enemy1:63][Color:0] from which they are",
+        "derived lurks in the hidden areas of",
+        "the [Color:5]Golden Lair[Color:0] and [Color:5]Misty Ravine[Color:0].",
+        "[Page]",
+        "",
+        "It will be up to you to ensure that",
+        "the light of hope they found is not",
+        "extinguished...",
+        ""
+      ],
+      "Translation": [
+        "Then you will take this request?",
+        "The client is the city clinic...",
+        "They need ingredients for medicine.",
+        "[Page]",
+        "",
+        "A wounded explorer was carried in the",
+        "other day from the Sacred Mountains.",
+        "[Page]",
+        "",
+        "His wounds were quickly treated, but",
+        "he seems to have contracted a malady",
+        "that is beyond modern medicine.",
+        "[Page]",
+        "",
+        "Ancient medicine, however, is another",
+        "story. The medics found a treatment",
+        "in a book from the Echoing Library.",
+        "[Page]",
+        "",
+        "Your role will be to bring back the",
+        "[Color:5]three[Color:0] [Color:6][Item:1066][Color:0]s necessary to brew",
+        "the medicine.",
+        "[Page]",
+        "",
+        "The [Color:5][Enemy1:63][Color:0] from which they are",
+        "derived lurks in the hidden areas of",
+        "the [Color:5]Golden Lair[Color:0] and [Color:5]Misty Ravine[Color:0].",
+        "[Page]",
+        "",
+        "It will be up to you to ensure that",
+        "the light of hope they found is not",
+        "extinguished...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "You recall now that you already have",
+        "the necessary number of [Color:6][Number:0][Color:0]s.",
+        "[Page]",
+        "",
+        "You may complete the quest simply",
+        "by reporting in and handing over",
+        "the [Number:0]s.",
+        ""
+      ],
+      "Translation": [
+        "You recall now that you already have",
+        "the necessary number of [Color:6][Number:0][Color:0]s.",
+        "[Page]",
+        "",
+        "You may complete the quest simply",
+        "by reporting in and handing over",
+        "the [Number:0]s.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Ah, are these the",
+        "[Item:1066]s the medics required? The",
+        "time has come for their part in this.",
+        "[Page]",
+        "",
+        "I am sure you know better than I how",
+        "skilled the medics of Tharsis are.",
+        "[Page]",
+        "",
+        "All we can do now is pray for the",
+        "patient to recover. I again thank",
+        "you for your hard work.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Ah, are these the",
+        "[Item:1066]s the medics required? The",
+        "time has come for their part in this.",
+        "[Page]",
+        "",
+        "I am sure you know better than I how",
+        "skilled the medics of Tharsis are.",
+        "[Page]",
+        "",
+        "All we can do now is pray for the",
+        "patient to recover. I again thank",
+        "you for your hard work.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "The [Color:6][Item:1066][Color:0] you have just obtained",
+        "marks the last of the ones you need",
+        "for the medics' purposes!",
+        "[Page]",
+        "",
+        "The request is now complete! You need",
+        "only return to the bar to deliver",
+        "the materials.",
+        ""
+      ],
+      "Translation": [
+        "The [Color:6][Item:1066][Color:0] you have just obtained",
+        "marks the last of the ones you need",
+        "for the medics' purposes!",
+        "[Page]",
+        "",
+        "The request is now complete! You need",
+        "only return to the bar to deliver",
+        "the materials.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You recall that you have undertaken",
+        "a request to deliver [Color:5]three[Color:0]",
+        "[Color:6][Number:0][Color:0]s...",
+        "[Page]",
+        "",
+        "You have them on you now. You must",
+        "be careful not to sell them and put",
+        "the request in jeopardy...",
+        ""
+      ],
+      "Translation": [
+        "You recall that you have undertaken",
+        "a request to deliver [Color:5]three[Color:0]",
+        "[Color:6][Number:0][Color:0]s...",
+        "[Page]",
+        "",
+        "You have them on you now. You must",
+        "be careful not to sell them and put",
+        "the request in jeopardy...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

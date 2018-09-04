@@ -1,0 +1,56 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_52",
+  "RelativePath": "Event\\Bar\\BAR_52.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "I've been holding this [Color:6][Item:1215][Color:0] so",
+        "long, I've got an ice burn... Ironic",
+        "for a fire specialist like me, no?",
+        "[Page]",
+        "",
+        "Our guild doesn't have anybody who",
+        "uses ice runes, so when we fight fire",
+        "monsters, we need these [Item:1215]s.",
+        "[Page]",
+        "",
+        "Since fire runes are all I know,",
+        "throwing these stakes is the only",
+        "way I can contribute during a battle.",
+        "[Page]",
+        "",
+        "But just show me a plant monster or",
+        "an oil monster, and then you'll see",
+        "me really start to cook...",
+        ""
+      ],
+      "Translation": [
+        "I've been holding this [Color:6][Item:1215][Color:0] so",
+        "long, I've got an ice burn... Ironic",
+        "for a fire specialist like me, no?",
+        "[Page]",
+        "",
+        "Our guild doesn't have anybody who",
+        "uses ice runes, so when we fight fire",
+        "monsters, we need these [Item:1215]s.",
+        "[Page]",
+        "",
+        "Since fire runes are all I know,",
+        "throwing these stakes is the only",
+        "way I can contribute during a battle.",
+        "[Page]",
+        "",
+        "But just show me a plant monster or",
+        "an oil monster, and then you'll see",
+        "me really start to cook...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

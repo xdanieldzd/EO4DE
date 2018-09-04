@@ -1,0 +1,189 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_06",
+  "RelativePath": "Event\\Bar\\BAR_06.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "So you accepted my request... Then I",
+        "beg of you! Please avenge my comrades!",
+        "[Page]",
+        "",
+        "The three of us were searching area",
+        "[Color:5]C-1[Color:0] in the Windy Plains... I was the",
+        "only one to survive the ambush.",
+        "[Page]",
+        "",
+        "I later came back in strength to slay",
+        "the monster, but it never appeared...",
+        "Though I did sense it nearby!",
+        "[Page]",
+        "",
+        "I'm very sure of the location, given",
+        "that we were not the only ones who",
+        "have been attacked there.",
+        "[Page]",
+        "",
+        "Whatever it is, it's both cautious",
+        "and cunning... There must be some",
+        "trick to drawing it out...",
+        "[Page]",
+        "",
+        "I want you to figure it out and give",
+        "it double the pain my comrades got.",
+        "Whatever you need from me, just ask.",
+        ""
+      ],
+      "Translation": [
+        "So you accepted my request... Then I",
+        "beg of you! Please avenge my comrades!",
+        "[Page]",
+        "",
+        "The three of us were searching area",
+        "[Color:5]C-1[Color:0] in the Windy Plains... I was the",
+        "only one to survive the ambush.",
+        "[Page]",
+        "",
+        "I later came back in strength to slay",
+        "the monster, but it never appeared...",
+        "Though I did sense it nearby!",
+        "[Page]",
+        "",
+        "I'm very sure of the location, given",
+        "that we were not the only ones who",
+        "have been attacked there.",
+        "[Page]",
+        "",
+        "Whatever it is, it's both cautious",
+        "and cunning... There must be some",
+        "trick to drawing it out...",
+        "[Page]",
+        "",
+        "I want you to figure it out and give",
+        "it double the pain my comrades got.",
+        "Whatever you need from me, just ask.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "As I recall, the monster was on the",
+        "southern edge of area [Color:5]C-1[Color:0] in the Windy",
+        "Plains. The trick is drawing it out.",
+        "[Page]",
+        "",
+        "When I was attacked, I was there with",
+        "a nightseeker and landsknecht.",
+        "[Page]",
+        "",
+        "The next case was a dancer who was",
+        "alone, and after that, a landsknecht",
+        "paired with a medic.",
+        "[Page]",
+        "",
+        "But when I went with a dancer, a",
+        "runemaster, a landsknecht, and a",
+        "sniper, the bastard didn't show...",
+        "[Page]",
+        "",
+        "I don't get it. What's the secret...?",
+        ""
+      ],
+      "Translation": [
+        "As I recall, the monster was on the",
+        "southern edge of area [Color:5]C-1[Color:0] in the Windy",
+        "Plains. The trick is drawing it out.",
+        "[Page]",
+        "",
+        "When I was attacked, I was there with",
+        "a nightseeker and landsknecht.",
+        "[Page]",
+        "",
+        "The next case was a dancer who was",
+        "alone, and after that, a landsknecht",
+        "paired with a medic.",
+        "[Page]",
+        "",
+        "But when I went with a dancer, a",
+        "runemaster, a landsknecht, and a",
+        "sniper, the bastard didn't show...",
+        "[Page]",
+        "",
+        "I don't get it. What's the secret...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "I see... So it's dead now. I hope the",
+        "souls of those dead explorers can",
+        "find peace now...",
+        "[Page]",
+        "",
+        "But that's not the only monster of",
+        "its kind. If you go back to where you",
+        "find it, you might encounter it again.",
+        "[Page]",
+        "",
+        "I wonder if my comrades would be proud",
+        "if I got strong enough someday to kill",
+        "the thing on my own...",
+        "[Page]",
+        "",
+        "Well, thanks for what you did. I left",
+        "your reward with Kirtida. I hope you",
+        "use it well.",
+        ""
+      ],
+      "Translation": [
+        "I see... So it's dead now. I hope the",
+        "souls of those dead explorers can",
+        "find peace now...",
+        "[Page]",
+        "",
+        "But that's not the only monster of",
+        "its kind. If you go back to where you",
+        "find it, you might encounter it again.",
+        "[Page]",
+        "",
+        "I wonder if my comrades would be proud",
+        "if I got strong enough someday to kill",
+        "the thing on my own...",
+        "[Page]",
+        "",
+        "Well, thanks for what you did. I left",
+        "your reward with Kirtida. I hope you",
+        "use it well.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

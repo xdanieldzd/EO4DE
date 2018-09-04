@@ -1,0 +1,929 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_023",
+  "RelativePath": "Event\\Quest\\QUE_023.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "This request is from the Guildmaster.",
+        "Apparently, the baboons in the [Color:5]Old",
+        "Forest Mine[Color:0] are turning violent.",
+        "[Page]",
+        "",
+        "Multiple parties of novice explorers",
+        "have been annihilated during the",
+        "initiation mission. It is terrible...",
+        "[Page]",
+        "",
+        "The Guildmaster wants you to go to",
+        "the old mine and exterminate every",
+        "last one of the baboons.",
+        "[Page]",
+        "",
+        "It is a dangerous request, but I trust",
+        "in the [Guild] Guild's skill.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "This request is from the Guildmaster.",
+        "Apparently, the baboons in the [Color:5]Old",
+        "Forest Mine[Color:0] are turning violent.",
+        "[Page]",
+        "",
+        "Multiple parties of novice explorers",
+        "have been annihilated during the",
+        "initiation mission. It is terrible...",
+        "[Page]",
+        "",
+        "The Guildmaster wants you to go to",
+        "the old mine and exterminate every",
+        "last one of the baboons.",
+        "[Page]",
+        "",
+        "It is a dangerous request, but I trust",
+        "in the [Guild] Guild's skill.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I was worried for you",
+        "when I heard that an awful beast had",
+        "been seen in the Old Forest Mine.",
+        "[Page]",
+        "",
+        "But in my heart, I knew that nothing",
+        "bad could befall the [Guild] Guild.",
+        "[Page]",
+        "",
+        "Though I do not see how you can look",
+        "so relaxed after facing that dreadful",
+        "beast...",
+        "[Page]",
+        "",
+        "The explorers we have lost will never",
+        "return. But you have... and for that",
+        "much, I give thanks.",
+        "[Page]",
+        "",
+        "Oh yes, the reward. The Guildmaster",
+        "left a message that he would like to",
+        "see you at the [Color:5]Explorers Guild[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I was worried for you",
+        "when I heard that an awful beast had",
+        "been seen in the Old Forest Mine.",
+        "[Page]",
+        "",
+        "But in my heart, I knew that nothing",
+        "bad could befall the [Guild] Guild.",
+        "[Page]",
+        "",
+        "Though I do not see how you can look",
+        "so relaxed after facing that dreadful",
+        "beast...",
+        "[Page]",
+        "",
+        "The explorers we have lost will never",
+        "return. But you have... and for that",
+        "much, I give thanks.",
+        "[Page]",
+        "",
+        "Oh yes, the reward. The Guildmaster",
+        "left a message that he would like to",
+        "see you at the [Color:5]Explorers Guild[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Hm, so you took the request. As you",
+        "might have heard, at this rate, the",
+        "rookies can't set foot in the place.",
+        "[Page]",
+        "",
+        "I'm counting on you, [Guild] Guild.",
+        "Avenge those guilds who fell before",
+        "even being officially recognized.",
+        "[Page]",
+        "",
+        "But I should warn you, I have a very",
+        "bad feeling about this one.",
+        "[Page]",
+        "",
+        "If you run up against anything you're",
+        "no match for, don't hesitate to run.",
+        ""
+      ],
+      "Translation": [
+        "Hm, so you took the request. As you",
+        "might have heard, at this rate, the",
+        "rookies can't set foot in the place.",
+        "[Page]",
+        "",
+        "I'm counting on you, [Guild] Guild.",
+        "Avenge those guilds who fell before",
+        "even being officially recognized.",
+        "[Page]",
+        "",
+        "But I should warn you, I have a very",
+        "bad feeling about this one.",
+        "[Page]",
+        "",
+        "If you run up against anything you're",
+        "no match for, don't hesitate to run.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "As you step into the Old Forest Mine,",
+        "you stop straight away. You have a",
+        "strange feeling...",
+        "[Page]",
+        "",
+        "Perhaps it is due to the baboons that",
+        "have become violent. You must be very",
+        "careful if you mean to continue...",
+        ""
+      ],
+      "Translation": [
+        "As you step into the Old Forest Mine,",
+        "you stop straight away. You have a",
+        "strange feeling...",
+        "[Page]",
+        "",
+        "Perhaps it is due to the baboons that",
+        "have become violent. You must be very",
+        "careful if you mean to continue...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "You breathe a sigh of relief to see",
+        "the baboon fall.",
+        "[Page]",
+        "",
+        "But that menacing aura has not gone",
+        "away. If anything, it has intensified.",
+        "There must be others elsewhere...",
+        "[Page]",
+        "",
+        "In order to complete the Guildmaster's",
+        "request, you must hunt the source of",
+        "this malevolent feeling.",
+        ""
+      ],
+      "Translation": [
+        "You breathe a sigh of relief to see",
+        "the baboon fall.",
+        "[Page]",
+        "",
+        "But that menacing aura has not gone",
+        "away. If anything, it has intensified.",
+        "There must be others elsewhere...",
+        "[Page]",
+        "",
+        "In order to complete the Guildmaster's",
+        "request, you must hunt the source of",
+        "this malevolent feeling.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "During the struggle, you lost track",
+        "of the [Enemy1:219]!",
+        "[Page]",
+        "",
+        "If you mean to fulfill the request,",
+        "you have no choice but to wait for",
+        "the beast to show itself again...",
+        ""
+      ],
+      "Translation": [
+        "During the struggle, you lost track",
+        "of the [Enemy1:219]!",
+        "[Page]",
+        "",
+        "If you mean to fulfill the request,",
+        "you have no choice but to wait for",
+        "the beast to show itself again...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "As you move to leave the labyrinth,",
+        "a sudden sound comes from a bush",
+        "behind you!",
+        ""
+      ],
+      "Translation": [
+        "As you move to leave the labyrinth,",
+        "a sudden sound comes from a bush",
+        "behind you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You wheel to face it and see a giant",
+        "baboon standing there!",
+        "[Page]",
+        "",
+        "Perhaps it has emerged due to your",
+        "relentless hunting of this mine's",
+        "baboons...",
+        "[Page]",
+        "",
+        "The beast's malign presence is",
+        "tremendous! You have little doubt",
+        "that this will be a fierce battle.",
+        "[Page]",
+        "",
+        "But if you still intend to fulfill",
+        "the request, you must [Color:5]stake your",
+        "lives[Color:0] on challenging the beast!",
+        ""
+      ],
+      "Translation": [
+        "You wheel to face it and see a giant",
+        "baboon standing there!",
+        "[Page]",
+        "",
+        "Perhaps it has emerged due to your",
+        "relentless hunting of this mine's",
+        "baboons...",
+        "[Page]",
+        "",
+        "The beast's malign presence is",
+        "tremendous! You have little doubt",
+        "that this will be a fierce battle.",
+        "[Page]",
+        "",
+        "But if you still intend to fulfill",
+        "the request, you must [Color:5]stake your",
+        "lives[Color:0] on challenging the beast!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You step into the Old Forest Mine and",
+        "are met with an uneasy feeling that",
+        "permeates the area!",
+        ""
+      ],
+      "Translation": [
+        "You step into the Old Forest Mine and",
+        "are met with an uneasy feeling that",
+        "permeates the area!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Before your eyes is a giant baboon,",
+        "the likes of which you have never",
+        "seen before!",
+        "[Page]",
+        "",
+        "Perhaps it has emerged due to your",
+        "relentless hunting of this mine's",
+        "baboons...",
+        "[Page]",
+        "",
+        "The beast's malign presence is",
+        "tremendous! You have little doubt",
+        "that this will be a fierce battle.",
+        "[Page]",
+        "",
+        "But if you still intend to fulfill",
+        "the request, you must [Color:5]stake your",
+        "lives[Color:0] on challenging the beast!",
+        ""
+      ],
+      "Translation": [
+        "Before your eyes is a giant baboon,",
+        "the likes of which you have never",
+        "seen before!",
+        "[Page]",
+        "",
+        "Perhaps it has emerged due to your",
+        "relentless hunting of this mine's",
+        "baboons...",
+        "[Page]",
+        "",
+        "The beast's malign presence is",
+        "tremendous! You have little doubt",
+        "that this will be a fierce battle.",
+        "[Page]",
+        "",
+        "But if you still intend to fulfill",
+        "the request, you must [Color:5]stake your",
+        "lives[Color:0] on challenging the beast!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Having defeated all the baboons, you",
+        "move to the exit when a sudden sound",
+        "comes from a bush behind you!",
+        ""
+      ],
+      "Translation": [
+        "Having defeated all the baboons, you",
+        "move to the exit when a sudden sound",
+        "comes from a bush behind you!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Before your eyes is a giant baboon,",
+        "the likes of which you have never",
+        "seen before!",
+        "[Page]",
+        "",
+        "Perhaps it has emerged due to your",
+        "relentless hunting of this mine's",
+        "baboons...",
+        "[Page]",
+        "",
+        "The beast's malign presence is",
+        "tremendous! You have little doubt",
+        "that this will be a fierce battle.",
+        "[Page]",
+        "",
+        "But if you still intend to fulfill",
+        "the request, you must [Color:5]stake your",
+        "lives[Color:0] on challenging the beast!",
+        ""
+      ],
+      "Translation": [
+        "Before your eyes is a giant baboon,",
+        "the likes of which you have never",
+        "seen before!",
+        "[Page]",
+        "",
+        "Perhaps it has emerged due to your",
+        "relentless hunting of this mine's",
+        "baboons...",
+        "[Page]",
+        "",
+        "The beast's malign presence is",
+        "tremendous! You have little doubt",
+        "that this will be a fierce battle.",
+        "[Page]",
+        "",
+        "But if you still intend to fulfill",
+        "the request, you must [Color:5]stake your",
+        "lives[Color:0] on challenging the beast!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "From the crowd in the city square",
+        "comes an out-of-breath soldier who",
+        "runs up to you.",
+        ""
+      ],
+      "Translation": [
+        "From the crowd in the city square",
+        "comes an out-of-breath soldier who",
+        "runs up to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're the [Guild] Guild, who took",
+        "that request at the Old Forest Mine,",
+        "right?",
+        "[Page]",
+        "",
+        "\"After you left, a huge baboon we've",
+        "never seen before showed up!",
+        "[Page]",
+        "",
+        "\"It's much worse than the other",
+        "baboons you fought... I don't know",
+        "if even you can bring it down.",
+        "[Page]",
+        "",
+        "\"But you're the experts on this kind",
+        "of thing. I know it's unpleasant, but",
+        "you're all we have...",
+        "[Page]",
+        "",
+        "\"We're counting on you!\" That message",
+        "delivered, the soldier hurries off.",
+        ""
+      ],
+      "Translation": [
+        "\"You're the [Guild] Guild, who took",
+        "that request at the Old Forest Mine,",
+        "right?",
+        "[Page]",
+        "",
+        "\"After you left, a huge baboon we've",
+        "never seen before showed up!",
+        "[Page]",
+        "",
+        "\"It's much worse than the other",
+        "baboons you fought... I don't know",
+        "if even you can bring it down.",
+        "[Page]",
+        "",
+        "\"But you're the experts on this kind",
+        "of thing. I know it's unpleasant, but",
+        "you're all we have...",
+        "[Page]",
+        "",
+        "\"We're counting on you!\" That message",
+        "delivered, the soldier hurries off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "After an unrelenting assault, you have",
+        "finally subdued the giant beast which",
+        "controlled the Old Mine!",
+        "[Page]",
+        "",
+        "The uneasy presence fades, giving way",
+        "to the atmosphere you have come to",
+        "expect from the mine.",
+        "[Page]",
+        "",
+        "The beast will no longer threaten your",
+        "city or its explorers!",
+        "[Page]",
+        "",
+        "The request has been fulfilled. You",
+        "should make for the bar right away",
+        "to turn in your report!",
+        ""
+      ],
+      "Translation": [
+        "After an unrelenting assault, you have",
+        "finally subdued the giant beast which",
+        "controlled the Old Mine!",
+        "[Page]",
+        "",
+        "The uneasy presence fades, giving way",
+        "to the atmosphere you have come to",
+        "expect from the mine.",
+        "[Page]",
+        "",
+        "The beast will no longer threaten your",
+        "city or its explorers!",
+        "[Page]",
+        "",
+        "The request has been fulfilled. You",
+        "should make for the bar right away",
+        "to turn in your report!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Old Forest Mine[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Old Forest Mine[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

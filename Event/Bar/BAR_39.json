@@ -1,0 +1,42 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_39",
+  "RelativePath": "Event\\Bar\\BAR_39.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Eww... I'm all sticky... You guys had",
+        "better watch out for the wandering",
+        "[Color:5][Enemy1:110][Color:0] in the [Color:5]Forgotten Capital[Color:0].",
+        "[Page]",
+        "",
+        "That gross thing spits a [Color:5]sticky acid[Color:0]",
+        "on its prey to paralyze them. Then it",
+        "starts in with the tentacles...",
+        "[Page]",
+        "",
+        "It was horrible... just horrible...",
+        ""
+      ],
+      "Translation": [
+        "Eww... I'm all sticky... You guys had",
+        "better watch out for the wandering",
+        "[Color:5][Enemy1:110][Color:0] in the [Color:5]Forgotten Capital[Color:0].",
+        "[Page]",
+        "",
+        "That gross thing spits a [Color:5]sticky acid[Color:0]",
+        "on its prey to paralyze them. Then it",
+        "starts in with the tentacles...",
+        "[Page]",
+        "",
+        "It was horrible... just horrible...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

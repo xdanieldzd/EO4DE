@@ -1,0 +1,833 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_012",
+  "RelativePath": "Event\\Quest\\QUE_012.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "This request is from a young lady who",
+        "lives in a mansion at the city limits.",
+        "She has a taste for rare things.",
+        "[Page]",
+        "",
+        "She wants a somewhat unusual flower.",
+        "Its blossom differs whether it is day",
+        "or night. Either will do, for her.",
+        "[Page]",
+        "",
+        "It grew in this area long ago, but no",
+        "more... though I hear the flowers now",
+        "bloom in the [Color:5]Miasma Forest[Color:0].",
+        "[Page]",
+        "",
+        "For the [Color:5]day[Color:0] flower, you will receive",
+        "a [Color:6][Item:1372][Color:0], and the [Color:5]night[Color:0] flower",
+        "will earn you an [Color:6][Item:1373][Color:0].",
+        "[Page]",
+        "",
+        "It is up to you which flower to bring",
+        "her and thus which reward to claim.",
+        "I shall await your swift return.",
+        "[Page]",
+        "",
+        "Hm... Now that I have explained the",
+        "quest, it occurs to me to wonder what",
+        "kind of flower might bloom at [Color:5]dawn[Color:0]...",
+        ""
+      ],
+      "Translation": [
+        "This request is from a young lady who",
+        "lives in a mansion at the city limits.",
+        "She has a taste for rare things.",
+        "[Page]",
+        "",
+        "She wants a somewhat unusual flower.",
+        "Its blossom differs whether it is day",
+        "or night. Either will do, for her.",
+        "[Page]",
+        "",
+        "It grew in this area long ago, but no",
+        "more... though I hear the flowers now",
+        "bloom in the [Color:5]Miasma Forest[Color:0].",
+        "[Page]",
+        "",
+        "For the [Color:5]day[Color:0] flower, you will receive",
+        "a [Color:6][Item:1372][Color:0], and the [Color:5]night[Color:0] flower",
+        "will earn you an [Color:6][Item:1373][Color:0].",
+        "[Page]",
+        "",
+        "It is up to you which flower to bring",
+        "her and thus which reward to claim.",
+        "I shall await your swift return.",
+        "[Page]",
+        "",
+        "Hm... Now that I have explained the",
+        "quest, it occurs to me to wonder what",
+        "kind of flower might bloom at [Color:5]dawn[Color:0]...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Were you able to find",
+        "the young lady's desired flower?",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Were you able to find",
+        "the young lady's desired flower?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "My... it is beautiful. You say you",
+        "picked this flower at night? It has",
+        "a rather ladylike quality to it.",
+        "[Page]",
+        "",
+        "I wonder if any gallant soul might",
+        "appear one day and give me a flower",
+        "this lovely...",
+        "[Page]",
+        "",
+        "That was a joke. This should be more",
+        "than good enough for the client.",
+        "Here is the matching reward...",
+        ""
+      ],
+      "Translation": [
+        "My... it is beautiful. You say you",
+        "picked this flower at night? It has",
+        "a rather ladylike quality to it.",
+        "[Page]",
+        "",
+        "I wonder if any gallant soul might",
+        "appear one day and give me a flower",
+        "this lovely...",
+        "[Page]",
+        "",
+        "That was a joke. This should be more",
+        "than good enough for the client.",
+        "Here is the matching reward...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "My... it is lovely. You say you picked",
+        "this flower during the day? It feels",
+        "as if it has an overabundance of life.",
+        "[Page]",
+        "",
+        "I wonder if any gallant soul might",
+        "appear one day and give me a flower",
+        "this lovely...",
+        "[Page]",
+        "",
+        "That was a joke. This should be more",
+        "than good enough for the client.",
+        "Here is the matching reward...",
+        ""
+      ],
+      "Translation": [
+        "My... it is lovely. You say you picked",
+        "this flower during the day? It feels",
+        "as if it has an overabundance of life.",
+        "[Page]",
+        "",
+        "I wonder if any gallant soul might",
+        "appear one day and give me a flower",
+        "this lovely...",
+        "[Page]",
+        "",
+        "That was a joke. This should be more",
+        "than good enough for the client.",
+        "Here is the matching reward...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "My... what an unusual flower. That red",
+        "and white pattern is quite striking.",
+        "This bloomed just at dawn, you say?",
+        "[Page]",
+        "",
+        "Haha... It is so beautiful that it",
+        "may be difficult to part with when",
+        "I deliver it...",
+        "[Page]",
+        "",
+        "That was a joke. I will, as ever, take",
+        "full responsibility for my end. But...",
+        "I am not sure how to reward you now.",
+        "[Page]",
+        "",
+        "The day reward or the night reward...",
+        "Well, this flower has elements of each,",
+        "so both rewards may be appropriate.",
+        "[Page]",
+        "",
+        "I am sure the client will agree when",
+        "she sees what a lovely flower you have",
+        "fetched her. Go ahead, take them.",
+        ""
+      ],
+      "Translation": [
+        "My... what an unusual flower. That red",
+        "and white pattern is quite striking.",
+        "This bloomed just at dawn, you say?",
+        "[Page]",
+        "",
+        "Haha... It is so beautiful that it",
+        "may be difficult to part with when",
+        "I deliver it...",
+        "[Page]",
+        "",
+        "That was a joke. I will, as ever, take",
+        "full responsibility for my end. But...",
+        "I am not sure how to reward you now.",
+        "[Page]",
+        "",
+        "The day reward or the night reward...",
+        "Well, this flower has elements of each,",
+        "so both rewards may be appropriate.",
+        "[Page]",
+        "",
+        "I am sure the client will agree when",
+        "she sees what a lovely flower you have",
+        "fetched her. Go ahead, take them.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "When you emerge into a small clearing",
+        "in the forest, you notice something in",
+        "the corner.",
+        "[Page]",
+        "",
+        "It may be the flower you were charged",
+        "with finding... To be certain, you",
+        "decide to investigate.",
+        ""
+      ],
+      "Translation": [
+        "When you emerge into a small clearing",
+        "in the forest, you notice something in",
+        "the corner.",
+        "[Page]",
+        "",
+        "It may be the flower you were charged",
+        "with finding... To be certain, you",
+        "decide to investigate.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You study the rocks in the corner of",
+        "the clearing and see a beautiful",
+        "flower with bugle-shaped petals.",
+        ""
+      ],
+      "Translation": [
+        "You study the rocks in the corner of",
+        "the clearing and see a beautiful",
+        "flower with bugle-shaped petals.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "A beautiful flower with bugle-shaped",
+        "petals is blooming in front of you...",
+        ""
+      ],
+      "Translation": [
+        "A beautiful flower with bugle-shaped",
+        "petals is blooming in front of you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Its color is white as the moon. There",
+        "is no doubt that this large flower is",
+        "the one the client desires.",
+        ""
+      ],
+      "Translation": [
+        "Its color is white as the moon. There",
+        "is no doubt that this large flower is",
+        "the one the client desires.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Its red coloration is as vibrant as",
+        "the sun. There is no doubt this large",
+        "flower is the one the client desires.",
+        ""
+      ],
+      "Translation": [
+        "Its red coloration is as vibrant as",
+        "the sun. There is no doubt this large",
+        "flower is the one the client desires.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "The gradation of color on the petals,",
+        "white to red, is as beautiful as the",
+        "peach-colored light of the dawn sky.",
+        "[Page]",
+        "",
+        "This flower is a rare sight, one you",
+        "were only able to see because you came",
+        "at the threshold of morning and night.",
+        "[Page]",
+        "",
+        "You have no doubt that the client will",
+        "be satisfied if you return with this",
+        "flower.",
+        ""
+      ],
+      "Translation": [
+        "The gradation of color on the petals,",
+        "white to red, is as beautiful as the",
+        "peach-colored light of the dawn sky.",
+        "[Page]",
+        "",
+        "This flower is a rare sight, one you",
+        "were only able to see because you came",
+        "at the threshold of morning and night.",
+        "[Page]",
+        "",
+        "You have no doubt that the client will",
+        "be satisfied if you return with this",
+        "flower.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You may pick it now to complete the",
+        "request or wait and pick it after some",
+        "time has passed.",
+        ""
+      ],
+      "Translation": [
+        "You may pick it now to complete the",
+        "request or wait and pick it after some",
+        "time has passed.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Pick the flower?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Pick the flower?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "The request is complete! All that now",
+        "remains is to deliver the flower when",
+        "you are next in Tharsis.",
+        ""
+      ],
+      "Translation": [
+        "The request is complete! All that now",
+        "remains is to deliver the flower when",
+        "you are next in Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "If the bartender spoke true, then the",
+        "flower takes different forms during",
+        "the day and night...",
+        "[Page]",
+        "",
+        "You decide to leave the flower be and",
+        "pass the time elsewhere for now.",
+        ""
+      ],
+      "Translation": [
+        "If the bartender spoke true, then the",
+        "flower takes different forms during",
+        "the day and night...",
+        "[Page]",
+        "",
+        "You decide to leave the flower be and",
+        "pass the time elsewhere for now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You study the rocks in the corner of",
+        "the clearing and discover a large",
+        "flower bud.",
+        "[Page]",
+        "",
+        "This bud must develop into the flower",
+        "whose nature changes with the time",
+        "of day.",
+        "[Page]",
+        "",
+        "But it does not seem that the flower",
+        "has bloomed yet... You decide to",
+        "leave it be and come back later.",
+        ""
+      ],
+      "Translation": [
+        "You study the rocks in the corner of",
+        "the clearing and discover a large",
+        "flower bud.",
+        "[Page]",
+        "",
+        "This bud must develop into the flower",
+        "whose nature changes with the time",
+        "of day.",
+        "[Page]",
+        "",
+        "But it does not seem that the flower",
+        "has bloomed yet... You decide to",
+        "leave it be and come back later.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Miasma Forest[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Miasma Forest[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

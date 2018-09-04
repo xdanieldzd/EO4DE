@@ -1,0 +1,353 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_029",
+  "RelativePath": "Event\\Quest\\QUE_029.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Do you remember the work you did",
+        "earlier concerning the remains of",
+        "a beast trapped within the ice?",
+        "[Page]",
+        "",
+        "Your client then was a researcher who",
+        "is now requesting that you find for",
+        "him a [Color:5]book[Color:0] from the [Color:5]Echoing Library[Color:0].",
+        "[Page]",
+        "",
+        "It is a very specific book, one which",
+        "contains diagrams of a [Color:5]double helix[Color:0].",
+        "Can I trust this matter to you?",
+        "[Page]",
+        "",
+        "Good! Then I will trust you to find",
+        "success and shall await your swift",
+        "return.",
+        ""
+      ],
+      "Translation": [
+        "Do you remember the work you did",
+        "earlier concerning the remains of",
+        "a beast trapped within the ice?",
+        "[Page]",
+        "",
+        "Your client then was a researcher who",
+        "is now requesting that you find for",
+        "him a [Color:5]book[Color:0] from the [Color:5]Echoing Library[Color:0].",
+        "[Page]",
+        "",
+        "It is a very specific book, one which",
+        "contains diagrams of a [Color:5]double helix[Color:0].",
+        "Can I trust this matter to you?",
+        "[Page]",
+        "",
+        "Good! Then I will trust you to find",
+        "success and shall await your swift",
+        "return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. Is that thick volume the",
+        "book your client requested?",
+        "[Page]",
+        "",
+        "The Echoing Library has many books,",
+        "yes? I am surprised you found this",
+        "one in its stacks.",
+        "[Page]",
+        "",
+        "I do wonder what the client intends to",
+        "do with this book... I hope it is",
+        "for research purposes only.",
+        "[Page]",
+        "",
+        "I again thank you for your hard work.",
+        "I shall see that this gets to your",
+        "client.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. Is that thick volume the",
+        "book your client requested?",
+        "[Page]",
+        "",
+        "The Echoing Library has many books,",
+        "yes? I am surprised you found this",
+        "one in its stacks.",
+        "[Page]",
+        "",
+        "I do wonder what the client intends to",
+        "do with this book... I hope it is",
+        "for research purposes only.",
+        "[Page]",
+        "",
+        "I again thank you for your hard work.",
+        "I shall see that this gets to your",
+        "client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "When you arrive at a dead end in the",
+        "ruins, you see a large bookshelf.",
+        "[Page]",
+        "",
+        "You had accepted a request at the bar",
+        "concerning the delivery of a specific",
+        "old book...",
+        "[Page]",
+        "",
+        "The book you are looking for may well",
+        "be in this bookshelf. If you wish, you",
+        "may search for it.",
+        ""
+      ],
+      "Translation": [
+        "When you arrive at a dead end in the",
+        "ruins, you see a large bookshelf.",
+        "[Page]",
+        "",
+        "You had accepted a request at the bar",
+        "concerning the delivery of a specific",
+        "old book...",
+        "[Page]",
+        "",
+        "The book you are looking for may well",
+        "be in this bookshelf. If you wish, you",
+        "may search for it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "A bookshelf towers before you...",
+        "[Page]",
+        "",
+        "You consider searching its shelves",
+        "with the completion of the book",
+        "delivery request in mind.",
+        ""
+      ],
+      "Translation": [
+        "A bookshelf towers before you...",
+        "[Page]",
+        "",
+        "You consider searching its shelves",
+        "with the completion of the book",
+        "delivery request in mind.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Check the bookshelf?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Check the bookshelf?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "As you pore over the shelves,",
+        "you notice one book in good",
+        "enough condition to be legible.",
+        "[Page]",
+        "",
+        "You reach up and take it...",
+        "[Page]",
+        "",
+        "But upon opening it, you see naught",
+        "but script in an unknown alphabet.",
+        "You gloomily return it to the shelf.",
+        ""
+      ],
+      "Translation": [
+        "As you pore over the shelves,",
+        "you notice one book in good",
+        "enough condition to be legible.",
+        "[Page]",
+        "",
+        "You reach up and take it...",
+        "[Page]",
+        "",
+        "But upon opening it, you see naught",
+        "but script in an unknown alphabet.",
+        "You gloomily return it to the shelf.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "As you pore over the shelves,",
+        "you notice one book in good",
+        "enough condition to be legible.",
+        "[Page]",
+        "",
+        "You reach up and take it...",
+        "[Page]",
+        "",
+        "But upon opening it, it contains",
+        "naught but numerical formulae. With",
+        "a disappointed sigh, you put it back.",
+        ""
+      ],
+      "Translation": [
+        "As you pore over the shelves,",
+        "you notice one book in good",
+        "enough condition to be legible.",
+        "[Page]",
+        "",
+        "You reach up and take it...",
+        "[Page]",
+        "",
+        "But upon opening it, it contains",
+        "naught but numerical formulae. With",
+        "a disappointed sigh, you put it back.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "As you pore over the shelves,",
+        "you notice one book in good",
+        "enough condition to be legible.",
+        "[Page]",
+        "",
+        "You reach up and take it...",
+        "[Page]",
+        "",
+        "The book contains several diagrams",
+        "involving double helices.",
+        "[Page]",
+        "",
+        "There can be no doubt that this is",
+        "the book the client hoped to see!",
+        "[Page]",
+        "",
+        "Quite pleased with yourself, you stow",
+        "the book in your pack and prepare to",
+        "return to the bar to report in.",
+        ""
+      ],
+      "Translation": [
+        "As you pore over the shelves,",
+        "you notice one book in good",
+        "enough condition to be legible.",
+        "[Page]",
+        "",
+        "You reach up and take it...",
+        "[Page]",
+        "",
+        "The book contains several diagrams",
+        "involving double helices.",
+        "[Page]",
+        "",
+        "There can be no doubt that this is",
+        "the book the client hoped to see!",
+        "[Page]",
+        "",
+        "Quite pleased with yourself, you stow",
+        "the book in your pack and prepare to",
+        "return to the bar to report in.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5428 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Battle system messages",
+  "RelativePath": "Battle\\battlemessage.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] has appeared!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] erscheint!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]s have appeared!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] erscheinen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Monsters have appeared!",
+        ""
+      ],
+      "Translation": [
+        "Monster erscheinen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "The party was blindsided!",
+        ""
+      ],
+      "Translation": [
+        "Die Gruppe ist in einen",
+        "Hinterhalt geraten!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "But [Variable1:1]",
+        "anticipated the move.",
+        ""
+      ],
+      "Translation": [
+        "Aber [Variable1:1] hat",
+        "den Angriff vorausgeahnt.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] struck first!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat zuerst zugeschlagen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Preemptive attack!",
+        ""
+      ],
+      "Translation": [
+        "Präventivangriff!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] has been",
+        "summoned to battle!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] wurde",
+        "in den Kampf gerufen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "A new monster has joined",
+        "the fray!",
+        ""
+      ],
+      "Translation": [
+        "Ein neues Monster stürzt",
+        "sich ins Gefecht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "A fearsome howl pierces the air",
+        "as the black shadow comes forth!",
+        ""
+      ],
+      "Translation": [
+        "Ihr nehmt fürchterliche Schreie",
+        "und schwarze Schatten wahr!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "What will you do?",
+        ""
+      ],
+      "Translation": [
+        "Was wollt Ihr tun?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] cannot move!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] kann",
+        "sich nicht bewegen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Your party is powerless to act!",
+        ""
+      ],
+      "Translation": [
+        "Eure Gruppe ist hilflos!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is petrified!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] wurde versteinert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is sleeping...",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist eingeschlafen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is panicked!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist verängstigt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] can't move",
+        "due to paralysis!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] kann sich",
+        "nicht mehr bewegen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is too",
+        "terrified to move!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist zu verängstigt,",
+        "um sich zu bewegen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is",
+        "stunned!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist betäubt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s head",
+        "has been sealed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Kopf wurde",
+        "gefesselt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s arms",
+        "have been sealed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Arme wurden",
+        "gefesselt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s legs",
+        "have been sealed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Beine wurden",
+        "gefesselt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has died!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist tot!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Killed the [Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde getötet!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] attacks!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] greift an!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Dealt [Variable1:2] damage",
+        "to [Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde [Variable1:2] Schaden",
+        "zugefügt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Critical hit!",
+        "Dealt [Variable1:2] damage!",
+        ""
+      ],
+      "Translation": [
+        "Kritischer Treffer!",
+        "[Variable1:2] Schaden zugefügt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] lost [Variable1:2] HP!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] verlor [Variable1:2] KP!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] lost [Variable1:2] TP!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] verlor [Variable1:2] HP!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] used",
+        "[Variable1:3]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] wandte",
+        "[Variable1:3] an!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s health was recovered",
+        "by [Variable1:2]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde um",
+        "[Variable1:2] KP geheilt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s health has",
+        "been fully restored!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde vollständig",
+        "geheilt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] was refreshed",
+        "by [Variable1:2]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde um",
+        "[Variable1:2] TP erfrischt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has been",
+        "fully refreshed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde vollständig",
+        "erfrischt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s weapon",
+        "releases a blinding light!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Waffe setzt",
+        "ein grelles Licht frei!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "It's a horde of monsters!",
+        ""
+      ],
+      "Translation": [
+        "Mehrere Monster",
+        ""
+      ],
+      "Notes": [
+        "Japanisch: \"モンスターの群れ\" / \"Herde von Monstern\"",
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] used a",
+        "[Variable1:3]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] verwendete",
+        "[Variable1:3]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is defending.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] wehrt ab.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] summoned allies!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] rief Verbündete",
+        "hinzu!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] was killed instantly!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde sofort getötet!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has been petrified!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde versteinert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has fallen asleep...",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist eingeschlafen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] is panicked! ",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist verängstigt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] is infected",
+        "with a rotting plague!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde von einer",
+        "verrottenden Plage infiziert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has been poisoned!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde vergiftet!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has been blinded!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde geblendet!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has been cursed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde verflucht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has been paralyzed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde gelähmt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has been stunned!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde betäubt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s head has been sealed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Kopf wurde",
+        "gefesselt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s arms have been sealed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Arme wurden",
+        "gefesselt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s legs have been sealed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Beine wurden",
+        "gefesselt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has regained",
+        "consciousness!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] erlangte das",
+        "Bewusstsein wieder!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s petrification",
+        "has been removed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Versteinerung",
+        "wurde gebrochen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] woke up!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist aufgewacht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s head has cleared!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Kopf ist",
+        "wieder klar!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has recovered!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] hat sich erholt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] is free from",
+        "the effects of poison!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist frei von der",
+        "Wirkung des Gifts!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s sight has",
+        "been restored!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Augenlicht",
+        "wiederhergestellt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s curse has",
+        "been lifted!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Fluch wurde",
+        "aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s paralysis has",
+        "been removed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Lähmung wurde",
+        "aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "The seal upon [Variable1:1]'s",
+        "head has been lifted!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde von",
+        "den Kopffesseln befreit!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "The seal upon [Variable1:1]'s",
+        "arms has been lifted!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde von",
+        "den Armfesseln befreit!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "The seal upon [Variable1:1]'s",
+        "legs has been lifted!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde von",
+        "den Beinfesseln befreit!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] attempts to escape!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] versucht zu fliehen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] attempts to escape,",
+        "but is unable to flee!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] versucht zu fliehen,",
+        "kann aber nicht entkommen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "You cannot escape from",
+        "this battle!",
+        ""
+      ],
+      "Translation": [
+        "Ihr könnt aus diesem",
+        "Kampf nicht fliehen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "Escape is impossible!",
+        ""
+      ],
+      "Translation": [
+        "Eine Flucht ist unmöglich!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] attempts to escape,",
+        "but [Variable1:0]'s legs are bound!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] versucht zu fliehen,",
+        "doch [Variable1:0]'s Beine sind gefesselt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Defeated [Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde besiegt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] is dead!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist tot!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Defeated [Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde besiegt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "The enemy has fallen!",
+        ""
+      ],
+      "Translation": [
+        "Der Feind ist gefallen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "The adventurers have fallen...",
+        ""
+      ],
+      "Translation": [
+        "Die Abenteurer sind gefallen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] managed to",
+        "survive [Variable1:0]'s blow!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] hat",
+        "[Variable1:2]'s Schlag überlebt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] cooperated",
+        "and summoned allies!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] kooperiert und",
+        "ruft Verbündete!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] is dead!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist tot!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "All",
+        ""
+      ],
+      "Translation": [
+        "Alle",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] died...",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist gefallen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "But no allies appeared!",
+        ""
+      ],
+      "Translation": [
+        "Aber keine Verbündeten",
+        "sind erschienen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] suffered [Variable1:2]",
+        "damage from the poison!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] erlitt [Variable1:2]",
+        "Schaden durch das Gift!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 83,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] has appeared!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] erscheint!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 84,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] and [Variable1:1]",
+        "switched positions!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] und [Variable1:1]",
+        "haben die Position getauscht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] changed positions!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat die",
+        "Position gewechselt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "But the attack didn't reach!",
+        ""
+      ],
+      "Translation": [
+        "Der Angriff hat nicht getroffen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": false,
+      "Original": [
+        "But it had no effect",
+        "on [Variable1:1].",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] bleibt von der",
+        "Magie unberührt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] dodged the attack!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist dem Angriff",
+        "ausgewichen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 89,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] blocked",
+        "[Variable1:0]'s maneuver!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] blockierte",
+        "[Variable1:0]'s Manöver!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 90,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s critical hit rate",
+        "increased!",
+        ""
+      ],
+      "Translation": [
+        "Rate der kritischen Treffer",
+        "von [Variable1:1] erhöht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 91,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] began to",
+        "regenerate health!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] hat begonnen,",
+        "sich zu erholen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 92,
+      "IsIgnored": false,
+      "Original": [
+        "The [Variable1:0] reacts and",
+        "a plume of flame rises!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] reagiert und",
+        "erzeugt eine Flammenwolke!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 93,
+      "IsIgnored": false,
+      "Original": [
+        "The pumpkins began playing",
+        "a beautiful melody!",
+        ""
+      ],
+      "Translation": [
+        "Die Kürbisse spielen eine",
+        "wunderschöne Melodie!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 94,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] grew furious",
+        "to see its ally fall!",
+        ""
+      ],
+      "Translation": [
+        "Der Tod von [Variable1:0]'s",
+        "Verbündeten machte es wütend!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 95,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s critical",
+        "rate decreased!",
+        ""
+      ],
+      "Translation": [
+        "Rate der kritischen Treffer",
+        "von [Variable1:1] gesenkt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 96,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] stopped moving...!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] bewegt sich nicht mehr…!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 97,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] has bitten",
+        "through [Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] biss sich durch",
+        "[Variable1:1]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 98,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] stands ready!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist bereit!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 99,
+      "IsIgnored": false,
+      "Original": [
+        "However, the cooperative effort",
+        "with [Variable1:1] failed!",
+        ""
+      ],
+      "Translation": [
+        "Aber die Kooperation mit",
+        "[Variable1:1] schlug fehl!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 100,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s shadow appeared!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Schatten ist erschienen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 101,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s doppelganger",
+        "appeared!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Doppelgänger",
+        "ist erschienen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 102,
+      "IsIgnored": false,
+      "Original": [
+        "But [Variable1:3]",
+        "failed to activate!",
+        ""
+      ],
+      "Translation": [
+        "Aber [Variable1:3] aktivierte",
+        "sich nicht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 103,
+      "IsIgnored": false,
+      "Original": [
+        "Who will switch positions?",
+        ""
+      ],
+      "Translation": [
+        "Wer wechselt die Position?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 104,
+      "IsIgnored": false,
+      "Original": [
+        "Where will they move to?",
+        ""
+      ],
+      "Translation": [
+        "Wohin bewegen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 105,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:3] activated!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:3] aktiviert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 106,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] nullified the damage!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] hob den Schaden auf!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 107,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] was blasted away!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde weggesprengt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 108,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is incapable of",
+        "acting or moving!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] kann sich nicht",
+        "bewegen oder agieren!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 109,
+      "IsIgnored": false,
+      "Original": [
+        "Analyzed [Variable1:1]'s abilities!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Fähigkeiten analysiert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 110,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s MAX HP",
+        "decreased by [Variable1:2]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s maximale KP",
+        "um [Variable1:2] gesenkt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 111,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] began praying",
+        "quietly!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] began leise",
+        "zu beten!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 112,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] and [Variable1:2]",
+        "combined to become [Variable1:0]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] und [Variable1:2]",
+        "haben sich zu [Variable1:0] vereint!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 113,
+      "IsIgnored": false,
+      "Original": [
+        "The beast did not appear!",
+        ""
+      ],
+      "Translation": [
+        "Das Biest ist nicht erschienen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 114,
+      "IsIgnored": false,
+      "Original": [
+        "But there was no effect!",
+        ""
+      ],
+      "Translation": [
+        "Aber nichts geschieht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 115,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s lure worked",
+        "to ambush the enemy!",
+        ""
+      ],
+      "Translation": [
+        "Gegner wurde durch",
+        "[Variable1:1]'s Köder überfallen!",
+        ""
+      ],
+      "Notes": [
+        "Besserer Satzbau...?",
+        ""
+      ]
+    },
+    {
+      "ID": 116,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] couldn't switch",
+        "positions!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] konnte die",
+        "Position nicht wechseln!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 117,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] failed to separate!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] konnte sich nicht",
+        "trennen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 118,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] failed to combine!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] konnte sich nicht",
+        "vereinen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 120,
+      "IsIgnored": false,
+      "Original": [
+        "Heavenbringer's arms",
+        ""
+      ],
+      "Translation": [
+        "Arme des Himmelsbringers",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung von \"Heavenbringer\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 121,
+      "IsIgnored": false,
+      "Original": [
+        "Raised a shield in preparation",
+        "for the enemy's attack!",
+        ""
+      ],
+      "Translation": [
+        "In Vorbereitung auf Angriff",
+        "des Gegners Schild gehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 122,
+      "IsIgnored": false,
+      "Original": [
+        "Concentrated to unleash a",
+        "deadly attack!",
+        ""
+      ],
+      "Translation": [
+        "Durch Konzentration einen",
+        "tödlichen Angriff gestartet!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 123,
+      "IsIgnored": false,
+      "Original": [
+        "Readied a weapon to prepare",
+        "for a follow-up attack!",
+        ""
+      ],
+      "Translation": [
+        "Waffe für einen weiteren",
+        "Angriff bereit gemacht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 124,
+      "IsIgnored": false,
+      "Original": [
+        "Readied a weapon to prepare",
+        "for a follow-up attack!",
+        ""
+      ],
+      "Translation": [
+        "Waffe für einen weiteren",
+        "Angriff bereit gemacht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 125,
+      "IsIgnored": false,
+      "Original": [
+        "Began a trend analysis of",
+        "[Variable1:1]'s actions!",
+        ""
+      ],
+      "Translation": [
+        "Eine Analyse von [Variable1:1]'s",
+        "Verhalten begonnen!",
+        ""
+      ],
+      "Notes": [
+        "Braucht bessere Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 126,
+      "IsIgnored": false,
+      "Original": [
+        "The [Variable1:0] withdrew...",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat sich zurückgezogen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 127,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] appeared from",
+        "[Variable1:0]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist aus",
+        "[Variable1:0] erschienen!",
+        ""
+      ],
+      "Notes": [
+        "Kontext für Satzbau?",
+        ""
+      ]
+    },
+    {
+      "ID": 128,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] soared into the sky!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist zum Himmel",
+        "aufgestiegen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 129,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:3] defended",
+        "the front line!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:3] verteidigt die",
+        "Frontlinie!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 130,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:3] defended",
+        "the back line!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:3] verteidigt die",
+        "hintere Linie!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 131,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:3] defended",
+        "the whole party!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:3] verteidigt die",
+        "gesamte Gruppe!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 132,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:3] defended",
+        "[Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:3] verteidigt",
+        "[Variable1:1]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 134,
+      "IsIgnored": false,
+      "Original": [
+        "But [Variable1:1] already has",
+        "that effect...",
+        ""
+      ],
+      "Translation": [
+        "Aber [Variable1:1] hat diesen",
+        "Effekt bereits…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 135,
+      "IsIgnored": false,
+      "Original": [
+        "The duration of the [Variable1:2]",
+        "effect on [Variable1:1] is extended!",
+        ""
+      ],
+      "Translation": [
+        "Die Dauer des [Variable1:2]-Effekts",
+        "auf [Variable1:1] wurde verlängert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 136,
+      "IsIgnored": false,
+      "Original": [
+        "The beneficial effect on",
+        "[Variable1:1] has dissipated!",
+        ""
+      ],
+      "Translation": [
+        "Positive Effekte von",
+        "[Variable1:1] haben sich aufgelöst!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 137,
+      "IsIgnored": false,
+      "Original": [
+        "The status ailment on",
+        "[Variable1:1] has dissipated!",
+        ""
+      ],
+      "Translation": [
+        "Statusveränderungen von",
+        "[Variable1:1] haben sich aufgelöst!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 138,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "beneficial effects!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s positive Effekte",
+        "wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 139,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "status ailments!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Statusveränderungen",
+        "wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 140,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "enhanced offense!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s verbesserte",
+        "Offensive wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 141,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "enhanced defense!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s verbesserte",
+        "Defensive wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 142,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "enhanced speed!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s verbesserte",
+        "Geschwindigkeit wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 143,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "enhanced accuracy!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s verbesserte",
+        "Genauigkeit wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 144,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "enhanced evasion!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s verbessertes",
+        "Ausweichen wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        "\"verbessertes Ausweichen\"…?",
+        ""
+      ]
+    },
+    {
+      "ID": 145,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "offensive reduction!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s verringerte",
+        "Offensive wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 146,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "defensive reduction!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s verringerte",
+        "Defensive wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 147,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "speed reduction!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s verringerte",
+        "Geschwindigkeit wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 148,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "accuracy reduction!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s verringerte",
+        "Genauigkeit wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 149,
+      "IsIgnored": false,
+      "Original": [
+        "Nullified [Variable1:1]'s",
+        "evasive reduction!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s verringertes",
+        "Ausweichen wurde aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 150,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s offense",
+        "enhanced!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Offensive",
+        "wurde verbessert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 151,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s defense",
+        "enhanced!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Defensive",
+        "wurde verbessert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 152,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s speed",
+        "enhanced!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Geschwindigkeit",
+        "wurde verbessert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 153,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s accuracy",
+        "enhanced!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Genauigkeit",
+        "wurde verbessert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 154,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s evasion",
+        "enhanced!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Ausweichen",
+        "wurde verbessert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 155,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s offense",
+        "reduced!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Offensive",
+        "wurde verringert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 156,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s defense",
+        "reduced!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Defensive",
+        "wurde verringert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 157,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s speed",
+        "reduced!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Geschwindigkeit",
+        "wurde verringert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 158,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s accuracy",
+        "reduced!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Genauigkeit",
+        "wurde verringert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 159,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s evasion",
+        "reduced!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Ausweichen",
+        "wurde verringert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 160,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s attacks now",
+        "carry a fire element!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Angriffe sind",
+        "nun vom Element Feuer!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 161,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s attacks now",
+        "carry an ice element!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Angriffe sind",
+        "nun vom Element Eis!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 162,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s attacks now",
+        "carry a volt element!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Angriffe sind",
+        "nun vom Element Volt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 163,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] is now a more",
+        "inviting target for enemies!",
+        ""
+      ],
+      "Translation": [
+        "Gegner zielen nun häufiger",
+        "auf [Variable1:1]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 164,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] is now a less",
+        "appealing target for enemies!",
+        ""
+      ],
+      "Translation": [
+        "Gegner zielen nun seltener",
+        "auf [Variable1:1]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 165,
+      "IsIgnored": false,
+      "Original": [
+        "Status ailments do not affect",
+        "[Variable1:1] now!",
+        ""
+      ],
+      "Translation": [
+        "Statusveränderungen beeinflussen",
+        "[Variable1:1] im Moment nicht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 166,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s maximum HP",
+        "has increased!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s maximale KP",
+        "erhöht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 167,
+      "IsIgnored": false,
+      "Original": [
+        "Divine Guard message",
+        ""
+      ],
+      "Translation": [
+        "\"Göttlicher Schutz\"-Nachricht",
+        ""
+      ],
+      "Notes": [
+        "Übersetzungscheck + Wird String überhaupt verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 168,
+      "IsIgnored": false,
+      "Original": [
+        "Over Guard message",
+        ""
+      ],
+      "Translation": [
+        "\"Überschutz\"-Nachricht",
+        ""
+      ],
+      "Notes": [
+        "Übersetzungscheck + Wird String überhaupt verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 169,
+      "IsIgnored": false,
+      "Original": [
+        "Please wait...",
+        ""
+      ],
+      "Translation": [
+        "Bitte warten…",
+        ""
+      ],
+      "Notes": [
+        "Wird String überhaupt verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 170,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] gracefully dodged!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist anmutig ausgewichen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 171,
+      "IsIgnored": false,
+      "Original": [
+        "Please wait while another player",
+        "inputs commands.",
+        ""
+      ],
+      "Translation": [
+        "Bitte warten während anderer",
+        "Spieler Befehle eingibt.",
+        ""
+      ],
+      "Notes": [
+        "Wird String überhaupt verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 172,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] stands ready!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist bereit!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 173,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] threw [Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat [Variable1:1] geworfen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 174,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] is enduring it!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] erduldet es!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung…?",
+        ""
+      ]
+    },
+    {
+      "ID": 175,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s endurance",
+        "exploded!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Ausdauer ist",
+        "explodiert!",
+        ""
+      ],
+      "Notes": [
+        "\"ist explodiert\"? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 176,
+      "IsIgnored": false,
+      "Original": [
+        "With the last of its strength,",
+        "[Variable1:0] used [Variable1:3]!",
+        ""
+      ],
+      "Translation": [
+        "Mit seiner letzten Kraft",
+        "benutzte [Variable1:0] [Variable1:3]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 177,
+      "IsIgnored": false,
+      "Original": [
+        "With the last of its strength,",
+        "[Variable1:0] raised [Variable1:3]!",
+        ""
+      ],
+      "Translation": [
+        "Mit seiner letzten Kraft",
+        "errichtete [Variable1:0] [Variable1:3]!",
+        ""
+      ],
+      "Notes": [
+        "\"errichtete\"? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 178,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s glow intensifies!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Leuchten verstärkt sich!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 181,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s resistance",
+        "has been strengthened!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Resistenz wurde",
+        "verstärkt!",
+        ""
+      ],
+      "Notes": [
+        "\"Resistenz\"? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 182,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s, [Variable1:1]'s, and",
+        "[Variable1:2] resistance increased!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0], [Variable1:1] und",
+        "[Variable1:2]'s Resistenz erhöht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 183,
+      "IsIgnored": false,
+      "Original": [
+        "All resistances increased!",
+        ""
+      ],
+      "Translation": [
+        "Alle Resistenzen erhöht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 184,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s tentacle caught",
+        "[Variable1:1] and [Variable1:2]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Fühler hat",
+        "[Variable1:1] und [Variable1:2] gefangen!",
+        ""
+      ],
+      "Notes": [
+        "\"Fühler\", \"Fangarm\" oder \"Tentakel\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 185,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] absorbed [Variable1:2]",
+        "damage!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] absorbiert [Variable1:2]",
+        "Schaden!",
+        ""
+      ],
+      "Notes": [
+        "Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 186,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] has exploded!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist explodiert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 187,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] released a",
+        "fire module!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] hat ein Feuermodul",
+        "freigesetzt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 188,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] released an",
+        "ice module!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] hat ein Eismodul",
+        "freigesetzt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 189,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] released a",
+        "volt module!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] hat ein Voltmodul",
+        "freigesetzt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 190,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has stopped moving!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] bewegt sich nicht mehr!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 191,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] reacted!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] hat reagiert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 192,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:3] activated!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:3] aktiviert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 193,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] aimed carefully!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] zielt sorgsam!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 194,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] lowered the weapon!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat seine Waffe",
+        "gesenkt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 195,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] stands ready!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist bereit!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 196,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] growled and",
+        "attacked!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] knurrt und",
+        "greift an!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 197,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is dozing!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] döst herum!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 198,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] swings its scythe",
+        "and attacks!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] schwingt seine",
+        "Sichel und greift an!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 199,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s arm regenerates!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Arm regeneriert",
+        "sich!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 200,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is staring off",
+        "into space!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] schaut in die Luft!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 201,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is cleaning",
+        "itself!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] putzt sich!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 202,
+      "IsIgnored": false,
+      "Original": [
+        "Savior's Tentacle",
+        ""
+      ],
+      "Translation": [
+        "Fühler des Erlösers",
+        ""
+      ],
+      "Notes": [
+        "Kontext für Übersetzung…? Endboss?",
+        ""
+      ]
+    },
+    {
+      "ID": 203,
+      "IsIgnored": false,
+      "Original": [
+        "A communication error has occurred.",
+        "Please wait...",
+        ""
+      ],
+      "Translation": [
+        "Ein Verbindungsfehler ist aufgetreten.",
+        "Bitte warten…",
+        ""
+      ],
+      "Notes": [
+        "Wird String überhaupt verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 204,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has been",
+        "petrified!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wurde versteinert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 205,
+      "IsIgnored": false,
+      "Original": [
+        "The status ailment was nullified",
+        "by [Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "Die Statusveränderung wurde",
+        "durch [Variable1:1] aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 206,
+      "IsIgnored": false,
+      "Original": [
+        "The bind was nullified",
+        "by [Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "Die Fesselung wurde durch",
+        "[Variable1:1] aufgehoben!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 207,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s weakness triggered",
+        "Runic Guidance!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Schwäche hat",
+        "Runische Führung aktiviert!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung von \"Runic Guidance\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 208,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s eyes are",
+        "becoming bloodshot!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Augen sind",
+        "blutunterlaufen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 209,
+      "IsIgnored": false,
+      "Original": [
+        "But it didn't reach",
+        "[Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "Aber es hat [Variable1:1]",
+        "nicht erreicht…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 210,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] gracefully dodged",
+        "the attack!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist anmutig",
+        "ausgewichen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 211,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] seems to be",
+        "closing its eyes...",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] scheint seine",
+        "Augen zu schließen…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 212,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] flinches!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] weicht zurück!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 213,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] cannot move!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] kann sich nicht bewegen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 214,
+      "IsIgnored": false,
+      "Original": [
+        "You stand before the",
+        "Heavenbringer!",
+        ""
+      ],
+      "Translation": [
+        "Ihr steht vor dem Himmelsbringer!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 215,
+      "IsIgnored": false,
+      "Original": [
+        "Heavenbringer",
+        ""
+      ],
+      "Translation": [
+        "Himmelsbringer",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 216,
+      "IsIgnored": false,
+      "Original": [
+        "Warped Savior",
+        ""
+      ],
+      "Translation": [
+        "Verzerrter Erlöser",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 217,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] has been granted",
+        "a survival effect!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] erhielt einen",
+        "Überlebenseffekt!",
+        ""
+      ],
+      "Notes": [
+        "\"Überlebenseffekt\"? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 218,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] struck a pose!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] posiert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 219,
+      "IsIgnored": false,
+      "Original": [
+        "Status ailments will not",
+        "affect [Variable1:1] now!",
+        ""
+      ],
+      "Translation": [
+        "Statusveränderungen werden",
+        "[Variable1:1] jetzt nicht beeinflussen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 220,
+      "IsIgnored": false,
+      "Original": [
+        "Binds will not affect",
+        "[Variable1:1] now!",
+        ""
+      ],
+      "Translation": [
+        "Fesselungen werden",
+        "[Variable1:1] jetzt nicht beeinflussen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 221,
+      "IsIgnored": false,
+      "Original": [
+        "Appointed [Variable1:1] as the",
+        "defensive captain!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] zum Defensivkapitän",
+        "ernannt!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Wird benutzt?",
+        ""
+      ]
+    },
+    {
+      "ID": 222,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] blew itself up!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat sich selbst gesprengt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 223,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s [Variable1:2]",
+        "resistance has increased!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s [Variable1:2]-Resistenz",
+        "wurde erhöht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 224,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:3] scatters from",
+        "[Variable1:0]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:3] wird von",
+        "[Variable1:0] verstreut!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 225,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] preyed on [Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] fraß [Variable1:1]!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 226,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] grows enormous!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] wächst zu",
+        "unheimlicher Größe!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 227,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] began wriggling",
+        "around...",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] schlängelt umher…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 228,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] lowered its hand...",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] senkte seine Hand…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 229,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s hands are bound!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Hände sind gefesselt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 230,
+      "IsIgnored": false,
+      "Original": [
+        "Tentacles came out of",
+        "[Variable1:0]'s wound!",
+        ""
+      ],
+      "Translation": [
+        "Aus [Variable1:0]'s Wunde",
+        "kommen Fühler!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 231,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s tentacle",
+        "has resurrected!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Fühler wurde",
+        "wiederbelebt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 232,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is charging up!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] lädt sich auf!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 233,
+      "IsIgnored": false,
+      "Original": [
+        "Everyone's [Variable1:2]",
+        "resistance has increased!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:2]-Resistenz aller",
+        "würde erhöht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 234,
+      "IsIgnored": false,
+      "Original": [
+        "The drop rate has increased!",
+        ""
+      ],
+      "Translation": [
+        "Die Drop-Rate wurde erhöht!",
+        ""
+      ],
+      "Notes": [
+        "Alternative zu \"Drop Rate\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 235,
+      "IsIgnored": false,
+      "Original": [
+        "The TP cost of your next",
+        "actions will be doubled!",
+        ""
+      ],
+      "Translation": [
+        "TP-Verbrauch für den nächsten",
+        "Angriff wurde verdoppelt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 236,
+      "IsIgnored": false,
+      "Original": [
+        "Your Burst Gauge has",
+        "been drained!",
+        ""
+      ],
+      "Translation": [
+        "Burst-Leiste wurde geleert!",
+        ""
+      ],
+      "Notes": [
+        "Alternative zu \"Burst-Leiste\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 237,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s [Variable1:2]",
+        "resistance has decreased!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s [Variable1:2]-Resistenz",
+        "wurde gesenkt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 238,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s eye opens!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Auge öffnet sich!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 239,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s eye closes!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Auge schließt sich!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 240,
+      "IsIgnored": false,
+      "Original": [
+        "The ultimate life form bursts",
+        "forth from its larval body...",
+        ""
+      ],
+      "Translation": [
+        "Die ultimative Lebensform bricht",
+        "aus seiner Larvenform hervor…",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 241,
+      "IsIgnored": false,
+      "Original": [
+        "But there wasn't enough TP!",
+        ""
+      ],
+      "Translation": [
+        "Nicht genügend TP!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 242,
+      "IsIgnored": false,
+      "Original": [
+        "The front and back row",
+        "switched positions!",
+        ""
+      ],
+      "Translation": [
+        "Die vordere und hintere Reihe",
+        "haben die Positionen getauscht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 243,
+      "IsIgnored": false,
+      "Original": [
+        "Your party's TP consumption",
+        "has been doubled!",
+        ""
+      ],
+      "Translation": [
+        "TP-Verbrauch der Gruppe",
+        "wurde verdoppelt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 244,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] is gathering",
+        "power!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] sammelt Kraft an!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 245,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] is preparing for",
+        "a chance to counterattack!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] wartet auf eine Chance",
+        "zum Gegenangriff!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 246,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] hatched from",
+        "the [Variable1:0]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist aus dem",
+        "[Variable1:0] geschlüpft!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 247,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] couldn't cooperate!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] konnte nicht kooperieren!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 248,
+      "IsIgnored": false,
+      "Original": [
+        "The power stored in the",
+        "[Variable1:0] is unleashed!",
+        ""
+      ],
+      "Translation": [
+        "Die in [Variable1:0] gespeicherte",
+        "Kraft wurde freigesetzt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 249,
+      "IsIgnored": false,
+      "Original": [
+        "The indescribable god",
+        "has awakened!",
+        ""
+      ],
+      "Translation": [
+        "Der unbeschreibliche Gott",
+        "ist erwacht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 250,
+      "IsIgnored": false,
+      "Original": [
+        "The party was enveloped in a",
+        "light that blocks enemy attacks!",
+        ""
+      ],
+      "Translation": [
+        "Die Gruppe ist in ein Licht gehüllt,",
+        "das gegnerische Angriffe blockiert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 251,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s fish released",
+        "a blinding light!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Fisch setzt ein",
+        "blendendes Licht frei!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 252,
+      "IsIgnored": false,
+      "Original": [
+        "Defeated the Abyssal King",
+        "and Olympia!",
+        ""
+      ],
+      "Translation": [
+        "Der Abyssale König und Olympia",
+        "wurden besiegt!",
+        ""
+      ],
+      "Notes": [
+        "Wird String überhaupt verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 253,
+      "IsIgnored": false,
+      "Original": [
+        "Defeated the Gatekeeper!",
+        ""
+      ],
+      "Translation": [
+        "Der Torwächter wurde besiegt!",
+        ""
+      ],
+      "Notes": [
+        "Wird String überhaupt verwendet?",
+        ""
+      ]
+    },
+    {
+      "ID": 254,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is disentangling",
+        "its twisted tentacles!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] entwirrt seine",
+        "verrenkten Tentakel!",
+        ""
+      ],
+      "Notes": [
+        "\"Fühler\", \"Fangarm\" oder \"Tentakel\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 255,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] moved to",
+        "a different line!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] bewegte sich",
+        "in eine andere Reihe!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 256,
+      "IsIgnored": false,
+      "Original": [
+        "The [Variable1:0]s moved to",
+        "a different line!",
+        ""
+      ],
+      "Translation": [
+        "Die [Variable1:0] bewegten sich",
+        "in eine andere Reihe!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 257,
+      "IsIgnored": false,
+      "Original": [
+        "The monsters altered",
+        "their formation!",
+        ""
+      ],
+      "Translation": [
+        "Die Monster haben ihre",
+        "Formation geändert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 258,
+      "IsIgnored": false,
+      "Original": [
+        "Piercing effect activated!",
+        ""
+      ],
+      "Translation": [
+        "Durchdringungseffekt aktiviert!",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung? Siehe InterfaceFile\\CampBlackSmithText",
+        ""
+      ]
+    },
+    {
+      "ID": 259,
+      "IsIgnored": false,
+      "Original": [
+        "Splashing effect activated!",
+        ""
+      ],
+      "Translation": [
+        "Streueffekt aktiviert!",
+        ""
+      ],
+      "Notes": [
+        "Bessere Übersetzung? Siehe InterfaceFile\\CampBlackSmithText",
+        ""
+      ]
+    },
+    {
+      "ID": 260,
+      "IsIgnored": false,
+      "Original": [
+        "There are rare breeds in",
+        "the herd!",
+        ""
+      ],
+      "Translation": [
+        "In der Herde befindet sich",
+        "eine seltene Art!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 261,
+      "IsIgnored": false,
+      "Original": [
+        "A rare breed of [Variable1:0]",
+        "has appeared!",
+        ""
+      ],
+      "Translation": [
+        "Eine seltene Art von",
+        "[Variable1:0] ist erschienen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 262,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is building up",
+        "its strength!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] sammelt seine Kräfte!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 263,
+      "IsIgnored": false,
+      "Original": [
+        "The enemy changed!",
+        ""
+      ],
+      "Translation": [
+        "Der Gegner hat sich verändert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 264,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] changed its attack",
+        "element!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Elementarangriff hat",
+        "sich verändert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 265,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is undergoing",
+        "a Blood Surge!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat eine Blutwoge!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung von \"Blood Surge\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 266,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] returned to normal.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat sich normalisiert.",
+        ""
+      ],
+      "Notes": [
+        "Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 267,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] endured the attack!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat den Angriff ausgehalten!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 268,
+      "IsIgnored": false,
+      "Original": [
+        "Free Energy activated!",
+        ""
+      ],
+      "Translation": [
+        "Freie Energie aktiviert!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung von \"Free Energy\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 269,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] laid down a",
+        "[Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] zeichnet einen",
+        "[Variable1:1]!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Kontext sind Circle der Arcanists?",
+        ""
+      ]
+    },
+    {
+      "ID": 270,
+      "IsIgnored": false,
+      "Original": [
+        "The [Variable1:0] takes effect!",
+        ""
+      ],
+      "Translation": [
+        "Der [Variable1:0] tritt in Kraft!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 271,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] vanishes into",
+        "the scenery!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] verschwindet in",
+        "der Umgebung!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 272,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] retured to normal!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat sich normalisiert.",
+        ""
+      ],
+      "Notes": [
+        "Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 273,
+      "IsIgnored": false,
+      "Original": [
+        "The [Variable1:0] has frozen!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] wurde eingefrohren!",
+        ""
+      ],
+      "Notes": [
+        "Kontext?",
+        ""
+      ]
+    },
+    {
+      "ID": 274,
+      "IsIgnored": false,
+      "Original": [
+        "The [Variable1:0] is frozen!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist eingefrohren!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 275,
+      "IsIgnored": false,
+      "Original": [
+        "The black mist which formed around",
+        "[Variable1:0] engulfs the enemy!",
+        ""
+      ],
+      "Translation": [
+        "Der schwarze Nebel um",
+        "[Variable1:0] hüllt den Gegner ein!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 276,
+      "IsIgnored": false,
+      "Original": [
+        "A scale flew off of the",
+        "[Variable1:0]!",
+        ""
+      ],
+      "Translation": [
+        "Eine Schuppe löste sich",
+        "von [Variable1:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 277,
+      "IsIgnored": false,
+      "Original": [
+        "A [Variable1:0] lodges itself",
+        "in the ground!",
+        ""
+      ],
+      "Translation": [
+        "Eine [Variable1:0] steckt nun",
+        "im Boden!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 278,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] shattered!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] ist zerbrochen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 279,
+      "IsIgnored": false,
+      "Original": [
+        "The Burst Gauge drained!",
+        ""
+      ],
+      "Translation": [
+        "Die Burst-Leiste wurde geleert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 280,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s drive blade",
+        "overheated!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Antriebsklinge ist",
+        "überhitzt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 281,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0]'s drive blade cooled",
+        "down and regained its functions!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0]'s Antriebsklinge hat",
+        "sich abgekühlt! Funktionen wieder normal!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Passt in Textbox...?",
+        ""
+      ]
+    },
+    {
+      "ID": 282,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] entered self-destruct",
+        "mode! 3 turns until detonation!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] hat Selbstzerstörung",
+        "eingeleitet! 3 Züge bis zur Explosion!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 283,
+      "IsIgnored": false,
+      "Original": [
+        "2 turns until [Variable1:0]",
+        "self-destructs!",
+        ""
+      ],
+      "Translation": [
+        "2 Züge bis zu [Variable1:0]'s",
+        "Selbstzerstörung!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 284,
+      "IsIgnored": false,
+      "Original": [
+        "1 turn until [Variable1:0]",
+        "self-destructs!",
+        ""
+      ],
+      "Translation": [
+        "1 Zug bis zu [Variable1:0]'s",
+        "Selbstzerstörung!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 285,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is watching.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] betrachtet das Geschehen.",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 286,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is searching for",
+        "a target.",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] sucht nach einem Ziel.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 287,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] greatly expands!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] dehnt sich stark aus!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 288,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] stopped moving!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] bewegt sich nicht mehr!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 289,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is asleep...",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] schläft…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 290,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s elemental attack",
+        "increases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Elementar-Angriff hat",
+        "sich erhöht!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 291,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s elemental defense",
+        "increases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Elementar-Verteidigung",
+        "hat sich erhöht!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 292,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s physical and",
+        "elemental attack increases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s physischer und Elementar-",
+        "Angriff haben sich erhöht!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 293,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s physical and",
+        "elemental defense increases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s physische und Elementar-",
+        "Verteidigung haben sich erhöht!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 294,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s elemental attack",
+        "decreases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Elementar-Angriff wurde",
+        "gesenkt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 295,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s elemental defense",
+        "decreases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Elementar-Verteidigung",
+        "wurde gesenkt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 296,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s physical and",
+        "elemental attack decreases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s physischer und Elementar-",
+        "Angriff wurden gesenkt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 297,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s physical and",
+        "elemental defense decreases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s physische und Elementar-",
+        "Verteidigung wurden gesenkt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 298,
+      "IsIgnored": false,
+      "Original": [
+        "A wall of flame appears",
+        "before [Variable1:1]!",
+        ""
+      ],
+      "Translation": [
+        "Eine Feuerwand erscheint",
+        "vor [Variable1:1]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 299,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is engulfed in",
+        "a wall of flame!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist von einer",
+        "Feuerwand umschlossen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 300,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "fire increases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Feuerresistenz",
+        "hat sich erhöht!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 301,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "ice increases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Eisresistenz",
+        "hat sich erhöht!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 302,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "electricity increases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Elektrizitäts-",
+        "resistenz hat sich erhöht!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 303,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "cut attacks increases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Resistenz gegen",
+        "Schneidangriffe hat sich erhöht!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 304,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "bash attacks increases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Resistenz gegen",
+        "Schlagangriffe hat sich erhöht!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 305,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "stab attacks increases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Resistenz gegen",
+        "Stechangriffe hat sich erhöht!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 306,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "fire decreases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Feuerresistenz",
+        "wurde gesenkt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 307,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "ice decreases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Eisresistenz",
+        "wurde gesenkt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 308,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "volt decreases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Elektrizitäts-",
+        "resistenz wurde gesenkt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 309,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "cut attacks decreases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Resistenz gegen",
+        "Schneidangriffe wurde gesenkt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 310,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "bash attacks decreases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Resistenz gegen",
+        "stumpfe Angriffe wurde gesenkt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 311,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s resistance to",
+        "stab attacks decreases!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Resistenz gegen",
+        "Stechangriffe wurde gesenkt!",
+        ""
+      ],
+      "Notes": [
+        "\"\"",
+        ""
+      ]
+    },
+    {
+      "ID": 312,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] readies a",
+        "counterattack!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] bereitet einen",
+        "Gegenangriff vor!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 313,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] readies a",
+        "follow-up attack!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] bereitet einen",
+        "nachfolgenden Angriff vor!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 314,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s line readies",
+        "a follow-up attack!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Reihe bereitet",
+        "einen nachfolgenden Angriff vor!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung?",
+        ""
+      ]
+    },
+    {
+      "ID": 315,
+      "IsIgnored": false,
+      "Original": [
+        "The recovery of [Variable1:1]'s",
+        "line is bolstered!",
+        ""
+      ],
+      "Translation": [
+        "Heilung von [Variable1:1]'s",
+        "Reihe verbessert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 316,
+      "IsIgnored": false,
+      "Original": [
+        "The physical attack of those",
+        "on [Variable1:1]'s line increases!",
+        ""
+      ],
+      "Translation": [
+        "Physische Angriffsstärke von",
+        "[Variable1:1]'s Reihe erhöht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 317,
+      "IsIgnored": false,
+      "Original": [
+        "The physical defense of those",
+        "on [Variable1:1]'s line decreases!",
+        ""
+      ],
+      "Translation": [
+        "Physische Verteidigung von",
+        "[Variable1:1]'s Reihe erhöht!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 318,
+      "IsIgnored": false,
+      "Original": [
+        "The TP cost for those on",
+        "[Variable1:1]'s line decreases!",
+        ""
+      ],
+      "Translation": [
+        "TP-Verbrauch von [Variable1:1]'s",
+        "Reihe gesenkt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 319,
+      "IsIgnored": false,
+      "Original": [
+        "The number of added attacks",
+        "from Link Skills increased!",
+        ""
+      ],
+      "Translation": [
+        "Anzahl der zusätzlichen Angriffe",
+        "durch Kettenangriffe erhöht!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung für \"Link Skills\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 320,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1] readies for the",
+        "enemy's attack!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1] bereitet sich auf",
+        "den Angriff des Gegners vor!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 321,
+      "IsIgnored": false,
+      "Original": [
+        "The effect of [Variable1:1]'s",
+        "healing increases!",
+        ""
+      ],
+      "Translation": [
+        "Effektivität von [Variable1:1]'s",
+        "Heilung verbessert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 322,
+      "IsIgnored": false,
+      "Original": [
+        "The range of [Variable1:1]'s",
+        "healing increases!",
+        ""
+      ],
+      "Translation": [
+        "Reichweite von [Variable1:1]'s",
+        "Heilung verbessert!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 323,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is weakened and",
+        "cannot move!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist geschwächt und",
+        "kann sich nicht bewegen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 324,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is floating...",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] schwebt…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 325,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:0] is panicked!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:0] ist verängstigt!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 326,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s effect on the",
+        "enemy wears off!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Einfluss auf",
+        "den Gegner lässt nach!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 327,
+      "IsIgnored": false,
+      "Original": [
+        "[Variable1:1]'s effect on the",
+        "enemy wears off!",
+        ""
+      ],
+      "Translation": [
+        "[Variable1:1]'s Einfluss auf",
+        "den Gegner lässt nach!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 328,
+      "IsIgnored": false,
+      "Original": [
+        "Resistance to binds and status",
+        "ailments is reset!",
+        ""
+      ],
+      "Translation": [
+        "Resistenz gegen Fesseln und Status-",
+        "veränderungen zurückgesetzt!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung? Passt in Textbox...?",
+        ""
+      ]
+    },
+    {
+      "ID": 329,
+      "IsIgnored": false,
+      "Original": [
+        "However, there was no circle",
+        "laid down!",
+        ""
+      ],
+      "Translation": [
+        "Doch es ist kein Zirkel gezeichnet!",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung von \"Circle\"?",
+        ""
+      ]
+    }
+  ]
+}

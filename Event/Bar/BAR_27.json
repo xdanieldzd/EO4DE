@@ -1,0 +1,54 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_27",
+  "RelativePath": "Event\\Bar\\BAR_27.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Are you new to exploring the Sacred",
+        "Mountains? Before I head there, I'm",
+        "studying the [Color:5][Enemy1:208][Color:0]'s behavior.",
+        "[Page]",
+        "",
+        "I've heard it likes to eat [Color:5]apples[Color:0] and",
+        "[Color:5]rabbits[Color:0] from the [Color:5]Sacred Mountains[Color:0].",
+        "[Page]",
+        "",
+        "But that monster moves so quickly that",
+        "it takes barely any time after it",
+        "finishes eating to catch up with you.",
+        "[Page]",
+        "",
+        "It would be a different story if you",
+        "had [Color:5]some way to throw the food",
+        "further[Color:0], mind you...",
+        ""
+      ],
+      "Translation": [
+        "Are you new to exploring the Sacred",
+        "Mountains? Before I head there, I'm",
+        "studying the [Color:5][Enemy1:208][Color:0]'s behavior.",
+        "[Page]",
+        "",
+        "I've heard it likes to eat [Color:5]apples[Color:0] and",
+        "[Color:5]rabbits[Color:0] from the [Color:5]Sacred Mountains[Color:0].",
+        "[Page]",
+        "",
+        "But that monster moves so quickly that",
+        "it takes barely any time after it",
+        "finishes eating to catch up with you.",
+        "[Page]",
+        "",
+        "It would be a different story if you",
+        "had [Color:5]some way to throw the food",
+        "further[Color:0], mind you...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

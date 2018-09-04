@@ -1,0 +1,1011 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_018",
+  "RelativePath": "Event\\Quest\\QUE_018.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ahh, another request from Dalla at the",
+        "Saehrimnir Inn. I believe you all know",
+        "her quite well by now.",
+        "[Page]",
+        "",
+        "She wants you to... oomph, fill this",
+        "barrel with the [Color:5]apples[Color:0] that can be",
+        "found in the [Color:5]Sacred Mountains[Color:0].",
+        "[Page]",
+        "",
+        "Given the barrel's size... I think",
+        "around [Color:5]4[Color:0] would fit. You'll want to be",
+        "selective with what you pick.",
+        "[Page]",
+        "",
+        "I did not know apples grew in that",
+        "frigid land, but I am excited to see",
+        "what Dalla has in store for them.",
+        "[Page]",
+        "",
+        "Well, take care, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Ahh, another request from Dalla at the",
+        "Saehrimnir Inn. I believe you all know",
+        "her quite well by now.",
+        "[Page]",
+        "",
+        "She wants you to... oomph, fill this",
+        "barrel with the [Color:5]apples[Color:0] that can be",
+        "found in the [Color:5]Sacred Mountains[Color:0].",
+        "[Page]",
+        "",
+        "Given the barrel's size... I think",
+        "around [Color:5]4[Color:0] would fit. You'll want to be",
+        "selective with what you pick.",
+        "[Page]",
+        "",
+        "I did not know apples grew in that",
+        "frigid land, but I am excited to see",
+        "what Dalla has in store for them.",
+        "[Page]",
+        "",
+        "Well, take care, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Goodness, you gathered so many...",
+        "Apples are one of my favorite foods,",
+        "as attractive as they are delicious.",
+        "[Page]",
+        "",
+        "Stay right here and I shall go have",
+        "the client give these a look.",
+        ""
+      ],
+      "Translation": [
+        "Goodness, you gathered so many...",
+        "Apples are one of my favorite foods,",
+        "as attractive as they are delicious.",
+        "[Page]",
+        "",
+        "Stay right here and I shall go have",
+        "the client give these a look.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Dalla was satisfied with the apples",
+        "and sends her regards. I again thank",
+        "you for your hard work.",
+        "[Page]",
+        "",
+        "It must be nice to stay at the",
+        "Saehrimnir Inn... to be met with",
+        "homemade meals upon your return.",
+        "[Page]",
+        "",
+        "Perhaps I should abandon this",
+        "establishment and take up the",
+        "adventuring life... That was a joke.",
+        ""
+      ],
+      "Translation": [
+        "Dalla was satisfied with the apples",
+        "and sends her regards. I again thank",
+        "you for your hard work.",
+        "[Page]",
+        "",
+        "It must be nice to stay at the",
+        "Saehrimnir Inn... to be met with",
+        "homemade meals upon your return.",
+        "[Page]",
+        "",
+        "Perhaps I should abandon this",
+        "establishment and take up the",
+        "adventuring life... That was a joke.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Your apples were far above what Dalla",
+        "expected. I brought back a bonus to",
+        "your reward that she supplied.",
+        "[Page]",
+        "",
+        "It must be nice to stay at the",
+        "Saehrimnir Inn... to be met with",
+        "homemade meals upon your return.",
+        "[Page]",
+        "",
+        "Perhaps I should abandon this",
+        "establishment and take up the",
+        "adventuring life... That was a joke.",
+        ""
+      ],
+      "Translation": [
+        "Your apples were far above what Dalla",
+        "expected. I brought back a bonus to",
+        "your reward that she supplied.",
+        "[Page]",
+        "",
+        "It must be nice to stay at the",
+        "Saehrimnir Inn... to be met with",
+        "homemade meals upon your return.",
+        "[Page]",
+        "",
+        "Perhaps I should abandon this",
+        "establishment and take up the",
+        "adventuring life... That was a joke.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Dalla was surprised by the apples!",
+        "She said you had a very discerning",
+        "eye, and gave me a bonus for you...",
+        "[Page]",
+        "",
+        "It must be nice to stay at the",
+        "Saehrimnir Inn... to be met with",
+        "homemade meals upon your return.",
+        "[Page]",
+        "",
+        "If you are to regularly fetch her",
+        "ingredients, perhaps I should take",
+        "up the adventuring life... Kidding.",
+        ""
+      ],
+      "Translation": [
+        "Dalla was surprised by the apples!",
+        "She said you had a very discerning",
+        "eye, and gave me a bonus for you...",
+        "[Page]",
+        "",
+        "It must be nice to stay at the",
+        "Saehrimnir Inn... to be met with",
+        "homemade meals upon your return.",
+        "[Page]",
+        "",
+        "If you are to regularly fetch her",
+        "ingredients, perhaps I should take",
+        "up the adventuring life... Kidding.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You find a fresh apple! You may put",
+        "it in the barrel toward completion",
+        "of this request.",
+        ""
+      ],
+      "Translation": [
+        "You find a fresh apple! You may put",
+        "it in the barrel toward completion",
+        "of this request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Put a [Color:6][Number:1][Color:5] in the barrel?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Put a [Color:6][Number:1][Color:5] in the barrel?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Put an apple in the barrel?[Color:0]",
+        "Put in a [Color:6][Number:1][Color:0]",
+        "Put in a [Color:6][Number:2][Color:0]",
+        "Keep it for yourself",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Put an apple in the barrel?[Color:0]",
+        "Put in a [Color:6][Number:1][Color:0]",
+        "Put in a [Color:6][Number:2][Color:0]",
+        "Keep it for yourself",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Rather than putting any apples into",
+        "the barrel, you instead put it with",
+        "the rest of your things.",
+        ""
+      ],
+      "Translation": [
+        "Rather than putting any apples into",
+        "the barrel, you instead put it with",
+        "the rest of your things.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You put the fresh apple into the",
+        "barrel.",
+        ""
+      ],
+      "Translation": [
+        "You put the fresh apple into the",
+        "barrel.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "The barrel can now hold roughly [Color:5][Number:0][Color:0]",
+        "more...",
+        ""
+      ],
+      "Translation": [
+        "The barrel can now hold roughly [Color:5][Number:0][Color:0]",
+        "more...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "With that, the barrel is full! You",
+        "have completed the quest, and must",
+        "now only deliver it to the bar.",
+        ""
+      ],
+      "Translation": [
+        "With that, the barrel is full! You",
+        "have completed the quest, and must",
+        "now only deliver it to the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Gathering more ingredients, are yeh?",
+        "Sounds like this time, Dalla is",
+        "thinking about a rabbit dish!",
+        "[Page]",
+        "",
+        "Yeh have to take your hat off to her",
+        "passion for cooking!",
+        ""
+      ],
+      "Translation": [
+        "Gathering more ingredients, are yeh?",
+        "Sounds like this time, Dalla is",
+        "thinking about a rabbit dish!",
+        "[Page]",
+        "",
+        "Yeh have to take your hat off to her",
+        "passion for cooking!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "What's this business with the barrel",
+        "about? Did you give up exploring and",
+        "take jobs down at the wharf?",
+        "[Page]",
+        "",
+        "What...? You took on work gathering",
+        "food for the innkeeper!? Then you",
+        "should have said so, peabrains!",
+        "[Page]",
+        "",
+        "This is your moment of truth! Use that",
+        "explorers' strength and cunning to",
+        "the fullest and get that food!",
+        ""
+      ],
+      "Translation": [
+        "What's this business with the barrel",
+        "about? Did you give up exploring and",
+        "take jobs down at the wharf?",
+        "[Page]",
+        "",
+        "What...? You took on work gathering",
+        "food for the innkeeper!? Then you",
+        "should have said so, peabrains!",
+        "[Page]",
+        "",
+        "This is your moment of truth! Use that",
+        "explorers' strength and cunning to",
+        "the fullest and get that food!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "This apple-gathering request is like",
+        "your own contribution to the city,",
+        "on par with the Grand Court's duty.",
+        "[Page]",
+        "",
+        "No... it means more than that. This",
+        "may be the true test of your worth",
+        "as explorers.",
+        ""
+      ],
+      "Translation": [
+        "This apple-gathering request is like",
+        "your own contribution to the city,",
+        "on par with the Grand Court's duty.",
+        "[Page]",
+        "",
+        "No... it means more than that. This",
+        "may be the true test of your worth",
+        "as explorers.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Aw hey, it's da [Guild] crew!",
+        "Ya're doing dat thing for da inn",
+        "lady, right? Everyone's excited!",
+        "[Page]",
+        "",
+        "It's a vegetarian dish this time, huh?",
+        "Aw man, my mouth's already watering,",
+        "hahaha!",
+        ""
+      ],
+      "Translation": [
+        "Aw hey, it's da [Guild] crew!",
+        "Ya're doing dat thing for da inn",
+        "lady, right? Everyone's excited!",
+        "[Page]",
+        "",
+        "It's a vegetarian dish this time, huh?",
+        "Aw man, my mouth's already watering,",
+        "hahaha!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "The last dish prepared using your",
+        "ingredients was a great success! And",
+        "I believe you will succeed again.",
+        "[Page]",
+        "",
+        "Now, go forth, my friends. Head out",
+        "and don't come back until you have",
+        "the finest apples in the land!",
+        ""
+      ],
+      "Translation": [
+        "The last dish prepared using your",
+        "ingredients was a great success! And",
+        "I believe you will succeed again.",
+        "[Page]",
+        "",
+        "Now, go forth, my friends. Head out",
+        "and don't come back until you have",
+        "the finest apples in the land!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, hello, dearies! Did you accept",
+        "another one of my requests? That's",
+        "ever so nice of you.",
+        "[Page]",
+        "",
+        "You'll have to go to an awfully cold",
+        "place. Be sure to button up so you",
+        "don't get sick!",
+        ""
+      ],
+      "Translation": [
+        "Oh, hello, dearies! Did you accept",
+        "another one of my requests? That's",
+        "ever so nice of you.",
+        "[Page]",
+        "",
+        "You'll have to go to an awfully cold",
+        "place. Be sure to button up so you",
+        "don't get sick!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

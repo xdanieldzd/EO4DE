@@ -1,0 +1,2329 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Touti",
+  "RelativePath": "Event\\Facility\\Touti.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "You must be more explorers taking up",
+        "the search for Yggdrasil. No problems",
+        "finding the Court, I trust?",
+        "[Page]",
+        "",
+        "Welcome to Tharsis, the city closest",
+        "to Yggdrasil. I am its overseer; you",
+        "may call me the [Color:5]Outland Count[Color:0].",
+        "[Page]",
+        "",
+        "Here in my Grand Court, when there are",
+        "important duties to be carried out, I",
+        "assign them to explorers as [Color:5]missions[Color:0].",
+        "[Page]",
+        "",
+        "But of all the explorers who arrive in",
+        "Tharsis, like yourselves, we want only",
+        "the best on the hunt for Yggdrasil.",
+        "[Page]",
+        "",
+        "Before you can set out on your search,",
+        "you must prove yourself worthy as",
+        "explorers. What say you to this?",
+        ""
+      ],
+      "Translation": [
+        "You must be more explorers taking up",
+        "the search for Yggdrasil. No problems",
+        "finding the Court, I trust?",
+        "[Page]",
+        "",
+        "Welcome to Tharsis, the city closest",
+        "to Yggdrasil. I am its overseer; you",
+        "may call me the [Color:5]Outland Count[Color:0].",
+        "[Page]",
+        "",
+        "Here in my Grand Court, when there are",
+        "important duties to be carried out, I",
+        "assign them to explorers as [Color:5]missions[Color:0].",
+        "[Page]",
+        "",
+        "But of all the explorers who arrive in",
+        "Tharsis, like yourselves, we want only",
+        "the best on the hunt for Yggdrasil.",
+        "[Page]",
+        "",
+        "Before you can set out on your search,",
+        "you must prove yourself worthy as",
+        "explorers. What say you to this?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]How will you respond?[Color:0]",
+        "With annoyance",
+        "With acceptance",
+        "With silence",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]How will you respond?[Color:0]",
+        "With annoyance",
+        "With acceptance",
+        "With silence",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Ha! I like your fire. But as caretaker",
+        "of Tharsis, I cannot send unprepared",
+        "youths into severe danger.",
+        "[Page]",
+        "",
+        "The fairest way to know whether you",
+        "can be trusted with this burden is to",
+        "see how you perform in a test.",
+        "[Page]",
+        "",
+        "If you'll accept the [Color:5]mission[Color:0] I've",
+        "issued to new explorers, perhaps you",
+        "can back up your boasts with results.",
+        ""
+      ],
+      "Translation": [
+        "Ha! I like your fire. But as caretaker",
+        "of Tharsis, I cannot send unprepared",
+        "youths into severe danger.",
+        "[Page]",
+        "",
+        "The fairest way to know whether you",
+        "can be trusted with this burden is to",
+        "see how you perform in a test.",
+        "[Page]",
+        "",
+        "If you'll accept the [Color:5]mission[Color:0] I've",
+        "issued to new explorers, perhaps you",
+        "can back up your boasts with results.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, very reasonable of you! In that",
+        "case, simply accept the [Color:5]mission[Color:0] I",
+        "have offered and prove your skills.",
+        ""
+      ],
+      "Translation": [
+        "Ah, very reasonable of you! In that",
+        "case, simply accept the [Color:5]mission[Color:0] I",
+        "have offered and prove your skills.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "No answer, eh? Ha... very cautious of",
+        "you. An explorer must be prudent...",
+        "Is that the point you're making?",
+        "[Page]",
+        "",
+        "Then simply accept the [Color:5]mission[Color:0] I have",
+        "issued and prove that your judgement",
+        "is sound even in a labyrinth.",
+        ""
+      ],
+      "Translation": [
+        "No answer, eh? Ha... very cautious of",
+        "you. An explorer must be prudent...",
+        "Is that the point you're making?",
+        "[Page]",
+        "",
+        "Then simply accept the [Color:5]mission[Color:0] I have",
+        "issued and prove that your judgement",
+        "is sound even in a labyrinth.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. I'm sure you've heard, but",
+        "a red-furred monster was seen in the",
+        "lower reaches of the Lush Woodlands.",
+        "[Page]",
+        "",
+        "It has claimed the lives of many of",
+        "our soldiers. Left unchecked, it may",
+        "prove a menace to you explorers, too.",
+        "[Page]",
+        "",
+        "I've issued a mission to subjugate the",
+        "beast. It is the most dangerous task",
+        "I've requested, but it must be done.",
+        "[Page]",
+        "",
+        "If you believe your skill to be up to",
+        "the challenge, then by all means,",
+        "accept the mission.",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. I'm sure you've heard, but",
+        "a red-furred monster was seen in the",
+        "lower reaches of the Lush Woodlands.",
+        "[Page]",
+        "",
+        "It has claimed the lives of many of",
+        "our soldiers. Left unchecked, it may",
+        "prove a menace to you explorers, too.",
+        "[Page]",
+        "",
+        "I've issued a mission to subjugate the",
+        "beast. It is the most dangerous task",
+        "I've requested, but it must be done.",
+        "[Page]",
+        "",
+        "If you believe your skill to be up to",
+        "the challenge, then by all means,",
+        "accept the mission.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "\"I see... But this is incredible!\"",
+        "The Count can barely restrain his",
+        "excitement at your report.",
+        "[Page]",
+        "",
+        "\"An entire unknown race, dwelling",
+        "deep within an unknown labyrinth...",
+        "Vessels, you called them?",
+        "[Page]",
+        "",
+        "\"And they are led by a young human",
+        "girl... Most interesting.",
+        "[Page]",
+        "",
+        "\"I'm intrigued by the account of",
+        "history this woman Wufan gave, but",
+        "it raises so many questions.",
+        "[Page]",
+        "",
+        "\"I'd like to ask you personally to",
+        "handle the mission, since you are",
+        "already involved... What say you?\"",
+        ""
+      ],
+      "Translation": [
+        "\"I see... But this is incredible!\"",
+        "The Count can barely restrain his",
+        "excitement at your report.",
+        "[Page]",
+        "",
+        "\"An entire unknown race, dwelling",
+        "deep within an unknown labyrinth...",
+        "Vessels, you called them?",
+        "[Page]",
+        "",
+        "\"And they are led by a young human",
+        "girl... Most interesting.",
+        "[Page]",
+        "",
+        "\"I'm intrigued by the account of",
+        "history this woman Wufan gave, but",
+        "it raises so many questions.",
+        "[Page]",
+        "",
+        "\"I'd like to ask you personally to",
+        "handle the mission, since you are",
+        "already involved... What say you?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "So you've encountered yet another new",
+        "face... You make one amazing discovery",
+        "after another.",
+        "[Page]",
+        "",
+        "But I worry about this illness you say",
+        "they suffer from. I see no reason not",
+        "to come to their aid.",
+        "[Page]",
+        "",
+        "In fact, let's make it a mission.",
+        "Please accept it that we might",
+        "establish cordial relations.",
+        ""
+      ],
+      "Translation": [
+        "So you've encountered yet another new",
+        "face... You make one amazing discovery",
+        "after another.",
+        "[Page]",
+        "",
+        "But I worry about this illness you say",
+        "they suffer from. I see no reason not",
+        "to come to their aid.",
+        "[Page]",
+        "",
+        "In fact, let's make it a mission.",
+        "Please accept it that we might",
+        "establish cordial relations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, hello. How goes your pursuit of",
+        "the Medium?",
+        "[Page]",
+        "",
+        "Hmm... an Empire and their fleet of",
+        "warships... Things are progressing in",
+        "an unexpected direction.",
+        "[Page]",
+        "",
+        "I'd bet my Margherita that Whirlwind",
+        "is connected to that Empire. I'll",
+        "accept their parley offer, of course.",
+        "[Page]",
+        "",
+        "Though I would like to ask you to",
+        "provide escort to the meeting point.",
+        "[Page]",
+        "",
+        "I'll make a mission of it, in the",
+        "hopes that you'll accept.",
+        ""
+      ],
+      "Translation": [
+        "Ah, hello. How goes your pursuit of",
+        "the Medium?",
+        "[Page]",
+        "",
+        "Hmm... an Empire and their fleet of",
+        "warships... Things are progressing in",
+        "an unexpected direction.",
+        "[Page]",
+        "",
+        "I'd bet my Margherita that Whirlwind",
+        "is connected to that Empire. I'll",
+        "accept their parley offer, of course.",
+        "[Page]",
+        "",
+        "Though I would like to ask you to",
+        "provide escort to the meeting point.",
+        "[Page]",
+        "",
+        "I'll make a mission of it, in the",
+        "hopes that you'll accept.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back, Guild [Guild]. I see",
+        "everything went smoothly in acquiring",
+        "the [Color:6][Item:1458][Color:0].",
+        "[Page]",
+        "",
+        "With that flame, you can ascend to",
+        "even greater heights. I'll notify the",
+        "wharf master to begin his work.",
+        "[Page]",
+        "",
+        "Once that's done, I'd like for you to",
+        "head to the Echoing Library, rescue",
+        "the Medium, and stop the Empire.",
+        "[Page]",
+        "",
+        "I needn't emphasize how important this",
+        "mission is to all of us. Accept it",
+        "only once you are thoroughly prepared.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back, Guild [Guild]. I see",
+        "everything went smoothly in acquiring",
+        "the [Color:6][Item:1458][Color:0].",
+        "[Page]",
+        "",
+        "With that flame, you can ascend to",
+        "even greater heights. I'll notify the",
+        "wharf master to begin his work.",
+        "[Page]",
+        "",
+        "Once that's done, I'd like for you to",
+        "head to the Echoing Library, rescue",
+        "the Medium, and stop the Empire.",
+        "[Page]",
+        "",
+        "I needn't emphasize how important this",
+        "mission is to all of us. Accept it",
+        "only once you are thoroughly prepared.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "\"To hear that such a dreadful monster",
+        "lurked in the Hall of Darkness is...",
+        "alarming,\" the Count sighs.",
+        "[Page]",
+        "",
+        "\"But this awful thing... its origins",
+        "must have been tied to the",
+        "[Enemy1:179]'s.",
+        "[Page]",
+        "",
+        "\"Had it been left alone, it would have",
+        "caused tremendous calamity when it",
+        "was eventually loosed.",
+        "[Page]",
+        "",
+        "\"You have saved us yet again. For your",
+        "meritorious service to Tharsis, Guild",
+        "[Guild], I present you with this.\"",
+        ""
+      ],
+      "Translation": [
+        "\"To hear that such a dreadful monster",
+        "lurked in the Hall of Darkness is...",
+        "alarming,\" the Count sighs.",
+        "[Page]",
+        "",
+        "\"But this awful thing... its origins",
+        "must have been tied to the",
+        "[Enemy1:179]'s.",
+        "[Page]",
+        "",
+        "\"Had it been left alone, it would have",
+        "caused tremendous calamity when it",
+        "was eventually loosed.",
+        "[Page]",
+        "",
+        "\"You have saved us yet again. For your",
+        "meritorious service to Tharsis, Guild",
+        "[Guild], I present you with this.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh? So you have finally filled all",
+        "the pages of your logbook. This feat",
+        "is, as far as I know, unprecedented.\"",
+        "[Page]",
+        "",
+        "The white puppy in the Count's arms",
+        "barks enthusiastically.",
+        "[Page]",
+        "",
+        "\"Even Margherita is excited! I can't",
+        "think of praise high enough for what",
+        "you have accomplished here.\"",
+        "[Page]",
+        "",
+        "The Count is reveling in your success",
+        "as much as if it had been his own.",
+        "[Page]",
+        "",
+        "\"I hope you realize what a momentous",
+        "achievement this is!",
+        "[Page]",
+        "",
+        "\"By the way... if it's all right",
+        "with you, may I have a look at this",
+        "wondrous logbook? What say you?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh? So you have finally filled all",
+        "the pages of your logbook. This feat",
+        "is, as far as I know, unprecedented.\"",
+        "[Page]",
+        "",
+        "The white puppy in the Count's arms",
+        "barks enthusiastically.",
+        "[Page]",
+        "",
+        "\"Even Margherita is excited! I can't",
+        "think of praise high enough for what",
+        "you have accomplished here.\"",
+        "[Page]",
+        "",
+        "The Count is reveling in your success",
+        "as much as if it had been his own.",
+        "[Page]",
+        "",
+        "\"I hope you realize what a momentous",
+        "achievement this is!",
+        "[Page]",
+        "",
+        "\"By the way... if it's all right",
+        "with you, may I have a look at this",
+        "wondrous logbook? What say you?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "\"How fare you today, Guild [Guild]?",
+        "[Page]",
+        "",
+        "\"If you have the time today, would you",
+        "allow me to page through that wondrous",
+        "logbook of yours...?\"",
+        ""
+      ],
+      "Translation": [
+        "\"How fare you today, Guild [Guild]?",
+        "[Page]",
+        "",
+        "\"If you have the time today, would you",
+        "allow me to page through that wondrous",
+        "logbook of yours...?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Show your logbook to the Count?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Show your logbook to the Count?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah, excellent! Show me, starting with",
+        "the very first page. And don't skimp",
+        "on the commentary!\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ah, excellent! Show me, starting with",
+        "the very first page. And don't skimp",
+        "on the commentary!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "The Count's eyes shine as you open the",
+        "logbook for him, and he breathes in",
+        "with wonder at the accrued knowledge.",
+        ""
+      ],
+      "Translation": [
+        "The Count's eyes shine as you open the",
+        "logbook for him, and he breathes in",
+        "with wonder at the accrued knowledge.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah! Places to be, things to do, I",
+        "shouldn't wonder. Well, if you ever",
+        "have the time, I'm most eager to see.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Ah! Places to be, things to do, I",
+        "shouldn't wonder. Well, if you ever",
+        "have the time, I'm most eager to see.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "As you are guided into the familiar",
+        "office, you are surprised by a feast",
+        "laid out on the table.",
+        "[Page]",
+        "",
+        "\"I've been expecting you, Guild",
+        "[Guild].\" The Count's eyes shine",
+        "like those of a child.",
+        "[Page]",
+        "",
+        "\"I heard that you've slain a dreadful",
+        "monster in the depths of the Hall of",
+        "Darkness.",
+        "[Page]",
+        "",
+        "\"That awful thing... its origins must",
+        "have been tied to the [Enemy1:179]'s.",
+        "[Page]",
+        "",
+        "\"Had it been left alone, it would have",
+        "caused tremendous calamity when it",
+        "was eventually loosed.",
+        "[Page]",
+        "",
+        "\"You have saved us yet again. For your",
+        "meritorious service to Tharsis, Guild",
+        "[Guild], I present you with this.\"",
+        ""
+      ],
+      "Translation": [
+        "As you are guided into the familiar",
+        "office, you are surprised by a feast",
+        "laid out on the table.",
+        "[Page]",
+        "",
+        "\"I've been expecting you, Guild",
+        "[Guild].\" The Count's eyes shine",
+        "like those of a child.",
+        "[Page]",
+        "",
+        "\"I heard that you've slain a dreadful",
+        "monster in the depths of the Hall of",
+        "Darkness.",
+        "[Page]",
+        "",
+        "\"That awful thing... its origins must",
+        "have been tied to the [Enemy1:179]'s.",
+        "[Page]",
+        "",
+        "\"Had it been left alone, it would have",
+        "caused tremendous calamity when it",
+        "was eventually loosed.",
+        "[Page]",
+        "",
+        "\"You have saved us yet again. For your",
+        "meritorious service to Tharsis, Guild",
+        "[Guild], I present you with this.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "\"But to have slain that ancient",
+        "monstrosity at its full strength...",
+        "How high will your power rise?",
+        "[Page]",
+        "",
+        "\"What must you do to gain such might?",
+        "I cannot imagine anyone who could be",
+        "your equal.",
+        "[Page]",
+        "",
+        "\"We are truly blessed to have",
+        "explorers of your caliber.\" The Count",
+        "exults in your feat as if it was his.",
+        "[Page]",
+        "",
+        "\"But enough chitchat! I had this",
+        "prepared quickly, so it may not be",
+        "much, but it's all yours!\"",
+        ""
+      ],
+      "Translation": [
+        "\"But to have slain that ancient",
+        "monstrosity at its full strength...",
+        "How high will your power rise?",
+        "[Page]",
+        "",
+        "\"What must you do to gain such might?",
+        "I cannot imagine anyone who could be",
+        "your equal.",
+        "[Page]",
+        "",
+        "\"We are truly blessed to have",
+        "explorers of your caliber.\" The Count",
+        "exults in your feat as if it was his.",
+        "[Page]",
+        "",
+        "\"But enough chitchat! I had this",
+        "prepared quickly, so it may not be",
+        "much, but it's all yours!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "As you are guided into the familiar",
+        "office, you are surprised by a feast",
+        "laid out on the table.",
+        "[Page]",
+        "",
+        "\"I've been expecting you, Guild",
+        "[Guild].\" The Count's eyes shine",
+        "like those of a child.",
+        "[Page]",
+        "",
+        "\"I've heard that you defeated the",
+        "[Enemy1:180] again, and this",
+        "time, at its full strength!\"",
+        "[Page]",
+        "",
+        "\"What must you do to gain such might?",
+        "I cannot imagine anyone who could be",
+        "your equal.",
+        "[Page]",
+        "",
+        "\"We are truly blessed to have",
+        "explorers of your caliber.\" The Count",
+        "exults in your feat as if it was his.",
+        "[Page]",
+        "",
+        "\"But enough chitchat! I had this",
+        "prepared quickly, so it may not be",
+        "much, but it's all yours!\"",
+        ""
+      ],
+      "Translation": [
+        "As you are guided into the familiar",
+        "office, you are surprised by a feast",
+        "laid out on the table.",
+        "[Page]",
+        "",
+        "\"I've been expecting you, Guild",
+        "[Guild].\" The Count's eyes shine",
+        "like those of a child.",
+        "[Page]",
+        "",
+        "\"I've heard that you defeated the",
+        "[Enemy1:180] again, and this",
+        "time, at its full strength!\"",
+        "[Page]",
+        "",
+        "\"What must you do to gain such might?",
+        "I cannot imagine anyone who could be",
+        "your equal.",
+        "[Page]",
+        "",
+        "\"We are truly blessed to have",
+        "explorers of your caliber.\" The Count",
+        "exults in your feat as if it was his.",
+        "[Page]",
+        "",
+        "\"But enough chitchat! I had this",
+        "prepared quickly, so it may not be",
+        "much, but it's all yours!\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "The Old Forest Mine is a small cave",
+        "located very near Tharsis.",
+        "[Page]",
+        "",
+        "It's a wonderful place with lovely",
+        "vegetation, but since ore mining",
+        "halted, monsters have settled in.",
+        "[Page]",
+        "",
+        "As it stands now, it makes an",
+        "excellent training ground for",
+        "novice explorers.",
+        "[Page]",
+        "",
+        "Train hard against the monsters there",
+        "for the struggles to come!",
+        ""
+      ],
+      "Translation": [
+        "The Old Forest Mine is a small cave",
+        "located very near Tharsis.",
+        "[Page]",
+        "",
+        "It's a wonderful place with lovely",
+        "vegetation, but since ore mining",
+        "halted, monsters have settled in.",
+        "[Page]",
+        "",
+        "As it stands now, it makes an",
+        "excellent training ground for",
+        "novice explorers.",
+        "[Page]",
+        "",
+        "Train hard against the monsters there",
+        "for the struggles to come!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Where are you all from? Goodness...",
+        "It must have taken you quite a while",
+        "to reach Tharsis.",
+        "[Page]",
+        "",
+        "Well, while you are here in my city,",
+        "think of it as your own hometown.",
+        ""
+      ],
+      "Translation": [
+        "Where are you all from? Goodness...",
+        "It must have taken you quite a while",
+        "to reach Tharsis.",
+        "[Page]",
+        "",
+        "Well, while you are here in my city,",
+        "think of it as your own hometown.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "If you've been to the Lush Woodlands,",
+        "you may know, but there is a cloudy",
+        "ravine north of the Windy Plains.",
+        "[Page]",
+        "",
+        "It is more dangerous than it looks.",
+        "Anyone who attempts to fly through it",
+        "loses their bearings and crashes.",
+        "[Page]",
+        "",
+        "But it cannot be traversed over land",
+        "because of a deep fissure in the",
+        "ground along the way.",
+        ""
+      ],
+      "Translation": [
+        "If you've been to the Lush Woodlands,",
+        "you may know, but there is a cloudy",
+        "ravine north of the Windy Plains.",
+        "[Page]",
+        "",
+        "It is more dangerous than it looks.",
+        "Anyone who attempts to fly through it",
+        "loses their bearings and crashes.",
+        "[Page]",
+        "",
+        "But it cannot be traversed over land",
+        "because of a deep fissure in the",
+        "ground along the way.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Haven't I seen you talking with",
+        "Whirlwind once or twice?",
+        "[Page]",
+        "",
+        "He may seem lighthearted, but do not",
+        "be fooled: he is decidedly one of",
+        "our top explorers.",
+        "[Page]",
+        "",
+        "He also played an integral role in",
+        "the development of skyships. We owe",
+        "our livelihood in large part to him.",
+        ""
+      ],
+      "Translation": [
+        "Haven't I seen you talking with",
+        "Whirlwind once or twice?",
+        "[Page]",
+        "",
+        "He may seem lighthearted, but do not",
+        "be fooled: he is decidedly one of",
+        "our top explorers.",
+        "[Page]",
+        "",
+        "He also played an integral role in",
+        "the development of skyships. We owe",
+        "our livelihood in large part to him.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "To explore a labyrinth is a battle",
+        "between man and the monsters which",
+        "dwell within.",
+        "[Page]",
+        "",
+        "Man traverses the labyrinth in search",
+        "of its secret, while the monsters",
+        "jealously protect their habitat.",
+        "[Page]",
+        "",
+        "It is a war that will not end unless",
+        "such exploration ceases... I ask that",
+        "you lend us your strength.",
+        ""
+      ],
+      "Translation": [
+        "To explore a labyrinth is a battle",
+        "between man and the monsters which",
+        "dwell within.",
+        "[Page]",
+        "",
+        "Man traverses the labyrinth in search",
+        "of its secret, while the monsters",
+        "jealously protect their habitat.",
+        "[Page]",
+        "",
+        "It is a war that will not end unless",
+        "such exploration ceases... I ask that",
+        "you lend us your strength.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "That you have not only solved the Lush",
+        "Woodland's mystery, but blazed onward",
+        "to new skies... Truly magnificent!",
+        "[Page]",
+        "",
+        "Keep at it, Guild [Guild]. As long",
+        "as you continue exploring, I will do",
+        "everything I can to accommodate you.",
+        ""
+      ],
+      "Translation": [
+        "That you have not only solved the Lush",
+        "Woodland's mystery, but blazed onward",
+        "to new skies... Truly magnificent!",
+        "[Page]",
+        "",
+        "Keep at it, Guild [Guild]. As long",
+        "as you continue exploring, I will do",
+        "everything I can to accommodate you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "A new maze, called the Misty Ravine...",
+        "It's said that names and natures do",
+        "often agree, but I sense danger afoot.",
+        "[Page]",
+        "",
+        "It's impossible to tell what sort of",
+        "threats may await you there. Make sure",
+        "you take precautions when braving it!",
+        ""
+      ],
+      "Translation": [
+        "A new maze, called the Misty Ravine...",
+        "It's said that names and natures do",
+        "often agree, but I sense danger afoot.",
+        "[Page]",
+        "",
+        "It's impossible to tell what sort of",
+        "threats may await you there. Make sure",
+        "you take precautions when braving it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "My letter to the Vessels... I do not",
+        "think it was for naught.",
+        "[Page]",
+        "",
+        "That letter will still be important",
+        "after you rescue the Medium.",
+        "[Page]",
+        "",
+        "For now, devote all your efforts to",
+        "finding her. I am counting on you.",
+        ""
+      ],
+      "Translation": [
+        "My letter to the Vessels... I do not",
+        "think it was for naught.",
+        "[Page]",
+        "",
+        "That letter will still be important",
+        "after you rescue the Medium.",
+        "[Page]",
+        "",
+        "For now, devote all your efforts to",
+        "finding her. I am counting on you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "Whirlwind was by the other day. He was",
+        "grumbling about a bitter experience",
+        "he had fighting the Hollows.",
+        "[Page]",
+        "",
+        "It's been so long since he started",
+        "visiting the Grand Court...",
+        "[Page]",
+        "",
+        "He's interested in the oddest things.",
+        "In return for his help developing the",
+        "skyships, what do you think he wanted?",
+        "[Page]",
+        "",
+        "A simple glass headpiece. I admit,",
+        "it was a family heirloom, so it was",
+        "not without its value...",
+        "[Page]",
+        "",
+        "But what would an explorer want with",
+        "such a useless bauble? I'll never",
+        "understand that man.",
+        ""
+      ],
+      "Translation": [
+        "Whirlwind was by the other day. He was",
+        "grumbling about a bitter experience",
+        "he had fighting the Hollows.",
+        "[Page]",
+        "",
+        "It's been so long since he started",
+        "visiting the Grand Court...",
+        "[Page]",
+        "",
+        "He's interested in the oddest things.",
+        "In return for his help developing the",
+        "skyships, what do you think he wanted?",
+        "[Page]",
+        "",
+        "A simple glass headpiece. I admit,",
+        "it was a family heirloom, so it was",
+        "not without its value...",
+        "[Page]",
+        "",
+        "But what would an explorer want with",
+        "such a useless bauble? I'll never",
+        "understand that man.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "Temperatures drop at higher altitudes,",
+        "so I can see why the region north of",
+        "the Scarlet Pillars is icebound.",
+        "[Page]",
+        "",
+        "But the change in environment at the",
+        "Sacred Mountains seems rather extreme.",
+        "Is it natural, do you think?",
+        ""
+      ],
+      "Translation": [
+        "Temperatures drop at higher altitudes,",
+        "so I can see why the region north of",
+        "the Scarlet Pillars is icebound.",
+        "[Page]",
+        "",
+        "But the change in environment at the",
+        "Sacred Mountains seems rather extreme.",
+        "Is it natural, do you think?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Aha... So you've discovered a new",
+        "maze with its own stone monument.",
+        "Well done, Guild [Guild]!",
+        "[Page]",
+        "",
+        "But I'm curious as to why that",
+        "labyrinth's interior is so warm.",
+        "[Page]",
+        "",
+        "Perhaps it sits in a region of heavy",
+        "volcanic activity, causing the",
+        "formation of natural hot springs...?",
+        ""
+      ],
+      "Translation": [
+        "Aha... So you've discovered a new",
+        "maze with its own stone monument.",
+        "Well done, Guild [Guild]!",
+        "[Page]",
+        "",
+        "But I'm curious as to why that",
+        "labyrinth's interior is so warm.",
+        "[Page]",
+        "",
+        "Perhaps it sits in a region of heavy",
+        "volcanic activity, causing the",
+        "formation of natural hot springs...?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "First the Vessels, now the Sentinels!",
+        "The news you bring back from your",
+        "explorations never fails to surprise.",
+        "[Page]",
+        "",
+        "I think this is another opportunity",
+        "to put the know-how you brought to",
+        "bear on the Vessels' problem to use.",
+        "[Page]",
+        "",
+        "Which reminds me... I'm told that the",
+        "Medium is staying with the Sentinels",
+        "in their village now.",
+        "[Page]",
+        "",
+        "It warms my heart to see everyone",
+        "working together to overcome",
+        "adversity. I am proud of you all.",
+        ""
+      ],
+      "Translation": [
+        "First the Vessels, now the Sentinels!",
+        "The news you bring back from your",
+        "explorations never fails to surprise.",
+        "[Page]",
+        "",
+        "I think this is another opportunity",
+        "to put the know-how you brought to",
+        "bear on the Vessels' problem to use.",
+        "[Page]",
+        "",
+        "Which reminds me... I'm told that the",
+        "Medium is staying with the Sentinels",
+        "in their village now.",
+        "[Page]",
+        "",
+        "It warms my heart to see everyone",
+        "working together to overcome",
+        "adversity. I am proud of you all.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "The legends of the Titan... To hear",
+        "the Sentinels tell it, they defeated",
+        "an evil Titan dwelling in Yggdrasil.",
+        "[Page]",
+        "",
+        "It's a very different story than the",
+        "one told by the Vessels of a holy",
+        "tree. I hope we learn the truth soon.",
+        ""
+      ],
+      "Translation": [
+        "The legends of the Titan... To hear",
+        "the Sentinels tell it, they defeated",
+        "an evil Titan dwelling in Yggdrasil.",
+        "[Page]",
+        "",
+        "It's a very different story than the",
+        "one told by the Vessels of a holy",
+        "tree. I hope we learn the truth soon.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "Alas, the Empire... This is not how",
+        "I hoped our reunion with the builders",
+        "of the skyships would go.",
+        "[Page]",
+        "",
+        "And Whirlwind! I couldn't believe my",
+        "ears when you told me he kidnapped",
+        "the Medium.",
+        "[Page]",
+        "",
+        "I'm curious to know his motivations,",
+        "but whatever they are, the Medium",
+        "must be rescued.",
+        ""
+      ],
+      "Translation": [
+        "Alas, the Empire... This is not how",
+        "I hoped our reunion with the builders",
+        "of the skyships would go.",
+        "[Page]",
+        "",
+        "And Whirlwind! I couldn't believe my",
+        "ears when you told me he kidnapped",
+        "the Medium.",
+        "[Page]",
+        "",
+        "I'm curious to know his motivations,",
+        "but whatever they are, the Medium",
+        "must be rescued.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "I hear that you have successfully",
+        "entered the Echoing Library where",
+        "the Medium is being held.",
+        "[Page]",
+        "",
+        "Wiglaf and Kirjonen played their",
+        "parts well.",
+        "[Page]",
+        "",
+        "I have asked them to remain on standby",
+        "in the Cloudy Stronghold until this",
+        "matter is concluded.",
+        "[Page]",
+        "",
+        "Should you need to reenter the Echoing",
+        "Library via air, feel free to ask for",
+        "their cooperation again.",
+        ""
+      ],
+      "Translation": [
+        "I hear that you have successfully",
+        "entered the Echoing Library where",
+        "the Medium is being held.",
+        "[Page]",
+        "",
+        "Wiglaf and Kirjonen played their",
+        "parts well.",
+        "[Page]",
+        "",
+        "I have asked them to remain on standby",
+        "in the Cloudy Stronghold until this",
+        "matter is concluded.",
+        "[Page]",
+        "",
+        "Should you need to reenter the Echoing",
+        "Library via air, feel free to ask for",
+        "their cooperation again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "The Imperial Prince most likely keeps",
+        "the Medium at his side always, no?",
+        "Would you say this is safe to assume?",
+        "[Page]",
+        "",
+        "Who knows how the Imperial Prince may",
+        "have fortified his defenses...",
+        "[Page]",
+        "",
+        "Breaking through will not be easy,",
+        "but I'm convinced you can do it.",
+        "Don't let us down, Guild [Guild].",
+        ""
+      ],
+      "Translation": [
+        "The Imperial Prince most likely keeps",
+        "the Medium at his side always, no?",
+        "Would you say this is safe to assume?",
+        "[Page]",
+        "",
+        "Who knows how the Imperial Prince may",
+        "have fortified his defenses...",
+        "[Page]",
+        "",
+        "Breaking through will not be easy,",
+        "but I'm convinced you can do it.",
+        "Don't let us down, Guild [Guild].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "I cannot abide the actions the Empire",
+        "and Whirlwind have taken in this",
+        "matter.",
+        "[Page]",
+        "",
+        "Still... I can sympathize with them.",
+        "They have been placed in an impossible",
+        "situation.",
+        "[Page]",
+        "",
+        "Why must we, who share an ancestry,",
+        "fight each other like this...? Fate",
+        "can be cruel.",
+        ""
+      ],
+      "Translation": [
+        "I cannot abide the actions the Empire",
+        "and Whirlwind have taken in this",
+        "matter.",
+        "[Page]",
+        "",
+        "Still... I can sympathize with them.",
+        "They have been placed in an impossible",
+        "situation.",
+        "[Page]",
+        "",
+        "Why must we, who share an ancestry,",
+        "fight each other like this...? Fate",
+        "can be cruel.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "The Empire has withdrawn its fleet. I",
+        "surmise the Imperial Prince ordered a",
+        "retreat at any change in Yggdrasil.",
+        "[Page]",
+        "",
+        "After all, if Yggdrasil's power were",
+        "to be unleashed, any attempt to",
+        "escape it would be futile...",
+        ""
+      ],
+      "Translation": [
+        "The Empire has withdrawn its fleet. I",
+        "surmise the Imperial Prince ordered a",
+        "retreat at any change in Yggdrasil.",
+        "[Page]",
+        "",
+        "After all, if Yggdrasil's power were",
+        "to be unleashed, any attempt to",
+        "escape it would be futile...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "Ever since I was a boy, I've gazed at",
+        "Yggdrasil. It would be no exaggeration",
+        "to say it has always been with me.",
+        "[Page]",
+        "",
+        "I assume the same is true for all",
+        "who live in Tharsis, not to mention",
+        "the Vessels and Sentinels...",
+        "[Page]",
+        "",
+        "But this is no time to indulge in",
+        "sentiment. You must go to Yggdrasil's",
+        "roots and rescue the Medium.",
+        ""
+      ],
+      "Translation": [
+        "Ever since I was a boy, I've gazed at",
+        "Yggdrasil. It would be no exaggeration",
+        "to say it has always been with me.",
+        "[Page]",
+        "",
+        "I assume the same is true for all",
+        "who live in Tharsis, not to mention",
+        "the Vessels and Sentinels...",
+        "[Page]",
+        "",
+        "But this is no time to indulge in",
+        "sentiment. You must go to Yggdrasil's",
+        "roots and rescue the Medium.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "I believe that the main labyrinths",
+        "and Yggdrasil are connected by",
+        "subterranean passages.",
+        "[Page]",
+        "",
+        "They were originally one maze, but for",
+        "whatever reason, the passages were",
+        "sealed, leading to what we know now.",
+        "[Page]",
+        "",
+        "Perhaps the people of old thought to",
+        "seal away Yggdrasil's power by closing",
+        "off the individual areas.",
+        ""
+      ],
+      "Translation": [
+        "I believe that the main labyrinths",
+        "and Yggdrasil are connected by",
+        "subterranean passages.",
+        "[Page]",
+        "",
+        "They were originally one maze, but for",
+        "whatever reason, the passages were",
+        "sealed, leading to what we know now.",
+        "[Page]",
+        "",
+        "Perhaps the people of old thought to",
+        "seal away Yggdrasil's power by closing",
+        "off the individual areas.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "The Forgotten Capital... It does seem",
+        "to be a land of sorrow.",
+        "[Page]",
+        "",
+        "The builders of Yggdrasil were only",
+        "trying to restore the golden age",
+        "they'd lost.",
+        "[Page]",
+        "",
+        "Everything arose from their ideals",
+        "and hopes. Yet they were punished,",
+        "as if even wishing so was a sin.",
+        "[Page]",
+        "",
+        "Now their descendants have taken up",
+        "their cause, leading to war...",
+        "It feels like a curse.",
+        "[Page]",
+        "",
+        "I ask that you put an end to this war",
+        "with all at your disposal.",
+        ""
+      ],
+      "Translation": [
+        "The Forgotten Capital... It does seem",
+        "to be a land of sorrow.",
+        "[Page]",
+        "",
+        "The builders of Yggdrasil were only",
+        "trying to restore the golden age",
+        "they'd lost.",
+        "[Page]",
+        "",
+        "Everything arose from their ideals",
+        "and hopes. Yet they were punished,",
+        "as if even wishing so was a sin.",
+        "[Page]",
+        "",
+        "Now their descendants have taken up",
+        "their cause, leading to war...",
+        "It feels like a curse.",
+        "[Page]",
+        "",
+        "I ask that you put an end to this war",
+        "with all at your disposal.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "That Titan as tall as the heavens is",
+        "beyond man's control... Normally,",
+        "that is.",
+        "[Page]",
+        "",
+        "But then why does it remain immobile?",
+        "I believe the Medium is the cause.",
+        "[Page]",
+        "",
+        "Her will alone prevents it from",
+        "wreaking havoc... Don't you agree?",
+        "[Page]",
+        "",
+        "One more step, and this area too is",
+        "lost... But you can still make it in",
+        "time, as long as it is frozen.",
+        "[Page]",
+        "",
+        "Go forth, Guild [Guild].",
+        "The Medium needs you.",
+        ""
+      ],
+      "Translation": [
+        "That Titan as tall as the heavens is",
+        "beyond man's control... Normally,",
+        "that is.",
+        "[Page]",
+        "",
+        "But then why does it remain immobile?",
+        "I believe the Medium is the cause.",
+        "[Page]",
+        "",
+        "Her will alone prevents it from",
+        "wreaking havoc... Don't you agree?",
+        "[Page]",
+        "",
+        "One more step, and this area too is",
+        "lost... But you can still make it in",
+        "time, as long as it is frozen.",
+        "[Page]",
+        "",
+        "Go forth, Guild [Guild].",
+        "The Medium needs you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "I must thank you again regarding that",
+        "unforeseen series of events.",
+        "[Page]",
+        "",
+        "Though you did so at my request, you",
+        "stood firm against an immense enemy",
+        "and fought well.",
+        "[Page]",
+        "",
+        "No matter the situation, you faced it",
+        "with wisdom and strength... I am proud",
+        "to call you explorers of Tharsis.",
+        "[Page]",
+        "",
+        "Thank you, Guild [Guild].",
+        ""
+      ],
+      "Translation": [
+        "I must thank you again regarding that",
+        "unforeseen series of events.",
+        "[Page]",
+        "",
+        "Though you did so at my request, you",
+        "stood firm against an immense enemy",
+        "and fought well.",
+        "[Page]",
+        "",
+        "No matter the situation, you faced it",
+        "with wisdom and strength... I am proud",
+        "to call you explorers of Tharsis.",
+        "[Page]",
+        "",
+        "Thank you, Guild [Guild].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "The search for Yggdrasil is complete",
+        "for now. Yet life goes on...",
+        "[Page]",
+        "",
+        "I've spoken with Imperial officials",
+        "in the Prince's stead. We are going",
+        "to take in the Empire's people.",
+        "[Page]",
+        "",
+        "Not all at once! That would be folly.",
+        "But it must be done, no matter how",
+        "many decades it takes.",
+        "[Page]",
+        "",
+        "And it would not be possible had you",
+        "not removed the barriers in the",
+        "ravines en route to Yggdrasil.",
+        ""
+      ],
+      "Translation": [
+        "The search for Yggdrasil is complete",
+        "for now. Yet life goes on...",
+        "[Page]",
+        "",
+        "I've spoken with Imperial officials",
+        "in the Prince's stead. We are going",
+        "to take in the Empire's people.",
+        "[Page]",
+        "",
+        "Not all at once! That would be folly.",
+        "But it must be done, no matter how",
+        "many decades it takes.",
+        "[Page]",
+        "",
+        "And it would not be possible had you",
+        "not removed the barriers in the",
+        "ravines en route to Yggdrasil.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "News of what happened here will soon",
+        "spread elsewhere. And that could pose",
+        "its own problems...",
+        "[Page]",
+        "",
+        "My greatest worry is that it will",
+        "attract another who desires",
+        "Yggdrasil's power.",
+        "[Page]",
+        "",
+        "Yes, I fear it will be inevitable",
+        "in the near future...",
+        "[Page]",
+        "",
+        "I must take steps to prevent that",
+        "power from being used carelessly.",
+        "The last thing I want is another war.",
+        ""
+      ],
+      "Translation": [
+        "News of what happened here will soon",
+        "spread elsewhere. And that could pose",
+        "its own problems...",
+        "[Page]",
+        "",
+        "My greatest worry is that it will",
+        "attract another who desires",
+        "Yggdrasil's power.",
+        "[Page]",
+        "",
+        "Yes, I fear it will be inevitable",
+        "in the near future...",
+        "[Page]",
+        "",
+        "I must take steps to prevent that",
+        "power from being used carelessly.",
+        "The last thing I want is another war.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "This is just between you and I... but",
+        "I am thinking of handing the city over",
+        "to the Imperial Prince in the future.",
+        "[Page]",
+        "",
+        "My wife has passed away, you see,",
+        "and I have no children to carry on",
+        "my legacy.",
+        "[Page]",
+        "",
+        "And whenever I speak with that young",
+        "man, he demonstrates boundless",
+        "strength on behalf of his subjects.",
+        "[Page]",
+        "",
+        "He can be cruel to his enemies, but if",
+        "his conception of his allies could be",
+        "expanded further...",
+        "[Page]",
+        "",
+        "He may become a wise ruler, causing",
+        "not only his own country to flourish,",
+        "but nearby cities and nations as well.",
+        "[Page]",
+        "",
+        "Though certainly, there are a mountain",
+        "of obstacles too! Either way, I'll see",
+        "how things play out for a while.",
+        ""
+      ],
+      "Translation": [
+        "This is just between you and I... but",
+        "I am thinking of handing the city over",
+        "to the Imperial Prince in the future.",
+        "[Page]",
+        "",
+        "My wife has passed away, you see,",
+        "and I have no children to carry on",
+        "my legacy.",
+        "[Page]",
+        "",
+        "And whenever I speak with that young",
+        "man, he demonstrates boundless",
+        "strength on behalf of his subjects.",
+        "[Page]",
+        "",
+        "He can be cruel to his enemies, but if",
+        "his conception of his allies could be",
+        "expanded further...",
+        "[Page]",
+        "",
+        "He may become a wise ruler, causing",
+        "not only his own country to flourish,",
+        "but nearby cities and nations as well.",
+        "[Page]",
+        "",
+        "Though certainly, there are a mountain",
+        "of obstacles too! Either way, I'll see",
+        "how things play out for a while.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "Fate is truly inscrutible. Ever since",
+        "your arrival, the atmosphere of",
+        "Tharsis has greatly changed.",
+        "[Page]",
+        "",
+        "We've met the Vessels, the Sentinels,",
+        "and the Empire, and now all four of",
+        "us have healthy exchanges.",
+        "[Page]",
+        "",
+        "Tharsis as it is now is a city of",
+        "miracles, where various races mingle.",
+        "And it was you who brought it about.",
+        "[Page]",
+        "",
+        "I am ever so grateful. I ask that you",
+        "pray for the prosperity of our city",
+        "of miracles.",
+        ""
+      ],
+      "Translation": [
+        "Fate is truly inscrutible. Ever since",
+        "your arrival, the atmosphere of",
+        "Tharsis has greatly changed.",
+        "[Page]",
+        "",
+        "We've met the Vessels, the Sentinels,",
+        "and the Empire, and now all four of",
+        "us have healthy exchanges.",
+        "[Page]",
+        "",
+        "Tharsis as it is now is a city of",
+        "miracles, where various races mingle.",
+        "And it was you who brought it about.",
+        "[Page]",
+        "",
+        "I am ever so grateful. I ask that you",
+        "pray for the prosperity of our city",
+        "of miracles.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

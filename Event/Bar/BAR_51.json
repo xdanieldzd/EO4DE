@@ -1,0 +1,54 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_51",
+  "RelativePath": "Event\\Bar\\BAR_51.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Do you guys like to equip just one",
+        "weapon, or do you use two?",
+        "[Page]",
+        "",
+        "If you equip a weapon in each hand,",
+        "the way I do, your defense suffers a",
+        "bit but you can use more skills.",
+        "[Page]",
+        "",
+        "Flexibility is a good thing to have",
+        "in battle! With two weapons, you get",
+        "the benefit of more skills!",
+        "[Page]",
+        "",
+        "My only armor is these gauntlets and",
+        "some accessories. And those are just",
+        "for sentimental value!",
+        ""
+      ],
+      "Translation": [
+        "Do you guys like to equip just one",
+        "weapon, or do you use two?",
+        "[Page]",
+        "",
+        "If you equip a weapon in each hand,",
+        "the way I do, your defense suffers a",
+        "bit but you can use more skills.",
+        "[Page]",
+        "",
+        "Flexibility is a good thing to have",
+        "in battle! With two weapons, you get",
+        "the benefit of more skills!",
+        "[Page]",
+        "",
+        "My only armor is these gauntlets and",
+        "some accessories. And those are just",
+        "for sentimental value!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

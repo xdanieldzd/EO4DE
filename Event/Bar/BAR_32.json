@@ -1,0 +1,36 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_32",
+  "RelativePath": "Event\\Bar\\BAR_32.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "What are those black skyships?",
+        "I thought skyships were originally",
+        "built here...",
+        "[Page]",
+        "",
+        "Why on earth would black skyships",
+        "be in the lands past the Sacred",
+        "Mountains?",
+        ""
+      ],
+      "Translation": [
+        "What are those black skyships?",
+        "I thought skyships were originally",
+        "built here...",
+        "[Page]",
+        "",
+        "Why on earth would black skyships",
+        "be in the lands past the Sacred",
+        "Mountains?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

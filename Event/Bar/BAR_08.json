@@ -1,0 +1,49 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_08",
+  "RelativePath": "Event\\Bar\\BAR_08.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "I saw it! A huge dragon monster",
+        "crawling from the outskirts of the",
+        "city towards the [Color:5]Lush Woodlands[Color:0]!",
+        "[Page]",
+        "",
+        "I wouldn't go near the Lush Woodlands",
+        "for a while if I were you. There's no",
+        "way anyone can beat that thing!",
+        ""
+      ],
+      "Translation": [
+        "I saw it! A huge dragon monster",
+        "crawling from the outskirts of the",
+        "city towards the [Color:5]Lush Woodlands[Color:0]!",
+        "[Page]",
+        "",
+        "I wouldn't go near the Lush Woodlands",
+        "for a while if I were you. There's no",
+        "way anyone can beat that thing!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

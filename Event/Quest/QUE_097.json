@@ -1,0 +1,785 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_097",
+  "RelativePath": "Event\\Quest\\QUE_097.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "This request was specifically directed",
+        "to your [Guild] Guild. But I do not",
+        "quite understand it...",
+        "[Page]",
+        "",
+        "\"North of the Cloudy Stronghold, slay",
+        "the loathsome one released from its",
+        "shackles.\"",
+        "[Page]",
+        "",
+        "That is all the client said. Since",
+        "I cannot offer requests I do not",
+        "understand, I denied him, but...",
+        "[Page]",
+        "",
+        "The client refused to listen. He said",
+        "if you would not take the request,",
+        "he would accept that outcome.",
+        "[Page]",
+        "",
+        "I suppose you should go to the Cloudy",
+        "Stronghold, then.",
+        "[Page]",
+        "",
+        "But if the request seems suspicious",
+        "to you, come back here and cancel",
+        "it at once.",
+        ""
+      ],
+      "Translation": [
+        "This request was specifically directed",
+        "to your [Guild] Guild. But I do not",
+        "quite understand it...",
+        "[Page]",
+        "",
+        "\"North of the Cloudy Stronghold, slay",
+        "the loathsome one released from its",
+        "shackles.\"",
+        "[Page]",
+        "",
+        "That is all the client said. Since",
+        "I cannot offer requests I do not",
+        "understand, I denied him, but...",
+        "[Page]",
+        "",
+        "The client refused to listen. He said",
+        "if you would not take the request,",
+        "he would accept that outcome.",
+        "[Page]",
+        "",
+        "I suppose you should go to the Cloudy",
+        "Stronghold, then.",
+        "[Page]",
+        "",
+        "But if the request seems suspicious",
+        "to you, come back here and cancel",
+        "it at once.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. The client just came by",
+        "and confirmed to me that his request",
+        "was fulfilled.",
+        "[Page]",
+        "",
+        "Who was that? Whoever he was, this",
+        "scroll seems genuine...",
+        "[Page]",
+        "",
+        "I wonder how he came to be in",
+        "possession of such a treasure...",
+        "[Page]",
+        "",
+        "Well, the client seemed satisfied, so I",
+        "shall consider this request complete.",
+        "Fine work, [Guild] Guild.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. The client just came by",
+        "and confirmed to me that his request",
+        "was fulfilled.",
+        "[Page]",
+        "",
+        "Who was that? Whoever he was, this",
+        "scroll seems genuine...",
+        "[Page]",
+        "",
+        "I wonder how he came to be in",
+        "possession of such a treasure...",
+        "[Page]",
+        "",
+        "Well, the client seemed satisfied, so I",
+        "shall consider this request complete.",
+        "Fine work, [Guild] Guild.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "When you reach the Cloudy Stronghold,",
+        "the sky is thick with powerful,",
+        "daunting malice.",
+        "[Page]",
+        "",
+        "The threat is so strong that no one",
+        "who passed by could deny feeling it...",
+        "[Page]",
+        "",
+        "You do not think it would stop until",
+        "it had extinguished all life... The",
+        "thought of it is almost maddening.",
+        "[Page]",
+        "",
+        "But having bested three dragons thus",
+        "far, you are confident that you can",
+        "face down whatever threat is here.",
+        ""
+      ],
+      "Translation": [
+        "When you reach the Cloudy Stronghold,",
+        "the sky is thick with powerful,",
+        "daunting malice.",
+        "[Page]",
+        "",
+        "The threat is so strong that no one",
+        "who passed by could deny feeling it...",
+        "[Page]",
+        "",
+        "You do not think it would stop until",
+        "it had extinguished all life... The",
+        "thought of it is almost maddening.",
+        "[Page]",
+        "",
+        "But having bested three dragons thus",
+        "far, you are confident that you can",
+        "face down whatever threat is here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "\"Yes... just as I predicted. I believe",
+        "no one is more qualified than you.\"",
+        "[Page]",
+        "",
+        "You are startled to see a lone soldier",
+        "has come onto your skyship unnoticed.",
+        "Did he stow away from Tharsis...?",
+        "[Page]",
+        "",
+        "\"What do you think? I look very",
+        "human, don't I? I went to a lot of",
+        "trouble to sneak into a human city.",
+        "[Page]",
+        "",
+        "\"Now then... let me formally relay the",
+        "wish of my master, who suffers in a",
+        "faraway land.\"",
+        "[Page]",
+        "",
+        "The soldier exaggeratedly clears his",
+        "throat. \"The name of the beast which",
+        "you must defeat is the [Color:5][Enemy1:212][Color:0].",
+        "[Page]",
+        "",
+        "\"Amongst powerful dragons, it is",
+        "known to be especially so. It was",
+        "sealed away for its malicious intent.",
+        "[Page]",
+        "",
+        "\"We are sorry to involve you in this,",
+        "but when our unruly compatriot comes,",
+        "all you know will burn to ash.",
+        "[Page]",
+        "",
+        "\"This is our last resort. It should",
+        "show itself in the northeastern",
+        "sky... Good luck, Guild [Guild].\"",
+        ""
+      ],
+      "Translation": [
+        "\"Yes... just as I predicted. I believe",
+        "no one is more qualified than you.\"",
+        "[Page]",
+        "",
+        "You are startled to see a lone soldier",
+        "has come onto your skyship unnoticed.",
+        "Did he stow away from Tharsis...?",
+        "[Page]",
+        "",
+        "\"What do you think? I look very",
+        "human, don't I? I went to a lot of",
+        "trouble to sneak into a human city.",
+        "[Page]",
+        "",
+        "\"Now then... let me formally relay the",
+        "wish of my master, who suffers in a",
+        "faraway land.\"",
+        "[Page]",
+        "",
+        "The soldier exaggeratedly clears his",
+        "throat. \"The name of the beast which",
+        "you must defeat is the [Color:5][Enemy1:212][Color:0].",
+        "[Page]",
+        "",
+        "\"Amongst powerful dragons, it is",
+        "known to be especially so. It was",
+        "sealed away for its malicious intent.",
+        "[Page]",
+        "",
+        "\"We are sorry to involve you in this,",
+        "but when our unruly compatriot comes,",
+        "all you know will burn to ash.",
+        "[Page]",
+        "",
+        "\"This is our last resort. It should",
+        "show itself in the northeastern",
+        "sky... Good luck, Guild [Guild].\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "With that said, he abruptly jumps off",
+        "of the gondola.",
+        "[Page]",
+        "",
+        "When you recover from your shock, you",
+        "look down over the side, but see no",
+        "shadow nor figure.",
+        "[Page]",
+        "",
+        "You shake your head. What sort of",
+        "being could pose such an abnormal",
+        "threat...?",
+        "[Page]",
+        "",
+        "You quietly stare into the northeastern",
+        "skies, where the man directed you.",
+        ""
+      ],
+      "Translation": [
+        "With that said, he abruptly jumps off",
+        "of the gondola.",
+        "[Page]",
+        "",
+        "When you recover from your shock, you",
+        "look down over the side, but see no",
+        "shadow nor figure.",
+        "[Page]",
+        "",
+        "You shake your head. What sort of",
+        "being could pose such an abnormal",
+        "threat...?",
+        "[Page]",
+        "",
+        "You quietly stare into the northeastern",
+        "skies, where the man directed you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Your breath catches in your throat",
+        "when you see the pitch-black form",
+        "before you.",
+        "[Page]",
+        "",
+        "It is larger than the [Enemy1:202];",
+        "more beautiful than the [Enemy1:201];",
+        "wiser than the [Enemy1:200].",
+        "[Page]",
+        "",
+        "It may have the stature needed to",
+        "become lord of all dragons...",
+        "[Page]",
+        "",
+        "Yet its eyes boil with an undisguised",
+        "taste for destruction and massacre.",
+        "[Page]",
+        "",
+        "You feel sure that if you leave this",
+        "monstrosity be, it will bring naught",
+        "but ruin to these lands...",
+        ""
+      ],
+      "Translation": [
+        "Your breath catches in your throat",
+        "when you see the pitch-black form",
+        "before you.",
+        "[Page]",
+        "",
+        "It is larger than the [Enemy1:202];",
+        "more beautiful than the [Enemy1:201];",
+        "wiser than the [Enemy1:200].",
+        "[Page]",
+        "",
+        "It may have the stature needed to",
+        "become lord of all dragons...",
+        "[Page]",
+        "",
+        "Yet its eyes boil with an undisguised",
+        "taste for destruction and massacre.",
+        "[Page]",
+        "",
+        "You feel sure that if you leave this",
+        "monstrosity be, it will bring naught",
+        "but ruin to these lands...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "As its pitch-dark wings split, its",
+        "violet blood stains the earth.",
+        "[Page]",
+        "",
+        "The ground rumbles as its enormous",
+        "body writhes. But eventually, its",
+        "boundless energy ceases...",
+        "[Page]",
+        "",
+        "Like the other dragons, its body",
+        "disintegrates before your eyes before",
+        "resolving into a large black pearl.",
+        "[Page]",
+        "",
+        "But even such courageous explorers as",
+        "yourselves hesitate to grasp a gem",
+        "overflowing with such palpable evil...",
+        "[Page]",
+        "",
+        "While you ponder what to do with it,",
+        "the gem falls to the ground, which",
+        "swallows it whole.",
+        "[Page]",
+        "",
+        "\"You were right not to touch it,",
+        "Guild [Guild],\" booms a voice",
+        "from somewhere.",
+        "[Page]",
+        "",
+        "\"Had you handled the pearl, the dragon",
+        "would control you now. And from that,",
+        "there would be no salvation...",
+        "[Page]",
+        "",
+        "\"It will eventually return to this",
+        "land one day. But you have sealed it",
+        "here, and it can no longer fly out.",
+        "[Page]",
+        "",
+        "\"Thank you, Guild [Guild]. I will",
+        "discuss your power with the rest of my",
+        "kind... Blessings shine upon humans!\"",
+        "[Page]",
+        "",
+        "After that, the voice falls silent.",
+        "You have done it! Now return to",
+        "Tharsis and report your triumph!",
+        ""
+      ],
+      "Translation": [
+        "As its pitch-dark wings split, its",
+        "violet blood stains the earth.",
+        "[Page]",
+        "",
+        "The ground rumbles as its enormous",
+        "body writhes. But eventually, its",
+        "boundless energy ceases...",
+        "[Page]",
+        "",
+        "Like the other dragons, its body",
+        "disintegrates before your eyes before",
+        "resolving into a large black pearl.",
+        "[Page]",
+        "",
+        "But even such courageous explorers as",
+        "yourselves hesitate to grasp a gem",
+        "overflowing with such palpable evil...",
+        "[Page]",
+        "",
+        "While you ponder what to do with it,",
+        "the gem falls to the ground, which",
+        "swallows it whole.",
+        "[Page]",
+        "",
+        "\"You were right not to touch it,",
+        "Guild [Guild],\" booms a voice",
+        "from somewhere.",
+        "[Page]",
+        "",
+        "\"Had you handled the pearl, the dragon",
+        "would control you now. And from that,",
+        "there would be no salvation...",
+        "[Page]",
+        "",
+        "\"It will eventually return to this",
+        "land one day. But you have sealed it",
+        "here, and it can no longer fly out.",
+        "[Page]",
+        "",
+        "\"Thank you, Guild [Guild]. I will",
+        "discuss your power with the rest of my",
+        "kind... Blessings shine upon humans!\"",
+        "[Page]",
+        "",
+        "After that, the voice falls silent.",
+        "You have done it! Now return to",
+        "Tharsis and report your triumph!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_30",
+  "RelativePath": "Event\\Bar\\BAR_30.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Oww... I broke my leg when I slipped",
+        "on the ice, so I'm going to be cooling",
+        "my heels here for a while.",
+        "[Page]",
+        "",
+        "Oh, did you notice when you change the",
+        "temperature in the Sacred Mountains,",
+        "[Color:5]you can gather different materials[Color:0]?",
+        "[Page]",
+        "",
+        "A Sentinel I met during my trip",
+        "out there told me. He was a little",
+        "strange, but a good guy overall.",
+        ""
+      ],
+      "Translation": [
+        "Oww... I broke my leg when I slipped",
+        "on the ice, so I'm going to be cooling",
+        "my heels here for a while.",
+        "[Page]",
+        "",
+        "Oh, did you notice when you change the",
+        "temperature in the Sacred Mountains,",
+        "[Color:5]you can gather different materials[Color:0]?",
+        "[Page]",
+        "",
+        "A Sentinel I met during my trip",
+        "out there told me. He was a little",
+        "strange, but a good guy overall.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, these bandages? I broke some bones",
+        "when I slipped on the ice. I'll be",
+        "here for a while, I think...",
+        "[Page]",
+        "",
+        "Can I ask you something? I took a",
+        "request from a [Color:5]Vessel[Color:0] in the [Color:5]Misty",
+        "Ravine[Color:0], but I'm laid up here.",
+        "[Page]",
+        "",
+        "Could you go in my place? I've been",
+        "thinking about making a request about",
+        "this...",
+        ""
+      ],
+      "Translation": [
+        "Oh, these bandages? I broke some bones",
+        "when I slipped on the ice. I'll be",
+        "here for a while, I think...",
+        "[Page]",
+        "",
+        "Can I ask you something? I took a",
+        "request from a [Color:5]Vessel[Color:0] in the [Color:5]Misty",
+        "Ravine[Color:0], but I'm laid up here.",
+        "[Page]",
+        "",
+        "Could you go in my place? I've been",
+        "thinking about making a request about",
+        "this...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "I guess you accepted that request. I",
+        "was looking for ice in the [Color:5]Underground",
+        "Lake[Color:0], [Color:5]northeast in the Mountains[Color:0].",
+        "[Page]",
+        "",
+        "That [Color:5]perpetual shard[Color:0] is probably what",
+        "the Vessel is looking for. [Color:5]Go to their",
+        "village and give it directly to him[Color:0].",
+        ""
+      ],
+      "Translation": [
+        "I guess you accepted that request. I",
+        "was looking for ice in the [Color:5]Underground",
+        "Lake[Color:0], [Color:5]northeast in the Mountains[Color:0].",
+        "[Page]",
+        "",
+        "That [Color:5]perpetual shard[Color:0] is probably what",
+        "the Vessel is looking for. [Color:5]Go to their",
+        "village and give it directly to him[Color:0].",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_024",
+  "RelativePath": "Event\\Quest\\QUE_024.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "The client is Mr. Donbre, a gourmand",
+        "who lives in the city. He wants a",
+        "[Color:5][Number:0][Color:0] from the [Color:5]Golden Lair[Color:0].",
+        "[Page]",
+        "",
+        "This mushroom is inky black and",
+        "thrives from the earth's heat.",
+        "[Page]",
+        "",
+        "It grows in the labyrinth and literally",
+        "feeds off of fire to grow twice its",
+        "usual size.",
+        "[Page]",
+        "",
+        "There should be something in the",
+        "Golden Lair that releases fire that",
+        "you could use...",
+        "[Page]",
+        "",
+        "The request only calls for one",
+        "mushroom, but the reward will be",
+        "adjusted for the amount you deliver.",
+        "[Page]",
+        "",
+        "Kismet be with you, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Translation": [
+        "The client is Mr. Donbre, a gourmand",
+        "who lives in the city. He wants a",
+        "[Color:5][Number:0][Color:0] from the [Color:5]Golden Lair[Color:0].",
+        "[Page]",
+        "",
+        "This mushroom is inky black and",
+        "thrives from the earth's heat.",
+        "[Page]",
+        "",
+        "It grows in the labyrinth and literally",
+        "feeds off of fire to grow twice its",
+        "usual size.",
+        "[Page]",
+        "",
+        "There should be something in the",
+        "Golden Lair that releases fire that",
+        "you could use...",
+        "[Page]",
+        "",
+        "The request only calls for one",
+        "mushroom, but the reward will be",
+        "adjusted for the amount you deliver.",
+        "[Page]",
+        "",
+        "Kismet be with you, and I shall await",
+        "your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I see you have safely",
+        "retrieved a [Number:0] from the",
+        "caverns.",
+        "[Page]",
+        "",
+        "It looks burnt to me... and not very",
+        "appetizing...",
+        "[Page]",
+        "",
+        "Though when one dines with gourmands,",
+        "one is expected to keep an open mind.",
+        "But I still prefer Dalla's dishes...",
+        "[Page]",
+        "",
+        "Well, I again thank you for your hard",
+        "work. I'm counting on you to maintain",
+        "that standard with our other requests.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I see you have safely",
+        "retrieved a [Number:0] from the",
+        "caverns.",
+        "[Page]",
+        "",
+        "It looks burnt to me... and not very",
+        "appetizing...",
+        "[Page]",
+        "",
+        "Though when one dines with gourmands,",
+        "one is expected to keep an open mind.",
+        "But I still prefer Dalla's dishes...",
+        "[Page]",
+        "",
+        "Well, I again thank you for your hard",
+        "work. I'm counting on you to maintain",
+        "that standard with our other requests.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I take it you managed",
+        "to retrieve a [Number:0] from the",
+        "caverns?",
+        "[Page]",
+        "",
+        "Oh, you brought not one, but two!",
+        "Mr. Donbre will be very satisfied.",
+        "[Page]",
+        "",
+        "They look burnt to me... and not very",
+        "appetizing...",
+        "[Page]",
+        "",
+        "Though when one dines with gourmands,",
+        "one is expected to keep an open mind.",
+        "But I still prefer Dalla's dishes...",
+        "[Page]",
+        "",
+        "Well, I again thank you for your hard",
+        "work. I'm counting on you to maintain",
+        "that standard with our other requests.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I take it you managed",
+        "to retrieve a [Number:0] from the",
+        "caverns?",
+        "[Page]",
+        "",
+        "Oh, you brought not one, but two!",
+        "Mr. Donbre will be very satisfied.",
+        "[Page]",
+        "",
+        "They look burnt to me... and not very",
+        "appetizing...",
+        "[Page]",
+        "",
+        "Though when one dines with gourmands,",
+        "one is expected to keep an open mind.",
+        "But I still prefer Dalla's dishes...",
+        "[Page]",
+        "",
+        "Well, I again thank you for your hard",
+        "work. I'm counting on you to maintain",
+        "that standard with our other requests.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You break the flaming scale and study",
+        "the rock's surface. An inky black",
+        "mushroom is growing there.",
+        "[Page]",
+        "",
+        "You recall taking a request to deliver",
+        "a mushroom... This must be the",
+        "[Color:5][Number:0][Color:0] in question.",
+        "[Page]",
+        "",
+        "If you like, you may pick the mushroom",
+        "to complete the request.",
+        ""
+      ],
+      "Translation": [
+        "You break the flaming scale and study",
+        "the rock's surface. An inky black",
+        "mushroom is growing there.",
+        "[Page]",
+        "",
+        "You recall taking a request to deliver",
+        "a mushroom... This must be the",
+        "[Color:5][Number:0][Color:0] in question.",
+        "[Page]",
+        "",
+        "If you like, you may pick the mushroom",
+        "to complete the request.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Pick the mushroom?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Pick the mushroom?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "You pluck the mushroom from the rocky",
+        "surface and put it in your pack.",
+        ""
+      ],
+      "Translation": [
+        "You pluck the mushroom from the rocky",
+        "surface and put it in your pack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "You may go to the bar now to turn in",
+        "your report or search for another",
+        "mushroom.",
+        "[Page]",
+        "",
+        "There was supposedly a reward for",
+        "more than one mushroom... You wonder",
+        "where else you might find one.",
+        ""
+      ],
+      "Translation": [
+        "You may go to the bar now to turn in",
+        "your report or search for another",
+        "mushroom.",
+        "[Page]",
+        "",
+        "There was supposedly a reward for",
+        "more than one mushroom... You wonder",
+        "where else you might find one.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "You pick a second mushroom from the",
+        "rocky surface and put it in your pack.",
+        ""
+      ],
+      "Translation": [
+        "You pick a second mushroom from the",
+        "rocky surface and put it in your pack.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "With two mushrooms in hand, the client",
+        "will be very pleased. You need only",
+        "deliver them to the bar now.",
+        ""
+      ],
+      "Translation": [
+        "With two mushrooms in hand, the client",
+        "will be very pleased. You need only",
+        "deliver them to the bar now.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You decide not to take this mushroom",
+        "and leave the area instead.",
+        ""
+      ],
+      "Translation": [
+        "You decide not to take this mushroom",
+        "and leave the area instead.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "You have already picked the mushroom",
+        "that grew there...",
+        ""
+      ],
+      "Translation": [
+        "You have already picked the mushroom",
+        "that grew there...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

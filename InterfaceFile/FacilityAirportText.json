@@ -1,0 +1,940 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Cargo Wharf text",
+  "RelativePath": "InterfaceFile\\FacilityAirportText.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Using the outer camera to read the",
+        "QR Code and receive data. Continue?",
+        ""
+      ],
+      "Translation": [
+        "Verwende äußere Kamera um QR-Code zu",
+        "lesen und Daten zu erhalten. Fortfahren?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Use 20 Game Coins to register this",
+        "character to your guild?",
+        ""
+      ],
+      "Translation": [
+        "Verwende 20 Spielmünzen um diesen",
+        "Charakter der Gilde hinzuzufügen?",
+        ""
+      ],
+      "Notes": [
+        "Nicht benutzt! (zum Glück :P)",
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Enable Etrian Odyssey IV's StreetPass",
+        "feature on this Nintendo 3DS system?",
+        ""
+      ],
+      "Translation": [
+        "Etrian Odyssey IV's StreetPass-Funktionen",
+        "auf diesem Nintendo 3DS-System aktivieren?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Etrian Odyssey IV Player Code:",
+        "[Variable1:0][Variable1:1][Variable1:2][Variable1:3]-[Variable1:4][Variable1:5][Variable1:6][Variable1:7]",
+        ""
+      ],
+      "Translation": [
+        "Etrian Odyssey IV-Spielercode:",
+        "[Variable1:0][Variable1:1][Variable1:2][Variable1:3]-[Variable1:4][Variable1:5][Variable1:6][Variable1:7]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Manage guild cards.",
+        ""
+      ],
+      "Translation": [
+        "Verwaltet Eure Gildenkarten.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Read a QR Code.",
+        ""
+      ],
+      "Translation": [
+        "Lest einen QR-Code ein.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Adjust StreetPass data settings.",
+        ""
+      ],
+      "Translation": [
+        "Verändert die StreetPass-Dateneinstellungen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Talk to Ciaran.",
+        ""
+      ],
+      "Translation": [
+        "Sprecht mit Ciaran.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Return to the square.",
+        ""
+      ],
+      "Translation": [
+        "Kehrt zum Dorfplatz zurück.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Adjust StreetPass settings.",
+        ""
+      ],
+      "Translation": [
+        "Verändert die StreetPass-Einstellungen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": true,
+      "Original": [
+        "いつのまに通信の設定を行います",
+        ""
+      ],
+      "Translation": [
+        "いつのまに通信の設定を行います",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Generate player code.",
+        ""
+      ],
+      "Translation": [
+        "Erzeugt Spielercode.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Write transferrable data to",
+        "the SD Card.",
+        ""
+      ],
+      "Translation": [
+        "Schreibt verschiebbare Daten auf",
+        "die SD-Karte.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "There are no new guild cards.",
+        ""
+      ],
+      "Translation": [
+        "Keine neuen Gildenkarten vorhanden.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Max card limit reached. Delete one.",
+        ""
+      ],
+      "Translation": [
+        "Kartenlimit erreicht. Bitte Karte löschen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Etrian Odyssey IV's StreetPass",
+        "feature has not been enabled.",
+        ""
+      ],
+      "Translation": [
+        "Etrian Odyssey IV's StreetPass-Funktion",
+        "ist nicht aktiviert.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "You received a new guild card!",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt eine neue Gildenkarte erhalten!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Save to the SD Card?",
+        ""
+      ],
+      "Translation": [
+        "Auf SD-Karte speichern?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Accept the new guild card?",
+        ""
+      ],
+      "Translation": [
+        "Die neue Gildenkarte akzeptieren?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Checking the StreetPass box.",
+        ""
+      ],
+      "Translation": [
+        "Überprüfe den StreetPass-Eingang…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Acquiring guild card data.",
+        ""
+      ],
+      "Translation": [
+        "Erhalte Gildenkarten-Daten…",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Save Etrian Odyssey IV extra data",
+        "to the SD Card.",
+        "[Page]",
+        "",
+        "This extra data will be used in",
+        "future titles.",
+        "[Page]",
+        "",
+        "Please be aware that this data is not",
+        "for use in Etrian Odyssey IV.",
+        "[Page]",
+        "",
+        "To save your game in",
+        "Etrian Odyssey IV, you must",
+        "go to the Saehrimnir Inn.",
+        ""
+      ],
+      "Translation": [
+        "Schreibe Etrian Odyssey IV-Extradaten",
+        "auf die SD-Karte.",
+        "[Page]",
+        "",
+        "Diese Extradaten werden von zukünftigen",
+        "Spielen verwendet.",
+        "[Page]",
+        "",
+        "Etrian Odyssey IV verwendet diese Daten",
+        "nicht.",
+        "[Page]",
+        "",
+        "Um das Spiel in Etrian Odyssey IV zu",
+        "speichern, geht ins Saehrimnir-Gasthaus.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "The guild card information has been",
+        "changed.",
+        ""
+      ],
+      "Translation": [
+        "Die Informationen der Gildenkarte wurden",
+        "verändert.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Update the changes in StreetPass?",
+        ""
+      ],
+      "Translation": [
+        "StreetPass-Daten aktualisieren?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "Finish your edit without reflecting",
+        "the updates in StreetPass?",
+        ""
+      ],
+      "Translation": [
+        "Änderungen abschließen ohne StreetPass",
+        "zu aktualisieren?",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung \"reflect\"/\"reflecting\"?",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Save to reflect the changes?",
+        ""
+      ],
+      "Translation": [
+        "Speichern um Änderungen abzuschließen?",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung \"reflect\"/\"reflecting\"?",
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Finish your edit without reflecting",
+        "the updated information?",
+        ""
+      ],
+      "Translation": [
+        "Änderungen abschließen ohne Informationen",
+        "zu aktualisieren?",
+        ""
+      ],
+      "Notes": [
+        "Übersetzung \"reflect\"/\"reflecting\"?",
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "In order to enable StreetPass, you",
+        "must agree to the most recently",
+        "updated User Agreement.",
+        "[Page]",
+        "",
+        "Select Internet Settings⇒Other",
+        "Information⇒User Agreement and",
+        "agree to the newest User Agreement.",
+        ""
+      ],
+      "Translation": [
+        "Um StreetPass zu aktivieren, musst",
+        "du als erstes den aktuellen",
+        "Nutzungsbedingungen zustimmen.",
+        "[Page]",
+        "",
+        "Wähle Interneteinstellungen⇒Weitere",
+        "Informationen⇒Nutzungsbedingungen",
+        "und stimme den Bedingungen zu.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "The StreetPass feature in this game",
+        "cannot be used, since StreetPass is",
+        "restricted in Parental Controls.",
+        ""
+      ],
+      "Translation": [
+        "Die StreetPass-Funktionen können nicht",
+        "verwendet werden, da StreetPass in den",
+        "Altersbeschränkungen beschränkt wurde.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

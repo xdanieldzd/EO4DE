@@ -1,0 +1,395 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_007",
+  "RelativePath": "Event\\Quest\\QUE_007.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, this request? Do you see the",
+        "travelling merchant in that seat",
+        "there? He shall be your client.",
+        "[Page]",
+        "",
+        "He wants you to open a [Color:5]treasure box[Color:0]",
+        "located in the [Color:5]Valley Spring[Color:0]. You may",
+        "receive the key from him [Color:5]directly[Color:0].",
+        "[Page]",
+        "",
+        "Be careful as you go, then, and I",
+        "shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Ah, this request? Do you see the",
+        "travelling merchant in that seat",
+        "there? He shall be your client.",
+        "[Page]",
+        "",
+        "He wants you to open a [Color:5]treasure box[Color:0]",
+        "located in the [Color:5]Valley Spring[Color:0]. You may",
+        "receive the key from him [Color:5]directly[Color:0].",
+        "[Page]",
+        "",
+        "Be careful as you go, then, and I",
+        "shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Thank you for your hard work... I saw",
+        "your dealings with him. He forced you",
+        "to take that... that filthy armor.",
+        "[Page]",
+        "",
+        "Well, think of it as a second reward.",
+        "Perhaps selling it at the Atelier will",
+        "fetch money enough for a Medica.",
+        "[Page]",
+        "",
+        "Here, at least, is the real reward.",
+        "I again thank you.",
+        ""
+      ],
+      "Translation": [
+        "Thank you for your hard work... I saw",
+        "your dealings with him. He forced you",
+        "to take that... that filthy armor.",
+        "[Page]",
+        "",
+        "Well, think of it as a second reward.",
+        "Perhaps selling it at the Atelier will",
+        "fetch money enough for a Medica.",
+        "[Page]",
+        "",
+        "Here, at least, is the real reward.",
+        "I again thank you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "You wander the labyrinth, the sound of",
+        "running water in your ears. At last,",
+        "you find the treasure box...",
+        "[Page]",
+        "",
+        "This is the one you took a request",
+        "at the bar to open and retrieve its",
+        "contents.",
+        "[Page]",
+        "",
+        "At least, that is what you assume, as",
+        "this treasure box is locked. You have",
+        "the key now, and so...",
+        ""
+      ],
+      "Translation": [
+        "You wander the labyrinth, the sound of",
+        "running water in your ears. At last,",
+        "you find the treasure box...",
+        "[Page]",
+        "",
+        "This is the one you took a request",
+        "at the bar to open and retrieve its",
+        "contents.",
+        "[Page]",
+        "",
+        "At least, that is what you assume, as",
+        "this treasure box is locked. You have",
+        "the key now, and so...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Within the chest, you find a set of",
+        "armor so old as to be functionally",
+        "worthless.",
+        "[Page]",
+        "",
+        "Yet no one can deny that you have",
+        "thus fulfilled the request.",
+        "[Page]",
+        "",
+        "All that is left now is to deliver",
+        "this to [Color:5]Sabert, the merchant[Color:0], who is",
+        "waiting for you at the bar.",
+        ""
+      ],
+      "Translation": [
+        "Within the chest, you find a set of",
+        "armor so old as to be functionally",
+        "worthless.",
+        "[Page]",
+        "",
+        "Yet no one can deny that you have",
+        "thus fulfilled the request.",
+        "[Page]",
+        "",
+        "All that is left now is to deliver",
+        "this to [Color:5]Sabert, the merchant[Color:0], who is",
+        "waiting for you at the bar.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Your map of the [Color:5]Valley Spring[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Your map of the [Color:5]Valley Spring[Color:3] has",
+        "been updated.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

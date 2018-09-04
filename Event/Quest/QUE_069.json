@@ -1,0 +1,756 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_069",
+  "RelativePath": "Event\\Quest\\QUE_069.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "That request comes from the Outland",
+        "Count. It seems there has been a major",
+        "discovery at the Cloudy Stronghold.",
+        "[Page]",
+        "",
+        "If you are interested, head to the",
+        "Grand Court and speak with the Count",
+        "directly. I await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That request comes from the Outland",
+        "Count. It seems there has been a major",
+        "discovery at the Cloudy Stronghold.",
+        "[Page]",
+        "",
+        "If you are interested, head to the",
+        "Grand Court and speak with the Count",
+        "directly. I await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Very good work. Another success to be",
+        "chalked up for your guild... or so",
+        "the Outland Count's man tells me.",
+        "[Page]",
+        "",
+        "I have only heard tales of it from",
+        "explorers, but the Cloudy Stronghold",
+        "seems like an exotic place.",
+        "[Page]",
+        "",
+        "It is beautiful, yet austere. What is",
+        "the word for it...? Melancholy? I am",
+        "sorry if any of this sounds strange.",
+        "[Page]",
+        "",
+        "At any rate, here is the reward you",
+        "were promised.",
+        ""
+      ],
+      "Translation": [
+        "Very good work. Another success to be",
+        "chalked up for your guild... or so",
+        "the Outland Count's man tells me.",
+        "[Page]",
+        "",
+        "I have only heard tales of it from",
+        "explorers, but the Cloudy Stronghold",
+        "seems like an exotic place.",
+        "[Page]",
+        "",
+        "It is beautiful, yet austere. What is",
+        "the word for it...? Melancholy? I am",
+        "sorry if any of this sounds strange.",
+        "[Page]",
+        "",
+        "At any rate, here is the reward you",
+        "were promised.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, is this about my request? Thanks",
+        "to your opening the way to the Cloudy",
+        "Stronghold, we have begun exploring.",
+        "[Page]",
+        "",
+        "And as a result, several documents",
+        "thought to belong to the Empire have",
+        "been found.",
+        "[Page]",
+        "",
+        "But the documents are fragmented and",
+        "largely incomprehensible. Are you not",
+        "curious to know what they've found?",
+        "[Page]",
+        "",
+        "I certainly am... And that is where",
+        "I need your help. First, allow me to",
+        "read one of the documents.",
+        ""
+      ],
+      "Translation": [
+        "Ah, is this about my request? Thanks",
+        "to your opening the way to the Cloudy",
+        "Stronghold, we have begun exploring.",
+        "[Page]",
+        "",
+        "And as a result, several documents",
+        "thought to belong to the Empire have",
+        "been found.",
+        "[Page]",
+        "",
+        "But the documents are fragmented and",
+        "largely incomprehensible. Are you not",
+        "curious to know what they've found?",
+        "[Page]",
+        "",
+        "I certainly am... And that is where",
+        "I need your help. First, allow me to",
+        "read one of the documents.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "\"Discovery in [Color:5]Area 1 (D-2/4-5)[Color:0].",
+        "Discovery in [Color:5]Area 2 (C-3/2-5)[Color:0].\"",
+        "That is all.",
+        ""
+      ],
+      "Translation": [
+        "\"Discovery in [Color:5]Area 1 (D-2/4-5)[Color:0].",
+        "Discovery in [Color:5]Area 2 (C-3/2-5)[Color:0].\"",
+        "That is all.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "From the context, the bits about",
+        "\"(D-2/4-5)\" and \"(C-3/2-5)\" seem to",
+        "be marking a location.",
+        "[Page]",
+        "",
+        "I want you to find the locations cited",
+        "in this mysterious text. If you need a",
+        "moment here to ponder it, feel free.",
+        ""
+      ],
+      "Translation": [
+        "From the context, the bits about",
+        "\"(D-2/4-5)\" and \"(C-3/2-5)\" seem to",
+        "be marking a location.",
+        "[Page]",
+        "",
+        "I want you to find the locations cited",
+        "in this mysterious text. If you need a",
+        "moment here to ponder it, feel free.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, have you made any breakthroughs",
+        "regarding the locations from that",
+        "document?",
+        ""
+      ],
+      "Translation": [
+        "Ah, have you made any breakthroughs",
+        "regarding the locations from that",
+        "document?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Have you figured it out?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Have you figured it out?[Color:0]",
+        "Yes",
+        "No",
+        "I need more information",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "I am confused... You go out of your",
+        "way to speak to me and then tell me",
+        "that you do not have an answer...",
+        "[Page]",
+        "",
+        "I am glad for the company, but this",
+        "is no time for a chat. Now concentrate",
+        "and think carefully.",
+        ""
+      ],
+      "Translation": [
+        "I am confused... You go out of your",
+        "way to speak to me and then tell me",
+        "that you do not have an answer...",
+        "[Page]",
+        "",
+        "I am glad for the company, but this",
+        "is no time for a chat. Now concentrate",
+        "and think carefully.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Of course. I shall read the document",
+        "once more. Listen carefully...",
+        ""
+      ],
+      "Translation": [
+        "Of course. I shall read the document",
+        "once more. Listen carefully...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... the \"D-2\" in \"(D-2/4-5)\" may",
+        "be a coordinate. I would have thought",
+        "you'd picked up on that by now.",
+        "[Page]",
+        "",
+        "That must mean the similarly written",
+        "\"4-5\" is also a coordinate... Think",
+        "carefully, my friends!",
+        ""
+      ],
+      "Translation": [
+        "Hmm... the \"D-2\" in \"(D-2/4-5)\" may",
+        "be a coordinate. I would have thought",
+        "you'd picked up on that by now.",
+        "[Page]",
+        "",
+        "That must mean the similarly written",
+        "\"4-5\" is also a coordinate... Think",
+        "carefully, my friends!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "I am eager to hear your thoughts.",
+        "[Page]",
+        "",
+        "This \"[Color:5]Area 1[Color:0]\" from the document...",
+        "Where do you think \"[Color:5]D-2/4-5[Color:0]\" is?",
+        ""
+      ],
+      "Translation": [
+        "I am eager to hear your thoughts.",
+        "[Page]",
+        "",
+        "This \"[Color:5]Area 1[Color:0]\" from the document...",
+        "Where do you think \"[Color:5]D-2/4-5[Color:0]\" is?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "I see... Then \"[Color:5]Area 2[Color:0]\"? Where do you",
+        "suppose \"[Color:5]C-3/2-5[Color:0]\" is?",
+        ""
+      ],
+      "Translation": [
+        "I see... Then \"[Color:5]Area 2[Color:0]\"? Where do you",
+        "suppose \"[Color:5]C-3/2-5[Color:0]\" is?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, I see... Well, I shall send my",
+        "scouts there without delay.",
+        ""
+      ],
+      "Translation": [
+        "Ah, I see... Well, I shall send my",
+        "scouts there without delay.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "My scouts have just returned with the",
+        "results of their investigation. First,",
+        "regarding Area 1...",
+        ""
+      ],
+      "Translation": [
+        "My scouts have just returned with the",
+        "results of their investigation. First,",
+        "regarding Area 1...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "It was just as you said. A small, yet",
+        "distinct emblem was found at the",
+        "coordinates you provided!",
+        "[Page]",
+        "",
+        "Moreover, the emblem was the Imperial",
+        "seal. I think it quite safe to say",
+        "that that is Area 1!",
+        ""
+      ],
+      "Translation": [
+        "It was just as you said. A small, yet",
+        "distinct emblem was found at the",
+        "coordinates you provided!",
+        "[Page]",
+        "",
+        "Moreover, the emblem was the Imperial",
+        "seal. I think it quite safe to say",
+        "that that is Area 1!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Unfortunately, the location you gave",
+        "us had no distinct features or marks.",
+        ""
+      ],
+      "Translation": [
+        "Unfortunately, the location you gave",
+        "us had no distinct features or marks.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Now, as for Area 2...",
+        ""
+      ],
+      "Translation": [
+        "Now, as for Area 2...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, wonderful! They found a very small",
+        "Imperial seal at the location you",
+        "pointed out!",
+        "[Page]",
+        "",
+        "This must be the place the document",
+        "described. I am confident in thinking",
+        "that this is Area 2.",
+        ""
+      ],
+      "Translation": [
+        "Ah, wonderful! They found a very small",
+        "Imperial seal at the location you",
+        "pointed out!",
+        "[Page]",
+        "",
+        "This must be the place the document",
+        "described. I am confident in thinking",
+        "that this is Area 2.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "I am sorry, but they found no special",
+        "features or hints that the location",
+        "you gave us is Area 2.",
+        ""
+      ],
+      "Translation": [
+        "I am sorry, but they found no special",
+        "features or hints that the location",
+        "you gave us is Area 2.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... Based on this result, I cannot",
+        "call the request complete. Think back",
+        "to the document once more...",
+        ""
+      ],
+      "Translation": [
+        "Hmm... Based on this result, I cannot",
+        "call the request complete. Think back",
+        "to the document once more...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "And so, we have pinpointed both Area 1",
+        "and Area 2! I'd expect nothing less",
+        "from Tharsis' best explorers!",
+        "[Page]",
+        "",
+        "So those letters did, in fact, mark",
+        "the coordinates of a map.",
+        "[Page]",
+        "",
+        "\"(D-2/4-5)\" must have meant the spot",
+        "within D-2 that is four down from the",
+        "top and five over from the left.",
+        "[Page]",
+        "",
+        "This may come in handy the next time",
+        "we decipher an Imperial document...",
+        "Remember it well!",
+        "[Page]",
+        "",
+        "I do believe that completes the task I",
+        "gave you! Go to the bar and make your",
+        "report. Thanks again, my friends!",
+        ""
+      ],
+      "Translation": [
+        "And so, we have pinpointed both Area 1",
+        "and Area 2! I'd expect nothing less",
+        "from Tharsis' best explorers!",
+        "[Page]",
+        "",
+        "So those letters did, in fact, mark",
+        "the coordinates of a map.",
+        "[Page]",
+        "",
+        "\"(D-2/4-5)\" must have meant the spot",
+        "within D-2 that is four down from the",
+        "top and five over from the left.",
+        "[Page]",
+        "",
+        "This may come in handy the next time",
+        "we decipher an Imperial document...",
+        "Remember it well!",
+        "[Page]",
+        "",
+        "I do believe that completes the task I",
+        "gave you! Go to the bar and make your",
+        "report. Thanks again, my friends!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "So we know both locations now, but...",
+        "I wonder what their significance",
+        "could be...",
+        ""
+      ],
+      "Translation": [
+        "So we know both locations now, but...",
+        "I wonder what their significance",
+        "could be...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the spot you guessed at",
+        "to confirm the coordinates from the",
+        "Imperial document.",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the spot you guessed at",
+        "to confirm the coordinates from the",
+        "Imperial document.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "You land and thoroughly search the",
+        "area, finally finding a very small",
+        "emblem that seems to be a symbol.",
+        "[Page]",
+        "",
+        "You would never have noticed it if",
+        "not for the coordinates. It is some",
+        "sort of sign! The Count must know...",
+        ""
+      ],
+      "Translation": [
+        "You land and thoroughly search the",
+        "area, finally finding a very small",
+        "emblem that seems to be a symbol.",
+        "[Page]",
+        "",
+        "You would never have noticed it if",
+        "not for the coordinates. It is some",
+        "sort of sign! The Count must know...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "You are sure that the Outland Count's",
+        "document indicated that there should",
+        "be some sort of sign here...",
+        "[Page]",
+        "",
+        "But for now, you can find no reason",
+        "to linger, and you therefore depart",
+        "on your skyship.",
+        ""
+      ],
+      "Translation": [
+        "You are sure that the Outland Count's",
+        "document indicated that there should",
+        "be some sort of sign here...",
+        "[Page]",
+        "",
+        "But for now, you can find no reason",
+        "to linger, and you therefore depart",
+        "on your skyship.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

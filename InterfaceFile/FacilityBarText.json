@@ -1,0 +1,251 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Dancing Peacock text",
+  "RelativePath": "InterfaceFile\\FacilityBarText.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Hear the requests of Tharsis'",
+        "townspeople.",
+        ""
+      ],
+      "Translation": [
+        "Hört die Gesuche der Bewohner",
+        "von Tharsis.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Confirm a quest's completion",
+        "or give up on it.",
+        ""
+      ],
+      "Translation": [
+        "Bestätigt die Vollendung einer",
+        "Aufgabe oder brecht sie ab.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Talk to fellow explorers to",
+        "gain information.",
+        ""
+      ],
+      "Translation": [
+        "Sprecht mit gleichgesinnten Entdeckern",
+        "um Informationen zu erhalten.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Talk to Kirtida.",
+        ""
+      ],
+      "Translation": [
+        "Sprecht mit Kirtida.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Return to the plaza.",
+        ""
+      ],
+      "Translation": [
+        "Kehrt zum Hauptplatz zurück.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Who do you want to talk to?",
+        ""
+      ],
+      "Translation": [
+        "Mit wem möchtet Ihr sprechen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "There are no requests.",
+        ""
+      ],
+      "Translation": [
+        "Es gibt keine Gesuche.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "Will you accept this quest?",
+        ""
+      ],
+      "Translation": [
+        "Werdet Ihr diese Aufgabe akzeptieren?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "You have accepted the task.",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt den Auftrag angenommen.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "There are no tasks underway.",
+        ""
+      ],
+      "Translation": [
+        "Es sind keine Aufträge im Gange.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": true,
+      "Original": [
+        "Dummy",
+        ""
+      ],
+      "Translation": [
+        "Dummy",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Will you give up on the task?",
+        ""
+      ],
+      "Translation": [
+        "Werdet Ihr diesen Auftrag abbrechen?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "You abandoned the task.",
+        ""
+      ],
+      "Translation": [
+        "Ihr habt den Auftrag aufgegeben.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "No one is here.",
+        ""
+      ],
+      "Translation": [
+        "Es ist niemand hier.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "You can't take on any more quests!",
+        ""
+      ],
+      "Translation": [
+        "Ihr könnt keine weiteren Aufgaben annehmen!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

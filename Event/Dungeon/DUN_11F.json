@@ -1,0 +1,760 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "DUN_11F",
+  "RelativePath": "Event\\Dungeon\\DUN_11F.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "Faithful tester, this lynne doth not",
+        "appeare in yon game. If thou shouldst",
+        "see it, submitt thee a bug.",
+        ""
+      ],
+      "Translation": [
+        "Faithful tester, this lynne doth not",
+        "appeare in yon game. If thou shouldst",
+        "see it, submitt thee a bug.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "As you walk through the maze, you find",
+        "a piece of paper on the stony pavement",
+        "and pick it up.",
+        "[Page]",
+        "",
+        "Did the master of these ruins leave",
+        "it behind...? It is largely illegible,",
+        "but some of it can still be read.",
+        "[Page]",
+        "",
+        "\"Right, down, up, left.\"",
+        "[Page]",
+        "",
+        "You commit the directions to memory,",
+        "never knowing when they may be useful.",
+        "\"Right, down, up, left\"...",
+        ""
+      ],
+      "Translation": [
+        "As you walk through the maze, you find",
+        "a piece of paper on the stony pavement",
+        "and pick it up.",
+        "[Page]",
+        "",
+        "Did the master of these ruins leave",
+        "it behind...? It is largely illegible,",
+        "but some of it can still be read.",
+        "[Page]",
+        "",
+        "\"Right, down, up, left.\"",
+        "[Page]",
+        "",
+        "You commit the directions to memory,",
+        "never knowing when they may be useful.",
+        "\"Right, down, up, left\"...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "After making your way through a hidden",
+        "passage, you come to a bookshelf at a",
+        "dead end.",
+        "[Page]",
+        "",
+        "You run your hands over it and detect",
+        "some kind of mechanism set into the",
+        "bookshelf.",
+        "[Page]",
+        "",
+        "It appears that a number of these",
+        "books' spines are actually switches.",
+        "You could try pushing them...",
+        ""
+      ],
+      "Translation": [
+        "After making your way through a hidden",
+        "passage, you come to a bookshelf at a",
+        "dead end.",
+        "[Page]",
+        "",
+        "You run your hands over it and detect",
+        "some kind of mechanism set into the",
+        "bookshelf.",
+        "[Page]",
+        "",
+        "It appears that a number of these",
+        "books' spines are actually switches.",
+        "You could try pushing them...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Push the books' spines?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Push the books' spines?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Which book will you push?[Color:0]",
+        "The book on the right",
+        "The book on the left",
+        "The book on the top",
+        "The book on the bottom",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Which book will you push?[Color:0]",
+        "The book on the right",
+        "The book on the left",
+        "The book on the top",
+        "The book on the bottom",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "When you push the four books in, one",
+        "after another, a satisfying click",
+        "echoes.",
+        "[Page]",
+        "",
+        "You steel yourself and examine the",
+        "bookshelf. A book juts out as if",
+        "daring you to look at it.",
+        "[Page]",
+        "",
+        "You take a deep breath...",
+        "[Page]",
+        "",
+        "Gingerly removing the book from the",
+        "shelf, you open it to find a fortune",
+        "stashed in its hollowed-out pages!",
+        ""
+      ],
+      "Translation": [
+        "When you push the four books in, one",
+        "after another, a satisfying click",
+        "echoes.",
+        "[Page]",
+        "",
+        "You steel yourself and examine the",
+        "bookshelf. A book juts out as if",
+        "daring you to look at it.",
+        "[Page]",
+        "",
+        "You take a deep breath...",
+        "[Page]",
+        "",
+        "Gingerly removing the book from the",
+        "shelf, you open it to find a fortune",
+        "stashed in its hollowed-out pages!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Is this the secret hoard of the master",
+        "of these ruins? You happily pocket the",
+        "money and whistle as you walk off.",
+        ""
+      ],
+      "Translation": [
+        "Is this the secret hoard of the master",
+        "of these ruins? You happily pocket the",
+        "money and whistle as you walk off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "When you push the books in, a dull",
+        "click echoes.",
+        "[Page]",
+        "",
+        "You steel yourself and examine the",
+        "bookshelf, when a book shoots out at",
+        "startling speed, striking [Character:0]!",
+        ""
+      ],
+      "Translation": [
+        "When you push the books in, a dull",
+        "click echoes.",
+        "[Page]",
+        "",
+        "You steel yourself and examine the",
+        "bookshelf, when a book shoots out at",
+        "startling speed, striking [Character:0]!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] loses 50 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] loses 50 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "It appears the corner of the book",
+        "struck them directly between the eyes.",
+        "[Character:0] doubles over in pain...",
+        ""
+      ],
+      "Translation": [
+        "It appears the corner of the book",
+        "struck them directly between the eyes.",
+        "[Character:0] doubles over in pain...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "When you push the books in, a dull",
+        "click echoes.",
+        "[Page]",
+        "",
+        "You steel yourself and examine the",
+        "bookshelf, when [Character:0] suddenly",
+        "gives a pained yelp!",
+        ""
+      ],
+      "Translation": [
+        "When you push the books in, a dull",
+        "click echoes.",
+        "[Page]",
+        "",
+        "You steel yourself and examine the",
+        "bookshelf, when [Character:0] suddenly",
+        "gives a pained yelp!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3][Character:0] loses 80 HP.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3][Character:0] loses 80 HP.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "It seems a fat dictionary shot from a",
+        "low shelf struck [Character:0]'s shins",
+        "with tremendous speed.",
+        "[Page]",
+        "",
+        "[Character:0] curls up in pain...",
+        ""
+      ],
+      "Translation": [
+        "It seems a fat dictionary shot from a",
+        "low shelf struck [Character:0]'s shins",
+        "with tremendous speed.",
+        "[Page]",
+        "",
+        "[Character:0] curls up in pain...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "When you push the books in, a dull",
+        "click echoes.",
+        "[Page]",
+        "",
+        "After all the brutal traps you've",
+        "survived this far, the mere sound is",
+        "enough to send you scurrying!",
+        ""
+      ],
+      "Translation": [
+        "When you push the books in, a dull",
+        "click echoes.",
+        "[Page]",
+        "",
+        "After all the brutal traps you've",
+        "survived this far, the mere sound is",
+        "enough to send you scurrying!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm...?",
+        "[Page]",
+        "",
+        "As you turn cautiously back toward",
+        "the bookshelf from a safe distance,",
+        "a shocking scene unfolds!",
+        "[Page]",
+        "",
+        "The bookshelf suddenly releases a",
+        "blinding light and explodes!",
+        "[Page]",
+        "",
+        "The party looks at one another,",
+        "utterly dazed.",
+        "[Page]",
+        "",
+        "You are shocked for some time, and",
+        "finally stop trying to puzzle out",
+        "what exactly happened...",
+        ""
+      ],
+      "Translation": [
+        "Hmm...?",
+        "[Page]",
+        "",
+        "As you turn cautiously back toward",
+        "the bookshelf from a safe distance,",
+        "a shocking scene unfolds!",
+        "[Page]",
+        "",
+        "The bookshelf suddenly releases a",
+        "blinding light and explodes!",
+        "[Page]",
+        "",
+        "The party looks at one another,",
+        "utterly dazed.",
+        "[Page]",
+        "",
+        "You are shocked for some time, and",
+        "finally stop trying to puzzle out",
+        "what exactly happened...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "An earsplitting klaxon sounds",
+        "throughout the area!",
+        ""
+      ],
+      "Translation": [
+        "An earsplitting klaxon sounds",
+        "throughout the area!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

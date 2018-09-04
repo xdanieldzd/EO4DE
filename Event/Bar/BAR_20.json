@@ -1,0 +1,56 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_20",
+  "RelativePath": "Event\\Bar\\BAR_20.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "Seems like you're having a tough time",
+        "out in the Lush Woodlands. I just",
+        "cleared B1F, but that second floor...",
+        "[Page]",
+        "",
+        "I'm thinking I should scale back and",
+        "train a while at the [Color:5]Small Orchard[Color:0]",
+        "right next door to the Woodlands.",
+        "[Page]",
+        "",
+        "But then again, the Small Orchard has",
+        "that horrible monster that charges",
+        "[Color:5]twice as fast[Color:0] as you can run.",
+        "[Page]",
+        "",
+        "I don't know... I feel like it's the",
+        "devil I know or the devil I don't.",
+        "Maybe I should just stay home...",
+        ""
+      ],
+      "Translation": [
+        "Seems like you're having a tough time",
+        "out in the Lush Woodlands. I just",
+        "cleared B1F, but that second floor...",
+        "[Page]",
+        "",
+        "I'm thinking I should scale back and",
+        "train a while at the [Color:5]Small Orchard[Color:0]",
+        "right next door to the Woodlands.",
+        "[Page]",
+        "",
+        "But then again, the Small Orchard has",
+        "that horrible monster that charges",
+        "[Color:5]twice as fast[Color:0] as you can run.",
+        "[Page]",
+        "",
+        "I don't know... I feel like it's the",
+        "devil I know or the devil I don't.",
+        "Maybe I should just stay home...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

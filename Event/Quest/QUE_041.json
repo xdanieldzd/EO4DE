@@ -1,0 +1,2041 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QUE_041",
+  "RelativePath": "Event\\Quest\\QUE_041.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "That request comes from Kohst, an",
+        "[Color:5]Yggdrasil researcher[Color:0] for the Empire.",
+        "[Page]",
+        "",
+        "He wants you to investigate an unusual",
+        "metal found in the [Color:5]Echoing Library[Color:0].",
+        "[Page]",
+        "",
+        "He wanted to talk to you directly,",
+        "however... It all sounded quite",
+        "complicated.",
+        "[Page]",
+        "",
+        "He is sitting just over there if you",
+        "wish to speak to him for more details.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "That request comes from Kohst, an",
+        "[Color:5]Yggdrasil researcher[Color:0] for the Empire.",
+        "[Page]",
+        "",
+        "He wants you to investigate an unusual",
+        "metal found in the [Color:5]Echoing Library[Color:0].",
+        "[Page]",
+        "",
+        "He wanted to talk to you directly,",
+        "however... It all sounded quite",
+        "complicated.",
+        "[Page]",
+        "",
+        "He is sitting just over there if you",
+        "wish to speak to him for more details.",
+        "I shall await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "I again thank you for your hard work.",
+        "The client was here the entire time,",
+        "so I heard what went on.",
+        "[Page]",
+        "",
+        "You went back and forth, back and",
+        "forth, until you fought a monster...",
+        "How very like your guild, haha.",
+        "[Page]",
+        "",
+        "This request seems to have reinforced",
+        "the bonds between everyone... Maybe it",
+        "went so smoothly because it was you.",
+        "[Page]",
+        "",
+        "I suppose this short sword is a symbol",
+        "of that bond. Take good care of it!",
+        "[Page]",
+        "",
+        "But what a long ordeal you've had...",
+        "You must be tired. I think this one",
+        "will be on the house.",
+        ""
+      ],
+      "Translation": [
+        "I again thank you for your hard work.",
+        "The client was here the entire time,",
+        "so I heard what went on.",
+        "[Page]",
+        "",
+        "You went back and forth, back and",
+        "forth, until you fought a monster...",
+        "How very like your guild, haha.",
+        "[Page]",
+        "",
+        "This request seems to have reinforced",
+        "the bonds between everyone... Maybe it",
+        "went so smoothly because it was you.",
+        "[Page]",
+        "",
+        "I suppose this short sword is a symbol",
+        "of that bond. Take good care of it!",
+        "[Page]",
+        "",
+        "But what a long ordeal you've had...",
+        "You must be tired. I think this one",
+        "will be on the house.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Is something the matter? How can I",
+        "help you, Guild [Guild]?",
+        ""
+      ],
+      "Translation": [
+        "Is something the matter? How can I",
+        "help you, Guild [Guild]?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Show him the metal shard?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Show him the metal shard?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "What the devil is this? It looks to",
+        "be a shard of some sort...",
+        "[Page]",
+        "",
+        "You received it from an Imperial",
+        "scientist, you say? And you came",
+        "to me to see if I knew anything...",
+        "[Page]",
+        "",
+        "Unfortunately, my friends, I have many",
+        "artifacts related to Yggdrasil, but",
+        "none that might fit this device.",
+        "[Page]",
+        "",
+        "You might try the Vessels or the",
+        "Sentinels. They may know something",
+        "about the shard.",
+        ""
+      ],
+      "Translation": [
+        "What the devil is this? It looks to",
+        "be a shard of some sort...",
+        "[Page]",
+        "",
+        "You received it from an Imperial",
+        "scientist, you say? And you came",
+        "to me to see if I knew anything...",
+        "[Page]",
+        "",
+        "Unfortunately, my friends, I have many",
+        "artifacts related to Yggdrasil, but",
+        "none that might fit this device.",
+        "[Page]",
+        "",
+        "You might try the Vessels or the",
+        "Sentinels. They may know something",
+        "about the shard.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "You are my dearest friends! Just",
+        "because you have no business with",
+        "me hardly means you cannot visit.",
+        "[Page]",
+        "",
+        "Let me pour you some tea! No need",
+        "to be modest, just take your time",
+        "and relax.",
+        ""
+      ],
+      "Translation": [
+        "You are my dearest friends! Just",
+        "because you have no business with",
+        "me hardly means you cannot visit.",
+        "[Page]",
+        "",
+        "Let me pour you some tea! No need",
+        "to be modest, just take your time",
+        "and relax.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, my friends from Guild [Guild]!",
+        "How has the request from the Imperial",
+        "scientist been progressing?",
+        ""
+      ],
+      "Translation": [
+        "Ah, my friends from Guild [Guild]!",
+        "How has the request from the Imperial",
+        "scientist been progressing?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Show him the [Color:6][Item:1469]?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Show him the [Color:6][Item:1469]?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, you formed this disc by collecting",
+        "pieces from the Vessels, the Empire,",
+        "and the Sentinels?",
+        "[Page]",
+        "",
+        "Even after collecting them all,",
+        "is there no room on this disc for",
+        "Tharsis... Hm!?",
+        "[Page]",
+        "",
+        "I believe I do remember something",
+        "about this disc! Take a look at this",
+        "hole in the center... Wait here!",
+        ""
+      ],
+      "Translation": [
+        "Ah, you formed this disc by collecting",
+        "pieces from the Vessels, the Empire,",
+        "and the Sentinels?",
+        "[Page]",
+        "",
+        "Even after collecting them all,",
+        "is there no room on this disc for",
+        "Tharsis... Hm!?",
+        "[Page]",
+        "",
+        "I believe I do remember something",
+        "about this disc! Take a look at this",
+        "hole in the center... Wait here!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "This was a treasure of our ancestors,",
+        "supposedly discovered in the Lush",
+        "Woodlands.",
+        "[Page]",
+        "",
+        "Now that I see the shards have formed",
+        "a disc, I understand the purpose of",
+        "this hole. Kindly hand me that...",
+        "[Page]",
+        "",
+        "And... Aha!",
+        "[Page]",
+        "",
+        "It fits perfectly! Take a look, my",
+        "friends! The disc is complete!",
+        "Brilliant, if I say so myself!",
+        "[Page]",
+        "",
+        "The Imperials, the Vessels, the",
+        "Sentinels, and we citizens of",
+        "Tharsis... The \"circle\" is complete!",
+        "[Page]",
+        "",
+        "Hahah! Ahhh... Here, you should take",
+        "this with you.",
+        "[Page]",
+        "",
+        "I am curious about what this strange",
+        "disc might lead to. Now then, my",
+        "friends, safe travels!",
+        ""
+      ],
+      "Translation": [
+        "This was a treasure of our ancestors,",
+        "supposedly discovered in the Lush",
+        "Woodlands.",
+        "[Page]",
+        "",
+        "Now that I see the shards have formed",
+        "a disc, I understand the purpose of",
+        "this hole. Kindly hand me that...",
+        "[Page]",
+        "",
+        "And... Aha!",
+        "[Page]",
+        "",
+        "It fits perfectly! Take a look, my",
+        "friends! The disc is complete!",
+        "Brilliant, if I say so myself!",
+        "[Page]",
+        "",
+        "The Imperials, the Vessels, the",
+        "Sentinels, and we citizens of",
+        "Tharsis... The \"circle\" is complete!",
+        "[Page]",
+        "",
+        "Hahah! Ahhh... Here, you should take",
+        "this with you.",
+        "[Page]",
+        "",
+        "I am curious about what this strange",
+        "disc might lead to. Now then, my",
+        "friends, safe travels!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, you needn't feign humility. I do",
+        "so hate being left out of the loop!",
+        ""
+      ],
+      "Translation": [
+        "Oh, you needn't feign humility. I do",
+        "so hate being left out of the loop!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "Oh? What's this? How can I help you",
+        "today, my friends of Guild [Guild]?",
+        ""
+      ],
+      "Translation": [
+        "Oh? What's this? How can I help you",
+        "today, my friends of Guild [Guild]?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Show him the [Color:6][Item:1469]?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Show him the [Color:6][Item:1469]?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, you formed this disc by collecting",
+        "pieces from the Vessels, the Empire,",
+        "and the Sentinels?",
+        "[Page]",
+        "",
+        "Even after collecting them all,",
+        "is there no room on this disc for",
+        "Tharsis... Hm!?",
+        "[Page]",
+        "",
+        "I believe I do remember something",
+        "about this disc! Take a look at this",
+        "hole in the center... Wait here!",
+        ""
+      ],
+      "Translation": [
+        "Ah, you formed this disc by collecting",
+        "pieces from the Vessels, the Empire,",
+        "and the Sentinels?",
+        "[Page]",
+        "",
+        "Even after collecting them all,",
+        "is there no room on this disc for",
+        "Tharsis... Hm!?",
+        "[Page]",
+        "",
+        "I believe I do remember something",
+        "about this disc! Take a look at this",
+        "hole in the center... Wait here!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "This treasure was passed down by our",
+        "ancestors, but was supposedly found",
+        "originally in the Lush Woodlands.",
+        "[Page]",
+        "",
+        "And... Aha!",
+        "[Page]",
+        "",
+        "It fits perfectly! Take a look, my",
+        "friends! The disc is complete!",
+        "Brilliant, if I say so myself!",
+        "[Page]",
+        "",
+        "The Imperials, the Vessels, the",
+        "Sentinels, and we citizens of",
+        "Tharsis... The \"circle\" is complete!",
+        "[Page]",
+        "",
+        "Hahah! Ahhh... Here, you should take",
+        "this with you.",
+        "[Page]",
+        "",
+        "I am curious about what this strange",
+        "disc might lead to. Now then, my",
+        "friends, safe travels!",
+        ""
+      ],
+      "Translation": [
+        "This treasure was passed down by our",
+        "ancestors, but was supposedly found",
+        "originally in the Lush Woodlands.",
+        "[Page]",
+        "",
+        "And... Aha!",
+        "[Page]",
+        "",
+        "It fits perfectly! Take a look, my",
+        "friends! The disc is complete!",
+        "Brilliant, if I say so myself!",
+        "[Page]",
+        "",
+        "The Imperials, the Vessels, the",
+        "Sentinels, and we citizens of",
+        "Tharsis... The \"circle\" is complete!",
+        "[Page]",
+        "",
+        "Hahah! Ahhh... Here, you should take",
+        "this with you.",
+        "[Page]",
+        "",
+        "I am curious about what this strange",
+        "disc might lead to. Now then, my",
+        "friends, safe travels!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "I understand just from the look in",
+        "your eyes... You came here because you",
+        "have something important. Am I right?",
+        ""
+      ],
+      "Translation": [
+        "I understand just from the look in",
+        "your eyes... You came here because you",
+        "have something important. Am I right?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at the Vessel Town and see",
+        "a lone woman.",
+        "[Page]",
+        "",
+        "You cannot see the harm in asking the",
+        "woman about the metal shard...",
+        ""
+      ],
+      "Translation": [
+        "You arrive at the Vessel Town and see",
+        "a lone woman.",
+        "[Page]",
+        "",
+        "You cannot see the harm in asking the",
+        "woman about the metal shard...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "A Vessel woman is cooking near the",
+        "entrance.",
+        "[Page]",
+        "",
+        "You cannot see the harm in asking the",
+        "woman about the metal shard...",
+        ""
+      ],
+      "Translation": [
+        "A Vessel woman is cooking near the",
+        "entrance.",
+        "[Page]",
+        "",
+        "You cannot see the harm in asking the",
+        "woman about the metal shard...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Ask her about the shard?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Ask her about the shard?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, the [Guild] Guild. It is good",
+        "to see you again. How can I help you",
+        "today?\"",
+        "[Page]",
+        "",
+        "You show her the metal shard and ask",
+        "if she knows anything about it. She",
+        "stares at it and finally speaks.",
+        "[Page]",
+        "",
+        "\"I do remember something about this...",
+        "Please wait here.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, the [Guild] Guild. It is good",
+        "to see you again. How can I help you",
+        "today?\"",
+        "[Page]",
+        "",
+        "You show her the metal shard and ask",
+        "if she knows anything about it. She",
+        "stares at it and finally speaks.",
+        "[Page]",
+        "",
+        "\"I do remember something about this...",
+        "Please wait here.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "\"Here. It looks much the same, doesn't",
+        "it? It was in the Vessels' treasure",
+        "house, covered in dust.\"",
+        "[Page]",
+        "",
+        "This metal shard is shaped like the",
+        "one you received from the Sentinels.",
+        "You fit them together to form a disc!",
+        "[Page]",
+        "",
+        "\"This may be the key to open the",
+        "sealed door at the [Color:5]Moth's Garden[Color:0].",
+        "It is to the west of this land...",
+        "[Page]",
+        "",
+        "\"As you may know, there is a tightly",
+        "sealed door in that labyrinth and a",
+        "recession with a very similar shape.",
+        "[Page]",
+        "",
+        "\"I believe you should keep this...",
+        "It is better that way. The Medium",
+        "would most likely agree.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Here. It looks much the same, doesn't",
+        "it? It was in the Vessels' treasure",
+        "house, covered in dust.\"",
+        "[Page]",
+        "",
+        "This metal shard is shaped like the",
+        "one you received from the Sentinels.",
+        "You fit them together to form a disc!",
+        "[Page]",
+        "",
+        "\"This may be the key to open the",
+        "sealed door at the [Color:5]Moth's Garden[Color:0].",
+        "It is to the west of this land...",
+        "[Page]",
+        "",
+        "\"As you may know, there is a tightly",
+        "sealed door in that labyrinth and a",
+        "recession with a very similar shape.",
+        "[Page]",
+        "",
+        "\"I believe you should keep this...",
+        "It is better that way. The Medium",
+        "would most likely agree.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "You thank the woman, who nods and",
+        "excuses herself before leaving.",
+        "[Page]",
+        "",
+        "The client's parchment about a garden",
+        "where scales dance must have been",
+        "written about the [Color:5]Moth's Garden[Color:0]...",
+        ""
+      ],
+      "Translation": [
+        "You thank the woman, who nods and",
+        "excuses herself before leaving.",
+        "[Page]",
+        "",
+        "The client's parchment about a garden",
+        "where scales dance must have been",
+        "written about the [Color:5]Moth's Garden[Color:0]...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "\"Here. It looks much the same, doesn't",
+        "it? It was in the Vessels' treasure",
+        "house, covered in dust.\"",
+        "[Page]",
+        "",
+        "This metal shard is shaped like the",
+        "one you already have. You put the",
+        "shards together to form a perfect fit!",
+        "[Page]",
+        "",
+        "\"We found it deep in the labyrinth",
+        "recently but could not discern its",
+        "use, so we left it as is.",
+        "[Page]",
+        "",
+        "\"It looks like if you added another,",
+        "similar shard, it would make a",
+        "perfect disc.\"",
+        "[Page]",
+        "",
+        "With that, the Vessel gasps as if",
+        "suddenly remembering something...",
+        "[Page]",
+        "",
+        "\"This may be the key to open the door",
+        "in the moth labyrinth... the Moth's",
+        "Garden.",
+        "[Page]",
+        "",
+        "\"As you may know, there is a tightly",
+        "sealed door in that labyrinth and a",
+        "recession with a very similar shape.",
+        "[Page]",
+        "",
+        "\"I believe you should keep this...",
+        "It is better that way. The Medium",
+        "would most likely agree.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Here. It looks much the same, doesn't",
+        "it? It was in the Vessels' treasure",
+        "house, covered in dust.\"",
+        "[Page]",
+        "",
+        "This metal shard is shaped like the",
+        "one you already have. You put the",
+        "shards together to form a perfect fit!",
+        "[Page]",
+        "",
+        "\"We found it deep in the labyrinth",
+        "recently but could not discern its",
+        "use, so we left it as is.",
+        "[Page]",
+        "",
+        "\"It looks like if you added another,",
+        "similar shard, it would make a",
+        "perfect disc.\"",
+        "[Page]",
+        "",
+        "With that, the Vessel gasps as if",
+        "suddenly remembering something...",
+        "[Page]",
+        "",
+        "\"This may be the key to open the door",
+        "in the moth labyrinth... the Moth's",
+        "Garden.",
+        "[Page]",
+        "",
+        "\"As you may know, there is a tightly",
+        "sealed door in that labyrinth and a",
+        "recession with a very similar shape.",
+        "[Page]",
+        "",
+        "\"I believe you should keep this...",
+        "It is better that way. The Medium",
+        "would most likely agree.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "You thank the woman, who nods and",
+        "excuses herself before leaving.",
+        "[Page]",
+        "",
+        "The client's parchment about a garden",
+        "where scales dance must have been",
+        "written about the [Color:5]Moth's Garden[Color:0]...",
+        ""
+      ],
+      "Translation": [
+        "You thank the woman, who nods and",
+        "excuses herself before leaving.",
+        "[Page]",
+        "",
+        "The client's parchment about a garden",
+        "where scales dance must have been",
+        "written about the [Color:5]Moth's Garden[Color:0]...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "You decide to leave Vessel Town and",
+        "continue your investigation.",
+        ""
+      ],
+      "Translation": [
+        "You decide to leave Vessel Town and",
+        "continue your investigation.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "When you reach the Sentinels' village,",
+        "you notice one of them sitting on",
+        "the ground, carving something.",
+        "[Page]",
+        "",
+        "You wonder if you should ask him about",
+        "the metal shard...",
+        ""
+      ],
+      "Translation": [
+        "When you reach the Sentinels' village,",
+        "you notice one of them sitting on",
+        "the ground, carving something.",
+        "[Page]",
+        "",
+        "You wonder if you should ask him about",
+        "the metal shard...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "In front of you sits a Sentinel on",
+        "the ground, carving something...",
+        "[Page]",
+        "",
+        "You wonder if you should ask him about",
+        "the metal shard...",
+        ""
+      ],
+      "Translation": [
+        "In front of you sits a Sentinel on",
+        "the ground, carving something...",
+        "[Page]",
+        "",
+        "You wonder if you should ask him about",
+        "the metal shard...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Ask the Sentinel?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Ask the Sentinel?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "\"Ah... [Guild]. Welcome to the",
+        "Sentinels' village. Is there something",
+        "you would like to ask?\"",
+        "[Page]",
+        "",
+        "You hand the metal shard to the",
+        "Sentinel and ask if he has any",
+        "notion what it might be.",
+        "[Page]",
+        "",
+        "\"Hmm... I remember seeing something",
+        "with this exact shape at a shrine",
+        "in a stone cave...",
+        "[Page]",
+        "",
+        "\"Wait here and I will see if I can",
+        "find it.\" The Sentinel disappears",
+        "into the village.",
+        ""
+      ],
+      "Translation": [
+        "\"Ah... [Guild]. Welcome to the",
+        "Sentinels' village. Is there something",
+        "you would like to ask?\"",
+        "[Page]",
+        "",
+        "You hand the metal shard to the",
+        "Sentinel and ask if he has any",
+        "notion what it might be.",
+        "[Page]",
+        "",
+        "\"Hmm... I remember seeing something",
+        "with this exact shape at a shrine",
+        "in a stone cave...",
+        "[Page]",
+        "",
+        "\"Wait here and I will see if I can",
+        "find it.\" The Sentinel disappears",
+        "into the village.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "\"Is this what you were looking for?\"",
+        "[Page]",
+        "",
+        "The metal shard he holds has the same",
+        "shape as the one from the Vessels.",
+        "When fit together, they form a disc!",
+        "[Page]",
+        "",
+        "\"Hm... so three become one. But even",
+        "so, something seems missing...",
+        "[Page]",
+        "",
+        "\"A shard from the Empire, the Vessels,",
+        "and we Sentinels... Does anything",
+        "seem obviously missing there?",
+        "[Page]",
+        "",
+        "\"Ah well. I do not think yours are the",
+        "wrong hands for it. I will let you",
+        "hold on to it for now.\"",
+        "[Page]",
+        "",
+        "With that said, the Sentinel sits back",
+        "down and returns to his whittling.",
+        ""
+      ],
+      "Translation": [
+        "\"Is this what you were looking for?\"",
+        "[Page]",
+        "",
+        "The metal shard he holds has the same",
+        "shape as the one from the Vessels.",
+        "When fit together, they form a disc!",
+        "[Page]",
+        "",
+        "\"Hm... so three become one. But even",
+        "so, something seems missing...",
+        "[Page]",
+        "",
+        "\"A shard from the Empire, the Vessels,",
+        "and we Sentinels... Does anything",
+        "seem obviously missing there?",
+        "[Page]",
+        "",
+        "\"Ah well. I do not think yours are the",
+        "wrong hands for it. I will let you",
+        "hold on to it for now.\"",
+        "[Page]",
+        "",
+        "With that said, the Sentinel sits back",
+        "down and returns to his whittling.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "\"Is this what you were looking for?\"",
+        "[Page]",
+        "",
+        "This metal shard is shaped like the",
+        "one you already have. You put the",
+        "shards together to form a perfect fit!",
+        "[Page]",
+        "",
+        "\"Hm... You seem to lack only one to",
+        "make a complete circle. The three",
+        "will become one...",
+        "[Page]",
+        "",
+        "\"Does anything feel missing from the",
+        "shards you have?",
+        "[Page]",
+        "",
+        "\"Ah well. I do not think yours are the",
+        "wrong hands for it. I will let you",
+        "hold on to it for now.\"",
+        "[Page]",
+        "",
+        "With that said, the Sentinel sits back",
+        "down and returns to his whittling.",
+        ""
+      ],
+      "Translation": [
+        "\"Is this what you were looking for?\"",
+        "[Page]",
+        "",
+        "This metal shard is shaped like the",
+        "one you already have. You put the",
+        "shards together to form a perfect fit!",
+        "[Page]",
+        "",
+        "\"Hm... You seem to lack only one to",
+        "make a complete circle. The three",
+        "will become one...",
+        "[Page]",
+        "",
+        "\"Does anything feel missing from the",
+        "shards you have?",
+        "[Page]",
+        "",
+        "\"Ah well. I do not think yours are the",
+        "wrong hands for it. I will let you",
+        "hold on to it for now.\"",
+        "[Page]",
+        "",
+        "With that said, the Sentinel sits back",
+        "down and returns to his whittling.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "You thank the Sentinel and move on in",
+        "your attempt to solve the mystery of",
+        "the metal shards.",
+        ""
+      ],
+      "Translation": [
+        "You thank the Sentinel and move on in",
+        "your attempt to solve the mystery of",
+        "the metal shards.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "In your journey through the labyrinth,",
+        "you come across a door with a much",
+        "different design than the others.",
+        "[Page]",
+        "",
+        "The door is tightly sealed, but you",
+        "discover a round recession in its",
+        "center.",
+        "[Page]",
+        "",
+        "Though you try several different",
+        "methods, the door does not budge.",
+        ""
+      ],
+      "Translation": [
+        "In your journey through the labyrinth,",
+        "you come across a door with a much",
+        "different design than the others.",
+        "[Page]",
+        "",
+        "The door is tightly sealed, but you",
+        "discover a round recession in its",
+        "center.",
+        "[Page]",
+        "",
+        "Though you try several different",
+        "methods, the door does not budge.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "The door before you is tightly",
+        "sealed...",
+        ""
+      ],
+      "Translation": [
+        "The door before you is tightly",
+        "sealed...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "As the Vessel said, the door you",
+        "reach has a much different design",
+        "than the others.",
+        "[Page]",
+        "",
+        "The door is tightly sealed, but you",
+        "discover a round recession in its",
+        "center.",
+        "[Page]",
+        "",
+        "You try the semicircular metal shard",
+        "and see that it is the perfect size",
+        "to fit the door.",
+        "[Page]",
+        "",
+        "Perhaps once all the metal shards",
+        "are collected, the door will open.",
+        ""
+      ],
+      "Translation": [
+        "As the Vessel said, the door you",
+        "reach has a much different design",
+        "than the others.",
+        "[Page]",
+        "",
+        "The door is tightly sealed, but you",
+        "discover a round recession in its",
+        "center.",
+        "[Page]",
+        "",
+        "You try the semicircular metal shard",
+        "and see that it is the perfect size",
+        "to fit the door.",
+        "[Page]",
+        "",
+        "Perhaps once all the metal shards",
+        "are collected, the door will open.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "In your journey through the labyrinth,",
+        "you come across a door with a much",
+        "different design than the others.",
+        "[Page]",
+        "",
+        "The door is tightly sealed, but you",
+        "discover a round recession in its",
+        "center.",
+        "[Page]",
+        "",
+        "You try the semicircular metal shard",
+        "and see that it is the perfect size",
+        "to fit the door.",
+        "[Page]",
+        "",
+        "Perhaps once all the metal shards",
+        "are collected, the door will open.",
+        ""
+      ],
+      "Translation": [
+        "In your journey through the labyrinth,",
+        "you come across a door with a much",
+        "different design than the others.",
+        "[Page]",
+        "",
+        "The door is tightly sealed, but you",
+        "discover a round recession in its",
+        "center.",
+        "[Page]",
+        "",
+        "You try the semicircular metal shard",
+        "and see that it is the perfect size",
+        "to fit the door.",
+        "[Page]",
+        "",
+        "Perhaps once all the metal shards",
+        "are collected, the door will open.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "You arrive at a strange door that",
+        "has a very different design than",
+        "the others.",
+        "[Page]",
+        "",
+        "The door is tightly sealed, but you",
+        "discover a round recession in its",
+        "center.",
+        "[Page]",
+        "",
+        "The disc, made of shards from the",
+        "client, the Vessels, and the",
+        "Sentinels, seems to fit.",
+        ""
+      ],
+      "Translation": [
+        "You arrive at a strange door that",
+        "has a very different design than",
+        "the others.",
+        "[Page]",
+        "",
+        "The door is tightly sealed, but you",
+        "discover a round recession in its",
+        "center.",
+        "[Page]",
+        "",
+        "The disc, made of shards from the",
+        "client, the Vessels, and the",
+        "Sentinels, seems to fit.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Insert the disc?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Insert the disc?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "You produce the old disc and put it",
+        "in the door...",
+        "[Page]",
+        "",
+        "Though the shape is a perfect fit,",
+        "nothing seems to happen... Perhaps",
+        "the disc is not yet complete.",
+        ""
+      ],
+      "Translation": [
+        "You produce the old disc and put it",
+        "in the door...",
+        "[Page]",
+        "",
+        "Though the shape is a perfect fit,",
+        "nothing seems to happen... Perhaps",
+        "the disc is not yet complete.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "Intent on completing the request from",
+        "the Imperial scientist, you arrive",
+        "at the door.",
+        "[Page]",
+        "",
+        "Though it is tightly sealed, you can",
+        "place the assembled disc into the",
+        "recession in the door's center.",
+        ""
+      ],
+      "Translation": [
+        "Intent on completing the request from",
+        "the Imperial scientist, you arrive",
+        "at the door.",
+        "[Page]",
+        "",
+        "Though it is tightly sealed, you can",
+        "place the assembled disc into the",
+        "recession in the door's center.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "Though the door is tightly sealed,",
+        "you can place the assembled disc into",
+        "the recession in the door's center.",
+        ""
+      ],
+      "Translation": [
+        "Though the door is tightly sealed,",
+        "you can place the assembled disc into",
+        "the recession in the door's center.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Insert the disc?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Insert the disc?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "You produce the metal disc and slowly",
+        "fit it into the door's recession...",
+        "[Page]",
+        "",
+        "Suddenly, the disc spins rapidly and",
+        "a sharp whistling sound rings out...",
+        "[Page]",
+        "",
+        "When the ringing subsides, you hear",
+        "mechanical sounds coming from inside",
+        "the door. Has it unlocked...?",
+        "[Page]",
+        "",
+        "You know not what awaits you beyond",
+        "the door. You wipe anxious sweat from",
+        "your brow as you consider opening it.",
+        ""
+      ],
+      "Translation": [
+        "You produce the metal disc and slowly",
+        "fit it into the door's recession...",
+        "[Page]",
+        "",
+        "Suddenly, the disc spins rapidly and",
+        "a sharp whistling sound rings out...",
+        "[Page]",
+        "",
+        "When the ringing subsides, you hear",
+        "mechanical sounds coming from inside",
+        "the door. Has it unlocked...?",
+        "[Page]",
+        "",
+        "You know not what awaits you beyond",
+        "the door. You wipe anxious sweat from",
+        "your brow as you consider opening it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "When you think yourself prepared,",
+        "you go through into a small room. A",
+        "short sword pierces the ground here.",
+        "[Page]",
+        "",
+        "Its blade shines more beautifully than",
+        "any sword you have seen... It must be",
+        "the jeweled sword your client wants.",
+        "[Page]",
+        "",
+        "But when you reach for the sword, it",
+        "abruptly rises into the air and emits",
+        "a piercing light!",
+        ""
+      ],
+      "Translation": [
+        "When you think yourself prepared,",
+        "you go through into a small room. A",
+        "short sword pierces the ground here.",
+        "[Page]",
+        "",
+        "Its blade shines more beautifully than",
+        "any sword you have seen... It must be",
+        "the jeweled sword your client wants.",
+        "[Page]",
+        "",
+        "But when you reach for the sword, it",
+        "abruptly rises into the air and emits",
+        "a piercing light!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "From the glaring stream of light, you",
+        "see the figure of an enormous bird,",
+        "a fearsomely divine presence...",
+        "[Page]",
+        "",
+        "Does the jeweled sword change form?",
+        "You no longer see it in the room...",
+        "[Page]",
+        "",
+        "The monstrous bird stays hovering in",
+        "one spot, looking down upon you as if",
+        "passing judgement...",
+        "[Page]",
+        "",
+        "You will need to bring the bird to the",
+        "ground before you can properly search",
+        "for the jeweled sword in the room.",
+        "[Page]",
+        "",
+        "You grit your teeth and steady",
+        "yourself for battle, fingers lightly",
+        "brushing your weapons...",
+        ""
+      ],
+      "Translation": [
+        "From the glaring stream of light, you",
+        "see the figure of an enormous bird,",
+        "a fearsomely divine presence...",
+        "[Page]",
+        "",
+        "Does the jeweled sword change form?",
+        "You no longer see it in the room...",
+        "[Page]",
+        "",
+        "The monstrous bird stays hovering in",
+        "one spot, looking down upon you as if",
+        "passing judgement...",
+        "[Page]",
+        "",
+        "You will need to bring the bird to the",
+        "ground before you can properly search",
+        "for the jeweled sword in the room.",
+        "[Page]",
+        "",
+        "You grit your teeth and steady",
+        "yourself for battle, fingers lightly",
+        "brushing your weapons...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "Though its blinding speed tosses",
+        "you about, your indomitable spirit",
+        "eventually brings the bird down!",
+        "[Page]",
+        "",
+        "At last, the monster's body emits",
+        "an intense light and it resumes the",
+        "form of a short sword!",
+        ""
+      ],
+      "Translation": [
+        "Though its blinding speed tosses",
+        "you about, your indomitable spirit",
+        "eventually brings the bird down!",
+        "[Page]",
+        "",
+        "At last, the monster's body emits",
+        "an intense light and it resumes the",
+        "form of a short sword!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "You are mesmerized by the pure,",
+        "beautiful blade, but the spell is",
+        "broken by someone calling to you.",
+        ""
+      ],
+      "Translation": [
+        "You are mesmerized by the pure,",
+        "beautiful blade, but the spell is",
+        "broken by someone calling to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "An out-of-breath Vessel woman runs",
+        "into the room. It is the one who gave",
+        "you the metal shard...",
+        "[Page]",
+        "",
+        "\"I am too late! Oh... Hm? That short",
+        "sword... Did you truly defeat the",
+        "monster?\"",
+        "[Page]",
+        "",
+        "Impressed, she continues. \"After I",
+        "gave you the metal shard, the village",
+        "elder was shocked.\"",
+        ""
+      ],
+      "Translation": [
+        "An out-of-breath Vessel woman runs",
+        "into the room. It is the one who gave",
+        "you the metal shard...",
+        "[Page]",
+        "",
+        "\"I am too late! Oh... Hm? That short",
+        "sword... Did you truly defeat the",
+        "monster?\"",
+        "[Page]",
+        "",
+        "Impressed, she continues. \"After I",
+        "gave you the metal shard, the village",
+        "elder was shocked.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "You have finally acquired the jeweled",
+        "sword your client requested!",
+        "[Page]",
+        "",
+        "You need only report this achievement",
+        "and deliver the sword to him before",
+        "you can collect your reward!",
+        ""
+      ],
+      "Translation": [
+        "You have finally acquired the jeweled",
+        "sword your client requested!",
+        "[Page]",
+        "",
+        "You need only report this achievement",
+        "and deliver the sword to him before",
+        "you can collect your reward!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "The short sword slowly floats toward",
+        "you, as if acknowledging you as its",
+        "owner.",
+        ""
+      ],
+      "Translation": [
+        "The short sword slowly floats toward",
+        "you, as if acknowledging you as its",
+        "owner.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "It seems that the first part of the",
+        "client's parchment was found in the",
+        "Vessel Town.",
+        "[Page]",
+        "",
+        "She tells you that the monster was",
+        "born long ago from human hands, when",
+        "all the races lived in harmony.",
+        "[Page]",
+        "",
+        "The newborn monster was too powerful",
+        "and could not be tamed, so it was",
+        "decided that it would be sealed away.",
+        "[Page]",
+        "",
+        "The Sentinels were the ones who made",
+        "the short sword to contain it.",
+        "[Page]",
+        "",
+        "The Vessels used their magic to seal",
+        "the monster within, and the humans",
+        "created a key to secure the room.",
+        "[Page]",
+        "",
+        "To ensure that the monster would never",
+        "awaken, they divided the key, with",
+        "each race taking one small piece.",
+        ""
+      ],
+      "Translation": [
+        "It seems that the first part of the",
+        "client's parchment was found in the",
+        "Vessel Town.",
+        "[Page]",
+        "",
+        "She tells you that the monster was",
+        "born long ago from human hands, when",
+        "all the races lived in harmony.",
+        "[Page]",
+        "",
+        "The newborn monster was too powerful",
+        "and could not be tamed, so it was",
+        "decided that it would be sealed away.",
+        "[Page]",
+        "",
+        "The Sentinels were the ones who made",
+        "the short sword to contain it.",
+        "[Page]",
+        "",
+        "The Vessels used their magic to seal",
+        "the monster within, and the humans",
+        "created a key to secure the room.",
+        "[Page]",
+        "",
+        "To ensure that the monster would never",
+        "awaken, they divided the key, with",
+        "each race taking one small piece.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "\"No one ever dreamed that a monster",
+        "the ancient ones could not tame would",
+        "be defeated... You are mighty indeed.",
+        "[Page]",
+        "",
+        "\"That short sword seems to pose no",
+        "threat now. In fact, it appears to",
+        "have grown attached to you...\"",
+        "[Page]",
+        "",
+        "The Vessel woman smiles, says, \"I must",
+        "report this to the elder,\" and walks",
+        "away to her town.",
+        ""
+      ],
+      "Translation": [
+        "\"No one ever dreamed that a monster",
+        "the ancient ones could not tame would",
+        "be defeated... You are mighty indeed.",
+        "[Page]",
+        "",
+        "\"That short sword seems to pose no",
+        "threat now. In fact, it appears to",
+        "have grown attached to you...\"",
+        "[Page]",
+        "",
+        "The Vessel woman smiles, says, \"I must",
+        "report this to the elder,\" and walks",
+        "away to her town.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

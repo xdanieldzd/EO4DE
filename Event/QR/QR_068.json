@@ -1,0 +1,926 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "QR_068",
+  "RelativePath": "Event\\QR\\QR_068.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, that request? It is the usual",
+        "journey to search for Raht.",
+        "[Page]",
+        "",
+        "I am sure you will have no trouble",
+        "finding him this time either.",
+        "[Page]",
+        "",
+        "I was surprised to see that the client",
+        "this time is his fiancee... She is the",
+        "beauty sitting over there.",
+        "[Page]",
+        "",
+        "I wonder how Raht met her... Be sure",
+        "to listen to her carefully. I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Translation": [
+        "Oh, that request? It is the usual",
+        "journey to search for Raht.",
+        "[Page]",
+        "",
+        "I am sure you will have no trouble",
+        "finding him this time either.",
+        "[Page]",
+        "",
+        "I was surprised to see that the client",
+        "this time is his fiancee... She is the",
+        "beauty sitting over there.",
+        "[Page]",
+        "",
+        "I wonder how Raht met her... Be sure",
+        "to listen to her carefully. I shall",
+        "await your swift return.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back. I did not think this",
+        "day would come... Is he really not",
+        "coming back?",
+        "[Page]",
+        "",
+        "I thought he had the devil's own luck,",
+        "but he met his end all too soon...",
+        "[Page]",
+        "",
+        "Do not blame yourselves. There is",
+        "always this danger when one goes",
+        "exploring. I am sure he knew that.",
+        "[Page]",
+        "",
+        "And you have fulfilled the request,",
+        "so you are entitled to the reward.",
+        "You should be proud to collect it.",
+        ""
+      ],
+      "Translation": [
+        "Welcome back. I did not think this",
+        "day would come... Is he really not",
+        "coming back?",
+        "[Page]",
+        "",
+        "I thought he had the devil's own luck,",
+        "but he met his end all too soon...",
+        "[Page]",
+        "",
+        "Do not blame yourselves. There is",
+        "always this danger when one goes",
+        "exploring. I am sure he knew that.",
+        "[Page]",
+        "",
+        "And you have fulfilled the request,",
+        "so you are entitled to the reward.",
+        "You should be proud to collect it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "As you search for the lost explorer,",
+        "you see a familiar sight: the wreckage",
+        "of Raht's skyship.",
+        ""
+      ],
+      "Translation": [
+        "As you search for the lost explorer,",
+        "you see a familiar sight: the wreckage",
+        "of Raht's skyship.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Though when you disembark and check",
+        "the wreckage, you find not Raht, but",
+        "merely a parchment in a bottle.",
+        "[Page]",
+        "",
+        "\"Raht's Adventure Log ＃2:",
+        "Raht here. I leave this in the hopes",
+        "it finds someone as determined as me.",
+        "[Page]",
+        "",
+        "\"My wings are broken, but I still",
+        "have my legs. So my journey goes on.",
+        "Though I can't go quite as far...",
+        "[Page]",
+        "",
+        "\"[Color:5]I can't fly, so I can't go higher up[Color:0],",
+        "and [Color:5]I can't swim, so I can't cross",
+        "any water[Color:0]. But that's all right.",
+        "[Page]",
+        "",
+        "\"I'll just [Color:5]follow[Color:0] the [Color:5]ravine[Color:0] that",
+        "stretches [Color:5]east[Color:0].",
+        "[Page]",
+        "",
+        "\"As long as I can walk, my journey",
+        "will continue... Time to move onward!",
+        "(Cont'd. in Adventure Log ＃3.)\"",
+        "[Page]",
+        "",
+        "You are unsure whether to follow the",
+        "note's directions to find Raht, or",
+        "report this development to the client.",
+        ""
+      ],
+      "Translation": [
+        "Though when you disembark and check",
+        "the wreckage, you find not Raht, but",
+        "merely a parchment in a bottle.",
+        "[Page]",
+        "",
+        "\"Raht's Adventure Log ＃2:",
+        "Raht here. I leave this in the hopes",
+        "it finds someone as determined as me.",
+        "[Page]",
+        "",
+        "\"My wings are broken, but I still",
+        "have my legs. So my journey goes on.",
+        "Though I can't go quite as far...",
+        "[Page]",
+        "",
+        "\"[Color:5]I can't fly, so I can't go higher up[Color:0],",
+        "and [Color:5]I can't swim, so I can't cross",
+        "any water[Color:0]. But that's all right.",
+        "[Page]",
+        "",
+        "\"I'll just [Color:5]follow[Color:0] the [Color:5]ravine[Color:0] that",
+        "stretches [Color:5]east[Color:0].",
+        "[Page]",
+        "",
+        "\"As long as I can walk, my journey",
+        "will continue... Time to move onward!",
+        "(Cont'd. in Adventure Log ＃3.)\"",
+        "[Page]",
+        "",
+        "You are unsure whether to follow the",
+        "note's directions to find Raht, or",
+        "report this development to the client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "As you sail the skies in search of",
+        "the explorer Raht, you discover traces",
+        "of a campsite.",
+        ""
+      ],
+      "Translation": [
+        "As you sail the skies in search of",
+        "the explorer Raht, you discover traces",
+        "of a campsite.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "It seems Raht set up camp here...",
+        "What look to be his footsteps",
+        "continue to the [Color:5]north[Color:0].",
+        "[Page]",
+        "",
+        "If you are to follow him, you will",
+        "have to proceed [Color:5]north[Color:0] from here.",
+        ""
+      ],
+      "Translation": [
+        "It seems Raht set up camp here...",
+        "What look to be his footsteps",
+        "continue to the [Color:5]north[Color:0].",
+        "[Page]",
+        "",
+        "If you are to follow him, you will",
+        "have to proceed [Color:5]north[Color:0] from here.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "You follow Raht's trail closely and",
+        "search the area from the sky. There",
+        "is something on the ground...",
+        ""
+      ],
+      "Translation": [
+        "You follow Raht's trail closely and",
+        "search the area from the sky. There",
+        "is something on the ground...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "When you disembark, you find that it",
+        "is a parchment in a bottle, most",
+        "likely left behind by Raht.",
+        "[Page]",
+        "",
+        "\"Raht's Adventure Log ＃3:",
+        "Raht here. I leave this in the hopes",
+        "it finds someone as determined as me.",
+        "[Page]",
+        "",
+        "\"They said this land was impossible",
+        "to navigate on foot, but I'm going to",
+        "try. I feel like a real adventurer.",
+        "[Page]",
+        "",
+        "\"Things are going smooth so far.",
+        "I found giant ruins to the south...",
+        "Must be that Echoing Library.",
+        "[Page]",
+        "",
+        "\"But there are monsters roaming around",
+        "there. Those are monsters, right?",
+        "They look more like stone statues...",
+        "[Page]",
+        "",
+        "\"Either way, I can't deal with them.",
+        "[Color:5]I'll give up on reaching the ruins",
+        "and continue exploring this area[Color:0].",
+        "[Page]",
+        "",
+        "\"As long as I'm alive, my journey",
+        "will continue... Onward to adventure!",
+        "(Cont'd. in Adventure Log ＃4.)\"",
+        "[Page]",
+        "",
+        "You are unsure whether to follow the",
+        "note's directions to find Raht, or",
+        "report this development to the client.",
+        ""
+      ],
+      "Translation": [
+        "When you disembark, you find that it",
+        "is a parchment in a bottle, most",
+        "likely left behind by Raht.",
+        "[Page]",
+        "",
+        "\"Raht's Adventure Log ＃3:",
+        "Raht here. I leave this in the hopes",
+        "it finds someone as determined as me.",
+        "[Page]",
+        "",
+        "\"They said this land was impossible",
+        "to navigate on foot, but I'm going to",
+        "try. I feel like a real adventurer.",
+        "[Page]",
+        "",
+        "\"Things are going smooth so far.",
+        "I found giant ruins to the south...",
+        "Must be that Echoing Library.",
+        "[Page]",
+        "",
+        "\"But there are monsters roaming around",
+        "there. Those are monsters, right?",
+        "They look more like stone statues...",
+        "[Page]",
+        "",
+        "\"Either way, I can't deal with them.",
+        "[Color:5]I'll give up on reaching the ruins",
+        "and continue exploring this area[Color:0].",
+        "[Page]",
+        "",
+        "\"As long as I'm alive, my journey",
+        "will continue... Onward to adventure!",
+        "(Cont'd. in Adventure Log ＃4.)\"",
+        "[Page]",
+        "",
+        "You are unsure whether to follow the",
+        "note's directions to find Raht, or",
+        "report this development to the client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "As you search for Raht from your",
+        "skyship, you spot something shining",
+        "on the ground below.",
+        ""
+      ],
+      "Translation": [
+        "As you search for Raht from your",
+        "skyship, you spot something shining",
+        "on the ground below.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "When you disembark, you find that it",
+        "is a parchment in a bottle, most",
+        "likely left behind by Raht.",
+        "[Page]",
+        "",
+        "\"Raht's Adventure Log ＃4:",
+        "I'm leaving this record in the hopes",
+        "it finds someone as determined as me.",
+        "[Page]",
+        "",
+        "\"This all began when I learned I had",
+        "an incurable disease and that my days",
+        "were numbered.",
+        "[Page]",
+        "",
+        "\"I couldn't stand the idea of waiting",
+        "to die. So I left on a journey to",
+        "escape it all... somewhere far away.",
+        "[Page]",
+        "",
+        "\"Standing here under Yggdrasil at the",
+        "ends of the earth, I have what I",
+        "wanted. But... I'm not satisfied.",
+        "[Page]",
+        "",
+        "\"What I want now... is to [Color:5]return to",
+        "Tharsis[Color:0]. To see my family and my",
+        "lovely fiancee. Just... once more...\"",
+        "[Page]",
+        "",
+        "The words become unreadable after",
+        "this. Whatever clues to the author's",
+        "location remain are also gone...",
+        "[Page]",
+        "",
+        "You are unsure whether to continue",
+        "searching for Raht, or to report this",
+        "development to the client.",
+        ""
+      ],
+      "Translation": [
+        "When you disembark, you find that it",
+        "is a parchment in a bottle, most",
+        "likely left behind by Raht.",
+        "[Page]",
+        "",
+        "\"Raht's Adventure Log ＃4:",
+        "I'm leaving this record in the hopes",
+        "it finds someone as determined as me.",
+        "[Page]",
+        "",
+        "\"This all began when I learned I had",
+        "an incurable disease and that my days",
+        "were numbered.",
+        "[Page]",
+        "",
+        "\"I couldn't stand the idea of waiting",
+        "to die. So I left on a journey to",
+        "escape it all... somewhere far away.",
+        "[Page]",
+        "",
+        "\"Standing here under Yggdrasil at the",
+        "ends of the earth, I have what I",
+        "wanted. But... I'm not satisfied.",
+        "[Page]",
+        "",
+        "\"What I want now... is to [Color:5]return to",
+        "Tharsis[Color:0]. To see my family and my",
+        "lovely fiancee. Just... once more...\"",
+        "[Page]",
+        "",
+        "The words become unreadable after",
+        "this. Whatever clues to the author's",
+        "location remain are also gone...",
+        "[Page]",
+        "",
+        "You are unsure whether to continue",
+        "searching for Raht, or to report this",
+        "development to the client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "In order to gain even the faintest of",
+        "leads in your search for Raht, you",
+        "examine his wrecked skyship again.",
+        ""
+      ],
+      "Translation": [
+        "In order to gain even the faintest of",
+        "leads in your search for Raht, you",
+        "examine his wrecked skyship again.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "As you check the wreckage again,",
+        "praying to find something, you notice",
+        "a hitherto overlooked parchment.",
+        "[Page]",
+        "",
+        "\"My name is Raht. I was blessed with",
+        "a loving family, a devoted fiancee,",
+        "and good friends.",
+        "[Page]",
+        "",
+        "\"But... I was so afraid to die that",
+        "I left them all behind...",
+        "[Page]",
+        "",
+        "\"I should have stayed with them to",
+        "the very end. I can't believe I didn't",
+        "understand something so obvious...",
+        "[Page]",
+        "",
+        "\"To whoever reads this, if you happen",
+        "to meet my loved ones, will you relay",
+        "this message to them?",
+        "[Page]",
+        "",
+        "\"Tell them thank you for loving me,",
+        "and that I'm sorry.\"",
+        "[Page]",
+        "",
+        "The letter ends here... Raht may not",
+        "be far off.",
+        ""
+      ],
+      "Translation": [
+        "As you check the wreckage again,",
+        "praying to find something, you notice",
+        "a hitherto overlooked parchment.",
+        "[Page]",
+        "",
+        "\"My name is Raht. I was blessed with",
+        "a loving family, a devoted fiancee,",
+        "and good friends.",
+        "[Page]",
+        "",
+        "\"But... I was so afraid to die that",
+        "I left them all behind...",
+        "[Page]",
+        "",
+        "\"I should have stayed with them to",
+        "the very end. I can't believe I didn't",
+        "understand something so obvious...",
+        "[Page]",
+        "",
+        "\"To whoever reads this, if you happen",
+        "to meet my loved ones, will you relay",
+        "this message to them?",
+        "[Page]",
+        "",
+        "\"Tell them thank you for loving me,",
+        "and that I'm sorry.\"",
+        "[Page]",
+        "",
+        "The letter ends here... Raht may not",
+        "be far off.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Search the area?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Search the area?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "You spread out and call to Raht,",
+        "but there is only silence...",
+        ""
+      ],
+      "Translation": [
+        "You spread out and call to Raht,",
+        "but there is only silence...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Having exhausted every possible means,",
+        "you decide to end your search.",
+        "[Page]",
+        "",
+        "You now have a difficult report to",
+        "make to your client, who awaits with",
+        "a heavy heart.",
+        ""
+      ],
+      "Translation": [
+        "Having exhausted every possible means,",
+        "you decide to end your search.",
+        "[Page]",
+        "",
+        "You now have a difficult report to",
+        "make to your client, who awaits with",
+        "a heavy heart.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "There is no use in prolonging the",
+        "inevitable. You must report this",
+        "place to your waiting client.",
+        ""
+      ],
+      "Translation": [
+        "There is no use in prolonging the",
+        "inevitable. You must report this",
+        "place to your waiting client.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

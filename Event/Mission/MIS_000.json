@@ -1,0 +1,1003 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "MIS_000",
+  "RelativePath": "Event\\Mission\\MIS_000.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "I'd like for you to head to the [Color:5]Old",
+        "Forest Mine[Color:0] on the outskirts of the",
+        "city and excavate some [Color:6][Item:1173][Color:0].",
+        "[Page]",
+        "",
+        "We had thought the vein was mined dry,",
+        "but the other day, a certain explorer",
+        "found that there was more to be had.",
+        "[Page]",
+        "",
+        "The [Color:6][Item:1173][Color:0] is a pretty thing.",
+        "Shine light on it, and it refracts it",
+        "into all the colors of the rainbow...",
+        "[Page]",
+        "",
+        "But its true worth is not found in its",
+        "beauty! Though I'll explain more about",
+        "that if you complete the mission.",
+        "[Page]",
+        "",
+        "Now, do I understand right that you've",
+        "only recently arrived in Tharsis?",
+        "You must lack the proper essentials.",
+        "[Page]",
+        "",
+        "So I'll pay half of the reward for",
+        "this mission in advance. Use that to",
+        "purchase whatever you'll need.",
+        ""
+      ],
+      "Translation": [
+        "I'd like for you to head to the [Color:5]Old",
+        "Forest Mine[Color:0] on the outskirts of the",
+        "city and excavate some [Color:6][Item:1173][Color:0].",
+        "[Page]",
+        "",
+        "We had thought the vein was mined dry,",
+        "but the other day, a certain explorer",
+        "found that there was more to be had.",
+        "[Page]",
+        "",
+        "The [Color:6][Item:1173][Color:0] is a pretty thing.",
+        "Shine light on it, and it refracts it",
+        "into all the colors of the rainbow...",
+        "[Page]",
+        "",
+        "But its true worth is not found in its",
+        "beauty! Though I'll explain more about",
+        "that if you complete the mission.",
+        "[Page]",
+        "",
+        "Now, do I understand right that you've",
+        "only recently arrived in Tharsis?",
+        "You must lack the proper essentials.",
+        "[Page]",
+        "",
+        "So I'll pay half of the reward for",
+        "this mission in advance. Use that to",
+        "purchase whatever you'll need.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "The Old Forest Mine is the perfect",
+        "place to test your skills. You'll need",
+        "all your strength and cunning there.",
+        "[Page]",
+        "",
+        "Once you're ready, head to the city",
+        "gates, and I'll have a soldier waiting",
+        "to escort you there. Best of luck!",
+        ""
+      ],
+      "Translation": [
+        "The Old Forest Mine is the perfect",
+        "place to test your skills. You'll need",
+        "all your strength and cunning there.",
+        "[Page]",
+        "",
+        "Once you're ready, head to the city",
+        "gates, and I'll have a soldier waiting",
+        "to escort you there. Best of luck!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Well done, members of the [Guild]",
+        "Guild! I see you've brought back a",
+        "fine sample of the [Color:6][Item:1173][Color:0].",
+        "[Page]",
+        "",
+        "I now pronounce the [Guild] Guild",
+        "to be explorers of Tharsis with my",
+        "official blessing!",
+        "[Page]",
+        "",
+        "And of course, there is the other half",
+        "of your reward to be given. Here you",
+        "are, then...",
+        ""
+      ],
+      "Translation": [
+        "Well done, members of the [Guild]",
+        "Guild! I see you've brought back a",
+        "fine sample of the [Color:6][Item:1173][Color:0].",
+        "[Page]",
+        "",
+        "I now pronounce the [Guild] Guild",
+        "to be explorers of Tharsis with my",
+        "official blessing!",
+        "[Page]",
+        "",
+        "And of course, there is the other half",
+        "of your reward to be given. Here you",
+        "are, then...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Now, to the main topic of discussion.",
+        "Since you have proven your worth, your",
+        "guild merits a [Color:5]skyship[Color:0].",
+        "[Page]",
+        "",
+        "It's a vessel that sails the skies,",
+        "powered by [Color:6][Item:1173][Color:0]. You'll be",
+        "searching for Yggdrasil on one.",
+        "[Page]",
+        "",
+        "Your skyship is ready now at the city",
+        "gates. Once you claim it, why not make",
+        "the [Color:5]Lush Woodlands[Color:0] your first stop?",
+        "[Page]",
+        "",
+        "The Lush Woodlands is a large, natural",
+        "labyrinth currently being investigated",
+        "by many of our explorers.",
+        "[Page]",
+        "",
+        "Once you reach the Lush Woodlands,",
+        "head straight for the [Color:5]pillar of light[Color:0]",
+        "you'll see. It's an invaluable tool.",
+        "[Page]",
+        "",
+        "Oh, and stop by the atelier before",
+        "you go. I sent them my authorization",
+        "for you to buy certain necessities.",
+        "[Page]",
+        "",
+        "Well then, may your way be clear!",
+        ""
+      ],
+      "Translation": [
+        "Now, to the main topic of discussion.",
+        "Since you have proven your worth, your",
+        "guild merits a [Color:5]skyship[Color:0].",
+        "[Page]",
+        "",
+        "It's a vessel that sails the skies,",
+        "powered by [Color:6][Item:1173][Color:0]. You'll be",
+        "searching for Yggdrasil on one.",
+        "[Page]",
+        "",
+        "Your skyship is ready now at the city",
+        "gates. Once you claim it, why not make",
+        "the [Color:5]Lush Woodlands[Color:0] your first stop?",
+        "[Page]",
+        "",
+        "The Lush Woodlands is a large, natural",
+        "labyrinth currently being investigated",
+        "by many of our explorers.",
+        "[Page]",
+        "",
+        "Once you reach the Lush Woodlands,",
+        "head straight for the [Color:5]pillar of light[Color:0]",
+        "you'll see. It's an invaluable tool.",
+        "[Page]",
+        "",
+        "Oh, and stop by the atelier before",
+        "you go. I sent them my authorization",
+        "for you to buy certain necessities.",
+        "[Page]",
+        "",
+        "Well then, may your way be clear!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "\"You're the [Guild] Guild, right?",
+        "I'm here from the Outland Count.\"",
+        "[Page]",
+        "",
+        "\"Before we leave, you're sure you're",
+        "ready for this? Whatever skills you",
+        "have are useless if not trained.\"",
+        "[Page]",
+        "",
+        "[Color:3]Each party member begins with",
+        "[Color:5]3 Skill Points[Color:3] as a starting point",
+        "for the adventure.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You should spend them on skills that",
+        "will be useful in battle and during",
+        "exploration.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you have not trained any skills",
+        "yet, open the Main Menu with the",
+        "Y Button and select the Custom menu.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]There are attack skills, healing",
+        "skills, defensive skills... Train the",
+        "ones you feel you will most need.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You are awarded 1 Skill Point each",
+        "time you level up.[Color:0]",
+        "[Page]",
+        "",
+        "\"So, what'll it be? Should we head",
+        "straight for the [Color:5]Old Forest Mine[Color:0]?\"",
+        ""
+      ],
+      "Translation": [
+        "\"You're the [Guild] Guild, right?",
+        "I'm here from the Outland Count.\"",
+        "[Page]",
+        "",
+        "\"Before we leave, you're sure you're",
+        "ready for this? Whatever skills you",
+        "have are useless if not trained.\"",
+        "[Page]",
+        "",
+        "[Color:3]Each party member begins with",
+        "[Color:5]3 Skill Points[Color:3] as a starting point",
+        "for the adventure.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You should spend them on skills that",
+        "will be useful in battle and during",
+        "exploration.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]If you have not trained any skills",
+        "yet, open the Main Menu with the",
+        "Y Button and select the Custom menu.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]There are attack skills, healing",
+        "skills, defensive skills... Train the",
+        "ones you feel you will most need.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You are awarded 1 Skill Point each",
+        "time you level up.[Color:0]",
+        "[Page]",
+        "",
+        "\"So, what'll it be? Should we head",
+        "straight for the [Color:5]Old Forest Mine[Color:0]?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "\"Back, I see. What'll it be, then?",
+        "Are you ready to head for the",
+        "[Color:5]Old Forest Mine[Color:0]?\"",
+        ""
+      ],
+      "Translation": [
+        "\"Back, I see. What'll it be, then?",
+        "Are you ready to head for the",
+        "[Color:5]Old Forest Mine[Color:0]?\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Go to the Old Forest Mine?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Go to the Old Forest Mine?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "\"Alright, then follow me.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Alright, then follow me.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "\"All right. Take your time preparing",
+        "and come back when you're ready.\"",
+        ""
+      ],
+      "Translation": [
+        "\"All right. Take your time preparing",
+        "and come back when you're ready.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Return to the city?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Return to the city?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "As you proceed down the forest path,",
+        "you eventually reach a fork in",
+        "the road.",
+        ""
+      ],
+      "Translation": [
+        "As you proceed down the forest path,",
+        "you eventually reach a fork in",
+        "the road.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Across the water, you see a shining",
+        "patch of ground. It seems something",
+        "buried shallowly is reflecting light.",
+        "[Page]",
+        "",
+        "Judging by the map you received from",
+        "Whirlwind, the [Color:6][Item:1173][Color:0] you seek",
+        "can be mined there.",
+        "[Page]",
+        "",
+        "But the water between you and your",
+        "prize is too deep to cross. You frown",
+        "and begin looking for another route.",
+        ""
+      ],
+      "Translation": [
+        "Across the water, you see a shining",
+        "patch of ground. It seems something",
+        "buried shallowly is reflecting light.",
+        "[Page]",
+        "",
+        "Judging by the map you received from",
+        "Whirlwind, the [Color:6][Item:1173][Color:0] you seek",
+        "can be mined there.",
+        "[Page]",
+        "",
+        "But the water between you and your",
+        "prize is too deep to cross. You frown",
+        "and begin looking for another route.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "At last, you have mined the",
+        "[Color:6][Item:1173][Color:0] you came for!",
+        "Your mission is now complete.",
+        "[Page]",
+        "",
+        "The ore won after many tense moments",
+        "near powerful monsters is lighter than",
+        "you'd imagined and feels fragile...",
+        "[Page]",
+        "",
+        "After you finish exulting in your",
+        "accomplishment, you stow the shining",
+        "stone and begin your trek back.",
+        ""
+      ],
+      "Translation": [
+        "At last, you have mined the",
+        "[Color:6][Item:1173][Color:0] you came for!",
+        "Your mission is now complete.",
+        "[Page]",
+        "",
+        "The ore won after many tense moments",
+        "near powerful monsters is lighter than",
+        "you'd imagined and feels fragile...",
+        "[Page]",
+        "",
+        "After you finish exulting in your",
+        "accomplishment, you stow the shining",
+        "stone and begin your trek back.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "You check your knapsack again to make",
+        "certain that the [Color:6][Item:1173][Color:0] you",
+        "put away is still there.",
+        "[Page]",
+        "",
+        "The final step before completing your",
+        "mission will be to visit the Grand",
+        "Court and report your find.",
+        ""
+      ],
+      "Translation": [
+        "You check your knapsack again to make",
+        "certain that the [Color:6][Item:1173][Color:0] you",
+        "put away is still there.",
+        "[Page]",
+        "",
+        "The final step before completing your",
+        "mission will be to visit the Grand",
+        "Court and report your find.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

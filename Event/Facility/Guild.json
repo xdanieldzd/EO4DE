@@ -1,0 +1,2254 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "Guild",
+  "RelativePath": "Event\\Facility\\Guild.mbm",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": false,
+      "Original": [
+        "So, are you a new explorer? Welcome",
+        "to Tharsis.",
+        "[Page]",
+        "",
+        "This is the [Color:5]Explorers Guild[Color:0], where",
+        "your kind pools their talents. It's",
+        "something like a mutual aid society.",
+        "[Page]",
+        "",
+        "Now, if you want to operate in this",
+        "city as an explorer, you have to be",
+        "part of a guild.",
+        "[Page]",
+        "",
+        "Oh, so you want to create your own",
+        "rather than joining someone else's?",
+        "Then write a name in that ledger.",
+        "[Page]",
+        "",
+        "Though your guild will be your whole",
+        "identity in Tharsis, so think it over",
+        "carefully before deciding on a name.",
+        ""
+      ],
+      "Translation": [
+        "So, are you a new explorer? Welcome",
+        "to Tharsis.",
+        "[Page]",
+        "",
+        "This is the [Color:5]Explorers Guild[Color:0], where",
+        "your kind pools their talents. It's",
+        "something like a mutual aid society.",
+        "[Page]",
+        "",
+        "Now, if you want to operate in this",
+        "city as an explorer, you have to be",
+        "part of a guild.",
+        "[Page]",
+        "",
+        "Oh, so you want to create your own",
+        "rather than joining someone else's?",
+        "Then write a name in that ledger.",
+        "[Page]",
+        "",
+        "Though your guild will be your whole",
+        "identity in Tharsis, so think it over",
+        "carefully before deciding on a name.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Other players you StreetPass with may",
+        "see your guild name, character names,",
+        "and ship name.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Please avoid names that are offensive,",
+        "infringe on other people's rights, or",
+        "contain personal information.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Other players you StreetPass with may",
+        "see your guild name, character names,",
+        "and ship name.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Please avoid names that are offensive,",
+        "infringe on other people's rights, or",
+        "contain personal information.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "The [Color:5][Guild][Color:0] Guild... Very well.",
+        "Here's hoping you can live up to",
+        "the name.",
+        "[Page]",
+        "",
+        "You'll want this. It's a letter of",
+        "introduction that'll get you into an",
+        "audience with the Count.",
+        ""
+      ],
+      "Translation": [
+        "The [Color:5][Guild][Color:0] Guild... Very well.",
+        "Here's hoping you can live up to",
+        "the name.",
+        "[Page]",
+        "",
+        "You'll want this. It's a letter of",
+        "introduction that'll get you into an",
+        "audience with the Count.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Hmm... never seen you before. Welcome",
+        "to the [Color:5]Explorers Guild[Color:0].",
+        "[Page]",
+        "",
+        "This is where explorers pool their",
+        "talents. It's something like a",
+        "mutual aid society.",
+        "[Page]",
+        "",
+        "Normally, to operate in this city,",
+        "you'd need to create a guild...",
+        "[Page]",
+        "",
+        "But I've already heard rumors of your",
+        "[Guild] Guild. It's good to meet",
+        "you in the flesh.",
+        "[Page]",
+        "",
+        "If you need to, you can induct new",
+        "explorers here, though of course",
+        "you don't have to.",
+        ""
+      ],
+      "Translation": [
+        "Hmm... never seen you before. Welcome",
+        "to the [Color:5]Explorers Guild[Color:0].",
+        "[Page]",
+        "",
+        "This is where explorers pool their",
+        "talents. It's something like a",
+        "mutual aid society.",
+        "[Page]",
+        "",
+        "Normally, to operate in this city,",
+        "you'd need to create a guild...",
+        "[Page]",
+        "",
+        "But I've already heard rumors of your",
+        "[Guild] Guild. It's good to meet",
+        "you in the flesh.",
+        "[Page]",
+        "",
+        "If you need to, you can induct new",
+        "explorers here, though of course",
+        "you don't have to.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Doesn't look like you've been to see",
+        "the Count yet. You'll need to visit",
+        "the [Color:5]Mark Grand Court[Color:0] to get his okay.",
+        ""
+      ],
+      "Translation": [
+        "Doesn't look like you've been to see",
+        "the Count yet. You'll need to visit",
+        "the [Color:5]Mark Grand Court[Color:0] to get his okay.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Well, easy does it. I'm looking",
+        "forward to seeing what you can do.",
+        ""
+      ],
+      "Translation": [
+        "Well, easy does it. I'm looking",
+        "forward to seeing what you can do.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Next, you need to register the",
+        "explorers you want in the [Guild]",
+        "Guild and form an adventuring party.",
+        "[Page]",
+        "",
+        "It's up to you who to recruit, but you",
+        "can't go wrong with a balanced party.",
+        "You can register yourself, of course.",
+        ""
+      ],
+      "Translation": [
+        "Next, you need to register the",
+        "explorers you want in the [Guild]",
+        "Guild and form an adventuring party.",
+        "[Page]",
+        "",
+        "It's up to you who to recruit, but you",
+        "can't go wrong with a balanced party.",
+        "You can register yourself, of course.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "Next, you need to register the",
+        "explorers you want in the [Guild]",
+        "Guild and form an adventuring party.",
+        "[Page]",
+        "",
+        "It's up to you who to recruit, but you",
+        "can't go wrong with a balanced party.",
+        "You can register yourself, of course.",
+        "[Page]",
+        "",
+        "[Color:3]The demo version allows a character",
+        "to reach [Color:5]level 10[Color:3]. This limit will",
+        "be lifted in the full game.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "Next, you need to register the",
+        "explorers you want in the [Guild]",
+        "Guild and form an adventuring party.",
+        "[Page]",
+        "",
+        "It's up to you who to recruit, but you",
+        "can't go wrong with a balanced party.",
+        "You can register yourself, of course.",
+        "[Page]",
+        "",
+        "[Color:3]The demo version allows a character",
+        "to reach [Color:5]level 10[Color:3]. This limit will",
+        "be lifted in the full game.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Guess you've made your party, then.",
+        "In that case, go to the [Color:5]Grand Court[Color:0]",
+        "and pay your respects to the Count.",
+        ""
+      ],
+      "Translation": [
+        "Guess you've made your party, then.",
+        "In that case, go to the [Color:5]Grand Court[Color:0]",
+        "and pay your respects to the Count.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "It's... up to you how many people",
+        "you take out on an adventure, true.",
+        "[Page]",
+        "",
+        "But Explorers Guild guidelines suggest",
+        "five-person teams for all but the",
+        "most skilled explorers.",
+        "[Page]",
+        "",
+        "Just letting you know. But if you're",
+        "satisfied, go to the [Color:5]Grand Court[Color:0] and",
+        "pay your respects to the Count.",
+        ""
+      ],
+      "Translation": [
+        "It's... up to you how many people",
+        "you take out on an adventure, true.",
+        "[Page]",
+        "",
+        "But Explorers Guild guidelines suggest",
+        "five-person teams for all but the",
+        "most skilled explorers.",
+        "[Page]",
+        "",
+        "Just letting you know. But if you're",
+        "satisfied, go to the [Color:5]Grand Court[Color:0] and",
+        "pay your respects to the Count.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "You can hardly go out adventuring if",
+        "you haven't formed a party! Come back",
+        "when you're serious.",
+        ""
+      ],
+      "Translation": [
+        "You can hardly go out adventuring if",
+        "you haven't formed a party! Come back",
+        "when you're serious.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "\"Oh, it's you. What brings you here",
+        "today, hm? Oh, is this for me?",
+        "[Page]",
+        "",
+        "\"Strike me blind...! It's the",
+        "[Color:5][Item:1434][Color:0]! I thought this had",
+        "been lost... Where did you find it?",
+        "[Page]",
+        "",
+        "\"This is a document outlining a way",
+        "of using two normally incompatible",
+        "fighting styles at once.",
+        "[Page]",
+        "",
+        "\"If you read this and develop a second",
+        "style, your strength and survival",
+        "potential will be greatly improved.\"",
+        ""
+      ],
+      "Translation": [
+        "\"Oh, it's you. What brings you here",
+        "today, hm? Oh, is this for me?",
+        "[Page]",
+        "",
+        "\"Strike me blind...! It's the",
+        "[Color:5][Item:1434][Color:0]! I thought this had",
+        "been lost... Where did you find it?",
+        "[Page]",
+        "",
+        "\"This is a document outlining a way",
+        "of using two normally incompatible",
+        "fighting styles at once.",
+        "[Page]",
+        "",
+        "\"If you read this and develop a second",
+        "style, your strength and survival",
+        "potential will be greatly improved.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]Subclasses are now unlocked for use.[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]Subclasses are now unlocked for use.[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]From here on, a subclass or secondary",
+        "class may be assigned to your party",
+        "members at the Explorers Guild.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Upon selecting a subclass, that",
+        "character can equip weapons and",
+        "armor appropriate to the class.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You will also receive 5 extra Skill",
+        "Points. Skills for the subclass can",
+        "be learned to half the maximum level.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]To change a character's subclass, you",
+        "must have them Rest.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]In addition to subclasses, subweapons",
+        "are now unlocked. Subweapons are",
+        "second weapons held in the off hand.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You cannot attack with a subweapon,",
+        "but you can use skills that require",
+        "it as a prerequisite.[Color:0]",
+        "[Page]",
+        "",
+        "The guildmaster checks and rechecks",
+        "the document you gave him and nods",
+        "excitedly to himself.",
+        "[Page]",
+        "",
+        "\"This [Color:6][Item:1434][Color:0] will improve",
+        "the caliber of explorers in this",
+        "city without a doubt.",
+        "[Page]",
+        "",
+        "\"All thanks to your hard work. I'd",
+        "like to give you something for your",
+        "skyship as a reward.",
+        "[Page]",
+        "",
+        "\"If you go to the city gates,",
+        "I'll have something called a",
+        "[Color:6][Item:2192][Color:0] delivered there.",
+        "[Page]",
+        "",
+        "\"There are a lot of tornadoes in the",
+        "Sacred Mountains, but you won't have",
+        "anything to fear with that equipped.",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]From here on, a subclass or secondary",
+        "class may be assigned to your party",
+        "members at the Explorers Guild.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]Upon selecting a subclass, that",
+        "character can equip weapons and",
+        "armor appropriate to the class.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You will also receive 5 extra Skill",
+        "Points. Skills for the subclass can",
+        "be learned to half the maximum level.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]To change a character's subclass, you",
+        "must have them Rest.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]In addition to subclasses, subweapons",
+        "are now unlocked. Subweapons are",
+        "second weapons held in the off hand.[Color:0]",
+        "[Page]",
+        "",
+        "[Color:3]You cannot attack with a subweapon,",
+        "but you can use skills that require",
+        "it as a prerequisite.[Color:0]",
+        "[Page]",
+        "",
+        "The guildmaster checks and rechecks",
+        "the document you gave him and nods",
+        "excitedly to himself.",
+        "[Page]",
+        "",
+        "\"This [Color:6][Item:1434][Color:0] will improve",
+        "the caliber of explorers in this",
+        "city without a doubt.",
+        "[Page]",
+        "",
+        "\"All thanks to your hard work. I'd",
+        "like to give you something for your",
+        "skyship as a reward.",
+        "[Page]",
+        "",
+        "\"If you go to the city gates,",
+        "I'll have something called a",
+        "[Color:6][Item:2192][Color:0] delivered there.",
+        "[Page]",
+        "",
+        "\"There are a lot of tornadoes in the",
+        "Sacred Mountains, but you won't have",
+        "anything to fear with that equipped.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "\"By the way... you said you got this",
+        "[Color:5][Item:1434][Color:0] from a Sentinel",
+        "named Kibagami?",
+        "[Page]",
+        "",
+        "\"You should go from here to the",
+        "Outland Count. You'll want his support",
+        "to solve the Sentinels' problem.\"",
+        ""
+      ],
+      "Translation": [
+        "\"By the way... you said you got this",
+        "[Color:5][Item:1434][Color:0] from a Sentinel",
+        "named Kibagami?",
+        "[Page]",
+        "",
+        "\"You should go from here to the",
+        "Outland Count. You'll want his support",
+        "to solve the Sentinels' problem.\"",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, you're here. I heard you managed",
+        "to do that job I asked for.",
+        "[Page]",
+        "",
+        "Well, as promised, here's your other",
+        "reward. Personal training from me!",
+        "Now, come at me!",
+        ""
+      ],
+      "Translation": [
+        "Ah, you're here. I heard you managed",
+        "to do that job I asked for.",
+        "[Page]",
+        "",
+        "Well, as promised, here's your other",
+        "reward. Personal training from me!",
+        "Now, come at me!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:3]The number of [Color:5]Burst Skills[Color:3] you can",
+        "set has increased to [Color:5][Number:0][Color:3]![Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:3]The number of [Color:5]Burst Skills[Color:3] you can",
+        "set has increased to [Color:5][Number:0][Color:3]![Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "There... now you've seen my secret",
+        "technique. You should be able to use",
+        "more special skills in battle.",
+        ""
+      ],
+      "Translation": [
+        "There... now you've seen my secret",
+        "technique. You should be able to use",
+        "more special skills in battle.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "And with that, I've taught you",
+        "everything I can.",
+        "[Page]",
+        "",
+        "You may mock me to say that you have",
+        "fully mastered combat, but I doubt any",
+        "other guild can do what you can now!",
+        ""
+      ],
+      "Translation": [
+        "And with that, I've taught you",
+        "everything I can.",
+        "[Page]",
+        "",
+        "You may mock me to say that you have",
+        "fully mastered combat, but I doubt any",
+        "other guild can do what you can now!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Your [Guild] Guild is now officially",
+        "Tharsis-sanctioned. On paper, anyway.",
+        "[Page]",
+        "",
+        "To become fully accredited explorers,",
+        "you must complete the Outland Count's",
+        "initiation mission.",
+        ""
+      ],
+      "Translation": [
+        "Your [Guild] Guild is now officially",
+        "Tharsis-sanctioned. On paper, anyway.",
+        "[Page]",
+        "",
+        "To become fully accredited explorers,",
+        "you must complete the Outland Count's",
+        "initiation mission.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Ah, it's you. The Outland Count told",
+        "me you got through the mission.",
+        "[Page]",
+        "",
+        "But don't let it get to your head.",
+        "You've just reached the starting line.",
+        "Don't neglect your training.",
+        ""
+      ],
+      "Translation": [
+        "Ah, it's you. The Outland Count told",
+        "me you got through the mission.",
+        "[Page]",
+        "",
+        "But don't let it get to your head.",
+        "You've just reached the starting line.",
+        "Don't neglect your training.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "I see you've been into the Lush",
+        "Woodlands by now. A lot bigger than",
+        "the Old Forest Mine, isn't it?",
+        "[Page]",
+        "",
+        "The beasties there are stronger, too.",
+        "Even skilled adventurers go missing in",
+        "that place. Getting cold feet yet?",
+        ""
+      ],
+      "Translation": [
+        "I see you've been into the Lush",
+        "Woodlands by now. A lot bigger than",
+        "the Old Forest Mine, isn't it?",
+        "[Page]",
+        "",
+        "The beasties there are stronger, too.",
+        "Even skilled adventurers go missing in",
+        "that place. Getting cold feet yet?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "They say that new floor you've reached",
+        "still has one unexplored area, but no",
+        "one has found it yet...",
+        "[Page]",
+        "",
+        "Why don't you try to be the first?",
+        "The labyrinth doesn't have feelings.",
+        "It doesn't care who explores it.",
+        "[Page]",
+        "",
+        "There's no need to tiptoe around your",
+        "seniors in the guild just because",
+        "you're a pack of rookies.",
+        ""
+      ],
+      "Translation": [
+        "They say that new floor you've reached",
+        "still has one unexplored area, but no",
+        "one has found it yet...",
+        "[Page]",
+        "",
+        "Why don't you try to be the first?",
+        "The labyrinth doesn't have feelings.",
+        "It doesn't care who explores it.",
+        "[Page]",
+        "",
+        "There's no need to tiptoe around your",
+        "seniors in the guild just because",
+        "you're a pack of rookies.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "So you accepted the mission, did you?",
+        "You're up against a beastie that's",
+        "made mincemeat of trained soldiers.",
+        "[Page]",
+        "",
+        "You don't have much in the way of",
+        "experience or skill yet...",
+        "[Page]",
+        "",
+        "So you've got to hone your bodies and",
+        "minds! You can get a taste of victory",
+        "only after you've worked for it!",
+        ""
+      ],
+      "Translation": [
+        "So you accepted the mission, did you?",
+        "You're up against a beastie that's",
+        "made mincemeat of trained soldiers.",
+        "[Page]",
+        "",
+        "You don't have much in the way of",
+        "experience or skill yet...",
+        "[Page]",
+        "",
+        "So you've got to hone your bodies and",
+        "minds! You can get a taste of victory",
+        "only after you've worked for it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "I heard you solved the mystery of the",
+        "northern barrier. How does it feel to",
+        "be the first?",
+        "[Page]",
+        "",
+        "Seems like it was just the other day",
+        "that you established your guild.",
+        "[Page]",
+        "",
+        "That's one thing about the labyrinth:",
+        "it'll surprise you every time. I'm",
+        "interested to see what you do next.",
+        ""
+      ],
+      "Translation": [
+        "I heard you solved the mystery of the",
+        "northern barrier. How does it feel to",
+        "be the first?",
+        "[Page]",
+        "",
+        "Seems like it was just the other day",
+        "that you established your guild.",
+        "[Page]",
+        "",
+        "That's one thing about the labyrinth:",
+        "it'll surprise you every time. I'm",
+        "interested to see what you do next.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "So, you've reached a new dungeon.",
+        "This one's the Misty Ravine, eh?",
+        "[Page]",
+        "",
+        "We don't know anything about whatever",
+        "is past this point, but the basic",
+        "skills you've honed still apply.",
+        "[Page]",
+        "",
+        "Make sure to keep up your training.",
+        "A first-class explorer always evolves",
+        "and adapts to new situations.",
+        ""
+      ],
+      "Translation": [
+        "So, you've reached a new dungeon.",
+        "This one's the Misty Ravine, eh?",
+        "[Page]",
+        "",
+        "We don't know anything about whatever",
+        "is past this point, but the basic",
+        "skills you've honed still apply.",
+        "[Page]",
+        "",
+        "Make sure to keep up your training.",
+        "A first-class explorer always evolves",
+        "and adapts to new situations.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "It sounds like things have been a bit",
+        "rocky for you. I've heard maps don't",
+        "help much in all that thick mist.",
+        "[Page]",
+        "",
+        "But explorers get stronger by putting",
+        "themselves in extreme situations! You",
+        "should embrace the traps and beasties!",
+        "[Page]",
+        "",
+        "They're what will fuel your advance",
+        "to a higher caliber of explorer.",
+        "So keep up the training!",
+        ""
+      ],
+      "Translation": [
+        "It sounds like things have been a bit",
+        "rocky for you. I've heard maps don't",
+        "help much in all that thick mist.",
+        "[Page]",
+        "",
+        "But explorers get stronger by putting",
+        "themselves in extreme situations! You",
+        "should embrace the traps and beasties!",
+        "[Page]",
+        "",
+        "They're what will fuel your advance",
+        "to a higher caliber of explorer.",
+        "So keep up the training!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "Vessels... Hollows... the Medium...",
+        "It's like you've opened a box with no",
+        "end of unbelievable things inside.",
+        "[Page]",
+        "",
+        "And there's no closing it again now.",
+        "You need to take responsibility and",
+        "get it under control.",
+        ""
+      ],
+      "Translation": [
+        "Vessels... Hollows... the Medium...",
+        "It's like you've opened a box with no",
+        "end of unbelievable things inside.",
+        "[Page]",
+        "",
+        "And there's no closing it again now.",
+        "You need to take responsibility and",
+        "get it under control.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "Ever since your [Guild] Guild got",
+        "to Tharsis, the stagnant feeling I've",
+        "had has been completely wiped away.",
+        "[Page]",
+        "",
+        "The citizens of Tharsis and the",
+        "explorers of the guild are looking",
+        "livelier than before, too.",
+        "[Page]",
+        "",
+        "Your guild's like the wind that blew",
+        "away that barrier...",
+        ""
+      ],
+      "Translation": [
+        "Ever since your [Guild] Guild got",
+        "to Tharsis, the stagnant feeling I've",
+        "had has been completely wiped away.",
+        "[Page]",
+        "",
+        "The citizens of Tharsis and the",
+        "explorers of the guild are looking",
+        "livelier than before, too.",
+        "[Page]",
+        "",
+        "Your guild's like the wind that blew",
+        "away that barrier...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Hyaaaaahhh!",
+        ""
+      ],
+      "Translation": [
+        "Hyaaaaahhh!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "That secret technique you brought back",
+        "with you... It'll help everyone in",
+        "the Guild grow stronger.",
+        "[Page]",
+        "",
+        "But don't neglect your own training.",
+        "Now that you can learn twice as many",
+        "skills...",
+        "[Page]",
+        "",
+        "It means you need to train twice as",
+        "hard! Push yourselves to the limit",
+        "and polish those skills!",
+        ""
+      ],
+      "Translation": [
+        "That secret technique you brought back",
+        "with you... It'll help everyone in",
+        "the Guild grow stronger.",
+        "[Page]",
+        "",
+        "But don't neglect your own training.",
+        "Now that you can learn twice as many",
+        "skills...",
+        "[Page]",
+        "",
+        "It means you need to train twice as",
+        "hard! Push yourselves to the limit",
+        "and polish those skills!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "What do you think, [Guild] Guild?",
+        "[Page]",
+        "",
+        "A mysterious barrier to the north in",
+        "every land... New races beyond each",
+        "one... I'm sensing a pattern here.",
+        "[Page]",
+        "",
+        "This can't be a coincidence, can it?",
+        "If this was somehow done deliberately,",
+        "then... Who will we meet next?",
+        ""
+      ],
+      "Translation": [
+        "What do you think, [Guild] Guild?",
+        "[Page]",
+        "",
+        "A mysterious barrier to the north in",
+        "every land... New races beyond each",
+        "one... I'm sensing a pattern here.",
+        "[Page]",
+        "",
+        "This can't be a coincidence, can it?",
+        "If this was somehow done deliberately,",
+        "then... Who will we meet next?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "Black skyships past the barrier, hm?",
+        "It sounds like getting past the Golden",
+        "Lair wasn't entirely a good thing.",
+        "[Page]",
+        "",
+        "I suspect we'll all be looking to you",
+        "from here on out.",
+        "[Page]",
+        "",
+        "When the time comes... you must step",
+        "up and be the ones who tell us what",
+        "the right and wrong moves are.",
+        ""
+      ],
+      "Translation": [
+        "Black skyships past the barrier, hm?",
+        "It sounds like getting past the Golden",
+        "Lair wasn't entirely a good thing.",
+        "[Page]",
+        "",
+        "I suspect we'll all be looking to you",
+        "from here on out.",
+        "[Page]",
+        "",
+        "When the time comes... you must step",
+        "up and be the ones who tell us what",
+        "the right and wrong moves are.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "Whirlwind... So he was the one pulling",
+        "the strings behind this thing...",
+        "[Page]",
+        "",
+        "That means he's been pulling the wool",
+        "over our eyes ever since he came to",
+        "Tharsis ten years ago.",
+        "[Page]",
+        "",
+        "Hahaha! We've been played for fools!",
+        "So, [Guild], what will you do? You",
+        "won't take this lying down, right?",
+        ""
+      ],
+      "Translation": [
+        "Whirlwind... So he was the one pulling",
+        "the strings behind this thing...",
+        "[Page]",
+        "",
+        "That means he's been pulling the wool",
+        "over our eyes ever since he came to",
+        "Tharsis ten years ago.",
+        "[Page]",
+        "",
+        "Hahaha! We've been played for fools!",
+        "So, [Guild], what will you do? You",
+        "won't take this lying down, right?",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "Is this your first time in some ruins?",
+        "You need to be careful of both natural",
+        "and man-made traps.",
+        "[Page]",
+        "",
+        "The good thing about the man-made ones",
+        "is that there's always a way to disarm",
+        "them. You just have to figure it out.",
+        ""
+      ],
+      "Translation": [
+        "Is this your first time in some ruins?",
+        "You need to be careful of both natural",
+        "and man-made traps.",
+        "[Page]",
+        "",
+        "The good thing about the man-made ones",
+        "is that there's always a way to disarm",
+        "them. You just have to figure it out.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "Looks like your exploration of the",
+        "Echoing Library is coming to a close.",
+        "Hmm... do you have enough enthusiasm?",
+        "[Page]",
+        "",
+        "Enthusiasm alone doesn't accomplish",
+        "anything, but without enthusiasm,",
+        "you won't get anything done...",
+        "[Page]",
+        "",
+        "More and more rookies here have been",
+        "looking up to you. So pardon me if",
+        "I get a little preachy at times.",
+        ""
+      ],
+      "Translation": [
+        "Looks like your exploration of the",
+        "Echoing Library is coming to a close.",
+        "Hmm... do you have enough enthusiasm?",
+        "[Page]",
+        "",
+        "Enthusiasm alone doesn't accomplish",
+        "anything, but without enthusiasm,",
+        "you won't get anything done...",
+        "[Page]",
+        "",
+        "More and more rookies here have been",
+        "looking up to you. So pardon me if",
+        "I get a little preachy at times.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "The great tree has withered. This is",
+        "a dark time for us all, [Guild]",
+        "Guild.",
+        "[Page]",
+        "",
+        "But what you're searching for isn't",
+        "necessarily something that can be",
+        "seen, is it?",
+        "[Page]",
+        "",
+        "Even after Yggdrasil's withered,",
+        "what you're after should still",
+        "be there.",
+        "[Page]",
+        "",
+        "You have to fix your eyes on your",
+        "goal and reach out for it!",
+        ""
+      ],
+      "Translation": [
+        "The great tree has withered. This is",
+        "a dark time for us all, [Guild]",
+        "Guild.",
+        "[Page]",
+        "",
+        "But what you're searching for isn't",
+        "necessarily something that can be",
+        "seen, is it?",
+        "[Page]",
+        "",
+        "Even after Yggdrasil's withered,",
+        "what you're after should still",
+        "be there.",
+        "[Page]",
+        "",
+        "You have to fix your eyes on your",
+        "goal and reach out for it!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "So... he's back. If I'm being honest,",
+        "my first instinct was to punch him.",
+        "[Page]",
+        "",
+        "But since you've already given him",
+        "a pummeling on behalf of the city...",
+        "I'll let it go this time.",
+        ""
+      ],
+      "Translation": [
+        "So... he's back. If I'm being honest,",
+        "my first instinct was to punch him.",
+        "[Page]",
+        "",
+        "But since you've already given him",
+        "a pummeling on behalf of the city...",
+        "I'll let it go this time.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Those Imperial knights... They're very",
+        "interesting fellows.",
+        "[Page]",
+        "",
+        "Their fighting style is based around",
+        "the drive blade. It's very unusual,",
+        "but I suggest you ask them about it.",
+        ""
+      ],
+      "Translation": [
+        "Those Imperial knights... They're very",
+        "interesting fellows.",
+        "[Page]",
+        "",
+        "Their fighting style is based around",
+        "the drive blade. It's very unusual,",
+        "but I suggest you ask them about it.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Ah... the [Guild] Guild. You're",
+        "going, aren't you?",
+        "[Page]",
+        "",
+        "Everything you've trained for until",
+        "now... The time has come for you to",
+        "be put to the test.",
+        "[Page]",
+        "",
+        "Just have no fear and believe in",
+        "yourselves. The things you learned on",
+        "your journey weren't for nothing.",
+        ""
+      ],
+      "Translation": [
+        "Ah... the [Guild] Guild. You're",
+        "going, aren't you?",
+        "[Page]",
+        "",
+        "Everything you've trained for until",
+        "now... The time has come for you to",
+        "be put to the test.",
+        "[Page]",
+        "",
+        "Just have no fear and believe in",
+        "yourselves. The things you learned on",
+        "your journey weren't for nothing.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "Heh... it seems you found yourself",
+        "one hell of an adversary.",
+        "[Page]",
+        "",
+        "Even I never met anything of that",
+        "magnitude in my adventuring days!",
+        "[Page]",
+        "",
+        "Your battle against that godlike Titan",
+        "is something right out of myth! I...",
+        "I'm so jealous...",
+        ""
+      ],
+      "Translation": [
+        "Heh... it seems you found yourself",
+        "one hell of an adversary.",
+        "[Page]",
+        "",
+        "Even I never met anything of that",
+        "magnitude in my adventuring days!",
+        "[Page]",
+        "",
+        "Your battle against that godlike Titan",
+        "is something right out of myth! I...",
+        "I'm so jealous...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Welcome back, [Guild] Guild. I'd say",
+        "you've realized every explorer's",
+        "deepest dream here.",
+        "[Page]",
+        "",
+        "But it's no miracle. Just the hard-",
+        "earned result of all the effort",
+        "you've put in up to now.",
+        "[Page]",
+        "",
+        "The strength you gained along your",
+        "journey just happened to be greater",
+        "than Yggdrasil or that Titan.",
+        "[Page]",
+        "",
+        "You earned this victory by the sweat",
+        "of your own brow... And that's the",
+        "only kind of victory worth winning!",
+        ""
+      ],
+      "Translation": [
+        "Welcome back, [Guild] Guild. I'd say",
+        "you've realized every explorer's",
+        "deepest dream here.",
+        "[Page]",
+        "",
+        "But it's no miracle. Just the hard-",
+        "earned result of all the effort",
+        "you've put in up to now.",
+        "[Page]",
+        "",
+        "The strength you gained along your",
+        "journey just happened to be greater",
+        "than Yggdrasil or that Titan.",
+        "[Page]",
+        "",
+        "You earned this victory by the sweat",
+        "of your own brow... And that's the",
+        "only kind of victory worth winning!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "It's certainly possible that only you,",
+        "the strongest explorers in Tharsis,",
+        "could have done this...",
+        "[Page]",
+        "",
+        "But don't go boasting about it.",
+        "The honor of being the strongest",
+        "constantly changes hands...",
+        "[Page]",
+        "",
+        "If you want to stay top dog, then",
+        "don't neglect your training! You",
+        "can't ever rest on your laurels!",
+        ""
+      ],
+      "Translation": [
+        "It's certainly possible that only you,",
+        "the strongest explorers in Tharsis,",
+        "could have done this...",
+        "[Page]",
+        "",
+        "But don't go boasting about it.",
+        "The honor of being the strongest",
+        "constantly changes hands...",
+        "[Page]",
+        "",
+        "If you want to stay top dog, then",
+        "don't neglect your training! You",
+        "can't ever rest on your laurels!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "So what brings you here today? What?",
+        "You found a new dungeon? Ha... Hahaha!",
+        "[Page]",
+        "",
+        "Hahahahaha! That's wonderful!",
+        "Oh, [Guild] Guild!",
+        "[Page]",
+        "",
+        "It wasn't enough that you vanquished",
+        "the Titan and kept Yggdrasil's power",
+        "in check, eh!?",
+        "[Page]",
+        "",
+        "Now I really feel like I need to keep",
+        "an eye on you to the end, to see just",
+        "how high you can climb.",
+        ""
+      ],
+      "Translation": [
+        "So what brings you here today? What?",
+        "You found a new dungeon? Ha... Hahaha!",
+        "[Page]",
+        "",
+        "Hahahahaha! That's wonderful!",
+        "Oh, [Guild] Guild!",
+        "[Page]",
+        "",
+        "It wasn't enough that you vanquished",
+        "the Titan and kept Yggdrasil's power",
+        "in check, eh!?",
+        "[Page]",
+        "",
+        "Now I really feel like I need to keep",
+        "an eye on you to the end, to see just",
+        "how high you can climb.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "Hrrrruuuurrrghhh!",
+        ""
+      ],
+      "Translation": [
+        "Hrrrruuuurrrghhh!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "All packed up for your trip yet?",
+        "I was just thinking about all the",
+        "chaos we've seen since you arrived.",
+        "[Page]",
+        "",
+        "I noticed you always took the lead in",
+        "bringing new things to Tharsis.",
+        "[Page]",
+        "",
+        "Thanks to you, we have a much higher",
+        "quality of explorers here. Fewer",
+        "people just wasting their lives.",
+        "[Page]",
+        "",
+        "But the most important thing you",
+        "brought us is intangible. I'm sure",
+        "everyone in Tharsis knows what it is.",
+        "[Page]",
+        "",
+        "I should express my gratitude too...",
+        "Thank you, [Guild] Guild. May",
+        "your days continue to be blessed.",
+        "[Page]",
+        "",
+        "Though you'd better not neglect your",
+        "training once you leave me behind.",
+        "I'd hate for you to turn spineless!",
+        ""
+      ],
+      "Translation": [
+        "All packed up for your trip yet?",
+        "I was just thinking about all the",
+        "chaos we've seen since you arrived.",
+        "[Page]",
+        "",
+        "I noticed you always took the lead in",
+        "bringing new things to Tharsis.",
+        "[Page]",
+        "",
+        "Thanks to you, we have a much higher",
+        "quality of explorers here. Fewer",
+        "people just wasting their lives.",
+        "[Page]",
+        "",
+        "But the most important thing you",
+        "brought us is intangible. I'm sure",
+        "everyone in Tharsis knows what it is.",
+        "[Page]",
+        "",
+        "I should express my gratitude too...",
+        "Thank you, [Guild] Guild. May",
+        "your days continue to be blessed.",
+        "[Page]",
+        "",
+        "Though you'd better not neglect your",
+        "training once you leave me behind.",
+        "I'd hate for you to turn spineless!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Have you gotten cold feet?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Have you gotten cold feet?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Haha, at least you're not afraid to",
+        "admit it! A healthy respect for the",
+        "labyrinth is good for an explorer.",
+        "[Page]",
+        "",
+        "You're right to fear the unseen",
+        "enemies every step of the way, and the",
+        "natural traps, too. Always be alert.",
+        ""
+      ],
+      "Translation": [
+        "Haha, at least you're not afraid to",
+        "admit it! A healthy respect for the",
+        "labyrinth is good for an explorer.",
+        "[Page]",
+        "",
+        "You're right to fear the unseen",
+        "enemies every step of the way, and the",
+        "natural traps, too. Always be alert.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 82,
+      "IsIgnored": false,
+      "Original": [
+        "Courage is a fine thing. But it's",
+        "those who rush through the labyrinth",
+        "recklessly that are the first to die.",
+        "[Page]",
+        "",
+        "I've seen too many rash explorers in",
+        "my many years... Let those poor souls",
+        "be a lesson to you.",
+        ""
+      ],
+      "Translation": [
+        "Courage is a fine thing. But it's",
+        "those who rush through the labyrinth",
+        "recklessly that are the first to die.",
+        "[Page]",
+        "",
+        "I've seen too many rash explorers in",
+        "my many years... Let those poor souls",
+        "be a lesson to you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 85,
+      "IsIgnored": false,
+      "Original": [
+        "Oh... didn't notice you there. Sorry",
+        "about the glare. I'm actually working",
+        "on a new skill...",
+        "[Page]",
+        "",
+        "Since your adventures are getting more",
+        "hair-raising, I was hoping to help by",
+        "polishing my skills... Hyaaaahhh!",
+        ""
+      ],
+      "Translation": [
+        "Oh... didn't notice you there. Sorry",
+        "about the glare. I'm actually working",
+        "on a new skill...",
+        "[Page]",
+        "",
+        "Since your adventures are getting more",
+        "hair-raising, I was hoping to help by",
+        "polishing my skills... Hyaaaahhh!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 86,
+      "IsIgnored": false,
+      "Original": [
+        "Hmmm... No, still not enough.",
+        ""
+      ],
+      "Translation": [
+        "Hmmm... No, still not enough.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 87,
+      "IsIgnored": false,
+      "Original": [
+        "Oh, you were here? Sorry, I hope I",
+        "didn't blind you. I've been polishing",
+        "my skill even further.",
+        "[Page]",
+        "",
+        "That mysterious labyrinth you've been",
+        "going to... I heard not a hair of light",
+        "gets in and couldn't stop myself.",
+        "[Page]",
+        "",
+        "...Hrrrruuuurrrghhh!",
+        ""
+      ],
+      "Translation": [
+        "Oh, you were here? Sorry, I hope I",
+        "didn't blind you. I've been polishing",
+        "my skill even further.",
+        "[Page]",
+        "",
+        "That mysterious labyrinth you've been",
+        "going to... I heard not a hair of light",
+        "gets in and couldn't stop myself.",
+        "[Page]",
+        "",
+        "...Hrrrruuuurrrghhh!",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 88,
+      "IsIgnored": false,
+      "Original": [
+        "Hrm...",
+        "[Page]",
+        "",
+        "Maybe the way this skill will never be",
+        "complete makes it complete already.",
+        ""
+      ],
+      "Translation": [
+        "Hrm...",
+        "[Page]",
+        "",
+        "Maybe the way this skill will never be",
+        "complete makes it complete already.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}

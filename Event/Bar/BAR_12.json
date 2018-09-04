@@ -1,0 +1,163 @@
+{
+  "FileType": "MessageBinary",
+  "Description": "BAR_12",
+  "RelativePath": "Event\\Bar\\BAR_12.mbm",
+  "Entries": [
+    {
+      "ID": -1,
+      "IsIgnored": false,
+      "Original": [
+        ""
+      ],
+      "Translation": [
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Huh? A crashed explorer? I dunno any",
+        "Raht or Yacht or whatever, but I did",
+        "see someone in the Sacred Mountains.",
+        "[Page]",
+        "",
+        "If you wanna hear more, hmm... Why not",
+        "pay me [Number:1]en? I need money to",
+        "pay for my food.",
+        ""
+      ],
+      "Translation": [
+        "Huh? A crashed explorer? I dunno any",
+        "Raht or Yacht or whatever, but I did",
+        "see someone in the Sacred Mountains.",
+        "[Page]",
+        "",
+        "If you wanna hear more, hmm... Why not",
+        "pay me [Number:1]en? I need money to",
+        "pay for my food.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "[Color:5]Pay him [Number:1]en?[Color:0]",
+        ""
+      ],
+      "Translation": [
+        "[Color:5]Pay him [Number:1]en?[Color:0]",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Hahaha, no? Then good friggin' luck",
+        "finding that guy on your own.",
+        ""
+      ],
+      "Translation": [
+        "Hahaha, no? Then good friggin' luck",
+        "finding that guy on your own.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Hahaha... You don't even have the",
+        "money! If you can't pay up, I got",
+        "nothing for you.",
+        ""
+      ],
+      "Translation": [
+        "Hahaha... You don't even have the",
+        "money! If you can't pay up, I got",
+        "nothing for you.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "Ooh, thanks a lot. May you live long,",
+        "happy lives, et cetera.",
+        ""
+      ],
+      "Translation": [
+        "Ooh, thanks a lot. May you live long,",
+        "happy lives, et cetera.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Huh? Didn't I tell you guys already?",
+        "Well, whatever...",
+        ""
+      ],
+      "Translation": [
+        "Huh? Didn't I tell you guys already?",
+        "Well, whatever...",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "I was searching the east side of the",
+        "mountains at the time... That'd be",
+        "columns 3, 4, and 5 on the map.",
+        "[Page]",
+        "",
+        "That was when I saw the crashed",
+        "skyship and the hurt kid. More than",
+        "that, I don't remember.",
+        ""
+      ],
+      "Translation": [
+        "I was searching the east side of the",
+        "mountains at the time... That'd be",
+        "columns 3, 4, and 5 on the map.",
+        "[Page]",
+        "",
+        "That was when I saw the crashed",
+        "skyship and the hurt kid. More than",
+        "that, I don't remember.",
+        ""
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}
