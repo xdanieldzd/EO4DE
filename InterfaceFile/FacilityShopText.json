@@ -26,7 +26,7 @@
       ],
       "Translation": [
         "Das macht dann [Variable1:0]en.",
-        "Wollt Ihr immer noch kaufen?",
+        "Kauft Ihr also?",
         ""
       ],
       "Notes": [
@@ -512,9 +512,9 @@
         ""
       ],
       "Translation": [
-        "Ihr habt eine [Color:3]Zusatzwaffe[Color:0]",
-        "ausgerüstet! Ihr könnt die Fähigkeiten",
-        "dieser Waffe im Kampf benutzen.",
+        "Ihr habt eine [Color:3]Zusatzwaffe[Color:0] ausgerüstet!",
+        "Ihr könnt die Fähigkeiten dieser Waffe",
+        "im Kampf benutzen.",
         ""
       ],
       "Notes": [

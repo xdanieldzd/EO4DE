@@ -1383,7 +1383,7 @@
         ""
       ],
       "Translation": [
-        "Ein neuer Effekt kann hinzugefügt werden.",
+        "Kann neuen Effekt hinzufügen.",
         ""
       ],
       "Notes": [
@@ -1398,7 +1398,7 @@
         ""
       ],
       "Translation": [
-        "[Variable1:0] hat es ausgerüstet.",
+        "Ausgerüstet von [Variable1:0].",
         ""
       ],
       "Notes": [
@@ -1493,7 +1493,8 @@
         ""
       ],
       "Translation": [
-        "Nicht möglich",
+        "Nicht zu",
+        "verstärken",
         ""
       ],
       "Notes": [
@@ -1579,8 +1580,8 @@
         ""
       ],
       "Translation": [
-        "Dieser Effekt wurde bereits zu diesem",
-        "Slot hinzugefügt.",
+        "Dieser Effekt wurde bereits zu",
+        "diesem Slot hinzugefügt.",
         ""
       ],
       "Notes": [

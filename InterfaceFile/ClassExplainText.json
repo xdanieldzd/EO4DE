@@ -35,7 +35,7 @@
         "mit Schwertern und Ra-",
         "pieren. Sie übernehmen",
         "die Führung und heben",
-        "die Moral der Truppe.",
+        "so die Moral der Truppe.",
         "",
         "[Color:6]Starke Nahkämpfer in",
         "der vorderen Reihe.",
@@ -119,8 +119,8 @@
       ],
       "Translation": [
         "[Color:2]Erledigen Feinde aus der",
-        "Distanz mit Pfeil und",
-        "Bogen. Können Schwach-",
+        "Distanz mit Pfeil und Bo-",
+        "gen. Sie können Schwach-",
         "stellen präzise treffen um",
         "Körperteile zu Versiegeln.",
         "",
@@ -149,8 +149,8 @@
         "[Color:2]Versorgen Wunden der",
         "Gruppe. Ihre Kenntnisse",
         "der Anatomie und Bio-",
-        "logie helfen beim",
-        "Lähmen von Feinden.",
+        "logie helfen beim Lähmen",
+        "von Feinden.",
         "",
         "[Color:6]Spezialisten der Heilung",
         "für beide Reihen.",
@@ -176,11 +176,11 @@
       ],
       "Translation": [
         "[Color:2]Verwenden Runen als",
-        "Katalysator um die",
-        "Elemente zu steuern.",
-        "Sehr effektiv gegen",
-        "Feinde, die normalen",
-        "Attacken widerstehen.",
+        "Katalysator um die Ele-",
+        "mente zu steuern. Sehr",
+        "effektiv gegen Feinde,",
+        "die normalen Attacken",
+        "widerstehen.",
         "[Color:6]Elementarangreifer in",
         "der hinteren Reihe.",
         ""
@@ -204,17 +204,17 @@
       ],
       "Translation": [
         "[Color:2]Unterstützen und heilen",
-        "die eigene Reihe, beherr-",
-        "schen aber auch tödliche",
-        "Schwerttänze.",
-        "",
+        "nicht nur die eigene Reihe,",
+        "sondern beherrschen auch",
+        "beeindruckende und",
+        "tödliche Schwerttänze.",
         "",
         "[Color:6]Angriff und Unter-",
         "stützung vorne.",
         ""
       ],
       "Notes": [
-        "Übersetzung / \"to behold\" in deutschen Text einarbeiten?"
+        ""
       ]
     },
     {
@@ -290,12 +290,12 @@
         ""
       ],
       "Translation": [
-        "[Color:2]Loyale Ritter, die Antriebs-",
-        "klingen verwenden. Ihre",
-        "Angriffe sind verheerend -",
-        "für Gegner und die Mecha-",
-        "nik der Klinge gleicher-",
-        "maßen.",
+        "[Color:2]Loyale Ritter, welche",
+        "Antriebsklingen verwen-",
+        "den. Ihre Angriffe sind",
+        "verheerend - für Gegner,",
+        "und die Mechanik der",
+        "Klinge gleichermaßen.",
         "[Color:6]Elementare Nahkämpfer",
         "der vorderen Reihe.",
         ""
