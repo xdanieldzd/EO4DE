@@ -27,12 +27,12 @@
         ""
       ],
       "Translation": [
-        "Do not enter personal details",
-        "or offensive language.",
+        "Keine persönlichen Daten oder",
+        "beleidigenden Ausdrücke eingeben.",
         ""
       ],
       "Notes": [
-        ""
+        "Overflow?"
       ]
     },
     {
@@ -43,7 +43,7 @@
         ""
       ],
       "Translation": [
-        "You already have this clue.",
+        "Ihr kennt diesen Hinweis bereits.",
         ""
       ],
       "Notes": [
@@ -58,7 +58,7 @@
         ""
       ],
       "Translation": [
-        "Received a treasure clue: [Variable1:0]!",
+        "Hinweis auf Schatz erhalten: [Variable1:0]!",
         ""
       ],
       "Notes": [
@@ -73,11 +73,11 @@
         ""
       ],
       "Translation": [
-        "The conditions have not been met.",
+        "Die Bedingungen wurden nicht erfüllt.",
         ""
       ],
       "Notes": [
-        ""
+        "Kontext?"
       ]
     },
     {
@@ -89,8 +89,8 @@
         ""
       ],
       "Translation": [
-        "Are you sure you wish to discard",
-        "this guild card?",
+        "Wollt Ihr diese Gildenkarte",
+        "wirklich wegwerfen?",
         ""
       ],
       "Notes": [
@@ -105,7 +105,7 @@
         ""
       ],
       "Translation": [
-        "The guild card has been discarded.",
+        "Die Glidenkarte wurde weggeworfen.",
         ""
       ],
       "Notes": [
@@ -120,11 +120,11 @@
         ""
       ],
       "Translation": [
-        "Your level is not high enough.",
+        "Euer Level ist nicht hoch genug.",
         ""
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -135,7 +135,7 @@
         ""
       ],
       "Translation": [
-        "Your guild is full.",
+        "Eure Gilde ist voll.",
         ""
       ],
       "Notes": [
@@ -166,8 +166,8 @@
         ""
       ],
       "Translation": [
-        "After registering the guild, the game",
-        "will automatically save. Continue?",
+        "Nach der Registrierung wird das",
+        "Spiel automatisch gesichert. Weiter?",
         ""
       ],
       "Notes": [
@@ -199,7 +199,7 @@
         ""
       ],
       "Translation": [
-        "Guild registration complete.",
+        "Gildenregistrierung beendet.",
         ""
       ],
       "Notes": [
@@ -215,8 +215,8 @@
         ""
       ],
       "Translation": [
-        "That contains offensive language.",
-        "Please enter it again.",
+        "Beleidigende Ausdrücke gefunden.",
+        "Bitte erneut eingeben.",
         ""
       ],
       "Notes": [
@@ -232,8 +232,8 @@
         ""
       ],
       "Translation": [
-        "That contains too many numbers.",
-        "Please enter it again.",
+        "Zu viele Ziffern gefunden.",
+        "Bitte erneut eingeben.",
         ""
       ],
       "Notes": [
@@ -315,9 +315,9 @@
         ""
       ],
       "Translation": [
-        "Outputting guild card QR Code to",
-        "the SD Card. [Color:3]If such data exists",
-        "already, it will be overwritten.[Color:0]",
+        "Gildenkarte wird als QR Code auf",
+        "SD Card geschrieben. [Color:3]Evtl. bestehende",
+        "Daten werden überschrieben.[Color:0]",
         ""
       ],
       "Notes": [
@@ -332,7 +332,7 @@
         ""
       ],
       "Translation": [
-        "Output to the SD Card?",
+        "Auf die SD Card schreiben?",
         ""
       ],
       "Notes": [
@@ -347,7 +347,7 @@
         ""
       ],
       "Translation": [
-        "Failed to access SD Card.",
+        "Konnte nicht auf SD Card zugreifen.",
         ""
       ],
       "Notes": [
@@ -362,7 +362,7 @@
         ""
       ],
       "Translation": [
-        "Failed to output to the SD Card.",
+        "Konnte nicht auf SD Card schreiben.",
         ""
       ],
       "Notes": [
@@ -377,7 +377,7 @@
         ""
       ],
       "Translation": [
-        "Failed to generate QR Code.",
+        "Konnte QR Code nicht erzeugen.",
         ""
       ],
       "Notes": [
@@ -393,8 +393,8 @@
         ""
       ],
       "Translation": [
-        "QR Code has been output to the",
-        "SD Card.",
+        "QR Code wurde auf die SD Card",
+        "geschrieben.",
         ""
       ],
       "Notes": [
@@ -410,8 +410,8 @@
         ""
       ],
       "Translation": [
-        "Output Guild Card data and image",
-        "to the SD Card?",
+        "Daten und Bild der Gildenkarte",
+        "auf SD Card schreiben?",
         ""
       ],
       "Notes": [
@@ -426,7 +426,7 @@
         ""
       ],
       "Translation": [
-        "Failed to output image.",
+        "Konnte Bild nicht schreiben.",
         ""
       ],
       "Notes": [
@@ -442,8 +442,8 @@
         ""
       ],
       "Translation": [
-        "Guild Card image has been output",
-        "to the SD Card.",
+        "Bild der Gildenkarte wurde auf",
+        "SD Card geschrieben.",
         ""
       ],
       "Notes": [

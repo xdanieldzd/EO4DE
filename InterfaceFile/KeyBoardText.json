@@ -27,7 +27,7 @@
       ],
       "Translation": [
         "Namen der Gilde eingeben.",
-        "[Color:3]Keine persönlichen Daten oder",
+        "[Color:3]*Keine persönlichen Daten oder",
         "beleidigenden Ausdrücke.",
         ""
       ],
@@ -112,7 +112,7 @@
       ],
       "Translation": [
         "Namen des Luftschiffs eingeben.",
-        "[Color:3]Keine persönlichen Daten oder",
+        "[Color:3]*Keine persönlichen Daten oder",
         "beleidigenden Ausdrücke.",
         ""
       ],

@@ -39,11 +39,11 @@
         ""
       ],
       "Translation": [
-        "Obtained [Variable2:0][Color:6][Variable1:0][Color:0].",
+        "[Variable2:0][Color:6][Variable1:0][Color:0] erhalten.",
         ""
       ],
       "Notes": [
-        ""
+        "Kontext?"
       ]
     },
     {
@@ -54,11 +54,11 @@
         ""
       ],
       "Translation": [
-        "Obtained [Variable2:0][Color:6][Variable1:0][Color:0] x[Variable1:1].",
+        "[Variable2:0][Color:6][Variable1:0][Color:0] x[Variable1:1] erhalten.",
         ""
       ],
       "Notes": [
-        ""
+        "Kontext?"
       ]
     },
     {
@@ -69,7 +69,7 @@
         ""
       ],
       "Translation": [
-        "Obtained [Color:5][Variable1:0][Color:0]en.",
+        "[Color:5][Variable1:0][Color:0]en erhalten.",
         ""
       ],
       "Notes": [
@@ -84,7 +84,7 @@
         ""
       ],
       "Translation": [
-        "Discard the selected items?",
+        "Ausgewählte Gegenstände wegwerfen?",
         ""
       ],
       "Notes": [
@@ -100,12 +100,12 @@
         ""
       ],
       "Translation": [
-        "Your inventory is full.",
-        "Choose an item to discard.",
+        "Euer Inventar ist voll. Wählt die",
+        "wegzuwerfenden Gegenstände.",
         ""
       ],
       "Notes": [
-        ""
+        "Einzahl oder Mehrzahl?"
       ]
     },
     {
@@ -116,7 +116,7 @@
         ""
       ],
       "Translation": [
-        "Main class: [Variable1:0]",
+        "Hauptklasse: [Variable1:0]",
         ""
       ],
       "Notes": [
@@ -131,7 +131,7 @@
         ""
       ],
       "Translation": [
-        "Subclass: [Variable1:1]",
+        "Unterklasse: [Variable1:1]",
         ""
       ],
       "Notes": [
@@ -146,7 +146,7 @@
         ""
       ],
       "Translation": [
-        "Class: [Variable1:0]",
+        "Klasse: [Variable1:0]",
         ""
       ],
       "Notes": [
@@ -161,7 +161,7 @@
         ""
       ],
       "Translation": [
-        "Save your map and exploration data?",
+        "Karten- und Erkundungsdaten sichern?",
         ""
       ],
       "Notes": [
@@ -177,12 +177,12 @@
         ""
       ],
       "Translation": [
-        "Your guild card register is full.",
-        "Choose a guild card to discard.",
+        "Eure Gildenkarten sind voll. Wählt",
+        "eine Gildenkarte zum wegwerfen.",
         ""
       ],
       "Notes": [
-        ""
+        "Overflow?"
       ]
     },
     {
@@ -194,8 +194,8 @@
         ""
       ],
       "Translation": [
-        "Are you certain you wish to discard",
-        "the selected guild card?",
+        "Wollt Ihr die gewählte Gildenkarte",
+        "wirklich wegwerfen?",
         ""
       ],
       "Notes": [
@@ -211,7 +211,7 @@
         ""
       ],
       "Translation": [
-        "You've discovered a new monster!",
+        "Neues Monster entdeckt:",
         "[Color:6][Variable1:0][Color:0]",
         ""
       ],
@@ -228,7 +228,7 @@
         ""
       ],
       "Translation": [
-        "Discovered a new item:",
+        "Neuen Gegenstand entdeckt:",
         "[Variable2:0][Color:6][Variable1:0][Color:0]",
         ""
       ],
@@ -245,7 +245,7 @@
         ""
       ],
       "Translation": [
-        "Discovered a new item:",
+        "Neuen Gegenstand entdeckt:",
         "[Variable2:0][Color:9][Variable1:0][Color:0]",
         ""
       ],
@@ -262,7 +262,7 @@
         ""
       ],
       "Translation": [
-        "Discovered a new foodstuff:",
+        "Neues Lebensmittel entdeckt:",
         "[Variable2:0][Color:6][Variable1:0][Color:0]",
         ""
       ],
@@ -279,7 +279,7 @@
         ""
       ],
       "Translation": [
-        "Discovered a new foodstuff:",
+        "Neues Lebensmittel entdeckt:",
         "[Variable2:0][Color:9][Variable1:0][Color:0]",
         ""
       ],
@@ -295,7 +295,7 @@
         ""
       ],
       "Translation": [
-        "Save your cleared game?",
+        "Beendetes Spiel sichern?",
         ""
       ],
       "Notes": [
@@ -311,8 +311,8 @@
         ""
       ],
       "Translation": [
-        "Are you sure you would",
-        "like to delete your data?",
+        "Wollt Ihr eure Daten wirklich",
+        "löschen?",
         ""
       ],
       "Notes": [
@@ -328,8 +328,8 @@
         ""
       ],
       "Translation": [
-        "You will not be able to recover",
-        "the lost data. Are you certain?",
+        "Ihr könnt die verlorenen Daten",
+        "nicht wiederherstellen. Fortsetzen?",
         ""
       ],
       "Notes": [
@@ -344,7 +344,7 @@
         ""
       ],
       "Translation": [
-        "Game data successfully deleted.",
+        "Spieldaten erfolgreich gelöscht.",
         ""
       ],
       "Notes": [
@@ -359,7 +359,7 @@
         ""
       ],
       "Translation": [
-        "Game data deletion failed.",
+        "Daten konnten nicht gelöscht werden.",
         ""
       ],
       "Notes": [
@@ -375,8 +375,8 @@
         ""
       ],
       "Translation": [
-        "Load your game? (The existing",
-        "quicksave will be deleted.)",
+        "Spiel laden? (Bestehende Fort-",
+        "setzungsdaten werden gelöscht.)",
         ""
       ],
       "Notes": [
@@ -392,8 +392,8 @@
         ""
       ],
       "Translation": [
-        "Start a new game?",
-        "The quicksave will be deleted.",
+        "Neues Spiel starten?",
+        "Fortsetzungsdaten werden gelöscht.",
         ""
       ],
       "Notes": [
@@ -409,8 +409,8 @@
         ""
       ],
       "Translation": [
-        "Start a [Color:5]new game[Color:0]? (The existing",
-        "quicksave will be deleted.)",
+        "[Color:5]Neues Spiel[Color:0] starten? (Bestehende",
+        "Fortsetzungsdaten werden gelöscht.)",
         ""
       ],
       "Notes": [
@@ -426,8 +426,8 @@
         ""
       ],
       "Translation": [
-        "You sold the food you brought back",
-        "for [Variable1:0]en.",
+        "Ihr habt die gefundenen Lebensmittel",
+        "für [Variable1:0]en verkauft.",
         ""
       ],
       "Notes": [
@@ -444,13 +444,16 @@
         ""
       ],
       "Translation": [
-        "You are somehow alive, at the cost of",
-        "your food and a good deal of health.",
-        "[Color:5]You must heal your wounds and regroup.[Color:0]",
+        "Ihr habt überlebt, aber eure Lebensmittel",
+        "und einen Teil eurer Gesundheit verloren.",
+        "[Page]",
+        "",
+        "[Color:5]Ihr müsst Euch um eure Wunden kümmern",
+        "und euch neu formieren.[Color:0]",
         ""
       ],
       "Notes": [
-        ""
+        "Pagebreak möglich?"
       ]
     },
     {
@@ -463,13 +466,17 @@
         ""
       ],
       "Translation": [
-        "You were badly wounded in the Imperial",
-        "attack, and lost all your food...",
-        "[Color:5]You must heal your wounds and regroup.[Color:0]",
+        "Der imperiale Angriff hat Euch schwer",
+        "verwundet und euch all Eure Lebensmittel",
+        "gekostet.",
+        "[Page]",
+        "",
+        "[Color:5]Ihr müsst Euch um eure Wunden kümmern",
+        "und euch neu formieren.[Color:0]",
         ""
       ],
       "Notes": [
-        ""
+        "Pagebreak möglich?"
       ]
     },
     {
@@ -482,18 +489,22 @@
         ""
       ],
       "Translation": [
-        "You were severely wounded by the",
-        "tornado and lost all your food...",
-        "[Color:5]You must heal your wounds and regroup.[Color:0]",
+        "Der Wirbelsturm hat Euch schwer",
+        "zugesetzt und Ihr habt alle Lebensmittel",
+        "verloren.",
+        "[Page]",
+        "",
+        "[Color:5]Ihr müsst Euch um eure Wunden kümmern",
+        "und euch neu formieren.[Color:0]",
         ""
       ],
       "Notes": [
-        ""
+        "Pagebreak möglich?"
       ]
     },
     {
       "ID": 30,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "[Variable1:0]",
         ""
@@ -514,11 +525,11 @@
         ""
       ],
       "Translation": [
-        "Key",
+        "Schlüssel",
         ""
       ],
       "Notes": [
-        ""
+        "Kontext? Übersetzung?"
       ]
     },
     {
@@ -529,7 +540,7 @@
         ""
       ],
       "Translation": [
-        "Touch the spot to direct them to.",
+        "Den Zielort berühren.",
         ""
       ],
       "Notes": [
@@ -544,7 +555,7 @@
         ""
       ],
       "Translation": [
-        "Are these the coordinates?",
+        "Sind dies die Koordinaten?",
         ""
       ],
       "Notes": [
@@ -580,32 +591,35 @@
         ""
       ],
       "Translation": [
-        "There are two difficulty settings,",
-        "Normal and Casual.",
+        "Es gibt zwei Schwierigkeitsstufen,",
+        "\"Normal\" und \"Anfänger\".",
         "[Page]",
         "",
-        "Normal presents the standard challenge",
-        "of the Etrian Odyssey series. Casual",
-        "difficulty is somewhat easier.",
+        "\"Normal\" ist die typische Schwierigkeit",
+        "der Etrian Odyssey-Serie. \"Anfänger\"",
+        "ist etwas einfacher.",
         "[Page]",
         "",
-        "In Casual mode, battles are less",
-        "difficult. If your party is wiped out,",
-        "you will be taken back to Tharsis.",
+        "Im \"Anfänger\"-Modus sind Kämpfe",
+        "weniger schwierig, und Ihr werdet im",
+        "Falle einer Niederlage nach Tharsis",
         "[Page]",
         "",
-        "You can also set certain items not to",
-        "be expended upon use, allowing for",
-        "more casual play.",
+        "geschickt. Es besteht auch die Möglichkeit,",
+        "bestimmte Gegenstände bei Verwendung",
+        "nicht zu verbrauchen.",
         "[Page]",
         "",
-        "Your difficulty setting will not",
-        "affect the story, but some medals",
-        "cannot be earned in Casual mode.",
+        "Die Schwierigkeitsstufe beeinflusst zwar",
+        "nicht den Verlauf der Geschichte, manche",
+        "Medallien können jedoch nicht im",
+        "[Page]",
+        "",
+        "\"Anfänger\"-Modus verdient werden.",
         ""
       ],
       "Notes": [
-        ""
+        "Overflow?"
       ]
     },
     {
@@ -616,7 +630,7 @@
         ""
       ],
       "Translation": [
-        "Attach this treasure to the card?",
+        "Diesen Schatz der Karte beifügen?",
         ""
       ],
       "Notes": [
@@ -631,11 +645,12 @@
         ""
       ],
       "Translation": [
-        "That name cannot be used.",
+        "Dieser Name kann nicht",
+        "verwendet werden.",
         ""
       ],
       "Notes": [
-        ""
+        "Kontext? Zwei Zeilen möglich?"
       ]
     },
     {
@@ -651,12 +666,12 @@
         ""
       ],
       "Translation": [
-        "Since you have reached level 20,",
-        "you have earned the rank of [Color:3]Veteran[Color:0]!",
+        "Ihr habt Level 20 erreicht, wodurch",
+        "Ihr den Rang des [Color:3]Veteranen[Color:0] erhaltet!",
         "[Page]",
         "",
-        "From here on, your level 20 characters",
-        "will be able to learn Veteran skills.",
+        "Von nun an können eure Level 20-",
+        "Charaktere Veteranen-Fähigkeiten lernen.",
         ""
       ],
       "Notes": [
@@ -676,12 +691,12 @@
         ""
       ],
       "Translation": [
-        "Since you have reached level 40,",
-        "you have earned the rank of [Color:3]Master[Color:0]!",
+        "Ihr habt Level 40 erreicht, wodurch",
+        "Ihr den Rang des [Color:3]Meisters[Color:0] erhaltet!",
         "[Page]",
         "",
-        "From here on, your level 40 characters",
-        "will be able to learn Master skills.",
+        "Von nun an können eure Level 40-",
+        "Charaktere Meister-Fähigkeiten lernen.",
         ""
       ],
       "Notes": [
@@ -697,8 +712,8 @@
         ""
       ],
       "Translation": [
-        "You have no characters who can gain",
-        "experience!",
+        "Ihr habt keine Charaktere. die Erfahrung",
+        "sammeln könnten!",
         ""
       ],
       "Notes": [
@@ -713,7 +728,7 @@
         ""
       ],
       "Translation": [
-        "Obtained [Variable2:0][Color:9][Variable1:0][Color:0]!",
+        "[Variable2:0][Color:9][Variable1:0][Color:0] erhalten!",
         ""
       ],
       "Notes": [
@@ -728,7 +743,7 @@
         ""
       ],
       "Translation": [
-        "Obtained [Variable2:0][Color:9][Variable1:0][Color:0] x[Variable1:1]!",
+        "[Variable2:0][Color:9][Variable1:0][Color:0] x[Variable1:1] erhalten!",
         ""
       ],
       "Notes": [

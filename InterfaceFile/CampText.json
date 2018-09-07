@@ -511,7 +511,7 @@
       ],
       "Translation": [
         "[Variable1:0]'s Stärke ist nun [Variable1:1]!",
-        "＊[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
+        "*[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
         "verwendet werden.",
         ""
       ],
@@ -529,7 +529,7 @@
       ],
       "Translation": [
         "[Variable1:0]'s Technik ist nun [Variable1:1]!",
-        "＊[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
+        "*[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
         "verwendet werden.",
         ""
       ],
@@ -547,7 +547,7 @@
       ],
       "Translation": [
         "[Variable1:0]'s Ausdauer ist nun [Variable1:1]!",
-        "＊[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
+        "*[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
         "verwendet werden.",
         ""
       ],
@@ -565,7 +565,7 @@
       ],
       "Translation": [
         "[Variable1:0]'s Agilität ist nun [Variable1:1]!",
-        "＊[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
+        "*[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
         "verwendet werden.",
         ""
       ],
@@ -583,7 +583,7 @@
       ],
       "Translation": [
         "[Variable1:0]'s Glück ist nun [Variable1:1]!",
-        "＊[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
+        "*[Variable1:2] kann noch [Color:3][Variable1:3][Color:0] mal",
         "verwendet werden.",
         ""
       ],
