@@ -24,7 +24,7 @@
         ""
       ],
       "Translation": [
-        "Wählt die Klasse des Abenteurers.",
+        "Wählt die gewünschte Klasse aus.",
         ""
       ],
       "Notes": [
@@ -39,7 +39,7 @@
         ""
       ],
       "Translation": [
-        "Wählt das Portrait des Abenteurers.",
+        "Wählt das gewünschte Porträt.",
         ""
       ],
       "Notes": [
@@ -55,8 +55,8 @@
         ""
       ],
       "Translation": [
-        "Ist dieser Abenteurer bereit zur",
-        "Registrierung?",
+        "Ist dieser Abenteurer für die",
+        "Einschreibung bereit?",
         ""
       ],
       "Notes": [
@@ -71,7 +71,7 @@
         ""
       ],
       "Translation": [
-        "Registrierung abgeschlossen.",
+        "Einschreibung abgeschlossen.",
         ""
       ],
       "Notes": [
@@ -87,7 +87,7 @@
         ""
       ],
       "Translation": [
-        "Einen weiteren Abenteurer registrieren?",
+        "Einen weiteren Abenteurer einschreiben?",
         "Es sind noch [Variable1:1] Plätze frei.",
         ""
       ],

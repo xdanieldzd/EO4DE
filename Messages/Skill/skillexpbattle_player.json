@@ -5,7 +5,7 @@
   "Entries": [
     {
       "ID": 0,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Blank",
         ""

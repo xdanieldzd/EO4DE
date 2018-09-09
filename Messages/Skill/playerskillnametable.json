@@ -5,7 +5,7 @@
   "Entries": [
     {
       "ID": 0,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Blank"
       ],
@@ -23,7 +23,7 @@
         "Attack"
       ],
       "Translation": [
-        "Attack"
+        "Angriff"
       ],
       "Notes": [
         ""
@@ -36,7 +36,7 @@
         "Proficiency"
       ],
       "Translation": [
-        "Proficiency"
+        "Fertigkeit"
       ],
       "Notes": [
         ""
@@ -44,7 +44,7 @@
     },
     {
       "ID": 3,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Expertise"
       ],
@@ -62,7 +62,7 @@
         "Enlightenment"
       ],
       "Translation": [
-        "Enlightenment"
+        "Erkenntnis"
       ],
       "Notes": [
         ""
@@ -369,7 +369,7 @@
     },
     {
       "ID": 28,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Expertise"
       ],
@@ -694,7 +694,7 @@
     },
     {
       "ID": 53,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Expertise"
       ],
@@ -1019,7 +1019,7 @@
     },
     {
       "ID": 78,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Expertise"
       ],
@@ -1344,7 +1344,7 @@
     },
     {
       "ID": 103,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Expertise"
       ],
@@ -1669,7 +1669,7 @@
     },
     {
       "ID": 128,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Expertise"
       ],
@@ -1994,7 +1994,7 @@
     },
     {
       "ID": 153,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Expertise"
       ],
@@ -2319,7 +2319,7 @@
     },
     {
       "ID": 178,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Expertise"
       ],
@@ -2644,7 +2644,7 @@
     },
     {
       "ID": 203,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Expertise"
       ],
@@ -2969,7 +2969,7 @@
     },
     {
       "ID": 228,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Expertise"
       ],
@@ -3580,7 +3580,7 @@
     },
     {
       "ID": 275,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3593,7 +3593,7 @@
     },
     {
       "ID": 276,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3606,7 +3606,7 @@
     },
     {
       "ID": 277,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3619,7 +3619,7 @@
     },
     {
       "ID": 278,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3632,7 +3632,7 @@
     },
     {
       "ID": 279,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3645,7 +3645,7 @@
     },
     {
       "ID": 280,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3658,7 +3658,7 @@
     },
     {
       "ID": 281,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3697,7 +3697,7 @@
     },
     {
       "ID": 284,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3710,7 +3710,7 @@
     },
     {
       "ID": 285,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3723,7 +3723,7 @@
     },
     {
       "ID": 286,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3736,7 +3736,7 @@
     },
     {
       "ID": 287,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3749,7 +3749,7 @@
     },
     {
       "ID": 288,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3762,7 +3762,7 @@
     },
     {
       "ID": 289,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3775,7 +3775,7 @@
     },
     {
       "ID": 290,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3788,7 +3788,7 @@
     },
     {
       "ID": 291,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3801,7 +3801,7 @@
     },
     {
       "ID": 292,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3814,7 +3814,7 @@
     },
     {
       "ID": 293,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3827,7 +3827,7 @@
     },
     {
       "ID": 294,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3840,7 +3840,7 @@
     },
     {
       "ID": 295,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3853,7 +3853,7 @@
     },
     {
       "ID": 296,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3866,7 +3866,7 @@
     },
     {
       "ID": 297,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3879,7 +3879,7 @@
     },
     {
       "ID": 298,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3892,7 +3892,7 @@
     },
     {
       "ID": 299,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3905,7 +3905,7 @@
     },
     {
       "ID": 300,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3918,7 +3918,7 @@
     },
     {
       "ID": 301,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3931,7 +3931,7 @@
     },
     {
       "ID": 302,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -3944,7 +3944,7 @@
     },
     {
       "ID": 303,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4048,7 +4048,7 @@
     },
     {
       "ID": 311,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4061,7 +4061,7 @@
     },
     {
       "ID": 312,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4074,7 +4074,7 @@
     },
     {
       "ID": 313,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4087,7 +4087,7 @@
     },
     {
       "ID": 314,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4100,7 +4100,7 @@
     },
     {
       "ID": 315,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4113,7 +4113,7 @@
     },
     {
       "ID": 316,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4126,7 +4126,7 @@
     },
     {
       "ID": 317,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4139,7 +4139,7 @@
     },
     {
       "ID": 318,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4152,7 +4152,7 @@
     },
     {
       "ID": 319,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4165,7 +4165,7 @@
     },
     {
       "ID": 320,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4178,7 +4178,7 @@
     },
     {
       "ID": 321,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4191,7 +4191,7 @@
     },
     {
       "ID": 322,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4204,7 +4204,7 @@
     },
     {
       "ID": 323,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4217,7 +4217,7 @@
     },
     {
       "ID": 324,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4230,7 +4230,7 @@
     },
     {
       "ID": 325,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4243,7 +4243,7 @@
     },
     {
       "ID": 326,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4256,7 +4256,7 @@
     },
     {
       "ID": 327,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4269,7 +4269,7 @@
     },
     {
       "ID": 328,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4282,7 +4282,7 @@
     },
     {
       "ID": 329,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4321,7 +4321,7 @@
     },
     {
       "ID": 332,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4373,7 +4373,7 @@
     },
     {
       "ID": 336,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4386,7 +4386,7 @@
     },
     {
       "ID": 337,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4503,7 +4503,7 @@
     },
     {
       "ID": 346,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4516,7 +4516,7 @@
     },
     {
       "ID": 347,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4529,7 +4529,7 @@
     },
     {
       "ID": 348,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4542,7 +4542,7 @@
     },
     {
       "ID": 349,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4555,7 +4555,7 @@
     },
     {
       "ID": 350,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4568,7 +4568,7 @@
     },
     {
       "ID": 351,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4581,7 +4581,7 @@
     },
     {
       "ID": 352,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4594,7 +4594,7 @@
     },
     {
       "ID": 353,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4737,7 +4737,7 @@
     },
     {
       "ID": 364,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4750,7 +4750,7 @@
     },
     {
       "ID": 365,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4763,7 +4763,7 @@
     },
     {
       "ID": 366,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],
@@ -4802,7 +4802,7 @@
     },
     {
       "ID": 369,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "NONE"
       ],

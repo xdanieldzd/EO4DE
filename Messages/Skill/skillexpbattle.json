@@ -5,7 +5,7 @@
   "Entries": [
     {
       "ID": 0,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         ""
       ],
@@ -4581,7 +4581,7 @@
     },
     {
       "ID": 274,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "テスト",
         ""
@@ -4596,7 +4596,7 @@
     },
     {
       "ID": 275,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "テスト",
         ""
@@ -4611,7 +4611,7 @@
     },
     {
       "ID": 276,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "テスト",
         ""
@@ -4626,7 +4626,7 @@
     },
     {
       "ID": 277,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "テスト",
         ""
@@ -4641,7 +4641,7 @@
     },
     {
       "ID": 278,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "テスト",
         ""
@@ -4656,7 +4656,7 @@
     },
     {
       "ID": 279,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "テスト",
         ""
@@ -4671,7 +4671,7 @@
     },
     {
       "ID": 280,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "テスト",
         ""
@@ -4686,7 +4686,7 @@
     },
     {
       "ID": 281,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "テスト",
         ""
@@ -4701,7 +4701,7 @@
     },
     {
       "ID": 282,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "テスト",
         ""
