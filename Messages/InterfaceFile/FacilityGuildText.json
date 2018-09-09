@@ -42,12 +42,12 @@
         ""
       ],
       "Translation": [
-        "Erlaubt einem Mitglied von [Guild]",
-        "zu gehen, zurück zu treten, oder zu ruhen.",
+        "Erlaubt einem Mitglied der Gilde, sie zu",
+        "verlassen, zu rasten oder in Rente zu gehen.",
         ""
       ],
       "Notes": [
-        "Text zu lang? Bessere Übersetzung?",
+        "Bessere Übersetzung?",
         ""
       ]
     },
@@ -65,7 +65,7 @@
         ""
       ],
       "Notes": [
-        "Text zu lang? Bessere Übersetzung?",
+        "Bessere Übersetzung?",
         ""
       ]
     },
@@ -109,7 +109,7 @@
       ],
       "Translation": [
         "Mit welchem Abenteurer wollt Ihr arbeiten?",
-        "([Variable1:0] registriert, [Variable1:1] Plätze frei)",
+        "([Variable1:0] eingeschrieben, [Variable1:1] Plätze frei)",
         ""
       ],
       "Notes": [
@@ -130,7 +130,7 @@
         ""
       ],
       "Notes": [
-        "Text zu lang? Bessere Übersetzung?",
+        "Bessere Übersetzung?",
         ""
       ]
     },
@@ -148,8 +148,7 @@
         ""
       ],
       "Notes": [
-        "Text zu lang? Bessere Übersetzung?",
-        ""
+        "Bessere Übersetzung?"
       ]
     },
     {
@@ -192,7 +191,7 @@
         ""
       ],
       "Translation": [
-        "[Variable1:0] ruhen lassen?",
+        "[Variable1:0] rasten lassen?",
         ""
       ],
       "Notes": [
@@ -209,11 +208,11 @@
       ],
       "Translation": [
         "Seit Ihr sicher, dass Ihr diesen",
-        "Abenteurer ruhen lassen wollt?",
+        "Abenteurer rasten lassen wollt?",
         ""
       ],
       "Notes": [
-        "Text zu lang? Bessere Übersetzung?",
+        "Bessere Übersetzung?",
         ""
       ]
     },
@@ -225,7 +224,7 @@
         ""
       ],
       "Translation": [
-        "[Variable1:0] zurücktreten lassen?",
+        "[Variable1:0] in Rente schicken?",
         ""
       ],
       "Notes": [
@@ -243,7 +242,7 @@
       ],
       "Translation": [
         "Seit Ihr sicher, dass Ihr diesen Abenteurer",
-        "zurücktreten lassen wollt?",
+        "in Rente schicken wollt?",
         ""
       ],
       "Notes": [
@@ -276,7 +275,7 @@
         ""
       ],
       "Translation": [
-        "[Variable1:0] gehen lassen?",
+        "[Variable1:0] entlassen?",
         ""
       ],
       "Notes": [
@@ -294,11 +293,11 @@
       ],
       "Translation": [
         "Seit Ihr sicher, dass Ihr diesen Abenteurer",
-        "gehen lassen wollt?",
+        "entlassen wollt?",
         ""
       ],
       "Notes": [
-        "Bessere Übersetzung?",
+        "Text zu lang? Bessere Übersetzung?",
         ""
       ]
     },
@@ -360,8 +359,8 @@
         ""
       ],
       "Translation": [
-        "Nach [Variable1:0]'s Rücktritt springt",
-        "ein Lehrling ein.",
+        "Nachdem [Variable1:0] in Rente ging,",
+        "sprang ein Lehrling ein.",
         ""
       ],
       "Notes": [
@@ -378,7 +377,7 @@
         ""
       ],
       "Translation": [
-        "[Variable1:0] ruht.",
+        "[Variable1:0] rastete.",
         ""
       ],
       "Notes": [
@@ -395,7 +394,7 @@
         ""
       ],
       "Translation": [
-        "[Variable1:0] ist gegangen.",
+        "[Variable1:0] wurde entlassen.",
         ""
       ],
       "Notes": [
@@ -442,7 +441,7 @@
         ""
       ],
       "Translation": [
-        "Niemand ist in [Guild] registriert!",
+        "Niemand ist in [Guild] eingeschrieben!",
         ""
       ],
       "Notes": [
@@ -496,8 +495,8 @@
       ],
       "Translation": [
         "Verstorbene oder versteinerte",
-        "Abenteurer können nicht zurücktreten",
-        "oder gehen!",
+        "Abenteurer können nicht in Rente gehen",
+        "oder entlassen werden!",
         ""
       ],
       "Notes": [
@@ -562,7 +561,7 @@
       ],
       "Translation": [
         "Die aktuelle Gruppe als",
-        "Favorit registrieren.",
+        "Favorit eintragen.",
         ""
       ],
       "Notes": [
@@ -668,7 +667,7 @@
       ],
       "Translation": [
         "Keine wählbare Gruppe vorhanden!",
-        "Bitte prüft die registrierten Gruppen.",
+        "Bitte prüft die eingeschriebenen Gruppen.",
         ""
       ],
       "Notes": [
