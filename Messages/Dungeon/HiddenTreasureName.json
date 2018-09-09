@@ -1,0 +1,1073 @@
+{
+  "FileType": "StringTable",
+  "Description": "Treasure map names",
+  "RelativePath": "Dungeon\\HiddenTreasureName.tbl",
+  "Entries": [
+    {
+      "ID": 0,
+      "IsIgnored": true,
+      "Original": [
+        "NONE"
+      ],
+      "Translation": [
+        "NONE"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 1,
+      "IsIgnored": false,
+      "Original": [
+        "Sharp Lands"
+      ],
+      "Translation": [
+        "Sharp Lands"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 2,
+      "IsIgnored": false,
+      "Original": [
+        "Ravine Gate"
+      ],
+      "Translation": [
+        "Tor d. Schlucht"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 3,
+      "IsIgnored": false,
+      "Original": [
+        "Hill Horn"
+      ],
+      "Translation": [
+        "Hill Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 4,
+      "IsIgnored": false,
+      "Original": [
+        "Deep Woods"
+      ],
+      "Translation": [
+        "Tiefer Wald"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 5,
+      "IsIgnored": false,
+      "Original": [
+        "The Pit"
+      ],
+      "Translation": [
+        "Die Grube"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 6,
+      "IsIgnored": false,
+      "Original": [
+        "Windy Cape"
+      ],
+      "Translation": [
+        "Windkap"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 7,
+      "IsIgnored": false,
+      "Original": [
+        "High Cliff"
+      ],
+      "Translation": [
+        "High Cliff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 8,
+      "IsIgnored": false,
+      "Original": [
+        "River Shore"
+      ],
+      "Translation": [
+        "Flussufer"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 9,
+      "IsIgnored": false,
+      "Original": [
+        "Distant Hill"
+      ],
+      "Translation": [
+        "Distant Hill"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 10,
+      "IsIgnored": false,
+      "Original": [
+        "Solitary Isle"
+      ],
+      "Translation": [
+        "Einsame Insel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 11,
+      "IsIgnored": false,
+      "Original": [
+        "Near Falls"
+      ],
+      "Translation": [
+        "Near Falls"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 12,
+      "IsIgnored": false,
+      "Original": [
+        "Plains"
+      ],
+      "Translation": [
+        "Ebenen"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 13,
+      "IsIgnored": false,
+      "Original": [
+        "Deep Forest"
+      ],
+      "Translation": [
+        "Tiefer Forst"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 14,
+      "IsIgnored": false,
+      "Original": [
+        "Windy Edge"
+      ],
+      "Translation": [
+        "Windy Edge"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 15,
+      "IsIgnored": false,
+      "Original": [
+        "Plateau I"
+      ],
+      "Translation": [
+        "Hochebene I"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 16,
+      "IsIgnored": false,
+      "Original": [
+        "Plateau II"
+      ],
+      "Translation": [
+        "Hochebene II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 17,
+      "IsIgnored": false,
+      "Original": [
+        "Falls Depths"
+      ],
+      "Translation": [
+        "Falls Depths"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 18,
+      "IsIgnored": false,
+      "Original": [
+        "High Plain I"
+      ],
+      "Translation": [
+        "High Plain I"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 19,
+      "IsIgnored": false,
+      "Original": [
+        "Green Plains"
+      ],
+      "Translation": [
+        "Green Plains"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 20,
+      "IsIgnored": false,
+      "Original": [
+        "High Plain II"
+      ],
+      "Translation": [
+        "High Plain II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 21,
+      "IsIgnored": false,
+      "Original": [
+        "Forest Wall"
+      ],
+      "Translation": [
+        "Waldwand"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 22,
+      "IsIgnored": false,
+      "Original": [
+        "Clifftop"
+      ],
+      "Translation": [
+        "Clifftop"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 23,
+      "IsIgnored": false,
+      "Original": [
+        "Lake Cape"
+      ],
+      "Translation": [
+        "Lake Cape"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 24,
+      "IsIgnored": false,
+      "Original": [
+        "Garden Knoll"
+      ],
+      "Translation": [
+        "Gartenhügel"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 25,
+      "IsIgnored": false,
+      "Original": [
+        "Wall Surface"
+      ],
+      "Translation": [
+        "Wall Surface"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 26,
+      "IsIgnored": false,
+      "Original": [
+        "Plum Grove I"
+      ],
+      "Translation": [
+        "Plum Grove I"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 27,
+      "IsIgnored": false,
+      "Original": [
+        "Far Cliff"
+      ],
+      "Translation": [
+        "Far Cliff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 28,
+      "IsIgnored": false,
+      "Original": [
+        "Lakeside"
+      ],
+      "Translation": [
+        "Am See"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 29,
+      "IsIgnored": false,
+      "Original": [
+        "Center Step"
+      ],
+      "Translation": [
+        "Center Step"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 30,
+      "IsIgnored": false,
+      "Original": [
+        "Lakeview"
+      ],
+      "Translation": [
+        "Seeblick"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 31,
+      "IsIgnored": false,
+      "Original": [
+        "Plum Grove II"
+      ],
+      "Translation": [
+        "Plum Grove II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 32,
+      "IsIgnored": false,
+      "Original": [
+        "Cliff Edge"
+      ],
+      "Translation": [
+        "Cliff Edge"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 33,
+      "IsIgnored": false,
+      "Original": [
+        "Far Cliff II"
+      ],
+      "Translation": [
+        "Far Cliff II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 34,
+      "IsIgnored": false,
+      "Original": [
+        "Cliff Ring"
+      ],
+      "Translation": [
+        "Cliff Ring"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 35,
+      "IsIgnored": false,
+      "Original": [
+        "Central Plain"
+      ],
+      "Translation": [
+        "Central Plain"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 36,
+      "IsIgnored": false,
+      "Original": [
+        "Nearby River"
+      ],
+      "Translation": [
+        "Nearby River"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 37,
+      "IsIgnored": false,
+      "Original": [
+        "Highland I"
+      ],
+      "Translation": [
+        "Hochland I"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 38,
+      "IsIgnored": false,
+      "Original": [
+        "Cliff Tree I"
+      ],
+      "Translation": [
+        "Cliff Tree I"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 39,
+      "IsIgnored": false,
+      "Original": [
+        "Cliff Tree II"
+      ],
+      "Translation": [
+        "Cliff Tree II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 40,
+      "IsIgnored": false,
+      "Original": [
+        "Near Wall"
+      ],
+      "Translation": [
+        "Near Wall"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 41,
+      "IsIgnored": false,
+      "Original": [
+        "Highland II"
+      ],
+      "Translation": [
+        "Hochland II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 42,
+      "IsIgnored": false,
+      "Original": [
+        "Feeding Area"
+      ],
+      "Translation": [
+        "Feeding Area"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 43,
+      "IsIgnored": false,
+      "Original": [
+        "Domain"
+      ],
+      "Translation": [
+        "Domain"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 44,
+      "IsIgnored": false,
+      "Original": [
+        "Under Cliff"
+      ],
+      "Translation": [
+        "Under Cliff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 45,
+      "IsIgnored": false,
+      "Original": [
+        "Storm"
+      ],
+      "Translation": [
+        "Storm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 46,
+      "IsIgnored": false,
+      "Original": [
+        "Under Storm"
+      ],
+      "Translation": [
+        "Under Storm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 47,
+      "IsIgnored": false,
+      "Original": [
+        "Mountain"
+      ],
+      "Translation": [
+        "Mountain"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 48,
+      "IsIgnored": false,
+      "Original": [
+        "Gorge Bottom"
+      ],
+      "Translation": [
+        "Gorge Bottom"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 49,
+      "IsIgnored": false,
+      "Original": [
+        "Deep Waters"
+      ],
+      "Translation": [
+        "Deep Waters"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 50,
+      "IsIgnored": false,
+      "Original": [
+        "Snow Forest"
+      ],
+      "Translation": [
+        "Schneewald"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 51,
+      "IsIgnored": false,
+      "Original": [
+        "Between Cliffs"
+      ],
+      "Translation": [
+        "Zwischen Klippen"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 52,
+      "IsIgnored": false,
+      "Original": [
+        "Ice Ridge I"
+      ],
+      "Translation": [
+        "Eiskamm I"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 53,
+      "IsIgnored": false,
+      "Original": [
+        "Ice Ridge II"
+      ],
+      "Translation": [
+        "Eiskamm II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 54,
+      "IsIgnored": false,
+      "Original": [
+        "Frozen End"
+      ],
+      "Translation": [
+        "Frozen End"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 55,
+      "IsIgnored": false,
+      "Original": [
+        "High Wall"
+      ],
+      "Translation": [
+        "High Wall"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 56,
+      "IsIgnored": false,
+      "Original": [
+        "Snowy Peak I"
+      ],
+      "Translation": [
+        "Schneegipfel I"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 57,
+      "IsIgnored": false,
+      "Original": [
+        "High Snow"
+      ],
+      "Translation": [
+        "High Snow"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 58,
+      "IsIgnored": false,
+      "Original": [
+        "Snowy Peak II"
+      ],
+      "Translation": [
+        "Schneegipfel II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 59,
+      "IsIgnored": false,
+      "Original": [
+        "Icy Cliff"
+      ],
+      "Translation": [
+        "Icy Cliff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 60,
+      "IsIgnored": false,
+      "Original": [
+        "Small Pond"
+      ],
+      "Translation": [
+        "Small Pond"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 61,
+      "IsIgnored": false,
+      "Original": [
+        "Near Cliff"
+      ],
+      "Translation": [
+        "Near Cliff"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 62,
+      "IsIgnored": false,
+      "Original": [
+        "Palace Climb"
+      ],
+      "Translation": [
+        "Palace Climb"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 63,
+      "IsIgnored": false,
+      "Original": [
+        "Precipice"
+      ],
+      "Translation": [
+        "Precipice"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 64,
+      "IsIgnored": false,
+      "Original": [
+        "Stone Road"
+      ],
+      "Translation": [
+        "Stone Road"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 65,
+      "IsIgnored": false,
+      "Original": [
+        "Near Forest"
+      ],
+      "Translation": [
+        "Near Forest"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 66,
+      "IsIgnored": false,
+      "Original": [
+        "Bridge Top I"
+      ],
+      "Translation": [
+        "Auf d. Brücke I"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 67,
+      "IsIgnored": false,
+      "Original": [
+        "Glowing Pillar"
+      ],
+      "Translation": [
+        "Glowing Pillar"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 68,
+      "IsIgnored": false,
+      "Original": [
+        "Bridge Top II"
+      ],
+      "Translation": [
+        "Auf d. Brücke II"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 69,
+      "IsIgnored": false,
+      "Original": [
+        "Storm Center"
+      ],
+      "Translation": [
+        "Storm Center"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 70,
+      "IsIgnored": false,
+      "Original": [
+        "Path Center"
+      ],
+      "Translation": [
+        "Path Center"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 71,
+      "IsIgnored": false,
+      "Original": [
+        "Near Storm"
+      ],
+      "Translation": [
+        "Near Storm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 72,
+      "IsIgnored": false,
+      "Original": [
+        "Forest Storm"
+      ],
+      "Translation": [
+        "Waldsturm"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 73,
+      "IsIgnored": false,
+      "Original": [
+        "Water Surface"
+      ],
+      "Translation": [
+        "Wasseroberfl."
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 74,
+      "IsIgnored": false,
+      "Original": [
+        "Low Horn"
+      ],
+      "Translation": [
+        "Low Horn"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 75,
+      "IsIgnored": false,
+      "Original": [
+        "Forest End"
+      ],
+      "Translation": [
+        "Forest End"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 76,
+      "IsIgnored": false,
+      "Original": [
+        "Forest"
+      ],
+      "Translation": [
+        "Forest"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 77,
+      "IsIgnored": false,
+      "Original": [
+        "Great Tree"
+      ],
+      "Translation": [
+        "Great Tree"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 78,
+      "IsIgnored": false,
+      "Original": [
+        "Lake Environs"
+      ],
+      "Translation": [
+        "Lake Environs"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 79,
+      "IsIgnored": false,
+      "Original": [
+        "Lake Shore"
+      ],
+      "Translation": [
+        "Lake Shore"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 80,
+      "IsIgnored": false,
+      "Original": [
+        "Low Road"
+      ],
+      "Translation": [
+        "Low Road"
+      ],
+      "Notes": [
+        ""
+      ]
+    },
+    {
+      "ID": 81,
+      "IsIgnored": false,
+      "Original": [
+        "Ending Wall"
+      ],
+      "Translation": [
+        "Ending Wall"
+      ],
+      "Notes": [
+        ""
+      ]
+    }
+  ]
+}
