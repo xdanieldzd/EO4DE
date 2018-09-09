@@ -1,7 +1,5 @@
 {
   "RelativePath": "Mori4stex\\Event\\AreaStart\\ig_ev_Area_name01.stex",
-  "Width": 256,
-  "Height": 256,
   "DataType": "UnsignedByte",
   "PixelFormat": "ETC1AlphaRGB8A4NativeDMP"
 }

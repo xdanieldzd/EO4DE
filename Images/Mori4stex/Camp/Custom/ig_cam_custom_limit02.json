@@ -1,7 +1,5 @@
 {
   "RelativePath": "Mori4stex\\Camp\\Custom\\ig_cam_custom_limit02.stex",
-  "Width": 256,
-  "Height": 256,
   "DataType": "UnsignedByte",
   "PixelFormat": "ETC1AlphaRGB8A4NativeDMP"
 }

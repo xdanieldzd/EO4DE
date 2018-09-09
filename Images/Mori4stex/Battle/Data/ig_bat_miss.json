@@ -1,7 +1,5 @@
 {
   "RelativePath": "Mori4stex\\Battle\\Data\\ig_bat_miss.stex",
-  "Width": 128,
-  "Height": 32,
   "DataType": "UnsignedByte",
   "PixelFormat": "ETC1AlphaRGB8A4NativeDMP"
 }

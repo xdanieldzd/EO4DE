@@ -1,7 +1,5 @@
 {
   "RelativePath": "Mori4stex\\MapDungeon\\MapDungeonBG\\Map_SUBDfullBgp01.stex",
-  "Width": 256,
-  "Height": 32,
   "DataType": "UnsignedByte",
   "PixelFormat": "ETC1RGB8NativeDMP"
 }

@@ -1,7 +1,5 @@
 {
   "RelativePath": "Mori4stex\\Keyboard\\Obj_parts02\\ig_key_shift01.stex",
-  "Width": 64,
-  "Height": 32,
   "DataType": "UnsignedByte",
   "PixelFormat": "ETC1AlphaRGB8A4NativeDMP"
 }

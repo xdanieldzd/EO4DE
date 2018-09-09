@@ -1,7 +1,5 @@
 {
   "RelativePath": "Mori4stex\\Common\\Window\\ig_co_detail02.stex",
-  "Width": 256,
-  "Height": 128,
   "DataType": "UnsignedByte",
   "PixelFormat": "ETC1AlphaRGB8A4NativeDMP"
 }
