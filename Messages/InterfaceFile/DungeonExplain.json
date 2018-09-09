@@ -25,8 +25,8 @@
         ""
       ],
       "Translation": [
-        "A natural labyrinth in the Windy",
-        "Plains, home to dangerous beasts.",
+        "Ein natürliches Labyrinth auf den",
+        "Ebenen, Heimat gefährlicher Biester.",
         ""
       ],
       "Notes": [
@@ -42,8 +42,8 @@
         ""
       ],
       "Translation": [
-        "The thick mist and unvarying",
-        "scenery disorient many explorers.",
+        "Dichte Nebel und öde Landschaft",
+        "können Reisende verwirren.",
         ""
       ],
       "Notes": [
@@ -59,8 +59,8 @@
         ""
       ],
       "Translation": [
-        "Heated streams flow through",
-        "this humid grotto.",
+        "Diese feuchte Grotte ist von heißen",
+        "Strömen durchzogen.",
         ""
       ],
       "Notes": [
@@ -76,8 +76,8 @@
         ""
       ],
       "Translation": [
-        "A library left by the creators",
-        "of Yggdrasil, with odd statuary.",
+        "Eine Bibliothek der Schöpfer von",
+        "Yggdrasil, voller seltsamer Statuen.",
         ""
       ],
       "Notes": [
@@ -93,8 +93,8 @@
         ""
       ],
       "Translation": [
-        "A mysterious research facility.",
-        "Yggdrasil's power may sleep here.",
+        "Eine mysteriöse Forschungsanlage.",
+        "Die Ruhestätte von Yggdrasil's Kraft?",
         ""
       ],
       "Notes": [
@@ -110,12 +110,12 @@
         ""
       ],
       "Translation": [
-        "A large, gloomy library, located",
-        "away from Yggdrasil.",
+        "Eine große, bedrückende Bibliothek,",
+        "weit weg von Yggdrasil.",
         ""
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -569,8 +569,8 @@
         ""
       ],
       "Translation": [
-        "An old mine, long deserted,",
-        "in the forest west of Tharsis.",
+        "Eine alte, lang verlassene Mine,",
+        "im Wald westlich von Tharsis.",
         ""
       ],
       "Notes": [
@@ -586,8 +586,8 @@
         ""
       ],
       "Translation": [
-        "A small forest abundant with",
-        "fruits, herbs, and wild animals.",
+        "Ein kleines Waldstück voller Früchte,",
+        "Kräuter und wilder Tiere.",
         ""
       ],
       "Notes": [
@@ -603,12 +603,12 @@
         ""
       ],
       "Translation": [
-        "A clear spring in a valley where",
-        "Bounding Beasts make their home.",
+        "Eine klare Quelle in einem Tal, welches",
+        "von Bounding Beasts bewohnt wird.",
         ""
       ],
       "Notes": [
-        ""
+        "Übersetzung für \"Bounding Beasts\"-Monster!"
       ]
     },
     {
@@ -620,17 +620,17 @@
         ""
       ],
       "Translation": [
-        "A forest for stray Bloodbears.",
-        "The bushes make passage hard.",
+        "Ein von wilden Bloodbears bewohnter",
+        "Wald, voller wuchernde Büsche.",
         ""
       ],
       "Notes": [
-        ""
+        "Übersetzung für \"Bloodbear\"-Monster!"
       ]
     },
     {
       "ID": 45,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Description on small dungeon45",
         ""
@@ -717,8 +717,8 @@
         ""
       ],
       "Translation": [
-        "Home to dangerous giant moths,",
-        "as well as rare plant monsters.",
+        "Die Heimat riesiger und gefährlicher",
+        "Falter, sowie seltener Pflanzenwesen.",
         ""
       ],
       "Notes": [
@@ -734,12 +734,12 @@
         ""
       ],
       "Translation": [
-        "The sulfurous reek here warns",
-        "against staying inside for long.",
+        "Ein schwefelhaltiger Geruch liegt in der",
+        "Luft. Man sollte nicht lange verweilen.",
         ""
       ],
       "Notes": [
-        ""
+        "Übersetzung? Overflow?"
       ]
     },
     {
@@ -751,17 +751,17 @@
         ""
       ],
       "Translation": [
-        "Frogs croak year round. Footing",
-        "here is bad; tread carefully.",
+        "Ständiges Quaken und unebener",
+        "Boden. Lasst hier Vorsicht walten.",
         ""
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
       "ID": 54,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Description on small dungeon24",
         ""
@@ -776,7 +776,7 @@
     },
     {
       "ID": 55,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Description on small dungeon25",
         ""
@@ -863,8 +863,8 @@
         ""
       ],
       "Translation": [
-        "Purple-winged bats flit to and",
-        "fro through this small cavern.",
+        "Fledermäuse mit violetten Flügeln",
+        "ziehen in dieser Höhle ihre Runden.",
         ""
       ],
       "Notes": [
@@ -880,8 +880,8 @@
         ""
       ],
       "Translation": [
-        "A poisonous lizard's breath",
-        "has befouled the very air here.",
+        "Der Atem einer toxischen Echse hat",
+        "die Atmosphäre vergiftet.",
         ""
       ],
       "Notes": [
@@ -897,8 +897,8 @@
         ""
       ],
       "Translation": [
-        "The frozen lake and its ice",
-        "pillars have formed a labyrinth.",
+        "Dieser zugefrorene See und seine Eis-",
+        "säulen bilden ein Labyrinth.",
         ""
       ],
       "Notes": [
@@ -907,7 +907,7 @@
     },
     {
       "ID": 64,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Description on small dungeon34",
         ""
@@ -922,7 +922,7 @@
     },
     {
       "ID": 65,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Description on small dungeon35",
         ""
@@ -1009,8 +1009,8 @@
         ""
       ],
       "Translation": [
-        "The book-filled rendezvous point",
-        "specified by the Empire.",
+        "Der vom Imperium genannt Treff-",
+        "punkt, angefüllt mit Büchern.",
         ""
       ],
       "Notes": [
@@ -1026,8 +1026,8 @@
         ""
       ],
       "Translation": [
-        "The gusts of wind from the north",
-        "blow away any who are unprepared.",
+        "Wer unvorbereitet ist, wird von den",
+        "Windböen aus dem Norden verweht.",
         ""
       ],
       "Notes": [
@@ -1043,12 +1043,12 @@
         ""
       ],
       "Translation": [
-        "A golden deer roaming its halls",
-        "acts as this library's guardian.",
+        "Ein goldener Hirsch ist der Bewacher",
+        "dieser alten Bibliothek.",
         ""
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -1144,7 +1144,7 @@
     },
     {
       "ID": 81,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Description on small dungeon51",
         ""
@@ -1159,7 +1159,7 @@
     },
     {
       "ID": 82,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Description on small dungeon52",
         ""
