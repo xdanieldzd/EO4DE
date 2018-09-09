@@ -375,8 +375,8 @@
         ""
       ],
       "Translation": [
-        "Spiel laden? (Bestehende Fort-",
-        "setzungsdaten werden gelöscht.)",
+        "Spiel laden? (Bestehende Fortsetzungsdaten",
+        "werden gelöscht.)",
         ""
       ],
       "Notes": [
@@ -397,7 +397,7 @@
         ""
       ],
       "Notes": [
-        ""
+        "Wird verwendet? Neues Spiel bei vorhandenem Fortsetzungspunkt gibt #025 aus..."
       ]
     },
     {
@@ -409,7 +409,7 @@
         ""
       ],
       "Translation": [
-        "[Color:5]Neues Spiel[Color:0] starten? (Bestehende",
+        "Ein [Color:5]neues Spiel[Color:0] starten? (Bestehende",
         "Fortsetzungsdaten werden gelöscht.)",
         ""
       ],
