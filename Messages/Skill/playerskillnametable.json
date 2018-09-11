@@ -361,7 +361,7 @@
         "Proficiency"
       ],
       "Translation": [
-        "Proficiency"
+        "Fertigkeit"
       ],
       "Notes": [
         ""
@@ -387,7 +387,7 @@
         "Enlightenment"
       ],
       "Translation": [
-        "Enlightenment"
+        "Erkenntnis"
       ],
       "Notes": [
         ""
@@ -686,7 +686,7 @@
         "Proficiency"
       ],
       "Translation": [
-        "Proficiency"
+        "Fertigkeit"
       ],
       "Notes": [
         ""
@@ -712,7 +712,7 @@
         "Enlightenment"
       ],
       "Translation": [
-        "Enlightenment"
+        "Erkenntnis"
       ],
       "Notes": [
         ""
@@ -1011,7 +1011,7 @@
         "Proficiency"
       ],
       "Translation": [
-        "Proficiency"
+        "Fertigkeit"
       ],
       "Notes": [
         ""
@@ -1037,7 +1037,7 @@
         "Enlightenment"
       ],
       "Translation": [
-        "Enlightenment"
+        "Erkenntnis"
       ],
       "Notes": [
         ""
@@ -1336,7 +1336,7 @@
         "Proficiency"
       ],
       "Translation": [
-        "Proficiency"
+        "Fertigkeit"
       ],
       "Notes": [
         ""
@@ -1362,7 +1362,7 @@
         "Enlightenment"
       ],
       "Translation": [
-        "Enlightenment"
+        "Erkenntnis"
       ],
       "Notes": [
         ""
@@ -1661,7 +1661,7 @@
         "Proficiency"
       ],
       "Translation": [
-        "Proficiency"
+        "Fertigkeit"
       ],
       "Notes": [
         ""
@@ -1687,7 +1687,7 @@
         "Enlightenment"
       ],
       "Translation": [
-        "Enlightenment"
+        "Erkenntnis"
       ],
       "Notes": [
         ""
@@ -1986,7 +1986,7 @@
         "Proficiency"
       ],
       "Translation": [
-        "Proficiency"
+        "Fertigkeit"
       ],
       "Notes": [
         ""
@@ -2012,7 +2012,7 @@
         "Enlightenment"
       ],
       "Translation": [
-        "Enlightenment"
+        "Erkenntnis"
       ],
       "Notes": [
         ""
@@ -2311,7 +2311,7 @@
         "Proficiency"
       ],
       "Translation": [
-        "Proficiency"
+        "Fertigkeit"
       ],
       "Notes": [
         ""
@@ -2337,7 +2337,7 @@
         "Enlightenment"
       ],
       "Translation": [
-        "Enlightenment"
+        "Erkenntnis"
       ],
       "Notes": [
         ""
@@ -2636,7 +2636,7 @@
         "Proficiency"
       ],
       "Translation": [
-        "Proficiency"
+        "Fertigkeit"
       ],
       "Notes": [
         ""
@@ -2662,7 +2662,7 @@
         "Enlightenment"
       ],
       "Translation": [
-        "Enlightenment"
+        "Erkenntnis"
       ],
       "Notes": [
         ""
@@ -2961,7 +2961,7 @@
         "Proficiency"
       ],
       "Translation": [
-        "Proficiency"
+        "Fertigkeit"
       ],
       "Notes": [
         ""
@@ -2987,7 +2987,7 @@
         "Enlightenment"
       ],
       "Translation": [
-        "Enlightenment"
+        "Erkenntnis"
       ],
       "Notes": [
         ""
@@ -3286,7 +3286,7 @@
         "Full Retreat"
       ],
       "Translation": [
-        "Full Retreat"
+        "Voller Rückzug"
       ],
       "Notes": [
         ""
@@ -3299,7 +3299,7 @@
         "Calm Breath"
       ],
       "Translation": [
-        "Calm Breath"
+        "Ruhiger Atem"
       ],
       "Notes": [
         ""
@@ -3312,7 +3312,7 @@
         "Analyze"
       ],
       "Translation": [
-        "Analyze"
+        "Analysieren"
       ],
       "Notes": [
         ""
@@ -3325,7 +3325,7 @@
         "Double Slash"
       ],
       "Translation": [
-        "Double Slash"
+        "Doppelschnitt"
       ],
       "Notes": [
         ""
@@ -3338,7 +3338,7 @@
         "Flame Wall"
       ],
       "Translation": [
-        "Flame Wall"
+        "Feuerwand"
       ],
       "Notes": [
         ""
@@ -3351,7 +3351,7 @@
         "Holy Gift"
       ],
       "Translation": [
-        "Holy Gift"
+        "Geweihte Gabe"
       ],
       "Notes": [
         ""
@@ -3364,7 +3364,7 @@
         "Superspeed"
       ],
       "Translation": [
-        "Superspeed"
+        "Schnelligkeit"
       ],
       "Notes": [
         ""
@@ -3377,7 +3377,7 @@
         "Black Mist"
       ],
       "Translation": [
-        "Black Mist"
+        "Schwarzer Dunst"
       ],
       "Notes": [
         ""
@@ -3390,10 +3390,10 @@
         "Charge Order"
       ],
       "Translation": [
-        "Charge Order"
+        "Sturmbefehl"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -3403,10 +3403,10 @@
         "Guard Order"
       ],
       "Translation": [
-        "Guard Order"
+        "Schutzbefehl"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -3416,7 +3416,7 @@
         "Ice Coffin"
       ],
       "Translation": [
-        "Ice Coffin"
+        "Eiskalter Sarg"
       ],
       "Notes": [
         ""
@@ -3429,7 +3429,7 @@
         "Aegis Guard"
       ],
       "Translation": [
-        "Aegis Guard"
+        "Aigis' Wacht"
       ],
       "Notes": [
         ""
@@ -3442,7 +3442,7 @@
         "Aegis Ward"
       ],
       "Translation": [
-        "Aegis Ward"
+        "Aigis' Wehr"
       ],
       "Notes": [
         ""
@@ -3455,7 +3455,7 @@
         "Falling Stars"
       ],
       "Translation": [
-        "Falling Stars"
+        "Sternschnuppen"
       ],
       "Notes": [
         ""
@@ -3468,7 +3468,7 @@
         "Triumph Song"
       ],
       "Translation": [
-        "Triumph Song"
+        "Triumphlied"
       ],
       "Notes": [
         ""
@@ -3481,10 +3481,10 @@
         "Swipe Slash"
       ],
       "Translation": [
-        "Swipe Slash"
+        "Todesschnitt"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -3494,7 +3494,7 @@
         "Spectral Cage"
       ],
       "Translation": [
-        "Spectral Cage"
+        "Spektralkäfig"
       ],
       "Notes": [
         ""
@@ -3507,7 +3507,7 @@
         "Aegis Shield"
       ],
       "Translation": [
-        "Aegis Shield"
+        "Aigis' Schild"
       ],
       "Notes": [
         ""
@@ -3520,7 +3520,7 @@
         "Zeus' Wrath"
       ],
       "Translation": [
-        "Zeus' Wrath"
+        "Zeus' Zorn"
       ],
       "Notes": [
         ""
@@ -3533,15 +3533,15 @@
         "Geo Impact"
       ],
       "Translation": [
-        "Geo Impact"
+        "Geo-Einschlag"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
       "ID": 272,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Supernova"
       ],
@@ -3559,7 +3559,7 @@
         "Hygieia's Bowl"
       ],
       "Translation": [
-        "Hygieia's Bowl"
+        "Schale d. Hygieia"
       ],
       "Notes": [
         ""
@@ -3572,10 +3572,10 @@
         "Acupuncture Pin"
       ],
       "Translation": [
-        "Acupuncture Pin"
+        "Akupunkturnadel"
       ],
       "Notes": [
-        ""
+        "Wird verwendet...?"
       ]
     },
     {

@@ -3238,7 +3238,7 @@
     },
     {
       "ID": 239,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "イグニッション",
         "【解放】オーバーヒート無効",

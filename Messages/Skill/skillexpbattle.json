@@ -4216,8 +4216,9 @@
         ""
       ],
       "Translation": [
-        "High chance of escaping from battle",
-        "to your entrance to this floor.",
+        "Hohe Warscheinlichkeit aus dem Kampf,",
+        "und zum Eingang des Stockwerks zu",
+        "flüchten.",
         ""
       ],
       "Notes": [
@@ -4232,7 +4233,7 @@
         ""
       ],
       "Translation": [
-        "Recover some of your HP.",
+        "Wiederherstellung einiger KP.",
         ""
       ],
       "Notes": [
@@ -4248,8 +4249,8 @@
         ""
       ],
       "Translation": [
-        "Get 1 enemy's full information to be",
-        "recorded in the Monstrous Codex.",
+        "Fügt dem Monster-Kodex alle Informationen",
+        "über einen Gegner hinzu.",
         ""
       ],
       "Notes": [
@@ -4265,8 +4266,8 @@
         ""
       ],
       "Translation": [
-        "Perform two powerful ranged cut",
-        "attacks to 1 enemy.",
+        "Führt zwei kraftvolle, Fernkampf-",
+        "Schnittangriffe auf einen Gegner aus.",
         ""
       ],
       "Notes": [
@@ -4282,8 +4283,8 @@
         ""
       ],
       "Translation": [
-        "Powerful ranged fire attack to an",
-        "entire line of enemies.",
+        "Kraftvoller Fernkampf-Feuerangriff auf",
+        "eine gegnerische Reihe.",
         ""
       ],
       "Notes": [
@@ -4299,8 +4300,9 @@
         ""
       ],
       "Translation": [
-        "Increases EXP gained for the battle.",
-        "Can only be used once per battle.",
+        "Erhöht im Kampf erhaltene Erfahrungspunkte.",
+        "Kann nur einmal pro Kampf angewendet",
+        "werden.",
         ""
       ],
       "Notes": [
@@ -4316,8 +4318,8 @@
         ""
       ],
       "Translation": [
-        "Greatly increases all allies' action",
-        "speed for this turn.",
+        "Erhöht Geschwindigkeit alle Verbündeten",
+        "für diesen Zug erheblich.",
         ""
       ],
       "Notes": [
@@ -4333,8 +4335,9 @@
         ""
       ],
       "Translation": [
-        "Ailments and binds on all enemies",
-        "last longer. Cannot be amplified.",
+        "Statusleiden und Fesseln bei Gegnern",
+        "halten länger an. Kann nicht weiter",
+        "verstärkt werden.",
         ""
       ],
       "Notes": [
@@ -4350,8 +4353,8 @@
         ""
       ],
       "Translation": [
-        "Increases the damage dealt by the",
-        "entire party for this turn.",
+        "Erhöht Schaden, den die Gruppe in",
+        "diesem Zug dem Gegner zufügt.",
         ""
       ],
       "Notes": [
@@ -4367,8 +4370,8 @@
         ""
       ],
       "Translation": [
-        "Decreases the damage taken by the",
-        "entire party for this turn.",
+        "Senkt Schaden, den die Gruppe in",
+        "diesem Zug erhält.",
         ""
       ],
       "Notes": [
@@ -4384,8 +4387,8 @@
         ""
       ],
       "Translation": [
-        "Powerful ranged ice attack to",
-        "1 enemy.",
+        "Kraftvoller Fernkampf-Eisangriff auf",
+        "einen Gegner.",
         ""
       ],
       "Notes": [
@@ -4401,8 +4404,8 @@
         ""
       ],
       "Translation": [
-        "Nullifies all physical damage to",
-        "the party for this turn.",
+        "Hebt gesamten, der Gruppe in diesem Zug",
+        "zugefügten, physischen Schaden auf.",
         ""
       ],
       "Notes": [
@@ -4418,8 +4421,8 @@
         ""
       ],
       "Translation": [
-        "Nullifies all elemental damage to",
-        "the party for this turn.",
+        "Hebt gesamten, der Gruppe in diesem Zug",
+        "zugefügten, elementaren Schaden auf.",
         ""
       ],
       "Notes": [
@@ -4435,8 +4438,7 @@
         ""
       ],
       "Translation": [
-        "Powerful bash attack to random",
-        "enemies.",
+        "Kraftvoller Hieb gegen zufälligen Gegner.",
         ""
       ],
       "Notes": [
@@ -4452,8 +4454,8 @@
         ""
       ],
       "Translation": [
-        "Increases the party's damage as well",
-        "as their defense for this turn.",
+        "Erhöht Schaden und Verteidigung der",
+        "Gruppe für diesen Zug.",
         ""
       ],
       "Notes": [
@@ -4469,8 +4471,8 @@
         ""
       ],
       "Translation": [
-        "Powerful ranged cut attack to all",
-        "enemies. May instantly kill.",
+        "Kraftvoller Fernkampf-Schnittangriff",
+        "auf alle Gegner. Kann evtl. sofort töten.",
         ""
       ],
       "Notes": [
@@ -4486,8 +4488,8 @@
         ""
       ],
       "Translation": [
-        "High chance of binding all parts",
-        "of 1 enemy.",
+        "Hohe Warscheinlichkeit, alle Körperteile",
+        "eines Gegners zu fesseln.",
         ""
       ],
       "Notes": [
@@ -4503,8 +4505,8 @@
         ""
       ],
       "Translation": [
-        "Nullifies all damage to the party",
-        "for this turn.",
+        "Hebt gesamten, der Gruppe in diesem Zug",
+        "zugefügten Schaden auf.",
         ""
       ],
       "Notes": [
@@ -4520,8 +4522,8 @@
         ""
       ],
       "Translation": [
-        "Powerful ranged volt attacks to",
-        "random enemies.",
+        "Kraftvoller Fernkampf-Blitzangriff",
+        "auf zufällige Gegner.",
         ""
       ],
       "Notes": [
@@ -4537,8 +4539,8 @@
         ""
       ],
       "Translation": [
-        "Powerful ranged bash attack to all",
-        "enemies. Guaranteed stun.",
+        "Kraftvoller Fernkampf-Hiebangriff",
+        "auf alle Gegner. Betäubt Gegner garantiert.",
         ""
       ],
       "Notes": [
@@ -4554,8 +4556,8 @@
         ""
       ],
       "Translation": [
-        "Powerful ranged untyped attack to",
-        "all enemies.",
+        "Kraftvoller Fernkampf-Angriff ohne Typ",
+        "auf alle Gegner.",
         ""
       ],
       "Notes": [
@@ -4571,8 +4573,8 @@
         ""
       ],
       "Translation": [
-        "Fully heals party's HP, binds,",
-        "ailments, and unconsciousness.",
+        "Heilt KP, Fesselungen, Statusleiden und",
+        "Bewusstlosigkeit der Gruppe vollständig.",
         ""
       ],
       "Notes": [
