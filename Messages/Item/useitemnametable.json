@@ -5218,7 +5218,7 @@
     },
     {
       "ID": 401,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Medica"
       ],
@@ -5231,7 +5231,7 @@
     },
     {
       "ID": 402,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Medica II"
       ],
@@ -5244,7 +5244,7 @@
     },
     {
       "ID": 403,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Medica III"
       ],
@@ -5257,7 +5257,7 @@
     },
     {
       "ID": 404,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Medica IV"
       ],
@@ -5270,7 +5270,7 @@
     },
     {
       "ID": 405,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Amrita"
       ],
@@ -5283,7 +5283,7 @@
     },
     {
       "ID": 406,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Amrita II"
       ],
@@ -5296,7 +5296,7 @@
     },
     {
       "ID": 407,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Amrita III"
       ],
@@ -5309,7 +5309,7 @@
     },
     {
       "ID": 408,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Hamao"
       ],
@@ -5322,7 +5322,7 @@
     },
     {
       "ID": 409,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Hamao II"
       ],
@@ -5335,7 +5335,7 @@
     },
     {
       "ID": 410,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Nectar"
       ],
@@ -5343,12 +5343,12 @@
         "Nectar"
       ],
       "Notes": [
-        ""
+        "In \"Nektar\" übersetzen?"
       ]
     },
     {
       "ID": 411,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Nectar II"
       ],
@@ -5356,12 +5356,12 @@
         "Nectar II"
       ],
       "Notes": [
-        ""
+        "In \"Nektar\" übersetzen?"
       ]
     },
     {
       "ID": 412,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Madora"
       ],
@@ -5374,7 +5374,7 @@
     },
     {
       "ID": 413,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Madora II"
       ],
@@ -5387,7 +5387,7 @@
     },
     {
       "ID": 414,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Theriaca A"
       ],
@@ -5400,12 +5400,12 @@
     },
     {
       "ID": 415,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Theriaca B"
       ],
       "Translation": [
-        "Theriaca B"
+        "Theriaca"
       ],
       "Notes": [
         ""
@@ -5413,7 +5413,7 @@
     },
     {
       "ID": 416,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Metopon"
       ],
@@ -5426,7 +5426,7 @@
     },
     {
       "ID": 417,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Unihorn"
       ],
@@ -5439,7 +5439,7 @@
     },
     {
       "ID": 418,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Bravant"
       ],
@@ -5452,7 +5452,7 @@
     },
     {
       "ID": 419,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Stonard"
       ],
@@ -5470,7 +5470,7 @@
         "Fire Mist"
       ],
       "Translation": [
-        "Fire Mist"
+        "Feuernebel"
       ],
       "Notes": [
         ""
@@ -5483,7 +5483,7 @@
         "Ice Mist"
       ],
       "Translation": [
-        "Ice Mist"
+        "Eisnebel"
       ],
       "Notes": [
         ""
@@ -5496,7 +5496,7 @@
         "Volt Mist"
       ],
       "Translation": [
-        "Volt Mist"
+        "Blitznebel"
       ],
       "Notes": [
         ""
@@ -5509,7 +5509,7 @@
         "Cut Mist"
       ],
       "Translation": [
-        "Cut Mist"
+        "Schnittnebel"
       ],
       "Notes": [
         ""
@@ -5522,7 +5522,7 @@
         "Bash Mist"
       ],
       "Translation": [
-        "Bash Mist"
+        "Hiebnebel"
       ],
       "Notes": [
         ""
@@ -5535,7 +5535,7 @@
         "Stab Mist"
       ],
       "Translation": [
-        "Stab Mist"
+        "Stichnebel"
       ],
       "Notes": [
         ""
@@ -5548,7 +5548,7 @@
         "Blaze Oil"
       ],
       "Translation": [
-        "Blaze Oil"
+        "Feueröl"
       ],
       "Notes": [
         ""
@@ -5561,7 +5561,7 @@
         "Freeze Oil"
       ],
       "Translation": [
-        "Freeze Oil"
+        "Eisöl"
       ],
       "Notes": [
         ""
@@ -5574,7 +5574,7 @@
         "Shock Oil"
       ],
       "Translation": [
-        "Shock Oil"
+        "Blitzöl"
       ],
       "Notes": [
         ""
@@ -5587,7 +5587,7 @@
         "Warding Bell"
       ],
       "Translation": [
-        "Warding Bell"
+        "Wehrglocke"
       ],
       "Notes": [
         ""
@@ -5600,7 +5600,7 @@
         "Luring Bell"
       ],
       "Translation": [
-        "Luring Bell"
+        "Lockglocke"
       ],
       "Notes": [
         ""
@@ -5613,7 +5613,7 @@
         "Ariadne Thread"
       ],
       "Translation": [
-        "Ariadne Thread"
+        "Ariadnefaden"
       ],
       "Notes": [
         ""
@@ -5626,7 +5626,7 @@
         "Pole Stone"
       ],
       "Translation": [
-        "Pole Stone"
+        "Polstein"
       ],
       "Notes": [
         ""
@@ -5639,7 +5639,7 @@
         "Guard Sole"
       ],
       "Translation": [
-        "Guard Sole"
+        "Schutzsohle"
       ],
       "Notes": [
         ""
@@ -5652,7 +5652,7 @@
         "Fire Jar"
       ],
       "Translation": [
-        "Fire Jar"
+        "Feuerkrug"
       ],
       "Notes": [
         ""
@@ -5665,7 +5665,7 @@
         "Blast Jar"
       ],
       "Translation": [
-        "Blast Jar"
+        "Sprengkrug"
       ],
       "Notes": [
         ""
@@ -5678,7 +5678,7 @@
         "Ice Jar"
       ],
       "Translation": [
-        "Ice Jar"
+        "Eiskrug"
       ],
       "Notes": [
         ""
@@ -5691,7 +5691,7 @@
         "Frost Jar"
       ],
       "Translation": [
-        "Frost Jar"
+        "Frostkrug"
       ],
       "Notes": [
         ""
@@ -5704,7 +5704,7 @@
         "Volt Jar"
       ],
       "Translation": [
-        "Volt Jar"
+        "Blitzkrug"
       ],
       "Notes": [
         ""
@@ -5717,7 +5717,7 @@
         "Thunderbolt Jar"
       ],
       "Translation": [
-        "Thunderbolt Jar"
+        "Donnerkrug"
       ],
       "Notes": [
         ""
@@ -5730,7 +5730,7 @@
         "Poison Gas"
       ],
       "Translation": [
-        "Poison Gas"
+        "Giftgas"
       ],
       "Notes": [
         ""
@@ -5743,7 +5743,7 @@
         "Nerve Gas"
       ],
       "Translation": [
-        "Nerve Gas"
+        "Nervengas"
       ],
       "Notes": [
         ""
@@ -5756,7 +5756,7 @@
         "Blind Gas"
       ],
       "Translation": [
-        "Blind Gas"
+        "Blendgas"
       ],
       "Notes": [
         ""
@@ -5769,7 +5769,7 @@
         "Sleep Gas"
       ],
       "Translation": [
-        "Sleep Gas"
+        "Schlafgas"
       ],
       "Notes": [
         ""
@@ -5782,7 +5782,7 @@
         "Curse Gas"
       ],
       "Translation": [
-        "Curse Gas"
+        "Fluchgas"
       ],
       "Notes": [
         ""
@@ -5795,7 +5795,7 @@
         "Addle Gas"
       ],
       "Translation": [
-        "Addle Gas"
+        "Faulgas"
       ],
       "Notes": [
         ""
@@ -5808,7 +5808,7 @@
         "Simple Scope"
       ],
       "Translation": [
-        "Simple Scope"
+        "Teleskop"
       ],
       "Notes": [
         ""
@@ -5821,7 +5821,7 @@
         "Silver Whistle"
       ],
       "Translation": [
-        "Silver Whistle"
+        "Silberpfeife"
       ],
       "Notes": [
         ""
@@ -5834,7 +5834,7 @@
         "Power Book"
       ],
       "Translation": [
-        "Power Book"
+        "Buch der Kraft"
       ],
       "Notes": [
         ""
@@ -5847,7 +5847,7 @@
         "Intelligence Book"
       ],
       "Translation": [
-        "Intelligence Book"
+        "Buch des Intellekts"
       ],
       "Notes": [
         ""
@@ -5860,7 +5860,7 @@
         "Vigor Book"
       ],
       "Translation": [
-        "Vigor Book"
+        "Buch der Vitalität"
       ],
       "Notes": [
         ""
@@ -5873,7 +5873,7 @@
         "Speed Book"
       ],
       "Translation": [
-        "Speed Book"
+        "Buch der Eile"
       ],
       "Notes": [
         ""
@@ -5886,7 +5886,7 @@
         "Luck Book"
       ],
       "Translation": [
-        "Luck Book"
+        "Buch des Glückes"
       ],
       "Notes": [
         ""
@@ -5912,7 +5912,7 @@
         "Formaldehyde"
       ],
       "Translation": [
-        "Formaldehyde"
+        "Formaldehyd"
       ],
       "Notes": [
         ""
@@ -5925,7 +5925,7 @@
         "Etrian Coin"
       ],
       "Translation": [
-        "Etrian Coin"
+        "Etria-Münze"
       ],
       "Notes": [
         ""
@@ -5938,7 +5938,7 @@
         "High Lagaard Gem"
       ],
       "Translation": [
-        "High Lagaard Gem"
+        "High Lagaard-Edelstein"
       ],
       "Notes": [
         ""
@@ -5951,7 +5951,7 @@
         "Armoroad Cheese"
       ],
       "Translation": [
-        "Armoroad Cheese"
+        "Armoroad-Käse"
       ],
       "Notes": [
         ""
@@ -5964,7 +5964,7 @@
         "Yggdroid Doll"
       ],
       "Translation": [
-        "Yggdroid Doll"
+        "Yggdroid-Puppe"
       ],
       "Notes": [
         ""
@@ -5977,7 +5977,7 @@
         "Shinjuku Map"
       ],
       "Translation": [
-        "Shinjuku Map"
+        "Karte von Shinjuku"
       ],
       "Notes": [
         ""
@@ -5990,7 +5990,7 @@
         "Instant Curry"
       ],
       "Translation": [
-        "Instant Curry"
+        "Instant-Curry"
       ],
       "Notes": [
         ""
@@ -6003,7 +6003,7 @@
         "Casino Chip"
       ],
       "Translation": [
-        "Casino Chip"
+        "Casino-Chip"
       ],
       "Notes": [
         ""
@@ -6016,7 +6016,7 @@
         "Rafflesia Nectar"
       ],
       "Translation": [
-        "Rafflesia Nectar"
+        "Rafflesia-Nektar"
       ],
       "Notes": [
         ""
@@ -6029,7 +6029,7 @@
         "Small Moai"
       ],
       "Translation": [
-        "Small Moai"
+        "Kleiner Moai"
       ],
       "Notes": [
         ""
@@ -6042,7 +6042,7 @@
         "Pooka Doll"
       ],
       "Translation": [
-        "Pooka Doll"
+        "Pooka-Puppe"
       ],
       "Notes": [
         ""
@@ -6050,7 +6050,7 @@
     },
     {
       "ID": 465,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Salmiakki"
       ],
@@ -6068,7 +6068,7 @@
         "Caviar"
       ],
       "Translation": [
-        "Caviar"
+        "Kaviar"
       ],
       "Notes": [
         ""
@@ -6081,7 +6081,7 @@
         "Mate De Koka"
       ],
       "Translation": [
-        "Mate De Koka"
+        "Mate de Coka"
       ],
       "Notes": [
         ""
@@ -6185,7 +6185,7 @@
         "Escape Medal"
       ],
       "Translation": [
-        "Escape Medal"
+        "Fluchtmedaille"
       ],
       "Notes": [
         ""
@@ -6198,7 +6198,7 @@
         "Yggdrasil Score"
       ],
       "Translation": [
-        "Yggdrasil Score"
+        "Yggdrasil-Noten"
       ],
       "Notes": [
         ""
@@ -6661,7 +6661,7 @@
     },
     {
       "ID": 512,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "ダミー"
       ],
