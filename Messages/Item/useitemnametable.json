@@ -3221,7 +3221,7 @@
         "Granite"
       ],
       "Translation": [
-        "Granite"
+        "Granit"
       ],
       "Notes": [
         ""
@@ -3234,7 +3234,7 @@
         "Cyanite"
       ],
       "Translation": [
-        "Cyanite"
+        "Cyanit"
       ],
       "Notes": [
         ""
@@ -3247,7 +3247,7 @@
         "Iridescent Ore"
       ],
       "Translation": [
-        "Iridescent Ore"
+        "Schillerndes Erz"
       ],
       "Notes": [
         ""
@@ -3260,7 +3260,7 @@
         "Corundum"
       ],
       "Translation": [
-        "Corundum"
+        "Korund"
       ],
       "Notes": [
         ""
@@ -3273,7 +3273,7 @@
         "Dolomite"
       ],
       "Translation": [
-        "Dolomite"
+        "Dolomit"
       ],
       "Notes": [
         ""
@@ -3286,7 +3286,7 @@
         "Akaganeite"
       ],
       "Translation": [
-        "Akaganeite"
+        "Akaganeit"
       ],
       "Notes": [
         ""
@@ -3299,7 +3299,7 @@
         "Steel Earth"
       ],
       "Translation": [
-        "Steel Earth"
+        "Stahlerde"
       ],
       "Notes": [
         ""
@@ -3312,7 +3312,7 @@
         "Emerald"
       ],
       "Translation": [
-        "Emerald"
+        "Smaragd"
       ],
       "Notes": [
         ""
@@ -3325,7 +3325,7 @@
         "Chalcedony"
       ],
       "Translation": [
-        "Chalcedony"
+        "Chalcedon"
       ],
       "Notes": [
         ""
@@ -3338,7 +3338,7 @@
         "Red Jasper"
       ],
       "Translation": [
-        "Red Jasper"
+        "Roter Jaspis"
       ],
       "Notes": [
         ""
@@ -3351,7 +3351,7 @@
         "Resin Cylinder"
       ],
       "Translation": [
-        "Resin Cylinder"
+        "Harzzylinder"
       ],
       "Notes": [
         ""
@@ -3364,7 +3364,7 @@
         "Rose Quartz"
       ],
       "Translation": [
-        "Rose Quartz"
+        "Rosenquarz"
       ],
       "Notes": [
         ""
@@ -3377,7 +3377,7 @@
         "Nephrite"
       ],
       "Translation": [
-        "Nephrite"
+        "Nephrit"
       ],
       "Notes": [
         ""
@@ -3390,7 +3390,7 @@
         "Odd Wall Chip"
       ],
       "Translation": [
-        "Odd Wall Chip"
+        "Wandsplitter"
       ],
       "Notes": [
         ""
@@ -3403,7 +3403,7 @@
         "Tourmaline"
       ],
       "Translation": [
-        "Tourmaline"
+        "Turmalin"
       ],
       "Notes": [
         ""
@@ -3416,7 +3416,7 @@
         "Tricolor Stone"
       ],
       "Translation": [
-        "Tricolor Stone"
+        "Dreifarbstein"
       ],
       "Notes": [
         ""
@@ -3429,7 +3429,7 @@
         "Dark Pyroxenite"
       ],
       "Translation": [
-        "Dark Pyroxenite"
+        "Finsterpyroxenit"
       ],
       "Notes": [
         ""
@@ -3455,10 +3455,10 @@
         "Forest Aloe"
       ],
       "Translation": [
-        "Forest Aloe"
+        "Aloe Silva"
       ],
       "Notes": [
-        ""
+        "\"Aloe Silva\" = Latein \"Wald-Aloe\", analog zu \"Aloe Vera\" = \"Echte Aloe\""
       ]
     },
     {
@@ -3468,7 +3468,7 @@
         "Small Flower"
       ],
       "Translation": [
-        "Small Flower"
+        "Kleine Blume"
       ],
       "Notes": [
         ""
@@ -3481,7 +3481,7 @@
         "Dragon's Blood"
       ],
       "Translation": [
-        "Dragon's Blood"
+        "Drachenblut"
       ],
       "Notes": [
         ""
@@ -3494,7 +3494,7 @@
         "Mint"
       ],
       "Translation": [
-        "Mint"
+        "Minze"
       ],
       "Notes": [
         ""
@@ -3507,7 +3507,7 @@
         "Crane Ginseng"
       ],
       "Translation": [
-        "Crane Ginseng"
+        "Kranich-Ginseng"
       ],
       "Notes": [
         ""
@@ -3520,7 +3520,7 @@
         "Monks Cress"
       ],
       "Translation": [
-        "Monks Cress"
+        "Kapuzinerkresse"
       ],
       "Notes": [
         ""
@@ -3533,7 +3533,7 @@
         "Luminous Moss"
       ],
       "Translation": [
-        "Luminous Moss"
+        "Leuchtmoos"
       ],
       "Notes": [
         ""
@@ -3546,7 +3546,7 @@
         "Scarlet Sage"
       ],
       "Translation": [
-        "Scarlet Sage"
+        "Feuersalbei"
       ],
       "Notes": [
         ""
@@ -3572,7 +3572,7 @@
         "White Apple"
       ],
       "Translation": [
-        "White Apple"
+        "Weißer Apfel"
       ],
       "Notes": [
         ""
@@ -3585,7 +3585,7 @@
         "Waterlily Leaf"
       ],
       "Translation": [
-        "Waterlily Leaf"
+        "Seerosenblatt"
       ],
       "Notes": [
         ""
@@ -3611,7 +3611,7 @@
         "Cursed Durian"
       ],
       "Translation": [
-        "Cursed Durian"
+        "Fluchdurian"
       ],
       "Notes": [
         ""
@@ -3624,7 +3624,7 @@
         "Valerian"
       ],
       "Translation": [
-        "Valerian"
+        "Baldrian"
       ],
       "Notes": [
         ""
@@ -3632,7 +3632,7 @@
     },
     {
       "ID": 279,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Aloe"
       ],
@@ -3645,7 +3645,7 @@
     },
     {
       "ID": 280,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Ambrosia"
       ],
@@ -3663,10 +3663,10 @@
         "Grub Mold"
       ],
       "Translation": [
-        "Grub Mold"
+        "Larvenschimmel"
       ],
       "Notes": [
-        ""
+        "Übersetzung? Kontext?"
       ]
     },
     {
@@ -3689,7 +3689,7 @@
         "Sturdy Timber"
       ],
       "Translation": [
-        "Sturdy Timber"
+        "Stabiles Holz"
       ],
       "Notes": [
         ""
@@ -3702,7 +3702,7 @@
         "Teak Wood"
       ],
       "Translation": [
-        "Teak Wood"
+        "Teakholz"
       ],
       "Notes": [
         ""
@@ -3715,7 +3715,7 @@
         "Guaiacum Wood"
       ],
       "Translation": [
-        "Guaiacum Wood"
+        "Pockholz"
       ],
       "Notes": [
         ""
@@ -3728,7 +3728,7 @@
         "Mahogany"
       ],
       "Translation": [
-        "Mahogany"
+        "Mahagoniholz"
       ],
       "Notes": [
         ""
@@ -3754,7 +3754,7 @@
         "Paulownia Bark"
       ],
       "Translation": [
-        "Paulownia Bark"
+        "Paulownia-Rinde"
       ],
       "Notes": [
         ""
@@ -3767,7 +3767,7 @@
         "Trileaf Stalk"
       ],
       "Translation": [
-        "Trileaf Stalk"
+        "Dreiblatthalm"
       ],
       "Notes": [
         ""
@@ -3780,10 +3780,10 @@
         "Poinciana Pod"
       ],
       "Translation": [
-        "Poinciana Pod"
+        "Flammenschote"
       ],
       "Notes": [
-        ""
+        "Poinciana = u.a. Flammenbaum"
       ]
     },
     {
@@ -3806,7 +3806,7 @@
         "Wisteria Branch"
       ],
       "Translation": [
-        "Wisteria Branch"
+        "Blauregenzweig"
       ],
       "Notes": [
         ""
@@ -3819,7 +3819,7 @@
         "Yggdrasil Trunk"
       ],
       "Translation": [
-        "Yggdrasil Trunk"
+        "Yggdrasil-Stamm"
       ],
       "Notes": [
         ""
@@ -3832,7 +3832,7 @@
         "Thujopsis Root"
       ],
       "Translation": [
-        "Thujopsis Root"
+        "Hibawurzel"
       ],
       "Notes": [
         ""
@@ -3845,7 +3845,7 @@
         "Sequoia Limb"
       ],
       "Translation": [
-        "Sequoia Limb"
+        "Sequoienast"
       ],
       "Notes": [
         ""
@@ -3858,7 +3858,7 @@
         "Crystal Vine"
       ],
       "Translation": [
-        "Crystal Vine"
+        "Kristallranke"
       ],
       "Notes": [
         ""
@@ -3871,7 +3871,7 @@
         "Holly Lumber"
       ],
       "Translation": [
-        "Holly Lumber"
+        "Stechpalmenholz"
       ],
       "Notes": [
         ""
@@ -3884,7 +3884,7 @@
         "Polyamide Fiber"
       ],
       "Translation": [
-        "Polyamide Fiber"
+        "Polyamidfaser"
       ],
       "Notes": [
         ""
@@ -3897,7 +3897,7 @@
         "Stardust Twig"
       ],
       "Translation": [
-        "Stardust Twig"
+        "Sternnebelzweig"
       ],
       "Notes": [
         ""
@@ -3923,7 +3923,7 @@
         "Culantro"
       ],
       "Translation": [
-        "Culantro"
+        "Langkoriander"
       ],
       "Notes": [
         ""
@@ -3936,10 +3936,10 @@
         "Night Shard"
       ],
       "Translation": [
-        "Night Shard"
+        "Nachtscherbe"
       ],
       "Notes": [
-        ""
+        "Übersetzung? Kontext?"
       ]
     },
     {
@@ -3949,10 +3949,10 @@
         "Cave Palm Bark"
       ],
       "Translation": [
-        "Cave Palm Bark"
+        "Höhlpalmrinde"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -3962,7 +3962,7 @@
         "Shea Fruit"
       ],
       "Translation": [
-        "Shea Fruit"
+        "Sheanuss"
       ],
       "Notes": [
         ""
@@ -3975,7 +3975,7 @@
         "Supple Branch"
       ],
       "Translation": [
-        "Supple Branch"
+        "Biegsamer Zweig"
       ],
       "Notes": [
         ""
@@ -3988,10 +3988,10 @@
         "Slate"
       ],
       "Translation": [
-        "Slate"
+        "Schiefer"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -4001,7 +4001,7 @@
         "Osmunda Frond"
       ],
       "Translation": [
-        "Osmunda Frond"
+        "Königsfarn"
       ],
       "Notes": [
         ""
@@ -4014,7 +4014,7 @@
         "Strong Vine"
       ],
       "Translation": [
-        "Strong Vine"
+        "Starke Ranke"
       ],
       "Notes": [
         ""
@@ -4027,7 +4027,7 @@
         "Lazurite"
       ],
       "Translation": [
-        "Lazurite"
+        "Lasurit"
       ],
       "Notes": [
         ""
@@ -4040,7 +4040,7 @@
         "Fennel"
       ],
       "Translation": [
-        "Fennel"
+        "Fenchel"
       ],
       "Notes": [
         ""
@@ -4053,7 +4053,7 @@
         "Pagoda Branch"
       ],
       "Translation": [
-        "Pagoda Branch"
+        "Pagodenzweig"
       ],
       "Notes": [
         ""
@@ -4066,7 +4066,7 @@
         "Tiger's Eye"
       ],
       "Translation": [
-        "Tiger's Eye"
+        "Tigerauge"
       ],
       "Notes": [
         ""
@@ -4079,7 +4079,7 @@
         "Hyacinth Petal"
       ],
       "Translation": [
-        "Hyacinth Petal"
+        "Hyazinthenblatt"
       ],
       "Notes": [
         ""
@@ -4087,7 +4087,7 @@
     },
     {
       "ID": 314,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Pachypodium"
       ],
@@ -4105,7 +4105,7 @@
         "Serpentinite"
       ],
       "Translation": [
-        "Serpentinite"
+        "Serpentinit"
       ],
       "Notes": [
         ""
@@ -4118,7 +4118,7 @@
         "Life Honey"
       ],
       "Translation": [
-        "Life Honey"
+        "Lebenshonig"
       ],
       "Notes": [
         ""
@@ -4131,7 +4131,7 @@
         "Aesculus Wood"
       ],
       "Translation": [
-        "Aesculus Wood"
+        "Kastanienholz"
       ],
       "Notes": [
         ""
@@ -4144,7 +4144,7 @@
         "Unknown Metal"
       ],
       "Translation": [
-        "Unknown Metal"
+        "Fremdes Metall"
       ],
       "Notes": [
         ""
@@ -4196,7 +4196,7 @@
         "Moss Strawberry"
       ],
       "Translation": [
-        "Moss Strawberry"
+        "Mooserdbeere"
       ],
       "Notes": [
         ""
@@ -4209,7 +4209,7 @@
         "Flame Fruit"
       ],
       "Translation": [
-        "Flame Fruit"
+        "Flammenfrucht"
       ],
       "Notes": [
         ""
@@ -4222,7 +4222,7 @@
         "Dried Vine"
       ],
       "Translation": [
-        "Dried Vine"
+        "Trockene Ranke"
       ],
       "Notes": [
         ""
@@ -4235,7 +4235,7 @@
         "Eclogite"
       ],
       "Translation": [
-        "Eclogite"
+        "Eklogit"
       ],
       "Notes": [
         ""
@@ -4248,7 +4248,7 @@
         "Cork Bark"
       ],
       "Translation": [
-        "Cork Bark"
+        "Korkrinde"
       ],
       "Notes": [
         ""
@@ -6523,7 +6523,7 @@
         "Formal Letter"
       ],
       "Translation": [
-        "Formal Letter"
+        "Formeller Brief"
       ],
       "Notes": [
         ""
@@ -6536,7 +6536,7 @@
         "Labyrinth Map"
       ],
       "Translation": [
-        "Labyrinth Map"
+        "Labyrinth-Karte"
       ],
       "Notes": [
         ""
@@ -6549,7 +6549,7 @@
         "Greeting Letter"
       ],
       "Translation": [
-        "Greeting Letter"
+        "Grußbrief"
       ],
       "Notes": [
         ""
@@ -6562,10 +6562,10 @@
         "Memento Ring"
       ],
       "Translation": [
-        "Memento Ring"
+        "Gedenkring"
       ],
       "Notes": [
-        ""
+        "Kontext?"
       ]
     },
     {
@@ -6575,7 +6575,7 @@
         "Ancient Tablet"
       ],
       "Translation": [
-        "Ancient Tablet"
+        "Alte Tafel"
       ],
       "Notes": [
         ""
@@ -6588,7 +6588,7 @@
         "Brass Key"
       ],
       "Translation": [
-        "Brass Key"
+        "Messingschlüssel"
       ],
       "Notes": [
         ""
@@ -6601,7 +6601,7 @@
         "Old Breastplate"
       ],
       "Translation": [
-        "Old Breastplate"
+        "Alte Brustplatte"
       ],
       "Notes": [
         ""
@@ -6614,7 +6614,7 @@
         "Second Tablet"
       ],
       "Translation": [
-        "Second Tablet"
+        "Zweite Tafel"
       ],
       "Notes": [
         ""
@@ -6627,10 +6627,10 @@
         "Circle Staff"
       ],
       "Translation": [
-        "Circle Staff"
+        "Kreisstab"
       ],
       "Notes": [
-        ""
+        "Übersetzung? Kontext?"
       ]
     },
     {
@@ -6640,10 +6640,10 @@
         "Twinfang Scroll"
       ],
       "Translation": [
-        "Twinfang Scroll"
+        "Zweizahn-Schriftrolle"
       ],
       "Notes": [
-        ""
+        "Übersetzung? Kontext?"
       ]
     },
     {
@@ -6653,7 +6653,7 @@
         "Titan's Heart"
       ],
       "Translation": [
-        "Titan's Heart"
+        "Herz des Titanen"
       ],
       "Notes": [
         ""
@@ -6679,7 +6679,7 @@
         "Battle Goblet"
       ],
       "Translation": [
-        "Battle Goblet"
+        "Kampfpokal"
       ],
       "Notes": [
         ""
@@ -6692,7 +6692,7 @@
         "Big Moth Egg"
       ],
       "Translation": [
-        "Big Moth Egg"
+        "Großes Mottenei"
       ],
       "Notes": [
         ""
@@ -6705,7 +6705,7 @@
         "Moonflower"
       ],
       "Translation": [
-        "Moonflower"
+        "Weißer Stechapfel"
       ],
       "Notes": [
         ""
@@ -6718,7 +6718,7 @@
         "Morning Glory"
       ],
       "Translation": [
-        "Morning Glory"
+        "Prunkwinde"
       ],
       "Notes": [
         ""
@@ -6731,10 +6731,10 @@
         "Twilight Glory"
       ],
       "Translation": [
-        "Twilight Glory"
+        "Dämmerwinde"
       ],
       "Notes": [
-        ""
+        "Bessere Übersetzung/Lokalisation?"
       ]
     },
     {

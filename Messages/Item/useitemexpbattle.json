@@ -7345,8 +7345,8 @@
         ""
       ],
       "Translation": [
-        "An age-old traditional medicine.",
-        "Heals a bit of HP.",
+        "Eine uralte, traditionelle Medizin.",
+        "Heilt eine geringe Menge KP.",
         ""
       ],
       "Notes": [
@@ -7362,8 +7362,8 @@
         ""
       ],
       "Translation": [
-        "Extracted from shining moss.",
-        "Heals a moderate amount of HP.",
+        "Wird aus glänzendem Moos gewonnen.",
+        "Heilt eine moderate Menge KP.",
         ""
       ],
       "Notes": [
@@ -7379,8 +7379,8 @@
         ""
       ],
       "Translation": [
-        "Medicine extracted from Aloe.",
-        "Heals a great deal of HP.",
+        "Aus Aloe gewonnene Medizin.",
+        "Heilt eine große Menge KP.",
         ""
       ],
       "Notes": [
@@ -7396,8 +7396,8 @@
         ""
       ],
       "Translation": [
-        "Expensive medicine extracted from",
-        "Ambrosia. Fully heals all HP.",
+        "Teure, aus Ambrosia gewonnene Medizin.",
+        "Heilt KP vollständig.",
         ""
       ],
       "Notes": [
@@ -7413,8 +7413,8 @@
         ""
       ],
       "Translation": [
-        "Spiritual medicine made from boiled",
-        "Crane Ginseng. Recovers a little TP.",
+        "Spirituelle Medizin, hergestellt aus gekochtem",
+        "Ginseng. Heilt eine geringe Menge TP.",
         ""
       ],
       "Notes": [
@@ -7430,8 +7430,8 @@
         ""
       ],
       "Translation": [
-        "Spiritual medicine made with Waterlily",
-        "Leaves. Recovers a moderate amount of TP.",
+        "Aus Wasserlilien hergestellte, spirituelle",
+        "Medizin. Heilt eine moderate Menge TP.",
         ""
       ],
       "Notes": [
@@ -7447,8 +7447,8 @@
         ""
       ],
       "Translation": [
-        "Expensive spiritual medicine made from",
-        "rare scales. Recovers a great deal of TP.",
+        "Teure, spirituelle Medizin, wird aus seltenen",
+        "Schuppen hergestellt. Heilt eine große Menge TP.",
         ""
       ],
       "Notes": [
@@ -7464,8 +7464,8 @@
         ""
       ],
       "Translation": [
-        "Expensive medicine made from Scarlet",
-        "Sages. Recovers a little HP and TP.",
+        "Teure Medizin, die aus rotem Salbei hergestellt",
+        "wird. Heilt einige KP und TP.",
         ""
       ],
       "Notes": [
@@ -7481,8 +7481,8 @@
         ""
       ],
       "Translation": [
-        "Expensive medicine made from Deathly",
-        "Buds. Recovers moderate HP and TP.",
+        "Aus tödlichen Knospen hergestellte, teure",
+        "Medizin. Moderate Heilung von KP und TP.",
         ""
       ],
       "Notes": [
@@ -7498,8 +7498,8 @@
         ""
       ],
       "Translation": [
-        "Life medicine boiled from a pungent",
-        "flower. Revives with some HP.",
+        "Ein Lebenselixier aus gekochten, stark",
+        "riechenden Blüten. Belebt mit wenigen KP.",
         ""
       ],
       "Notes": [
@@ -7515,12 +7515,12 @@
         ""
       ],
       "Translation": [
-        "Expensive life medicine made from rare",
-        "monster parts. Revives with full HP.",
+        "Teures Lebenselixier, hergestellt aus seltenen",
+        "Monsterteilen. Belebt mit vollen KP.",
         ""
       ],
       "Notes": [
-        ""
+        "Bessere Übersetzung für \"monster parts\"?"
       ]
     },
     {
@@ -7532,8 +7532,8 @@
         ""
       ],
       "Translation": [
-        "Pricey medicine made from preserved",
-        "fruit. Heals a little HP of a line.",
+        "Teure Medizin, die aus eingemachtem Obst",
+        "hergestellt wird. Heilt KP einer Reihe teilweise.",
         ""
       ],
       "Notes": [
@@ -7549,8 +7549,8 @@
         ""
       ],
       "Translation": [
-        "Pricey medicine made from rare mushrooms.",
-        "Heals a moderate amount of HP for a line.",
+        "Teure, mit seltenen Pilzen hergestellte Medizin.",
+        "Heilt moderate Menge KP einer Reihe.",
         ""
       ],
       "Notes": [
@@ -7566,8 +7566,8 @@
         ""
       ],
       "Translation": [
-        "Curative made from boiled Osmunda Fronds.",
-        "Unbinds an ally.",
+        "Aus Königsfarn gekochtes Heilmittel.",
+        "Entfernt Fesselung eines Verbündeten.",
         ""
       ],
       "Notes": [
@@ -7583,8 +7583,8 @@
         ""
       ],
       "Translation": [
-        "Curative made from Forest Aloe.",
-        "Recovers an ally's status.",
+        "Aus Aloe Silva hergestelltes Heilmittel.",
+        "Wiederherstellung des Status eines Verbündeten.",
         ""
       ],
       "Notes": [
@@ -7600,12 +7600,12 @@
         ""
       ],
       "Translation": [
-        "Liquid nerve toxin that saps one's",
-        "will. Nullifies all enemy buffs.",
+        "Flüssiges Nervengift, welches den Willen raubt.",
+        "Hebt alle gegnerischen Verstärkungen auf.",
         ""
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -7617,8 +7617,8 @@
         ""
       ],
       "Translation": [
-        "Medicine boiled from a Valerian that",
-        "nullifies debuffs for a line of allies.",
+        "Aus Baldrian gekochte Medizin. Hebt alle",
+        "Schwächungen einer Reihe auf.",
         ""
       ],
       "Notes": [
@@ -7634,8 +7634,8 @@
         ""
       ],
       "Translation": [
-        "Candy made from coagulated monster",
-        "tongues. Raises an ally's attack.",
+        "Aus geronnen Monsterzungen gewonnene",
+        "Süßigkeit. Erhöht Angriff eines Verbündeten.",
         ""
       ],
       "Notes": [
@@ -7651,8 +7651,8 @@
         ""
       ],
       "Translation": [
-        "Jelly made from congealed Moss",
-        "Strawberries. Raises an ally's defense.",
+        "Aus geronnenen Mooserdbeeren gewonnenes",
+        "Gelee. Erhöht Verteidigung eines Verbündeten.",
         ""
       ],
       "Notes": [
