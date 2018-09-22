@@ -23,7 +23,7 @@
         "Grasseater Leg"
       ],
       "Translation": [
-        "Grasseater Leg"
+        "Grasfresserbein"
       ],
       "Notes": [
         ""
@@ -36,7 +36,7 @@
         "Grasseater Jaw"
       ],
       "Translation": [
-        "Grasseater Jaw"
+        "Grasfresserkiefer"
       ],
       "Notes": [
         ""
@@ -49,7 +49,7 @@
         "Hard Skin"
       ],
       "Translation": [
-        "Hard Skin"
+        "Harte Schale"
       ],
       "Notes": [
         ""
@@ -62,7 +62,7 @@
         "Roller Shell"
       ],
       "Translation": [
-        "Roller Shell"
+        "Asselpanzer"
       ],
       "Notes": [
         ""
@@ -75,7 +75,7 @@
         "Rat Fang"
       ],
       "Translation": [
-        "Rat Fang"
+        "Rattenzahn"
       ],
       "Notes": [
         ""
@@ -88,7 +88,7 @@
         "Rat Hide"
       ],
       "Translation": [
-        "Rat Hide"
+        "Rattenfell"
       ],
       "Notes": [
         ""
@@ -101,7 +101,7 @@
         "Gritty Scales"
       ],
       "Translation": [
-        "Gritty Scales"
+        "Zähe Schuppen"
       ],
       "Notes": [
         ""
@@ -114,7 +114,7 @@
         "Thin Wing"
       ],
       "Translation": [
-        "Thin Wing"
+        "Flügelchen"
       ],
       "Notes": [
         ""
@@ -127,7 +127,7 @@
         "Baboon Bone"
       ],
       "Translation": [
-        "Baboon Bone"
+        "Pavianknochen"
       ],
       "Notes": [
         ""
@@ -140,7 +140,7 @@
         "Stunned Tongue"
       ],
       "Translation": [
-        "Stunned Tongue"
+        "Betäubte Zunge"
       ],
       "Notes": [
         ""
@@ -153,7 +153,7 @@
         "Frog Cheek Meat"
       ],
       "Translation": [
-        "Frog Cheek Meat"
+        "Froschbacke"
       ],
       "Notes": [
         ""
@@ -166,7 +166,7 @@
         "Frigid Core"
       ],
       "Translation": [
-        "Frigid Core"
+        "Frierender Kern"
       ],
       "Notes": [
         ""
@@ -179,7 +179,7 @@
         "Frog Fluid"
       ],
       "Translation": [
-        "Frog Fluid"
+        "Froschflüssigkeit"
       ],
       "Notes": [
         ""
@@ -192,7 +192,7 @@
         "Mandrake Root"
       ],
       "Translation": [
-        "Mandrake Root"
+        "Alraunenwurzel"
       ],
       "Notes": [
         ""
@@ -205,10 +205,10 @@
         "Sealed Neck"
       ],
       "Translation": [
-        "Sealed Neck"
+        "Versiegelter Hals"
       ],
       "Notes": [
-        ""
+        "Overflow"
       ]
     },
     {
@@ -218,7 +218,7 @@
         "Soft Plume"
       ],
       "Translation": [
-        "Soft Plume"
+        "Weiche Feder"
       ],
       "Notes": [
         ""
@@ -231,7 +231,7 @@
         "Shocked Talon"
       ],
       "Translation": [
-        "Shocked Talon"
+        "Elektr. Klaue"
       ],
       "Notes": [
         ""
@@ -244,7 +244,7 @@
         "Rainbow Skin"
       ],
       "Translation": [
-        "Rainbow Skin"
+        "Regenbogenhaut"
       ],
       "Notes": [
         ""
@@ -257,7 +257,7 @@
         "Rickrack Tongue"
       ],
       "Translation": [
-        "Rickrack Tongue"
+        "Zackenzunge"
       ],
       "Notes": [
         ""
@@ -270,7 +270,7 @@
         "Needle Tail"
       ],
       "Translation": [
-        "Needle Tail"
+        "Nadelschwanz"
       ],
       "Notes": [
         ""
@@ -283,7 +283,7 @@
         "Panic Chakra"
       ],
       "Translation": [
-        "Panic Chakra"
+        "Panisches Chakra"
       ],
       "Notes": [
         ""
@@ -296,10 +296,10 @@
         "Light Hardwood"
       ],
       "Translation": [
-        "Light Hardwood"
+        "Leichtes Hartholz"
       ],
       "Notes": [
-        ""
+        "Overflow?"
       ]
     },
     {
@@ -309,7 +309,7 @@
         "Writhing Bulb"
       ],
       "Translation": [
-        "Writhing Bulb"
+        "Krümmknolle"
       ],
       "Notes": [
         ""
@@ -322,7 +322,7 @@
         "Big Shell"
       ],
       "Translation": [
-        "Big Shell"
+        "Großer Panzer"
       ],
       "Notes": [
         ""
@@ -335,7 +335,7 @@
         "Elastic Skin"
       ],
       "Translation": [
-        "Elastic Skin"
+        "Elastische Haut"
       ],
       "Notes": [
         ""
@@ -348,7 +348,7 @@
         "Baboon Skin"
       ],
       "Translation": [
-        "Baboon Skin"
+        "Pavianfell"
       ],
       "Notes": [
         ""
@@ -361,7 +361,7 @@
         "Purple Wing"
       ],
       "Translation": [
-        "Purple Wing"
+        "Lilaflügel"
       ],
       "Notes": [
         ""
@@ -374,7 +374,7 @@
         "Bear Claw"
       ],
       "Translation": [
-        "Bear Claw"
+        "Bärenkralle"
       ],
       "Notes": [
         ""
@@ -387,7 +387,7 @@
         "Locust Horn"
       ],
       "Translation": [
-        "Locust Horn"
+        "Heuschreckhorn"
       ],
       "Notes": [
         ""
@@ -400,7 +400,7 @@
         "Rending Claw"
       ],
       "Translation": [
-        "Rending Claw"
+        "Reißende Klaue"
       ],
       "Notes": [
         ""
@@ -413,7 +413,7 @@
         "Dangerous Bud"
       ],
       "Translation": [
-        "Dangerous Bud"
+        "Gefahrenknospe"
       ],
       "Notes": [
         ""
@@ -426,7 +426,7 @@
         "Fawn Hide"
       ],
       "Translation": [
-        "Fawn Hide"
+        "Rehkitzfell"
       ],
       "Notes": [
         ""
@@ -439,7 +439,7 @@
         "Huge Feather"
       ],
       "Translation": [
-        "Huge Feather"
+        "Riesenfeder"
       ],
       "Notes": [
         ""
@@ -452,10 +452,10 @@
         "Fawn Hide"
       ],
       "Translation": [
-        "Fawn Hide"
+        "Rehkitzfell"
       ],
       "Notes": [
-        ""
+        "Duplikat von 032?"
       ]
     },
     {
@@ -465,7 +465,7 @@
         "Fawn Hoof"
       ],
       "Translation": [
-        "Fawn Hoof"
+        "Rehkitzhuf"
       ],
       "Notes": [
         ""
@@ -478,7 +478,7 @@
         "Dinogator Skin"
       ],
       "Translation": [
-        "Dinogator Skin"
+        "Dinogatorhaut"
       ],
       "Notes": [
         ""
@@ -491,7 +491,7 @@
         "Sealed Claw"
       ],
       "Translation": [
-        "Sealed Claw"
+        "Versiegelte Klaue"
       ],
       "Notes": [
         ""
@@ -504,7 +504,7 @@
         "Kangaroo Fist"
       ],
       "Translation": [
-        "Kangaroo Fist"
+        "Kängurufaust"
       ],
       "Notes": [
         ""
@@ -517,7 +517,7 @@
         "Raptor Claw"
       ],
       "Translation": [
-        "Raptor Claw"
+        "Raptorklaue"
       ],
       "Notes": [
         ""
@@ -530,7 +530,7 @@
         "Berserker Claw"
       ],
       "Translation": [
-        "Berserker Claw"
+        "Berserkerklaue"
       ],
       "Notes": [
         ""
@@ -543,7 +543,7 @@
         "Berserker Skin"
       ],
       "Translation": [
-        "Berserker Skin"
+        "Berserkerhaut"
       ],
       "Notes": [
         ""
@@ -556,7 +556,7 @@
         "Sealed Skull"
       ],
       "Translation": [
-        "Sealed Skull"
+        "Versiegelschädel"
       ],
       "Notes": [
         ""
@@ -569,7 +569,7 @@
         "Rabbit Tail"
       ],
       "Translation": [
-        "Rabbit Tail"
+        "Hasenschwanz"
       ],
       "Notes": [
         ""
@@ -582,7 +582,7 @@
         "Rabbit Ear"
       ],
       "Translation": [
-        "Rabbit Ear"
+        "Hasenohr"
       ],
       "Notes": [
         ""
@@ -595,7 +595,7 @@
         "Muddle Hypha"
       ],
       "Translation": [
-        "Muddle Hypha"
+        "Konfushyphe"
       ],
       "Notes": [
         ""
@@ -608,7 +608,7 @@
         "Umbrella Lump"
       ],
       "Translation": [
-        "Umbrella Lump"
+        "Schirmknoten"
       ],
       "Notes": [
         ""
@@ -621,7 +621,7 @@
         "Mountain Claw"
       ],
       "Translation": [
-        "Mountain Claw"
+        "Bergklaue"
       ],
       "Notes": [
         ""
@@ -634,7 +634,7 @@
         "Metallic Horn"
       ],
       "Translation": [
-        "Metallic Horn"
+        "Metallhorn"
       ],
       "Notes": [
         ""
@@ -647,7 +647,7 @@
         "Dangerous Petal"
       ],
       "Translation": [
-        "Dangerous Petal"
+        "Gefahrenblatt"
       ],
       "Notes": [
         ""
@@ -660,7 +660,7 @@
         "Fiery Rind"
       ],
       "Translation": [
-        "Fiery Rind"
+        "Feuerrinde"
       ],
       "Notes": [
         ""
@@ -673,7 +673,7 @@
         "Fiery Seed"
       ],
       "Translation": [
-        "Fiery Seed"
+        "Feuersaat"
       ],
       "Notes": [
         ""
@@ -686,7 +686,7 @@
         "Ebony Fur"
       ],
       "Translation": [
-        "Ebony Fur"
+        "Ebenholzpelz"
       ],
       "Notes": [
         ""
@@ -699,7 +699,7 @@
         "Ebony Claw"
       ],
       "Translation": [
-        "Ebony Claw"
+        "Ebenholzklaue"
       ],
       "Notes": [
         ""
@@ -712,7 +712,7 @@
         "Bud Tusk"
       ],
       "Translation": [
-        "Bud Tusk"
+        "Knospenhauer"
       ],
       "Notes": [
         ""
@@ -725,7 +725,7 @@
         "Pliant Vine"
       ],
       "Translation": [
-        "Pliant Vine"
+        "Biegsame Ranke"
       ],
       "Notes": [
         ""
@@ -738,7 +738,7 @@
         "Boar Tusk"
       ],
       "Translation": [
-        "Boar Tusk"
+        "Eberzahn"
       ],
       "Notes": [
         ""
@@ -751,7 +751,7 @@
         "Boar Skin"
       ],
       "Translation": [
-        "Boar Skin"
+        "Eberhaut"
       ],
       "Notes": [
         ""
@@ -764,7 +764,7 @@
         "Mist Wand Shard"
       ],
       "Translation": [
-        "Mist Wand Shard"
+        "Nebelstabsplitter"
       ],
       "Notes": [
         ""
@@ -777,7 +777,7 @@
         "Green Feather"
       ],
       "Translation": [
-        "Green Feather"
+        "Grüne Feder"
       ],
       "Notes": [
         ""
@@ -790,10 +790,10 @@
         "Largebill Bone"
       ],
       "Translation": [
-        "Largebill Bone"
+        "Vogelknochen"
       ],
       "Notes": [
-        ""
+        "Eigentlich Monstername, evtl. sonst zu lang?"
       ]
     },
     {
@@ -803,7 +803,7 @@
         "Lance Shard"
       ],
       "Translation": [
-        "Lance Shard"
+        "Lanzenfragment"
       ],
       "Notes": [
         ""
@@ -816,7 +816,7 @@
         "Lizard Back Fin"
       ],
       "Translation": [
-        "Lizard Back Fin"
+        "Echsenflosse"
       ],
       "Notes": [
         ""
@@ -829,7 +829,7 @@
         "Cursed Wool"
       ],
       "Translation": [
-        "Cursed Wool"
+        "Verfluchte Wolle"
       ],
       "Notes": [
         ""
@@ -842,7 +842,7 @@
         "Violet Wing"
       ],
       "Translation": [
-        "Violet Wing"
+        "Purpurflügel"
       ],
       "Notes": [
         ""
@@ -855,7 +855,7 @@
         "Moa Beak"
       ],
       "Translation": [
-        "Moa Beak"
+        "Moaschnabel"
       ],
       "Notes": [
         ""
@@ -868,7 +868,7 @@
         "Spotted Tongue"
       ],
       "Translation": [
-        "Spotted Tongue"
+        "Gefleckte Zunge"
       ],
       "Notes": [
         ""
@@ -881,7 +881,7 @@
         "Soft Sickle"
       ],
       "Translation": [
-        "Soft Sickle"
+        "Weiche Sichel"
       ],
       "Notes": [
         ""
@@ -894,7 +894,7 @@
         "Stony Scythe"
       ],
       "Translation": [
-        "Stony Scythe"
+        "Steinsense"
       ],
       "Notes": [
         ""
@@ -907,7 +907,7 @@
         "Dress Scrap"
       ],
       "Translation": [
-        "Dress Scrap"
+        "Kleidungsfetzen"
       ],
       "Notes": [
         ""
@@ -920,7 +920,7 @@
         "Cursed Eye"
       ],
       "Translation": [
-        "Cursed Eye"
+        "Verfluchtes Auge"
       ],
       "Notes": [
         ""
@@ -933,7 +933,7 @@
         "Slender Horn"
       ],
       "Translation": [
-        "Slender Horn"
+        "Schlankes Horn"
       ],
       "Notes": [
         ""
@@ -946,7 +946,7 @@
         "Zapper Skin"
       ],
       "Translation": [
-        "Zapper Skin"
+        "Blitzerhaut"
       ],
       "Notes": [
         ""
@@ -959,7 +959,7 @@
         "Zapper Tongue"
       ],
       "Translation": [
-        "Zapper Tongue"
+        "Blitzerzunge"
       ],
       "Notes": [
         ""
@@ -972,7 +972,7 @@
         "Frog Belly Skin"
       ],
       "Translation": [
-        "Frog Belly Skin"
+        "Froschbauchhaut"
       ],
       "Notes": [
         ""
@@ -985,7 +985,7 @@
         "Glassy Eye"
       ],
       "Translation": [
-        "Glassy Eye"
+        "Gläsernes Auge"
       ],
       "Notes": [
         ""
@@ -998,7 +998,7 @@
         "Tough Leg"
       ],
       "Translation": [
-        "Tough Leg"
+        "Zähes Bein"
       ],
       "Notes": [
         ""
@@ -1011,7 +1011,7 @@
         "Hopper Wing"
       ],
       "Translation": [
-        "Hopper Wing"
+        "Hüpferflügel"
       ],
       "Notes": [
         ""
@@ -1024,7 +1024,7 @@
         "Hard Shell"
       ],
       "Translation": [
-        "Hard Shell"
+        "Harter Panzer"
       ],
       "Notes": [
         ""
@@ -1037,7 +1037,7 @@
         "Beetle Sickle"
       ],
       "Translation": [
-        "Beetle Sickle"
+        "Käfersichel"
       ],
       "Notes": [
         ""
@@ -1050,7 +1050,7 @@
         "Broken Horn"
       ],
       "Translation": [
-        "Broken Horn"
+        "Geknicktes Horn"
       ],
       "Notes": [
         ""
@@ -1063,7 +1063,7 @@
         "Bat Fang"
       ],
       "Translation": [
-        "Bat Fang"
+        "Fledermauszahn"
       ],
       "Notes": [
         ""
@@ -1076,7 +1076,7 @@
         "Soft Patagium"
       ],
       "Translation": [
-        "Soft Patagium"
+        "Weiche Flughaut"
       ],
       "Notes": [
         ""
@@ -1089,7 +1089,7 @@
         "Scorch Stone"
       ],
       "Translation": [
-        "Scorch Stone"
+        "Sengender Stein"
       ],
       "Notes": [
         ""
@@ -1102,7 +1102,7 @@
         "Hardened Lava"
       ],
       "Translation": [
-        "Hardened Lava"
+        "Gehärtete Lava"
       ],
       "Notes": [
         ""
@@ -1115,7 +1115,7 @@
         "Frigid Stone"
       ],
       "Translation": [
-        "Frigid Stone"
+        "Frierender Stein"
       ],
       "Notes": [
         ""
@@ -1128,7 +1128,7 @@
         "Ice Core Shard"
       ],
       "Translation": [
-        "Ice Core Shard"
+        "Eiskernsplitter"
       ],
       "Notes": [
         ""
@@ -1141,7 +1141,7 @@
         "Withered Vine"
       ],
       "Translation": [
-        "Withered Vine"
+        "Welke Ranke"
       ],
       "Notes": [
         ""
@@ -1154,7 +1154,7 @@
         "Thick Bone"
       ],
       "Translation": [
-        "Thick Bone"
+        "Dicker Knochen"
       ],
       "Notes": [
         ""
@@ -1167,7 +1167,7 @@
         "Poison Hypha"
       ],
       "Translation": [
-        "Poison Hypha"
+        "Gifthyphe"
       ],
       "Notes": [
         ""
@@ -1180,10 +1180,10 @@
         "Poison Ferrule"
       ],
       "Translation": [
-        "Poison Ferrule"
+        "Gifthülse"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -1193,7 +1193,7 @@
         "Shining Rectrix"
       ],
       "Translation": [
-        "Shining Rectrix"
+        "Leuchtschwanz"
       ],
       "Notes": [
         ""
@@ -1206,7 +1206,7 @@
         "Armor Shard"
       ],
       "Translation": [
-        "Armor Shard"
+        "Rüstungssplitter"
       ],
       "Notes": [
         ""
@@ -1219,7 +1219,7 @@
         "Giant Wing"
       ],
       "Translation": [
-        "Giant Wing"
+        "Riesenflügel"
       ],
       "Notes": [
         ""
@@ -1232,7 +1232,7 @@
         "Poison Trihorn"
       ],
       "Translation": [
-        "Poison Trihorn"
+        "Gift-Dreihorn"
       ],
       "Notes": [
         ""
@@ -1245,7 +1245,7 @@
         "Raptor Wing"
       ],
       "Translation": [
-        "Raptor Wing"
+        "Raptorflügel"
       ],
       "Notes": [
         ""
@@ -1258,7 +1258,7 @@
         "Fiery Horn"
       ],
       "Translation": [
-        "Fiery Horn"
+        "Feuerhorn"
       ],
       "Notes": [
         ""
@@ -1271,7 +1271,7 @@
         "Effulgent Horn"
       ],
       "Translation": [
-        "Effulgent Horn"
+        "Glanzhorn"
       ],
       "Notes": [
         ""
@@ -1284,7 +1284,7 @@
         "Frigid Sickle"
       ],
       "Translation": [
-        "Frigid Sickle"
+        "Frierende Sichel"
       ],
       "Notes": [
         ""
@@ -1297,7 +1297,7 @@
         "Kingly Horn"
       ],
       "Translation": [
-        "Kingly Horn"
+        "Edelhorn"
       ],
       "Notes": [
         ""
@@ -1310,7 +1310,7 @@
         "Kingly Skin"
       ],
       "Translation": [
-        "Kingly Skin"
+        "Edelhaut"
       ],
       "Notes": [
         ""
@@ -1323,10 +1323,10 @@
         "Crusher's Hide"
       ],
       "Translation": [
-        "Crusher's Hide"
+        "Brecherleder"
       ],
       "Notes": [
-        ""
+        "Übersetzung? Drop von Tusked Crusher"
       ]
     },
     {
@@ -1336,7 +1336,7 @@
         "Heavy Iron Ball"
       ],
       "Translation": [
-        "Heavy Iron Ball"
+        "Schwermetallball"
       ],
       "Notes": [
         ""
@@ -1349,7 +1349,7 @@
         "Mystery Shard"
       ],
       "Translation": [
-        "Mystery Shard"
+        "Rätselsplitter"
       ],
       "Notes": [
         ""
@@ -1362,10 +1362,10 @@
         "Stone Fang"
       ],
       "Translation": [
-        "Stone Fang"
+        "Steinhauer"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -1375,7 +1375,7 @@
         "Metallic Cord"
       ],
       "Translation": [
-        "Metallic Cord"
+        "Metallschnur"
       ],
       "Notes": [
         ""
@@ -1388,7 +1388,7 @@
         "Crimson Fur"
       ],
       "Translation": [
-        "Crimson Fur"
+        "Karmesinpelz"
       ],
       "Notes": [
         ""
@@ -1401,7 +1401,7 @@
         "Flame Claw"
       ],
       "Translation": [
-        "Flame Claw"
+        "Flammenklaue"
       ],
       "Notes": [
         ""
@@ -1414,7 +1414,7 @@
         "Flame Fang"
       ],
       "Translation": [
-        "Flame Fang"
+        "Flammenzahn"
       ],
       "Notes": [
         ""
@@ -1427,7 +1427,7 @@
         "Cursed Hypha"
       ],
       "Translation": [
-        "Cursed Hypha"
+        "Fluchhyphe"
       ],
       "Notes": [
         ""
@@ -1440,7 +1440,7 @@
         "Evil Copal"
       ],
       "Translation": [
-        "Evil Copal"
+        "Übelkopal"
       ],
       "Notes": [
         ""
@@ -1453,7 +1453,7 @@
         "White Ape Skin"
       ],
       "Translation": [
-        "White Ape Skin"
+        "Weißaffenhaut"
       ],
       "Notes": [
         ""
@@ -1466,7 +1466,7 @@
         "Barbed Needle"
       ],
       "Translation": [
-        "Barbed Needle"
+        "Spitznadel"
       ],
       "Notes": [
         ""
@@ -1479,7 +1479,7 @@
         "Barbed Shell"
       ],
       "Translation": [
-        "Barbed Shell"
+        "Spitzpanzer"
       ],
       "Notes": [
         ""
@@ -1492,7 +1492,7 @@
         "Hard Bark"
       ],
       "Translation": [
-        "Hard Bark"
+        "Hartrinde"
       ],
       "Notes": [
         ""
@@ -1505,7 +1505,7 @@
         "Tiny Tooth"
       ],
       "Translation": [
-        "Tiny Tooth"
+        "Kleiner Zahn"
       ],
       "Notes": [
         ""
@@ -1518,7 +1518,7 @@
         "Blue Ear"
       ],
       "Translation": [
-        "Blue Ear"
+        "Blauohr"
       ],
       "Notes": [
         ""
@@ -1531,7 +1531,7 @@
         "Wallaby Fist"
       ],
       "Translation": [
-        "Wallaby Fist"
+        "Wallabyfaust"
       ],
       "Notes": [
         ""
@@ -1544,7 +1544,7 @@
         "Peach Feather"
       ],
       "Translation": [
-        "Peach Feather"
+        "Pfirsichfeder"
       ],
       "Notes": [
         ""
@@ -1557,7 +1557,7 @@
         "Peach Leg"
       ],
       "Translation": [
-        "Peach Leg"
+        "Pfirsichschenkel"
       ],
       "Notes": [
         ""
@@ -1570,7 +1570,7 @@
         "Purple Hyoid"
       ],
       "Translation": [
-        "Purple Hyoid"
+        "Purpurhyoid"
       ],
       "Notes": [
         ""
@@ -1583,7 +1583,7 @@
         "Spiked Iron Ball"
       ],
       "Translation": [
-        "Spiked Iron Ball"
+        "Stachelmetallball"
       ],
       "Notes": [
         ""
@@ -1596,7 +1596,7 @@
         "Stone Tusk"
       ],
       "Translation": [
-        "Stone Tusk"
+        "Steinstoßzahn"
       ],
       "Notes": [
         ""
@@ -1609,7 +1609,7 @@
         "Earthy Skin"
       ],
       "Translation": [
-        "Earthy Skin"
+        "Erdige Haut"
       ],
       "Notes": [
         ""
@@ -1622,7 +1622,7 @@
         "Golden Horn"
       ],
       "Translation": [
-        "Golden Horn"
+        "Goldenes Horn"
       ],
       "Notes": [
         ""
@@ -1635,7 +1635,7 @@
         "Unusual Metal"
       ],
       "Translation": [
-        "Unusual Metal"
+        "Seltenes Metall"
       ],
       "Notes": [
         ""
@@ -1648,7 +1648,7 @@
         "Sintered Body"
       ],
       "Translation": [
-        "Sintered Body"
+        "Sinterkörper"
       ],
       "Notes": [
         ""
@@ -1661,7 +1661,7 @@
         "Shell Spike"
       ],
       "Translation": [
-        "Shell Spike"
+        "Panzerstachel"
       ],
       "Notes": [
         ""
@@ -1674,7 +1674,7 @@
         "Stone Arm"
       ],
       "Translation": [
-        "Stone Arm"
+        "Steinarm"
       ],
       "Notes": [
         ""
@@ -1687,7 +1687,7 @@
         "Dream Carapace"
       ],
       "Translation": [
-        "Dream Carapace"
+        "Traumcarapax"
       ],
       "Notes": [
         ""
@@ -1700,7 +1700,7 @@
         "Mole Claw"
       ],
       "Translation": [
-        "Mole Claw"
+        "Maulwurfklaue"
       ],
       "Notes": [
         ""
@@ -1713,7 +1713,7 @@
         "Mole Skin"
       ],
       "Translation": [
-        "Mole Skin"
+        "Maulwurfhaut"
       ],
       "Notes": [
         ""
@@ -1726,7 +1726,7 @@
         "Dragonfly Nest"
       ],
       "Translation": [
-        "Dragonfly Nest"
+        "Libellennest"
       ],
       "Notes": [
         ""
@@ -1739,7 +1739,7 @@
         "Shocked Bug Eye"
       ],
       "Translation": [
-        "Shocked Bug Eye"
+        "Elektr. Käferauge"
       ],
       "Notes": [
         ""
@@ -1752,7 +1752,7 @@
         "Butterfly Wing"
       ],
       "Translation": [
-        "Butterfly Wing"
+        "Falterflügel"
       ],
       "Notes": [
         ""
@@ -1778,7 +1778,7 @@
         "Bloody Fist"
       ],
       "Translation": [
-        "Bloody Fist"
+        "Blutige Faust"
       ],
       "Notes": [
         ""
@@ -1791,7 +1791,7 @@
         "Sharp Claw"
       ],
       "Translation": [
-        "Sharp Claw"
+        "Scharfklaue"
       ],
       "Notes": [
         ""
@@ -1804,7 +1804,7 @@
         "Magma Core"
       ],
       "Translation": [
-        "Magma Core"
+        "Magmakern"
       ],
       "Notes": [
         ""
@@ -1817,7 +1817,7 @@
         "Magma Shard"
       ],
       "Translation": [
-        "Magma Shard"
+        "Magmasplitter"
       ],
       "Notes": [
         ""
@@ -1830,7 +1830,7 @@
         "Glacier Core"
       ],
       "Translation": [
-        "Glacier Core"
+        "Gletscherkern"
       ],
       "Notes": [
         ""
@@ -1843,7 +1843,7 @@
         "Melted Core"
       ],
       "Translation": [
-        "Melted Core"
+        "Schmelzkern"
       ],
       "Notes": [
         ""
@@ -1856,10 +1856,10 @@
         "Black Root"
       ],
       "Translation": [
-        "Black Root"
+        "Schwarzwurzel"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -1869,7 +1869,7 @@
         "Cold Skin"
       ],
       "Translation": [
-        "Cold Skin"
+        "Eisige Haut"
       ],
       "Notes": [
         ""
@@ -1882,7 +1882,7 @@
         "Spear Shard"
       ],
       "Translation": [
-        "Spear Shard"
+        "Speerstück"
       ],
       "Notes": [
         ""
@@ -1895,7 +1895,7 @@
         "Spear Pole"
       ],
       "Translation": [
-        "Spear Pole"
+        "Speerstab"
       ],
       "Notes": [
         ""
@@ -1908,7 +1908,7 @@
         "Icy Rind"
       ],
       "Translation": [
-        "Icy Rind"
+        "Vereiste Rinde"
       ],
       "Notes": [
         ""
@@ -1921,7 +1921,7 @@
         "Icy Seed"
       ],
       "Translation": [
-        "Icy Seed"
+        "Vereister Samen"
       ],
       "Notes": [
         ""
@@ -1934,7 +1934,7 @@
         "Thunder Tooth"
       ],
       "Translation": [
-        "Thunder Tooth"
+        "Donnerzahn"
       ],
       "Notes": [
         ""
@@ -1947,7 +1947,7 @@
         "Ape Bone"
       ],
       "Translation": [
-        "Ape Bone"
+        "Affenknochen"
       ],
       "Notes": [
         ""
@@ -1960,7 +1960,7 @@
         "Locust Leg"
       ],
       "Translation": [
-        "Locust Leg"
+        "Schreckenbein"
       ],
       "Notes": [
         ""
@@ -1973,7 +1973,7 @@
         "Locust Wing"
       ],
       "Translation": [
-        "Locust Wing"
+        "Schreckenflügel"
       ],
       "Notes": [
         ""
@@ -1986,7 +1986,7 @@
         "Beetle Shell"
       ],
       "Translation": [
-        "Beetle Shell"
+        "Käferpanzer"
       ],
       "Notes": [
         ""
@@ -1999,7 +1999,7 @@
         "Crimson Fang"
       ],
       "Translation": [
-        "Crimson Fang"
+        "Karmesinzahn"
       ],
       "Notes": [
         ""
@@ -2012,7 +2012,7 @@
         "Crimson Wing"
       ],
       "Translation": [
-        "Crimson Wing"
+        "Karmesinflügel"
       ],
       "Notes": [
         ""
@@ -2025,7 +2025,7 @@
         "Lion Claw"
       ],
       "Translation": [
-        "Lion Claw"
+        "Löwenpranke"
       ],
       "Notes": [
         ""
@@ -2038,7 +2038,7 @@
         "Ape Hide"
       ],
       "Translation": [
-        "Ape Hide"
+        "Affenfell"
       ],
       "Notes": [
         ""
@@ -2051,7 +2051,7 @@
         "Death's Scythe"
       ],
       "Translation": [
-        "Death's Scythe"
+        "Todessense"
       ],
       "Notes": [
         ""
@@ -2064,7 +2064,7 @@
         "Killer Blade"
       ],
       "Translation": [
-        "Killer Blade"
+        "Killerklinge"
       ],
       "Notes": [
         ""
@@ -2077,7 +2077,7 @@
         "Guardian Shell"
       ],
       "Translation": [
-        "Guardian Shell"
+        "Schutzpanzerung"
       ],
       "Notes": [
         ""
@@ -2090,7 +2090,7 @@
         "Thorny Shell"
       ],
       "Translation": [
-        "Thorny Shell"
+        "Dornenpanzer"
       ],
       "Notes": [
         ""
@@ -2103,7 +2103,7 @@
         "Moa Tendon"
       ],
       "Translation": [
-        "Moa Tendon"
+        "Moasehne"
       ],
       "Notes": [
         ""
@@ -2116,10 +2116,10 @@
         "Desouler Claw"
       ],
       "Translation": [
-        "Desouler Claw"
+        "Silberklauen"
       ],
       "Notes": [
-        ""
+        "Desouler-Monster, \"shining silver claws\" laut Beschreibung"
       ]
     },
     {
@@ -2129,7 +2129,7 @@
         "Giant Petal"
       ],
       "Translation": [
-        "Giant Petal"
+        "Riesenblüte"
       ],
       "Notes": [
         ""
@@ -2142,7 +2142,7 @@
         "Drive Gear"
       ],
       "Translation": [
-        "Drive Gear"
+        "Antriebszahnrad"
       ],
       "Notes": [
         ""
@@ -2155,7 +2155,7 @@
         "Bone Shard"
       ],
       "Translation": [
-        "Bone Shard"
+        "Knochensplitter"
       ],
       "Notes": [
         ""
@@ -2168,7 +2168,7 @@
         "Raptor Beak"
       ],
       "Translation": [
-        "Raptor Beak"
+        "Raptorschnabel"
       ],
       "Notes": [
         ""
@@ -2181,7 +2181,7 @@
         "Sand Horn"
       ],
       "Translation": [
-        "Sand Horn"
+        "Sandhorn"
       ],
       "Notes": [
         ""
@@ -2194,7 +2194,7 @@
         "Colorful Skin"
       ],
       "Translation": [
-        "Colorful Skin"
+        "Chameleonhaut"
       ],
       "Notes": [
         ""
@@ -2207,7 +2207,7 @@
         "Stone Shell"
       ],
       "Translation": [
-        "Stone Shell"
+        "Steinpanzer"
       ],
       "Notes": [
         ""
@@ -2220,7 +2220,7 @@
         "Eryngii Cap"
       ],
       "Translation": [
-        "Eryngii Cap"
+        "Schwammschirm"
       ],
       "Notes": [
         ""
@@ -2233,7 +2233,7 @@
         "Eryngii Hypha"
       ],
       "Translation": [
-        "Eryngii Hypha"
+        "Schwammhyphe"
       ],
       "Notes": [
         ""
@@ -2246,10 +2246,10 @@
         "Sky Iron Claw"
       ],
       "Translation": [
-        "Sky Iron Claw"
+        "Himmelsklaue"
       ],
       "Notes": [
-        ""
+        "Übersetzung? \"Iron\" einbeziehen?"
       ]
     },
     {
@@ -2259,7 +2259,7 @@
         "Toxic Bone"
       ],
       "Translation": [
-        "Toxic Bone"
+        "Giftknochen"
       ],
       "Notes": [
         ""
@@ -2272,10 +2272,10 @@
         "Sky Iron Shell"
       ],
       "Translation": [
-        "Sky Iron Shell"
+        "Himmelspanzer"
       ],
       "Notes": [
-        ""
+        "Übersetzung? \"Iron\" einbeziehen?"
       ]
     },
     {
@@ -2285,7 +2285,7 @@
         "Sealed Cap"
       ],
       "Translation": [
-        "Sealed Cap"
+        "Siegelschirm"
       ],
       "Notes": [
         ""
@@ -2298,7 +2298,7 @@
         "Golden Shell"
       ],
       "Translation": [
-        "Golden Shell"
+        "Goldener Panzer"
       ],
       "Notes": [
         ""
@@ -2311,7 +2311,7 @@
         "Flame Tail"
       ],
       "Translation": [
-        "Flame Tail"
+        "Flammschwanz"
       ],
       "Notes": [
         ""
@@ -2324,7 +2324,7 @@
         "Indigo Vine"
       ],
       "Translation": [
-        "Indigo Vine"
+        "Indigoranke"
       ],
       "Notes": [
         ""
@@ -2337,7 +2337,7 @@
         "Scorched Petal"
       ],
       "Translation": [
-        "Scorched Petal"
+        "Versengte Blüte"
       ],
       "Notes": [
         ""
@@ -2350,7 +2350,7 @@
         "Staff Shard"
       ],
       "Translation": [
-        "Staff Shard"
+        "Stabsplitter"
       ],
       "Notes": [
         ""
@@ -2363,7 +2363,7 @@
         "Frozen Heart"
       ],
       "Translation": [
-        "Frozen Heart"
+        "Vereistes Herz"
       ],
       "Notes": [
         ""
@@ -2376,7 +2376,7 @@
         "Petal Stone"
       ],
       "Translation": [
-        "Petal Stone"
+        "Blattartiger Stein"
       ],
       "Notes": [
         ""
@@ -2389,7 +2389,7 @@
         "Broken Core"
       ],
       "Translation": [
-        "Broken Core"
+        "Brüchiger Kern"
       ],
       "Notes": [
         ""
@@ -2402,7 +2402,7 @@
         "Raptor Talon"
       ],
       "Translation": [
-        "Raptor Talon"
+        "Raptorkralle"
       ],
       "Notes": [
         ""
@@ -2415,7 +2415,7 @@
         "Scorched Sap"
       ],
       "Translation": [
-        "Scorched Sap"
+        "Verbrannter Saft"
       ],
       "Notes": [
         ""
@@ -2428,7 +2428,7 @@
         "Deathly Vine"
       ],
       "Translation": [
-        "Deathly Vine"
+        "Tödliche Ranke"
       ],
       "Notes": [
         ""
@@ -2441,7 +2441,7 @@
         "Deathly Bud"
       ],
       "Translation": [
-        "Deathly Bud"
+        "Tödliche Knospe"
       ],
       "Notes": [
         ""
@@ -2454,10 +2454,10 @@
         "Sky Iron Nail"
       ],
       "Translation": [
-        "Sky Iron Nail"
+        "Himmelsnagel"
       ],
       "Notes": [
-        ""
+        "Übersetzung? \"Iron\" einbeziehen?"
       ]
     },
     {
@@ -2467,7 +2467,7 @@
         "Blue Blood"
       ],
       "Translation": [
-        "Blue Blood"
+        "Blaues Blut"
       ],
       "Notes": [
         ""
@@ -2480,7 +2480,7 @@
         "Writhing Wood"
       ],
       "Translation": [
-        "Writhing Wood"
+        "Krümmholz"
       ],
       "Notes": [
         ""
@@ -2493,7 +2493,7 @@
         "Poison Branch"
       ],
       "Translation": [
-        "Poison Branch"
+        "Giftzweig"
       ],
       "Notes": [
         ""
@@ -2506,7 +2506,7 @@
         "Red Lion Hide"
       ],
       "Translation": [
-        "Red Lion Hide"
+        "Löwenmähne"
       ],
       "Notes": [
         ""
@@ -2519,7 +2519,7 @@
         "Red Lion Fang"
       ],
       "Translation": [
-        "Red Lion Fang"
+        "Löwenzahn"
       ],
       "Notes": [
         ""
@@ -2532,7 +2532,7 @@
         "Horrific Breath"
       ],
       "Translation": [
-        "Horrific Breath"
+        "Übler Atem"
       ],
       "Notes": [
         ""
@@ -2545,7 +2545,7 @@
         "Toxic Eye"
       ],
       "Translation": [
-        "Toxic Eye"
+        "Giftauge"
       ],
       "Notes": [
         ""
@@ -2558,7 +2558,7 @@
         "Thorny Bone"
       ],
       "Translation": [
-        "Thorny Bone"
+        "Dornenknochen"
       ],
       "Notes": [
         ""
@@ -2571,7 +2571,7 @@
         "Pale Bone"
       ],
       "Translation": [
-        "Pale Bone"
+        "Blassknochen"
       ],
       "Notes": [
         ""
@@ -2584,7 +2584,7 @@
         "Cursed Bone"
       ],
       "Translation": [
-        "Cursed Bone"
+        "Fluchknochen"
       ],
       "Notes": [
         ""
@@ -2597,7 +2597,7 @@
         "Cursed Vine"
       ],
       "Translation": [
-        "Cursed Vine"
+        "Fluchranke"
       ],
       "Notes": [
         ""
@@ -2610,7 +2610,7 @@
         "Cursed Femur"
       ],
       "Translation": [
-        "Cursed Femur"
+        "Fluchfemur"
       ],
       "Notes": [
         ""
@@ -2623,7 +2623,7 @@
         "Pumpkin Head"
       ],
       "Translation": [
-        "Pumpkin Head"
+        "Kürbiskopf"
       ],
       "Notes": [
         ""
@@ -2636,7 +2636,7 @@
         "Crimson Eye"
       ],
       "Translation": [
-        "Crimson Eye"
+        "Karmesinauge"
       ],
       "Notes": [
         ""
@@ -2649,7 +2649,7 @@
         "Eerie Scales"
       ],
       "Translation": [
-        "Eerie Scales"
+        "Gruselschuppen"
       ],
       "Notes": [
         ""
@@ -2662,7 +2662,7 @@
         "Emperor Feather"
       ],
       "Translation": [
-        "Emperor Feather"
+        "Imperatorfeder"
       ],
       "Notes": [
         ""
@@ -2688,7 +2688,7 @@
         "Black Horn"
       ],
       "Translation": [
-        "Black Horn"
+        "Schwarzhorn"
       ],
       "Notes": [
         ""
@@ -2714,7 +2714,7 @@
         "Fallen Scale"
       ],
       "Translation": [
-        "Fallen Scale"
+        "Schwarzschuppe"
       ],
       "Notes": [
         ""
@@ -2727,7 +2727,7 @@
         "Sealed Core"
       ],
       "Translation": [
-        "Sealed Core"
+        "Siegelkern"
       ],
       "Notes": [
         ""
@@ -2740,7 +2740,7 @@
         "Damascus Claw"
       ],
       "Translation": [
-        "Damascus Claw"
+        "Damaskusklaue"
       ],
       "Notes": [
         ""
@@ -2753,7 +2753,7 @@
         "Chaos Feather"
       ],
       "Translation": [
-        "Chaos Feather"
+        "Chaosfeder"
       ],
       "Notes": [
         ""
@@ -2766,7 +2766,7 @@
         "Fire Scale"
       ],
       "Translation": [
-        "Fire Scale"
+        "Feuerschuppe"
       ],
       "Notes": [
         ""
@@ -2779,7 +2779,7 @@
         "Fire Fang"
       ],
       "Translation": [
-        "Fire Fang"
+        "Feuerzahn"
       ],
       "Notes": [
         ""
@@ -2792,7 +2792,7 @@
         "Reverse Scale"
       ],
       "Translation": [
-        "Reverse Scale"
+        "Inversschuppe"
       ],
       "Notes": [
         ""
@@ -2805,7 +2805,7 @@
         "Frozen Skin"
       ],
       "Translation": [
-        "Frozen Skin"
+        "Frosthaut"
       ],
       "Notes": [
         ""
@@ -2818,7 +2818,7 @@
         "Thunder Scale"
       ],
       "Translation": [
-        "Thunder Scale"
+        "Donnerschuppe"
       ],
       "Notes": [
         ""
@@ -2831,7 +2831,7 @@
         "Charged Horn"
       ],
       "Translation": [
-        "Charged Horn"
+        "Geladenes Horn"
       ],
       "Notes": [
         ""
@@ -2844,7 +2844,7 @@
         "Warped Core"
       ],
       "Translation": [
-        "Warped Core"
+        "Verzerrter Kern"
       ],
       "Notes": [
         ""
@@ -2870,7 +2870,7 @@
         "Poison Wing"
       ],
       "Translation": [
-        "Poison Wing"
+        "Giftflügel"
       ],
       "Notes": [
         ""
@@ -2883,7 +2883,7 @@
         "Colorful Tongue"
       ],
       "Translation": [
-        "Colorful Tongue"
+        "Chameleonzunge"
       ],
       "Notes": [
         ""
@@ -3559,7 +3559,7 @@
         "Glove Grass"
       ],
       "Translation": [
-        "Glove Grass"
+        "Fingerhutgras"
       ],
       "Notes": [
         ""
@@ -3598,7 +3598,7 @@
         "Myrciaria Fruit"
       ],
       "Translation": [
-        "Myrciaria Fruit"
+        "Myrciariafrucht"
       ],
       "Notes": [
         ""
@@ -3741,7 +3741,7 @@
         "Jet-Black Pith"
       ],
       "Translation": [
-        "Jet-Black Pith"
+        "Schwarzambatch"
       ],
       "Notes": [
         ""
@@ -6744,10 +6744,10 @@
         "Vine Basket"
       ],
       "Translation": [
-        "Vine Basket"
+        "Schilfkorb"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -6757,10 +6757,10 @@
         "Plant Reference"
       ],
       "Translation": [
-        "Plant Reference"
+        "Pflanzenreferenz"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -6770,7 +6770,7 @@
         "Oak Barrel"
       ],
       "Translation": [
-        "Oak Barrel"
+        "Eichenfass"
       ],
       "Notes": [
         ""
@@ -6783,7 +6783,7 @@
         "Handmade Lunch"
       ],
       "Translation": [
-        "Handmade Lunch"
+        "Hausmannskost"
       ],
       "Notes": [
         ""
@@ -6796,10 +6796,10 @@
         "Rose Ice Stone"
       ],
       "Translation": [
-        "Rose Ice Stone"
+        "Roseneisstein"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -6809,10 +6809,10 @@
         "Insulated Pack"
       ],
       "Translation": [
-        "Insulated Pack"
+        "Isoliertes Bündel"
       ],
       "Notes": [
-        ""
+        "Passende Übersetzung für \"Pack\"?"
       ]
     },
     {
@@ -6822,7 +6822,7 @@
         "Ancient Wing"
       ],
       "Translation": [
-        "Ancient Wing"
+        "Uralter Flügel"
       ],
       "Notes": [
         ""
@@ -6835,10 +6835,10 @@
         "Special Pot"
       ],
       "Translation": [
-        "Special Pot"
+        "Besonderer Topf"
       ],
       "Notes": [
-        ""
+        "Übersetzung \"Pot\"?"
       ]
     },
     {
@@ -6848,7 +6848,7 @@
         "Genetics Text"
       ],
       "Translation": [
-        "Genetics Text"
+        "Text zur Genetik"
       ],
       "Notes": [
         ""
@@ -6861,7 +6861,7 @@
         "Fairy Bellflower"
       ],
       "Translation": [
-        "Fairy Bellflower"
+        "Feenglockenblume"
       ],
       "Notes": [
         ""
@@ -6874,7 +6874,7 @@
         "Milk Bottle"
       ],
       "Translation": [
-        "Milk Bottle"
+        "Milchflasche"
       ],
       "Notes": [
         ""
@@ -6887,7 +6887,7 @@
         "Small Necklace"
       ],
       "Translation": [
-        "Small Necklace"
+        "Kleine Halskette"
       ],
       "Notes": [
         ""
@@ -6900,7 +6900,7 @@
         "Wooden Crate"
       ],
       "Translation": [
-        "Wooden Crate"
+        "Holzkiste"
       ],
       "Notes": [
         ""
@@ -6913,7 +6913,7 @@
         "Yggdrasil Amber"
       ],
       "Translation": [
-        "Yggdrasil Amber"
+        "Yggdrasil-Bernstein"
       ],
       "Notes": [
         ""
@@ -6926,10 +6926,10 @@
         "Mysterious Pot"
       ],
       "Translation": [
-        "Mysterious Pot"
+        "Mysteriöser Topf"
       ],
       "Notes": [
-        ""
+        "Übersetzung \"Pot\"?"
       ]
     },
     {
@@ -6939,7 +6939,7 @@
         "Search Report 01"
       ],
       "Translation": [
-        "Search Report 01"
+        "Suchbericht 01"
       ],
       "Notes": [
         ""
@@ -6952,7 +6952,7 @@
         "Black Flame"
       ],
       "Translation": [
-        "Black Flame"
+        "Schwarze Flamme"
       ],
       "Notes": [
         ""
@@ -6965,10 +6965,10 @@
         "Drive Blade Key"
       ],
       "Translation": [
-        "Drive Blade Key"
+        "Antriebsklingenschlüs."
       ],
       "Notes": [
-        ""
+        "Overflow?"
       ]
     },
     {
@@ -6978,10 +6978,10 @@
         "Great Tree Key"
       ],
       "Translation": [
-        "Great Tree Key"
+        "Großer Baumschlüssel"
       ],
       "Notes": [
-        ""
+        "Overflow?"
       ]
     },
     {
@@ -7030,7 +7030,7 @@
         "Fire Fungus"
       ],
       "Translation": [
-        "Fire Fungus"
+        "Feuerpilz"
       ],
       "Notes": [
         ""
@@ -7043,7 +7043,7 @@
         "Canister"
       ],
       "Translation": [
-        "Canister"
+        "Kanister"
       ],
       "Notes": [
         ""
@@ -7056,7 +7056,7 @@
         "Count's Cufflinks"
       ],
       "Translation": [
-        "Count's Cufflinks"
+        "Manschettenknöpfe"
       ],
       "Notes": [
         ""
@@ -7069,10 +7069,10 @@
         "Fan-Shaped Shard"
       ],
       "Translation": [
-        "Fan-Shaped Shard"
+        "Fächersplitter"
       ],
       "Notes": [
-        ""
+        "Übersetzung / \"-shaped\" einarbeiten?"
       ]
     },
     {
@@ -7082,7 +7082,7 @@
         "Half Moon Shard"
       ],
       "Translation": [
-        "Half Moon Shard"
+        "Halbmondsplitter"
       ],
       "Notes": [
         ""
@@ -7095,7 +7095,7 @@
         "Old Disc"
       ],
       "Translation": [
-        "Old Disc"
+        "Alte Scheibe"
       ],
       "Notes": [
         ""
@@ -7108,10 +7108,10 @@
         "Omnikey"
       ],
       "Translation": [
-        "Omnikey"
+        "Omnischlüssel"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -7121,10 +7121,10 @@
         "Evil Eye Club"
       ],
       "Translation": [
-        "Evil Eye Club"
+        "Keule des bösen Blicks"
       ],
       "Notes": [
-        ""
+        "Übersetzung / Overflow?"
       ]
     },
     {
@@ -7134,10 +7134,10 @@
         "Capital Key"
       ],
       "Translation": [
-        "Capital Key"
+        "Hauptstadtschlüssel"
       ],
       "Notes": [
-        ""
+        "Übersetzung \"Capital\"?"
       ]
     },
     {
@@ -7147,10 +7147,10 @@
         "Deep Forest Lore"
       ],
       "Translation": [
-        "Deep Forest Lore"
+        "Waldüberlieferungen"
       ],
       "Notes": [
-        ""
+        "Übersetzung / Overflow?"
       ]
     },
     {
@@ -7160,7 +7160,7 @@
         "Bushi's Script"
       ],
       "Translation": [
-        "Bushi's Script"
+        "Bushi-Schriften"
       ],
       "Notes": [
         ""
@@ -7173,7 +7173,7 @@
         "Script of Souls"
       ],
       "Translation": [
-        "Script of Souls"
+        "Schrift der Seelen"
       ],
       "Notes": [
         ""
@@ -7181,7 +7181,7 @@
     },
     {
       "ID": 552,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Epetam"
       ],
@@ -7199,7 +7199,7 @@
         "Jute Bag"
       ],
       "Translation": [
-        "Jute Bag"
+        "Jutetasche"
       ],
       "Notes": [
         ""
@@ -7823,7 +7823,7 @@
         "Might Hammer"
       ],
       "Translation": [
-        "Might Hammer"
+        "Machthammer"
       ],
       "Notes": [
         ""
@@ -7836,7 +7836,7 @@
         "Aim Hammer"
       ],
       "Translation": [
-        "Aim Hammer"
+        "Zielhammer"
       ],
       "Notes": [
         ""
@@ -7849,7 +7849,7 @@
         "Critical Hammer"
       ],
       "Translation": [
-        "Critical Hammer"
+        "Kritischer Hammer"
       ],
       "Notes": [
         ""
@@ -7862,7 +7862,7 @@
         "Power Hammer"
       ],
       "Translation": [
-        "Power Hammer"
+        "Krafthammer"
       ],
       "Notes": [
         ""
@@ -7875,7 +7875,7 @@
         "Smart Hammer"
       ],
       "Translation": [
-        "Smart Hammer"
+        "Klughammer"
       ],
       "Notes": [
         ""
@@ -7888,7 +7888,7 @@
         "Guard Hammer"
       ],
       "Translation": [
-        "Guard Hammer"
+        "Schutzhammer"
       ],
       "Notes": [
         ""
@@ -7901,7 +7901,7 @@
         "Speed Hammer"
       ],
       "Translation": [
-        "Speed Hammer"
+        "Tempohammer"
       ],
       "Notes": [
         ""
@@ -7914,7 +7914,7 @@
         "Luck Hammer"
       ],
       "Translation": [
-        "Luck Hammer"
+        "Glückshammer"
       ],
       "Notes": [
         ""
@@ -7927,7 +7927,7 @@
         "Fire Hammer"
       ],
       "Translation": [
-        "Fire Hammer"
+        "Feuerhammer"
       ],
       "Notes": [
         ""
@@ -7940,7 +7940,7 @@
         "Ice Hammer"
       ],
       "Translation": [
-        "Ice Hammer"
+        "Eishammer"
       ],
       "Notes": [
         ""
@@ -7953,7 +7953,7 @@
         "Volt Hammer"
       ],
       "Translation": [
-        "Volt Hammer"
+        "Elektrohammer"
       ],
       "Notes": [
         ""
@@ -7966,7 +7966,7 @@
         "Head Hammer"
       ],
       "Translation": [
-        "Head Hammer"
+        "Kopfhammer"
       ],
       "Notes": [
         ""
@@ -7979,7 +7979,7 @@
         "Arm Hammer"
       ],
       "Translation": [
-        "Arm Hammer"
+        "Armhammer"
       ],
       "Notes": [
         ""
@@ -7992,7 +7992,7 @@
         "Leg Hammer"
       ],
       "Translation": [
-        "Leg Hammer"
+        "Beinhammer"
       ],
       "Notes": [
         ""
@@ -8005,7 +8005,7 @@
         "Stun Hammer"
       ],
       "Translation": [
-        "Stun Hammer"
+        "Taubhammer"
       ],
       "Notes": [
         ""
@@ -8018,7 +8018,7 @@
         "Flash Hammer"
       ],
       "Translation": [
-        "Flash Hammer"
+        "Blitzhammer"
       ],
       "Notes": [
         ""
@@ -8031,7 +8031,7 @@
         "Sleep Hammer"
       ],
       "Translation": [
-        "Sleep Hammer"
+        "Schlafhammer"
       ],
       "Notes": [
         ""
@@ -8044,7 +8044,7 @@
         "Poison Hammer"
       ],
       "Translation": [
-        "Poison Hammer"
+        "Gifthammer"
       ],
       "Notes": [
         ""
@@ -8057,7 +8057,7 @@
         "Plague Hammer"
       ],
       "Translation": [
-        "Plague Hammer"
+        "Pesthammer"
       ],
       "Notes": [
         ""
@@ -8070,7 +8070,7 @@
         "Addle Hammer"
       ],
       "Translation": [
-        "Addle Hammer"
+        "Faulhammer"
       ],
       "Notes": [
         ""
@@ -8083,7 +8083,7 @@
         "Numb Hammer"
       ],
       "Translation": [
-        "Numb Hammer"
+        "Starrhammer"
       ],
       "Notes": [
         ""
@@ -8096,7 +8096,7 @@
         "Curse Hammer"
       ],
       "Translation": [
-        "Curse Hammer"
+        "Fluchhammer"
       ],
       "Notes": [
         ""
@@ -8109,7 +8109,7 @@
         "Stone Hammer"
       ],
       "Translation": [
-        "Stone Hammer"
+        "Steinhammer"
       ],
       "Notes": [
         ""
@@ -8122,7 +8122,7 @@
         "Death Hammer"
       ],
       "Translation": [
-        "Death Hammer"
+        "Todeshammer"
       ],
       "Notes": [
         ""
@@ -8135,7 +8135,7 @@
         "Elemental Hammer"
       ],
       "Translation": [
-        "Elemental Hammer"
+        "Elementalhammer"
       ],
       "Notes": [
         ""
@@ -8148,7 +8148,7 @@
         "Pierce Hammer"
       ],
       "Translation": [
-        "Pierce Hammer"
+        "Stoßhammer"
       ],
       "Notes": [
         ""
@@ -8161,7 +8161,7 @@
         "Spread Hammer"
       ],
       "Translation": [
-        "Spread Hammer"
+        "Teilhammer"
       ],
       "Notes": [
         ""
