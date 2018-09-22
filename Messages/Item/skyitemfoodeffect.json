@@ -5,7 +5,7 @@
   "Entries": [
     {
       "ID": 0,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "[Color:6][Variable1:0][Variable2:0][Color:6][Variable1:1][Variable3:0][Variable1:2][Variable1:3][Variable2:1][Color:6][Variable1:4][Variable2:2][Color:6][Variable1:5][Variable3:1][Variable1:6][Variable1:7][Variable2:3][Color:6][Variable1:8][Variable2:4][Color:6][Variable1:9][Variable3:2][Variable1:10][Variable1:11][Variable2:5]",
         ""
@@ -20,7 +20,7 @@
     },
     {
       "ID": 1,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "[Color:6][Variable1:0][Variable2:0][Color:6][Variable1:1][Variable3:0][Variable1:2][Variable1:3][Variable2:1][Color:6][Variable1:4][Variable2:2][Color:6][Variable1:5][Variable3:1][Variable1:6][Variable1:7][Variable2:3][Color:6][Variable1:8][Variable2:4][Color:6][Variable1:9][Variable3:2][Variable1:10][Variable1:11][Variable2:5][Color:6][Variable1:12][Variable2:6][Color:6][Variable1:13][Variable3:3][Variable1:14][Variable1:15][Variable2:7]",
         ""
@@ -529,7 +529,7 @@
     },
     {
       "ID": 40,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "[Color:6][Variable1:0][Variable2:0][Color:6][Variable1:4][Variable2:2][Color:6][Variable1:5][Variable3:1][Variable1:6][Variable1:7][Variable2:3][Color:6][Variable1:8][Variable2:4][Color:6][Variable1:12][Variable2:6][Color:6][Variable1:13][Variable3:3][Variable1:14][Variable1:15][Variable2:7]",
         ""
@@ -1051,7 +1051,7 @@
     },
     {
       "ID": 80,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "[Color:6][Variable1:0][Variable2:0][Color:6][Variable1:1][Color:6][Variable1:4][Variable2:2][Color:6][Variable1:5][Variable3:1][Variable1:6][Variable1:7][Variable2:3][Color:6][Variable1:8][Variable2:4][Color:6][Variable1:9][Variable3:2][Variable1:10][Variable1:11][Variable2:5][Color:6][Variable1:12][Variable2:6][Color:6][Variable1:13][Variable3:3][Variable1:14][Variable1:15][Variable2:7]",
         ""
@@ -1066,7 +1066,7 @@
     },
     {
       "ID": 81,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "[Color:6][Variable1:0][Variable2:0][Color:6][Variable1:4][Variable2:2][Color:6][Variable1:5][Variable3:1][Variable1:6][Variable1:7][Variable2:3][Color:6][Variable1:8][Variable2:4][Color:6][Variable1:9][Variable3:2][Variable1:10][Variable1:11][Variable2:5][Color:6][Variable1:12][Variable2:6][Color:6][Variable1:13][Variable3:3][Variable1:14][Variable1:15][Variable2:7]",
         ""
@@ -1575,7 +1575,7 @@
     },
     {
       "ID": 120,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "[Color:6][Variable1:0][Variable2:0][Color:6][Variable1:4][Variable2:2][Color:6][Variable1:8][Variable2:4][Color:6][Variable1:9][Variable3:2][Variable1:10][Variable1:11][Variable2:5][Color:6][Variable1:12][Variable2:6][Color:6][Variable1:13][Variable3:3][Variable1:14][Variable1:15][Variable2:7]",
         ""
@@ -1590,7 +1590,7 @@
     },
     {
       "ID": 121,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "[Color:6][Variable1:0][Variable2:0][Color:6][Variable1:4][Variable2:2][Color:6][Variable1:8][Variable2:4][Color:6][Variable1:9][Variable3:2][Variable1:10][Variable1:11][Variable2:5][Color:6][Variable1:12][Variable2:6][Color:6][Variable1:13][Variable3:3][Variable1:14][Variable1:15][Variable2:7]",
         ""
@@ -1605,7 +1605,7 @@
     },
     {
       "ID": 122,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "[Color:6][Variable1:0][Variable2:0][Color:6][Variable1:1][Variable3:0][Variable1:2][Variable1:3][Variable2:1][Color:6][Variable1:4][Variable2:2][Color:6][Variable1:8][Variable2:4][Color:6][Variable1:9][Variable3:2][Variable1:10][Variable1:11][Variable2:5]",
         ""
@@ -1626,7 +1626,7 @@
         ""
       ],
       "Translation": [
-        "[Color:6]Status ailment resistance[Variable2:1]",
+        "[Color:6]Statusleiden-Resistenz[Variable2:1]",
         ""
       ],
       "Notes": [
@@ -1641,7 +1641,7 @@
         ""
       ],
       "Translation": [
-        "[Color:6]All stats increased slightly.",
+        "[Color:6]Alle Werte leicht erhöht.",
         ""
       ],
       "Notes": [
@@ -2632,8 +2632,8 @@
         ""
       ],
       "Translation": [
-        "The food's effect takes hold!",
-        "[Color:8][Variable1:0][Color:0] increases by [Variable3:0][Variable1:1][Color:0]!",
+        "Die Nahrung zeigt Wirkung!",
+        "[Color:8][Variable1:0][Color:0] erhöht um [Variable3:0][Variable1:1][Color:0]!",
         ""
       ],
       "Notes": [
@@ -2649,8 +2649,8 @@
         ""
       ],
       "Translation": [
-        "The food's effect takes hold!",
-        "[Color:8][Variable1:0][Color:0] decreases by [Variable3:0][Variable1:1][Color:0]...",
+        "Die Nahrung zeigt Wirkung!",
+        "[Color:8][Variable1:0][Color:0] verringert um [Variable3:0][Variable1:1][Color:0]...",
         ""
       ],
       "Notes": [
@@ -2666,8 +2666,8 @@
         ""
       ],
       "Translation": [
-        "The food's effect takes hold!",
-        "[Color:6][Variable1:0][Color:0] increases slightly!",
+        "Die Nahrung zeigt Wirkung!",
+        "[Color:6][Variable1:0][Color:0] leicht erhöht!",
         ""
       ],
       "Notes": [
@@ -2683,8 +2683,8 @@
         ""
       ],
       "Translation": [
-        "The food's effect takes hold!",
-        "[Color:6][Variable1:0][Color:0] increases quite a bit!",
+        "Die Nahrung zeigt Wirkung!",
+        "[Color:6][Variable1:0][Color:0] stark erhöht!",
         ""
       ],
       "Notes": [
@@ -2700,8 +2700,8 @@
         ""
       ],
       "Translation": [
-        "The food's effect takes hold!",
-        "[Color:6][Variable1:0][Color:0] increases greatly!",
+        "Die Nahrung zeigt Wirkung!",
+        "[Color:6][Variable1:0][Color:0] sehr stark erhöht!",
         ""
       ],
       "Notes": [
@@ -2717,8 +2717,8 @@
         ""
       ],
       "Translation": [
-        "The food's effect takes hold!",
-        "[Color:6][Variable1:0][Color:0] decreases slightly...",
+        "Die Nahrung zeigt Wirkung!",
+        "[Color:6][Variable1:0][Color:0] leicht verringert...",
         ""
       ],
       "Notes": [
@@ -2734,8 +2734,8 @@
         ""
       ],
       "Translation": [
-        "The food's effect takes hold!",
-        "[Color:6][Variable1:0][Color:0] decreases quite a bit...",
+        "Die Nahrung zeigt Wirkung!",
+        "[Color:6][Variable1:0][Color:0] stark verringert...",
         ""
       ],
       "Notes": [
@@ -2751,8 +2751,8 @@
         ""
       ],
       "Translation": [
-        "The food's effect takes hold!",
-        "[Color:6][Variable1:0][Color:0] decreases greatly...",
+        "Die Nahrung zeigt Wirkung!",
+        "[Color:6][Variable1:0][Color:0] sehr stark verringert...",
         ""
       ],
       "Notes": [
@@ -3378,7 +3378,7 @@
         ""
       ],
       "Translation": [
-        "[Color:11]You taste... poison!",
+        "[Color:11]Ihr schmeckt... Gift!",
         ""
       ],
       "Notes": [

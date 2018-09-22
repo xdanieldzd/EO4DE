@@ -7771,7 +7771,7 @@
         "Pure Plate"
       ],
       "Translation": [
-        "Pure Plate"
+        "Reine Brustplatte"
       ],
       "Notes": [
         ""
@@ -7784,7 +7784,7 @@
         "Cloth Armor"
       ],
       "Translation": [
-        "Cloth Armor"
+        "Leinenpanzer"
       ],
       "Notes": [
         ""
@@ -7797,10 +7797,10 @@
         "Sneaking Plate"
       ],
       "Translation": [
-        "Sneaking Plate"
+        "Stille Brustplatte"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -7810,7 +7810,7 @@
         "Studded Leather"
       ],
       "Translation": [
-        "Studded Leather"
+        "Beschlagenes Leder"
       ],
       "Notes": [
         ""
@@ -7823,7 +7823,7 @@
         "General Leather"
       ],
       "Translation": [
-        "General Leather"
+        "Generalsleder"
       ],
       "Notes": [
         ""
@@ -7836,7 +7836,7 @@
         "Mirage Vest"
       ],
       "Translation": [
-        "Mirage Vest"
+        "Illusionsweste"
       ],
       "Notes": [
         ""
@@ -7849,7 +7849,7 @@
         "Fairy Chain"
       ],
       "Translation": [
-        "Fairy Chain"
+        "Feenkettenhemd"
       ],
       "Notes": [
         ""
@@ -7857,7 +7857,7 @@
     },
     {
       "ID": 604,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Hihiirokane"
       ],
@@ -7870,7 +7870,7 @@
     },
     {
       "ID": 605,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Sylpheed"
       ],
@@ -7878,7 +7878,7 @@
         "Sylpheed"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -7888,7 +7888,7 @@
         "Panacea Vest"
       ],
       "Translation": [
-        "Panacea Vest"
+        "Panakeia-Weste"
       ],
       "Notes": [
         ""
@@ -7914,7 +7914,7 @@
         "Tweed"
       ],
       "Translation": [
-        "Tweed"
+        "Janker"
       ],
       "Notes": [
         ""
@@ -7927,7 +7927,7 @@
         "Scale Jerkin"
       ],
       "Translation": [
-        "Scale Jerkin"
+        "Leichter Schuppenwams"
       ],
       "Notes": [
         ""
@@ -7935,7 +7935,7 @@
     },
     {
       "ID": 610,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Chemise"
       ],
@@ -7953,7 +7953,7 @@
         "Leaf Jacket"
       ],
       "Translation": [
-        "Leaf Jacket"
+        "Tarnjacke"
       ],
       "Notes": [
         ""
@@ -7961,7 +7961,7 @@
     },
     {
       "ID": 612,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Kazak"
       ],
@@ -7979,7 +7979,7 @@
         "Sack Dress"
       ],
       "Translation": [
-        "Sack Dress"
+        "Sackkleid"
       ],
       "Notes": [
         ""
@@ -7992,7 +7992,7 @@
         "Mist Robe"
       ],
       "Translation": [
-        "Mist Robe"
+        "Nebelrobe"
       ],
       "Notes": [
         ""
@@ -8000,7 +8000,7 @@
     },
     {
       "ID": 615,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Cotardie"
       ],
@@ -8018,7 +8018,7 @@
         "Mantle"
       ],
       "Translation": [
-        "Mantle"
+        "Mantel"
       ],
       "Notes": [
         ""
@@ -8031,15 +8031,15 @@
         "Caster's Coat"
       ],
       "Translation": [
-        "Caster's Coat"
+        "Hexermantel"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
       "ID": 618,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Gilet"
       ],
@@ -8057,7 +8057,7 @@
         "Siren Tunic"
       ],
       "Translation": [
-        "Siren Tunic"
+        "Sirenentunika"
       ],
       "Notes": [
         ""
@@ -8070,10 +8070,10 @@
         "Witch Drawers"
       ],
       "Translation": [
-        "Witch Drawers"
+        "Hexenhosen"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -8083,7 +8083,7 @@
         "Spirit Cape"
       ],
       "Translation": [
-        "Spirit Cape"
+        "Seelenumhang"
       ],
       "Notes": [
         ""
@@ -8096,7 +8096,7 @@
         "Linen Cuirass"
       ],
       "Translation": [
-        "Linen Cuirass"
+        "Leinenkürass"
       ],
       "Notes": [
         ""
@@ -8109,7 +8109,7 @@
         "Great Coat"
       ],
       "Translation": [
-        "Great Coat"
+        "Großer Mantel"
       ],
       "Notes": [
         ""
@@ -8122,7 +8122,7 @@
         "Illusion Cloak"
       ],
       "Translation": [
-        "Illusion Cloak"
+        "Illusionsumhang"
       ],
       "Notes": [
         ""
@@ -8130,7 +8130,7 @@
     },
     {
       "ID": 625,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Ao Dai"
       ],
@@ -8187,7 +8187,7 @@
         "Moth Coat"
       ],
       "Translation": [
-        "Moth Coat"
+        "Mottenmantel"
       ],
       "Notes": [
         ""
@@ -8200,7 +8200,7 @@
         "Red Doublet"
       ],
       "Translation": [
-        "Red Doublet"
+        "Roter Wams"
       ],
       "Notes": [
         ""
@@ -8213,7 +8213,7 @@
         "Hermit Robe"
       ],
       "Translation": [
-        "Hermit Robe"
+        "Eremitrobe"
       ],
       "Notes": [
         ""
@@ -8226,7 +8226,7 @@
         "Aurora Veil"
       ],
       "Translation": [
-        "Aurora Veil"
+        "Auroraschleier"
       ],
       "Notes": [
         ""
@@ -8239,7 +8239,7 @@
         "Verdant Attire"
       ],
       "Translation": [
-        "Verdant Attire"
+        "Grünes Gewand"
       ],
       "Notes": [
         ""
@@ -8252,7 +8252,7 @@
         "Mythic Nithsdale"
       ],
       "Translation": [
-        "Mythic Nithsdale"
+        "Mytischer Nithsdale"
       ],
       "Notes": [
         ""
@@ -8265,7 +8265,7 @@
         "Element Cloak"
       ],
       "Translation": [
-        "Element Cloak"
+        "Elementarumhang"
       ],
       "Notes": [
         ""
@@ -8330,7 +8330,7 @@
         "Feathered Hat"
       ],
       "Translation": [
-        "Feathered Hat"
+        "Federhut"
       ],
       "Notes": [
         ""
@@ -8343,7 +8343,7 @@
         "Deep Forest Pin"
       ],
       "Translation": [
-        "Deep Forest Pin"
+        "Waldhaarnadel"
       ],
       "Notes": [
         ""
@@ -8356,7 +8356,7 @@
         "Hairpin"
       ],
       "Translation": [
-        "Hairpin"
+        "Haarnadel"
       ],
       "Notes": [
         ""
@@ -8369,7 +8369,7 @@
         "Kettle Hat"
       ],
       "Translation": [
-        "Kettle Hat"
+        "Eisenhut"
       ],
       "Notes": [
         ""
@@ -8382,7 +8382,7 @@
         "Chain Helm"
       ],
       "Translation": [
-        "Chain Helm"
+        "Kettenhut"
       ],
       "Notes": [
         ""
@@ -8395,7 +8395,7 @@
         "Bascinet"
       ],
       "Translation": [
-        "Bascinet"
+        "Beckenhaube"
       ],
       "Notes": [
         ""
@@ -8403,7 +8403,7 @@
     },
     {
       "ID": 646,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Caresche"
       ],
@@ -8421,7 +8421,7 @@
         "Round Helm"
       ],
       "Translation": [
-        "Round Helm"
+        "Rundhelm"
       ],
       "Notes": [
         ""
@@ -8429,7 +8429,7 @@
     },
     {
       "ID": 648,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Dummy"
       ],
@@ -8447,7 +8447,7 @@
         "Crown Hat"
       ],
       "Translation": [
-        "Crown Hat"
+        "Kronenhut"
       ],
       "Notes": [
         ""
@@ -8460,7 +8460,7 @@
         "Nightcap"
       ],
       "Translation": [
-        "Nightcap"
+        "Nachtmütze"
       ],
       "Notes": [
         ""
@@ -8468,7 +8468,7 @@
     },
     {
       "ID": 651,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Morion"
       ],
@@ -8486,7 +8486,7 @@
         "Barrel Helm"
       ],
       "Translation": [
-        "Barrel Helm"
+        "Topfhelm"
       ],
       "Notes": [
         ""
@@ -8494,7 +8494,7 @@
     },
     {
       "ID": 653,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Armet"
       ],
@@ -8507,12 +8507,12 @@
     },
     {
       "ID": 654,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Kirjonen's Hat"
       ],
       "Translation": [
-        "Kirjonen's Hat"
+        "Kirjonen's Hut"
       ],
       "Notes": [
         ""
@@ -8520,7 +8520,7 @@
     },
     {
       "ID": 655,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Kirjonen's Helm"
       ],
@@ -8533,7 +8533,7 @@
     },
     {
       "ID": 656,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Raht's Helm"
       ],
@@ -8551,10 +8551,10 @@
         "Third Eye Cloth"
       ],
       "Translation": [
-        "Third Eye Cloth"
+        "Augenbandana"
       ],
       "Notes": [
-        ""
+        "Bandana laut Beschreibung; \"Dreiaugenbandana\"?"
       ]
     },
     {
@@ -8564,7 +8564,7 @@
         "Jester's Mask"
       ],
       "Translation": [
-        "Jester's Mask"
+        "Narrenmaske"
       ],
       "Notes": [
         ""
@@ -8577,10 +8577,10 @@
         "Beast God Collar"
       ],
       "Translation": [
-        "Beast God Collar"
+        "Halsband der Götterbestie"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -8590,7 +8590,7 @@
         "Dryad's Earring"
       ],
       "Translation": [
-        "Dryad's Earring"
+        "Ohrring der Dryade"
       ],
       "Notes": [
         ""
@@ -8603,7 +8603,7 @@
         "Ninja Hood"
       ],
       "Translation": [
-        "Ninja Hood"
+        "Ninja-Kapuze"
       ],
       "Notes": [
         ""
@@ -8616,7 +8616,7 @@
         "Jade Mask"
       ],
       "Translation": [
-        "Jade Mask"
+        "Jademaske"
       ],
       "Notes": [
         ""
@@ -8629,7 +8629,7 @@
         "Barbute"
       ],
       "Translation": [
-        "Barbute"
+        "Barbuta"
       ],
       "Notes": [
         ""
@@ -8642,7 +8642,7 @@
         "Yggdrasil Crown"
       ],
       "Translation": [
-        "Yggdrasil Crown"
+        "Yggdrasil-Krone"
       ],
       "Notes": [
         ""
@@ -8655,7 +8655,7 @@
         "Forest Crown"
       ],
       "Translation": [
-        "Forest Crown"
+        "Waldkrone"
       ],
       "Notes": [
         ""
@@ -8663,7 +8663,7 @@
     },
     {
       "ID": 666,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Dummy"
       ],
@@ -8676,7 +8676,7 @@
     },
     {
       "ID": 667,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Dummy"
       ],
@@ -8694,7 +8694,7 @@
         "Circlet"
       ],
       "Translation": [
-        "Circlet"
+        "Diadem"
       ],
       "Notes": [
         ""
@@ -8707,7 +8707,7 @@
         "Heretic's Mask"
       ],
       "Translation": [
-        "Heretic's Mask"
+        "Ketzermaske"
       ],
       "Notes": [
         ""
@@ -8746,7 +8746,7 @@
         "Thick Gages"
       ],
       "Translation": [
-        "Thick Gages"
+        "Feste Handschuhe"
       ],
       "Notes": [
         ""
@@ -8759,7 +8759,7 @@
         "Feather Gloves"
       ],
       "Translation": [
-        "Feather Gloves"
+        "Federhandschuhe"
       ],
       "Notes": [
         ""
@@ -8772,7 +8772,7 @@
         "Leather Gloves"
       ],
       "Translation": [
-        "Leather Gloves"
+        "Lederhandschuhe"
       ],
       "Notes": [
         ""
@@ -8785,7 +8785,7 @@
         "Studded Gloves"
       ],
       "Translation": [
-        "Studded Gloves"
+        "Nietenhandschuhe"
       ],
       "Notes": [
         ""
@@ -8798,7 +8798,7 @@
         "Iron Gloves"
       ],
       "Translation": [
-        "Iron Gloves"
+        "Eisenhandschuhe"
       ],
       "Notes": [
         ""
@@ -8806,7 +8806,7 @@
     },
     {
       "ID": 677,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Dummy"
       ],
@@ -8824,7 +8824,7 @@
         "Hard Gloves"
       ],
       "Translation": [
-        "Hard Gloves"
+        "Harte Handschuhe"
       ],
       "Notes": [
         ""
@@ -8837,7 +8837,7 @@
         "Stain Gages"
       ],
       "Translation": [
-        "Stain Gages"
+        "Fleckige Handschuhe"
       ],
       "Notes": [
         ""
@@ -8850,7 +8850,7 @@
         "Exorcism Gloves"
       ],
       "Translation": [
-        "Exorcism Gloves"
+        "Exorzistenhandschuhe"
       ],
       "Notes": [
         ""
@@ -8863,7 +8863,7 @@
         "Gauntlets"
       ],
       "Translation": [
-        "Gauntlets"
+        "Panzerhandschuhe"
       ],
       "Notes": [
         ""
@@ -8876,7 +8876,7 @@
         "Rune Gages"
       ],
       "Translation": [
-        "Rune Gages"
+        "Runenhandschuhe"
       ],
       "Notes": [
         ""
@@ -8889,10 +8889,10 @@
         "Expel Arms"
       ],
       "Translation": [
-        "Expel Arms"
+        "Goldene Handschuhe"
       ],
       "Notes": [
-        ""
+        "Laut Beschreibung \"golden gloves\""
       ]
     },
     {
@@ -8902,7 +8902,7 @@
         "Beast Gauntlets"
       ],
       "Translation": [
-        "Beast Gauntlets"
+        "Bestienhandschuhe"
       ],
       "Notes": [
         ""
@@ -8915,10 +8915,10 @@
         "Brave Bracers"
       ],
       "Translation": [
-        "Brave Bracers"
+        "Krieger-Armschienen"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -8928,7 +8928,7 @@
         "Kirjonen's Bracers"
       ],
       "Translation": [
-        "Kirjonen's Bracers"
+        "Kirjonen's Armschienen"
       ],
       "Notes": [
         ""
@@ -8941,7 +8941,7 @@
         "Medic's Gloves"
       ],
       "Translation": [
-        "Medic's Gloves"
+        "Medikus-Handschuhe"
       ],
       "Notes": [
         ""
@@ -8954,10 +8954,10 @@
         "Sniper Gauntlets"
       ],
       "Translation": [
-        "Sniper Gauntlets"
+        "Scharfschützen-Armschienen"
       ],
       "Notes": [
-        ""
+        "Übersetzung...?"
       ]
     },
     {
@@ -8967,7 +8967,7 @@
         "Runemaster Bangle"
       ],
       "Translation": [
-        "Runemaster Bangle"
+        "Runenmagier-Armreif"
       ],
       "Notes": [
         ""
@@ -9032,7 +9032,7 @@
         "Poofy Mittens"
       ],
       "Translation": [
-        "Poofy Mittens"
+        "Warme Fäustlinge"
       ],
       "Notes": [
         ""
@@ -9045,7 +9045,7 @@
         "Strength Bracers"
       ],
       "Translation": [
-        "Strength Bracers"
+        "Kraftarmschienen"
       ],
       "Notes": [
         ""
@@ -9058,7 +9058,7 @@
         "Bracers"
       ],
       "Translation": [
-        "Bracers"
+        "Armschienen"
       ],
       "Notes": [
         ""
@@ -9071,7 +9071,7 @@
         "Croc Bracers"
       ],
       "Translation": [
-        "Croc Bracers"
+        "Krokodil-Armschienen"
       ],
       "Notes": [
         ""
@@ -9084,7 +9084,7 @@
         "Power Gloves"
       ],
       "Translation": [
-        "Power Gloves"
+        "Krafthandschuhe"
       ],
       "Notes": [
         ""
@@ -9097,10 +9097,10 @@
         "Superior Glove"
       ],
       "Translation": [
-        "Superior Glove"
+        "Überlegene Handschuhe"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -9162,7 +9162,7 @@
         "Hide Boots"
       ],
       "Translation": [
-        "Hide Boots"
+        "Lederstiefel"
       ],
       "Notes": [
         ""
@@ -9170,7 +9170,7 @@
     },
     {
       "ID": 705,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Dummy"
       ],
@@ -9188,7 +9188,7 @@
         "Strap Shoes"
       ],
       "Translation": [
-        "Strap Shoes"
+        "Sandalen"
       ],
       "Notes": [
         ""
@@ -9196,7 +9196,7 @@
     },
     {
       "ID": 707,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Dummy"
       ],
@@ -9214,7 +9214,7 @@
         "Jackboots"
       ],
       "Translation": [
-        "Jackboots"
+        "Reitstiefel"
       ],
       "Notes": [
         ""
@@ -9240,7 +9240,7 @@
         "Chain Greaves"
       ],
       "Translation": [
-        "Chain Greaves"
+        "Ketten-Beinschienen"
       ],
       "Notes": [
         ""
@@ -9253,7 +9253,7 @@
         "Ivy Anklets"
       ],
       "Translation": [
-        "Ivy Anklets"
+        "Efeu-Fußring"
       ],
       "Notes": [
         ""
@@ -9266,7 +9266,7 @@
         "Front Cuisse"
       ],
       "Translation": [
-        "Front Cuisse"
+        "Beinschutz"
       ],
       "Notes": [
         ""
@@ -9279,7 +9279,7 @@
         "Kilt Tassels"
       ],
       "Translation": [
-        "Kilt Tassels"
+        "Kiltquasten"
       ],
       "Notes": [
         ""
@@ -9287,7 +9287,7 @@
     },
     {
       "ID": 714,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Dummy"
       ],
@@ -9305,7 +9305,7 @@
         "War Greaves"
       ],
       "Translation": [
-        "War Greaves"
+        "Kriegs-Beinschienen"
       ],
       "Notes": [
         ""
@@ -9313,7 +9313,7 @@
     },
     {
       "ID": 716,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Morbarabakets"
       ],
@@ -9326,7 +9326,7 @@
     },
     {
       "ID": 717,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Sabaton"
       ],
@@ -9344,7 +9344,7 @@
         "War Boots"
       ],
       "Translation": [
-        "War Boots"
+        "Kriegsstiefel"
       ],
       "Notes": [
         ""
@@ -9357,7 +9357,7 @@
         "Talaria"
       ],
       "Translation": [
-        "Talaria"
+        "Flügelschuhe"
       ],
       "Notes": [
         ""
@@ -9370,7 +9370,7 @@
         "Imperial Boots"
       ],
       "Translation": [
-        "Imperial Boots"
+        "Imperiale Stiefel"
       ],
       "Notes": [
         ""
@@ -9383,7 +9383,7 @@
         "Dance Shoes"
       ],
       "Translation": [
-        "Dance Shoes"
+        "Tanzschuhe"
       ],
       "Notes": [
         ""
@@ -9396,7 +9396,7 @@
         "Western Boots"
       ],
       "Translation": [
-        "Western Boots"
+        "Westernstiefel"
       ],
       "Notes": [
         ""
@@ -9409,7 +9409,7 @@
         "Vanguard Boots"
       ],
       "Translation": [
-        "Vanguard Boots"
+        "Vorhutstiefel"
       ],
       "Notes": [
         ""
@@ -9422,7 +9422,7 @@
         "Kung Fu Shoes"
       ],
       "Translation": [
-        "Kung Fu Shoes"
+        "Kung Fu-Schuhe"
       ],
       "Notes": [
         ""
@@ -9435,7 +9435,7 @@
         "Solid Moccasins"
       ],
       "Translation": [
-        "Solid Moccasins"
+        "Feste Mokassins"
       ],
       "Notes": [
         ""
@@ -9448,7 +9448,7 @@
         "Poleyn"
       ],
       "Translation": [
-        "Poleyn"
+        "Kniebuckel"
       ],
       "Notes": [
         ""
@@ -9461,7 +9461,7 @@
         "Fairy Boots"
       ],
       "Translation": [
-        "Fairy Boots"
+        "Feenstiefel"
       ],
       "Notes": [
         ""
@@ -9474,7 +9474,7 @@
         "Quill Boots"
       ],
       "Translation": [
-        "Quill Boots"
+        "Federstiefel"
       ],
       "Notes": [
         ""
@@ -9487,10 +9487,10 @@
         "Night Greaves"
       ],
       "Translation": [
-        "Night Greaves"
+        "Nacht-Beinschienen"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -9500,7 +9500,7 @@
         "Commander's Boots"
       ],
       "Translation": [
-        "Commander's Boots"
+        "Kommandantenstiefel"
       ],
       "Notes": [
         ""
@@ -9578,7 +9578,7 @@
         "Buckler"
       ],
       "Translation": [
-        "Buckler"
+        "Schild"
       ],
       "Notes": [
         ""
@@ -9591,7 +9591,7 @@
         "Hide Aspis"
       ],
       "Translation": [
-        "Hide Aspis"
+        "Leder-Rundschild"
       ],
       "Notes": [
         ""
@@ -9599,7 +9599,7 @@
     },
     {
       "ID": 738,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Targe"
       ],
@@ -9617,7 +9617,7 @@
         "Round Shield"
       ],
       "Translation": [
-        "Round Shield"
+        "Rundschild"
       ],
       "Notes": [
         ""
@@ -9630,7 +9630,7 @@
         "Feather Shield"
       ],
       "Translation": [
-        "Feather Shield"
+        "Federschild"
       ],
       "Notes": [
         ""
@@ -9643,7 +9643,7 @@
         "Lantern Shield"
       ],
       "Translation": [
-        "Lantern Shield"
+        "Laternenschild"
       ],
       "Notes": [
         ""
@@ -9651,7 +9651,7 @@
     },
     {
       "ID": 742,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Caetra"
       ],
@@ -9664,7 +9664,7 @@
     },
     {
       "ID": 743,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Aspis"
       ],
@@ -9682,7 +9682,7 @@
         "Kite Shield"
       ],
       "Translation": [
-        "Kite Shield"
+        "Normannenschild"
       ],
       "Notes": [
         ""
@@ -9695,7 +9695,7 @@
         "Silver Shield"
       ],
       "Translation": [
-        "Silver Shield"
+        "Silberschild"
       ],
       "Notes": [
         ""
@@ -9703,7 +9703,7 @@
     },
     {
       "ID": 746,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Hoplon"
       ],
@@ -9721,7 +9721,7 @@
         "Body Aspis"
       ],
       "Translation": [
-        "Body Aspis"
+        "Körperaspis"
       ],
       "Notes": [
         ""
@@ -9729,7 +9729,7 @@
     },
     {
       "ID": 748,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Singauta"
       ],
@@ -9747,7 +9747,7 @@
         "Kirjonen's Shield"
       ],
       "Translation": [
-        "Kirjonen's Shield"
+        "Kirjonen's Schild"
       ],
       "Notes": [
         ""
@@ -9760,7 +9760,7 @@
         "Lexxy's Shield"
       ],
       "Translation": [
-        "Lexxy's Shield"
+        "Lexxy's Schild"
       ],
       "Notes": [
         ""
@@ -9773,7 +9773,7 @@
         "Fortress Shield"
       ],
       "Translation": [
-        "Fortress Shield"
+        "Phalanxschild"
       ],
       "Notes": [
         ""
@@ -9781,7 +9781,7 @@
     },
     {
       "ID": 752,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Pizza Margherita"
       ],
@@ -9851,7 +9851,7 @@
         "Fist Shield"
       ],
       "Translation": [
-        "Fist Shield"
+        "Faustschild"
       ],
       "Notes": [
         ""
@@ -9859,7 +9859,7 @@
     },
     {
       "ID": 758,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Somastes"
       ],
@@ -9872,7 +9872,7 @@
     },
     {
       "ID": 759,
-      "IsIgnored": false,
+      "IsIgnored": true,
       "Original": [
         "Hildebrand"
       ],
@@ -9890,7 +9890,7 @@
         "Pelta"
       ],
       "Translation": [
-        "Pelta"
+        "Pelte"
       ],
       "Notes": [
         ""
@@ -9903,7 +9903,7 @@
         "Qibo Shield"
       ],
       "Translation": [
-        "Qibo Shield"
+        "Qibo-Schild"
       ],
       "Notes": [
         ""
@@ -9994,7 +9994,7 @@
         "Life Belt"
       ],
       "Translation": [
-        "Life Belt"
+        "Lebensgürtel"
       ],
       "Notes": [
         ""
@@ -10007,7 +10007,7 @@
         "Stamina Belt"
       ],
       "Translation": [
-        "Stamina Belt"
+        "Staminagürtel"
       ],
       "Notes": [
         ""
@@ -10020,7 +10020,7 @@
         "Brilliance Belt"
       ],
       "Translation": [
-        "Brilliance Belt"
+        "Brilliantgürtel"
       ],
       "Notes": [
         ""
@@ -10033,7 +10033,7 @@
         "Heavenly Belt"
       ],
       "Translation": [
-        "Heavenly Belt"
+        "Himmelsgürtel"
       ],
       "Notes": [
         ""
@@ -10046,7 +10046,7 @@
         "Power Ring"
       ],
       "Translation": [
-        "Power Ring"
+        "Kraftring"
       ],
       "Notes": [
         ""
@@ -10059,7 +10059,7 @@
         "Strength Ring"
       ],
       "Translation": [
-        "Strength Ring"
+        "Stärkering"
       ],
       "Notes": [
         ""
@@ -10072,7 +10072,7 @@
         "Smart Earring"
       ],
       "Translation": [
-        "Smart Earring"
+        "Ohrring der Klugheit"
       ],
       "Notes": [
         ""
@@ -10085,7 +10085,7 @@
         "Wisdom Earring"
       ],
       "Translation": [
-        "Wisdom Earring"
+        "Ohrring des Wissens"
       ],
       "Notes": [
         ""
@@ -10124,7 +10124,7 @@
         "Rabbit Amulet"
       ],
       "Translation": [
-        "Rabbit Amulet"
+        "Hasenamulett"
       ],
       "Notes": [
         ""
@@ -10137,7 +10137,7 @@
         "Gale Amulet"
       ],
       "Translation": [
-        "Gale Amulet"
+        "Sturmamulett"
       ],
       "Notes": [
         ""
@@ -10150,7 +10150,7 @@
         "Lucky Choker"
       ],
       "Translation": [
-        "Lucky Choker"
+        "Glückshalsband"
       ],
       "Notes": [
         ""
@@ -10163,7 +10163,7 @@
         "Fortune Necklace"
       ],
       "Translation": [
-        "Fortune Necklace"
+        "Glückshalskette"
       ],
       "Notes": [
         ""
@@ -10176,10 +10176,10 @@
         "Critical Belt"
       ],
       "Translation": [
-        "Critical Belt"
+        "Kritische Gürtel"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -10189,10 +10189,10 @@
         "Deathly Belt"
       ],
       "Translation": [
-        "Deathly Belt"
+        "Tödlicher Gürtel"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -10215,7 +10215,7 @@
         "Velocity Choker"
       ],
       "Translation": [
-        "Velocity Choker"
+        "Tempohalsband"
       ],
       "Notes": [
         ""
@@ -10228,10 +10228,10 @@
         "Aim Goggles"
       ],
       "Translation": [
-        "Aim Goggles"
+        "Zielbrille"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -10241,10 +10241,10 @@
         "Target Goggles"
       ],
       "Translation": [
-        "Target Goggles"
+        "Zielvisier"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -10254,7 +10254,7 @@
         "Fire Charm"
       ],
       "Translation": [
-        "Fire Charm"
+        "Feuer-Talisman"
       ],
       "Notes": [
         ""
@@ -10280,7 +10280,7 @@
         "Ice Charm"
       ],
       "Translation": [
-        "Ice Charm"
+        "Eis-Talisman"
       ],
       "Notes": [
         ""
@@ -10306,7 +10306,7 @@
         "Bolt Charm"
       ],
       "Translation": [
-        "Bolt Charm"
+        "Blitz-Talisman"
       ],
       "Notes": [
         ""
@@ -10332,7 +10332,7 @@
         "Slash Charm"
       ],
       "Translation": [
-        "Slash Charm"
+        "Schnitt-Talisman"
       ],
       "Notes": [
         ""
@@ -10358,7 +10358,7 @@
         "Stab Charm"
       ],
       "Translation": [
-        "Stab Charm"
+        "Stich-Talisman"
       ],
       "Notes": [
         ""
@@ -10384,7 +10384,7 @@
         "Bash Charm"
       ],
       "Translation": [
-        "Bash Charm"
+        "Hieb-Talisman"
       ],
       "Notes": [
         ""
@@ -10410,7 +10410,7 @@
         "Death Magatama"
       ],
       "Translation": [
-        "Death Magatama"
+        "Toten-Magatama"
       ],
       "Notes": [
         ""
@@ -10436,7 +10436,7 @@
         "Stone Charm"
       ],
       "Translation": [
-        "Stone Charm"
+        "Stein-Talisman"
       ],
       "Notes": [
         ""
@@ -10462,7 +10462,7 @@
         "Curse Gem"
       ],
       "Translation": [
-        "Curse Gem"
+        "Fluch-Edelstein"
       ],
       "Notes": [
         ""
@@ -10514,7 +10514,7 @@
         "Poison Charm"
       ],
       "Translation": [
-        "Poison Charm"
+        "Gift-Talisman"
       ],
       "Notes": [
         ""
@@ -10540,7 +10540,7 @@
         "Sleep Guard"
       ],
       "Translation": [
-        "Sleep Guard"
+        "Schlafschutz"
       ],
       "Notes": [
         ""
@@ -10566,7 +10566,7 @@
         "Panic Guard"
       ],
       "Translation": [
-        "Panic Guard"
+        "Panikschutz"
       ],
       "Notes": [
         ""
@@ -10592,7 +10592,7 @@
         "Paralysis Ankh"
       ],
       "Translation": [
-        "Paralysis Ankh"
+        "Lähmungsankh"
       ],
       "Notes": [
         ""
@@ -10618,7 +10618,7 @@
         "Blind Mask"
       ],
       "Translation": [
-        "Blind Mask"
+        "Blindheitsmaske"
       ],
       "Notes": [
         ""
@@ -10644,7 +10644,7 @@
         "Head Guard"
       ],
       "Translation": [
-        "Head Guard"
+        "Kopfschutz"
       ],
       "Notes": [
         ""
@@ -10670,7 +10670,7 @@
         "Arm Guard"
       ],
       "Translation": [
-        "Arm Guard"
+        "Armschutz"
       ],
       "Notes": [
         ""
@@ -10696,7 +10696,7 @@
         "Leg Guard"
       ],
       "Translation": [
-        "Leg Guard"
+        "Beinschutz"
       ],
       "Notes": [
         ""
@@ -10735,7 +10735,7 @@
         "Stun Seal"
       ],
       "Translation": [
-        "Stun Seal"
+        "Blendsiegel"
       ],
       "Notes": [
         ""
@@ -10748,7 +10748,7 @@
         "Lion Medal"
       ],
       "Translation": [
-        "Lion Medal"
+        "Löwenmedaille"
       ],
       "Notes": [
         ""
@@ -10761,7 +10761,7 @@
         "Great Hawk Medal"
       ],
       "Translation": [
-        "Great Hawk Medal"
+        "Große Falkenmedaille"
       ],
       "Notes": [
         ""
@@ -10774,7 +10774,7 @@
         "Tharsis Wing"
       ],
       "Translation": [
-        "Tharsis Wing"
+        "Tharsisflügel"
       ],
       "Notes": [
         ""
@@ -10787,7 +10787,7 @@
         "Tharsis Comet"
       ],
       "Translation": [
-        "Tharsis Comet"
+        "Tharsiskomet"
       ],
       "Notes": [
         ""
@@ -10800,7 +10800,7 @@
         "Driftwood Dragon"
       ],
       "Translation": [
-        "Driftwood Dragon"
+        "Treibholz-Drache"
       ],
       "Notes": [
         ""
@@ -10813,7 +10813,7 @@
         "Bronze Icon"
       ],
       "Translation": [
-        "Bronze Icon"
+        "Bronzesymbol"
       ],
       "Notes": [
         ""
@@ -10826,7 +10826,7 @@
         "Dragon Shard"
       ],
       "Translation": [
-        "Dragon Shard"
+        "Drachensplitter"
       ],
       "Notes": [
         ""
@@ -10839,7 +10839,7 @@
         "Silver Icon"
       ],
       "Translation": [
-        "Silver Icon"
+        "Silbersymbol"
       ],
       "Notes": [
         ""
@@ -10852,7 +10852,7 @@
         "Dragon Fangs"
       ],
       "Translation": [
-        "Dragon Fangs"
+        "Drachenzähne"
       ],
       "Notes": [
         ""
@@ -10865,7 +10865,7 @@
         "Gold Icon"
       ],
       "Translation": [
-        "Gold Icon"
+        "Goldsymbol"
       ],
       "Notes": [
         ""
@@ -10878,7 +10878,7 @@
         "Dragon Stud"
       ],
       "Translation": [
-        "Dragon Stud"
+        "Drachenniete"
       ],
       "Notes": [
         ""
@@ -10891,7 +10891,7 @@
         "Platinum Icon"
       ],
       "Translation": [
-        "Platinum Icon"
+        "Platinsymbol"
       ],
       "Notes": [
         ""
@@ -10904,7 +10904,7 @@
         "Kirjonen's Charm"
       ],
       "Translation": [
-        "Kirjonen's Charm"
+        "Kirjonen's Talisman"
       ],
       "Notes": [
         ""
@@ -10917,7 +10917,7 @@
         "Lightning Ring"
       ],
       "Translation": [
-        "Lightning Ring"
+        "Blitzring"
       ],
       "Notes": [
         ""
@@ -10930,7 +10930,7 @@
         "Binoculars"
       ],
       "Translation": [
-        "Binoculars"
+        "Fernglas"
       ],
       "Notes": [
         ""
@@ -10943,10 +10943,10 @@
         "Curse Ink"
       ],
       "Translation": [
-        "Curse Ink"
+        "Fluchring"
       ],
       "Notes": [
-        ""
+        "Laut Beschreibung \"ring\""
       ]
     },
     {
@@ -10956,10 +10956,10 @@
         "Combat Gong"
       ],
       "Translation": [
-        "Combat Gong"
+        "Kampfgong"
       ],
       "Notes": [
-        ""
+        "Übersetzung?"
       ]
     },
     {
@@ -10969,7 +10969,7 @@
         "Snow Ring"
       ],
       "Translation": [
-        "Snow Ring"
+        "Schneering"
       ],
       "Notes": [
         ""
@@ -10982,7 +10982,7 @@
         "Eagle Eye Visor"
       ],
       "Translation": [
-        "Eagle Eye Visor"
+        "Adlerauge-Visier"
       ],
       "Notes": [
         ""
@@ -10995,7 +10995,7 @@
         "Knife Pouch"
       ],
       "Translation": [
-        "Knife Pouch"
+        "Messerbeutel"
       ],
       "Notes": [
         ""
@@ -11008,7 +11008,7 @@
         "Hawkeye Visor"
       ],
       "Translation": [
-        "Hawkeye Visor"
+        "Falkenauge-Visier"
       ],
       "Notes": [
         ""
@@ -11021,7 +11021,7 @@
         "Helpful Letter"
       ],
       "Translation": [
-        "Helpful Letter"
+        "Hilfreicher Brief"
       ],
       "Notes": [
         ""
@@ -11034,7 +11034,7 @@
         "Battle Charm"
       ],
       "Translation": [
-        "Battle Charm"
+        "Kampf-Talisman"
       ],
       "Notes": [
         ""
@@ -11047,7 +11047,7 @@
         "Analysis Goggles"
       ],
       "Translation": [
-        "Analysis Goggles"
+        "Analysebrille"
       ],
       "Notes": [
         ""
@@ -11060,7 +11060,7 @@
         "Maasai Necklace"
       ],
       "Translation": [
-        "Maasai Necklace"
+        "Maasai-Halskette"
       ],
       "Notes": [
         ""
@@ -11073,7 +11073,7 @@
         "Mr. Mole's Claw"
       ],
       "Translation": [
-        "Mr. Mole's Claw"
+        "Hr. Maulwurf's Krallen"
       ],
       "Notes": [
         ""
@@ -11086,7 +11086,7 @@
         "Senpai's Charm"
       ],
       "Translation": [
-        "Senpai's Charm"
+        "Senpai's Talisman"
       ],
       "Notes": [
         ""
